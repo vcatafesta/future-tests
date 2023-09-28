@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/beer.min.css" rel="stylesheet">
+    <script src="js/stonejs.js"></script>
+    <script>window._ = Stone.gettext;</script>
+    <script src="js/htmx.js"></script>
+    <script src="js/alpine/cdn.min.js" defer></script>
+    <script src="js/htmx.js"></script>
+    <script type="module" src="js/alpine/module.cjs.min.js" defer></script>
+    <script type="module" src="js/beer.min.js"></script>
+    <script type="module" src="js/material-dynamic-colors.min.js"></script>
+  </head>
+<body class="light">
+<!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
+
+<!-- Main container with Alpine.js data attributes -->
+<div x-data="getItems()">
+
+    <!-- Header section -->
+    <header>
+        <nav>
+            <!-- Menu button -->
+            <button class="circle transparent">
+                <i>menu</i>
+            </button>
+            
+            <!-- Search bar -->
+            <h5 class="max center-align">
+                <div class="field prefix round fill">
+                    <i class="front">search</i>
+                    <input x-model="search" placeholder="Search...">
+                </div>
+            </h5>
+        </nav>
+    </header>
+
+   <!-- Grid of items -->
+   <div class="grid no-padding center-align middle-align">
+    <!-- Looping through filtered items -->
+    <template x-for="item in displayedItems">
+        <div class="s12 m6 l3">
+            <!-- Item clickable icon and info -->
+            <a class="round vertical" x-on:click="_run(item.exec)">
+                <!-- <img :src="item.icon" class="extra"> -->
+                <div class="item-info">
+                    <span x-text="item.package"></span>
+                </div>
+                <!-- Tooltip with item's comment -->
+                <a class="tooltip bottom medium-space horizontal" x-show="item.description" x-text="item.description"></a>
+            </a>
+        </div>
+    </template>
+</div>
+
+<!-- Button to load more items -->
+<button x-show="displayedItems.length < filteredItems.length" x-on:click="loadMore" class="btn">Show More</button>
+
+    <!-- Script for Alpine.js functionality -->
+    <script>
+        function getItems() {
+            return {
+                search: '',
+                selectedCategory: '',
+                allData: [],
+                maxItems: 50,
+                init() {
+                    fetch('search_pacman_jq.sh')
+                        .then(response => response.json())
+                        .then(data => {
+                            this.allData = data;
+                        });
+
+                    // Watch for changes in the search property
+                    this.$watch('search', (newVal, oldVal) => {
+                        if (newVal !== oldVal) {
+                            this.maxItems = 50;  // Reset maxItems to 50
+                        }
+                    });
+                },
+                get filteredItems() {
+                    let items = this.allData;
+
+                    // Filter by search term
+                    if (this.search !== '') {
+                        this.selectedCategory = '';
+                        const searchTerm = removeAccents(this.search.toLowerCase());
+                        items = items.filter((item) => {
+                            return removeAccents(item.package.toLowerCase()).includes(searchTerm) ||
+                                   removeAccents(item.description.toLowerCase()).includes(searchTerm);
+                        });
+                    }
+
+                    // Sort items alphabetically
+                    items.sort((a, b) => a.package.localeCompare(b.package));
+
+                    return items;
+                },
+                get displayedItems() {
+                    return this.filteredItems.slice(0, this.maxItems);
+                },
+                loadMore() {
+                    this.maxItems += 50;
+                }
+            };
+        }
+
+        function removeAccents(str) {
+            return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        }
+    </script>
+</div>
+
+</body>
+</html>

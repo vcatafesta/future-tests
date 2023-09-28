@@ -13,93 +13,128 @@
     <script type="module" src="js/beer.min.js"></script>
     <script type="module" src="js/material-dynamic-colors.min.js"></script>
   </head>
-  <body>
-    <!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
+<body class="light">
+<!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
 
-    <div x-data="getItems()">
-      <div class="field prefix round fill">
-          <i class="front">search</i>
-          <input x-model="search" placeholder="Pesquisar...">
-      </div>
-  
-      <div class="categories">
-          <button x-on:click="setCategory('')" class="btn">All</button>
-          <button x-on:click="setCategory('Star')" class="btn">Star</button>
-          <button x-on:click="setCategory('Phone')" class="btn">Phone</button>
-          <button x-on:click="setCategory('Personalization')" class="btn">Personalization</button>
-          <button x-on:click="setCategory('Language')" class="btn">Language</button>
-          <button x-on:click="setCategory('Multimedia')" class="btn">Multimedia</button>
-          <button x-on:click="setCategory('Account')" class="btn">Account</button>
-          <button x-on:click="setCategory('Privacy')" class="btn">Privacy</button>
-          <button x-on:click="setCategory('Server')" class="btn">Server</button>
-          <button x-on:click="setCategory('Hardware')" class="btn">Hardware</button>
-          <button x-on:click="setCategory('System')" class="btn">System</button>
-          <button x-on:click="setCategory('Desenv')" class="btn">Desenv</button>
-          <button x-on:click="setCategory('Other')" class="btn">Other</button>
-          <button x-on:click="setCategory('About')" class="btn">About</button>
-      </div>
-  
-      <div class="grid no-padding center-align middle-align">
-          <template x-for="item in filteredItems">
-              <div class="s12 m6 l3">
-                  <a class="chip fill round vertical" x-on:click="_run(item.exec)">
-                      <img :src="item.icon" alt="Item icon">
-                      <div class="item-info">
-                          <span x-text="item.name"></span>
-                      </div>
-                      <a class="tooltip bottom medium-space horizontal" x-text="item.comment">teste</a>
-                  </a>
-              </div>
-          </template>
-      </div>
+<!-- Main container with Alpine.js data attributes -->
+<div x-data="getItems()">
 
-  
-      <script>
-          function getItems() {
-              return {
-                  search: '',
-                  categoria: '',
-                  allData: [],
-                  init() {
-                      fetch('loop-search-json.sh')
-                          .then(response => response.json())
-                          .then(data => {
-                              this.allData = data;
-                          });
-                  },
-                  get filteredItems() {
-                      let items = this.allData;
-                      if (this.search !== '') {
-                          const searchTerm = removeAccents(this.search.toLowerCase());
-                          items = items.filter((item) => {
-                              return removeAccents(item.name.toLowerCase()).includes(searchTerm) ||
-                                  removeAccents(item.comment.toLowerCase()).includes(searchTerm);
-                          });
-                      }
-  
-                      if (this.categoria !== '') {
-                          items = items.filter((item) => {
-                              return removeAccents(item.category.toLowerCase()) === this.categoria.toLowerCase();
-                          });
-                      }
+    <!-- Header section -->
+    <header>
+        <nav>
+            <!-- Menu button -->
+            <button class="circle transparent">
+                <i>menu</i>
+            </button>
+            
+            <!-- Search bar -->
+            <h5 class="max center-align">
+                <div class="field prefix round fill">
+                    <i class="front">search</i>
+                    <input x-model="search" placeholder="Search...">
+                </div>
+            </h5>
+        </nav>
+    </header>
 
-                      if (this.search == '' && this.categoria == '') {
-                          items = items.filter((item) => {
-                              return removeAccents(item.category.toLowerCase()) === 'star';
-                          });
-                      }
-  
-                      return items;
-                  },
-                  setCategory(cat) {
-                      this.categoria = cat;
-                  }
-              };
-          }
-  
-          function removeAccents(str) {
-              return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-          }
-      </script>
-  </div>
+    <!-- Categories navigation -->
+    <div class="categories">
+        <nav class="m l left">
+            <a x-on:click="setCategory('Star')" class="btn"><span>Star</span></a>
+            <a x-on:click="setCategory('Phone')" class="btn"><span>Phone</span></a>
+            <a x-on:click="setCategory('Personalization')" class="btn"><span>Personalization</span></a>
+            <a x-on:click="setCategory('Language')" class="btn"><span>Language</span></a>
+            <a x-on:click="setCategory('Multimedia')" class="btn"><span>Multimedia</span></a>
+            <a x-on:click="setCategory('Account')" class="btn"><span>Account</span></a>
+            <a x-on:click="setCategory('Privacy')" class="btn"><span>Privacy</span></a>
+            <a x-on:click="setCategory('Server')" class="btn"><span>Server</span></a>
+            <a x-on:click="setCategory('Hardware')" class="btn"><span>Hardware</span></a>
+            <a x-on:click="setCategory('System')" class="btn"><span>System</span></a>
+            <a x-on:click="setCategory('Desenv')" class="btn"><span>Desenv</span></a>
+            <a x-on:click="setCategory('Other')" class="btn"><span>Other</span></a>
+            <a x-on:click="setCategory('About')" class="btn"><span>About</span></a>
+        </nav>
+    </div>
+
+    <!-- Grid of items -->
+    <div class="grid no-padding center-align middle-align">
+        <!-- Looping through filtered items -->
+        <template x-for="item in filteredItems">
+            <div class="s12 m6 l3">
+                <!-- Item clickable icon and info -->
+                <a class="round vertical" x-on:click="_run(item.exec)">
+                    <img :src="item.icon" class="extra">
+                    <div class="item-info">
+                        <span x-text="item.name"></span>
+                    </div>
+                    <!-- Tooltip with item's comment -->
+                    <a class="tooltip bottom medium-space horizontal" x-show="item.comment" x-text="item.comment"></a>
+                </a>
+            </div>
+        </template>
+    </div>
+
+    <!-- Script for Alpine.js functionality -->
+    <script>
+        function getItems() {
+            return {
+                search: '',
+                selectedCategory: '',
+                allData: [],
+                // Initialize function to fetch data
+                init() {
+                    fetch('loop-search-json.sh')
+                        .then(response => response.json())
+                        .then(data => {
+                            this.allData = data;
+                        });
+                },
+                // Getter for filtered items based on search and category
+                get filteredItems() {
+                    let items = this.allData;
+
+                    // Filter by search term
+                    if (this.search !== '') {
+                        this.selectedCategory = '';
+                        const searchTerm = removeAccents(this.search.toLowerCase());
+                        items = items.filter((item) => {
+                            return removeAccents(item.name.toLowerCase()).includes(searchTerm) ||
+                                   removeAccents(item.comment.toLowerCase()).includes(searchTerm) ||
+                                   removeAccents(item.exec.toLowerCase()).includes(searchTerm);
+                        });
+                    }
+
+                    // Filter by category
+                    if (this.selectedCategory !== '') {
+                        items = items.filter((item) => {
+                            return removeAccents(item.category.toLowerCase()).includes(this.selectedCategory.toLowerCase());
+                        });
+                    }
+
+                    // Default filter to 'star' category if no search or category is set
+                    if (this.search == '' && this.selectedCategory == '') {
+                        items = items.filter((item) => {
+                            return removeAccents(item.category.toLowerCase()).includes('star');
+                        });
+                    }
+
+                    // Sort items by name
+                    items.sort((a, b) => a.name.localeCompare(b.name));
+                    return items;
+                },
+                // Function to set the category
+                setCategory(cat) {
+                    this.selectedCategory = cat;
+                    this.search = '';
+                }
+            };
+        }
+
+        // Utility function to remove accents from a string
+        function removeAccents(str) {
+            return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        }
+    </script>
+</div>
+
   

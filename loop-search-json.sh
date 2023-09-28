@@ -72,6 +72,9 @@ function sh_config {
 		[avahi-discover, ICON]="icons/icon_find-server-zeroconf.svg"
 		[avahi-discover, CATEGORY]="Server"
 		[avahi-discover, EXEC]=""
+		[big-driver-manager, CATEGORY]="Hardware Star"
+		[big-kernel-manager, NAME]=$"Instalar versões de kernel e mesa"
+		[big-kernel-manager, CATEGORY]="Hardware Star"
 		[biglinux-config, NAME]=$"Restaurar a configuração de programas"
 		[biglinux-config, COMMENT]="biglinux-config"
 		[biglinux-config, ICON]="icons/icon-restaurar-configuracoes.svg"
@@ -87,6 +90,9 @@ function sh_config {
 		[biglinux-themes-gui, ICON]="icons/icon-aparencia-desempenho-usabilidade.svg"
 		[biglinux-themes-gui, CATEGORY]="Personalization"
 		[biglinux-themes-gui, EXEC]=""
+		[bigtts, NAME]=$"Configurar a voz do sistema (TTS)"
+		[bigtts, COMMENT]=$"Selecione o texto desejado e utilize o atalho com a tecla [Meta] + V ou o ícone no menu do sistema para que textos escritos sejam falados."
+		[bigtts, EXEC]="tts-config"
 		[big-store, NAME]=$""
 		[big-store, COMMENT]=$"Instalar ou remover programas."
 		[big-store, ICON]="icons/icon-big-store.svg"
@@ -297,10 +303,10 @@ function sh_config {
 		[kcm_keyboard, ICON]=""
 		[kcm_keyboard, CATEGORY]="Hardware"
 		[kcm_keyboard, EXEC]="kcmshell5 msm_keyboard keyboard keys standard_actions khotkeys"
-		[kcm_kscreen, NAME]=$""
-		[kcm_kscreen, COMMENT]=$""
+		[kcm_kscreen, NAME]=$"Monitores e Telas"
+		[kcm_kscreen, COMMENT]=$"Configurar resolução, cor, frequência, dpi, escala, cor noturna, etc."
 		[kcm_kscreen, ICON]=""
-		[kcm_kscreen, CATEGORY]="Hardware"
+		[kcm_kscreen, CATEGORY]="Star Hardware"
 		[kcm_kscreen, EXEC]="kcmshell5 kcm_kscreen kcm_nightcolor kgamma kwintouchscreen kwinscreenedges"
 		[kcm_kwindecoration, NAME]=$""
 		[kcm_kwindecoration, COMMENT]=$""
@@ -412,6 +418,9 @@ function sh_config {
 		[kcm_trash, ICON]="icons/user-trash.svg"
 		[kcm_trash, CATEGORY]="System"
 		[kcm_trash, EXEC]=""
+		[kcm_users, NAME]=$"Adicionar ou Remover Usuários"
+		[kcm_users, COMMENT]=$"Adiciona, remove ou edita usuários."
+		[kcm_users, CATEGORY]="Account Star"
 		[kcm_wacomtablet, NAME]=$""
 		[kcm_wacomtablet, COMMENT]=$""
 		[kcm_wacomtablet, ICON]=""
@@ -537,6 +546,9 @@ function sh_config {
 		[systemsettings, ICON]="icons/systemsettings.svg"
 		[systemsettings, CATEGORY]="System"
 		[systemsettings, EXEC]="systemsettings"
+		[timeshift-gtk, NAME]=$"Snapshots e backups"
+		[timeshift-gtk, COMMENT]=$"Crie e restaure backups do sistema."
+		[timeshift-gtk, CATEGORY]="System Star"
 		[tlpui, NAME]=$"Configurador avançado de energia"
 		[tlpui, COMMENT]=$""
 		[tlpui, ICON]=""
@@ -619,9 +631,7 @@ function sh_kservices5_desktop_files {
 			-ve 'kcmkonqyperformance.desktop' \
 			-ve 'bookmarks.desktop' \
 			-ve 'msm_user.desktop' \
-			-ve 'kcm_kscreen.desktop' \
 			-ve 'kcm_feedback.desktop' \
-			-ve 'kcm_users.desktop' \
 			-ve 'msm_kernel.desktop' \
 			-ve 'kcm_kdisplay.desktop' \
 			-ve 'msm_keyboard.desktop' \
@@ -702,9 +712,7 @@ function sh_apps_desktop_files {
 		'kcmkonqyperformance.desktop'
 		'bookmarks.desktop'
 		'msm_user.desktop'
-		'kcm_kscreen.desktop'
 		'kcm_feedback.desktop'
-		'kcm_users.desktop'
 		'msm_kernel.desktop'
 		'kcm_kdisplay.desktop'
 		'msm_keyboard.desktop'
@@ -742,7 +750,6 @@ function sh_bcc_desktop_files {
 	local -a filtered_files
 	# Array com os arquivos a serem excluídos
 	local excluded_files=(
-		'timeshift-gtk.desktop'
 		'cups.desktop'
 		'htop.desktop'
 		'msm_kde_notifier_settings.desktop'
@@ -764,6 +771,10 @@ function sh_bcc_desktop_files {
 function sh_static_desktop_files {
 	local -a filtered_files=(
 		'/usr/share/applications/big-store.desktop'
+		'/usr/share/applications/big-driver-manager.desktop'
+		'/usr/share/applications/bigtts.desktop'
+		'/usr/share/applications/big-kernel-manager.desktop'
+		'/usr/share/applications/big-hardware-info.desktop'
 		'/usr/share/applications/bigcontrolcenter/pavucontrol-qt.desktop'
 		'/usr/share/applications/org.manjaro.pamac.manager.desktop'
 		'/usr/share/kservices5/bigcontrolcenter/cmake-gui.desktop'

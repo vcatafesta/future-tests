@@ -51,7 +51,7 @@
             <a x-on:click="setCategory('Hardware')" class="btn"><span>Hardware</span></a>
             <a x-on:click="setCategory('System')" class="btn"><span>System</span></a>
             <a x-on:click="setCategory('Desenv')" class="btn"><span>Desenv</span></a>
-            <a x-on:click="setCategory('Other')" class="btn"><span>Other</span></a>
+            <a x-on:click="selectCategory('Other')" x-show="hasItemsForCategory('Other')" class="btn"><span>Other</span></a>
             <a x-on:click="setCategory('About')" class="btn"><span>About</span></a>
         </nav>
     </div>
@@ -126,6 +126,9 @@
                 setCategory(cat) {
                     this.selectedCategory = cat;
                     this.search = '';
+                },
+                hasItemsForCategory(cat) {
+                    return this.allData.some(item => removeAccents(item.category.toLowerCase()) === removeAccents(cat.toLowerCase()));
                 }
             };
         }
@@ -136,5 +139,5 @@
         }
     </script>
 </div>
-
-  
+</body>
+</html>

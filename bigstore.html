@@ -31,7 +31,12 @@
             <h5 class="max center-align">
                 <div class="field prefix round fill">
                     <i class="front">search</i>
-                    <input x-model="search" placeholder="Search...">
+                    <!-- Aqui adicionamos o x-on:keyup para detectar o Enter e uma referência x-ref para o campo -->
+                    <input x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
+                    <!-- Botão de confirmação de busca -->
+                    <a x-on:click="performSearch" class="circle transparent">
+                        <i>keyboard_return</i>
+                    </a>
                 </div>
             </h5>
         </nav>
@@ -53,10 +58,10 @@
             </a>
         </div>
     </template>
-</div>
+   </div>
 
-<!-- Button to load more items -->
-<button x-show="displayedItems.length < filteredItems.length" x-on:click="loadMore" class="btn">Show More</button>
+   <!-- Button to load more items -->
+   <button x-show="displayedItems.length < filteredItems.length" x-on:click="loadMore" class="btn">Show More</button>
 
     <!-- Script for Alpine.js functionality -->
     <script>
@@ -72,13 +77,9 @@
                         .then(data => {
                             this.allData = data;
                         });
-
-                    // Watch for changes in the search property
-                    this.$watch('search', (newVal, oldVal) => {
-                        if (newVal !== oldVal) {
-                            this.maxItems = 50;  // Reset maxItems to 50
-                        }
-                    });
+                },
+                performSearch() {
+                    this.search = this.$refs.searchInput.value; // Atualiza a propriedade search com o valor atual do campo
                 },
                 get filteredItems() {
                     let items = this.allData;

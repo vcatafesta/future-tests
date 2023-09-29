@@ -127,6 +127,7 @@
                     this.selectedCategory = cat;
                     this.search = '';
                 },
+                // Function to check if there are items for a category
                 hasItemsForCategory(cat) {
                     return this.allData.some(item => removeAccents(item.category.toLowerCase()) === removeAccents(cat.toLowerCase()));
                 }

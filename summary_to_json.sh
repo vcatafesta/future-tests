@@ -13,16 +13,16 @@ for app in $BASE_DIR*/; do
     app_name="${appname_tmp##*/}"
     
     # Verifique se os arquivos desc e summary existem
-    if [[ -f "${app}pt_BR/desc" && -f "${app}pt_BR/summary" ]]; then
+    if [[ -f "$app/pt_BR/desc" && -f "$app/pt_BR/summary" ]]; then
         # Use expansão de parâmetros para ler o conteúdo dos arquivos
-#         desc_content=$(<"${app}pt_BR/desc")
-        summary_content=$(<"${app}pt_BR/summary")
-        
+        summary=$(echo "$(<"$app/pt_BR/summary")" | jq --raw-input --slurp '.')
         # Use jq para atualizar o arquivo JSON
         jq --arg app_name "$app_name" \
-           --arg summary_content "$summary_content" \
-           '.[$app_name] = {"summary": $summary_content}' \
-           tmp.json >> summary_apps_pt_BR.json
+           --argjson summary "$summary" \
+           '. + { ($app_name): {"summary": $summary} }' \
+           tmp.json > tmp_new.json && mv tmp_new.json tmp.json
     fi
 done
- 
+
+# Renomeie tmp.json para o nome do arquivo final
+mv tmp.json summary_apps_pt_BR.json

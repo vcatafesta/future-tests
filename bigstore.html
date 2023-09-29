@@ -31,9 +31,7 @@
             <h5 class="max center-align">
                 <div class="field prefix round fill">
                     <i class="front">search</i>
-                    <!-- Aqui adicionamos o x-on:keyup para detectar o Enter e uma referência x-ref para o campo -->
                     <input x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
-                    <!-- Botão de confirmação de busca -->
                     <a x-on:click="performSearch" class="circle transparent">
                         <i>keyboard_return</i>
                     </a>
@@ -44,26 +42,21 @@
 
    <!-- Grid of items -->
    <div class="grid no-padding center-align middle-align">
-    <!-- Looping through filtered items -->
     <template x-for="item in displayedItems">
         <div class="s12 m6 l3">
-            <!-- Item clickable icon and info -->
             <a class="round vertical" x-on:click="_run(item.exec)">
-                <!-- <img :src="item.icon" class="extra"> -->
                 <div class="item-info">
-                    <span x-text="item.package"></span>
+                    <span x-text="item.package"></span><br>
+                    <span x-text="item.description"></span>
                 </div>
-                <!-- Tooltip with item's comment -->
                 <a class="tooltip bottom medium-space horizontal" x-show="item.description" x-text="item.description"></a>
             </a>
         </div>
     </template>
    </div>
 
-   <!-- Button to load more items -->
    <button x-show="displayedItems.length < filteredItems.length" x-on:click="loadMore" class="btn">Show More</button>
 
-    <!-- Script for Alpine.js functionality -->
     <script>
         function getItems() {
             return {
@@ -71,20 +64,29 @@
                 selectedCategory: '',
                 allData: [],
                 maxItems: 50,
+                translatedDescriptions: {},
                 init() {
-                    fetch('search_pacman_jq.sh')
+                    fetch('summary_apps_pt_BR.json')
                         .then(response => response.json())
                         .then(data => {
+                            this.translatedDescriptions = data;
+                            return fetch('search_pacman_jq.sh');
+                        })
+                        .then(response => response.json())
+                        .then(data => {
+                            data.forEach(item => {
+                                if (this.translatedDescriptions[item.package]) {
+                                    item.description = this.translatedDescriptions[item.package].summary;
+                                }
+                            });
                             this.allData = data;
                         });
                 },
                 performSearch() {
-                    this.search = this.$refs.searchInput.value; // Atualiza a propriedade search com o valor atual do campo
+                    this.search = this.$refs.searchInput.value;
                 },
                 get filteredItems() {
                     let items = this.allData;
-
-                    // Filter by search term
                     if (this.search !== '') {
                         this.selectedCategory = '';
                         const searchTerm = removeAccents(this.search.toLowerCase());
@@ -93,10 +95,7 @@
                                    removeAccents(item.description.toLowerCase()).includes(searchTerm);
                         });
                     }
-
-                    // Sort items alphabetically
                     items.sort((a, b) => a.package.localeCompare(b.package));
-
                     return items;
                 },
                 get displayedItems() {
@@ -114,5 +113,3 @@
     </script>
 </div>
 
-</body>
-</html>

@@ -96,13 +96,17 @@
                     // Filter by search term
                     if (this.search !== '') {
                         this.selectedCategory = '';
-                        const searchTerm = removeAccents(this.search.toLowerCase());
+                        const searchWords = removeAccents(this.search.toLowerCase()).split(/\s+/);  // Divide a string de busca em palavras
+
                         items = items.filter((item) => {
-                            return removeAccents(item.name.toLowerCase()).includes(searchTerm) ||
-                                   removeAccents(item.comment.toLowerCase()).includes(searchTerm) ||
-                                   removeAccents(item.exec.toLowerCase()).includes(searchTerm);
+                            return searchWords.every(word => {
+                                return removeAccents(item.name.toLowerCase()).includes(word) ||
+                                    removeAccents(item.comment.toLowerCase()).includes(word) ||
+                                    removeAccents(item.exec.toLowerCase()).includes(word);
+                            });
                         });
                     }
+
 
                     // Filter by category
                     if (this.selectedCategory !== '') {

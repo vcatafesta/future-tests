@@ -89,15 +89,17 @@
                     let items = this.allData;
                     if (this.search !== '') {
                         this.selectedCategory = '';
-                        const searchTerm = removeAccents(this.search.toLowerCase());
+                        const searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/);
                         items = items.filter((item) => {
-                            return removeAccents(item.package.toLowerCase()).includes(searchTerm) ||
-                                   removeAccents(item.description.toLowerCase()).includes(searchTerm);
+                            const itemPackage = removeAccents(item.package.toLowerCase());
+                            const itemDescription = removeAccents(item.description.toLowerCase());
+                            return searchTerms.every(term => itemPackage.includes(term) || itemDescription.includes(term));
                         });
                     }
                     items.sort((a, b) => a.package.localeCompare(b.package));
                     return items;
                 },
+
                 get displayedItems() {
                     return this.filteredItems.slice(0, this.maxItems);
                 },

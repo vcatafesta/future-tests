@@ -77,7 +77,8 @@
             };
             let lastFilteredResults = [];
             let searchTerms = [];
-            
+            let aurInstalledPackages = {};  // Mapa de pacotes AUR instalados
+    
             return {
                 search: '',
                 pacmanData: [],
@@ -87,7 +88,7 @@
                 translatedDescriptions: {},
                 searchPacman: true,
                 searchAUR: true,
-
+    
                 init() {
                     fetch('summary_apps_pt_BR.json')
                         .then(response => response.json())
@@ -98,7 +99,6 @@
                         .then(response => response.json())
                         .then(data => {
                             const dataArray = Object.values(data);
-
                             dataArray.forEach(item => {
                                 if (this.translatedDescriptions[item.package]) {
                                     item.description = this.translatedDescriptions[item.package].summary;
@@ -108,46 +108,44 @@
                                 item.searchPackage = item.package && typeof item.package === 'string' ? removeAccents(item.package.toLowerCase()) : '';
                                 item.searchDescription = item.description && typeof item.description === 'string' ? removeAccents(item.description.toLowerCase()) : '';
                             });
-
                             this.pacmanData = dataArray;
-
-                            // Converta o array pacmanData em um mapa para acesso mais rápido
                             const pacmanMap = {};
                             dataArray.forEach(item => {
                                 pacmanMap[item.package] = item;
                             });
                             this.pacmanDataMap = pacmanMap;
-
                             return fetch('aur_filtered.json');
                         })
                         .then(response => response.json())
                         .then(aurData => {
                             const dataArray = [];
-
-                            // Agora, vamos iterar sobre as chaves do aurData para pegar o nome do pacote
                             for (let packageName in aurData) {
                                 let item = aurData[packageName];
-                                item.package = packageName; // Atribua o nome do pacote
+                                item.package = packageName;
                                 item.description = item.Description || '';
-
-                                // Verifique a descrição traduzida
                                 if (this.translatedDescriptions[packageName]) {
                                     item.description = this.translatedDescriptions[packageName].summary;
                                 }
-
                                 item.source = 'aur';
-
-                                // Verifique se o pacote está instalado
-                                let foundPkg = this.pacmanDataMap[packageName];
-                                item.installed = foundPkg ? foundPkg.installed : false;
-
                                 item.searchPackage = item.package && typeof item.package === 'string' ? removeAccents(item.package.toLowerCase()) : '';
                                 item.searchDescription = item.description && typeof item.description === 'string' ? removeAccents(item.description.toLowerCase()) : '';
-
-                                dataArray.push(item); // Adicione o item processado ao array
+                                dataArray.push(item);
                             }
-
                             this.aurData = dataArray;
+                            return fetch('aur_list_installed_jq.sh');  // Fetch do arquivo com pacotes AUR instalados
+                        })
+                        .then(response => response.json())
+                        .then(installedAurData => {
+                            aurInstalledPackages = installedAurData;
+                            this.aurData.forEach(item => {
+                                if (aurInstalledPackages[item.package]) {
+                                    item.installed = true;
+                                    item.installedVersion = aurInstalledPackages[item.package].version;
+                                } else {
+                                    item.installed = false;
+                                    item.installedVersion = "";
+                                }
+                            });
                         })
                         .catch(error => {
                             console.error("Error during data fetching or processing:", error);
@@ -156,9 +154,7 @@
     
                 performSearch() {
                     this.search = this.$refs.searchInput.value;
-                    // Split search terms once
                     searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/);
-                    // Reset memoized results
                     lastSearchState = {
                         search: '',
                         searchPacman: false,
@@ -169,12 +165,10 @@
     
                 filterData(data) {
                     if (this.search === '') {
-                        return data; // Return the original data if there's no search term
+                        return data;
                     }
-                    
                     const matchPackage = [];
                     const matchDescription = [];
-                    
                     data.forEach(item => {
                         if (searchTerms.every(term => item.searchPackage.includes(term))) {
                             matchPackage.push(item);
@@ -182,7 +176,6 @@
                             matchDescription.push(item);
                         }
                     });
-    
                     return [...matchPackage, ...matchDescription];
                 },
     
@@ -192,19 +185,15 @@
                         this.searchAUR === lastSearchState.searchAUR) {
                         return lastFilteredResults;
                     }
-    
                     let results = [];
                     if (this.searchPacman) results = results.concat(this.filterData(this.pacmanData));
                     if (this.searchAUR) results = results.concat(this.filterData(this.aurData));
-    
-                    // Update the memoized state
                     lastSearchState = {
                         search: this.search,
                         searchPacman: this.searchPacman,
                         searchAUR: this.searchAUR
                     };
                     lastFilteredResults = results;
-    
                     return results;
                 },
     
@@ -222,4 +211,5 @@
             return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         }
     </script>
+    
 </div>

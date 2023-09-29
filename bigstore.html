@@ -16,7 +16,6 @@
 <body class="light">
 <!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
 
-<!-- Main container with Alpine.js data attributes -->
 <div x-data="getItems()">
 
     <!-- Header section -->
@@ -29,6 +28,18 @@
             
             <!-- Search bar -->
             <h5 class="max center-align">
+                <!-- Switches for search sources -->
+                <div>
+                    <label>
+                        <input type="checkbox" x-model="searchPacman">
+                        Pacman
+                    </label>
+                    <label>
+                        <input type="checkbox" x-model="searchAUR">
+                        AUR
+                    </label>
+                </div>
+                
                 <div class="field prefix round fill">
                     <i class="front">search</i>
                     <input x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
@@ -40,31 +51,43 @@
         </nav>
     </header>
 
-   <!-- Grid of items -->
-   <div class="grid no-padding center-align middle-align">
-    <template x-for="item in displayedItems">
-        <div class="s12 m6 l3">
-            <a class="round vertical" x-on:click="_run(item.exec)">
-                <div class="item-info">
-                    <span x-text="item.package"></span><br>
-                    <span x-text="item.description"></span>
-                </div>
-                <a class="tooltip bottom medium-space horizontal" x-show="item.description" x-text="item.description"></a>
-            </a>
-        </div>
-    </template>
-   </div>
+    <!-- Grid of items -->
+    <div class="grid no-padding center-align middle-align">
+        <template x-for="item in displayedItems">
+            <div class="s12 m6 l3">
+                <a class="round vertical" x-on:click="_run(item.exec)">
+                    <div class="item-info">
+                        <span x-text="item.package"></span><br>
+                        <span x-text="item.description"></span><br>
+                        Instalado: <span x-text="item.installed"></span>
+                    </div>
+                    <a class="tooltip bottom medium-space horizontal" x-show="item.description" x-text="item.description"></a>
+                </a>
+            </div>
+        </template>
+    </div>
 
-   <button x-show="displayedItems.length < filteredItems.length" x-on:click="loadMore" class="btn">Show More</button>
+    <button x-show="displayedItems.length < filteredItems.length" x-on:click="loadMore" class="btn">Show More</button>
 
     <script>
         function getItems() {
+            let lastSearchState = {
+                search: '',
+                searchPacman: false,
+                searchAUR: false
+            };
+            let lastFilteredResults = [];
+            let searchTerms = [];
+    
             return {
                 search: '',
-                selectedCategory: '',
-                allData: [],
+                pacmanData: [],
+                aurData: [],
                 maxItems: 50,
                 translatedDescriptions: {},
+                searchPacman: true,
+                searchAUR: true,
+        
                 init() {
                     fetch('summary_apps_pt_BR.json')
                         .then(response => response.json())
@@ -78,40 +101,97 @@
                                 if (this.translatedDescriptions[item.package]) {
                                     item.description = this.translatedDescriptions[item.package].summary;
                                 }
+                                item.source = 'pacman';
+                                item.searchPackage = item.package && typeof item.package === 'string' ? removeAccents(item.package.toLowerCase()) : '';
+                                item.searchDescription = item.description && typeof item.description === 'string' ? removeAccents(item.description.toLowerCase()) : '';
                             });
-                            this.allData = data;
+                            this.pacmanData = data;
+                            return fetch('aur_filtered.json');
+                        })
+                        .then(response => response.json())
+                        .then(aurData => {
+                            aurData.forEach(item => {
+                                item.package = item.Name;
+                                item.description = item.Description;
+                                if (this.translatedDescriptions[item.package]) {
+                                    item.description = this.translatedDescriptions[item.package].summary;
+                                }
+                                item.source = 'aur';
+                                item.searchPackage = item.package && typeof item.package === 'string' ? removeAccents(item.package.toLowerCase()) : '';
+                                item.searchDescription = item.description && typeof item.description === 'string' ? removeAccents(item.description.toLowerCase()) : '';
+                            });
+                            this.aurData = aurData;
+                        })
+                        .catch(error => {
+                            console.error("Error during data fetching or processing:", error);
                         });
                 },
+    
                 performSearch() {
                     this.search = this.$refs.searchInput.value;
+                    // Split search terms once
+                    searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/);
+                    // Reset memoized results
+                    lastSearchState = {
+                        search: '',
+                        searchPacman: false,
+                        searchAUR: false
+                    };
+                    lastFilteredResults = [];
                 },
-                get filteredItems() {
-                    let items = this.allData;
-                    if (this.search !== '') {
-                        this.selectedCategory = '';
-                        const searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/);
-                        items = items.filter((item) => {
-                            const itemPackage = removeAccents(item.package.toLowerCase());
-                            const itemDescription = removeAccents(item.description.toLowerCase());
-                            return searchTerms.every(term => itemPackage.includes(term) || itemDescription.includes(term));
-                        });
+    
+                filterData(data) {
+                    if (this.search === '') {
+                        return data; // Return the original data if there's no search term
                     }
-                    items.sort((a, b) => a.package.localeCompare(b.package));
-                    return items;
+                    
+                    const matchPackage = [];
+                    const matchDescription = [];
+                    
+                    data.forEach(item => {
+                        if (searchTerms.every(term => item.searchPackage.includes(term))) {
+                            matchPackage.push(item);
+                        } else if (searchTerms.every(term => item.searchDescription.includes(term))) {
+                            matchDescription.push(item);
+                        }
+                    });
+    
+                    return [...matchPackage, ...matchDescription];
                 },
-
+    
+                get filteredItems() {
+                    if (this.search === lastSearchState.search && 
+                        this.searchPacman === lastSearchState.searchPacman && 
+                        this.searchAUR === lastSearchState.searchAUR) {
+                        return lastFilteredResults;
+                    }
+    
+                    let results = [];
+                    if (this.searchPacman) results = results.concat(this.filterData(this.pacmanData));
+                    if (this.searchAUR) results = results.concat(this.filterData(this.aurData));
+    
+                    // Update the memoized state
+                    lastSearchState = {
+                        search: this.search,
+                        searchPacman: this.searchPacman,
+                        searchAUR: this.searchAUR
+                    };
+                    lastFilteredResults = results;
+    
+                    return results;
+                },
+    
                 get displayedItems() {
                     return this.filteredItems.slice(0, this.maxItems);
                 },
+    
                 loadMore() {
                     this.maxItems += 50;
                 }
             };
         }
-
+    
         function removeAccents(str) {
             return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         }
     </script>
-</div>
-

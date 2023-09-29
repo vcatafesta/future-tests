@@ -23,7 +23,7 @@
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # Use pacman to search for 'firefox' related packages
-pacman -Ss $* | 
+LANG=C pacman -Ss $* | 
 
 # Use jq to parse and structure the output
 jq -Rs '

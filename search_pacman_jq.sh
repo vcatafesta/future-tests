@@ -22,42 +22,44 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# Use pacman to search for 'firefox' related packages
 LANG=C pacman -Ss $* | 
 
 # Use jq to parse and structure the output
-jq -Rs '
-  # Split the input by newline, filter out empty lines, and then reduce it
-  reduce (split("\n") | .[] | select(. != "")) as $line ([]; 
+jq -Rn '
+  # Initialize state variables
+  reduce inputs as $line ({output: {}, current_package: null};
 
     # Check if the line starts with spaces (typically descriptions in pacman output)
     if ($line | startswith("    "))
     then
-      # If there are already items in the result array
-      if (length > 0)
+      # If there is a current package
+      if (.current_package)
       then 
-        # Add the description to the last package in the result array
-        .[-1].description = ($line | ltrimstr("    "))
+        # Add the description to the current package
+        .output[.current_package].description = ($line | ltrimstr("    "))
       else 
         .
       end
     else
-      # Construct the package info object
+      # Construct the package info
       {
-        "repository": ($line | split("/")[0]),                                       # Extract the repository name
-        "package": ($line | split("/")[1] | split(" ")[0]),                           # Extract the package name
-        "version": ($line | split(" ")[1] | split("-")[0]),                           # Extract the version
-        "group": (if $line | contains("(") and contains(")")                          # Extract the group if available
-                 then ($line | split(" ")[2] | split("(")[1] | split(")")[0]) 
-                 else null end),
-        "installed": ($line | contains("[installed") | tostring),                      # Check if the package is installed
-        "installed_version": (if $line | contains("[installed: ")                     # Extract the installed version if available
-                             then ($line | split("[installed: ")[1] | split("]")[0])
-                             else null end)
-      } as $package_info | 
+        repository: ($line | split("/")[0]),          
+        package: ($line | split("/")[1] | split(" ")[0]),        
+        version: ($line | split(" ")[1] | split("-")[0]),          
+        group: (if $line | contains("(") and contains(")")  
+               then ($line | split(" ")[2] | split("(")[1] | split(")")[0]) 
+               else null end),
+        installed: ($line | contains("[installed") | tostring),             
+        installed_version: (if $line | contains("[installed: ")               
+                           then ($line | split("[installed: ")[1] | split("]")[0])
+                           else null end)
+      } as $package_info |
 
-      # Append the package info to the result array
-      . + [$package_info]
+      # Set the current package name
+      .current_package = $package_info.package |
+      
+      # Add the package info to the output
+      .output[$package_info.package] = $package_info
     end
-  )
+  ) | .output
 '

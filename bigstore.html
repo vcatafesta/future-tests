@@ -8,7 +8,6 @@
     <script>window._ = Stone.gettext;</script>
     <script src="js/htmx.js"></script>
     <script src="js/alpine/cdn.min.js" defer></script>
-    <script src="js/htmx.js"></script>
     <script type="module" src="js/alpine/module.cjs.min.js" defer></script>
     <script type="module" src="js/beer.min.js"></script>
     <script type="module" src="js/material-dynamic-colors.min.js"></script>
@@ -78,16 +77,17 @@
             };
             let lastFilteredResults = [];
             let searchTerms = [];
-    
+            
             return {
                 search: '',
                 pacmanData: [],
+                pacmanDataMap: {},  // Adicionado para otimização
                 aurData: [],
                 maxItems: 50,
                 translatedDescriptions: {},
                 searchPacman: true,
                 searchAUR: true,
-        
+
                 init() {
                     fetch('summary_apps_pt_BR.json')
                         .then(response => response.json())
@@ -97,30 +97,57 @@
                         })
                         .then(response => response.json())
                         .then(data => {
-                            data.forEach(item => {
+                            const dataArray = Object.values(data);
+
+                            dataArray.forEach(item => {
                                 if (this.translatedDescriptions[item.package]) {
                                     item.description = this.translatedDescriptions[item.package].summary;
                                 }
                                 item.source = 'pacman';
+                                item.installed = item.installed === "true"; // Convertendo string para boolean
                                 item.searchPackage = item.package && typeof item.package === 'string' ? removeAccents(item.package.toLowerCase()) : '';
                                 item.searchDescription = item.description && typeof item.description === 'string' ? removeAccents(item.description.toLowerCase()) : '';
                             });
-                            this.pacmanData = data;
+
+                            this.pacmanData = dataArray;
+
+                            // Converta o array pacmanData em um mapa para acesso mais rápido
+                            const pacmanMap = {};
+                            dataArray.forEach(item => {
+                                pacmanMap[item.package] = item;
+                            });
+                            this.pacmanDataMap = pacmanMap;
+
                             return fetch('aur_filtered.json');
                         })
                         .then(response => response.json())
                         .then(aurData => {
-                            aurData.forEach(item => {
-                                item.package = item.Name;
-                                item.description = item.Description;
-                                if (this.translatedDescriptions[item.package]) {
-                                    item.description = this.translatedDescriptions[item.package].summary;
+                            const dataArray = [];
+
+                            // Agora, vamos iterar sobre as chaves do aurData para pegar o nome do pacote
+                            for (let packageName in aurData) {
+                                let item = aurData[packageName];
+                                item.package = packageName; // Atribua o nome do pacote
+                                item.description = item.Description || '';
+
+                                // Verifique a descrição traduzida
+                                if (this.translatedDescriptions[packageName]) {
+                                    item.description = this.translatedDescriptions[packageName].summary;
                                 }
+
                                 item.source = 'aur';
+
+                                // Verifique se o pacote está instalado
+                                let foundPkg = this.pacmanDataMap[packageName];
+                                item.installed = foundPkg ? foundPkg.installed : false;
+
                                 item.searchPackage = item.package && typeof item.package === 'string' ? removeAccents(item.package.toLowerCase()) : '';
                                 item.searchDescription = item.description && typeof item.description === 'string' ? removeAccents(item.description.toLowerCase()) : '';
-                            });
-                            this.aurData = aurData;
+
+                                dataArray.push(item); // Adicione o item processado ao array
+                            }
+
+                            this.aurData = dataArray;
                         })
                         .catch(error => {
                             console.error("Error during data fetching or processing:", error);
@@ -195,3 +222,4 @@
             return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         }
     </script>
+</div>

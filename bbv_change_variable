@@ -1,0 +1,94 @@
+#!/bin/bash
+
+showHelp() {
+    echo "-----------------------------------------------------------"
+    echo "|           Variable Editor Script                        |"
+    echo "-----------------------------------------------------------"
+    echo "| Usage:                                                  |"
+    echo "| $0 add <filePath> <variableName> <valueToModify>        |"
+    echo "| $0 remove <filePath> <variableName> <keyToRemove>       |"
+    echo "| $0 show <filePath> <variableName>                       |"
+    echo "| $0 help                                                 |"
+    echo "-----------------------------------------------------------"
+    echo "| Operations:                                             |"
+    echo "| add:     Add or update a key and its value              |"
+    echo "| remove:  Remove a key (and its value if present)        |"
+    echo "| show:    Display current keys and values one per line   |"
+    echo "| help:    Show this help message                         |"
+    echo "-----------------------------------------------------------"
+    echo "| Examples using /etc/default/grub:                       |"
+    echo "| $0 add /etc/default/grub GRUB_CMDLINE_LINUX_DEFAULT \"quiet splash\"  |"
+    echo "| $0 remove /etc/default/grub GRUB_CMDLINE_LINUX_DEFAULT \"quiet\"      |"
+    echo "| $0 show /etc/default/grub GRUB_CMDLINE_LINUX_DEFAULT                 |"
+    echo "-----------------------------------------------------------"
+}
+
+extractMainKey() {
+    local str="$1"
+    local mainKey="$str"
+    
+    if [[ "$str" =~ ":" ]]; then
+        mainKey="${str%%:*}"
+    elif [[ "$str" =~ "=" ]]; then
+        mainKey="${str%%=*}"
+    fi
+    echo "$mainKey"
+}
+
+keyExistsInArray() {
+    local fullKey="$1"
+    local mainKey="$(extractMainKey "$fullKey")"
+    
+    for item in "${currentValueArray[@]}"; do
+        if [[ "$(extractMainKey "$item")" == "$mainKey" ]]; then
+            echo "yes"
+            return
+        fi
+    done
+    echo "no"
+}
+
+operation="$1"
+filePath="$2"
+variableName="$3"
+modification="$4"
+
+line=$(grep "^$variableName=" "$filePath")
+currentValue="${line#*=}"
+currentValue="${currentValue%\"}"
+currentValue="${currentValue#\"}"
+IFS=' ' read -ra currentValueArray <<< "$currentValue"
+
+if [[ "$operation" == "show" ]]; then
+    for value in "${currentValueArray[@]}"; do
+        echo "$value"
+    done
+    exit 0
+fi
+
+if [[ "$operation" == "add" ]]; then
+    if [[ $(keyExistsInArray "$modification") == "no" ]]; then
+        currentValueArray+=("$modification")
+    else
+        mainKey="$(extractMainKey "$modification")"
+        for index in "${!currentValueArray[@]}"; do
+            if [[ "$(extractMainKey "${currentValueArray[$index]}")" == "$mainKey" ]]; then
+                currentValueArray[$index]="$modification"
+                break
+            fi
+        done
+    fi
+fi
+
+if [[ "$operation" == "remove" ]]; then
+    mainKey="$(extractMainKey "$modification")"
+    for index in "${!currentValueArray[@]}"; do
+        if [[ "$(extractMainKey "${currentValueArray[$index]}")" == "$mainKey" ]]; then
+            unset currentValueArray[$index]
+            break
+        fi
+    done
+fi
+
+updatedValue="${currentValueArray[*]}"
+sed -i "/^$variableName=/c\\$variableName=\"$updatedValue\"" "$filePath"

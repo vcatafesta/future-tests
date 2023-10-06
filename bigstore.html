@@ -58,7 +58,9 @@
                     <div class="item-info">
                         <span x-text="item.package"></span><br>
                         <span x-text="item.description"></span><br>
-                        Instalado: <span x-text="item.installed"></span>
+                        Instalado: <span x-text="item.installed"></span> <span x-text="item.installed_version"></span><br>
+                        Versão do repositório: <span x-text="item.version"></span>
+
                     </div>
                     <a class="tooltip bottom medium-space horizontal" x-show="item.description" x-text="item.description"></a>
                 </a>
@@ -122,7 +124,7 @@
                             for (let packageName in aurData) {
                                 let item = aurData[packageName];
                                 item.package = packageName;
-                                item.description = item.Description || '';
+                                item.description = item.description || '';
                                 if (this.translatedDescriptions[packageName]) {
                                     item.description = this.translatedDescriptions[packageName].summary;
                                 }
@@ -140,10 +142,10 @@
                             this.aurData.forEach(item => {
                                 if (aurInstalledPackages[item.package]) {
                                     item.installed = true;
-                                    item.installedVersion = aurInstalledPackages[item.package].version;
+                                    item.installed_version = aurInstalledPackages[item.package].version;
                                 } else {
                                     item.installed = false;
-                                    item.installedVersion = "";
+                                    item.installed_version = "";
                                 }
                             });
                         })

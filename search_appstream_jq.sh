@@ -22,17 +22,29 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-LANGUAGE=C appstreamcli search $* |  jq -Rs '
-  split("---\n") | 
-  map(select(. | contains("Package:"))) |
-  map(split("\n") | 
-      map(select(length > 0)) | 
-      reduce .[] as $item ({}; 
-          {
-              "Name": (if $item | startswith("Name:") then $item | sub("Name: "; "") else .Name end),
-              "Summary": (if $item | startswith("Summary:") then $item | sub("Summary: "; "") else .Summary end),
-              "Package": (if $item | startswith("Package:") then $item | sub("Package: "; "") else .Package end),
-              "Icon": (if $item | startswith("Icon:") then $item | sub("Icon: "; "") else .Icon end)
-          }
-      )
-  )'
+# LANGUAGE=C appstreamcli search $* |  jq -Rs '
+#   split("---\n") | 
+#   map(select(. | contains("Package:"))) |
+#   map(split("\n") | 
+#       map(select(length > 0)) | 
+#       reduce .[] as $item ({}; 
+#           {
+#               "Name": (if $item | startswith("Name:") then $item | sub("Name: "; "") else .Name end),
+#               "Summary": (if $item | startswith("Summary:") then $item | sub("Summary: "; "") else .Summary end),
+#               "Package": (if $item | startswith("Package:") then $item | sub("Package: "; "") else .Package end),
+#               "Icon": (if $item | startswith("Icon:") then $item | sub("Icon: "; "") else .Icon end)
+#           }
+#       )
+#   )'
+
+LANGUAGE=C appstreamcli search $* | jq -R -s -c '
+split("---\n")
+| map(select(. != ""))
+| map(split("\n") 
+    | map(select(test(": ")))
+    | map(split(": "))
+    | reduce .[] as $item ({}; .[$item[0]] = $item[1])
+)
+| map(select(has("Package")))
+| reduce .[] as $item ({}; .[$item.Package] = {name: $item.Name, description: $item.Summary, icon: $item.Icon})
+'

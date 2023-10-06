@@ -965,19 +965,9 @@ function sh_process_custom_user_files {
 }
 
 function concatenate_and_save_json {
-
-echo "[" #> $userpath/bigcontrolcenter.json
-first=true
-for file in $userpath/*.cache; do
-    if [ "$first" = true ]; then
-        first=false
-    else
-        echo "," #>> $userpath/bigcontrolcenter.json
-    fi
-    echo "$(<"$file")" #>> $userpath/bigcontrolcenter.json
-done
-echo "]" #>> $userpath/bigcontrolcenter.json
-
+	echo "[" #> $userpath/bigcontrolcenter.json
+	sed 's|}|},|g' $userpath/*.cache
+	echo '{ "category": "System About", "name": "KSystemLog2", "comment": "Ferramenta de visualização de registros do sistema", "icon": "/usr/share/icons/biglinux-icons-material/scalable/apps/org.kde.ksystemlog.svg", "exec": "ksystemlog -qwindowtitle " }]' #>> $userpath/bigcontrolcenter.json
 }
 
 function sh_main {
@@ -1000,9 +990,25 @@ function sh_main {
 	sh_process_custom_user_files
 }
 
-#sh_debug
-sh_config
-sh_checkdir
-sh_main "$@"
-wait
-concatenate_and_save_json
+#sh_debug./
+if [[ "$1" != "make" ]]; then
+
+	for i in {1..100}; do
+		if [[ "$(pgrep -f loop-search-json.sh)" > 1 ]]; then
+			concatenate_and_save_json
+			break
+		else
+			sleep 0.1
+		fi
+	done
+
+
+else
+	sh_config
+	sh_checkdir
+	sh_main "$@"
+	wait
+fi
+
+
+

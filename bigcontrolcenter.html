@@ -82,8 +82,8 @@
                 selectedCategory: '',
                 allData: [],
                 // Initialize function to fetch data
-                init() {
-                    fetch('loop-search-json.sh')
+                 init() {
+                     fetch('loop-search-json-read.sh')
                         .then(response => response.json())
                         .then(data => {
                             this.allData = data;

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/beer.min.css" rel="stylesheet">
+    <script src="js/alpine/cdn.min.js" defer></script>
+    <script src="js/stonejs.js"></script>
+    <script>window._ = Stone.gettext</script>
+    <!-- <script src="js/htmx.js"></script> -->
+    <!-- <script type="module" src="js/alpine/module.cjs.min.js" defer></script> -->
+    <script type="module" src="js/beer.min.js"></script>
+    <!-- <script type="module" src="js/material-dynamic-colors.min.js"></script> -->
+  </head>
+<body class="light">
+<!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
+
+
+
+
+<div x-data="getItems()">
+
+    <!-- Header section -->
+    <header>
+        <nav>
+            <!-- Menu button -->
+            <button class="circle transparent">
+                <i>menu</i>
+            </button>
+            
+            <!-- Search bar -->
+            <h5 class="max center-align">
+                <!-- Switches for search sources -->
+                <div>
+                    <label>
+                        <input type="checkbox" x-model="searchPacman">
+                        Pacman
+                    </label>
+                    <label>
+                        <input type="checkbox" x-model="searchAUR">
+                        AUR
+                    </label>
+                    <label>
+                        <input type="checkbox" x-model="searchFlatpak">
+                        Flatpak
+                    </label>
+                    <label>
+                        <input type="checkbox" x-model="searchSnap">
+                        Snap
+                    </label>
+
+                </div>
+                
+                <div class="field prefix round fill">
+                    <i class="front">search</i>
+                    <input x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
+                    <a x-on:click="performSearch" class="circle transparent">
+                        <i>keyboard_return</i>
+                    </a>
+                </div>
+            </h5>
+        </nav>
+    </header>
+
+    <!-- Grid of items -->
+    <div class="grid no-padding center-align middle-align">
+        <template x-for="item in displayedItems">
+            <div class="s12 m6 l3">
+                <a class="round vertical" x-on:click="_run(item.exec)">
+                    <div class="item-info">
+                        <span x-text="item.p"></span><br>
+                        <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer"></div>
+                        <div x-html="item.iconHTML"></div>
+                        <span x-text="item.d"></span><br>
+                        Instalado: <span x-text="item.i"></span> <span x-text="item.i_version"></span><br>
+                        Versão do repositório: <span x-text="item.v"></span>
+
+                    </div>
+                    <a class="tooltip bottom medium-space horizontal" x-show="item.d" x-text="item.d"></a>
+                </a>
+            </div>
+        </template>
+    </div>
+
+    <button x-on:click="loadMore" x-show="displayedItems.length < filteredItems.length">Load More</button>
+
+
+
+    <script>
+        function getItems() {
+            let lastSearchState = {
+                search: '',
+                searchPacman: false,
+                searchAUR: false,
+                searchFlatpak: false,
+                searchSnap: false
+            }
+            let lastFilteredResults = []
+            let searchTerms = []
+            let results = []
+    
+            return {
+                search: '',
+                pacmanData: [],
+                aurData: [],
+                flatpakData: [],
+                snapData: [],
+                maxItems: 30,
+                translatedDescriptions: {},
+                searchPacman: true,
+                searchAUR: true,
+                searchFlatpak: true,
+                searchSnap: true,
+                filteredItemsCount: 0,
+    
+                // Initialization
+                init() {
+                    this.fetchData().catch(error => {
+                        console.error("Error during data fetching or processing:", error)
+                    })
+                },
+                async fetchData() {
+                    this.translatedDescriptions = await this.fetchWithFallback('summary_apps_pt_BR.json').then(res => res.json());
+    
+                    if (this.searchPacman) {
+                        this.pacmanData = await this.fetchPacmanData();
+                    }
+    
+                    if (this.searchAUR) {
+                        this.aurData = await this.fetchAurData();
+                    }
+    
+                    if (this.searchFlatpak) {
+                        this.flatpakData = await this.fetchFlatpakData();
+                    }
+    
+                    if (this.searchSnap) {
+                        this.snapData = await this.fetchSnapData();
+                    }
+                },
+                async fetchPacmanData() {
+                    const data = await this.fetchWithFallback('json_search_pacman.sh').then(res => res.json());
+                    return this.processCommonData(data, 'pacman');
+                },
+                async fetchAurData() {
+                    const searchResults = await this.fetchWithFallback('json_search_aur.sh').then(res => res.json());
+                    const installedData = await this.fetchWithFallback('json_installed_aur.sh').then(res => res.json());
+                    const processedData = this.processCommonData(searchResults, 'aur');
+                    this.updateAurDataWithInstalledInfo(processedData, installedData);
+                    return processedData;
+                },
+                async fetchFlatpakData() {
+                    const cacheData = await this.fetchWithFallback('json_search_flatpak.sh').then(res => res.json());
+                    const installedData = await this.fetchWithFallback('json_installed_flatpak.sh').then(res => res.json());
+                    const updatesData = await this.fetchWithFallback('json_updates_flatpak.sh').then(res => res.json());
+                    return this.processFlatpakData(cacheData, installedData, updatesData);
+                },
+                async fetchSnapData() {
+                    const cacheData = await this.fetchWithFallback('json_search_snap.sh').then(res => res.json());
+                    const installedData = await this.fetchWithFallback('json_installed_snap.sh').then(res => res.json());
+                    const updatesData = await this.fetchWithFallback('json_updates_snap.sh').then(res => res.json());
+                    return this.processSnapData(cacheData, installedData, updatesData);
+                },
+                fetchWithFallback(url, ms = 30000) {
+                    return Promise.race([
+                        fetch(url),
+                        this.timeout(ms, `Timeout after ${ms}ms for ${url}`)
+                    ]).catch(error => {
+                        console.error(`Error fetching ${url}:`, error);
+                        return [];
+                    });
+                },
+                timeout(ms, message) {
+                    return new Promise((_, reject) => {
+                        setTimeout(() => reject(new Error(message)), ms);
+                    });
+                },
+                processCommonData(data, source) {
+                    return data.map(item => {
+                        item.d = this.translatedDescriptions[item.p] ? this.translatedDescriptions[item.p].t : (item.d || '')
+                        item.s = source
+                        item.searchPackage = item.p ? item.p.toLowerCase() : ''
+                        item.searchDescription = item.d ? removeAccents(item.d.toLowerCase()) : ''
+                        item.score = 0
+                        return item
+                    })
+                },
+                processFlatpakData(cacheData, installedData, updatesData) {
+                    return cacheData.map(item => {
+                        item.s = 'flatpak'
+                        item.i = installedData.flatpakInstalled.includes(item.p) ? 'true' : 'false'
+                        item.u = updatesData.flatpakUpdates.includes(item.p) ? 'true' : 'false'
+                        item.searchPackage = item.p ? item.p.toLowerCase() : ''
+                        item.searchDescription = item.d ? removeAccents(item.d.toLowerCase()) : ''
+                        item.score = 0
+                        return item
+                    })
+                },
+                processSnapData(cacheData, installedData, updatesData) {
+                    return cacheData.map(item => {
+                        item.s = 'snap'
+                        item.i = installedData.snapInstalled.includes(item.p) ? 'true' : 'false'
+                        item.u = updatesData.snapUpdates.includes(item.p) ? 'true' : 'false'
+                        item.searchPackage = item.p ? item.p.toLowerCase() : ''
+                        item.searchDescription = item.d ? removeAccents(item.d.toLowerCase()) : ''
+                        item.score = 0
+                        return item
+                    })
+                },
+                updateAurDataWithInstalledInfo(data, installedPackages) {
+                    const dataMap = Object.fromEntries(data.map(item => [item.p, item]))
+
+                    for (const [packageName, installedInfo] of Object.entries(installedPackages)) {
+                        const item = dataMap[packageName]
+                        if (item) {
+                            item.i = 'true'
+                            item.i_version = installedInfo.version || ''
+                        }
+                    }
+                },
+                updateFlatpakDataWithInstalledInfo(data, installedPackages) {
+                    installedPackages.forEach(packageName => {
+                        const item = data.find(item => item.n === packageName)
+                        if (item) {
+                            item.i = 'true'
+                        }
+                    })
+                },
+                updateSnapDataWithInstalledInfo(data, installedPackages) {
+                    installedPackages.forEach(packageName => {
+                        const item = data.find(item => item.n === packageName)
+                        if (item) {
+                            item.i = 'true'
+                        }
+                    })
+                },
+                performSearch() {
+                    this.search = this.$refs.searchInput.value;
+                    searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/);
+                    this.maxItems = 30;  // Reset the maxItems count
+                },
+                filterData(data) {
+                    return this.filterByTerms(data, ['p', 'searchDescription'])
+                },
+                filterDataFlatpak(data) {
+                    return this.search === '' ? data : this.filterByTerms(data, ['p', 'searchPackage', 'searchDescription'])
+                },
+                filterDataSnap(data) {
+                    if (this.search === '') return data
+                    const results = []
+                    const added = new Set() // Conjunto para controlar itens já adicionados
+
+                    for (let i = 0; i < data.length; i++) {
+                        const item = data[i]
+                        const attributes = ['p', 'searchPackage', 'k', 'searchDescription']
+                        if (searchTerms.some(term => attributes.some(attr => item[attr].includes(term)))) {
+                            if (!added.has(item.p)) { // Verifica se o item já foi adicionado
+                                results.push(item)
+                                added.add(item.p) // Adiciona o identificador do item ao conjunto
+                            }
+                        }
+                    }
+                    return results
+                },
+                filterByTerms(data, attributes) {
+                    if (!Array.isArray(data)) {
+                        console.warn("Data passed to filterByTerms is not an array:", data);
+                        return [];
+                    }
+
+                    const matches = attributes.map(() => []);
+                    for (let i = 0; i < data.length; i++) {
+                        const item = data[i];
+                        if (item.i == 'true') item.score += 4;
+                        attributes.forEach((attr, idx) => {
+                            if (searchTerms.every(term => item[attr].includes(term))) {
+                                matches[idx].push(item);
+                                item.score += 5 - idx;
+                            }
+                        });
+                    }
+                    return [].concat(...matches).sort((a, b) => b.score - a.score);
+                },
+    
+                // UI and User Interaction
+                get filteredItems() {
+                    if (this.search === lastSearchState.search && 
+                        this.searchPacman === lastSearchState.searchPacman && 
+                        this.searchFlatpak === lastSearchState.searchFlatpak && 
+                        this.searchSnap === lastSearchState.searchSnap && 
+                        this.searchAUR === lastSearchState.searchAUR) {
+                            return lastFilteredResults
+                    }
+
+                    let combinedResults = []
+                    if (this.searchPacman) combinedResults = combinedResults.concat(this.filterData(this.pacmanData))
+                    if (this.searchFlatpak) combinedResults = combinedResults.concat(this.filterDataFlatpak(this.flatpakData))
+                    if (this.searchSnap) combinedResults = combinedResults.concat(this.filterDataSnap(this.snapData))
+                    if (this.searchAUR) combinedResults = combinedResults.concat(this.filterData(this.aurData))
+
+                    // Sort the combined results based on the installed status and score.
+                    combinedResults.sort((a, b) => {
+                        if (a.i === 'true' && b.i !== 'true') return -1;
+                        if (b.i === 'true' && a.i !== 'true') return 1;
+                        return b.score - a.score;
+                    });
+
+                    lastSearchState = {
+                        search: this.search,
+                        searchPacman: this.searchPacman,
+                        searchFlatpak: this.searchFlatpak,
+                        searchSnap: this.searchSnap,
+                        searchAUR: this.searchAUR
+                    }
+                    lastFilteredResults = combinedResults
+                    return combinedResults
+                },
+                get displayedItems() {
+                    return this.filteredItems.slice(0, this.maxItems);
+                },
+                loadMore() {
+                    this.maxItems += 30;
+                    this.$forceUpdate();
+                },
+                fetchIcon(item) {
+                    if (item.g) {
+                        fetch(`./find_icon.sh?type=flatpak&query=${item.g}`)
+                        .then(response => response.text())
+                        .then(html => {
+                            item.iconHTML = html
+                        })
+                    } else {
+                        fetch(`./find_icon.sh?type=pacman&query=${item.p}`)
+                        .then(response => response.text())
+                        .then(html => {
+                            item.iconHTML = html
+                        })
+                    }
+                },
+                clearData() {
+                    this.search = null
+                    this.pacmanData = null
+                    this.aurData = null
+                    this.flatpakData = null
+                    this.snapData = null
+                    this.translatedDescriptions = {}
+                    lastSearchState = {
+                        search: '',
+                        searchPacman: false,
+                        searchAUR: false,
+                        searchFlatpak: false,
+                        searchSnap: false
+                    }
+                    lastFilteredResults = []
+                    searchTerms = []
+                    results = []
+                }
+            }
+        }
+    
+        function removeAccents(str) {
+            return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        }
+    </script>
+    
+</div>

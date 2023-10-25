@@ -141,7 +141,7 @@
                     })
                 },
                 async fetchData() {
-                    this.translatedDescriptions = await this.fetchWithFallback('summary_apps_pt_BR.json').then(res => res.json())
+                    this.translatedDescriptions = await this.fetchWithFallback('translate/pacmanAndAur_pt.json').then(res => res.json())
     
                     if (this.searchPacman) {
                         this.pacmanData = await this.fetchPacmanData()

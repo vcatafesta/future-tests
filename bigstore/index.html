@@ -89,7 +89,7 @@
                             <span x-text="item.s" class="badge border round">Type</span>
                             <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">Icon</div>
                             <div>
-                                <h5 class="small" x-text="item.p">Title</h5>
+                                <h5 class="small" x-text="formatTitle(item.p)">Title</h5>
                                 <p class="left-align" x-text="item.v">Version</p>
                             </div>
                         </div>
@@ -420,6 +420,18 @@ function makeIcon(icon) {
   const text = icon.innerText;
   icon.style.backgroundColor = colors[numberFromText(text) % colors.length];
   
+}
+
+function formatTitle(title) {
+    // Substitua underscores (_) e dashes (-) por espaços
+    title = title.replace(/[_-]/g, ' ');
+    
+    // Capitalize cada palavra, exceto palavras com 2 ou menos caracteres
+    title = title.split(' ').map(word => {
+        return word.length > 2 ? word.charAt(0).toUpperCase() + word.slice(1) : word;
+    }).join(' ');
+
+    return title;
 }
 
 

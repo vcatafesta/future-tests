@@ -7,8 +7,8 @@
 
     <style>
         .makeIcon {
-            width: 44px;
-            height: 44px;
+            width: 43px;
+            height: 43px;
             background: linear-gradient(0deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.2) 20%, rgba(255,255,255,0.2) 100%);
             border-radius: 40%;
             color: #fff;
@@ -18,6 +18,20 @@
             align-items: center;
             justify-content: center;
             text-transform: uppercase;
+        }
+        .autocomplete-results {
+            border: 1px solid #ccc;
+            max-height: 120px;
+            overflow-y: auto;
+            position: absolute;
+            width: 100%;
+            z-index: 10;
+            background-color: #fff;
+        }
+
+        .autocomplete-results p {
+            padding: 8px;
+            cursor: pointer;
         }
     </style>
 
@@ -68,14 +82,43 @@
                     </label>
 
                 </div>
+
                 
-                <div class="field prefix round fill">
+                <div class="field large prefix round fill">
                     <i class="front">search</i>
-                    <input x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
+                    <!-- <input> -->
+                    <input x-ref="searchInput" x-on:keyup="filterAutocomplete"  x-on:keyup.enter="performSearch" placeholder="Search...">
+
+                    <menu class="min">
+                      <div class="field large prefix suffix no-margin fixed">
+                        <i class="front">arrow_back</i>
+                        <input>
+                        <i class="front">close</i>
+                      </div>
+
+                      <template x-for="result in autocompleteResults">
+                        <a class="row">
+                            <i>history</i>
+                            <div x-text="result.p" x-on:click="selectAutocomplete(result.p)">Item 1</div>
+                          </a>
+                    </template>
+
+                    </menu>
+                  </div>
+
+
+                <!-- <div class="field prefix round fill">
+                    <i class="front">search</i>
+                    <input x-ref="searchInput" x-on:keyup="filterAutocomplete"  x-on:keyup.enter="performSearch" placeholder="Search...">
+                    <div x-show="autocompleteResults.length > 0" class="autocomplete-results">
+                        <template x-for="result in autocompleteResults">
+                            <p x-text="result.p" x-on:click="selectAutocomplete(result.p)"></p>
+                        </template>
+                    </div>
                     <a x-on:click="performSearch" class="circle transparent">
                         <i>keyboard_return</i>
                     </a>
-                </div>
+                </div> -->
             </h5>
         </nav>
     </header>
@@ -126,6 +169,7 @@
                 aurData: [],
                 flatpakData: [],
                 snapData: [],
+                autocompleteResults: [],
                 maxItems: 30,
                 translatedDescriptions: {},
                 searchPacman: true,
@@ -306,7 +350,17 @@
                     }
                     return [].concat(...matches).sort((a, b) => b.score - a.score)
                 },
-    
+
+                filterAutocomplete() {
+                    let searchTerm = this.$refs.searchInput.value.toLowerCase();
+                    if (searchTerm.length === 0) {
+                        this.autocompleteResults = [];
+                        return;
+                    }
+                    let allData = [...this.pacmanData, ...this.aurData, ...this.flatpakData, ...this.snapData];
+                    this.autocompleteResults = allData.filter(item => item.p.toLowerCase().includes(searchTerm)).slice(0, 5); // Limit to top 5 results
+                },
+
                 // UI and User Interaction
                 get filteredItems() {
                     if (this.search === lastSearchState.search && 
@@ -361,6 +415,11 @@
                             item.iconHTML = html
                         })
                     }
+                },
+                selectAutocomplete(value) {
+                    this.$refs.searchInput.value = value;
+                    this.autocompleteResults = [];
+                    this.performSearch();
                 },
                 clearData() {
                     this.search = null

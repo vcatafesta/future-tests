@@ -281,6 +281,7 @@
                     this.search = this.$refs.searchInput.value
                     searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/)
                     this.maxItems = 30  // Reset the maxItems count
+                    this.autocompleteResults = []; // Clean auto complete
                 },
                 filterData(data) {
                     return this.filterByTerms(data, ['p', 'searchDescription'])
@@ -330,43 +331,44 @@
                 },
 
                 filterAutocomplete() {
-    let searchTerm = this.$refs.searchInput.value.toLowerCase();
-    if (searchTerm.length === 0) {
-        this.autocompleteResults = [];
-        return;
-    }
-
-    let allData = [];
-    if (this.searchPacman) allData = allData.concat(this.filterData(this.pacmanData));
-    if (this.searchAUR) allData = allData.concat(this.filterData(this.aurData));
-    if (this.searchFlatpak) allData = allData.concat(this.filterDataFlatpak(this.flatpakData));
-    if (this.searchSnap) allData = allData.concat(this.filterDataSnap(this.snapData));
-
-    let seen = new Set();
-    this.autocompleteResults = allData.filter(item => {
-        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
-        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
-        searchWords = searchWords.filter(word => word.trim() !== '');
-        if (searchWords.length === 0) return false;
-        return searchWords.every(searchWord => 
-            itemWords.some(itemWord => 
-                itemWord.includes(searchWord)
-            )
-        );
-    }).filter(item => {
-        if (seen.has(item.p)) {
-            return false;
-        } else {
-            seen.add(item.p);
-            return true;
-        }
-    }).slice(0, 20);
-},
-
-
+                    let searchTerm = this.$refs.searchInput.value.toLowerCase();
+                    if (searchTerm.length === 0) {
+                        this.autocompleteResults = [];
+                        return;
+                    }
+                    // Sempre começar com o conjunto completo de dados
+                    let allData = [];
+                    if (this.searchPacman) allData = allData.concat(this.pacmanData);
+                    if (this.searchAUR) allData = allData.concat(this.aurData);
+                    if (this.searchFlatpak) allData = allData.concat(this.flatpakData);
+                    if (this.searchSnap) allData = allData.concat(this.snapData);
+                    
+                    let seen = new Set();
+                    this.autocompleteResults = allData.filter(item => {
+                        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
+                        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
+                        searchWords = searchWords.filter(word => word.trim() !== '');
+                        if (searchWords.length === 0) return false;
+                        return searchWords.every(searchWord => 
+                            itemWords.some(itemWord => 
+                                itemWord.includes(searchWord)
+                            )
+                        );
+                    }).filter(item => {
+                        if (seen.has(item.p)) {
+                            return false;
+                        } else {
+                            seen.add(item.p);
+                            return true;
+                        }
+                    }).slice(0, 20);
+                },
 
                 // UI and User Interaction
                 get filteredItems() {
+                    if (this.search === '') {
+                        return [];
+                    }
                     if (this.search === lastSearchState.search && 
                         this.searchPacman === lastSearchState.searchPacman && 
                         this.searchFlatpak === lastSearchState.searchFlatpak && 

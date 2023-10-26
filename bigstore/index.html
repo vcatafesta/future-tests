@@ -78,7 +78,7 @@
                     <menu class="min">
                         <template x-for="result in autocompleteResults">
                             <a class="row" x-on:click="selectAutocomplete(result.p)">
-                                <div x-text="result.p"></div>
+                                <div x-text="result.p + '  -  ' + result.s"></div>
                               </a>
                         </template>
                     </menu>
@@ -330,39 +330,40 @@
                 },
 
                 filterAutocomplete() {
-                    let searchTerm = this.$refs.searchInput.value.toLowerCase();
-                    if (searchTerm.length === 0) {
-                        this.autocompleteResults = [];
-                        return;
-                    }
-                    let allData = [...this.pacmanData, ...this.aurData, ...this.flatpakData, ...this.snapData];
-                    let seen = new Set();
-                    this.autocompleteResults = allData.filter(item => {
-                        // Dividir a string do item e a string de pesquisa em palavras
-                        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
-                        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
+    let searchTerm = this.$refs.searchInput.value.toLowerCase();
+    if (searchTerm.length === 0) {
+        this.autocompleteResults = [];
+        return;
+    }
 
-                        // Remover strings vazias ou espaços da lista de palavras de pesquisa
-                        searchWords = searchWords.filter(word => word.trim() !== '');
+    let allData = [];
+    if (this.searchPacman) allData = allData.concat(this.filterData(this.pacmanData));
+    if (this.searchAUR) allData = allData.concat(this.filterData(this.aurData));
+    if (this.searchFlatpak) allData = allData.concat(this.filterDataFlatpak(this.flatpakData));
+    if (this.searchSnap) allData = allData.concat(this.filterDataSnap(this.snapData));
 
-                        // Se a lista de palavras de pesquisa estiver vazia, retornar falso
-                        if (searchWords.length === 0) return false;
+    let seen = new Set();
+    this.autocompleteResults = allData.filter(item => {
+        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
+        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
+        searchWords = searchWords.filter(word => word.trim() !== '');
+        if (searchWords.length === 0) return false;
+        return searchWords.every(searchWord => 
+            itemWords.some(itemWord => 
+                itemWord.includes(searchWord)
+            )
+        );
+    }).filter(item => {
+        if (seen.has(item.p)) {
+            return false;
+        } else {
+            seen.add(item.p);
+            return true;
+        }
+    }).slice(0, 20);
+},
 
-                        // Verificar se todas as palavras da pesquisa estão presentes em algum lugar no item
-                        return searchWords.every(searchWord => 
-                            itemWords.some(itemWord => 
-                                itemWord.includes(searchWord)
-                            )
-                        );
-                    }).filter(item => {
-                        if (seen.has(item.p)) {
-                            return false;
-                        } else {
-                            seen.add(item.p);
-                            return true;
-                        }
-                    }).slice(0, 20);
-                },
+
 
                 // UI and User Interaction
                 get filteredItems() {

@@ -75,57 +75,44 @@
                   <div class="field large prefix round fill">
                     <i class="front">search</i>
                     <input @input.debounce.350ms="filterAutocomplete" x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
-                    <menu class="min">
+                    <menu class="min" x-show="autocompleteResults.length > 0" style="max-height: 200px; overflow-y: auto;">
                         <template x-for="result in autocompleteResults">
                             <a class="row" x-on:click="selectAutocomplete(result.p)">
                                 <div x-text="result.p + '  -  ' + result.s"></div>
-                              </a>
+                            </a>
                         </template>
                     </menu>
                   </div>
-
-
-                <!-- <div class="field prefix round fill">
-                    <i class="front">search</i>
-                    <input x-ref="searchInput" x-on:keyup="filterAutocomplete"  x-on:keyup.enter="performSearch" placeholder="Search...">
-                    <div x-show="autocompleteResults.length > 0" class="autocomplete-results">
-                        <template x-for="result in autocompleteResults">
-                            <p x-text="result.p" x-on:click="selectAutocomplete(result.p)"></p>
-                        </template>
-                    </div>
-                    <a x-on:click="performSearch" class="circle transparent">
-                        <i>keyboard_return</i>
-                    </a>
-                </div> -->
             </h5>
         </nav>
     </header>
 
     <!-- Grid of items -->
     <div class="center-align">
-        <template x-for="item in displayedItems" class="grid">
-                <a x-on:click="_run(item.exec)" class="medium-margin medium-width">
-                    <article class="round medium-width small-height">
-                          <div class="row">
-                            <span x-text="item.s" class="badge border round">Type</span>
-                            <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">Icon</div>
-                            <div>
-                                <h5 class="small" x-text="formatTitle(item.p)">Title</h5>
-                                <p class="left-align" x-text="item.v">Version</p>
+        <div class="center-align" x-ref="scrollContainer">
+            <template x-for="item in displayedItems" class="grid">
+                    <a x-on:click="_run(item.exec)" class="medium-margin medium-width">
+                        <article class="round medium-width small-height">
+                            <div class="row">
+                                <span x-text="item.s" class="badge border round">Type</span>
+                                <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">Icon</div>
+                                <div>
+                                    <h5 class="small" x-text="formatTitle(item.p)">Title</h5>
+                                    <p class="left-align" x-text="item.v">Version</p>
+                                </div>
                             </div>
+
+                                <p x-text="item.d" class="left-align">Desc</p>
+                            <p x-text="item.i === 'true' ? 'Remover' : 'Instalar'">Installed</p>
                         </div>
+                        </article>
+                </a>
+            </template>
+            <div id="infinite-scroll-trigger"></div>
 
-                            <p x-text="item.d" class="left-align">Desc</p>
-                        <p x-text="item.i === 'true' ? 'Remover' : 'Instalar'">Installed</p>
-                    </div>
-                    </article>
-            </a>
-
-        </template>
+        </div>
     </div>
     
-    <button x-on:click="loadMore" x-show="displayedItems.length < filteredItems.length">Load More</button>
-
 
 
     <script>
@@ -140,6 +127,8 @@
             let lastFilteredResults = []
             let searchTerms = []
             let results = []
+            let autoCompleteMenuEnabled = true
+
     
             return {
                 search: '',
@@ -148,20 +137,102 @@
                 flatpakData: [],
                 snapData: [],
                 autocompleteResults: [],
-                maxItems: 30,
+                maxItems: 15,
                 translatedDescriptions: {},
                 searchPacman: true,
                 searchAUR: true,
                 searchFlatpak: true,
                 searchSnap: true,
                 filteredItemsCount: 0,
-    
+                maxAutoCompleteItems: 10,
+                
+                
                 // Initialization
                 init() {
                     this.fetchData().catch(error => {
                         console.error("Error during data fetching or processing:", error)
                     })
+
+                    const autoCompleteMenu = document.querySelector('.min');
+                    autoCompleteMenu.addEventListener('scroll', this.autoCompleteScrollHandler.bind(this));
+
+
+                    // Context
+                    const ctx = this;
+                    
+                    // Trigger Element
+                    this.triggerElement = this.$refs.scrollContainer.querySelector('#infinite-scroll-trigger');
+                    console.log("Trigger Element: ", this.triggerElement); // Debugging line
+                    
+                    // Intersection Observer Supported
+                    if ('IntersectionObserver' in window) {
+                        this.observer = new IntersectionObserver(function(entries) {
+                            if(entries[0].isIntersecting === true) {
+                                console.log("Observer Triggered"); // Debugging line
+                                ctx.loadMore();
+                            }
+                        }, { threshold: [0] });
+                        
+                        this.observer.observe(this.triggerElement);
+                        
+                    } else { // Fallback to scroll event listener
+                        window.addEventListener('scroll', function() {
+                            var position = ctx.triggerElement.getBoundingClientRect();
+                            
+                            if(position.top < window.innerHeight && position.bottom >= 0) {
+                                console.log("Scroll Event Triggered"); // Debugging line
+                                ctx.loadMore();
+                            }
+                        });
+                    }
                 },
+
+                // Novo método para autocompletar
+                autoCompleteScrollHandler(e) {
+                    const { scrollTop, scrollHeight, clientHeight } = e.target;
+                    if (scrollTop + clientHeight >= scrollHeight) {
+                        this.maxAutoCompleteItems += 10;
+                        this.filterAutocomplete();
+                    }
+                },
+
+
+
+        filterAutocomplete() {
+                    let searchTerm = this.$refs.searchInput.value.toLowerCase();
+                    if (searchTerm.length === 0 || autoCompleteMenuEnabled === false) {
+                        this.autocompleteResults = []
+                        // autoCompleteMenuEnabled = true
+                        return;
+                    }
+                    let allData = [];
+                    if (this.searchPacman) allData = allData.concat(this.pacmanData);
+                    if (this.searchAUR) allData = allData.concat(this.aurData);
+                    if (this.searchFlatpak) allData = allData.concat(this.flatpakData);
+                    if (this.searchSnap) allData = allData.concat(this.snapData);
+                    
+                    let seen = new Set();
+
+                    this.autocompleteResults = allData.filter(item => {
+                        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
+                        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
+                        searchWords = searchWords.filter(word => word.trim() !== '');
+                        if (searchWords.length === 0) return false;
+                        return searchWords.every(searchWord => 
+                            itemWords.some(itemWord => 
+                                itemWord.includes(searchWord)
+                            )
+                        );
+                    }).filter(item => {
+                        if (seen.has(item.p)) {
+                            return false;
+                        } else {
+                            seen.add(item.p);
+                            return true;
+                        }
+                    }).slice(0, this.maxAutoCompleteItems);;
+                },
+
                 async fetchData() {
                     this.translatedDescriptions = await this.fetchWithFallback('translate/pacmanAndAur_pt.json').then(res => res.json())
     
@@ -280,8 +351,14 @@
                 performSearch() {
                     this.search = this.$refs.searchInput.value
                     searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/)
-                    this.maxItems = 30  // Reset the maxItems count
+                    this.maxItems = 14  // Reset the maxItems count
                     this.autocompleteResults = []; // Clean auto complete
+                    autoCompleteMenuEnabled = false;
+                    // re enable autoCompleteMenu after 400ms
+                    setTimeout(() => {
+                        autoCompleteMenuEnabled = true;
+                    }, 400);
+
                 },
                 filterData(data) {
                     return this.filterByTerms(data, ['p', 'searchDescription'])
@@ -330,39 +407,7 @@
                     return [].concat(...matches).sort((a, b) => b.score - a.score)
                 },
 
-                filterAutocomplete() {
-                    let searchTerm = this.$refs.searchInput.value.toLowerCase();
-                    if (searchTerm.length === 0) {
-                        this.autocompleteResults = [];
-                        return;
-                    }
-                    // Sempre começar com o conjunto completo de dados
-                    let allData = [];
-                    if (this.searchPacman) allData = allData.concat(this.pacmanData);
-                    if (this.searchAUR) allData = allData.concat(this.aurData);
-                    if (this.searchFlatpak) allData = allData.concat(this.flatpakData);
-                    if (this.searchSnap) allData = allData.concat(this.snapData);
-                    
-                    let seen = new Set();
-                    this.autocompleteResults = allData.filter(item => {
-                        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
-                        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
-                        searchWords = searchWords.filter(word => word.trim() !== '');
-                        if (searchWords.length === 0) return false;
-                        return searchWords.every(searchWord => 
-                            itemWords.some(itemWord => 
-                                itemWord.includes(searchWord)
-                            )
-                        );
-                    }).filter(item => {
-                        if (seen.has(item.p)) {
-                            return false;
-                        } else {
-                            seen.add(item.p);
-                            return true;
-                        }
-                    }).slice(0, 20);
-                },
+
 
                 // UI and User Interaction
                 get filteredItems() {

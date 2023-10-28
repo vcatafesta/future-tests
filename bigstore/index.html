@@ -4,27 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/beer.min.css" rel="stylesheet">
-
-    <style>
-        .makeIcon {
-            width: 43px;
-            height: 43px;
-            background: linear-gradient(0deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.2) 20%, rgba(255,255,255,0.2) 100%);
-            border-radius: 40%;
-            color: #fff;
-            font-weight: bold;
-            font-size: 16px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-transform: uppercase;
-        }
-        menu.min {
-            inset-block-start: auto;
-        }
-
-</style>
-
+    <link href="css/biglinux.css" rel="stylesheet">
 
     <script src="js/alpine/cdn.min.js" defer></script>
     <script src="js/stonejs.js"></script>
@@ -34,13 +14,10 @@
     <script type="module" src="js/beer.min.js"></script>
     <!-- <script type="module" src="js/material-dynamic-colors.min.js"></script> -->
   </head>
-<body class="light">
+<body class="light"  style="overflow:scroll">
 <!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
 
-
-
-
-<div x-data="getItems()">
+<div x-data="getItems()" x-init="loadConfig">
 
     <!-- Header section -->
     <header>
@@ -49,29 +26,30 @@
             <button class="circle transparent">
                 <i>menu</i>
             </button>
+
             
             <!-- Search bar -->
             <h5 class="max center-align">
                 <!-- Switches for search sources -->
                 <div>
-                    <label>
-                        <input type="checkbox" x-model="searchPacman">
-                        Pacman
+                    <label class="switch">
+                        <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig">
+                        <span>Pacman</span>
                     </label>
-                    <label>
-                        <input type="checkbox" x-model="searchAUR">
-                        AUR
+                    <label class="switch">
+                        <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig">
+                        <span>AUR</span>
                     </label>
-                    <label>
-                        <input type="checkbox" x-model="searchFlatpak">
-                        Flatpak
+                    <label class="switch">
+                        <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig">
+                        <span>Flatpak</span>
                     </label>
-                    <label>
-                        <input type="checkbox" x-model="searchSnap">
-                        Snap
+                    <label class="switch">
+                        <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig">
+                        <span>Snap</span>
                     </label>
-
                 </div>
+
                   <div class="field large prefix round fill">
                     <i class="front">search</i>
                     <input @input.debounce.350ms="filterAutocomplete" x-ref="searchInput" x-on:keyup.enter="performSearch" placeholder="Search...">
@@ -97,12 +75,11 @@
                                 <span x-text="item.s" class="badge border round">Type</span>
                                 <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">Icon</div>
                                 <div>
-                                    <h5 class="small" x-text="formatTitle(item.p)">Title</h5>
+                                    <h5 class="small" x-text="formatTitle(item.p)"></h5>
                                     <p class="left-align" x-text="item.v">Version</p>
                                 </div>
                             </div>
-
-                                <p x-text="item.d" class="left-align">Desc</p>
+                            <p x-text="formatDescription(item.d)" class="left-align"></p>
                             <p x-text="item.i === 'true' ? 'Remover' : 'Instalar'">Installed</p>
                         </div>
                         </article>
@@ -112,9 +89,6 @@
 
         </div>
     </div>
-    
-
-
     <script>
         function getItems() {
             let lastSearchState = {
@@ -128,7 +102,6 @@
             let searchTerms = []
             let results = []
             let autoCompleteMenuEnabled = true
-
     
             return {
                 search: '',
@@ -137,15 +110,71 @@
                 flatpakData: [],
                 snapData: [],
                 autocompleteResults: [],
-                maxItems: 15,
+                maxItems: 14,
                 translatedDescriptions: {},
+                filteredItemsCount: 0,
+                maxAutoCompleteItems: 10,
                 searchPacman: true,
                 searchAUR: true,
                 searchFlatpak: true,
-                searchSnap: true,
-                filteredItemsCount: 0,
-                maxAutoCompleteItems: 10,
-                
+                searchSnap: true,                
+                async saveConfig() {
+                try {
+                    const config = {
+                        searchPacman: this.searchPacman,
+                        searchAUR: this.searchAUR,
+                        searchFlatpak: this.searchFlatpak,
+                        searchSnap: this.searchSnap,
+                    }
+                    await fetch('/api/file?filename=$HOME/.config/bigstore/config.json', {
+                        method: 'POST',
+                        body: JSON.stringify(config),
+                    })
+
+                    this.maxItems = 14
+
+                    // Carregar os dados de Pacman se o checkbox estiver marcado e os dados ainda não foram carregados
+                    if (this.searchPacman && !this.pacmanData.length) {
+                        this.pacmanData = await this.fetchPacmanData()
+                    }
+
+                    // Carregar os dados de AUR se o checkbox estiver marcado e os dados ainda não foram carregados
+                    if (this.searchAUR && !this.aurData.length) {
+                        this.aurData = await this.fetchAurData()
+                    }
+
+                    // Carregar os dados de Flatpak se o checkbox estiver marcado e os dados ainda não foram carregados
+                    if (this.searchFlatpak && !this.flatpakData.length) {
+                        this.flatpakData = await this.fetchFlatpakData()
+                    }
+
+                    // Carregar os dados de Snap se o checkbox estiver marcado e os dados ainda não foram carregados
+                    if (this.searchSnap && !this.snapData.length) {
+                        this.snapData = await this.fetchSnapData()
+                    }
+                } catch (error) {
+                    console.error("Ocorreu um erro durante o salvamento da configuração ou o carregamento dos dados:", error)
+                }
+            },
+
+                async loadConfig() {
+                    try {
+                        const response = await fetch('/api/file?filename=$HOME/.config/bigstore/config.json')
+                        if (response.ok) {
+                            const config = await response.json()
+                            if (config) {
+                                this.searchPacman = config.searchPacman
+                                this.searchAUR = config.searchAUR
+                                this.searchFlatpak = config.searchFlatpak
+                                this.searchSnap = config.searchSnap
+                            }
+                        } else {
+                            console.error('Failed to load config:', response.status, response.statusText)
+                        }
+                    } catch (error) {
+                        console.error('Error during config load:', error)
+                    }
+                },
                 
                 // Initialization
                 init() {
@@ -153,84 +182,81 @@
                         console.error("Error during data fetching or processing:", error)
                     })
 
-                    const autoCompleteMenu = document.querySelector('.min');
-                    autoCompleteMenu.addEventListener('scroll', this.autoCompleteScrollHandler.bind(this));
-
+                    const autoCompleteMenu = document.querySelector('.min')
+                    autoCompleteMenu.addEventListener('scroll', this.autoCompleteScrollHandler.bind(this))
 
                     // Context
-                    const ctx = this;
+                    const ctx = this
                     
                     // Trigger Element
-                    this.triggerElement = this.$refs.scrollContainer.querySelector('#infinite-scroll-trigger');
-                    console.log("Trigger Element: ", this.triggerElement); // Debugging line
+                    this.triggerElement = this.$refs.scrollContainer.querySelector('#infinite-scroll-trigger')
+                    console.log("Trigger Element: ", this.triggerElement) // Debugging line
                     
                     // Intersection Observer Supported
                     if ('IntersectionObserver' in window) {
                         this.observer = new IntersectionObserver(function(entries) {
                             if(entries[0].isIntersecting === true) {
-                                console.log("Observer Triggered"); // Debugging line
-                                ctx.loadMore();
+                                console.log("Observer Triggered") // Debugging line
+                                ctx.loadMore()
                             }
-                        }, { threshold: [0] });
+                        }, { threshold: [0] })
                         
-                        this.observer.observe(this.triggerElement);
+                        this.observer.observe(this.triggerElement)
                         
                     } else { // Fallback to scroll event listener
                         window.addEventListener('scroll', function() {
-                            var position = ctx.triggerElement.getBoundingClientRect();
+                            var position = ctx.triggerElement.getBoundingClientRect()
                             
                             if(position.top < window.innerHeight && position.bottom >= 0) {
-                                console.log("Scroll Event Triggered"); // Debugging line
-                                ctx.loadMore();
+                                console.log("Scroll Event Triggered") // Debugging line
+                                ctx.loadMore()
                             }
-                        });
+                        })
                     }
                 },
 
                 // Novo método para autocompletar
                 autoCompleteScrollHandler(e) {
-                    const { scrollTop, scrollHeight, clientHeight } = e.target;
+                    const { scrollTop, scrollHeight, clientHeight } = e.target
                     if (scrollTop + clientHeight >= scrollHeight) {
-                        this.maxAutoCompleteItems += 10;
-                        this.filterAutocomplete();
+                        this.maxAutoCompleteItems += 10
+                        this.filterAutocomplete()
                     }
                 },
 
-
-
         filterAutocomplete() {
-                    let searchTerm = this.$refs.searchInput.value.toLowerCase();
+                    let searchTerm = this.$refs.searchInput.value.toLowerCase()
                     if (searchTerm.length === 0 || autoCompleteMenuEnabled === false) {
                         this.autocompleteResults = []
                         // autoCompleteMenuEnabled = true
-                        return;
+                        return
                     }
-                    let allData = [];
-                    if (this.searchPacman) allData = allData.concat(this.pacmanData);
-                    if (this.searchAUR) allData = allData.concat(this.aurData);
-                    if (this.searchFlatpak) allData = allData.concat(this.flatpakData);
-                    if (this.searchSnap) allData = allData.concat(this.snapData);
+                    let allData = []
+                    if (this.searchPacman) allData = allData.concat(this.pacmanData)
+                    if (this.searchAUR) allData = allData.concat(this.aurData)
+                    if (this.searchFlatpak) allData = allData.concat(this.flatpakData)
+                    if (this.searchSnap) allData = allData.concat(this.snapData)
                     
-                    let seen = new Set();
+                    let seen = new Set()
 
                     this.autocompleteResults = allData.filter(item => {
-                        const itemWords = item.p.toLowerCase().split(/[\s-_]+/);
-                        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/);
-                        searchWords = searchWords.filter(word => word.trim() !== '');
-                        if (searchWords.length === 0) return false;
+                        const itemWords = item.p.toLowerCase().split(/[\s-_]+/)
+                        let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/)
+                        searchWords = searchWords.filter(word => word.trim() !== '')
+                        if (searchWords.length === 0) return false
                         return searchWords.every(searchWord => 
                             itemWords.some(itemWord => 
                                 itemWord.includes(searchWord)
                             )
-                        );
+                        )
                     }).filter(item => {
                         if (seen.has(item.p)) {
-                            return false;
+                            return false
                         } else {
-                            seen.add(item.p);
-                            return true;
+                            seen.add(item.p)
+                            return true
                         }
-                    }).slice(0, this.maxAutoCompleteItems);;
+                    }).slice(0, this.maxAutoCompleteItems)
                 },
 
                 async fetchData() {
@@ -282,12 +308,12 @@
                     ]).catch(error => {
                         console.error(`Error fetching ${url}:`, error)
                         return []
-                    });
+                    })
                 },
                 timeout(ms, message) {
                     return new Promise((_, reject) => {
                         setTimeout(() => reject(new Error(message)), ms)
-                    });
+                    })
                 },
                 processCommonData(data, source) {
                     return data.map(item => {
@@ -352,12 +378,12 @@
                     this.search = this.$refs.searchInput.value
                     searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/)
                     this.maxItems = 14  // Reset the maxItems count
-                    this.autocompleteResults = []; // Clean auto complete
-                    autoCompleteMenuEnabled = false;
+                    this.autocompleteResults = [] // Clean auto complete
+                    autoCompleteMenuEnabled = false
                     // re enable autoCompleteMenu after 400ms
                     setTimeout(() => {
-                        autoCompleteMenuEnabled = true;
-                    }, 400);
+                        autoCompleteMenuEnabled = true
+                    }, 400)
 
                 },
                 filterData(data) {
@@ -407,12 +433,9 @@
                     return [].concat(...matches).sort((a, b) => b.score - a.score)
                 },
 
-
-
-                // UI and User Interaction
                 get filteredItems() {
                     if (this.search === '') {
-                        return [];
+                        return []
                     }
                     if (this.search === lastSearchState.search && 
                         this.searchPacman === lastSearchState.searchPacman && 
@@ -433,7 +456,7 @@
                         if (a.i === 'true' && b.i !== 'true') return -1
                         if (b.i === 'true' && a.i !== 'true') return 1
                         return b.score - a.score
-                    });
+                    })
 
                     lastSearchState = {
                         search: this.search,
@@ -449,47 +472,30 @@
                     return this.filteredItems.slice(0, this.maxItems)
                 },
                 loadMore() {
-                    this.maxItems += 30
-                    this.$forceUpdate()
+                    this.maxItems += 14
                 },
-                fetchIcon(item) {
-                    if (item.g) {
-                        fetch(`./find_icon.sh?type=flatpak&query=${item.g}`)
-                        .then(response => response.text())
-                        .then(html => {
-                            item.iconHTML = html
-                        })
-                    } else {
-                        fetch(`./find_icon.sh?type=pacman&query=${item.p}`)
-                        .then(response => response.text())
-                        .then(html => {
-                            item.iconHTML = html
-                        })
+                async fetchIcon(item) {
+                    try {
+                        let response;
+                        let html;
+                        if (item.g) {
+                            response = await fetch(`./find_icon.sh?type=flatpak&query=${item.g}`);
+                            html = await response.text();
+                            item.iconHTML = html;
+                        } else {
+                            response = await fetch(`./find_icon.sh?type=pacman&query=${item.p}`);
+                            html = await response.text();
+                            item.iconHTML = html;
+                        }
+                    } catch (error) {
+                        console.error(`Error fetching icon for ${item.p}:`, error);
                     }
                 },
                 selectAutocomplete(value) {
-                    this.$refs.searchInput.value = value;
-                    this.autocompleteResults = [];
-                    this.performSearch();
+                    this.$refs.searchInput.value = value
+                    this.autocompleteResults = []
+                    this.performSearch()
                 },
-                clearData() {
-                    this.search = null
-                    this.pacmanData = null
-                    this.aurData = null
-                    this.flatpakData = null
-                    this.snapData = null
-                    this.translatedDescriptions = {}
-                    lastSearchState = {
-                        search: '',
-                        searchPacman: false,
-                        searchAUR: false,
-                        searchFlatpak: false,
-                        searchSnap: false
-                    }
-                    lastFilteredResults = []
-                    searchTerms = []
-                    results = []
-                }
             }
         }
     
@@ -514,37 +520,43 @@ const colors = [
   "#e65100",
   "#546e7a",
   "#009688",
-];
+]
 
 
 function makeIcon(icon) {
   function numberFromText(text) {
-    // numberFromText("AA");
+    // numberFromText("AA")
     const charCodes = text
       .split("") // => ["A", "A"]
       .map((char) => char.charCodeAt(0)) // => [65, 65]
-      .join(""); // => "6565"
-    return parseInt(charCodes, 10);
+      .join("") // => "6565"
+    return parseInt(charCodes, 10)
   }
 
-  const text = icon.innerText;
-  icon.style.backgroundColor = colors[numberFromText(text) % colors.length];
+  const text = icon.innerText
+  icon.style.backgroundColor = colors[numberFromText(text) % colors.length]
   
 }
 
 function formatTitle(title) {
-    // Substitua underscores (_) e dashes (-) por espaços
-    title = title.replace(/[_-]/g, ' ');
-    
-    // Capitalize cada palavra, exceto palavras com 2 ou menos caracteres
+    title = title.replace(/[_-]/g, ' ')
     title = title.split(' ').map(word => {
-        return word.length > 2 ? word.charAt(0).toUpperCase() + word.slice(1) : word;
-    }).join(' ');
-
-    return title;
+        return word.length > 2 ? word.charAt(0).toUpperCase() + word.slice(1) : word
+    }).join(' ')
+    return title
 }
 
+function formatDescription(description) {
+    description = description.trim()
+    description = description.charAt(0).toUpperCase() + description.slice(1)
+    if (description.charAt(description.length - 1) !== '.') {
+        description += '.'
+    }
+    return description
+}
 
 </script>
-    
+<label class="switch icon large-margin fixed bottom right">
+    <a class="circle small secondary" onclick="ui('mode', ui('mode') == 'dark' ? 'light' : 'dark')"><i>dark_mode</i></a>
+</label>
 </div>

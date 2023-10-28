@@ -14,7 +14,7 @@
     <script type="module" src="js/beer.min.js"></script>
     <!-- <script type="module" src="js/material-dynamic-colors.min.js"></script> -->
   </head>
-<body class="light"  style="overflow:scroll">
+<body class="light">
 <!-- The previous lines add many features that are expected in scripts using recent versions of bigbashview -->
 
 <div x-data="getItems()" x-init="loadConfig">
@@ -86,7 +86,6 @@
                 </a>
             </template>
             <div id="infinite-scroll-trigger"></div>
-
         </div>
     </div>
     <script>
@@ -98,7 +97,6 @@
                 searchFlatpak: false,
                 searchSnap: false
             }
-            let lastFilteredResults = []
             let searchTerms = []
             let results = []
             let autoCompleteMenuEnabled = true
@@ -110,14 +108,14 @@
                 flatpakData: [],
                 snapData: [],
                 autocompleteResults: [],
-                maxItems: 14,
+                maxItems: 10,
                 translatedDescriptions: {},
                 filteredItemsCount: 0,
                 maxAutoCompleteItems: 10,
                 searchPacman: true,
                 searchAUR: true,
                 searchFlatpak: true,
-                searchSnap: true,                
+                searchSnap: true,
                 async saveConfig() {
                 try {
                     const config = {
@@ -130,9 +128,6 @@
                         method: 'POST',
                         body: JSON.stringify(config),
                     })
-
-                    this.maxItems = 14
-
                     // Carregar os dados de Pacman se o checkbox estiver marcado e os dados ainda não foram carregados
                     if (this.searchPacman && !this.pacmanData.length) {
                         this.pacmanData = await this.fetchPacmanData()
@@ -152,6 +147,7 @@
                     if (this.searchSnap && !this.snapData.length) {
                         this.snapData = await this.fetchSnapData()
                     }
+                    this.maxItems = 10
                 } catch (error) {
                     console.error("Ocorreu um erro durante o salvamento da configuração ou o carregamento dos dados:", error)
                 }
@@ -190,32 +186,16 @@
                     
                     // Trigger Element
                     this.triggerElement = this.$refs.scrollContainer.querySelector('#infinite-scroll-trigger')
-                    console.log("Trigger Element: ", this.triggerElement) // Debugging line
-                    
+
                     // Intersection Observer Supported
                     if ('IntersectionObserver' in window) {
                         this.observer = new IntersectionObserver(function(entries) {
-                            if(entries[0].isIntersecting === true) {
-                                console.log("Observer Triggered") // Debugging line
                                 ctx.loadMore()
-                            }
                         }, { threshold: [0] })
-                        
                         this.observer.observe(this.triggerElement)
-                        
-                    } else { // Fallback to scroll event listener
-                        window.addEventListener('scroll', function() {
-                            var position = ctx.triggerElement.getBoundingClientRect()
-                            
-                            if(position.top < window.innerHeight && position.bottom >= 0) {
-                                console.log("Scroll Event Triggered") // Debugging line
-                                ctx.loadMore()
-                            }
-                        })
                     }
                 },
 
-                // Novo método para autocompletar
                 autoCompleteScrollHandler(e) {
                     const { scrollTop, scrollHeight, clientHeight } = e.target
                     if (scrollTop + clientHeight >= scrollHeight) {
@@ -228,7 +208,6 @@
                     let searchTerm = this.$refs.searchInput.value.toLowerCase()
                     if (searchTerm.length === 0 || autoCompleteMenuEnabled === false) {
                         this.autocompleteResults = []
-                        // autoCompleteMenuEnabled = true
                         return
                     }
                     let allData = []
@@ -377,13 +356,13 @@
                 performSearch() {
                     this.search = this.$refs.searchInput.value
                     searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/)
-                    this.maxItems = 14  // Reset the maxItems count
+                    this.maxItems = 10  // Reset the maxItems count
                     this.autocompleteResults = [] // Clean auto complete
                     autoCompleteMenuEnabled = false
                     // re enable autoCompleteMenu after 400ms
                     setTimeout(() => {
                         autoCompleteMenuEnabled = true
-                    }, 400)
+                    }, 300)
 
                 },
                 filterData(data) {
@@ -432,19 +411,10 @@
                     }
                     return [].concat(...matches).sort((a, b) => b.score - a.score)
                 },
-
                 get filteredItems() {
                     if (this.search === '') {
                         return []
                     }
-                    if (this.search === lastSearchState.search && 
-                        this.searchPacman === lastSearchState.searchPacman && 
-                        this.searchFlatpak === lastSearchState.searchFlatpak && 
-                        this.searchSnap === lastSearchState.searchSnap && 
-                        this.searchAUR === lastSearchState.searchAUR) {
-                            return lastFilteredResults
-                    }
-
                     let combinedResults = []
                     if (this.searchPacman) combinedResults = combinedResults.concat(this.filterData(this.pacmanData))
                     if (this.searchFlatpak) combinedResults = combinedResults.concat(this.filterDataFlatpak(this.flatpakData))
@@ -457,22 +427,24 @@
                         if (b.i === 'true' && a.i !== 'true') return 1
                         return b.score - a.score
                     })
-
-                    lastSearchState = {
-                        search: this.search,
-                        searchPacman: this.searchPacman,
-                        searchFlatpak: this.searchFlatpak,
-                        searchSnap: this.searchSnap,
-                        searchAUR: this.searchAUR
-                    }
-                    lastFilteredResults = combinedResults
                     return combinedResults
                 },
+                checkScroll() {
+                    const scrollContainer = this.$refs.scrollContainer;
+                    if (scrollContainer.clientHeight >= window.innerHeight) {
+                        return;
+                    }
+                    this.loadMore();
+                },
                 get displayedItems() {
-                    return this.filteredItems.slice(0, this.maxItems)
+                    items = this.filteredItems.slice(0, this.maxItems);
+                    this.$nextTick(() => {
+                        this.checkScroll();
+                    });
+                    return items;
                 },
                 loadMore() {
-                    this.maxItems += 14
+                    this.maxItems += 10
                 },
                 async fetchIcon(item) {
                     try {

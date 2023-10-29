@@ -1,3 +1,5 @@
+@import url("system.sh.css");
+
 :root,
 body.light {
   --primary:#6289ec;
@@ -89,7 +91,6 @@ body.dark {
   --body: transparent;
 }
 
-
 .makeIcon {
     width: 43px;
     height: 43px;
@@ -106,3 +107,4 @@ body.dark {
 menu.min {
     inset-block-start: auto;
 }
+

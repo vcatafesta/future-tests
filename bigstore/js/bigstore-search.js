@@ -1,13 +1,5 @@
 // Function to manage and fetch items from multiple software repositories
 function getItems() {
-    // Variable to store the last search state
-    let lastSearchState = {
-        search: '',
-        searchPacman: false,
-        searchAUR: false,
-        searchFlatpak: false,
-        searchSnap: false
-    }
    // Variable to hold search terms
    let searchTerms = []
    // Variable to store the search results
@@ -158,50 +150,76 @@ function getItems() {
         },
         // Function to fetch data for all enabled repositories
         async fetchData() {
-            this.translatedDescriptions = await this.fetchWithFallback('translate/pacmanAndAur_pt.json').then(res => res.json())
+            // Create an array to store promises
+            const fetchPromises = [];
 
             if (this.searchPacman) {
-                this.pacmanData = await this.fetchPacmanData()
+                fetchPromises.push(this.fetchPacmanData());
             }
-
+        
             if (this.searchAUR) {
-                this.aurData = await this.fetchAurData()
+                fetchPromises.push(this.fetchAurData());
             }
-
+        
             if (this.searchFlatpak) {
-                this.flatpakData = await this.fetchFlatpakData()
+                fetchPromises.push(this.fetchFlatpakData());
             }
-
+        
             if (this.searchSnap) {
-                this.snapData = await this.fetchSnapData()
+                fetchPromises.push(this.fetchSnapData());
+            }
+        
+            // Wait for all promises to resolve
+            const [pacmanData, aurData, flatpakData, snapData] = await Promise.all(fetchPromises);
+        
+            if (this.searchPacman) {
+                this.pacmanData = pacmanData;
+            }
+        
+            if (this.searchAUR) {
+                this.aurData = aurData;
+            }
+        
+            if (this.searchFlatpak) {
+                this.flatpakData = flatpakData;
+            }
+        
+            if (this.searchSnap) {
+                this.snapData = snapData;
             }
         },
         async fetchPacmanData() {
             this.pacmanData = []
-            const data = await this.fetchWithFallback('json_search_pacman.sh').then(res => res.json())
+            const data = await this.fetchWithFallback('json_search_pacman_with_translation.sh').then(res => res.json())
             return this.processCommonData(data, 'pacman')
         },
         async fetchAurData() {
-            this.aurData = []
-            const cacheData = await this.fetchWithFallback('json_search_aur.sh').then(res => res.json())
-            const installedData = await this.fetchWithFallback('json_installed_aur.sh').then(res => res.json())
-            const processedData = this.processCommonData(cacheData, 'aur')
-            this.updateAurDataWithInstalledInfo(processedData, installedData)
-            return processedData
+            this.aurData = [];
+            const [cacheData, installedData] = await Promise.all([
+                this.fetchWithFallback('json_search_aur_with_translation.sh').then(res => res.json()),
+                this.fetchWithFallback('json_installed_aur.sh').then(res => res.json())
+            ]);
+            const processedData = this.processCommonData(cacheData, 'aur');
+            this.updateAurDataWithInstalledInfo(processedData, installedData);
+            return processedData;
         },
         async fetchFlatpakData() {
-            this.flatpakData = []
-            const cacheData = await this.fetchWithFallback('json_search_flatpak.sh').then(res => res.json())
-            const installedData = await this.fetchWithFallback('json_installed_flatpak.sh').then(res => res.json())
-            const updatesData = await this.fetchWithFallback('json_updates_flatpak.sh').then(res => res.json())
-            return this.processFlatpakData(cacheData, installedData, updatesData)
+            this.flatpakData = [];
+            const [cacheData, installedData, updatesData] = await Promise.all([
+                this.fetchWithFallback('json_search_flatpak.sh').then(res => res.json()),
+                this.fetchWithFallback('json_installed_flatpak.sh').then(res => res.json()),
+                this.fetchWithFallback('json_updates_flatpak.sh').then(res => res.json())
+            ]);
+            return this.processFlatpakData(cacheData, installedData, updatesData);
         },
         async fetchSnapData() {
-            this.snapData = []
-            const cacheData = await this.fetchWithFallback('json_search_snap.sh').then(res => res.json())
-            const installedData = await this.fetchWithFallback('json_installed_snap.sh').then(res => res.json())
-            const updatesData = await this.fetchWithFallback('json_updates_snap.sh').then(res => res.json())
-            return this.processSnapData(cacheData, installedData, updatesData)
+            this.snapData = [];
+            const [cacheData, installedData, updatesData] = await Promise.all([
+                this.fetchWithFallback('json_search_snap.sh').then(res => res.json()),
+                this.fetchWithFallback('json_installed_snap.sh').then(res => res.json()),
+                this.fetchWithFallback('json_updates_snap.sh').then(res => res.json())
+            ]);
+            return this.processSnapData(cacheData, installedData, updatesData);
         },
          // Utility function to fetch data with a timeout
         fetchWithFallback(url, ms = 30000) {
@@ -286,7 +304,7 @@ function getItems() {
             // re enable autoCompleteMenu after 400ms
             setTimeout(() => {
                 autoCompleteMenuEnabled = true
-            }, 300)
+            }, 200)
 
         },
         filterData(data) {
@@ -313,26 +331,27 @@ function getItems() {
             return results
         },
         filterByTerms(data, attributes) {
-            const added = new Set()
+            const added = new Set();
             if (!Array.isArray(data)) {
-                console.warn("Data passed to filterByTerms is not an array:", data)
-                return []
+                console.warn("Data passed to filterByTerms is not an array:", data);
+                return [];
             }
-            const matches = attributes.map(() => [])
+            const matches = attributes.map(() => []);
             for (let i = 0; i < data.length; i++) {
-                const item = data[i]
-                if (item.i == 'true') item.score += 4
+                const item = data[i];
+                item.score = 0;  // Reset score here
+                if (item.i == 'true') item.score += 4;
                 attributes.forEach((attr, idx) => {
                     if (searchTerms.every(term => item[attr].includes(term))) {
-                        if (!added.has(item.p)) { // Only add if not already added
-                            matches[idx].push(item)
-                            item.score += 5 - idx
-                            added.add(item.p) // Add identifier to the set
+                        if (!added.has(item.p)) {  // Only add if not already added
+                            matches[idx].push(item);
+                            item.score += 5 - idx;
+                            added.add(item.p);  // Add identifier to the set
                         }
                     }
-                })
+                });
             }
-            return [].concat(...matches).sort((a, b) => b.score - a.score)
+            return [].concat(...matches).sort((a, b) => b.score - a.score);
         },
         get filteredItems() {
             if (this.search === '') {
@@ -340,13 +359,9 @@ function getItems() {
             }
             let combinedResults = []
             let pacmanCounter = 0, aurCounter = 0, flatpakCounter = 0, snapCounter = 0
-            let limit = 100
             let addResult = (item, counter) => {
-                if (counter < limit) {
-                    combinedResults.push(item)
-                    return counter + 1
-                }
-                return counter
+                combinedResults.push(item)
+                return counter + 1
             }
             if (this.searchPacman) {
                 this.filterData(this.pacmanData).forEach(item => {

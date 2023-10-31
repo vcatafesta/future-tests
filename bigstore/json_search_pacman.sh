@@ -58,6 +58,3 @@ END {
     out = out "]"
     print out
 }'
-
-
-

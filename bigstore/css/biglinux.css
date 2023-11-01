@@ -108,3 +108,7 @@ menu.min {
     inset-block-start: auto;
 }
 
+dialog#pkginfo {
+  width: 90%;
+  height: 90%;
+}

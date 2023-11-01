@@ -35,7 +35,7 @@ if [[ ! -e $FileToSaveCacheFiltered ]]; then
 
     #zcat /var/tmp/pamac/packages-meta-ext-v1.json.gz | jq '[.[] | {Name, Description, Version}]' > aur_filtered.json
     # zcat /var/tmp/pamac/packages-meta-ext-v1.json.gz | jq 'reduce .[] as $item ({}; .[$item.Name] = {description: $item.Description, version: $item.Version})' > aur_filtered.json
-zcat /var/tmp/pamac/packages-meta-ext-v1.json.gz | jq -r '.[] | .Name + "\t" + .Description + "\t" + .Version' | \
+cat /var/tmp/pamac/packages-meta-ext-v1.json | jq -r '.[] | .Name + "\t" + .Description + "\t" + .Version' | \
 awk '
 # Carregar traduções do arquivo translations.txt para um array associativo
 BEGIN {
@@ -73,8 +73,6 @@ END {
 }
 ' > "$FileToSaveCacheFiltered"
 
-else
+fi
 
 cat "$FileToSaveCacheFiltered"
-
-fi

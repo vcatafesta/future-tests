@@ -30,7 +30,10 @@ function getItems() {
         flatpakCount: 0,
         snapCount: 0,
         endOfResults: false,
-
+        open: false,
+        pkgInfo: {},
+        item: {},
+        additionalInfo: null,
         // Function to save the current configuration
         async saveConfig() {
             try {
@@ -83,7 +86,18 @@ function getItems() {
             } catch (error) {
                 console.error('Error during config load:', error)
             }
+        // },showModal(item) {
+        //     this.pkgInfo = item
         },
+
+
+        showModal(item) {
+            this.pkgInfo = item;
+            // this.$nextTick(() => {
+            //     makeIcon(document.querySelector('.makeIcon'));
+            // });
+        },
+
 
         // Function to initialize the setup
         init() {
@@ -221,7 +235,19 @@ function getItems() {
             ]);
             return this.processSnapData(cacheData, installedData, updatesData);
         },
-         // Utility function to fetch data with a timeout
+        async fetchAdditionalInfo(id, type) {
+            try {
+                const response = await fetch('packageInfo.sh?type=${type}&id=${id}');
+                if (response.ok) {
+                    this.additionalInfo = await response.json();
+                } else {
+                    console.error('Failed to fetch additional info:', response.status, response.statusText);
+                }
+            } catch (error) {
+                console.error('Error during fetchAdditionalInfo:', error);
+            }
+        },
+        // Utility function to fetch data with a timeout
         fetchWithFallback(url, ms = 30000) {
             return Promise.race([
                 fetch(url),
@@ -238,7 +264,7 @@ function getItems() {
         },
         processCommonData(data, source) {
             return data.map(item => {
-                item.d = this.translatedDescriptions[item.p] ? this.translatedDescriptions[item.p].t : (item.d || '')
+                // item.d = this.translatedDescriptions[item.p] ? this.translatedDescriptions[item.p].t : (item.d || '')
                 item.s = source
                 item.searchPackage = item.p ? item.p.toLowerCase() : ''
                 item.searchDescription = item.d ? removeAccents(item.d.toLowerCase()) : ''
@@ -508,3 +534,4 @@ function formatDescription(description) {
     }
     return description
 }
+

@@ -22,63 +22,51 @@
 
 <body class="dark" x-data="getItems()" x-init="loadConfig">
     <!-- Navigation Section -->
-    <nav class="extend l scroll">
-        <div class="row tiny-margin"><img class="circle small"
-                src="images/icon-logo-biglinux.png" />
-            <h6>BigLinux</h6>
-        </div><a><i>home</i>
-            <div>Início</div>
-        </a><a><i>download</i>
-            <div>Atualizações</div>
-        </a><a><i>widgets</i>
-            <div>Instalados</div>
-        </a><a><i> history</i>
-            <div>Histórico</div>
-        </a><a><i>settings</i>
-            <div>Ajustes</div>
-        </a>
-        <div class="small-divider"></div>
-        <label class="margin left-align grey-text">Categorias</label><a><i>globe</i>
-            <div>Internet</div>
-        </a><a><i>work</i>
-            <div>Escritório</div>
-        </a><a><i>palette</i>
-            <div>Grafico</div>
-        </a><a><i>music_note</i>
-            <div>Multimídia </div>
-        </a><a><i>sports_esports</i>
-            <div>Jogos</div>
-        </a><a><i>computer</i>
-            <div>Sistema</div>
-        </a><a><i>code</i>
-            <div>Dev</div>
-        </a>
-    </nav>
-    <nav class="left m scroll">
-        <div class="small-margin"><img class="circle small"
-                src="images/icon-logo-biglinux.png" /></div>
-        <a><i>home</i>
-            <label>Início</label></a><a><i>download</i>
-            <label>Atualizações</label></a><a><i>widgets</i>
-            <label>Instalados</label></a><a><i>history</i>
-            <label>Histórico</label></a><a><i>settings</i>
-            <label>Ajustes</label></a>
-        <div class="divider"></div><a><i>globe</i>
-            <label>Internet</label></a><a><i>work</i>
-            <label>Escritório</label></a><a><i>palette</i>
-            <label>Grafico</label></a><a><i>music_note</i>
-            <label>Multimídia </label></a><a><i>sports_esports</i>
-            <label>Jogos</label></a><a><i>computer</i>
-            <label>Sistema</label></a><a><i>code</i>
-            <label>Dev</label></a>
-    </nav>
-    <nav class="bottom s"><a><i>home</i>
-            <label>Início</label></a><a><i>download</i>
-            <label>Atualizações</label></a><a><i>widgets</i>
-            <label>Instalados</label></a><a><i>history</i>
-            <label>Histórico</label></a><a><i>settings</i>
-            <label>Ajustes</label></a></nav>
-    </nav>
+  <nav class="extend l scroll">
+    <div class="row tiny-margin"><img class="circle small" src="https://www.biglinux.com.br/wp-content/uploads/2022/04/icon-logo-biglinux.png"/>
+      <h6 class="bold">Big Store</h6>
+    </div><a><i>home</i>
+      <div>Início</div></a><a class="row round"><i>download</i>
+      <div class="max left-align">Atualizações</div><span class="badge circle none">3</span></a><a><i>widgets</i>
+      <div>Instalados</div></a><a><i> history</i>
+      <div>Histórico</div></a><a><i>settings</i>
+      <div>Ajustes</div></a>
+    <div class="small-divider"></div>
+    <label class="margin left-align grey-text">Categorias</label><a><i>globe</i>
+      <div>Internet</div></a><a><i>work</i>
+      <div>Escritório</div></a><a><i>palette</i>
+      <div>Grafico</div></a><a><i>music_note</i>
+      <div>Multimídia </div></a><a><i>sports_esports</i>
+      <div>Jogos</div></a><a><i>computer</i>
+      <div>Sistema</div></a><a><i>code</i>
+      <div>Dev</div></a>
+  </nav>
+  <nav class="left m scroll">
+    <div class="small-margin"><img class="circle small" src="https://www.biglinux.com.br/wp-content/uploads/2022/04/icon-logo-biglinux.png"/></div><a><i>home</i>
+      <label>Início</label></a><a><i>download</i><span class="badge circle medium-margin">3</span>
+      <label>Atualizações</label></a><a><i>widgets</i>
+      <label>Instalados</label></a><a><i>history</i>
+      <label>Histórico</label></a><a><i>settings</i>
+      <label>Ajustes</label></a>
+    <div class="divider"></div><a><i>globe</i>
+      <label>Internet</label></a><a><i>work</i>
+      <label>Escritório</label></a><a><i>palette</i>
+      <label>Grafico</label></a><a><i>music_note</i>
+      <label>Multimídia </label></a><a><i>sports_esports</i>
+      <label>Jogos</label></a><a><i>computer</i>
+      <label>Sistema</label></a><a><i>code</i>
+      <label>Dev</label></a>
+  </nav>
+  <nav class="bottom s"><a><i>home</i>
+      <label>Início</label></a><a><span class="badge circle medium-margin">3</span><i>download</i>
+      <label>Atualizações</label></a><a><i>widgets</i>
+      <label>Instalados</label></a><a><i>history</i>
+      <label>Histórico</label></a><a><i>settings</i>
+      <label>Ajustes</label></a>
+  </nav>
+    
+    
+    
 
     <!-- Header Section -->
     <header class="fixed responsive surface">
@@ -94,34 +82,37 @@
                     </template>
                 </menu>
             </div>
-            <button class="transparent circle" onclick="updateTheme()"><i id="dark"
-                    style="display: none">light_mode</i><i id="light">dark_mode</i></button>
-            <button class="transparent circle m l" onclick="refresh()"><i>refresh</i></button>
+            <button class="transparent circle" onclick="updateTheme()"><i id="dark" style="display: none">light_mode</i><i id="light">dark_mode</i></button>
+            <button class="transparent circle"><i id="grid_view" style="display: none">list</i><i id="list">grid_view</i></button>
         </nav>
         <nav class="no-margin scroll">
             <div>
-                <label class="switch">
-                    <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig">
-                    <span>Pacman (<span x-text="pacmanCount"></span>)</span>
+                <label class="switch icon round deep-purple5">
+                    <input type="checkbox"/><span><i class="white-text">globe</i><i class="white-text deep-purple5">globe</i></span>
+                    <label class="tiny-padding white-text">Web</label>
+                    <label class="tiny-padding right-margin white-text">0</label>
                 </label>
-                <label class="switch">
-                    <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig">
-                    <span>AUR (<span x-text="aurCount"></span>)</span>
+                <label class="switch icon round green8">
+                    <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig"/><span><i class="white-text">box</i><i class="white-text green8">box</i></span>
+                    <label class="tiny-padding white-text">Nativos</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="pacmanCount"></span></label>
                 </label>
-                <label class="switch">
-                    <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig">
-                    <span>Flatpak (<span x-text="flatpakCount"></span>)</span>
+                <label class="switch icon round orange9">
+                    <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig"/><span><i class="white-text">contract</i><i class="white-text orange9">contract</i></span>
+                    <label class="tiny-padding white-text">Aur</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="aurCount"></span></label>
                 </label>
-                <label class="switch">
-                    <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig">
-                    <span>Snap (<span x-text="snapCount"></span>)</span>
+                <label class="switch icon round light-blue8">
+                    <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig"/><span><i class="white-text">deployed_code</i><i class="white-text light-blue8">deployed_code</i></span>
+                    <label class="tiny-padding white-text">Flatpak</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="flatpakCount"></span></label>
                 </label>
+                <label class="switch icon round red8">
+                    <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig"/><span><i class="white-text">raven</i><i class="white-text red8">raven</i></span>
+                    <label class="tiny-padding white-text">Snap</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="snapCount"></span></label>
+                </label>                
             </div>
-            <button class="chip fill">Web</button>
-            <button class="chip fill">Nativo</button>
-            <button class="chip fill">Aur</button>
-            <button class="chip fill">Flatpak</button>
-            <button class="chip fill">Snap</button>
         </nav>
     </header>
 
@@ -146,48 +137,67 @@
                     <!-- <p x-text="additionalInfo.some_key"></p> -->
             </dialog>
 
-                <template x-for="item in displayedItems" class="grid">
-                    <!-- <a x-on:click="_run(item.exec)" class="medium-margin medium-width"> -->
-                    <div class="s12 l6">
+            <template x-for="item in displayedItems" class="s12 m6 l4">
+                <!-- <a x-on:click="_run(item.exec)" class="medium-margin medium-width"> -->
+                <div class="s12 m6 l4">
 
-                        <article class="no-padding round wave no-elevate" x-on:click="showModal(item)"  data-ui="#pkginfo">
-
-                            <img
-                                class="responsive medium-height"
-                                src="https://img.freepik.com/fotos-gratis/a-estacao-do-outono-folheia-a-cena-da-planta-generativa-ai_188544-7971.jpg" />
-                            <div class="absolute left right top top-shadow padding white-text">
-                                <div class="row">
-                                    <div class="max truncate">
-                                        <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">Icon</div>
-                                        <h6 x-text="formatTitle(item.p)"></h6>
-                                        <div class="row no-margin">
-                                        <label x-text="formatDescription(item.d)">Description</label>
-                                        <label x-text="item.s">Type</label>
-                                        <label x-text="item.v">Version</label>
-                                        <label x-text="item.i === 'true' ? 'Remover' : 'Instalar'">Install</label>
-                                        </div>
-                                    </div>
+                    <article class="round" x-on:click="showModal(item)"  data-ui="#pkginfo">
+                        <div class="absolute right tiny-padding right-margin">
+                            <label class="switch icon round gray">
+                            <input type="checkbox"/><span><i>check</i></span>
+                            </label>
+                        </div>                        
+                            
+                        <div class="row no-padding">
+                            <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">Icon</div>
+                            <div class="max truncate">
+                            <h5 class="small bottom-padding" x-text="formatTitle(item.p)"></h5>
+                            <div class="row no-margin">
+<!--
+<div class="secondary deep-purple5 white-text round"><i class="small left-margin">globe</i><label class="right-margin">Web</label></div>
+<div class="secondary green8 white-text round"><i class="small left-margin">box</i><label class="right-margin">Nativo</label></div>
+<div class="secondary orange9 white-text round"><i class="small left-margin">contract</i><label class="right-margin">Aur</label></div>
+<div class="secondary light-blue8 white-text round"><i class="small left-margin">deployed_code</i><label class="right-margin">Flatpak</label></div>                            
+<div class="secondary red8 white-text round"><i class="small left-margin">raven</i><label class="right-margin">Snap</label></div>
+-->                            
+                                <div class="secondary red8 white-text round"><i class="small left-margin">raven</i>
+                                    <label class="right-margin" x-text="item.s">Type</label>
                                 </div>
+                                <label x-text="item.v">Version</label>
                             </div>
-                        </article>
-                    </div>
-                </template>
-
-                <div class="center-align" x-ref="scrollContainer">
-                    <div id="infinite-scroll-trigger"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="max">
+                            <h6 class="small" x-text="formatDescription(item.d)">Description</h6>
+                            </div>
+                        </div>
+                        <nav class="center-align">
+                            <div class="max"></div>
+                            <button class="tertiary small green" x-text="item.i === 'true' ? 'Remover' : 'Instalar'">Install</button>
+                            <div class="max"></div>
+                        </nav>                        
+                            
+                            
+                    </article>
                 </div>
+            </template>
 
-                <div class="center-align" x-show="search !== '' && endOfResults && displayedItems.length > 0">
-                    <p>End of Results</p>
-                </div>
-
-                <div class="center-align" x-show="search !== '' && displayedItems.length === 0">
-                    <p>Nenhum resultado</p>
-                </div>
-
+            <div class="center-align" x-ref="scrollContainer">
+                <div id="infinite-scroll-trigger"></div>
             </div>
+
+            <div class="center-align" x-show="search !== '' && endOfResults && displayedItems.length > 0">
+                <p>End of Results</p>
+            </div>
+
+            <div class="center-align" x-show="search !== '' && displayedItems.length === 0">
+                <p>Nenhum resultado</p>
+            </div>
+
         </div>
-    </main>
+    </div>
+</main>
 
 
 

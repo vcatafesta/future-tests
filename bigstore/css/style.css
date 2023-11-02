@@ -14,7 +14,7 @@ nav.extend:is(:hover, .active) {
   inset-block-end: 0;
   inset-inline-end: 0;
   block-size: auto;
-  inline-size: 10rem;
+  inline-size: 15rem;
   text-align: center;
   padding: 0.5rem;
   justify-content: flex-start;
@@ -43,6 +43,6 @@ nav.extend > * {
 
 @media only screen and (min-width: 993px) {
   nav.extend ~.responsive {
-    padding-inline-start: 20rem;
+    padding-inline-start: 15rem;
   }
 }

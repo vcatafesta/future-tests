@@ -93,11 +93,12 @@ function getItems() {
 
         showModal(item) {
             this.pkgInfo = item;
-            // this.$nextTick(() => {
-            //     makeIcon(document.querySelector('.makeIcon'));
-            // });
+                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 100)
+                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 300)
+                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 600)
+                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 1000)
         },
-
+        
 
         // Function to initialize the setup
         init() {

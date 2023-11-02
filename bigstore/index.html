@@ -132,14 +132,14 @@
 
             <!-- $nextTick(() => { console.log($el.innerText) }); -->
 
-            <dialog x-data="pkgInfo" id="pkginfo"  >
-                    <div id="icon" x-html="pkgInfo.iconHTML" x-on:click=" makeIcon($el.icon) ">Icon</div>
+            <dialog x-data="pkgInfo" id="pkginfo">
+                    <div x-html="pkgInfo.iconHTML" >Icon</div>
                     <h6 x-text="formatTitle(pkgInfo.p)"></h6>
                     <div class="row no-margin">
                     <label x-text="formatDescription(pkgInfo.d)">Description</label>
                     <label x-text="pkgInfo.s">Type</label>
                     <label x-text="pkgInfo.v">Version</label>
-                    <label x-text="pkgInfo.i === 'true' ? 'Remover' : 'Instalar'">Install</label>
+                    <label  x-text="pkgInfo.i === 'true' ? 'Remover' : 'Instalar'">Install</label>
                     </div>
 
                     <button class="border" data-ui="#pkginfo">Fechar</button>

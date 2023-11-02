@@ -1,4 +1,3 @@
-```markdown
 # JSON Fetch Component with Alpine.js
 
 This document describes the `fetchJson` component designed to work with Alpine.js. The component fetches JSON data from specified URLs and displays selected data within a web page.

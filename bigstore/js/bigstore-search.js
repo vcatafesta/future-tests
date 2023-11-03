@@ -33,6 +33,7 @@ function getItems() {
         open: false,
         pkgInfo: {},
         item: {},
+        pacmanInfo: null,
         additionalInfo: null,
         // Function to save the current configuration
         async saveConfig() {
@@ -98,7 +99,11 @@ function getItems() {
                 setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 600)
                 setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 1000)
         },
-        
+        getPacmanInfo() {
+            fetch('json_info_pacman.sh?' + this.pkgInfo.p)
+                .then((response) => response.json())
+                .then((json) => this.pacmanInfo = json);
+        },
 
         // Function to initialize the setup
         init() {
@@ -536,3 +541,17 @@ function formatDescription(description) {
     return description
 }
 
+function packageFormat(type) {
+    if (type == 'pacman') {
+        format = '<div class="secondary green8 white-text round"><i class="small left-margin">box</i><label class="right-margin">Nativo</label></div>'
+    } else if (type == 'aur') {
+        format = '<div class="secondary orange9 white-text round"><i class="small left-margin">contract</i><label class="right-margin">Aur</label></div>'
+    } else if (type == 'flatpak') {
+        format = '<div class="secondary light-blue8 white-text round"><i class="small left-margin">deployed_code</i><label class="right-margin">Flatpak</label></div>'
+    } else if (type == 'snap') {
+        format = '<div class="secondary red8 white-text round"><i class="small left-margin">raven</i><label class="right-margin">Snap</label></div>'
+    } else if (type == 'web') {
+        format = '<div class="secondary deep-purple5 white-text round"><i class="small left-margin">globe</i><label class="right-margin">Web</label></div>'
+    }
+    return format
+}

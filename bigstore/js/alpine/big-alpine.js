@@ -1,63 +1,6 @@
 // Alpine listeners
 document.addEventListener('alpine:init', async () => {
 
-    Alpine.magic('fetchjson', () => {
-        return async (
-            url,
-            jsonItem = null,
-            method = "GET"
-        ) => {
-            let response = await xfetch(url = url, jsonItem = jsonItem, method = method)
-            return await response;
-        }
-    })
-
-    Alpine.magic('fetch', () => {
-        return async (
-            url,
-            method = "GET"
-        ) => {
-            let response = await xfetch(url = url, jsonItem = null, method = method)
-            return await response;
-        }
-    })
-
-})
-
-// Actual fetch function
-async function xfetch(url, jsonItem = null, method = 'GET') {
-
-    if (jsonItem == null) {
-
-        return fetch(url, {method: method})
-            .then((response) => response.text())
-            .then((responseText) => {
-                return responseText
-            })
-            .catch((error) => {
-              console.log(error)
-            });
-
-    } else {
-
-        return fetch(url, {method: method})
-            .then((response) => response.json())
-            .then((responseJson) => {
-                return responseJson[jsonItem]
-            })
-            .catch((error) => {
-              console.log(error)
-            });
-
-    }
-}
-
-
-
-
-// Alpine listeners
-document.addEventListener('alpine:init', async () => {
-
     // Existing 'fetchjson' magic method for fetching and returning a specific item from JSON
     Alpine.magic('fetchjson', () => {
         return async (
@@ -92,6 +35,56 @@ document.addEventListener('alpine:init', async () => {
         }
     });
 
+    Alpine.magic('loadComponent', () => {
+        return async (url, target) => {
+            const response = await fetch(url);
+            const text = await response.text();
+            document.querySelector(target).innerHTML = text;
+            Alpine.initializeComponent(document.querySelector(target));
+        };
+    });
+
+    // Função para verificar se o resultado de uma URL é 'active'
+    Alpine.magic('isActive', () => {
+        return async (url) => {
+            try {
+                const response = await fetch(url);
+                const text = await response.text();
+                return text.trim().toLowerCase() === 'true';
+            } catch (error) {
+                console.error('Erro ao verificar isActive:', error);
+                return false;
+            }
+        };
+    });
+
+    // Define uma função global para verificar o estado 'active'
+    isActive = function (alpineComponent, url) {
+        fetch(url)
+            .then(response => response.text())
+            .then(text => {
+                alpineComponent.active = text.trim();
+            })
+            .catch(error => {
+                console.error('Erro ao verificar isActive:', error);
+                return false;
+            });
+    };
+
+    // Função para inicializar componentes customizados
+    document.querySelectorAll('[component]').forEach(async (component) => {
+        const componentName = component.getAttribute('component');
+        const jsonFile = component.getAttribute('load-json');
+        const componentHtml = await fetch(`components/${componentName}.html`).then(res => res.text());
+        
+        if (jsonFile) {
+            const jsonData = await fetch(jsonFile).then(res => res.json());
+            component.innerHTML = componentHtml;
+            Alpine.addScopeToNode(component, jsonData, Alpine.reactive);
+        } else {
+            component.innerHTML = componentHtml;
+        }
+    });
 });
 
 // Actual fetch function

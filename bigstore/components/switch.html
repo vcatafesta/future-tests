@@ -1,0 +1,17 @@
+<div class="field middle-align" :class="{'invalid': error}">
+  <nav>
+    <div class="max">
+      <h6 x-text="title"></h6>
+      <div x-text="description"></div>
+    </div>
+    <label class="switch">
+      <input type="checkbox" :checked="active === 'true'">
+      <span></span>
+    </label>
+  </nav>
+  <span class="error" x-show="error" x-text="error"></span>
+</div>
+
+<!-- How to use:
+<div component="switch" x-data='{ "title": "Seu Título", "description": "Sua Descrição", "error": "Sua Mensagem de Erro", "active": "true" }'></div>
+-->

@@ -31,4 +31,4 @@ package() {
     if [ -d "$InternalDir/opt" ]; then
         cp -r "$InternalDir/opt" "$pkgdir/"
     fi
-
+}

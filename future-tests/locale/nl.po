@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the future-tests package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: future-tests\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/components/cardresult.html, line: 0
+msgid "Icon"
+msgstr "Pictogram"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Fim dos resultados"
+msgstr "Einde resultaten"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Nenhum resultado"
+msgstr "Geen resultaten"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Web"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Nativos"
+msgstr "Inheems"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Aur"
+msgstr "Aur"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Flatpak"
+msgstr "Plat pak"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Snap"
+msgstr "Module"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Início"
+msgstr "Begin"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Atualizações"
+msgstr "Updates"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Instalados"
+msgstr "Geïnstalleerd"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Histórico"
+msgstr "Historisch"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Ajustes"
+msgstr "Instellingen"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Categorias"
+msgstr "Categorieën"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Internet"
+msgstr "Internet"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Escritório"
+msgstr "Kantoor"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Gráfico"
+msgstr "Grafiek"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Multimídia"
+msgstr "Multimedia"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Jogos"
+msgstr "Gaming"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Sistema"
+msgstr "Systeem"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Desenvolvimento"
+msgstr "Ontwikkeling"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Repositório:"
+msgstr "Opslagplaats:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Nome:"
+msgstr "Naam:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Versão:"
+msgstr "Versie:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Descrição:"
+msgstr "Omschrijving: __________:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Arquitetura:"
+msgstr "Architectuur:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "URL:"
+msgstr "URL:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Licença:"
+msgstr "Licentie:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Grupos:"
+msgstr "Groepen:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Providos:"
+msgstr "Mits:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Depende de:"
+msgstr "Het hangt af van:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Dependências opcionais:"
+msgstr "Optionele afhankelijkheden:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Requerido por:"
+msgstr "Vereist door:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Opcional para:"
+msgstr "Optioneel voor:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Conflita com:"
+msgstr "Conflicteert met:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Substitui:"
+msgstr "Overschrijft:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Tamanho do download:"
+msgstr "Downloadgrootte:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Tamanho instalado:"
+msgstr "Geïnstalleerde grootte:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Empacotado por:"
+msgstr "Verpakt door:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Data do empacotamento:"
+msgstr "Datum van verpakking:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "MD5 Sum:"
+msgstr "MD5 Som:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "SHA-256 Sum:"
+msgstr "SHA-256 Som:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Assinaturas:"
+msgstr "Handtekeningen:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Fechar"
+msgstr "Sluiten"

@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the future-tests package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: future-tests\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/components/cardresult.html, line: 0
+msgid "Icon"
+msgstr "Ikon"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Fim dos resultados"
+msgstr "Slut på resultat"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Nenhum resultado"
+msgstr "Inga resultat"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Webb"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Nativos"
+msgstr "Infödd"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Aur"
+msgstr "Aur Aur"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Flatpak"
+msgstr "Flatpak (på engelska)"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Snap"
+msgstr "Snäsa"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Início"
+msgstr "Början"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Atualizações"
+msgstr "Uppdateringar"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Instalados"
+msgstr "Installerad"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Histórico"
+msgstr "Historisk"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Ajustes"
+msgstr "Inställningar"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Categorias"
+msgstr "Kategorier"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Internet"
+msgstr "Internet"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Escritório"
+msgstr "Kontor"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Gráfico"
+msgstr "Graf"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Multimídia"
+msgstr "Multimedia"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Jogos"
+msgstr "Spel"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Sistema"
+msgstr "System"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Desenvolvimento"
+msgstr "Utveckling"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Repositório:"
+msgstr "Databasen:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Nome:"
+msgstr "Namn:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Versão:"
+msgstr "Version:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Descrição:"
+msgstr "Beskrivning: __________:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Arquitetura:"
+msgstr "Arkitektur:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "URL:"
+msgstr "URL:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Licença:"
+msgstr "Licens:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Grupos:"
+msgstr "Grupper:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Providos:"
+msgstr "Förutsatt:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Depende de:"
+msgstr "Det beror på:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Dependências opcionais:"
+msgstr "Valfria beroenden:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Requerido por:"
+msgstr "Krävs av:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Opcional para:"
+msgstr "Valfri för:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Conflita com:"
+msgstr "Konflikter med:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Substitui:"
+msgstr "Åsidosätter:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Tamanho do download:"
+msgstr "Ladda ner Storlek:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Tamanho instalado:"
+msgstr "Installerad storlek:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Empacotado por:"
+msgstr "Förpackad av:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Data do empacotamento:"
+msgstr "Förpackning Datum:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "MD5 Sum:"
+msgstr "MD5 Summa:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "SHA-256 Sum:"
+msgstr "SHA-256 Summa:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Assinaturas:"
+msgstr "Signaturer:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Fechar"
+msgstr "Stänga"

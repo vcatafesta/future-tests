@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the future-tests package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: future-tests\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/components/cardresult.html, line: 0
+msgid "Icon"
+msgstr "Ікона"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Fim dos resultados"
+msgstr "Кінець результатів"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Nenhum resultado"
+msgstr "Немає результатів"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Веб"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Nativos"
+msgstr "Рідний"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Aur"
+msgstr "Аур"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Flatpak"
+msgstr "Flatpak"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/header.html, line: 0
+msgid "Snap"
+msgstr "Оснащення"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Início"
+msgstr "Початок"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Atualizações"
+msgstr "Оновлення"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Instalados"
+msgstr "Встановлені"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Histórico"
+msgstr "Історичного"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Ajustes"
+msgstr "Параметри"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Categorias"
+msgstr "Категорії"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Internet"
+msgstr "Інтернет"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Escritório"
+msgstr "Офіс"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Gráfico"
+msgstr "Графік"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Multimídia"
+msgstr "Мультимедіа"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Jogos"
+msgstr "Ігровий"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Sistema"
+msgstr "Система"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/navigation.html, line: 0
+msgid "Desenvolvimento"
+msgstr "Розробка"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Repositório:"
+msgstr "Сховище:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Nome:"
+msgstr "Ім'я:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Versão:"
+msgstr "Версія:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Descrição:"
+msgstr "Опис:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Arquitetura:"
+msgstr "Архітектура:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "URL:"
+msgstr "Адреса:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Licença:"
+msgstr "Ліцензія:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Grupos:"
+msgstr "Групи:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Providos:"
+msgstr "Умови:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Depende de:"
+msgstr "Це залежить від:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Dependências opcionais:"
+msgstr "Необов'язкові залежності:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Requerido por:"
+msgstr "Обов'язково:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Opcional para:"
+msgstr "Факультативно для:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Conflita com:"
+msgstr "Конфлікти з:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Substitui:"
+msgstr "Заміщення:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Tamanho do download:"
+msgstr "Розмір завантаження:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Tamanho instalado:"
+msgstr "Встановлений розмір:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Empacotado por:"
+msgstr "Упаковано:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Data do empacotamento:"
+msgstr "Дата упаковки:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "MD5 Sum:"
+msgstr "Сума MD5:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "SHA-256 Sum:"
+msgstr "SHA-256 Сума:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Assinaturas:"
+msgstr "Підписи:"
+
+# 
+# File: future-tests/future-tests/usr/share/bigbashview/bcc/apps/bigstore/html/pkginfo.html, line: 0
+msgid "Fechar"
+msgstr "Закрити"

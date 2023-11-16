@@ -4,32 +4,31 @@ pkgname=future-tests
 pkgver=$(date +%Y_%m_%d)
 pkgrel=$(date +%H%M)
 arch=('any')
-license=('GPL')
+license=('MIT')
 url="https://github.com/biglinux/future-tests"
 pkgdesc="Test to future of BigLinux"
-depends=('bigbashview')
 source=("git+https://github.com/biglinux/future-tests.git")
 md5sums=(SKIP)
 
 package() {
     # Verify default folder
-    if [ -d "${srcdir}/${pkgname}/${pkgname}" ]; then
-        InternalDir="${srcdir}/${pkgname}/${pkgname}"
+    if [ -d "$srcdir/$pkgname/$pkgname" ]; then
+        InternalDir="$srcdir/$pkgname/$pkgname"
     else
-        InternalDir="${srcdir}/${pkgname}"
+        InternalDir="$srcdir/$pkgname"
     fi
 
 
     # Copy files
-    if [ -d "${InternalDir}/usr" ]; then
-        cp -r "${InternalDir}/usr" "${pkgdir}/"
+    if [ -d "$InternalDir/usr" ]; then
+        cp -r "$InternalDir/usr" "$pkgdir/"
     fi
 
-    if [ -d "${InternalDir}/etc" ]; then
-        cp -r "${InternalDir}/etc" "${pkgdir}/"
+    if [ -d "$InternalDir/etc" ]; then
+        cp -r "$InternalDir/etc" "$pkgdir/"
     fi
 
-    if [ -d "${InternalDir}/opt" ]; then
-        cp -r "${InternalDir}/opt" "${pkgdir}/"
+    if [ -d "$InternalDir/opt" ]; then
+        cp -r "$InternalDir/opt" "$pkgdir/"
     fi
-}
+

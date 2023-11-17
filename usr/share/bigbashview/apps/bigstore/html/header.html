@@ -1,0 +1,57 @@
+    <!-- Header Section -->
+    <header class="fixed responsive surface">
+        <nav>
+            <div class="field prefix fill round max"><i>search</i>
+                <input type="search" @input.debounce.350ms="filterAutocomplete" x-ref="searchInput"
+                    x-on:keyup.enter="performSearch" placeholder="Search...">
+                <menu class="min" x-show="autocompleteResults.length > 0" style="max-height: 200px; overflow-y: auto;">
+                    <template x-for="result in autocompleteResults">
+                        <a class="row" x-on:click="selectAutocomplete(result.p)">
+                            <div x-text="result.p + '  -  ' + result.s"></div>
+                        </a>
+                    </template>
+                </menu>
+            </div>
+            <button class="transparent circle" onclick="setColorMode()">
+            <i id="dark" style="display: none">light_mode</i><i id="light">dark_mode</i></button>
+            <button class="transparent circle"><i id="grid_view" style="display: none">list</i><i id="list">grid_view</i></button>
+        </nav>
+        <nav class="no-margin scroll">
+            <div>
+                <label class="switch icon round deep-purple5">
+                    <input type="checkbox" /><span><i class="white-text">globe</i>
+                    <i class="white-text deep-purple5">globe</i></span>
+                    <label class="tiny-padding white-text" stonejs>Web</label>
+                    <label class="tiny-padding right-margin white-text">0</label>
+                </label>
+                <label class="switch icon round green8">
+                    <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig" /><span>
+                    <i class="white-text">box</i><i class="white-text green8">box</i></span>
+                    <label class="tiny-padding white-text" stonejs>Nativos</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="pacmanCount"></span></label>
+                </label>
+                <label class="switch icon round orange9">
+                    <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig" /><span>
+                    <i class="white-text">contract</i><i class="white-text orange9">contract</i></span>
+                    <label class="tiny-padding white-text" stonejs>Aur</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="aurCount"></span></label>
+                </label>
+                <label class="switch icon round light-blue8">
+                    <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig" /><span>
+                    <i class="white-text">deployed_code</i><i class="white-text light-blue8">deployed_code</i></span>
+                    <label class="tiny-padding white-text" stonejs>Flatpak</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="flatpakCount"></span></label>
+                </label>
+                <label class="switch icon round red8">
+                    <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig" /><span>
+                    <i class="white-text">raven</i><i class="white-text red8">raven</i></span>
+                    <label class="tiny-padding white-text" stonejs>Snap</label>
+                    <label class="tiny-padding right-margin white-text"><span x-text="snapCount"></span></label>
+                </label>
+            </div>
+        </nav>
+    </header>
+    <!-- Main Content -->
+    <main class="responsive max">
+        <div class="page right active">
+            <div class="grid large-space">

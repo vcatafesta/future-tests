@@ -5,6 +5,7 @@ pkgver=$(date +%Y_%m_%d)
 pkgrel=$(date +%H%M)
 arch=('any')
 license=('MIT')
+depends=('bbv-framework')
 url="https://github.com/biglinux/future-tests"
 pkgdesc="Test to future of BigLinux"
 source=("git+https://github.com/biglinux/future-tests.git")

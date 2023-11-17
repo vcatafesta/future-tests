@@ -1,0 +1,43 @@
+<template x-for="item in displayedItems" class="s12 m6 l4">
+    <div class="s12 m6 l4">
+        <article class="round" x-on:click="showModal(item); await getPacmanInfo()" data-ui="#pkginfo">
+            <div class="absolute right tiny-padding right-margin">
+                <label class="switch icon round gray">
+                    <input type="checkbox" /><span><i>check</i></span>
+                </label>
+            </div>
+
+            <div class="row no-padding">
+                <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML">
+                    <span stonejs>Icon</span></div>
+                <div class="max truncate">
+                    <h5 class="small bottom-padding" x-text="formatTitle(item.p)"></h5>
+                    <div class="row no-margin">
+                        <div x-html="packageFormat(item.s)"></div>
+                        <label x-text="item.v">Version</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="max">
+                    <h6 class="small" x-text="formatDescription(item.d)">Description</h6>
+                </div>
+            </div>
+            <nav class="center-align">
+                <div class="max"></div>
+                <button class="tertiary small green"
+                x-text="item.i === 'true' ? _('Remover') : _('Instalar')">Install</button>
+                <div class="max"></div>
+            </nav>
+        </article>
+    </div>
+</template>
+<div class="center-align" x-ref="scrollContainer">
+    <div id="infinite-scroll-trigger"></div>
+</div>
+<div class="center-align" x-show="search !== '' && endOfResults && displayedItems.length > 0">
+    <p stonejs>Fim dos resultados</p>
+</div>
+<div class="center-align" x-show="search !== '' && displayedItems.length === 0">
+    <p stonejs>Nenhum resultado</p>
+</div>

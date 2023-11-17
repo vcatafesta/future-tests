@@ -1,0 +1,15 @@
+O Kernel em uso é: <?include bash uname -r?>
+<br><br>
+A Placa de vídeo é: <?include bash lspci | grep VGA | cut -f3 -d:?>
+
+
+<br><br>
+<?include bash
+    echo "Pode usar multi linhas também <br><br>Informações da VGA: "
+    lspci | grep VGA
+?>
+
+<br><br>
+<?include python
+    print('Pode utilizar python também')
+?>

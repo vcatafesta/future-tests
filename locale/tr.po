@@ -17,22 +17,6 @@ msgstr ""
 "X-Generator: attranslate\n"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html, line: 0
-msgid "Icon"
-msgstr "İkon"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-msgid "Fim dos resultados"
-msgstr "Fim dos resultados"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-msgid "Nenhum resultado"
-msgstr "Nenhum resultado"
-
-# 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Web"
 msgstr "Web"
@@ -56,81 +40,6 @@ msgstr "Yassı Pak"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Snap"
 msgstr "Çıt"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Início"
-msgstr "Início"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Atualizações"
-msgstr "Atualizações"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Instalados"
-msgstr "Instalados Adası"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Histórico"
-msgstr "Histórico"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Ajustes"
-msgstr "Ajustes (Türkçe)"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Categorias"
-msgstr "Kategoriler"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Internet"
-msgstr "Internet"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Escritório"
-msgstr "Escritório"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Gráfico"
-msgstr "Gráfico"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Multimídia"
-msgstr "Multimídia"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Jogos"
-msgstr "Jogos (Şakalar)"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Sistema"
-msgstr "Sistema"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Desenvolvimento"
-msgstr "Desenvolvimento"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Multimídia "
-msgstr "Multimídia "
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Dev"
-msgstr "Geliştirici"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
@@ -248,9 +157,123 @@ msgid "Fechar"
 msgstr "Fechar Belediyesi"
 
 # 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html, line: 0
+msgid "Icon"
+msgstr "İkon"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Fim dos resultados"
+msgstr "Fim dos resultados"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Nenhum resultado"
+msgstr "Nenhum resultado"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Início"
+msgstr "Início"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Atualizações"
+msgstr "Atualizações"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Instalados"
+msgstr "Instalados Adası"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Histórico"
+msgstr "Histórico"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Ajustes"
+msgstr "Ajustes (Türkçe)"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Categorias"
+msgstr "Kategoriler"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Internet"
+msgstr "Internet"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Escritório"
+msgstr "Escritório"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Gráfico"
+msgstr "Gráfico"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Multimídia"
+msgstr "Multimídia"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Jogos"
+msgstr "Jogos (Şakalar)"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Sistema"
+msgstr "Sistema"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Desenvolvimento"
+msgstr "Desenvolvimento"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Multimídia "
+msgstr "Multimídia "
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+msgid "Dev"
+msgstr "Geliştirici"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid ""
+"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
+"https://forum.biglinux.com.br."
+msgstr ""
+"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
+"https://forum.biglinux.com.br."
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid "Contamos com você para ter um sistema cada vez melhor!"
+msgstr "Contamos com você para ter um sistema cada vez melhor!"
+
+# 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
 msgid "Manutenção"
 msgstr "Manutenção"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid "Voltar"
+msgstr "Voltar Belediyesi"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
@@ -309,21 +332,3 @@ msgstr ""
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
 msgid "Avançado"
 msgstr "Avançado Adası"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-msgstr ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid "Contamos com você para ter um sistema cada vez melhor!"
-msgstr "Contamos com você para ter um sistema cada vez melhor!"

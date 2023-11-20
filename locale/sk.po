@@ -248,6 +248,16 @@ msgid "Dev"
 msgstr "Dev"
 
 # 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid "O sistema está em modo"
+msgstr "O sistema está em modo"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid "e com o kernel"
+msgstr "E com o kernel"
+
+# 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
 # File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
@@ -274,6 +284,11 @@ msgstr "Manutenção"
 # File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
 msgid "Voltar"
 msgstr "Voltar"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid "Opções avançadas"
+msgstr "Opções avançadas"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
@@ -311,11 +326,6 @@ msgstr ""
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
 msgid "Instalar"
 msgstr "Instalar"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid "Opções avançadas"
-msgstr "Opções avançadas"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0

@@ -14,11 +14,11 @@
 <!-- firstPage -->
 <main x-show="activePage === 'firstPage'">
   <nav class="padding center-align no-space">
-    <p>O sistema está em modo</p>&nbsp;
+    <p stonejs>O sistema está em modo</p>&nbsp;
     <p class="bold">
       <?include bash [ -d /sys/firmware/efi ] && echo ' UEFI' || echo ' BIOS (Legacy)'?>
     </p>&nbsp;
-    <p>e com o kernel</p>&nbsp;
+    <p stonejs>e com o kernel</p>&nbsp;
     <p class="bold">
       <?include bash uname -r | cut -f1 -d-?>
     </p>
@@ -32,7 +32,7 @@
       description: _("Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do sistema instalado."), 
       buttonText: _("Restaurar"), 
       buttonIcon: "settings",
-      buttonAction: () => onclick = activePage = "restorePage"}'>
+      buttonAction: () => activePage = "restorePage"}'>
     </div>
     
     <div component="card-model-1" x-data='{
@@ -42,7 +42,7 @@
       buttonText: _("Instalar"), 
       buttonIcon: "install_desktop",
       buttonClass: "tertiary",
-      buttonAction: () => window.location.href="install.sh.htm?option=btrfs"}'>
+      buttonAction: () => window.location.href = "install.sh.htm?option=btrfs"}'>
     </div>
 
     <div component="card-model-1" x-data='{
@@ -51,7 +51,7 @@
       icon: "icon/advanced.svg", 
       buttonText: _("Avançado"), 
       buttonIcon: "install_desktop",
-      buttonAction: () => window.location.href="install.sh.htm?option=btrfs"}'>
+      buttonAction: () => activePage = "advancedFileSystem"}'>
     </div>
 
   </div>
@@ -61,6 +61,7 @@
     <p stonejs>Contamos com você para ter um sistema cada vez melhor!</p>
   </div>
 </main>
+
 
 <!-- restorePage -->
 <main x-show="activePage === 'restorePage'">
@@ -76,7 +77,7 @@
         description: _("Utilitário que facilita a restauração do sistema instalado, principalmente a restauração do boot do sistema (Grub). Também pode ser utilizado para acessar o gerenciador de pacotes e o terminal do sistema instalado."), 
         buttonText: _("Abrir"),
         buttonIcon: "done",
-        buttonAction: () => onclick=_run("biglinux-grub-restore")}'>
+        buttonAction: () => _run("biglinux-grub-restore")}'>
       </div>
 
       <div component="card-model-1" x-data='{
@@ -85,7 +86,7 @@
         description: _("Sistema em modo live. Restaure pontos de restauração do sistema instalado."),
         buttonText: _("Abrir"),
         buttonIcon: "done",
-        buttonAction: () => onclick=_run("timeshift-launcher")}'>
+        buttonAction: () => _run("timeshift-launcher")}'>
       </div>
 
     </div>
@@ -96,6 +97,88 @@
         <span stonejs>Voltar</span>
       </button>
     </nav>
+</main>
+
+
+<!-- advancedFileSystem -->
+<main x-show="activePage === 'advancedFileSystem'">
+  <i class="extra absolute padding"><img src="icon/advanced.svg"></i>
+  <nav class="padding">
+    <h6 class="medium max center-align bold" stonejs>Opções avançadas</h6>
+  </nav>
+
+  <div class="grid padding grid-container-auto-adjust center" x-init="autoAdjustGrid()" x-on:resize.window="autoAdjustGrid()" data-min-width="320" data-max-width="1400">
+    <div component="card-model-1" x-data='{
+      icon: "icon/drive-harddisk.svg",
+      title: _("BTRFS"), 
+      description: _("Desempenho com compactação de dados, pontos de restauração, não necessita de uma partição separada para /boot e SWAP."), 
+      buttonText: _("Escolher"),
+      buttonIcon: "done",
+      buttonClass: "tertiary",
+      buttonAction: () => activePage = "advanced"}'>
+    </div>
+    <div component="card-model-1" x-data='{
+      icon: "icon/drive-harddisk.svg",
+      title: _("EXT4"), 
+      description: _("Compatibilidade com tabelas de particionamento antigas e oferece suporte ao sistema de arquivos EXT4."),
+      buttonText: _("Escolher"),
+      buttonIcon: "done",
+      buttonAction: () => activePage = "advanced"}'>
+    </div>
+
+  </div>
+
+  <nav class="center-align padding">
+    <button class="no-border tertiary" @click="activePage = 'firstPage'">
+      <i>arrow_circle_left</i>
+      <span stonejs>Voltar</span>
+    </button>
+  </nav>
+</main>
+
+
+<!-- advanced -->
+<main x-show="activePage === 'advanced'">
+  <i class="extra absolute padding"><img src="icon/advanced.svg"></i>
+  <nav class="padding">
+    <h6 class="medium max center-align bold" stonejs>Opções avançadas</h6>
+  </nav>
+
+  <div class="grid padding grid-container-auto-adjust center" x-init="autoAdjustGrid()" x-on:resize.window="autoAdjustGrid()" data-min-width="320" data-max-width="1400">
+    <div component="card-model-1" x-data='{
+      icon: "icon/big-community.svg",
+      title: _("Big Community"), 
+      description: _("No BigLinux, é possível personalizar o sistema e compartilhar criações com outros usuários, promovendo um ambiente colaborativo inovador."), 
+      buttonText: _("Abrir"),
+      buttonIcon: "done",
+      buttonAction: () => onclick=_run("biglinux-grub-restore")}'>
+    </div>
+    <div component="card-model-1" x-data='{
+      icon: "icon/install.svg",
+      title: _("Padrão"), 
+      description: _("Instalação padrão vai utilizar o sistema de arquivos escolhido anteriormente."),
+      buttonText: _("Instalar"),
+      buttonIcon: "done",
+      buttonClass: "tertiary",
+      buttonAction: () => onclick=_run("timeshift-launcher")}'>
+    </div>
+    <div component="card-model-1" x-data='{
+      icon: "icon/install.svg",
+      title: _("Minimal"), 
+      description: _("No Mininal, você decide quais programas instalar, garantindo uma experiência altamente personalizada."),
+      buttonText: _("Abrir"),
+      buttonIcon: "done",
+      buttonAction: () => onclick=_run("timeshift-launcher")}'>
+    </div>
+
+  </div>
+
+  <nav class="center-align padding">
+    <button class="no-border tertiary" @click="activePage = 'firstPage'">
+      <i>arrow_circle_left</i>
+      <span stonejs>Voltar</span>
+    </button>
+  </nav>
 </main>
 
 

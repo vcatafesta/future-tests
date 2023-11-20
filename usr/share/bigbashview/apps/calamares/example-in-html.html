@@ -1,0 +1,73 @@
+<html>
+<head>
+  <script> let projectName = 'bigbashview-calamares'; </script>
+
+  <!-- Include the generic header (CSS and JS) -->
+  <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
+
+  <!-- Include button to change color -->
+  <?include html /usr/share/bigbashview/framework/html/buttonChangeColorRightBottom.html?>
+</head>
+
+<body class="<?include bash getColor.sh?> large-text">
+
+  <nav class="padding center-align no-space">
+    <p>O sistema está em modo</p>&nbsp;
+    <p class="bold">
+      <?include bash [ -d /sys/firmware/efi ] && echo ' UEFI' || echo ' BIOS (Legacy)'?>
+    </p>&nbsp;
+    <p>e com o kernel</p>&nbsp;
+    <p class="bold">
+      <?include bash uname -r | cut -f1 -d-?>
+    </p>
+  </nav>
+
+  <div class="grid padding grid-container-auto-adjust center" x-init="autoAdjustGrid()" x-on:resize.window="autoAdjustGrid()" data-min-width="320" data-max-width="1400">
+
+    <article class="grid-item round fill medium-height middle-align center-align no-margin">
+      <div>
+        <img class="extra" src="icon/maintenance.svg">
+        <h5 class="center-align" stonejs>Manutenção</h5>
+        <p stonejs>Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do sistema
+          instalado.</p>
+        <button class="border secondary-container large-margin" onclick="window.location.href='restore.sh.htm';">
+          <i>settings</i><span class="upper" stonejs>Restaurar</span>
+        </button>
+      </div>
+    </article>
+
+    <article class="grid-item round fill medium-height middle-align center-align no-margin">
+      <div>
+        <img class="extra" src="icon/install.svg">
+        <h5 class="center-align" stonejs>Dicas de Instalação</h5>
+        <p stonejs>Utilize partição BTRFS para ter compressão automática e pontos de restauração. Não crie partição
+          /boot separada. Não crie partição SWAP, utilizamos gerênciamento dinâmico de memória virtual.</p>
+        <button class="border tertiary large-margin" onclick="window.location.href='install.sh.htm?option=btrfs';">
+          <i>install_desktop</i><span class="upper" stonejs>Instalar</span>
+        </button>
+      </div>
+    </article>
+
+    <article class="grid-item round fill medium-height middle-align center-align no-margin">
+      <div>
+        <img class="extra" src="icon/advanced.svg">
+        <h5 class="center-align" stonejs>Opções avançadas</h5>
+        <p stonejs>É um usuário avançado e deseja fazer uma instalação personalizada? Possuimos diversas possibilidades
+          para o sistema atender suas necessidades.</p>
+        <button class="border secondary-container large-margin"
+          onclick="window.location.href='install.sh.htm?option=btrfs';">
+          <i>tune</i><span class="upper" stonejs>Avançado</span>
+        </button>
+      </div>
+    </article>
+
+  </div>
+
+  <div class="center-align large-padding">
+    <a onclick="_run('xdg-open https://forum.biglinux.com.br')" stonejs>Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: https://forum.biglinux.com.br.</a>
+    <p stonejs>Contamos com você para ter um sistema cada vez melhor!</p>
+    <i></i>
+  </div>
+
+</body>
+</html>

@@ -3,14 +3,14 @@
     <!-- Set the project name -->
     <script> let projectName = 'future-tests'; </script>
 
-    <!-- Include the generic header (CSS and JS) -->
-    <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
-
     <!-- Add translation support -->
     <?include html /usr/share/bigbashview/framework/html/translate.html?>
+    
+    <!-- Include the generic header (CSS and JS) -->
+    <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
 
     <!-- Include project-specific JavaScript file -->
     <script src="js/bigstore-search.js"></script>
 </head>
 
-<body class="<?include bash getColor.sh?> large-text" x-data="getItems()" x-init="loadConfig"> 
+<body class="<?include bash getColor.sh?> large-text"> 

@@ -1,15 +1,20 @@
-O Kernel em uso é: <?include bash uname -r?>
-<br><br>
-A Placa de vídeo é: <?include bash lspci | grep VGA | cut -f3 -d:?>
+<html>
+<head>
+    <!-- Set the project name -->
+    <script> let projectName = 'future-tests'; </script>
 
+    <!-- Include the generic header (CSS and JS) -->
+    <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
 
-<br><br>
-<?include bash
-    echo "Pode usar multi linhas também <br><br>Informações da VGA: "
-    lspci | grep VGA
-?>
+    <!-- Add translation support -->
+    <?include html /usr/share/bigbashview/framework/html/translate.html?>
 
-<br><br>
-<?include python
-    print('Pode utilizar python também')
-?>
+    <!-- Include project-specific JavaScript file -->
+    <script src="js/bigstore-search.js"></script>
+</head>
+
+<!-- Add Button to Change Color -->
+<?include html /usr/share/bigbashview/framework/html/buttonChangeColorRightBottom.html?>
+
+<body class="<?include bash getColor.sh?> large-text"> 
+

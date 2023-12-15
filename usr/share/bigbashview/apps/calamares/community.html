@@ -1,0 +1,181 @@
+<html>
+<head>
+  <script> let projectName = 'bigbashview-calamares'; </script>
+  <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
+  <?include html /usr/share/bigbashview/framework/html/buttonChangeColorRightBottom.html?>
+
+  <style>
+    .not-found { color: red; }
+    .selected { background-color: #f0f0f0; }
+    .autocomplete-box { list-style-type: none; }
+    .autocomplete-box li { cursor: pointer; padding: 2px 5px; }
+    .autocomplete-box li.selected { background-color: lightblue; }
+  </style>
+</head>
+
+<body class="<?include bash getColor.sh?> large-text" x-data="{ activePage: 'community' }">
+    
+    <main x-show="activePage == 'community'">
+        <i class="extra absolute padding"><img src="icon/advanced.svg"></i>
+        <nav class="padding">
+          <h6 class="medium max center-align bold" stonejs>Instalação Personalizada</h6>
+        </nav>
+      
+        <input type="hidden" id="use_custom_desktop" name="use_custom_desktop" value="yes">
+        <input type="hidden" id="option" name="option" value="btrfs">
+      
+        <nav class="center-align">
+          <div class="field label border fill">
+            <input type="text" id="login_manager" name="login_manager" placeholder=" " list="loginManagerList">
+            <label stonejs>Gerenciador de login</label>
+            <datalist id="loginManagerList">
+              <option value="sddm">
+              <option value="gdm">
+              <option value="lightdm">
+            </datalist>
+          </div>
+        </nav>
+      
+        <div x-data="packageInstaller()" x-init="loadPackageList()">
+          <div class="grid large-space">
+            <article class="border medium no-padding margin s6">
+              <div class="padding primary absolute center top">
+                <!-- Sistema de Adição de Pacotes -->
+                <textarea id="addInput" placeholder="Adicionar pacotes, um por linha"></textarea>
+                <button @click="processInput('add')">Adicionar Pacotes</button>
+                <button @click="clearPackages('add')">Limpar Lista de Adição</button>
+                
+                <ul class="autocomplete-box" id="addSuggestions"></ul>
+                <ul class="package-list" id="addPackageList"></ul>
+              </div>
+            </article>
+      
+            <article class="border medium no-padding margin s6">
+              <div class="padding primary absolute center top">
+                <!-- Sistema de Remoção de Pacotes -->
+                <textarea id="removeInput" placeholder="Remover pacotes, um por linha"></textarea>
+                <button @click="processInput('remove')">Remover Pacotes</button>
+                <button @click="clearPackages('remove')">Limpar Lista de Remoção</button>
+                
+                <ul class="autocomplete-box" id="removeSuggestions"></ul>
+                <ul class="package-list" id="removePackageList"></ul>
+              </div>
+            </article>
+          </div>
+
+
+
+
+  <script>
+    function packageInstaller() {
+      return {
+        packageList: ['examplePackage1', 'examplePackage2'], // Example data
+        installedPackageList: ['installedPackage1', 'installedPackage2'], // Example data
+        addPackages: [],
+        removePackages: [],
+
+
+
+
+
+        
+        loadPackageList() {
+          // Example implementation, replace with actual data fetching logic
+          this.packageList = ['examplePackage1', 'examplePackage2'];
+          this.installedPackageList = ['installedPackage1', 'installedPackage2'];
+        },
+
+        processInput(type) {
+          const input = document.getElementById(type === 'add' ? 'addInput' : 'removeInput');
+          const packages = input.value.split('\n').map(pkg => pkg.trim()).filter(Boolean);
+          if (type === 'add') {
+            this.addPackages = [...new Set([...this.addPackages, ...packages])]; // Avoid duplicates
+          } else {
+            this.removePackages = [...new Set([...this.removePackages, ...packages])]; // Avoid duplicates
+          }
+          input.value = '';
+          this.renderPackageList(type);
+        },
+
+        clearPackages(type) {
+          if (type === 'add') {
+            this.addPackages = [];
+          } else {
+            this.removePackages = [];
+          }
+          this.renderPackageList(type);
+        },
+
+        renderPackageList(type) {
+          const listElement = document.getElementById(type === 'add' ? 'addPackageList' : 'removePackageList');
+          listElement.innerHTML = '';
+          const packages = type === 'add' ? this.addPackages : this.removePackages;
+          packages.forEach(pkg => {
+            const li = document.createElement('li');
+            li.textContent = pkg;
+            listElement.appendChild(li);
+          });
+        }
+      };
+    }
+
+    function setupAutocomplete(inputElementId, suggestionsElementId, data, onSelection) {
+      const inputElement = document.getElementById(inputElementId);
+      const suggestionsElement = document.getElementById(suggestionsElementId);
+      let selectedSuggestionIndex = -1;
+      let filteredData = [];
+
+      const renderSuggestions = () => {
+        suggestionsElement.innerHTML = '';
+        filteredData.forEach((item, index) => {
+          const li = document.createElement('li');
+          li.textContent = item;
+          li.className = index === selectedSuggestionIndex ? 'selected' : '';
+          li.addEventListener('click', () => onSelection(item));
+          suggestionsElement.appendChild(li);
+        });
+      };
+
+      inputElement.addEventListener('input', () => {
+        const inputValue = inputElement.value.trim().toLowerCase();
+        filteredData = data.filter(item => item.toLowerCase().includes(inputValue));
+        selectedSuggestionIndex = -1; // Reset selection on new input
+        renderSuggestions();
+      });
+
+      inputElement.addEventListener('keydown', (event) => {
+        const maxIndex = filteredData.length - 1;
+        if (event.key === 'ArrowDown') {
+          selectedSuggestionIndex = (selectedSuggestionIndex + 1) % (maxIndex + 1);
+          renderSuggestions();
+          event.preventDefault();
+        } else if (event.key === 'ArrowUp') {
+          selectedSuggestionIndex = (selectedSuggestionIndex - 1 + maxIndex + 1) % (maxIndex + 1);
+          renderSuggestions();
+          event.preventDefault();
+        } else if (event.key === 'Enter' && selectedSuggestionIndex !== -1) {
+          onSelection(filteredData[selectedSuggestionIndex]);
+          event.preventDefault();
+        }
+      });
+
+      function onSelection(suggestion) {
+        inputElement.value = suggestion;
+        inputElement.dispatchEvent(new Event('input')); // Trigger input event to refresh suggestions
+      }
+    }
+
+    const installer = packageInstaller();
+    installer.loadPackageList();
+    setupAutocomplete('addInput', 'addSuggestions', installer.packageList, suggestion => {
+      installer.addPackages.push(suggestion);
+      installer.renderPackageList('add');
+    });
+    setupAutocomplete('removeInput', 'removeSuggestions', installer.installedPackageList, suggestion => {
+      installer.removePackages.push(suggestion);
+      installer.renderPackageList('remove');
+    });
+  </script>
+</main>
+</body>
+</html>

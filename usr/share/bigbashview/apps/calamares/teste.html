@@ -1,0 +1,237 @@
+<html>
+<head>
+  <script> let projectName = 'bigbashview-calamares'; </script>
+
+  <!-- Include the generic header (CSS and JS) -->
+  <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
+
+  <!-- Include button to change color -->
+  <?include html /usr/share/bigbashview/framework/html/buttonChangeColorRightBottom.html?>
+
+  
+
+</head>
+<body>
+
+<div x-data="packageInstaller()" x-init="loadPackageList()">
+
+  <!-- Sistema de Adição de Pacotes -->
+<textarea x-model="currentInput" @input="updateSuggestions" @keydown.enter.prevent="addPackageFromInput" placeholder="Adicionar pacotes, um por linha"></textarea>
+<button @click="processInput">Adicionar Pacotes</button>
+<button @click="clearPackages">Limpar Lista de Adição</button>
+
+<ul class="autocomplete-box" x-show="suggestions.length > 0">
+    <template x-for="(suggestion, index) in suggestions.slice(0, 50)" :key="index">
+        <li @click="addPackage(suggestion)">
+            <span x-text="suggestion"></span>
+        </li>
+    </template>
+</ul>
+
+<ul class="package-list">
+    <template x-for="(package, index) in packages" :key="index">
+        <li>
+            <span x-text="package"></span>
+            <button @click="removePackage(index)">Remover</button>
+        </li>
+    </template>
+</ul>
+
+<!-- Sistema de Remoção de Pacotes -->
+<textarea x-model="currentRemovalInput" @input="updateRemovalSuggestions" @keydown.enter.prevent="removePackageFromInput" placeholder="Remover pacotes, um por linha"></textarea>
+<button @click="processRemovalInput">Remover Pacotes</button>
+<button @click="clearRemovalList">Limpar Lista de Remoção</button>
+
+<ul class="removal-box" x-show="removalSuggestions.length > 0">
+    <template x-for="(suggestion, index) in removalSuggestions.slice(0, 50)" :key="index">
+        <li @click="removePackageByName(suggestion)">
+            <span x-text="suggestion"></span>
+        </li>
+    </template>
+</ul>
+
+<ul class="removal-list">
+    <template x-for="(package, index) in removalPackages" :key="index">
+        <li>
+            <span x-text="package"></span>
+            <button @click="undoRemoval(index)">Desfazer Remoção</button>
+        </li>
+    </template>
+</ul>
+    <!-- Botões para Exportar e Importar -->
+    <button @click="exportData">Exportar Lista</button>
+
+
+    <button>
+      <i>attach_file</i>
+      <span>Importar Lista</span>
+      <input type="file" @click="importData">
+    </button>
+</div>
+
+<script>
+function packageInstaller() {
+return {
+    // Para adição de pacotes
+    currentInput: '',
+    packages: [],
+    suggestions: [],
+    packageList: [],
+
+    // Para remoção de pacotes
+    currentRemovalInput: '',
+    removalPackages: [],
+    removalSuggestions: [],
+    installedPackageList: [],
+
+    loadPackageList() {
+        fetch('pacotes.sh')
+            .then(response => response.text())
+            .then(data => {
+                this.packageList = data.split('\n').filter(Boolean);
+            })
+            .catch(error => console.error('Erro ao carregar pacotes:', error));
+
+        fetch('pacotesInstalados.sh')
+            .then(response => response.text())
+            .then(data => {
+                this.installedPackageList = data.split('\n').filter(Boolean);
+            })
+            .catch(error => console.error('Erro ao carregar pacotes instalados:', error));
+    },
+
+    // Funções para adição de pacotes
+    processInput() {
+        let newPackages = this.currentInput.split('\n').map(pkg => pkg.trim()).filter(pkg => pkg && !this.packages.includes(pkg));
+        this.packages = [...this.packages, ...newPackages];
+        this.currentInput = '';
+        this.suggestions = [];
+    },
+
+    addPackageFromInput() {
+        const lastLine = this.currentInput.split('\n').pop().trim();
+        if (lastLine && !this.packages.includes(lastLine)) {
+            this.packages.push(lastLine);
+            this.currentInput = '';
+            this.updateSuggestions();
+        }
+    },
+
+    addPackage(suggestion) {
+        if (suggestion && !this.packages.includes(suggestion)) {
+            this.packages.push(suggestion);
+            this.currentInput = '';
+            this.updateSuggestions();
+        }
+    },
+
+    removePackage(index) {
+        this.packages.splice(index, 1);
+    },
+
+    clearPackages() {
+        this.packages = [];
+        this.currentInput = '';
+    },
+
+    updateSuggestions() {
+        let lastWord = this.currentInput.split('\n').pop().trim();
+        if (lastWord !== '') {
+            this.suggestions = this.packageList.filter(pkg => 
+                pkg.toLowerCase().includes(lastWord.toLowerCase()) && !this.packages.includes(pkg)
+            ).slice(0, 50); // Limita a 50 sugestões
+        } else {
+            this.suggestions = [];
+        }
+    },
+
+    // Funções para remoção de pacotes
+    processRemovalInput() {
+        let removalPackages = this.currentRemovalInput.split('\n').map(pkg => pkg.trim()).filter(pkg => pkg && !this.removalPackages.includes(pkg));
+        this.removalPackages = [...this.removalPackages, ...removalPackages];
+        this.currentRemovalInput = '';
+        this.removalSuggestions = [];
+    },
+
+    removePackageFromInput() {
+        const lastLine = this.currentRemovalInput.split('\n').pop().trim();
+        if (lastLine && this.installedPackageList.includes(lastLine) && !this.removalPackages.includes(lastLine)) {
+            this.removalPackages.push(lastLine);
+            this.currentRemovalInput = '';
+            this.updateRemovalSuggestions();
+        }
+    },
+
+    removePackageByName(suggestion) {
+        if (suggestion && this.installedPackageList.includes(suggestion) && !this.removalPackages.includes(suggestion)) {
+            this.removalPackages.push(suggestion);
+            this.currentRemovalInput = '';
+            this.updateRemovalSuggestions();
+        }
+    },
+
+    undoRemoval(index) {
+        this.removalPackages.splice(index, 1);
+    },
+
+    clearRemovalList() {
+        this.removalPackages = [];
+        this.currentRemovalInput = '';
+    },
+
+    updateRemovalSuggestions() {
+        let lastWord = this.currentRemovalInput.split('\n').pop().trim();
+        if (lastWord !== '') {
+            this.removalSuggestions = this.installedPackageList.filter(pkg => 
+                pkg.toLowerCase().includes(lastWord.toLowerCase()) && !this.removalPackages.includes(pkg)
+            ).slice(0, 50); // Limita a 50 sugestões
+        } else {
+            this.removalSuggestions = [];
+        }
+    },
+
+    exportData() {
+    const data = {
+        install: this.packages,
+        remove: this.removalPackages
+    };
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+
+    // Criando um botão invisível para o download
+    const downloadButton = document.createElement('a');
+    downloadButton.href = url;
+    downloadButton.download = 'mylist.bigcommunity';
+    downloadButton.style.display = 'none';
+
+    // Adicionando o botão ao corpo do documento e acionando o clique
+    document.body.appendChild(downloadButton);
+    downloadButton.click();
+
+    // Limpeza
+    document.body.removeChild(downloadButton);
+    URL.revokeObjectURL(url);
+},
+
+        importData(event) {
+            const file = event.target.files[0];
+            if (file && file.name.endsWith('.bigcommunity')) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const data = JSON.parse(e.target.result);
+                    this.packages = data.install || [];
+                    this.removalPackages = data.remove || [];
+                };
+                reader.readAsText(file);
+            } else {
+                alert('Por favor, selecione um arquivo .bigcommunity válido.');
+            }
+        }
+
+
+  };
+}
+</script>
+
+</body>
+</html>

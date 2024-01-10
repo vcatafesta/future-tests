@@ -129,39 +129,29 @@ msgid "Icon"
 msgstr "Ikon"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-msgid "Fim dos resultados"
-msgstr "Fim dos resultados"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Repository:"
+msgstr "Repository:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-msgid "Nenhum resultado"
-msgstr "Nenhum resultado"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Name:"
+msgstr "Navn:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Repositório:"
-msgstr "Repositório:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Version:"
+msgstr "Version:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Nome:"
-msgstr "Nome:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Description:"
+msgstr "Beskrivelse:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Versão:"
-msgstr "Versão:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Descrição:"
-msgstr "Descrição:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Arquitetura:"
-msgstr "Arquitetura:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Architecture:"
+msgstr "Arkitektur:"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
@@ -169,69 +159,69 @@ msgid "URL:"
 msgstr "URL-adresse:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Licença:"
-msgstr "Licença:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "License:"
+msgstr "Licens:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Grupos:"
-msgstr "Grupos:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Groups:"
+msgstr "Grupper:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Providos:"
-msgstr "Providos:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Provides:"
+msgstr "Giver:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Depende de:"
-msgstr "Depende de:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Depends On:"
+msgstr "Afhænger af:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Dependências opcionais:"
-msgstr "Dependências opcionais:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Optional Dependencies:"
+msgstr "Valgfrie afhængigheder:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Requerido por:"
-msgstr "Requerido por:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Required By:"
+msgstr "Påkrævet af:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Opcional para:"
-msgstr "Opcional para:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Optional For:"
+msgstr "Valgfrit for:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Conflita com:"
-msgstr "Conflita com:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Conflicts With:"
+msgstr "Konflikter med:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Substitui:"
-msgstr "Substitutioner:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Replaces:"
+msgstr "Erstatter:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Tamanho do download:"
-msgstr "Tamanho gør download:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Download Size:"
+msgstr "Download størrelse:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Tamanho instalado:"
-msgstr "Tamanho instalado:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Installed Size:"
+msgstr "Installeret størrelse:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Empacotado por:"
-msgstr "Empacotado por:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Packager:"
+msgstr "Packager:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Data do empacotamento:"
-msgstr "Data gør empacotamento:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Build Date:"
+msgstr "Byg dato:"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
@@ -244,14 +234,49 @@ msgid "SHA-256 Sum:"
 msgstr "SHA-256 Sum:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Assinaturas:"
-msgstr "Assinaturas:"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Signatures:"
+msgstr "Signaturer:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "Fechar"
-msgstr "Fektar"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+msgid "Close"
+msgstr "Lukke"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Web"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Nativos"
+msgstr "Nativos"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Aur"
+msgstr "Aur"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Flatpak"
+msgstr "Flatpak"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Snap"
+msgstr "Snap"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Fim dos resultados"
+msgstr "Fim dos resultados"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+msgid "Nenhum resultado"
+msgstr "Nenhum resultado"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
@@ -327,28 +352,3 @@ msgstr "Multimídia "
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
 msgid "Dev"
 msgstr "Dev"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "Web"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Nativos"
-msgstr "Nativos"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Aur"
-msgstr "Aur"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Flatpak"
-msgstr "Flatpak"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Snap"
-msgstr "Snap"

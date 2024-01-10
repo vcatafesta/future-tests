@@ -1,22 +1,23 @@
 // Function to manage and fetch items from multiple software repositories
 function getItems() {
-   // Variable to hold search terms
-   let searchTerms = []
-   // Variable to store the search results
-   let results = []
-   // Flag to control the auto-complete menu
-   let autoCompleteMenuEnabled = true
-   // Throttle flag to limit the rate of certain operations
-   let isThrottled = false
+    // Variable to hold search terms
+    let searchTerms = []
+    // Variable to store the search results
+    // Flag to control the auto-complete menu
+    let autoCompleteMenuEnabled = true
+    // Throttle flag to limit the rate of certain operations
+    let isThrottled = false
 
-     // Return an object containing properties and methods related to item fetching and search
-     return {
+    // Return an object containing properties and methods related to item fetching and search
+    window.items = {
         search: '',
+        showPkgInfoModal: false,
         pacmanData: [],
         aurData: [],
         flatpakData: [],
         snapData: [],
         autocompleteResults: [],
+        autocompleteData: [],
         maxItems: 20,
         translatedDescriptions: {},
         filteredItemsCount: 0,
@@ -33,7 +34,7 @@ function getItems() {
         open: false,
         pkgInfo: {},
         item: {},
-        pacmanInfo: null,
+        pacmanInfo: {},
         additionalInfo: null,
         // Function to save the current configuration
         async saveConfig() {
@@ -87,22 +88,15 @@ function getItems() {
             } catch (error) {
                 console.error('Error during config load:', error)
             }
-        // },showModal(item) {
-        //     this.pkgInfo = item
         },
-
-
         showModal(item) {
             this.pkgInfo = item;
-                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 100)
-                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 300)
-                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 600)
-                setTimeout(() => { makeIcon(document.querySelector('#pkginfo > div:nth-child(1) > div')) }, 1000)
         },
+
         getPacmanInfo() {
             fetch('json_info_pacman.sh?' + this.pkgInfo.p)
                 .then((response) => response.json())
-                .then((json) => this.pacmanInfo = json);
+                .then((json) => { this.pacmanInfo = json; this.showPkgInfoModal = true; })
         },
 
         // Function to initialize the setup
@@ -110,9 +104,6 @@ function getItems() {
             this.fetchData().catch(error => {
                 console.error("Error during data fetching or processing:", error)
             })
-
-            const autoCompleteMenu = document.querySelector('.min')
-            autoCompleteMenu.addEventListener('scroll', this.autoCompleteScrollHandler.bind(this))
 
             // Context
             const ctx = this
@@ -122,51 +113,57 @@ function getItems() {
 
             // Intersection Observer Supported
             if ('IntersectionObserver' in window) {
-                this.observer = new IntersectionObserver(function (entries) {
+                this.observer = new IntersectionObserver(function () {
                     ctx.loadMore()
                 }, { threshold: [0] })
                 this.observer.observe(this.triggerElement)
             }
         },
-        // Handler for scroll event in autocomplete menu
-        autoCompleteScrollHandler(e) {
-            const { scrollTop, scrollHeight, clientHeight } = e.target
-            if (scrollTop + clientHeight >= scrollHeight) {
-                this.maxAutoCompleteItems += 10
-                this.filterAutocomplete()
-            }
-        },
+
         // Function to filter the autocomplete suggestions
         filterAutocomplete() {
-            let searchTerm = this.$refs.searchInput.value.toLowerCase()
-            if (searchTerm.length === 0 || autoCompleteMenuEnabled === false) {
-                this.autocompleteResults = []
-                return
+            let searchTerm = this.$refs.searchInput.value.toLowerCase();
+            if (searchTerm.length === 0 || !autoCompleteMenuEnabled) {
+                this.autocompleteResults = [];
+                return;
             }
-            let allData = []
-            if (this.searchPacman) allData = allData.concat(this.pacmanData)
-            if (this.searchAUR) allData = allData.concat(this.aurData)
-            if (this.searchFlatpak) allData = allData.concat(this.flatpakData)
-            if (this.searchSnap) allData = allData.concat(this.snapData)
-            let seen = new Set()
-            this.autocompleteResults = allData.filter(item => {
-                const itemWords = item.p.toLowerCase().split(/[\s-_]+/)
-                let searchWords = searchTerm.toLowerCase().split(/[\s-_]+/)
-                searchWords = searchWords.filter(word => word.trim() !== '')
-                if (searchWords.length === 0) return false
-                return searchWords.every(searchWord =>
-                    itemWords.some(itemWord =>
-                        itemWord.includes(searchWord)
-                    )
-                )
-            }).filter(item => {
-                if (seen.has(item.p)) {
-                    return false
-                } else {
-                    seen.add(item.p)
-                    return true
-                }
-            }).slice(0, this.maxAutoCompleteItems)
+
+            let autocompleteData = [];
+            if (this.searchPacman) autocompleteData.push(...this.pacmanData.map(item => item.p));
+            if (this.searchAUR) autocompleteData.push(...this.aurData.map(item => item.p));
+            if (this.searchFlatpak) autocompleteData.push(...this.flatpakData.map(item => item.p));
+            if (this.searchSnap) autocompleteData.push(...this.snapData.map(item => item.p));
+
+            // Remove duplicate results
+            let seen = new Set();
+            let searchWords = searchTerm.split(/[\s-_]+/).filter(word => word.trim() !== '');
+            this.autocompleteResults = autocompleteData
+                .filter(p => {
+                    return searchWords.every(searchWord => p.toLowerCase().includes(searchWord));
+                })
+                .filter(p => {
+                    if (seen.has(p)) {
+                        return false;
+                    } else {
+                        seen.add(p);
+                        return true;
+                    }
+                })
+                .slice(0, this.maxAutoCompleteItems);
+
+            // 'search' is the 'id' of input element
+            new Autocomplete('search', {
+                onSearch: () => {
+                    return this.autocompleteResults;
+                },
+                onResults: () => {
+                    return items.autocompleteResults.map((el) => {
+                        // Show autocomplete results
+                        return `<li x-on:click="performSearch('${el}')">${el}</li>`;
+                    }).join('');
+                },
+            });
+
         },
         // Function to fetch data for all enabled repositories
         async fetchData() {
@@ -176,34 +173,34 @@ function getItems() {
             if (this.searchPacman) {
                 fetchPromises.push(this.fetchPacmanData());
             }
-        
+
             if (this.searchAUR) {
                 fetchPromises.push(this.fetchAurData());
             }
-        
+
             if (this.searchFlatpak) {
                 fetchPromises.push(this.fetchFlatpakData());
             }
-        
+
             if (this.searchSnap) {
                 fetchPromises.push(this.fetchSnapData());
             }
-        
+
             // Wait for all promises to resolve
             const [pacmanData, aurData, flatpakData, snapData] = await Promise.all(fetchPromises);
-        
+
             if (this.searchPacman) {
                 this.pacmanData = pacmanData;
             }
-        
+
             if (this.searchAUR) {
                 this.aurData = aurData;
             }
-        
+
             if (this.searchFlatpak) {
                 this.flatpakData = flatpakData;
             }
-        
+
             if (this.searchSnap) {
                 this.snapData = snapData;
             }
@@ -240,18 +237,6 @@ function getItems() {
                 this.fetchWithFallback('json_updates_snap.sh').then(res => res.json())
             ]);
             return this.processSnapData(cacheData, installedData, updatesData);
-        },
-        async fetchAdditionalInfo(id, type) {
-            try {
-                const response = await fetch('packageInfo.sh?type=${type}&id=${id}');
-                if (response.ok) {
-                    this.additionalInfo = await response.json();
-                } else {
-                    console.error('Failed to fetch additional info:', response.status, response.statusText);
-                }
-            } catch (error) {
-                console.error('Error during fetchAdditionalInfo:', error);
-            }
         },
         // Utility function to fetch data with a timeout
         fetchWithFallback(url, ms = 30000) {
@@ -327,16 +312,19 @@ function getItems() {
                 }
             })
         },
-        performSearch() {
-            this.search = this.$refs.searchInput.value
+        performSearch(searchQuery) {
+            if (searchQuery !== undefined) {
+                this.search = searchQuery
+            } else {
+                this.search = this.$refs.searchInput.value
+            }
             searchTerms = removeAccents(this.search.toLowerCase()).split(/\s+/)
-            this.maxItems = 20  // Reset the maxItems count
-            this.autocompleteResults = [] // Clean auto complete
+            autocompleteResults = [] // Clean auto complete
             autoCompleteMenuEnabled = false
             // re enable autoCompleteMenu after 400ms
             setTimeout(() => {
                 autoCompleteMenuEnabled = true
-            }, 200)
+            }, 500)
 
         },
         filterData(data) {
@@ -481,10 +469,15 @@ function getItems() {
         },
         selectAutocomplete(value) {
             this.$refs.searchInput.value = value
-            this.autocompleteResults = []
+            autocompleteResults = []
             this.performSearch()
         },
+
+
     }
+
+    // Return object to be used in alpinejs
+    return items;
 }
 
 function removeAccents(str) {
@@ -555,3 +548,6 @@ function packageFormat(type) {
     }
     return format
 }
+
+
+

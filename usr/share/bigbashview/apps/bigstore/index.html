@@ -1,6 +1,31 @@
-<?include html html/head.html?>
-<?include html html/navigation.html?>
+<!-- This index.html imports various HTML files to display the content in the BigBashView application.
+    Each included file serves a specific purpose, such as the header, navigation, topbar, package information, search results, and footer.
+    Separating the code into different files makes it easier to maintain and organize the codebase. -->
+
+<!-- This file represents the header section of the BigStore application. It includes the project name, generic header (CSS and JS), and project-specific JavaScript file for the BigStore search functionality. The body class is dynamically set based on the result of the getColor.sh script. -->
 <?include html html/header.html?>
-<?include html html/pkginfo.html?>
-<?include html html/resultsearch.html?>
+
+<!-- This file contains the HTML template for displaying search results in the BigStore application.
+     It includes a loop to iterate over the displayed items and render each item's information.
+     The template also includes a scroll container, end of results message, and no results message. -->
+<?include html html/navigation.html?>
+
+<!-- This file represents the top bar section of the BigStore application.
+     It contains the search bar, color mode button, view mode button, and filter options.
+     The filter options include checkboxes for filtering by web, native, AUR, Flatpak, and Snap packages.
+     This file is responsible for the layout and functionality of the top bar in the application. -->
+<?include html html/top-bar.html?>
+
+<!-- This file contains the HTML code for the package information dialog in the BigStore application.
+    It displays detailed information about a package, including its icon, title, description, type,
+    version, and installation status. It also provides additional information about the package, such
+    as its repository, name, architecture, URL, licenses, groups, dependencies, conflicts, download size,
+    installed size, packager, build date, and checksums. The dialog includes a close button to dismiss it. -->
+<?include html html/package-info.html?>
+
+<!-- This file contains the HTML template for displaying search results in the BigStore application.
+     It includes a loop to iterate over the displayed items and render each item's information.
+     The template also includes a scroll container, end of results message, and no results message. -->
+<?include html html/search-results.html?>
+
 <?include html html/footer.html?>

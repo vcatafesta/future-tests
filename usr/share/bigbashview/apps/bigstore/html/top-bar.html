@@ -1,0 +1,96 @@
+<!-- FILEPATH: /usr/share/bigbashview/apps/bigstore/html/top-bar.html -->
+<!-- 
+    This file represents the top bar section of the BigStore application.
+    It contains the search bar, color mode button, view mode button, and filter options.
+    The filter options include checkboxes for filtering by web, native, AUR, Flatpak, and Snap packages.
+    This file is responsible for the layout and functionality of the top bar in the application.
+-->
+
+<!-- Top Bar -->
+<header class="fixed responsive surface">
+    <nav>
+        <!-- Search Bar -->
+        <div class="field prefix fill round max">
+            <i>search</i>
+            <input id="search" type="search" @input.debounce.250ms="filterAutocomplete" id="searchInput"
+                x-ref="searchInput" x-on:keyup.enter="performSearch()" placeholder="Search...">
+        </div>
+        
+        <!-- Color Mode Button -->
+        <button class="transparent circle" onclick="setColorMode()">
+            <i id="dark" style="display: none">light_mode</i>
+            <i id="light">dark_mode</i>
+        </button>
+        
+        <!-- View Mode Button -->
+        <button class="transparent circle">
+            <i id="grid_view" style="display: none">list</i>
+            <i id="list">grid_view</i>
+        </button>
+    </nav>
+
+    <!-- Filter Options -->
+    <nav class="no-margin scroll">
+        <div>
+            <!-- Web Checkbox -->
+            <label class="switch icon round deep-purple5">
+                <input type="checkbox" />
+                <span>
+                    <i class="white-text">globe</i>
+                    <i class="white-text deep-purple5">globe</i>
+                </span>
+                <label class="tiny-padding white-text" stonejs>Web</label>
+                <label class="tiny-padding right-margin white-text">0</label>
+            </label>
+            
+            <!-- Nativos Checkbox -->
+            <label class="switch icon round green8">
+                <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig" />
+                <span>
+                    <i class="white-text">box</i>
+                    <i class="white-text green8">box</i>
+                </span>
+                <label class="tiny-padding white-text" stonejs>Nativos</label>
+                <label class="tiny-padding right-margin white-text"><span x-text="pacmanCount"></span></label>
+            </label>
+            
+            <!-- Aur Checkbox -->
+            <label class="switch icon round orange9">
+                <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig" />
+                <span>
+                    <i class="white-text">contract</i>
+                    <i class="white-text orange9">contract</i>
+                </span>
+                <label class="tiny-padding white-text" stonejs>Aur</label>
+                <label class="tiny-padding right-margin white-text"><span x-text="aurCount"></span></label>
+            </label>
+            
+            <!-- Flatpak Checkbox -->
+            <label class="switch icon round light-blue8">
+                <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig" />
+                <span>
+                    <i class="white-text">deployed_code</i>
+                    <i class="white-text light-blue8">deployed_code</i>
+                </span>
+                <label class="tiny-padding white-text" stonejs>Flatpak</label>
+                <label class="tiny-padding right-margin white-text"><span x-text="flatpakCount"></span></label>
+            </label>
+            
+            <!-- Snap Checkbox -->
+            <label class="switch icon round red8">
+                <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig" />
+                <span>
+                    <i class="white-text">raven</i>
+                    <i class="white-text red8">raven</i>
+                </span>
+                <label class="tiny-padding white-text" stonejs>Snap</label>
+                <label class="tiny-padding right-margin white-text"><span x-text="snapCount"></span></label>
+            </label>
+        </div>
+    </nav>
+</header>
+
+<!-- Main Content -->
+<main class="responsive max">
+    <div class="page right active">
+        <div class="grid large-space">

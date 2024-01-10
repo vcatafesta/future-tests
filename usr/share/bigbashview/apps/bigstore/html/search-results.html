@@ -1,0 +1,58 @@
+<!-- FILEPATH: /usr/share/bigbashview/apps/bigstore/html/search-results.html -->
+<!-- 
+    This file contains the HTML template for displaying search results in the BigStore application.
+    It includes a loop to iterate over the displayed items and render each item's information.
+    The template also includes a scroll container, end of results message, and no results message.
+-->
+<template x-for="item in displayedItems" class="s12 m6 l4">
+    <div class="s12 m6 l4">
+        <article class="round" x-on:click="showModal(item); getPacmanInfo();" data-ui="#pkginfo">
+            <!-- Checkbox -->
+            <div class="absolute right tiny-padding right-margin">
+                <label class="switch icon round gray">
+                    <input type="checkbox" /><span><i></i></span>
+                </label>
+            </div>
+
+            <div class="row no-padding">
+                <!-- Item Icon -->
+                <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML"></div>
+                <div class="max truncate">
+                    <!-- Item Title -->
+                    <h5 class="small bottom-padding" x-text="formatTitle(item.p)"></h5>
+                    <div class="row no-margin">
+                        <!-- Package Format -->
+                        <div x-html="packageFormat(item.s)"></div>
+                        <!-- Item Version -->
+                        <label x-text="item.v"></label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="max">
+                    <!-- Item Description -->
+                    <h6 class="small" x-text="formatDescription(item.d)"></h6>
+                </div>
+            </div>
+            <nav class="center-align">
+                <!-- Install/Remove Button -->
+                <button class="tertiary small green" x-text="item.i === 'true' ? _('Remover') : _('Instalar')"></button>
+            </nav>
+        </article>
+    </div>
+</template>
+
+<!-- Scroll Container -->
+<div class="center-align" x-ref="scrollContainer">
+    <div id="infinite-scroll-trigger"></div>
+</div>
+
+<!-- End of Results Message -->
+<div class="center-align" x-show="search !== '' && endOfResults && displayedItems.length > 0">
+    <p stonejs>Fim dos resultados</p>
+</div>
+
+<!-- No Results Message -->
+<div class="center-align" x-show="search !== '' && displayedItems.length === 0">
+    <p stonejs>Nenhum resultado</p>
+</div>

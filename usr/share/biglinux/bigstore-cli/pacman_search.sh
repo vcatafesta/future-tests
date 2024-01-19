@@ -179,7 +179,6 @@ else
 
         # If the package is installed, count -= 10
         if (installed == "true") {
-            totalInstalled += 1;
             count -= 10;
             installed = "installed";
             totalInstalled += 1;

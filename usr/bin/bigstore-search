@@ -78,7 +78,10 @@ execute_search() {
 # Processing the output based on the mode
 if $jsonMode; then
     # JSON Mode
+    echo '['
     execute_search -j "$@" | LANG=C sort | LANG=C cut -d' ' -f2-
+    echo '{}]'
+
 else
     # Normal Terminal Mode
     execute_search "$@" | LANG=C sort -r | LANG=C cut -d' ' -f2- | LANG=C sed 's|\t,,,|\n    |g'

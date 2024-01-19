@@ -78,9 +78,6 @@ done
 # This script can output in json format or in text format
 if $json_output; then
 
-    # Print the first [ to start the json array
-    echo '['
-
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
@@ -129,10 +126,6 @@ if $json_output; then
         print count, $0;
     }'
     # }' | LANG=C sort | LANG=C cut -d' ' -f2- # Sort the results by count, to show the best results first and remove the count
-
-    # Print the last ] to close the json array
-    # We add an empty object at the end, because is faster than remove the last comma
-    echo '{}]'
 
 else
     # eval run the crazy ripgrep command, and awk read the results

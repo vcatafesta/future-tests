@@ -6,6 +6,6 @@ Type = Package
 Target = *
 
 [Action]
-Description = Update cache for BigStore
+Description = Checking the BigStore cache
 When = PostTransaction
-Exec = /usr/share/biglinux/bigstore-cli/update-cache.sh > /dev/null
+Exec = /usr/share/biglinux/bigstore-cli/wait_cache_in_hooks.sh > /dev/null

@@ -245,11 +245,6 @@ msgstr "קרוב"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "אינטרנט"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Nativos"
 msgstr "נטיבוס"
 
@@ -267,6 +262,16 @@ msgstr "פלאטפאק"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Snap"
 msgstr "הצמד"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "אינטרנט"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid "Remover"
+msgstr "מסיר"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

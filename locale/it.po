@@ -245,11 +245,6 @@ msgstr "Chiudere"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "Ragnatela"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Nativos"
 msgstr "Nativos"
 
@@ -267,6 +262,16 @@ msgstr "Flatpak"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Snap"
 msgstr "Scatto"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Ragnatela"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid "Remover"
+msgstr "Solvente"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

@@ -245,11 +245,6 @@ msgstr "Stänga"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "Webb"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Nativos"
 msgstr "Nativos Nativos"
 
@@ -267,6 +262,16 @@ msgstr "Flatpak (på engelska)"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Snap"
 msgstr "Snäsa"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Webb"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid "Remover"
+msgstr "Remover"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

@@ -243,11 +243,6 @@ msgstr "关闭"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "蹼"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Nativos"
 msgstr "纳蒂沃斯"
 
@@ -265,6 +260,16 @@ msgstr "弗拉特帕克"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Snap"
 msgstr "折"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "蹼"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid "Remover"
+msgstr "卸妆"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

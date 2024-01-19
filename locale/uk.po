@@ -245,11 +245,6 @@ msgstr "Закрити"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "Веб"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Nativos"
 msgstr "Nativos"
 
@@ -267,6 +262,16 @@ msgstr "Flatpak"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 msgid "Snap"
 msgstr "Оснащення"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+msgid "Web"
+msgstr "Веб"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid "Remover"
+msgstr "Засіб для видалення"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

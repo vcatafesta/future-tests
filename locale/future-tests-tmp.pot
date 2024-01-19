@@ -61,6 +61,7 @@ msgid   "Utilize partição BTRFS para ter compressão automática e pontos de r
 msgstr  ""
 #
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
 msgid   "Instalar"
 msgstr  ""
 #
@@ -199,10 +200,6 @@ msgid   "Close"
 msgstr  ""
 #
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
-msgid   "Web"
-msgstr  ""
-#
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
 msgid   "Nativos"
 msgstr  ""
 #
@@ -216,6 +213,14 @@ msgstr  ""
 #
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
 msgid   "Snap"
+msgstr  ""
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
+msgid   "Web"
+msgstr  ""
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid   "Remover"
 msgstr  ""
 #
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0

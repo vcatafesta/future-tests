@@ -67,6 +67,7 @@ msgstr ""
 
 #
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
 msgid "Instalar"
 msgstr "Instalar"
 
@@ -247,11 +248,6 @@ msgstr "Close"
 
 #
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
-msgid "Web"
-msgstr "Web"
-
-#
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
 msgid "Nativos"
 msgstr "Nativos"
 
@@ -269,6 +265,16 @@ msgstr "Flatpak"
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
 msgid "Snap"
 msgstr "Snap"
+
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html, line: 0
+msgid "Web"
+msgstr "Web"
+
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid "Remover"
+msgstr "Remover"
 
 #
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0

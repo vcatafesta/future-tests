@@ -8,4 +8,6 @@ Target = *
 [Action]
 Description = Starting update cache for BigStore
 When = PostTransaction
-Exec = /usr/share/biglinux/bigstore-cli/update-cache.sh Running Hooks & > /dev/null
+Exec = /bin/sh -c 'bash /usr/share/biglinux/bigstore-cli/update-cache.sh Running Hooks <&- >&- 2>&- &'
+
+

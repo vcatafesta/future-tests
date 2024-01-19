@@ -9,6 +9,6 @@ while [ $waitCount -lt 150 ]; do
         exit 0
     fi
 
-    waitCount++
+    waitCount+=1
     sleep 0.2
 done

@@ -22,7 +22,23 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-LANG=C pacman -Sii "$1" | \
+# This script retrieves information about a package from the Pacman package manager in Arch Linux.
+# It first tries to get detailed information about the package using the `pacman -Sii` command.
+# If the command fails, it falls back to using the `pacman -Qi` command to get basic information.
+# If both commands fail, the script exits with an error.
+
+pacmanInfo="$(LANG=C pacman -Sii $1)"
+if [[ $? != 0 ]]; then
+  pacmanInfo="$(LANG=C pacman -Qi $1)"
+    if [[ $? != 0 ]]; then
+      exit 1
+    fi
+fi
+
+# Break line after echo because if have package in more than one repository, the preferred repository is the first
+# and separate with a blank line, to help filter verify break line, and add a blank line in the end for just one result
+echo "$pacmanInfo
+" | grep -E -B 999  -m1 '^$' | \
 awk -v RS="" '{
   split($0, lines, "\n");
   print "{";
@@ -59,3 +75,4 @@ jq  'del(.end) |
       .["Optional For"] |= if . == [""] then null else . end |
       .["Conflicts With"] |= if . == [""] then null else . end |
       .Replaces |= if . == [""] then null else . end'
+

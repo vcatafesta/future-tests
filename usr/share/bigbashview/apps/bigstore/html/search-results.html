@@ -4,22 +4,22 @@
     It includes a loop to iterate over the displayed items and render each item's information.
     The template also includes a scroll container, end of results message, and no results message.
 -->
-<template x-for="item in displayedItems" class="s12 m6 l4">
+<template x-for="item in displayedItems">
     <div class="s12 m6 l4">
-        <article class="round" x-on:click="showModal(item); getPacmanInfo();" data-ui="#pkginfo">
+        <article class="mini-round cursor-alias onhover-elevate1" x-on:click="showModal(item);" data-ui="#pkginfo">
             <!-- Checkbox -->
-            <div class="absolute right tiny-padding right-margin">
+            <!-- <div class="absolute right tiny-padding right-margin">
                 <label class="switch icon round gray">
                     <input type="checkbox" /><span><i></i></span>
                 </label>
-            </div>
+            </div> -->
 
             <div class="row no-padding">
                 <!-- Item Icon -->
-                <div x-bind:x-on:load="fetchIcon(item)" x-ref="itemContainer" x-html="item.iconHTML"></div>
+                <div x-bind:x-on:show="fetchIcon(item)" x-html="item.iconHTML"></div>
                 <div class="max truncate">
                     <!-- Item Title -->
-                    <h5 class="small bottom-padding" x-text="formatTitle(item.p)"></h5>
+                    <h5 class="small small-padding-bottom" x-text="formatTitle(item.p)"></h5>
                     <div class="row no-margin">
                         <!-- Package Format -->
                         <div x-html="packageFormat(item.s)"></div>
@@ -31,12 +31,18 @@
             <div class="row">
                 <div class="max">
                     <!-- Item Description -->
-                    <h6 class="small" x-text="formatDescription(item.d)"></h6>
+                    <h6 class="small min-height-3em" x-text="formatDescription(item.d)"></h6>
                 </div>
             </div>
             <nav class="center-align">
                 <!-- Install/Remove Button -->
-                <button class="tertiary small green" x-text="item.i === 'true' ? _('Remover') : _('Instalar')"></button>
+                <template x-if="item.i === 'true'">
+                    <button class="tertiary small button-elevate1 red9"><i>delete</i><span stonejs>Remover</span></button>
+                </template>
+                <template x-if="item.i !== 'true'">
+                    <button class="tertiary small button-elevate1 green9"><i>download</i><span stonejs>Instalar</span></button>
+                </template>
+
             </nav>
         </article>
     </div>

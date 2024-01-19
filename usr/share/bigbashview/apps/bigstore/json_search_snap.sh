@@ -30,7 +30,7 @@ if [[ ! -e $FileToSaveCacheFiltered ]]; then
     curl "https://api.snapcraft.io/api/v1/snaps/search?confinement=strict&fields=architecture,summary,description,package_name,snap_id,title,content,version,common_ids,binary_filesize,license,developer_name,media,&scope=wide:" > "$FolderToSaveFiles/$CacheFiles"
 
     # Read total pages needed to download
-    NumberOfPages="$(jq -r '._links.last' "$FolderToSaveFiles/$CacheFiles" | sed 's|.*page=||g;s|"||g' | grep [0-9])"
+    NumberOfPages="$(jaq -r '._links.last' "$FolderToSaveFiles/$CacheFiles" | sed 's|.*page=||g;s|"||g' | grep [0-9])"
 
     # Loop to download all pages
     Page=2
@@ -44,8 +44,8 @@ if [[ ! -e $FileToSaveCacheFiltered ]]; then
     wait
 
     # Filtering files and create cache file for the searching system
-    jq . "$FolderToSaveFiles"/* > "$FileToSaveCache"
-    jq -c '[._embedded."clickindex:package"[] | select(.architecture[] | contains("amd64")) | {g: (if .media then .media | map(select(.type == "icon"))[0].url else null end), v: .version, d: .summary, n: .snap_id, p: .title, k: .package_name}]' "$FileToSaveCache" > "$FileToSaveCacheFiltered"
+    jaq . "$FolderToSaveFiles"/* > "$FileToSaveCache"
+    jaq -c '[._embedded."clickindex:package"[] | select(.architecture[] | contains("amd64")) | {g: (if .media then .media | map(select(.type == "icon"))[0].url else null end), v: .version, d: .summary, n: .snap_id, p: .title, k: .package_name}]' "$FileToSaveCache" > "$FileToSaveCacheFiltered"
     sd '\]\n\[' ',' "$FileToSaveCacheFiltered"
 fi
 

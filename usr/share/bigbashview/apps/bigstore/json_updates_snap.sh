@@ -24,4 +24,4 @@
 
 
 # Snap | not real snap
-LANGUAGE=C flatpak update | awk '(NR>3){print $2}' | head -n-2 | sort -u | jq -R -s 'split("\n")[0:-3] | {snapUpdates: .}'
+LANGUAGE=C flatpak update | awk '(NR>3){print $2}' | head -n-2 | sort -u | jaq -R -s 'split("\n")[0:-3] | {snapUpdates: .}'

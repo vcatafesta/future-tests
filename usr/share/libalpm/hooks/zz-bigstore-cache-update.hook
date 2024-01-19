@@ -1,0 +1,11 @@
+[Trigger]
+Operation = Upgrade
+Operation = Install
+Operation = Remove
+Type = Package
+Target = *
+
+[Action]
+Description = Update cache for BigStore
+When = PostTransaction
+Exec = /usr/share/biglinux/bigstore-cli/update-cache.sh > /dev/null

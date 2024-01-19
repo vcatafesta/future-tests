@@ -34,7 +34,7 @@ if [[ ! -e $FileToSaveCacheFiltered ]]; then
     fi
 
     # Flatpak
-    LANGUAGE=C appstreamcli search . | jq -R -s -c '
+    LANGUAGE=C appstreamcli search . | jaq -R -s -c '
     split("---\n")
     | map(select(. != ""))
     | map(split("\n") 

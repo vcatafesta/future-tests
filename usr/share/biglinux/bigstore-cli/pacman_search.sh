@@ -149,6 +149,10 @@ else
         green="\x1b[32m"
         red="\x1b[31m"
         resetColor="\x1b[0m"
+
+        # Count number of results
+        totalInstalled = 0;
+        totalNotInstalled = 0;
     }
 
     # Now start the main loop, which is run for each line of the pacman output
@@ -175,8 +179,10 @@ else
 
         # If the package is installed, count -= 10
         if (installed == "true") {
+            totalInstalled += 1;
             count -= 10;
             installed = "installed";
+            totalInstalled += 1;
 
             # If the package have update, count -= 10
             if (iver != "null") {
@@ -187,12 +193,17 @@ else
                 update = "";
             }
         } else {
+            totalNotInstalled += 1;
             installed = "";
             update = "";
         }
 
         # Add "\t,,," to use sed after sort and change for break line
         print count, gray repo "/" yellow package "  " green installed " " gray version "  " yellow update "  " resetColor "\t,,," description "\t,,,";
+
+    # END run one time after the last line is read
+    } END {
+            print "\n01   " gray "Pacman\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
     # }' | LANG=C sort -r | LANG=C cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

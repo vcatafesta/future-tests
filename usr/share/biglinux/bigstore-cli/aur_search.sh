@@ -155,6 +155,10 @@ else
         green="\x1b[32m"
         red="\x1b[31m"
         resetColor="\x1b[0m"
+
+        # Count number of results
+        totalInstalled = 0;
+        totalNotInstalled = 0;
     }
 
     # Now start the main loop, which is run for each line of the pacman output
@@ -177,6 +181,7 @@ else
         }
         if (installed == "true") {
             count -= 10;
+            totalInstalled += 1;
             if (up == "true") {
                 installed="installed ";
                 update=" new version "gray version " ";
@@ -188,6 +193,7 @@ else
         } else {
             update = "";
             installed="";
+            totalNotInstalled += 1;
         }
         if (ood != "null") {
             ood = "  Out of date since " strftime("%F",ood);
@@ -200,6 +206,12 @@ else
 
         # Removendo a contagem do print final
         print count, blue "AUR" gray "/" yellow package "  " green installed gray version " " yellow update resetColor " (" gray "Votes " resetColor vote gray " Pop " resetColor pop gray " Maintainer " resetColor maint ")" red ood resetColor "\t,,," description "\t,,,";
+
+    # END run one time after the last line is read
+    } END {
+            print "\n01   " gray "AUR\t\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
+
+    
     # }' | sort -rn | cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

@@ -131,6 +131,7 @@ else
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
+    flatpak_cache_verify.sh
 
     eval $search_cmd | awk -v FS='"p":"|","d":"|","id":"|","v":"|","branch":"|","origin":"|","i":"|","up":"|"},' -v terms="$(accents_regex.sh $*)" '
 

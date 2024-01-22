@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Şifre Yöneticisi: Şifrelerinizi tüm platformlarda ve cihazlarda güvende tutun
+app.bbsync.BlackboardSync	Blackboard Learn içeriğinizi cihazınıza indirin
+app.bluebubbles.BlueBubbles	Linux için BlueBubbles istemcisi
+app.cantara.Cantara	Kiliselerde, küçük gruplarda veya karaoke partilerinde şarkı sunumu için basit, hafif ama güçlü bir program.
+app.drey.Biblioteca	GNOME için belge görüntüleyici
+app.drey.Blurble	Kelime tahmin etme oyunu
+app.drey.Damask	İnternet kaynaklarından duvar kağıdı resimlerini yeniden yapılandırın
+app.drey.Dialect	Diller arasında çeviri yapın
+app.drey.EarTag	Ses dosyası etiketlerini düzenleyin
+app.drey.Elastic	Bahar canlandırmaları tasarla
+app.drey.KeyRack	Uygulama sırlarını görüntüleme ve düzenleme
+app.drey.MultiplicationPuzzle	Bir matematik gizemini çözün
+app.drey.Warp	Hızlı ve güvenli dosya aktarımı
+app.feeddeck.feeddeck	RSS ve Sosyal Medya Akışlarınızı takip edin
+app.getclipboard.Clipboard	Her şeyi, her zaman, her yerde kesin, kopyalayın ve yapıştırın
+app.getspace.Space	Bilgi Kartları için Aralıklı Tekrarlama
+app.gummi.gummi	Basit LaTeX düzenleyici
+app.kaiteki.Kaiteki	Her yerde, her şey için konforlu SNS istemcisi
+app.lith.Lith	WeeChat Aktarma İstemcisi
+app.midterm.MidtermDesktop	Ders çalışmak için ücretsiz bir not alma uygulaması.
+app.moosync.moosync	Kişiselleştirilebilir müzik çalar
+app.organicmaps.desktop	Gezginler, turistler, yürüyüşçüler, sürücüler ve bisikletçiler için ücretsiz bir çevrimdışı harita uygulaması
+app.rednotebook.RedNotebook	Grafik günlük ve günlük
+app.riftshare.RiftShare	Kolay, Güvenli, Ücretsiz dosya paylaşımı. Sihirli solucan deliği kullanarak platformlar arası dosya paylaşımı
+app.vup.Vup	Entegre medya sunucusuna sahip açık kaynaklı uçtan uca şifrelenmiş bulut depolama uygulaması
+app.xemu.xemu	Orijinal Xbox Emülatörü
+app.ytmdesktop.ytmdesktop	YouTube Music için ücretsiz çapraz platform Masaüstü Oynatıcısı
+app.ywallet.Ywallet	Ycash ve Zcash için Hafif Cüzdan
+ar.com.pilas_engine.App	Pilas Engine, farklı tarzlarda video oyunları oluşturmak ve yönlendirmek için tasarlanmış bir sistemdir
+ar.com.softwareperonista.Rockarrolla	Müzik kutusu benzeri bir müzik çalar
+ar.com.tuxguitar.TuxGuitar	TuxGuitar ücretsiz ve açık kaynaklı bir tablature editörüdür.
+art.taunoerik.tauno-monitor	Basit, bağımsız seri port monitörü.
+art.taunoerik.tauno-serial-plotter	Arduino ve benzeri cihazlar için basit seri çizici.
+ar.xjuan.Cambalache	GTK Kullanıcı Arayüzleri Oluşturun
+at.priv.toastfreeware.ConfClerk	ConfClerk konferans programlarını çevrimdışı olarak kullanılabilir hale getiren bir uygulamadır
+at.ssh_mitm.server	SSH-MITM - ssh denetimleri basitleştirildi
+at.vintagestory.VintageStory	Vahşi doğada hayatta kalma sandbox oyunu
+au.edu.uq.esys.escript	esys-escript, sonlu elemanlar yöntemini kullanarak matematiksel modelleri uygulamaya yönelik bir python modülüdür
+br.app.pw3270.terminal	TN3270 ana bilgisayarlarına erişme
+br.com.gualandi.Xjump	Modern grafik sistemler için bir atlama oyunu
+br.gov.cti.invesalius	3D tıbbi görüntüleme rekonstrüksiyon yazılımı
+br.gov.fazenda.receita.irpf2022	Vergilerinizi Brezilya'da beyan edin
+br.gov.fazenda.receita.irpf2023	Vergilerinizi Brezilya'da beyan edin
+ca._0ldsk00l.Nestopia	Bir Nintendo Eğlence Sistemi emülatörü
+ca.desrt.dconf-editor	Dconf veri tabanını düzenlemek için grafiksel bir araç
+cafe.avery.Delfin	Jellyfin'den film ve TV şovu akışı yapın
+ca.hamaluik.Timecop	Gizliliğinize saygı duyan ve işi abartmadan halleden bir zaman takip uygulaması
+ca.littlesvr.asunder	Asunder, grafiksel bir Ses CD'si kopyalayıcı ve kodlayıcıdır
+camp.nook.nookdesktop	Nook, her saat başı Animal Crossing temalarını çalan bir uygulamadır.
+ca.parallel_launcher.ParallelLauncher	Modern N64 Emülatörü
+cat.xtec.clic.JClic	Okul öğrencileri ve eğitimcilere yönelik eğitim faaliyetleri ve oyunlar
+ca.uwaterloo.Raven	Havza hidrolojisini simüle etmek için modelleme çerçevesi
+cc.arduino.arduinoide	Açık kaynaklı elektronik prototip oluşturma platformu
+cc.arduino.IDE2	Açık kaynaklı elektronik prototip oluşturma platformu
+cc.craftos_pc.CraftOS-PC	Gelişmiş ComputerCraft emülatörü
+cc.craftos_pc.CraftOS-PC-Accelerated	Gelişmiş ComputerCraft emülatörü
+cc.nift.nsm	Dinamik ve statik site oluşturucu
+cc.retroshare.retroshare-gui	Herkes için güvenli iletişim
+cern.root.ROOT	Veri Analizi Çerçevesi
+chat.delta.desktop	Delta Chat e-posta tabanlı mesajlaşma
+chat.quadrix.Quadrix	Matrix protokolü için minimal, basit, çok platformlu sohbet istemcisi
+chat.revolt.RevoltDesktop	Revolt masaüstü uygulaması
+chat.rocket.RocketChat	Açık Kaynak Ekip İletişimi
+chat.schildi.desktop	SchildiChat, daha geleneksel anlık mesajlaşma deneyimine sahip, Element tabanlı bir Matrix istemcisidir.
+chat.tandem.Client	Uzak ekipler için sanal ofis
+ch.imatt.ClipQR	Ekrandaki ve kameradaki QR kodlarını tarayın.
+ch.openboard.OpenBoard	Okullar ve üniversiteler için interaktif beyaz tahta
+ch.protonmail.protonmail-bridge	Postalarınızı bilgisayarınıza girerken ve çıkarken sorunsuz bir şekilde şifreler ve şifresini çözer
+ch.protonmail.protonmail-import-export-app	E-postaları güvenli ProtonMail gelen kutunuza aktarın veya İçe Aktarma-Dışa Aktarma uygulamasıyla çevrimdışı yedeklemeler yapın.
+ch.theologeek.Manuskript	Yazarlar için açık kaynaklı bir araç
+ch.threema.threema-web-desktop	Masaüstü için Threema, İsviçre'de barındırılan ve geliştirilen, gizlilik odaklı, uçtan uca şifrelenmiş bir mobil mesajlaşma programı olan Threema'ya yönelik bir masaüstü istemcisidir. RESMİ OLMAYAN PAKET.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Minecraft oynayın ve kendi dünyanızı yaratın!
+ch.x29a.playitslowly	Müziği farklı bir hızda çalın
+cn.lceda.LCEDAPro	Daha Kolay ve Güçlü Bir Çevrimiçi PCB Tasarım Aracı
+cn.navclub.ldbfx	Görsel veritabanı yönetim aracı
+cn.ottercorp.xivlaunchercn	Final Fantasy XIV Online için başlatıcı ve kusursuz Linux entegrasyonu (Çin versiyonu)
+cn.xfangfang.wiliwili	Denetleyici kullanıcıları için özel olarak tasarlanmış bir üçüncü taraf Bilibili istemcisi
+codes.loers.Karlender	Programınızı yönetin
+codes.loers.Punchclock	Görevleriniz için zamanı takip edin.
+codes.merritt.adventurelist	Tüm cihazlarınızla senkronize edilen yapılacaklar listesi
+codes.merritt.bargain	Alışveriş yaparken ürünleri kolayca karşılaştırın
+codes.merritt.FeelingFinder	Hızlı ve güzel bir emoji seçici
+codes.merritt.Nyrna	Oyunları ve uygulamaları askıya alın
+codes.nora.gDiceRoller	Olası tüm kombinasyonlarda birçok farklı şekil ve boyutta zar atın.
+co.headsetapp.headset	Kulaklık. YouTube'da müzik keşfedin ve toplayın.
+co.luoja.Telyn	Parametrik dikiş desenleri için görsel düzenleyici
+com.abagames.noiz2sa	Çılgın bir soyut nişancı
+com.abagames.rRootage	Otomatik olarak oluşturulan devasa savaş gemilerini yenilgiye uğratın.
+com.abisource.AbiWord	Bir kelime işlemci
+com.adamcake.Bolt	Açık kaynaklı üçüncü taraf Jagex başlatıcısı
+com.adilhanney.ricochlime	Tatmin edici canavar nişancı
+com.adilhanney.saber	El yazısı için geliştirilmiş notlar uygulaması
+com.adilhanney.super_nonogram	Prosedürel olarak oluşturulmuş sınırsız sayıda nonogram bulmacayı çözün!
+com.adilhanney.timing	Saniyeden kısa zamanlama aralıklarını tanımlamayı öğrenin
+com.adobe.Flash-Player-Projector	Adobe Flash kullanılarak oluşturulan içerik için oynatıcı
+com.adobe.Reader	PDF görüntüleyici
+com.adrienplazas.Metronome	Tempoyu korusu
+com.agatanawrot.karambola	Bu kısa, elle çizilmiş işaretle ve tıkla bulmaca macerasında, Karambola'nın duygusal meyve insanları arkadaşlarını karanlık düşüncelerin gücünden kurtarma arayışında yardım edin
+com.agateau.nanonote	Minimalist bir not alma uygulaması.
+com.agateau.PixelWheels	Pixel Wheels retro bir yukarıdan aşağıya yarış oyunudur.
+com.airtame.Client	Airtame kablosuz bir akış çözümüdür
+com.albiononline.AlbionOnline	MMORPG açık ortaçağ fantezi oyunu
+com.alientrap.nexuiz-classic	Çok oyunculu birinci şahıs nişancı
+com.alovoa.alovoa-electron	Açık kaynaklı çevrimiçi flört uygulaması
+com.amazon.Workspaces	Masaüstünüze istediğiniz yerden, istediğiniz zaman, istediğiniz cihazdan erişin
+com.ampl.ide	AMPL kullanıcıları için basit ve anlaşılır, geliştirilmiş modelleme arayüzü
+com.anydesk.Anydesk	Uzaktan bir bilgisayara bağlanma
+com.arteeh.Flasher	PineTime akıllı saatini ST-Link ile flaşlamak için basit bir uygulama
+com.arviceblot.eso-addon-manager	The Elder Scrolls Online için platformlar arası, resmi olmayan bir eklenti yöneticisi.
+com.atlauncher.ATLauncher	Mod paketlerini kolay ve hızlı bir şekilde indirip yüklemenize olanak sağlamak için birden fazla farklı mod paketini entegre eden Minecraft için bir başlatıcı.
+com.authy.Authy	Twilio Authy iki faktörlü kimlik doğrulama masaüstü uygulaması
+com.avocode.Avocode	Herhangi bir tasarımı teslim edin ve inceleyin
+com.axosoft.GitKraken	Repo yönetimi, uygulama içi kod düzenleme ve sorun takibi için.
+com.baidu.NetDisk	Baidu Netdisk masaüstü istemcisi
+com.bambulab.BambuStudio	Mükemmel 3D baskılar elde edin!
+com.basemark.BasemarkGPU	GPU performans değerlendirme aracı
+com.behringer.XAirEdit	Behringer XR mikserler kullanıcı arayüzü
+com.belmoussaoui.ashpd.demo	Portallarla oyna
+com.belmoussaoui.Authenticator	İki Aşamalı Kodlar Oluşturma
+com.belmoussaoui.Decoder	QR Kod Tara ve Oluştur
+com.belmoussaoui.Obfuscate	Gizli bilgiler sansürle
+com.belmoussaoui.ReadItLater	Web makalelerini kaydedin ve okuyun
+com.belmoussaoui.snowglobe	DBus üzerinden QEMU kullanan sanallaştırma görüntüleyici
+com.biglybt.BiglyBT	Özellik dolu, açık kaynak, reklamsız, bittorrent istemcisi
+com.bitwarden.desktop	Tüm cihazlarınız için güvenli ve ücretsiz bir şifre yöneticisi
+com.bitwig.BitwigStudio	Modern müzik prodüksiyonu ve performansı
+com.bixense.PasswordCalculator	Tek sırrınızdan her takma ad için güçlü şifreler hesaplayın
+com.bjareholt.johan.SimpleDiary	Basit ve hafif günlük uygulaması
+com.bktus.gpgfrontend	OpenPGP Kripto Aracı
+com.bladecoder.adventure-editor	Klasik işaretle ve tıkla macera oyunu motoru ve editörü
+com.blitterstudio.amiberry	Linux için bir Amiga emülatörü
+com.blockstream.Green	Basit ve güvenli bir Bitcoin ve Liquid Network cüzdanı
+com.borgbase.Vorta	Yedekleme istemcisi
+com.boxy_svg.BoxySVG	Ölçeklenebilir Vektör Grafikleri düzenleyicisi
+com.brave.Browser	Brave'in web tarayıcısı
+com.brosix.Brosix	Hepsi bir arada, güvenli anlık mesajlaşma programı
+com.budgetwithbuckets.Buckets	Hızlı, basit ve özel aile bütçeleme uygulaması
+com.calibre_ebook.calibre	Tüm e-kitap ihtiyaçlarınıza tek noktadan çözüm
+com.carpeludum.KegaFusion	Sega 8 ve 16 bit konsollar için bir emülatör
+com.cassidyjames.butler	Ev Asistanı için Refakatçi
+com.cassidyjames.plausible	Google Analytics'e basit ve gizlilik dostu bir alternatif
+com.cburch.Logisim	Logisim, mantık devrelerini tasarlamak ve simüle etmek için grafiksel bir araçtır
+com.chatterino.chatterino	Twitch.tv için sohbet istemcisi
+com.chez.GrafX2	256 renkli çizim konusunda uzmanlaşmış bir bitmap boyama programı
+com.chmouel.gnomeNextMeetingApplet	Sonraki etkinliklerinizi panelinizde gösterin
+com.chowdsp.BYOD	BYOD: Kendi Distorsiyonunuzu Tek Başına Getirin
+com.chroniclogic.Zatikon	Düşmanın kalesini fethetmeye yönelik satranç benzeri fantastik bir oyun
+com.clarahobbs.chessclock	Zamanlı satranç oyunu saati
+com.claudiocambra.brickbuster	Eğlenceli ve bağımlılık yaratan bir tuğla kırma oyunu!
+com.cocoatech.deckr	Deckr chrome eklentisiyle kullanılan masaüstü uygulaması
+com.codemouse92.timecard	Zamanı güzelce takip edin.
+com.coeck_studios.Dinonuggys-Journey	Bir piksel sanatı 2d platform oyunu.
+com.corsixth.corsixth	Tema Hastanesi'nin açık kaynak klonu
+com.cuperino.qprompt	Tüm video yaratıcıları için kişisel teleprompter yazılımı
+com.daidouji.oneko	Masaüstünde fare işaretçisi oyuncağınızı takip eden kedicik
+com.darhon.drfinance	Kişisel hesaplarınızı yönetin
+com.darhon.syncbackup	Sürücülerinizi yedekleyin ve yansıtın
+com.dec05eba.gpu_screen_recorder	Linux için gölge oyunu benzeri bir ekran kaydedici. Linux için en hızlı ekran kaydedici
+com.dhsdevelopments.Climaxima	Maxima CAS için ön uç
+com.diffingo.fwbackups	Zengin özelliklere sahip, kullanıcı dostu bir yedekleme programı
+com.discordapp.Discord	Mesajlaşma, ses ve video istemcisi
+com.diy_fever.DIYLayoutCreator	PCB, vero-board, noktadan noktaya, perf-board ve gitar bağlantı şemalarını destekleyen devre düzeni tasarım aracı
+com.djoffe.gnukem	Retro tarzı 2D kaydırmalı platform nişancı oyunu
+com.dosbox.DOSBox	Ses ve grafiklere sahip x86/DOS emülatörü
+com.dosbox_x.DOSBox-X	Ses ve grafiklere sahip x86/DOS emülatörü
+com.doycho.euterpe.gtk	Euterpe medya sunucusu için medya oynatıcı istemcisi.
+com.dreamsourcelab.DSView	Herkes için açık kaynaklı, çok işlevli bir enstrüman
+com.dropbox.Client	Dosyalarınıza herhangi bir bilgisayardan erişin
+com.eduke32.EDuke32	EDuke32 harika, ücretsiz bir evde bira oyun motorudur
+com.ekonomikas.merkato	Yatırımlarınızın takibi
+com.elsevier.MendeleyDesktop	Mendeley ücretsiz bir referans yöneticisi ve akademik bir sosyal ağdır
+com.eminfedar.vaktisalah	Platformlar Arası Namaz Vakitleri uygulaması
+com.emqx.MQTTX	Zarif Çapraz Platformlu MQTT 5.0 Masaüstü İstemcisi
+com.endlessm.photos	Favori fotoğraflarınızın tümünü kolayca düzenleyin ve paylaşın
+com.endlessnetwork.aqueducts	Günü kurtarmanın yolunu bulacağınız sürükleyici bir bulmaca macera oyunu!
+com.endlessnetwork.dragonsapprentice	Bulmaca çözme, zindanda gezinme oyunu gibi bir RPG ve daha fazlası!
+com.endlessnetwork.fablemaker	Ezop'un masallarının dünyasına daha önce hiç olmadığı gibi girin! Bu sürükleyici ve eğitici uygulamada karakterleri, metinleri ve sesleri kişiselleştirip kodunu hackleyebileceğiniz etkileşimli hikayeler.
+com.endlessnetwork.frogsquash	Değişik bir tarza sahip, bağımlılık yaratan çapraz yollar oyunu
+com.endlessnetwork.MidnightmareTeddy	Vur ve hayatta kal
+com.endlessnetwork.missilemath	Bir uçakla uçan nişancı oyunu
+com.endlessnetwork.passage	Bu yandan kaydırmalı aksiyon macera atış oyununda yolunuzu açın
+com.endlessnetwork.tankwarriors	Araba sürmek, ateş etmek, patlamalar ve programlama - hepsi bir arada
+com.endlessnetwork.whitehouse	CSS'nin büyüsünü kullanarak dünyanızı, gizli nesneleri ve ipuçlarını açığa çıkaran benzersiz bir renk ve ışık patlamasına dönüştürün.
+com.enjoyingfoss.feeel	Gizliliğinize saygı duyan basit bir ev egzersizi/egzersiz uygulaması
+com.enjoyingfoss.Parlera	Arkadaşlarınızın anlattığı ve sizin tahmin ettiğiniz bir parti oyunu; ya da tam tersi
+com.epicgames.ut2004	Birinci şahıs arena nişancısı
+com.epicgames.ut99	Birinci şahıs arena nişancısı
+com.etlegacy.ETLegacy	ET: Legacy, GPLv3 koşulları altında 2010 yılında piyasaya sürülen Wolfenstein: Enemy Territory kodunu temel alan açık kaynaklı bir projedir.
+com.expidusos.calculator	ExpidusOS Hesaplayıcı
+com.expidusos.file_manager	ExpidusOS Dosya Yöneticisi
+com.feaneron.Boatswain	Elgato Stream Deck'lerini denetler
+com.felipekinoshita.Kana	Japonca karakterleri öğrenin
+com.felipekinoshita.Wildcard	Düzenli ifadelerinizi sınayın
+com.fightcade.Fightcade	Çevrimiçi atari oyunları oynayın.
+com.flashforge.FlashPrint	FlashForge 3D yazıcılar için dilimleyici
+com.frac_tion.teleport	Dosyaları yerel ağ üzerinden paylaşın
+com.freerdp.FreeRDP	Linux için FreeRDP (Uzak Masaüstü Protokolü) İstemcisi
+com.frogatto.Frogatto	Eski tarz bir 2D platform oyunu
+com.fyralabs.SkiffDesktop	Gizlilik öncelikli uçtan uca şifrelenmiş e-posta
+com.gamestarmechanic.gamestarmechanic	Video oyunları tasarlamayı öğrenin
+com.geekbench.Geekbench6	Platformlar arası sistem karşılaştırması
+com.georgefb.mangareader	Yerel dosyalar için Manga Okuyucu
+com.georgefb.quickaccess	Klasörlere ve özel komutlara hızlı erişim sağlayan genel bir menü.
+com.getmailspring.Mailspring	İş yerindeki kişiler ve ekipler için en iyi e-posta uygulaması
+com.getpostman.Postman	API'leri oluşturmaya ve kullanmaya yönelik platform
+com.ghostery.browser	Ghostery'den tamamen özel bir tarama deneyimi
+com.giadamusic.Giada	Zorlu döngü makineniz
+com.gigitux.youp	Naber
+com.gitfiend.GitFiend	İnsanlar için tasarlanmış bir Git istemcisi
+com.github._0negal.Viper	Viper, Northstar için bir başlatıcı ve güncelleyicidir ve bundan çok daha fazlası değildir.
+com.github._4lex4.ScanTailor-Advanced	Taranan sayfalar için etkileşimli son işleme aracı
+com.github.ADBeveridge.Raider	Dosyalarınızı güvenli bir şekilde silindi
+com.github.afrantzis.Bless	Gtk# Hex Düzenleyici
+com.github.aharotias2.parapara	Kütüphanesiz resim görüntüleyici
+com.github.ahrm.sioyek	Araştırma makalelerini ve teknik kitapları okumak için tasarlanmış PDF görüntüleyici
+com.github.alainm23.byte	Müziği yeniden keşfet
+com.github.alainm23.planner	Bir daha asla bir şeyleri unutma konusunda endişelenme
+com.github.Alcaro.Flips	IPS ve BPS dosyaları için bir yamalayıcı
+com.github.alecaddd.sequeler	Dostu SQL İstemcisi
+com.github.alexhuntley.Plots	Basit grafik çizimi
+com.github.alexkdeveloper.astronum	Basit astrolojik ve numerolojik hesaplamalar için program
+com.github.alexkdeveloper.desktop-files-creator	GNU/Linux'ta masaüstü dosyaları oluşturmak için basit uygulama
+com.github.alexkdeveloper.dice	Basit bir zar oyunu
+com.github.alexkdeveloper.dwxmlcreator	Basit dinamik duvar kağıdı yaratıcısı
+com.github.alexkdeveloper.easter	Katolik Paskalya tarihini hesaplayın
+com.github.alexkdeveloper.forgetpass	Web siteleri için basit şifre oluşturucu
+com.github.alexkdeveloper.goldsearch	Altın aramanız gereken bir oyun
+com.github.alexkdeveloper.notepad	Kolay metin notları oluştur
+com.github.alexkdeveloper.recorder	Basit ses kaydedici
+com.github.alexkdeveloper.relaxator	Rahatlatıcı seslerle rahatlayın
+com.github.alexkdeveloper.somafm	Somafm.com web sitesinden yerleşik istasyonlara sahip basit bir radyo
+com.github.alexkdeveloper.sudoku	Sudoku oyunu
+com.github.AlizaMedicalImaging.AlizaMS	Bir DICOM görüntüleyici
+com.github.AmatCoder.mednaffe	Mednafen emülatörü için bir ön uç (GUI) (dahil)
+com.github.amikha1lov.RecApp	Linux için GTK ile kullanımı kullanıcı dostu, açık kaynaklı bir ekran kayıt uygulaması
+com.github.Anuken.Mindustry	Mindustry: Bir sandbox kule savunma oyunu
+com.github.appadeia.Taigo	Taigo masaüstünüz için sanal bir evcil hayvandır
+com.github.arminstraub.krop	PDF dosyalarını kırpmak için bir araç
+com.github.arshubham.cipher	Metni kodlama ve kodunu çözme
+com.github.arshubham.gitignore	Çeşitli diller için .gitignore referansı
+com.github.artemanufrij.graphui	Grafik Görselleştirme
+com.github.artemanufrij.playmymusic	Yerel müzik dosyalarını, çevrimiçi radyoları ve ses CD'lerini dinlemek için bir müzik çalar
+com.github.artemanufrij.playmyvideos	Yerel video dosyalarını izlemek için bir video oynatıcı
+com.github.artemanufrij.regextester	Normal ifadeleri test etmek için basit bir uygulama
+com.github.avojak.paint-spill	Renk doldurucu bulmaca oyunu
+com.github.avojak.warble	Kelime tahmin etme oyunu
+com.github.babluboy.bookworm	Odaklanmış eKitap okuyucu
+com.github.bajoja.indicator-kdeconnect	KDE Connect için Uygulama Göstergesi
+com.github.bcedu.valasimplehttpserver	Dosyalarınıza aynı ağdaki herhangi bir cihazdan erişin
+com.github.bcedu.vgrive	Linux için otomatik senkronizasyona sahip Google Drive istemcisi
+com.github.benpocalypse.Huely	Alanınızı renklendirin
+com.github.birros.WebArchives	Bir web arşivi görüntüleyici
+com.github.bjaraujo.Bombermaaan	Atari Oyunu
+com.github.Bleuzen.FFaudioConverter	Toplu ses dönüştürücü ve efekt işlemcisi
+com.github.bluesabre.darkbar	Tercihinize göre uygulama başlık çubuklarını koyulaştırın
+com.github.buddhi1980.mandelbulber2	Ücretsiz ve açık kaynaklı 3D fraktal üreteci
+com.github.bvschaik.julius	Julius, Caesar III'ün açık kaynaklı bir yeniden uygulamasıdır
+com.github.calo001.fondo	En güzel duvar kağıtlarını bulun
+com.github.calo001.luna	Harika bir takvim widget'ı
+com.github.carlos157oliveira.Calculus	Türevleri ve integralleri hesaplayın
+com.github.cassidyjames.clairvoyant	Soru sorun, psişik cevaplar alın
+com.github.cassidyjames.dippi	DPI ve en boy oranı gibi ekran bilgilerini hesaplayın
+com.github.cfcurtis.pdfstitcher	PDF Stitcher, PDF dikiş desenlerini bir araya getirmek ve çizgi özelliklerini değiştirmek için kullanılan bir yardımcı programdır
+com.github.childishgiant.mixer	Uygulamaların ses düzeyini değiştirme
+com.github.chipmuenk.pyfda	Python Filtre Tasarımı Analiz Aracı
+com.github.christianrauch.Jahresarbeit-2003	Bağlantılı karelerin en büyük alanını bulun
+com.github.corna.Vivado	Donanım geliştirme için Xilinx Tasarım Paketi
+com.github.coslyk.MoonPlayer	YouTube, Youku vb. sitelerden çevrimiçi videoları oynatmak ve indirmek için video oynatıcı.
+com.github.cubitect.cubiomes-viewer	Etkili bir Minecraft tohum bulucu ve harita görüntüleyici.
+com.github.d4nj1.tlpui	TLP yapılandırma dosyalarını kolayca değiştirmek için GTK-UI.
+com.github.dahenson.agenda	İşleri halledin
+com.github.dail8859.NotepadNext	Notepad++'ın çapraz platform yeniden uygulaması
+com.github.Darazaki.Spedread	GTK hızlı okuma yazılımı: Bir speedrunner gibi okuyun!
+com.github.dariasteam.cowsrevenge	Bağımsız Platform Piksel Sanat Oyunu
+com.github.dawidd6.checksumo	Belirtilen dosyayı verilen karmayla doğrulayın
+com.github.debauchee.barrier	Bariyer - Fare ve klavyeyi yerel ağ üzerinden paylaşın
+com.github.devalien.workspaces	Her zaman işe hazır olun
+com.github.dimkr.gplaces	Terminal tabanlı Gemini istemcisi
+com.github.donadigo.appeditor	Uygulama menülerini düzenleyin
+com.github.dynobo.normcap	Ekranın herhangi bir yerinden metni çıkarın
+com.github.edenalencar.identifications	QA ekibi ve geliştiriciler için bir araçtır
+com.github.Eloston.UngoogledChromium	Google web hizmeti bağımlılığını ortadan kaldırmaya yönelik hafif bir yaklaşım
+com.github.elth0r0.iqpuzzle	Yönlendirici bir I.Q. zorlu pentomino bulmacası
+com.github.emmanueltouzery.cigale	Geçmiş etkinliğinizi inceleyin
+com.github.emmanueltouzery.hotwire	Hotwire, birkaç popüler protokolün ağ trafiğini basit bir şekilde incelemenize olanak tanır
+com.github.emmanueltouzery.projectpad	Projectpad, bir yazılım geliştiricisi veya sistem yöneticisi olarak kullanmanız gereken gizli kimlik bilgilerini ve sunucu bilgilerini yönetmenize olanak tanır.
+com.github.eneshecan.WhatsAppForLinux	Linux için resmi olmayan bir WhatsApp masaüstü uygulaması
+com.github.fabiocolacio.marker	GNOME masaüstü için güçlü işaretleme düzenleyicisi.
+com.github.finefindus.eyedropper	Renkleri seç ve biçimlendir
+com.github.Flacon	Flacon, müzik albümünün tamamını içeren büyük bir ses dosyasından tek tek parçaları çıkarır ve bunları ayrı ses dosyaları olarak kaydeder
+com.github.flxzt.rnote	Eskiz yap ve el yazısıyla notlar al
+com.github.fontmatrix.Fontmatrix	Yazı tipi yönetimi uygulaması
+com.github.fries1234.ncsa-mosaic	NSCA Mozaik Web Tarayıcısı
+com.github.gabutakut.gabutdm	Basit ve Hızlı İndirme Yöneticisi
+com.github.geigi.cozy	Sesli kitapları dinle
+com.github.giacomogroppi.writernote-qt	Writernote, ses kaydederek not almanıza, bunu daha sonra metne çevirmenize ve akıllı bir şekilde dinlemenize olanak tanıyan çok platformlu bir uygulamadır.
+com.github.gijsgoudzwaard.image-optimizer	Basit kayıpsız görüntü sıkıştırma
+com.github.git_cola.git-cola	Şık ve güçlü Git GUI
+com.github.gmg137.netease-cloud-music-gtk	Rust + GTK tabanlı Netease bulut müzik çalar
+com.github.gpuvis.Gpuvis	A GPU Trace Visualizer
+com.github.GradienceTeam.Gradience	Adwaita'nın görünümünü kolaylıkla değiştirin
+com.github.gyunaev.spivak	Karaoke player
+com.github.hluk.copyq	Advanced clipboard manager
+com.github.hopsan.Hopsan	A modelling and simulation tool for fluid power and mechatronic systems
+com.github.horaciodrs.tradesim	The Linux Trading Simulator
+com.github.hugolabe.Wike	Wikipedia makalelerini arayın ve okuyun
+com.github.huluti.Coulr	Renklerin tadını çıkarın ve mutlu hissedin!
+com.github.huluti.Curtail	Görüntülerinizi sıkıştırın
+com.github.HypatiaProject.hypatia	A research helper tool that provides context and information about interesting topics.
+com.github.IsmaelMartinez.teams_for_linux	Unofficial Microsoft Teams client for Linux using Electron
+com.github.ilai_deutel.kibi	A text editor in ≤1024 lines of code, written in Rust
+com.github.inercia.k3x	Manager for local Kubernetes clusters with k3d
+com.github.iortcw.iortcw	Game engine for Return to Castle Wolfenstein
+com.github.iwalton3.jellyfin-media-player	Desktop client for Jellyfin media server
+com.github.iwalton3.jellyfin-mpv-shim	Cast-only client for Jellyfin Media Server
+com.github.JannikHv.Gydl	Download content from sites like YouTube
+com.github.jeromerobert.pdfarranger	PDF Birleştirme, Yeniden Düzenleme, Bölme, Döndürme ve Kırpma
+com.github.jkotra.eovpn	OpenVPN Configuration Manager
+com.github.jkotra.unlockr	PDF Password remover
+com.github.jmlich.geotagging	Fotoğrafı çektiğiniz yeri bulmak için
+com.github.jms55.Sandbox	Bir kum simülasyon oyunu
+com.github.johnfactotum.Foliate	E-kitapları oku
+com.github.johnfactotum.QuickLookup	Kelimeleri hızlı bir şekilde arayın
+com.github.Johnn3y.Forklift	Video ve ses indirme uygulaması
+com.github.joseexposito.touche	Çoklu Dokunma Hareketleri
+com.github.jpakkane.glyphtracer	Harf resimlerini yazı tipine dönüştürün
+com.github.junrrein.PDFSlicer	PDF belgelerinin sayfalarını ayrıştırmak, birleştirmek, döndürmek ve yeniden sıralamak için basit araç
+com.github.juzzlin.DustRacing2D	Seviye düzenleyici içeren geleneksel yukarıdan aşağıya araba yarışı oyunu
+com.github.k4zmu2a.spacecadetpinball	Space Cadet Pinball için oyun motoru
+com.github.kagami.boram	Platformlar arası grafiksel WebM dönüştürücü.
+com.github.kalibari.audok	Ücretsiz, açık kaynaklı bir müzik çalar
+com.github.keriew.augustus	Augustus, Caesar III'ün oyundaki değişikliklerle birlikte açık kaynak yeniden uygulanmasıdır
+com.github.kmwallio.thiefmd	Çalmaya değer markdown editörü.
+com.github.KRTirtho.Spotube	🎧 Premium gerektirmeyen ve Electron kullanmayan açık kaynaklı Spotify istemcisi! Hem masaüstü hem de mobil cihazlarda kullanılabilir!
+com.github.labyrinth_team.labyrinth	Hafif bir zihin haritalama aracı
+com.github.lachhebo.Gabtag	Bir ses etiketleme aracı
+com.github.libresprite.LibreSprite	Animasyonlu hareketli grafik düzenleyici ve piksel sanatı aracı
+com.github.liferooter.textpieces	Rastgele web siteleri kullanmadan metni dönüştürün
+com.github.LongSoft.UEFITool	UEFI ürün yazılımı resim görüntüleyici ve düzenleyici
+com.github.louis77.tuner	İnternet radyo istasyonlarının sınıflandırılması ve birleştirilmesi
+com.github.lxgr_linux.pokete	Terminal tabanlı Pokemon benzeri bir oyun
+com.github.makhber.Makhber	Bilimsel Verilerin Görselleştirilmesi ve Analizi
+com.github.maoschanz.drawing	Ekran görüntülerini veya anılarını birleştirin
+com.github.maoschanz.DynamicWallpaperEditor	GNOME masaüstü için XML dinamik duvar kağıtları (arka plan slayt gösterileri) oluşturun veya düzenleyin
+com.github.marhkb.Pods	Podman konteynerlerinizi takip edin
+com.github.marinm.songrec	Rust'ta yazılmış, Linux için açık kaynaklı, resmi olmayan bir Shazam istemcisi.
+com.github.marktext.marktext	Yeni nesil işaretleme düzenleyicisi
+com.github.matfantinel.moneta	Gerçek dünya para birimlerinin döviz kurlarını masaüstünüzden izleyin
+com.github.matfantinel.reminduck	Eşyalarını çok sinir bozucu bir şekilde hatırla.
+com.github.Matoking.protontricks	Proton özellikli oyunlar için şarap hileleri yapan basit bir sarmalayıcı
+com.github.mdh34.hackup	Hacker Haberlerini masaüstünden okuyun
+com.github.mdh34.quickdocs	Geliştirici Belgelerini Hızla Okuyun
+com.github.mgropp.PdfJumbler	PDF dosyalarındaki sayfaları yeniden düzenlemek, birleştirmek, silmek ve döndürmek için basit araç
+com.github.miguelmota.Cointop	Kripto para birimlerini takip etmek için terminal tabanlı uygulama
+com.github.mikacousin.olc	Aydınlatma gösterilerinizi kontrol edin
+com.github.mtkennerly.ludusavi	PC video oyun kaydetme verilerinizi yedekleyin
+com.github.muriloventuroso.easyssh	SSH Bağlantı Yöneticisi
+com.github.muriloventuroso.givemelyrics	Şarkılarınızın sözleri
+com.github.muriloventuroso.pdftricks	PDF Dosyaları İçin Püf Noktaları
+com.github.Murmele.Gittyup	Kaynak kodu geçmişinizi anlamanıza ve yönetmenize yardımcı olmak için tasarlanmış grafiksel Git istemcisi
+com.github.Murmele.scram	Olasılıksal risk analizi için komut satırı ve grafiksel araç
+com.github.naaando.lyrics	Şarkılarınızı söylemenin güzel yolu
+com.github.needleandthread.vocal	Modern Ücretsiz Masaüstü için Harika Bir Podcast İstemcisi
+com.github.neithern.g4music	Müziğinizi zarif bir şekilde çalın
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x dönüştürücü ncnn sürümü
+com.github.nrittsti.NTag	NTag, günlük hayattaki kullanım durumlarına odaklanan, platformlar arası grafiksel bir etiket düzenleyicisidir.
+com.github.ojubaorg.Othman	Elektronik Kuran Tarayıcı
+com.github.opentyrian.OpenTyrian	DOS shoot-em-up Tyrian'ın açık kaynaklı bağlantı noktası.
+com.github.optyfr.JRomManager	Bir Mame ve Retrogaming Rom Yöneticisi
+com.github.paolostivanin.OTPClient	Yerleşik şifrelemeyle TOTP ve HOTP belirteçlerini yönetmek için GTK+ uygulaması.
+com.github.petebuffon.yafc	YAFC bir Factorio hesaplayıcısı, planlayıcısı ve analizcisidir. YAFC'nin asıl amacı yoğun şekilde modlanmış oyunlarla başa çıkmaktır.
+com.github.phase1geo.minder	Fikirlerinizi yaratın, geliştirin ve görselleştirin
+com.github.philip_scott.notes-up	Yeni Not Defteriniz
+com.github.philip_scott.spice-up	Basit ve güzel sunumlar oluşturun
+com.github.PintaProject.Pinta	Görüntüleri düzenleyin ve dijital olarak boyayın
+com.github.polymeilex.neothesia	GPU hızlandırmalı midi görselleştirici
+com.github.PopoutApps.popout3d	Sıradan bir fotoğraf makinesiyle çekilen fotoğraflardan 3 boyutlu görüntüler oluşturur.
+com.github.powertab.powertabeditor	Gitar tablasını görüntüleyin ve düzenleyin
+com.github.qarmin.czkawka	Kopyaları, boş klasörleri, benzer görselleri, bozuk dosyaları vb. bulmak için çok işlevli uygulama.
+com.github.qarmin.szyszka	Simple but powerful file renamer, written in Rust
+com.github.quaternion	Qt-based client for Matrix networks
+com.github.Qv2ray	Qv2ray is a cross-platform v2ray graphical frontend written in Qt.
+com.github.rafostar.Clapper	Simple and modern GNOME media player
+com.github.raibtoffoletto.litteris	Penpal Correspondence Organized
+com.github.rajsolai.response	Test your Webpage's Responsiveness
+com.github.rajsolai.textsnatcher	Snatch Text with just a Drag
+com.github.ransome1.sleek	todo manager based on the todo.txt syntax for Linux, free and open-source (FOSS)
+com.github.reds.LogisimEvolution	Digital logic designer and simulator
+com.github.reduz.ChibiTracker	ChibiTracker is a portable IT (Impulse Tracker) clone
+com.github.rhyme_player.rhyme	The Home of your music.
+com.github.rkoesters.xkcd-gtk	xkcd'yi okuyun: aşk, iğneleme, matematik ve dil ile ilgi bir web çizgi romanı
+com.github.robertsanseries.ciano	Çoklu ortam dosya dönüştürücü
+com.github.rogercrocker.badabib	View and edit BibTeX entries
+com.github.Rosalie241.RMG	An easy to use & cross-platform mupen64plus front-end written in C++ & Qt
+com.github.ryanakca.slingshot	2D space shooting game with gravity
+com.github.ryonakano.konbucase	Metinlerdeki büyük küçük harfleri düzenleyin
+com.github.ryonakano.pinit	Uygulama başlatıcınızda gözde taşınabilir uygulamalarınızın kısayolunu oluşturun
+com.github.ryonakano.reco	İçeriğini daha sonra hatırlamak için konuşmaları kaydedin
+com.github.sakya.corechess	Open source chess GUI for chess engines
+com.github.scrivanolabs.scrivano	Yazmak yerine el yazısını tercih edenler için not alma uygulaması.
+com.github.sdv43.whaler	Docker Konteyner Yönetimi
+com.github.shonumi.gbe-plus	Bir Game Boy (Renkli, Gelişmiş) emülatörü
+com.github.sixpounder.GameOfLife	Conway'in Hayat Oyununu Oyna
+com.github.skullernet.q2pro	Geliştirilmiş Quake 2 istemcisi
+com.github.skylot.jadx	Dex'ten Java'ya kod çözücü
+com.github.subhadeepjasu.pebbles	Gelişmiş hesaplamaları kolaylıkla gerçekleştirin
+com.github.suzie97.communique	Platformlar arası senkronizasyona sahip RSS Okuyucu
+com.github.taiko2k.avvie	Resimler avatar veya duvar kağıtları için kırp
+com.github.taiko2k.tauonmb	Müziğinizi şık bir şekilde çalın
+com.github.tchx84.Flatseal	Flatpak izinlerini yönetme
+com.github.tenderowl.frog	Resimlerden metin çıkar
+com.github.tenderowl.norka	Sürekli metin düzenleyici
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto, metinleri basit bir şekilde şifrelemenizi ve şifrelerini çözmenizi sağlayan platformlar arası bir uygulamadır.
+com.github.theCalcaholic.StreamDeck	Steam'e Yayın Web Hizmetleri Ekleme
+com.github.theironrobin.siglo	PineTime'ı PinePhone'unuzla senkronize edin
+com.github.themix_project.Oomox	simgeleri, xrdb ve GTK temalarını özelleştirin
+com.github.tmewett.BrogueCE	Brogue: Community Edition – çok sevilen minimalist roguelike oyununun topluluk öncüsü bir çatalı
+com.github.treagod.spectator	REST API'lerinizi rahatça test edin!
+com.github.unrud.djpdf	Taranan belgelerden küçük, aranabilir PDF'ler oluşturun
+com.github.unrud.RemoteTouchpad	Akıllı telefondan fareyi ve klavyeyi kontrol edin
+com.github.unrud.VideoDownloader	YouTube ve diğer internet sitelerinden video indirin
+com.github.utsushi.Utsushi	Epson için görüntü edinme yardımcı programları
+com.github.varnholt.dynablaster_revenge	Dynablaster oyununun yeniden yapımı
+com.github.vikdevelop.photopea_app	Adobe Photoshop kullanıcıları için ücretsiz alternatif
+com.github.vikdevelop.timer	Basit Geri Sayım Sayacı
+com.github.vkohaupt.vokoscreenNG	Kullanımı kolay ekran görüntüsü oluşturucu
+com.github.vladimiry.ElectronMail	ProtonMail için resmi olmayan masaüstü istemcisi
+com.github.weclaw1.ImageRoll	Temel görüntü işleme araçlarına sahip resim görüntüleyici
+com.github.wwmm.easyeffects	PipeWire Uygulamaları için Ses Efektleri
+com.github.wwmm.pulseeffects	PulseAudio Uygulamaları için Ses Efektleri
+com.github.Xenoveritas.abuse	Karanlık 2D yandan kaydırmalı platform oyunu
+com.github.xournalpp.xournalpp	El yazısı notları alın
+com.github.yucefsourani.albasheer-electronic-quran-browser	Elektronik Kuran Tarayıcı
+com.github.zadam.trilium	Kişisel bilgi tabanınızı oluşturun
+com.github.z.Cumulonimbus	Basit, güzel bir podcast uygulaması
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + basit tepsi göstergesi
+com.github.ztefn.haguichi	Hamachi için görsel ayarlar
+com.gitlab.adnan338.Invoicer	Ödeme faturalarınızı oluşturun
+com.gitlab.adnan338.Nixwriter	Önyüklenebilir Linux görüntüleri oluşturun
+com.gitlab.azymohliad.Qwertone	Bilgisayarınızı müzik enstrümanına dönüştürür
+com.gitlab.bitseater.meteo	Veriler ve haritalarla sonraki saatlerin ve günlerin hava durumu tahminlerini öğrenin
+com.gitlab.ColinDuquesnoy.MellowPlayer	Masaüstünüz için bulut müzik entegrasyonu
+com.gitlab.coringao.cavestory-nx	Nostaljik bir yan aksiyon macera oyunu
+com.gitlab.coringao.JAG	Tüm hedef parçaları kırmanız gereken Arcade ve Puzzle 2D Oyunu
+com.gitlab.cutecom.cutecom	Grafik seri terminal
+com.gitlab.davem.ClamTk	ClamTk, Clam Antivirus Grafik Arayüz İçin
+com.gitlab.guillermop.MasterKey	Bir şifre yöneticisi uygulaması
+com.gitlab.j0chn.nextcloud_password_client	Nextcloud Şifrelerinizi masaüstünüzden yönetin
+com.gitlab.kendellfab.restscope	D ve GtkD ile oluşturulmuş basit bir http/rest test aracı.
+com.gitlab.librebob.Athenaeum	Steam'in özgür değişimi
+com.gitlab.maevemi.publictransport	Almanya için toplu taşıma uygulaması (şu anda)
+com.gitlab.Murmele.UDPLogger	UDPLogger, hafif, yüksek performanslı bir UDP Veri Kaydedicisidir. Ek veriler grafikler üzerinde görselleştirilebilir.
+com.gitlab.tipp10.tipp10	Dokunma Yazma Öğretmeni
+com.gluonhq.SceneBuilder	Scene Builder, JavaFX kullanıcı arayüzlerinin sürükle ve bırak tasarımına olanak tanıyan açık kaynaklı bir araçtır.
+com.google.AndroidStudio	Google'ın Android platformu için entegre geliştirme ortamı
+com.google.Chrome	Google'ın web tarayıcısı
+com.google.ChromeDev	Google'ın web tarayıcısı
+com.google.EarthPro	3 boyutlu gezegen görüntüleyici
+com.googleplaymusicdesktopplayer.GPMDP	Google Play Müzik'i bağımsız bir masaüstü uygulaması olarak çalıştırın
+com.grangerhub.Tremulous	Uzaylılar vs İnsanlar, Gerçek Zamanlı Strateji unsurları içeren Birinci Şahıs Nişancı oyunu
+com.hack_computer.Clubhouse	Çocukların kodlamayı öğrenmesinin adresi
+com.hack_computer.OperatingSystemApp	Sistem, bilgisayarınızın çalışmasını sağlayan büyünün bir parçası olmanızı sağlar!
+com.hack_computer.Sidetrack	Çukurların ve robotların labirentinden kurtulun!
+com.hamrick.VueScan	6000'den fazla tarayıcı için tarama yazılımı
+com.helix_editor.Helix	Post-modern bir metin editörü
+com.her01n.BatteryInfo	Sistem pili hakkındaki bilgileri gösterir.
+com.heroicgameslauncher.hgl	Açık Kaynaklı Epic Games, GOG ve Amazon Prime Games Başlatıcısı.
+com.hostbuf.FinalShell	FinalShell ssh araçları
+com.howlingmoonsoftware.CrayonBall	Hızlı tempolu bir 4'lü eşleştirme bulmacası
+com.hunterwittenborn.Celeste	Bulut dosyalarınızı senkronize edin
+com.icanblink.blink	SIP istemcisini yanıp sön
+com.icons8.Lunacy	Yapay zeka araçları ve yerleşik grafiklerle akışınızı koruyan ücretsiz tasarım yazılımı
+com.identicalsoftware.anagramarama	Karmaşık harflerden kelimeler oluşturun
+com.inform7.IDE	Etkileşimli kurgu yazın
+com.inklestudios.Inky	İnkle'ın biçimlendirme dilinde etkileşimli anlatım yazın
+com.inochi2d.inochi-creator	Inochi2D kuklalarını oluşturma ve düzenleme aracı
+com.interversehq.qView	Pratik ve minimal resim görüntüleyici
+com.inventwithpython.flippy	Klasik masa oyunu Reversi'nin bir kopyası
+com.invoiceninja.InvoiceNinja	Fatura oluşturun, ödemeleri kabul edin, masrafları ve zaman görevlerini takip edin
+com.irccloud.desktop	Modern, her zaman bağlı IRC istemci hizmeti
+com.itextpdf.RUPS	iText RUPS, PDF yapısını görüntülemek için bir araçtır
+com.itopia.client	Uzak Masaüstü Protokolü (RDP) Sunucuları için İstemci
+com.jagex.RuneScape	Oynaması ücretsiz bir fantastik MMORPG
+com.jaquadro.NBTExplorer	Tüm Minecraft NBT veri kaynakları için grafiksel bir NBT düzenleyici
+com.jetbrains.CLion	C ve C++ için platformlar arası bir IDE
+com.jetbrains.DataGrip	Veritabanları ve SQL için IntelliJ tabanlı IDE
+com.jetbrains.GoLand	Yetenekli ve Ergonomik Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	Yetenekli ve Ergonomik Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Kurumsal, Web ve Mobil Geliştirme için Yetenekli ve Ergonomik Java IDE
+com.jetbrains.PhpStorm	Mesleki Gelişim için PHP IDE
+com.jetbrains.PyCharm-Community	En akıllı Python IDE'si
+com.jetbrains.PyCharm-Professional	En akıllı Python IDE'si
+com.jetbrains.Rider	Hızlı ve güçlü, platformlar arası .NET IDE
+com.jetbrains.RubyMine	Ruby 2.x ve Rails 6.x, Sinatra, React, Angular, Puppet, Docker ve daha fazlası için birinci sınıf desteğin keyfini çıkarın
+com.jetbrains.WebStorm	En akıllı JavaScript IDE'si
+com.jetpackduba.Gitnuro	Çok platformlu Git istemcisi
+com.jgraph.drawio.desktop	Diyagramlar oluşturun ve paylaşın
+com.jonathankang.Weibird	Yerel GTK+ Weibo istemcisi
+com.jpexs.decompiler.flash	SWF dosyalarını kaynak koda dönüştürme ve düzenleme
+com.js8call.JS8Call	Amatör Telsiz Operatörlerine klavye mesajlaşması için zayıf sinyal klavyesi sağlayan JS8 Dijital Modu kullanan yazılım
+com.katawa_shoujo.KatawaShoujo	Bishoujo tarzı bir görsel roman
+com.kavilgroup.gelectrical	Elektrik dağıtım ağı tasarımı ve analizi
+com.kavilgroup.gestimator	Sivil Tahmin Yazılımı
+com.kolor.AutopanoPro	Kolor tarafından üretilen profesyonel görüntü birleştirme yazılımı
+com.kristianduske.TrenchBroom	Quake tabanlı oyunlar için seviye düzenleyici
+com.ktechpit.colorwall	Nihai Masaüstü Duvar Kağıdı Uygulaması
+com.ktechpit.orion	Linux Masaüstü için eksiksiz torrent istemcisi ve aktarıcı
+com.ktechpit.torrhunt	Torrent Arama Motoru
+com.ktechpit.ultimate-media-downloader	Linux için çevrimiçi video ve ses indiricisi, 1300'den fazla web sitesi desteği
+com.ktechpit.whatsie	Linux Masaüstü için Qt Whatsapp Web İstemcisi
+com.ktechpit.wonderwall	Duvar kağıdı yöneticisi
+com.lakoliu.Furtherance	Takip edilmenizden zamanınızı takip edin
+com.leinardi.gkraken	NZXT Kraken X pompasının soğutmasını Linux'tan kontrol etmenizi sağlar.
+com.leinardi.gst	Çeşitli donanım bileşenlerini vurgulamak ve izlemek için tasarlanmış sistem yardımcı programı
+com.leinardi.gwe	Bilgi sağlamak, fanları kontrol etmek ve NVIDIA kartınıza hız aşırtma yapmak için tasarlanmış sistem yardımcı programı
+com.leinardi.gx52	Logitech X52 ve X52 Pro H.O.T.A.S için LED'lerin ve MFD'nin kontrolünü sağlar.
+com.lettier.movie-monad	Haskell ile yapılmış Ücretsiz ve Kullanımı Basit bir Video Oynatıcı
+com.librumreader.librum	Modern bir e-kitap okuyucu ve kütüphane yöneticisi
+com.lixgame.Lix	Bulmacalar, editör ve çok oyunculu özelliklere sahip Lemmings benzeri oyun
+com.locomalito.abbayedesmorts	Tarihin karanlık bir geçişini anlatan eski bir video oyunu
+com.logseq.Logseq	Kişisel bilgi tabanınızı düzenlemek ve paylaşmak için öncelikle yerel, doğrusal olmayan, taslak not defteri
+com.lunarclient.LunarClient	Minecraft'ın tüm modern versiyonları için bir mod paketi!
+com.makemkv.MakeMKV	DVD ve Blu-ray'den MKV'ye dönüştürücü ve ağ aktarıcı
+com.maplerain.telsis_translator_flutter	Violet Evergarden serisinde kullanılan Telsis diline çeviri yapan uygulama
+com.mardojai.DiccionarioLengua	Busca palabras el DLE'de
+com.mardojai.ForgeSparks	Git sahte bildirimleri alın
+com.mastermindzh.tidal-hifi	Listen.tidal.com'un Hi-Fi (Yüksek ve Maksimum) destekli web sürümü
+com.mattermost.Desktop	Geliştirici işbirliği için açık kaynaklı bir platform
+com.mattjakeman.ExtensionManager	GNOME Kabuk Uzantılarına göz atın, yükleyin ve yönetin
+com.meetfranz.Franz	Masaüstü için Messenger
+com.microsoft.AzureStorageExplorer	Azure bulut depolama kaynaklarını yönetmeye yönelik grafiksel araç
+com.microsoft.Edge	Yeni Microsoft Edge web tarayıcısıyla tanışın. Daha fazlasını beklemenin zamanı geldi. Daha fazla gizlilik. Daha fazla kontrol. Daha fazla üretkenlik. Daha fazla değer.
+com.microsoft.EdgeDev	Yeni Microsoft Edge web tarayıcısıyla tanışın. Daha fazlasını beklemenin zamanı geldi. Daha fazla gizlilik. Daha fazla kontrol. Daha fazla üretkenlik. Daha fazla değer.
+com.milesalan.mepo	Linux için hızlı, basit ve hacklenebilir OSM harita görüntüleyici
+com.moddb.TotalChaos	Fort Oasis olarak bilinen uzak bir adada geçen hayatta kalma-korku oyunu
+com.moddb.TotalChaosRetro	Fort Oasis olarak bilinen uzak bir adada geçen hayatta kalma-korku oyunu
+com.mojang.Minecraft	En popüler video oyunlarından birinde kendi dünyanızı yaratın
+com.mongodb.Compass	MongoDB GUI'si
+com.moonlight_stream.Moonlight	Sunshine veya GeForce Experience çalıştıran başka bir bilgisayardan oyun ve diğer uygulamaları aktarın
+com.mousepawmedia.omission	Aldatıcı derecede basit bir kelime bulmacası.
+com.mudeprolinux.whakarere	GTK4 Whatsapp İstemcisi
+community.pathofbuilding.PathOfBuilding	Path of Building (Topluluk) - Path of Exile için güçlü bir inşa planlayıcısı
+com.musixmatch.Musixmatch	Her yerde şarkı sözlerinin tadını çıkar
+com.napster.napster-bigscreen-electron	Elde taşınır cihazınız için Napster
+com.neatdecisions.Detwinner	Yinelenen dosyaları ve benzer görselleri bulun ve kaldırın
+com.netease.CloudMusic	Netease tarafından geliştirilen popüler bir çevrimiçi müzik oynatıcı
+com.nextcloud.desktopclient.nextcloud	Nextcloud masaüstü senkronizasyon istemcisi
+com.nitrokey.nitrokey-app	Nitrokey cihazlarınızı yönetin
+com.nordpass.NordPass	Siber güvenlik uzmanları tarafından size sunulan, kullanımı kolay bir şifre yöneticisi.
+com.notepadqq.Notepadqq	Gelişmiş bir metin düzenleyici
+com.notesnook.Notesnook	Evernote'a alternatif, tamamen açık kaynak ve uçtan uca şifrelenmiş not alma
+com.obsproject.Studio	Canlı yayın ve video kayıt yazılımı
+com.okta.developer.CLI	Okta CLI, Okta'yı kullanmaya başlamanın en kolay yoludur!
+com.openwall.John	Karındeşen John Jumbo şifre kırıcı
+com.opera.Opera	Opera'nın web tarayıcısı
+com.oppzippy.OpenSCQ30	Soundcore Q30 kulaklıkların kontrol ayarları
+com.orama_interactive.Pixelorama	Animasyon desteğine sahip 2D sprite düzenleyici
+com.outerwildsmods.owmods_gui	Outer Wilds modlarını yüklemek ve çalıştırmak için kullanımı kolay bir uygulama
+com.ownrwallet.wallet	Sanal para birimleri gönderin, alın, çekin, değiştirin ve satın alın. Erişimi ve varlıkları yalnızca siz kontrol edersiniz
+com.ozmartians.VidCutter	Medya Kesici + Birleştirici
+com.parallax.PropellerIDE	Paralaks Pervane platformu için kod geliştirin, derleyin ve yükleyin.
+com.parsecgaming.parsec	Basit, düşük gecikmeli oyun akışı
+com.pikatorrent.PikaTorrent	Modern, basit, bağlantılı ve elektrikli bir BitTorrent uygulaması ⚡
+com.pinegrow.Pinegrow	Profesyoneller için görsel web editörü
+com.play0ad.zeroad	Antik Savaşların Gerçek Zamanlı Strateji Oyunu
+com.playonlinux.PlayOnLinux4	Wine için grafiksel ön uç
+com.plexamp.Plexamp	Plexamp - Müzik tutkunları, küratörler ve yenilikçiler için güzel bir Plex müzik çalar
+com.pojtinger.felicitas.Multiplex	Torrentleri arkadaşlarınızla izleyin
+com.pokemmo.PokeMMO	PokeMMO oynaması ücretsiz bir mmorpg oyunudur, seviye atladıkça büyüyen topluluğa katılın ve yeni canavarlar keşfedin
+com.polyphone_soundfonts.polyphone	En sevdiğiniz müziği çalmak için kendi enstrümanlarınızı yaratın
+com.powerball253.eternalmodmanager	DOOM Eternal için çapraz platform mod yöneticisi.
+com.poweriso.PowerISO	Hepsi bir arada CD/DVD/Blu-Ray aracı
+com.protonvpn.www	Linux için güvenilir ve kullanımı kolay VPN uygulaması
+com.prusa3d.PrusaSlicer	Mükemmel 3D baskılar elde edin!
+com.pypyrev.linuxdcpp	Direct Connect ağı için bir dosya paylaşım istemcisi
+com.q3rally.Q3Rally	Hayatta kalma yarış oyunu
+com.qq.QQ	Çevrimiçi anlık mesajlaşma hizmeti
+com.qq.QQmusic	Çevrimiçi müzik akışı hizmeti
+com.quexten.Goldwarden	Bitwarden uyumlu bir masaüstü istemcisi
+com.quixel.Bridge	Megascan'ler ve favori araçlarınız arasındaki mükemmel Köprü
+com.qzandronum.Q-Zandronum	Geliştirilmiş net kod, yapılandırılabilir hareket ve birçok küçük ayarlamaya sahip Zandronum 3.0 çatalı
+com.rabbit_company.passky	Passky basit, modern, hafif, açık kaynaklı ve güvenli bir şifre yöneticisidir.
+com.rafaelmardojai.Blanket	Farklı ses aralıkları
+com.rafaelmardojai.SharePreview	Sosyal medya kartlarını yerel olarak sına
+com.rafaelmardojai.WebfontKitGenerator	@font-face kitlerini birleştirir
+com.raggesilver.BlackBox	Güzel bir GTK 4 terminali
+com.ranfdev.Geopard	İkizler tarayıcısı
+com.ranfdev.Lobjur	Basit bir lobste.rs istemcisi
+com.ranfdev.Notify	Ntfy.sh'den bildirim alın.
+com.rawtherapee.RawTherapee	Gelişmiş bir ham fotoğraf geliştirme programı
+com.realm667.Wolfenstein_Blade_of_Agony	90'lar ve 2000'lerin başındaki İkinci Dünya Savaşı nişancı oyunlarından ilham alan hikaye odaklı FPS
+com.redis.RedisInsight	Redis için Geliştirici GUI'si, Redis tarafından.
+com.remnantsoftheprecursors.ROTP	1993'teki orijinal Master of Orion Strateji oyununun gösterişli bir modernizasyonu.
+com.retrodev.blastem	Bir Sega Mega Drive/Genesis ve Master System emülatörü
+com.revolutionarygamesstudio.ThriveLauncher	Bir evrim simülasyon oyunu. Ortamdaki türlerinizin kontrolünü elinize alın ve türünüzü bir bütün olarak düzenleyin. Yabancı bir gezegendeki kaynaklar için diğer gelişen türlerle rekabet edin.
+com.riverbankcomputing.PyQt.BaseApp	PyQt kullanan uygulamalar için ortak platform
+com.rocksandpaper.syndic	Dokunmatik dostu RSS/Atom okuyucu
+com.roguetemple.HyperRogue	Öklid dışı grafiksel haydut benzeri oyun
+com.rosegardenmusic.rosegarden	MIDI ve Ses Sıralayıcı ve Notasyon Düzenleyici
+com.rq3.Reaction	Film gerçekçiliği birinci şahıs nişancı
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Hafif bir Qt Audio oynatıcı
+com.scoutshonour.Digital	1988'in geleceğine beş dakika süren bir bilgisayar gizemi/romantizmi
+com.scoutshonour.dtipbijays	Prestijli bir özel lisede ve 2027'nin sosyal ağlarında geçen Digital: A Love Story'nin bir tür ruhani devamı
+com.seafile.Client	Seafile dosya senkronizasyonu ve masaüstü istemcisini paylaşma
+com.seal_one.SealOne	Seal One donanım tabanlı imza cihazları için yazılım
+com.serveftp.officefactoring	Faktoring, menkul kıymetleştirme, ESC veya FIDC uygulaması
+com.sevenkfans.sevenkaa	Orta Çağ Gerçek Zamanlı Strateji Oyunu
+com.seventhstring.Transcribe	Uyarlamak! - kayıtlı müziğin yazıya geçirilmesine yardımcı olacak yazılım
+com.shatteredpixel.shatteredpixeldungeon	Rogue benzeri RPG, piksel sanat grafikleri, bol çeşitlilik ve tekrar oynanabilirlik ile
+com.sigil_ebook.Sigil	Çok platformlu EPUB e-kitap düzenleyici
+com.sigmyne.crush	Seçilmiş astronomik kameralar için veri azaltma ve görüntüleme
+com.simplenote.Simplenote	Not tutmanın en basit yolu
+com.sindresorhus.Caprine	Zarif Facebook Messenger masaüstü uygulaması
+com.sireliah.Dragit	Yerel ağ için sezgisel dosya paylaşım uygulaması
+com.skype.Client	Görüntülü sohbet desteğiyle Skype kullanıcılarını arayın ve mesaj gönderin
+com.slack.Slack	21. yüzyılda ekip iletişimi
+com.sleepfiles.OSCAR	Açık Kaynak CPAP Analiz Raportörü
+com.slugchess.SlugChess	Savaş Sisi ve karışık subaylarla satranç
+com.snes9x.Snes9x	Bir Süper Nintendo emülatörü
+com.solvespace.SolveSpace	Ücretsiz (GPLv3) parametrik 3 boyutlu CAD aracı
+com.sourcepole.kadas	Uzman olmayan kullanıcılar için haritalama uygulaması
+com.spacestation14.Launcher	Çok oyunculu felaket simülatörü
+com.spotify.Client	Çevrimiçi müzik akışı hizmeti
+com.springrts.SpringLobby	Spring motoruyla çevrimiçi RTS oyunları oynayın
+com.steamdeckrepo.manager	Steam Deck Repo web sitesi API'sini kullanarak açılış videolarını Steam Deck'inize yükleyin.
+com.steamgriddb.SGDBoop	SteamGridDB varlıklarını Steam'e uygulama
+com.steamgriddb.steam-rom-manager	Steam'deki ROM'ları yönetmek için bir uygulama
+com.stepmania.StepMania	Ritim ve dans oyunu
+com.stremio.Service	Akış Özgürlüğü
+com.stremio.Stremio	Videoları, filmleri, dizileri ve TV kanallarını anında izleyin
+com.strlen.TreeSheets	Serbest Biçimli Veri Düzenleyici
+com.st.STM32CubeIDE	STM32 için Entegre Geliştirme Ortamı
+com.sublimemerge.App	Sublime Merge, Sublime Text'in yapımcılarından bir Git istemcisidir
+com.sublimetext.three	Kod, işaretleme ve düzyazı için gelişmiş metin düzenleyici
+com.sudovanilla.penpot-desktop	Ekipler için Tasarım Özgürlüğü
+com.supermodel3.Supermodel	Bir Sega Model 3 Arcade Emülatörü
+com.sweethome3d.Sweethome3d	Sweet Home 3D İç Tasarım Uygulaması
+com.sweetscape.ZeroOneZeroEditor	İkili şablonlarla profesyonel metin ve hex düzenleme
+com.synology.CloudStationBackup	Gerçek zamanlı yedekleme sizi büyük veri kaybından kurtarır
+com.synology.SynologyAssistant	Yerel ağda Synology NAS'ı yönetmeye yönelik araç
+com.synology.SynologyDrive	Yinelenen ücretler olmadan güçlü özel bulut depolama
+com.syntevo.SmartGit	Taahhütünüzü tamamlayın
+com.syntevo.SmartSynchronize	Dizinleri Akıllı Yolla Karşılaştırma
+com.system76.Popsicle	Birden fazla USB cihazını paralel olarak flaşlayın
+com.szibele.e-juice-calc	Ücretsiz ve kullanımı basit E-Suyu hesaplayıcısı
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim Masaüstü uygulaması
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP uygulaması
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP uygulaması
+com.teeworlds.Teeworlds	Çevrimiçi çok oyunculu nişancı oyunu
+com.tencent.wemeet	Tencent'in görsel-işitsel iletişimdeki 20 yılı aşkın deneyiminden yararlanan bulut tabanlı bir HD konferans ürünü
+com.tercad.fingrom	Platformdan bağımsız finansal muhasebe uygulaması
+com.thebrokenrail.MCPIReborn	Bloklarla Eğlence
+com.thewavewarden.Odin2	Odin 2 Sentezleyici
+com.thincast.client	Linux, macOS ve Windows için ücretsiz bir RDP (Uzak Masaüstü Protokolü) İstemcisi
+com.tic80.TIC_80	Küçük oyunlar yapmak, oynamak ve paylaşmak için fantezi bilgisayar
+com.ticktick.TickTick	Her şeyi halletmek ve hayatı iyi organize etmek için harika yapılacaklar ve görev listeniz.
+com.todoist.Todoist	“Şu anda en iyi yapılacaklar listesi uygulaması” - The Verge
+com.toggl.TogglDesktop	Basit ve Sezgisel Zaman Takip Yazılımı
+com.tomjwatson.Emote	Modern açılır emoji seçici
+com.tonikelope.MegaBasterd	MEGA.nz'den dosya indirin, yükleyin veya yayınlayın
+com.tracktion.Waveform	Tüm müzik yaratıcıları için dijital ses iş istasyonu
+com.transmissionbt.Transmission	Dosyaları BitTorrent üzerinden indir ve paylaş
+com.tutanota.Tutanota	Güvenli e-posta, takvim ve kişiler
+com.tux4kids.tuxmath	TuxMath, çocukların matematik gerçeklerini uygulamalarına yardımcı olan bir arcade oyunudur
+com.tux4kids.tuxtype	Daktilo Öğretmeni
+com.tuxpusher.TuxPusher	Tux'un yer aldığı eğlenceli bir jeton itme oyunu!
+com.tuxpusher.TuxPusherAF	515 Benzersiz Ödül + 6 Penguen
+com.ugetdm.uGet	İndirme yöneticisi
+com.ulduzsoft.Birdtray	Thunderbird için sistem tepsisi yeni posta bildirimi
+com.ultimaker.cura	3D baskı projelerinizi hazırlamak için dilimleyici
+com.umlet.Umlet	Hızlı UML Diyagramları için Ücretsiz UML Aracı
+com.unity.UnityHub	Gerçek zamanlı oyun motoru
+com.uploadedlobster.peek	Kullanımı kolay bir modüle sahip basit ekran kaydedici
+com.usebottles.bottles	Windows yazılımlarını çalıştır
+com.usebruno.Bruno	Hızlı ve Git Dostu API İstemcisi
+com.vagueentertainment.Framed	NFT showroom sanatınız ve kişisel çalışmalarınız için Dijital Resim çerçevesi
+com.valvesoftware.Steam	Steam yazılım dağıtım hizmeti için başlatıcı
+com.valvesoftware.SteamLink	Steam ile başka bir bilgisayardan oyun akışı yapın
+com.varnamproject.Varnam	Hint dillerini kolayca yazın
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, yüksek uyumluluğa sahip Gameboy Advance Emülatörü
+com.vesc_project.VescTool	VESC® Tool, BLDC-Tool'un tamamen yeni ve %100 revize edilmiş alternatifidir
+com.viber.Viber	Kim olduklarına veya nereden geldiklerine bakılmaksızın insanları birbirine bağlıyoruz
+com.vicr123.thebeat	Ses oynatıcı
+com.viewizard.AstroMenace	Uzay gemisi yükseltme olanaklarına sahip, zorlu 3 boyutlu uzay kaydırmalı nişancı oyunu
+com.virustotal.VirusTotalUploader	Virustotal.com'a dosya yükleyin
+com.visualstudio.code	Kod düzenleme. Yeniden tanımlandı.
+com.visualstudio.code-oss	Visual Studio Kodu. Kod düzenleme. Yeniden tanımlandı.
+com.vivaldi.Vivaldi	Güçlü, kişisel ve özel bir web tarayıcısı
+com.vixalien.decibels	Ses oynat oynat
+com.vixalien.sticky	Notları masaüstünüze sabitleyin
+com.voxdsp.aigeneratedgame	Bahçe arkadaşlarınızı hayaletlerden kurtarın!
+com.voxdsp.AstroImpact	Çok oyunculu bir uzay oyunu, gezegeni gelen asteroitlerden koruyun!
+com.voxdsp.Borg	Korg ER-1'den ilham alan taşınabilir (SDL) ses sentezleyici / ton üreteci
+com.voxdsp.Borg0	Taşınabilir (SDL) bir ses sentezleyici / ton oluşturucu, kullanıcıların osilatörler ve zarflar çizmesine olanak tanır.
+com.voxdsp.CubeShooter	3D Arcade tarzı atıcı
+com.voxdsp.PoryDrive	Porygon'u yakalamanız gereken bir araba oyunu!
+com.voxdsp.SeriousShooter	Sam Amca tarafından onaylanan 3D FPS
+com.voxdsp.Snowboarder	3D basit bir snowboard oyunu
+com.voxdsp.Snowling	Bowling şans oyunu
+com.voxdsp.Spaceminer	3 boyutlu bir uzay madenciliği oyunu
+com.voxdsp.Tuxocide	3D FPS Antarktika'da bir savaş sürüyor...
+com.voxdsp.TuxScape	Tux olarak efsanevi bir macera!
+com.voxdsp.TuxVsDragon	Kızıl Ejder Tux'unu öldürün!
+com.voxdsp.VoxelPaint	Vokselleri kullanarak 3D boyayın!
+com.voxdsp.VoxelPaintPro	Katı gölgeli Voxels kullanarak 3D boyayın!
+com.vscodium.codium	Kod düzenleme. Yeniden tanımlandı. Telemetri daha az.
+com.vysp3r.ProtonPlus	Basit bir Şarap ve Proton tabanlı uyumluluk araçları yöneticisi
+com.vzhd1701.gridplayer	Videoları yan yana oynatın
+com.w1hkj.fldigi	Amatör Radyo Ses Kartı İletişimi
+com.w1hkj.flrig	Amatör Telsiz Teçhizat Kontrolü
+com.whitemagicsoftware.kmcaster	Fare ve klavye olaylarını ekranda görüntüleyin
+com.wickeditor.WickEditor	Oyunlar, animasyonlar ve bunların arasındaki her şeyi oluşturmak için bir araç!
+com.wings3d.WINGS	Gelişmiş bir alt bölüm modelleyici
+com.wire.WireDesktop	En güvenli işbirliği platformu
+com.wiz.Note	Bulut kullanımına dayalı mükemmel bir PKM (kişisel bilgi yönetimi) masaüstü ortamı
+com.wps.Office	WPS Ofis Paketi
+com.writerduet.writersolo	Bir senaryonun tamamını yazmak veya son taslak fdx veya çeşme gibi çeşitli senaryo formatları arasında dönüşüm yapmak için kapsamlı bir masaüstü uygulaması
+com.xnview.XnConvert	Görüntüleri kolayca toplu işleyin ve meta verileri düzenleyin
+com.xnview.XnRetro	Vintage veya anında efektle çarpıcı görüntüler yaratın
+com.xnview.XnSketch	Fotoğraflarınızı karikatür veya eskiz görsellerine dönüştürün
+com.xnview.XnViewMP	Resimleri düzenle ve göster
+com.xunlei.Thunder	Xunlei indir. bu bir gerçek.
+com.yacreader.YACReader	Bir çizgi roman okuyucusu daha
+com.yktoo.ymuse	Müzik Çalar Daemon için kolay, işlevsel ve hızlı GTK ön ucu (istemci)
+com.ylsoftware.qmmp.Qmmp	Qt tabanlı çokluortam Oynatıcı
+com.yubico.yubioath	YubiKey ile OATH kodlarını görüntülemek için grafik arayüz
+com.zandronum.Zandronum	Yeni okul çok oyunculu Doom çevrimiçi oyununda öncü
+com.zerobrane.studio	Lua için hafif Lua tabanlı IDE
+com.zettlr.Zettlr	21. yüzyıl için bir Markdown editörü
+com.zhqli.wikit	Evrensel bir sözlük
+com.zoho.Notebook	Cihazlar arasında en güzel not alma uygulaması
+com.zquestclassic.ZQuest	Popüler klasik macera oyununa benzer oyunlar oluşturmaya yönelik bir oyun motoru
+cool.ldr.lfy	GNOME için çeviri yazılımı
+cz.cvut.edu.comparch.qtrvsim	Eğitim amaçlı RISC-V CPU simülatörü
+cz.krupkat.Xpano	Otomatik fotoğraf birleştirme aracı
+cz.zeropage.Formiko	reStructuredText ve MarkDown editörü ve canlı önizleyici
+de._0x539.gobby	Metin dosyalarını işbirliği içinde düzenleyin
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Saat ve dakika eklemek için basit hesap makinesi
+de.akaflieg_freiburg.enroute	VFR pilotları için uçuş navigasyon uygulaması
+de.bforartists.Bforartists	Eksiksiz, ücretsiz ve açık kaynaklı bir 3D paketi
+de.billardgl.Billardgl	Eğlenceli 3D bilardo oyunu
+de.blobbyvolley.BlobbyVolley2	Bire bir çok oyunculu voleybol oyunu.
+de.breitbandmessung.Breitbandmessung	İnternet hızının ölçülmesini sağlar.
+de.bund.ausweisapp.ausweisapp2	Alman kimlik kartı ve oturma izni için resmi kimlik doğrulama uygulaması
+de.create3000.titania	X3D ve VRML dünyalarında düzenleme, görüntüleme ve gezinme
+de.fabrik19.mos-Launcher	Mobilitysuite ile geliştirme için kullanılır
+de.finnik.PassVault	PassVault ile şifrelerinizi güvenli ve kolay bir şekilde yönetin
+de.flinkebits.AvaEmailArchivar	IMAP posta kutularından e-postaları arşivleme ve geri yükleme
+de.gunibert.Hackgregator	Hacker Haber Okuyucusu
+de.haeckerfelix.AudioSharing	bilgisayarın bloğunun ayrılması
+de.haeckerfelix.Fragments	BitTorrent İstemcisi
+de.haeckerfelix.Shortwave	İnternet radyolarını dinle
+de.halaszovich.PMbrowser	PM dat dosyalarını açın, göz atın ve dışa aktarın
+de.ifw_dresden.nagstamon	Nagstamon masaüstü için bir durum monitörüdür.
+de.k_bo.Televido	Almanca yayınlanan kamu TV'sine erişin
+de.klayout.KLayout	Maske düzenleri için görüntüleyici ve düzenleyici
+de.lernsoftware_filius.Filius	Filius eğitim amaçlı bir ağ simülatörüdür.
+de.linuxguides.RechnungsAssistent	Almanca fatura oluşturucu
+de.manuel_kehl.go-for-it	Yerleşik zamanlayıcılı şık bir yapılacaklar listesi
+de.marlam.gencolormap	Renk Haritası Oluşturucu
+de.marlam.qv	2D Veri Görselleştirici
+de.mediathekview.MediathekView	Kamuya açık Alman TV Mediathek'e erişim
+de.nicokimmel.shadowcast-electron	ShadowCast by Genki'nin video akışını gösterir
+de.peterge.combined	Kombine! bir blok bulmaca oyunudur. Amacınız tahtada daha yüksek bloklar elde etmek için blokları birleştirmektir.
+de.philippun1.Snoop	Dosyalarınızı gizlice inceleyin
+de.philippun1.turtle	Git depolarınızı yönetin
+de.rwth_aachen.ient.RDPlot	RDPlot, oran bozulma eğrilerini çizmek için bir araçtır
+de.rwth_aachen.ient.YUView	Gelişmiş analitik araç setine sahip, QT tabanlı, platformlar arası YUV oynatıcı
+de.schmidhuberj.DieBahn	Tüm tren bilgilerinizle tek bir yerde seyahat edin
+de.schmidhuberj.Flare	Arkadaşlarınızla Signal'de sohbet edin
+de.schmidhuberj.tubefeeder	Video yaratıcılarını takip edin
+de.sesu8642.feudaltactics	Sayısız benzersiz ve zorlu seviyeye sahip strateji oyunu.
+de.shorsh.discord-screenaudio	Linux'ta sesli akışı destekleyen özel bir discord istemcisi
+de.syping.gta5view	GTA V profillerini açın ve düzenleyin
+de.tumexam.cli	Öğrencileri ve sınavları yönetmek için TUMexam müşterisi.
+de.unifreiburg.ellipticcurve	Eliptik eğriler çizer ve grup yasalarıyla denemeler yapılmasına olanak tanır
+de.uni_heidelberg.zah.GaiaSky	Bir milyardan fazla nesneyi destekleyen masaüstü ve VR için Açık Kaynak 3D evren simülatörü
+dev.alextren.Spot	Spotify'da müzik dinle
+dev.ares.ares	çoklu sistem konsolu emülasyon paketi
+dev.atoft.Reactions	Basit GIF araması.
+dev.aunetx.deezer	Çevrimiçi müzik akışı hizmeti
+dev.bambosh.UnofficialHomestuckCollection	Homestuck ve ilgili eserlerin çevrimdışı koleksiyonu
+dev.boxi.Boxi	Araç Kutusu ile kullanım için bir terminal emülatörü
+dev.bragefuglseth.Fretboard	Gitar akorlarına bakın
+dev.bsnes.bsnes	Süper Nintendo emülatörü
+dev.Cogitri.Health	Spor hedeflerini takip et
+dev.deedles.Trayscale	Tailscale CLI'yi çevreleyen resmi olmayan bir GUI sarmalayıcısı.
+dev.edfloreshz.Done	Yapılacaklar listesi yeniden tasarlandı
+dev.ensoft.ecode	Yanıt verme hızı ve performansa odaklanarak modern donanımlar için tasarlanmış hafif, çok platformlu kod düzenleyici.
+dev.gbstudio.gb-studio	Game Boy için hızlı ve kullanımı kolay bir sürükle ve bırak retro oyun yaratıcısı
+dev.geopjr.Collision	Dosyalarınızın özet değerleri denetlenir
+dev.geopjr.Tuba	Fediverse'e Göz Atın
+dev.goats.xivlauncher	Final Fantasy XIV Online için başlatıcı ve kusursuz Linux entegrasyonu
+dev.hdos.HDOS	Yüksek Detay Eski Okul Runescape İstemcisi
+dev.jamiethalacker.window_painter	Tahtayı aynı renk boyayla doldurun
+dev.k8slens.OpenLens	Kubernetes IDE'si
+dev.krtirtho.Flemozi	Linux🐧, Windows🪟 ve macOS🍎 için Gelişmiş⚡ Emoji Seçici😀
+dev.lapce.lapce	Rust'ta yazılmış, ışık hızında ve güçlü kod düzenleyici
+dev.lasheen.qr	Bir QR kod tarayıcısı/oluşturucusu
+dev.levz.TinyImageFinder	Önizlemeli Resim Bulucu
+dev.linwood.butterfly	Güçlü, minimalist, platformlar arası, açık kaynaklı not alma uygulaması
+dev.lizardbyte.app.Sunshine	Moonlight için kendi kendine barındırılan oyun akışı sunucusu.
+dev.lukebriggs.pepys	Basit bir işaretleme günlüğü
+dev.mrquantumoff.mcmodpackmanager	Mod paketlerinizi kolaylıkla yönetin!
+dev.mufeed.Wordbook	Herhangi bir İngilizce terimin tanımlarını arayın
+dev.paullee.scraterpreter.Scrape	Scraterpreter, .sb3 (Scratch) projelerini çalıştıran bir yorumlayıcıdır.
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc, Scraterpreter için bir derleyicidir.
+dev.pulsar_edit.Pulsar	Topluluk Liderliğinde Hiper-Hacklenebilir Metin Düzenleyici
+dev.rzia.minesector	Şık Mayın Tarlası tabanlı oyun
+dev.salaniLeo.forecast	GNOME için hava tahmin uygulaması
+dev.salaniLeo.immagini	AppImage uygulamaları için kitaplık ve oluşturma aracı
+dev.schlaubi.Tonbrett	Discord Soundboard Bot için Yardımcı Uygulama
+dev.serebit.Waycheck	Wayland dizgicisi tarafından uygulanan protokolleri görüntüler
+dev.slimevr.SlimeVR	Sanal gerçeklikte tam vücut takibini kolaylaştıran bir uygulama
+dev.stewlab.PortaWar	El bilgisayarlarının savaşına hoş geldiniz!
+dev.storyapps.starc	Hepsi Bir Arada Yazma Uygulaması
+dev.tchx84.Portfolio	Hareket halindeyken dosyaları yönetin
+dev.vencord.Vesktop	Vencord ile Snappier Discord uygulaması
+dev.vieb.Vieb	Vim'den Esinlenen Elektron Tarayıcı
+dev.zelikos.rollit	Zarları yuvarla
+de.wger.flutter	Fitness/egzersiz, beslenme ve kilo takibi
+de.willuhn.Jameica	OSGI'ya benzer Uygulama Platformu
+de.wwwtech.ColorMate	Gösterimler arasında CSS renklerini dönüştürme
+de.zwarf.picplanner	Bir sonraki fotoğraf konumlarınızı planlayın
+dk.tangramgames.mrrescue	Arcade tarzı yangınla mücadele oyunu
+edu.berkeley.BOINC	Birçok bilimsel alanda araştırma yapan projelere bilgi işlem gücüne katkıda bulunun
+edu.mit.Scratch	Hikayeler, oyunlar ve animasyonlar oluşturun, dünyanın her yerinden başkalarıyla paylaşın
+edu.princeton.physics.WSJTX	Amatör Radyo Zayıf Sinyal Çalışıyor
+edu.stanford.Almond	Açık Sanal Asistan
+edu.stanford.protege	Zengin özelliklere sahip bir ontoloji düzenleme ortamı
+engineer.atlas.Nyxt	Bilgisayar korsanının tarayıcısı
+es.estoes.wallpaperDownloader	Duvar kağıtlarınızı internetten otomatik olarak indirin, yönetin ve değiştirin
+eu.ad5001.LogarithmPlotter	Bode grafikleri, dizileri ve dağıtım fonksiyonlarını yapmak için 2 boyutlu logaritmik ölçekli çizici yazılımı
+eu.betterbird.Betterbird	Betterbird, Mozilla Thunderbird'ün yumuşak bir çatalıdır. Basitçe daha iyi.
+eu.cichy1173.tabela	CSV içeriğini tabloda gösteren basit uygulama
+eu.ithz.umftpd	Dosyalarınıza başka bir cihazdan erişme
+eu.ngdevelopment.tsukitag	Anime resim panosu tarayıcısı, toplayıcı, indirici, etiketleyici, dönüştürücü, koleksiyon yöneticisi. Kendi koleksiyonlarınıza göz atın ve oluşturun, şablon oluşturma desteğiyle görsel indirmeler için çalışma alanlarını yapılandırın.
+eu.nimmerfort.blackbody	Bir termogram görüntüleyici
+eu.ototu.Quteqoin	Lire les tribunes için uygulama
+eu.planete_kraus.Tarot	Yapay zekaya karşı Tarot oyunu oynayın
+eu.scarpetta.PDFMixTool	PDF dosyalarında yaygın düzenleme işlemlerini gerçekleştiren bir uygulama
+eu.skribisto.skribisto	Yazma yazılımı
+eu.stethewwolf.gresistor	Direnç renk kodları hesaplayıcısı
+eu.usdx.UltraStarDeluxe	Performansınızı değerlendiren karaoke programı
+eu.vcmi.VCMI	Heroes of Might and Magic III için açık kaynaklı oyun motoru
+fi.mooc.tmc.tmc-cli-rust	TestMyCode programlama atama değerlendiricisine yönelik bir CLI.
+fi.skyjake.Lagrange	Güzel Bir İkizler Müşterisi
+fm.cancel.Ripcord	Slack (ve Discord) için alternatif masaüstü sohbet istemcisi
+fm.helio.Workstation	Helio Project libre müzik kompozisyonu yazılımı
+fm.reaper.Reaper	Dijital Ses İş İstasyonu
+fr.dwightstudio.JArmEmu	Java ile yazılmış, eğitim amaçlı basit ARMv7 simülatörü
+fr.fgrabenstaetter.DigitalAssets	Kripto para fiyatları ve istatistikleri
+fr.free.brouits.qspeakers	Hoparlör tasarım yazılımı
+fr.free.Homebank	Herkes için ücretsiz, kolay, kişisel muhasebe
+fr.free.hxc2001.HxCFloppyEmulator	Eski disketin yerini alacak yazılım ve donanım çözümü
+fr.free.qccrypt.Qccrypt	Ccrypt aracı için QT tabanlı grafiksel ön uç
+fr.handbrake.ghb	Video Dönüştürücü
+fr.henri2h.minestrix	Matrix'i temel alan gizlilik odaklı bir sosyal medya
+fr.inria.corese.CoreseCommand	Anlamsal Web'in gücünün kilidini açın
+fr.inria.corese.CoreseGui	Anlamsal Web'in gücünün kilidini açın
+fr.masson_informatique.WhosWho	Kim kimdir, yıllık veya facebook olarak da kayıtlı, kişi resimleri ve ilgili adları içeren PDF dökümanlarının birleştirilmesi
+fr.natron.Natron	Açık kaynaklı video birleştirme yazılımı
+fr.romainvigier.MetadataCleaner	Dosyalardaki üst verilerin görüntülenmesi ve temizlenmesi
+fr.romainvigier.zap	Ses tahtasından ses çalın
+fr.rubet.rpn	Ters Lehçe Notasyonu CLI hesaplayıcısı
+fr.sgued.ten_forward	NAT-PMP ağ geçidini kontrol etme
+fun.vnote.app.VNote	Keyifli bir not alma platformu
+fyi.zoey.Boop-GTK	IvanMathy Limanı'ndan Boop'tan GTK'ya, geliştiriciler için komut dosyası yazılabilir bir karalama defteri.
+fyi.zoey.TeX-Match	Çizim yaparak LaTeX sembollerini bulun
+games.zetsubou.AnAdventurersGallantry	Rezil eğitim şövalyesi Oren, bu fantastik görsel romanda bir maceracı olarak hayatta ikinci bir şans yakalıyor
+games.zetsubou.HumanityMustPerish	İnsanlığı yok etmeye hazırlanan liseli bir kız gibi giyinmiş bir android hakkında komik bir görsel roman
+games.zetsubou.MaxMassacre	Canavarlarla dolu bir fantastik dünyada geçen görsel bir roman
+games.zetsubou.SablesGrimoireDemo	Bir büyü akademisinde geçen canavar kız görsel romanı
+games.zetsubou.WanderNoMore	Serseri bir samurayın hikayesini anlatan görsel bir roman
+garden.turtle.Jellybean	Yeniden stoklanabilir öğelerin sayısını tutun
+ga.rpmtw.rpmlauncher	Keşfetmeniz için birden fazla platformu ve birçok işlevi destekleyen daha iyi bir Minecraft Başlatıcısı!
+gg.guilded.Guilded	Mesajlaşma, Ses ve Video İstemcisi
+gg.minion.Minion	The Elder Scrolls Online ve World of Warcraft için bir AddOn yöneticisi
+gg.tesseract.Tesseract	İşbirliğine dayalı oyun içi harita düzenleme özelliğine sahip birinci şahıs nişancı
+global.worldcoin.worldcoin-core	Sınırlarla ayrılmış, teknolojiyle birleşmiş
+hu.irl.cameractrls	Linux için kamera kontrolleri
+hu.kramo.Cartridges	Tüm oyunlarınızı başlatın
+id.sideka.App	Köy Yönetişim Platformu
+il.co.ravkavonline.RavKavOnline	Rav-Kav Kartınızı Evde Yükleyin ve Konforla Seyahat Edin
+im.bernard.Funkcio	Noktalardan fonksiyon çizme
+im.bernard.Nostalgia	Tarihi GNOME Duvar Kağıtlarını Ayarlayın
+im.dino.Dino	Modern XMPP Sohbet İstemcisi
+im.fluffychat.Fluffychat	Arkadaşlarınızla sohbet edin
+im.gitter.Gitter	GitHub'daki topluluklar ve ekipler için iletişim ürünü.
+im.kaidan.kaidan	Her tür aygıtı için kullanıcı dostu ve çağdaş sohbet uygulaması
+im.pidgin.Pidgin	Anında Mesajlaşma İstemcisi
+im.riot.Riot	Güvenli bir şekilde oluşturun, paylaşın, iletişim kurun, sohbet edin ve çağrı yapın ve diğer uygulamalarla köprü kurun
+im.srain.Srain	GTK'da yazılmış modern IRC istemcisi
+in.bharatkalluri.shortcircuit	Geliştirici karalama defteri
+in.bharatkalluri.splash	Unsplash'tan yüksek çözünürlüklü masaüstü arka planları ayarlayın!
+in.cinny.Cinny	Basit, zarif ve güvenli arayüze sahip başka bir Matrix istemcisi.
+info.beyondallreason.bar	Beklediğiniz Total Annihilation'dan Esinlenen RTS
+info.bibletime.BibleTime	İncil Çalışma Programı
+info.cemu.Cemu	Nintendo Wii U Emülatörü
+info.colobot.Colobot	Botlarla kolonize edin
+info.febvre.Komikku	Gözde mangalarınızı okuyun
+info.mumble.Mumble	Düşük gecikme süreli şifrelenmiş VoIP istemcisi
+info.olasagasti.revelation	Şifre yöneticisi
+info.portfolio_performance.PortfolioPerformance	Bir yatırım portföyünün performansını takip edin
+info.puredata.Pd	Canlı etkileşimli bilgisayar müziği için gerçek zamanlı bir grafik programlama ortamı
+info.puredata.Pd-extended	Multimedya için açık kaynaklı bir görsel programlama dili
+info.rttr.Return-To-The-Roots	The Settlers 2 oyununu yeniden uygulayan hayran projesi
+info.smplayer.SMPlayer	Harika bir medya oynatıcı
+info.urbanterror.UrbanTerror	Aksiyon filmi unsurları içeren taktiksel birinci şahıs nişancı
+ink.scribl.Scribl	Basit eğitici videolar oluşturun
+in.p1x.TanksOfFreedom	İzometrik Piksel Sanatında Bağımsız Sıra Tabanlı Strateji
+in.srev.guiscrcpy	Android Ekran Aynalama Yazılımı
+io.appflowy.AppFlowy	Açık Kaynak Kavramı Alternatifi
+io.atom.Atom	21. Yüzyıl için hacklenebilir bir metin editörü
+io.bassi.Amberol	Müzik çalar, daha çoğu değil
+io.beekeeperstudio.Studio	Hayallerinizin SQL Düzenleyicisi ve Veritabanı Yöneticisi
+io.blockloader.BlockLoader	En iyi Minecraft mod yöneticisi
+io.botfather.Botfather	Evrensel otomasyon çerçevesi
+io.conduktor.Conduktor	Apache Kafka için güzel ve tam özellikli bir masaüstü istemcisi
+io.crow_translate.CrowTranslate	Basit ve hafif bir çevirmen
+io.dbeaver.DBeaverCommunity	Evrensel Veritabanı Yöneticisi
+io.defn.Franz	Apache Kafka için bir masaüstü istemcisi
+io.edcd.EDMarketConnector	EDDN'yi oyununuzdaki verilerle günceller
+io.emeric.toolblex	Bluetooth Düşük Enerjili cihaz tarayıcısı ve analizörü
+io.emeric.watchflower	Xiaomi 'Flower Care' veya Parrot 'Flower Power' gibi Bluetooth Düşük Enerji sensörleri ve termometreleri için bir bitki izleme uygulaması
+io.enpass.Enpass	Enpass, şifrelerinizi ve diğer kimlik bilgilerinizi güvenli bir şekilde saklamak ve yönetmek için kullanılan bir şifre yöneticisidir.
+io.exodus.Exodus	Blockchain varlıklarını güvence altına almak, yönetmek ve değiştirmek için hepsi bir arada uygulama
+io.frama.tractor.carburetor	Soğan Yönlendirme uygulaması
+io.freetubeapp.FreeTube	Gizlilik için Açık Kaynaklı bir YouTube uygulaması
+io.gdevelop.ide	Hızlı ve Kolay Oyun Yapımı
+io.gdevs.GDLauncher	GDLauncher, kullanıcı deneyimine güçlü bir şekilde odaklanan basit ama güçlü bir Minecraft özel başlatıcısıdır.
+io.github._0xzer0x.qurancompanion	Platformlar arası masaüstü çevrimdışı Kuran okuyucu ve oynatıcı
+io.github.aandrew_me.ytdn	Yüzlerce siteden video ve ses indirin
+io.github.achetagames.epic_asset_manager	Epic varlıklarınızı yönetin
+io.github.Adda0.Stardrop	Özel değişikliklerle Stardrop'un resmi olmayan çatalı
+io.github.adrienverge.PhotoCollage	Fotoğraf kolajı posterleri oluşturmak için grafiksel araç
+io.github.aerocyber.sitemarker	Açık kaynaklı bir yer imi yöneticisi
+io.github.aggalex.Wineglass	Şarap için bir GUI
+io.github.alainm23.planify	Bir şeyleri unutmayı unut
+io.github.alexkdeveloper.gomoku	Gomoku oyunu
+io.github.alexkdeveloper.radio	Radio-browser.info web sitesindeki istasyonları içeren basit bir radyo
+io.github.alexkdeveloper.zodiac	Burçları çizmek için basit bir program
+io.github.am2r_community_developers.AM2RLauncher	AM2R güncellemeleri ve modlarıyla ilgilenmek için bir ön uç
+io.github.am2r_community_developers.Atomic	AM2R modları için mod paketleme araç zinciri.
+io.github.amit9838.weather	Güzel ve hafif hava durumu uygulaması
+io.github.andreibachim.shortcut	Uygulama kısayolları oluşturun
+io.github.Andrettin.Wyrmsun	Tarihe, mitolojiye ve kurguya dayalı strateji oyunu
+io.github.anirbandey1.ChatbotClient	ChatGPT web sitesi için elektron sarmalayıcı
+io.github.antimicrox.antimicrox	Gamepad düğmelerini klavye, fare, komut dosyaları ve makrolarla eşleştirmek için kullanılan grafik program
+io.github.appoutlet.GameOutlet	PC oyunlarında en iyi fiyatları bulun
+io.github.Archeb.opentrace	NextTrace için platformlar arası bir GUI sarmalayıcı
+io.github.Arisotura.CoinKiller	NSMB2 için bir seviye editörü
+io.github.arunsivaramanneo.GPUViewer	glxinfo, vulkaninfo, clinfo ve es2_info'ya yönelik bir ön uç
+io.github.Bavarder.Bavarder	Yapay zekayla sohbet edin
+io.github.benini.scid	Bir satranç veritabanı uygulaması
+io.github.betaflight.BetaflightConfigurator	Betaflight uçuş kontrol sistemi için çapraz platform konfigürasyon aracı
+io.github.bkueng.qMasterPassword	Durum Bilgisiz Ana Parola Yöneticisi
+io.github.Bollos00.LibreMines	GNU/Linux, FreeBSD ve Windows sistemleri için mevcut olan Ücretsiz/Libre ve Açık Kaynak Yazılımlı Qt tabanlı Mayın Tarlası oyunu.
+io.github.bothlab.pomidaq	UCLA Miniscopes'tan videoları görüntüleyin ve kaydedin
+io.github.bothlab.syntalos	Çeşitli kaynaklardan senkronize veri toplama ve esnek deney kontrolü
+io.github.brainstormtrooper.facteur	Şablon tabanlı e-postaları alıcı listesine gönderir
+io.github.brunoherbelin.Vimix	Video canlı karıştırıcı
+io.github.btpf.alexandria	Minimalist bir e-Kitap okuyucu
+io.github.bytezz.IPLookup	Bir IP adresi hakkında bilgi bulma
+io.github.carterbox.Electricity_Clock	Elektrik fiyatları için kullanım süresi monitörü
+io.github.cboxdoerfer.FSearch	Grafiksel dosya arama uygulaması
+io.github.celluloid_player.Celluloid	mpv için GTK + programı
+io.github.cges30901.hmtimer	Grafiksel kapatma zamanlayıcısı
+io.github.chris2511.xca	X Sertifika ve Anahtar yönetimi
+io.github.ciromattia.kcc	PNG, JPG, GIF, CBZ, CBR ve CB7 dosyalarınızı EPUB veya MOBI formatındaki e-kitaplara dönüştürmenize olanak tanıyan bir uygulama
+io.github.cleomenezesjr.Escambo	API testi et ve geliştir
+io.github.cloose.CuteMarkEd	Qt Markdown Düzenleyicisi
+io.github.cmus.cmus	Konsol müzik çalar
+io.github.Cockatrice.cockatrice	Çok oyunculu kart oyunları için sanal masa üstü
+io.github.congard.qnvsm	Nvidia Sistem Monitörü Qt
+io.github.ctlcltd.e2se	Uydu kanal listeleri editörü: Enigma2, Neutrino, dreambox
+io.github.cudatext.CudaText-Qt5	Açık kaynak ve platformlar arası metin düzenleyici
+io.github.cxong.cdogs-sdl	Klasik baş üstü koş ve silah oyunu
+io.github.dagargo.Elektroid	Örnek ve MIDI cihaz yöneticisi
+io.github.daviddesimone.opencloudsaves	Kayıtlı oyunlarınızı cihazlarınız arasında senkronize etmek için kullanılan bir araç
+io.github.davidoc26.wallpaper_selector	Duvar kağıtlarını indirir ve uygular
+io.github.dbchoco.muezzin	İslami namaz vakitleri uygulaması
+io.github.dbchoco.Salawat	İslami namaz vakitleri uygulaması
+io.github.ddanilov.soundscape	Masaüstü ses manzarası uygulaması
+io.github.dfandrich.gpscorrelate	GPS Correlate, görüntülere EXIF GPS konum etiketlerini ekler
+io.github.dgsasha.Remembrance	Kendiniz için hatırlatıcılar ayarlayın
+io.github.dida_code.OpstaKultura	Oyun, bilgi yarışması
+io.github.diegoivan.GaticTacToe	Arkadaşlarınızla Tic-tac-toe oynayın
+io.github.diegoivanme.flowtime	Zamanınızı seçin
+io.github.diegoivan.pdf_metadata_editor	PDF belgesinin üst düzeyde düzenlenmesi
+io.github.diegopvlk.Dosage	İlaçlarınızı takip edin
+io.github.dimtpap.coppwr	PipeWire için düşük seviyeli kontrol GUI'si
+io.github.divverent.aaaaxy	İmkansız alanlarda geçen doğrusal olmayan bir bulmaca platform oyunu
+io.github.dlippok.photometric-viewer	Fotometrik dosyaları görüntüle
+io.github.dman95.SASM	NASM, MASM, GAS ve FASM montaj dilleri için basit platformlar arası IDE
+io.github.dosbox-staging	Kullanım kolaylığına odaklanan DOS/x86 emülatörü
+io.github.Dretch.MonomerFlatpakExample	Monomer Flatpak Örnek Uygulama.
+io.github.dtsudo.ChessCompStompWithHacks	Hileleri kullanarak satranç yapay zekasını yenin!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Kaydetme durumlarını kullanarak 10 seviyede hızla koşun!
+io.github.dubstar_04.design	2D CAD için GNOME
+io.github.dummerle.rare	Efsanevi için bir GUI, açık kaynaklı bir Epic Games alternatifi
+io.github.dvlv.boxbuddyrs	Grafiksel Distrobox Yöneticisi
+io.github.dweymouth.supersonic	Subsonic ve Jellyfin müzik sunucuları için hafif, platformlar arası bir masaüstü istemcisi
+io.github.dyegoaurelio.simple-wireplumber-gui	PipeWire için GTK4 ile yazılmış basit bir tasarım
+io.github.ec_.Quake3e.OpenArena	Ücretsiz ve açık kaynak birinci şahıs nişancı
+io.github.eminfedar.vaktisalah-gtk-rs	Vakt-i Salah'ın (Namaz Vakitleri) GTK4 versiyonu
+io.github.endless_sky.endless_sky	Uzay keşfi ve savaş oyunu
+io.github.erkin.ponysay	midilliler için Cowsay yeniden uygulaması
+io.github.everestapi.Olympus	Platformlar arası Celeste Mod Yöneticisi
+io.github.ezQuake	rekabetçi çevrimiçi oyuna odaklanan modern bir QuakeWorld istemcisi
+io.github.f3d_app.f3d	Hızlı ve minimalist bir 3D görüntüleyici
+io.github.fabiangreffrath.Doom	Sınırları ortadan kaldıran gelişmiş çözünürlüklü Doom kaynak bağlantı noktası
+io.github.fabrialberio.pinapp	Uygulama kısayollarını oluştur ve düzenle
+io.github.FailurePoint.RandomNumberFive	Linux masaüstü için rastgele sayı üreteci!
+io.github.fastrizwaan.WineZGUI	Zenity kullanarak şarap GUI'si
+io.github.ferraridamiano.ConverterNOW	Basit, anında ve hızlı bir birim dönüştürücü!
+io.github.Figma_Linux.figma_linux	Web tabanlı işbirlikçi tasarım aracı
+io.github.fin_ger.OvGUCanteen	OvGU Mensa Menüsünü küçük bir GTK Uygulamasında görüntüleyin
+io.github.fizzyizzy05.binary	Sayı tabanı dönüştürücü
+io.github.fkinoshita.Telegraph	Mors kodunu yazın ve çözümleyin
+io.github.flattool.Warehouse	Flatpak ile ilgili her şeyi yönetin
+io.github.Fndroid.clash_for_windows	Clash'in Electron tabanlı grafik istemcisi.
+io.github.Foldex.AdwSteamGtk	Steam'e Adwaita tedavisini verin
+io.github.Foldex.r2mod	Yağmur Riski 2 Mod Yöneticisi
+io.github.foldynl.QLog	Amatör telsiz kayıt defteri
+io.github.foxxmd.multiscrobbler	Birçok kaynaktan birçok müşteriye müzik skrobble yapar
+io.github.fragglet.sdl_sopwith	Klasik çift kanatlı uçakla hepsini vur
+io.github.fralonra.PpdEditor	2D kağıt bebek editörü
+io.github.fralonra.WgShadertoy	Shadertoy'dan ilham alan bir WGSL oyun alanı
+io.github.freedoom.FreeDM	Doom motorunu temel alan Deathmatch oyunu
+io.github.freedoom.Phase1	Doom motorunu temel alan birinci şahıs nişancı
+io.github.freedoom.Phase2	Doom motorunu temel alan birinci şahıs nişancı
+io.github.fsobolev.TimeSwitch	Bir zamanlayıcıdan sonra çalıştırılan bir görev seti
+io.github.gamingdoom.Datcord	Firefox kullanan açık kaynaklı bir Discord istemcisi
+io.github.garglk.Gargoyle	İnteraktif Kurgu Oynatıcısı
+io.github.gen2brain.cbconvert	Çizgi Roman dönüştürücü
+io.github.gerryferdinandus.bittorrent-tracker-editor	İzleyiciyi torrent dosyalarına ekleyin veya kaldırın.
+io.github.giantpinkrobots.bootqt	Önyüklenebilir sürücüler oluşturun
+io.github.giantpinkrobots.flatsweep	Flatpak artık temizleyicisi
+io.github.giantpinkrobots.varia	Dosyaları hızlı ve verimli bir şekilde indirin
+io.github.gillesdegottex.FMIT	Ücretsiz Müzik Aleti Ayarlayıcısı (FMIT), müzik aletini ayarlamak için bir Araç
+io.github.glitterware.Passy	Platformlar arası senkronizasyona sahip çevrimdışı şifre yöneticisi
+io.github.GoldenGnu.jEveAssets	jEveAssets, Eve-Online'ın oyun dışı varlık yöneticisidir
+io.github.gopher64.gopher64	Nintendo 64 Emülatörü
+io.github.gssh_linux.gssh	(Gerçekten) basit bir GUI'den ssh sunucularına bağlanmanıza olanak tanıyan bir python uygulaması
+io.github.gtkwave.GTKWave	Simülasyon sonuçlarını görüntülemek için elektronik dalga biçimi görüntüleyici
+io.github.guillaumechereau.Goxel	Açık Kaynak 3D voksel düzenleyici
+io.github.hakandundar34coding.mini-system-monitor	CPU, RAM, Disk, Ağ kullanımının izlenmesi
+io.github.hakandundar34coding.system-monitoring-center	Çok renkli sistem belleği
+io.github.hakuneko.HakuNeko	Çeşitli web sitelerinden manga ve anime için platformlar arası indirici
+io.github.helpseeker.Gyre	Coub'dan videolar için bir indirici
+io.github.hermitdemschoenenleben.linien	Spektroskopi kilidi
+io.github.Hexchat	IRC İstemcisi
+io.github.hmlendea.geforcenow-electron	Electron'da yazılmış resmi olmayan GeForce NOW uygulaması
+io.github.hrkfdn.ncspot	Platformlar arası platform Spotify istemcisini lanetliyor
+io.github.huderlem.porymap	Pokémon 3. nesil kaynak koda dönüştürme projeleri için bir harita editörü
+io.github.hurricangame.hurrican	Poke53280 tarafından oluşturulan ücretsiz atlama ve ateş etme oyunu
+io.github.hvdwofl.jExifToolGUI	ExifTool için basit ön uç
+io.github.hydrusnetwork.hydrus	Masaüstündeki medyayı düzenleyin
+io.github.hypengw.Qcm	Netease bulut müziği için Qt istemcisi
+io.github.Icalingua.Icalingua	QQ ve daha fazlası için bir Linux istemcisi
+io.github.ImEditor	Basit ve çok yönlü resim düzenleyici
+io.github.idevecore.CurrencyConverter	Google tabanlı verileri kullanan basit bir para birimi dönüştürücü
+io.github.igaldino.CoyoteTM	Bir çakal gibi görevleri yönetin
+io.github.igorlogius.scr2ppm	En küçük X11 ekran görüntüsü, diğer adıyla. ekran görüntüsü yardımcı programı
+io.github.ihhub.Fheroes2	fheroes2, Heroes of Might and Magic II oyun motorunun yeniden yaratılmış halidir
+io.github.ilius.pyglossary	Sözlük dosyalarını, diğer adıyla sözlükleri dönüştürmek için bir araç.
+io.github.iSlammedMyKindle.godotGem	Windows için bir xbox360 denetleyicisini taklit etmek için denetleyici istemcisi
+io.github.ja2_stracciatella.JA2-Stracciatella	Geliştirilmiş, platformlar arası, istikrarlı Jagged Alliance 2 çalışma zamanı
+io.github.jacalz.rymdport	Hızlı, şifreli dosya aktarımları
+io.github.JaGoLi.ytdl_gui	youtube-dl için kullanımı kolay, platformlar arası bir grafik arayüz.
+io.github.JakubMelka.Pdf4qt	Açık Kaynak PDF Düzenleyici
+io.github.janbar.noson	SONOS için Denetleyici
+io.github.java_decompiler.jd-gui	CLASS dosyalarından Java kaynaklarını görüntüleyen bağımsız bir grafik yardımcı program
+io.github.jean28518.Linux-Assistant	Güçlü entegre arama, rutinler ve kontrollere sahip günlük bir linux yardımcısı
+io.github.jeffshee.Hidamari	Linux için video duvar kağıdı
+io.github.jhaygood86.mauborgne	2FA OTP Kod Oluşturucu
+io.github.jliljebl.Flowblade	Video Düzenleyici - Hızlı, Hassas, Kararlı
+io.github.jonmagon.kdiskmark	Disk kıyaslama aracı
+io.github.jorchube.monitorets	Bir gözünüz daima sistem karmaşıklığı kullanımında olsun
+io.github.jordanl2.ModularCalculator	Bilimsel, mühendislik veya bilgisayar çalışmalarına yönelik güçlü, komut dosyası yazılabilen, modüler bir hesap makinesi.
+io.github.jotd666.gods-deluxe	Platform oyununun yeniden yapımı
+io.github.jtdx_project.JTDX	jtdx (amatör radyo iletişimi için çatallı WSJT-X)
+io.github.julian_hochhaus.LG4X_V2	XPS eğrisi uydurma analizi için Python paketi
+io.github.kaii_lb.hgui	Hicri ve Gregoryen tarihleri (ve tersi) arasında kolay ve çevrimdışı dönüşüm için yapılmış bir uygulama!
+io.github.kalaksi.Lightkeeper	Bağımsız, özelleştirilebilir bir sunucu yönetim aracı
+io.github.kaschpal.timetable	Öğretmenler ve belki öğrenciler için bir takvim/planlayıcı
+io.github.kevinsmia1939.PySimpleCV	Döngüsel voltammogram ve pil döngüsünün grafiği
+io.github.KikoPlayProject.KikoPlay	SADECE Tam Özellikli Bir Danmu Oynatıcısı DEĞİLDİR
+io.github.koromelodev.mindmate	ChatGPT için resmi olmayan başvuru
+io.github.kotatogram	Kotatogram Masaüstü mesajlaşma programı
+io.github.ktgw0316.LightZone	Kamera RAW görüntü işlemcisi
+io.github.kukuruzka165.materialgram	Resmi olmayan Telegram Masaüstü mesajlaşma uygulaması
+io.github.labsquare.CutePeaks	bağımsız Sanger izleme görüntüleyicisi
+io.github.lainsce.Colorway	Renk eşleşmeleri oluşturun
+io.github.lainsce.Countdown	Olayları gerçekleşene kadar veya gerçekleştiğinden beri takip edin
+io.github.lainsce.DotMatrix	Çizgilerin ve eğrilerin yaratıcılık oyun alanı
+io.github.lainsce.Emulsion	Renkleri stoklayın
+io.github.lainsce.Khronos	Görevleri yapmak için geçen süreyi günlüğe kaydetme
+io.github.lainsce.Notejot	Fikirlerinizi not edin
+io.github.lainsce.Quilter	Yazınıza odaklanın
+io.github.lemmygtk.lemoa	Lemmy için GTK istemcisi
+io.github.leolost2605.gradebook	Notlarınızı takip edin
+io.github.leonardschardijn.Chirurgien	İkili dosya formatlarını anlayın ve yönetin
+io.github.lethal_guitar.RigelEngine	Klasik DOS oyunu Duke Nukem II'nin modern bir yeniden uygulaması
+io.github.letslearn_app.letslearn	Düzenli görünüme sahip açık kaynaklı bir not uygulaması
+io.github.libvibrant.vibrantLinux	X11 ekranlarının renk doygunluğunu ayarlamak için sistem yardımcı programı
+io.github.limads.Queries	İlişkisel veritabanlarıyla etkileşime girecek bir çalışma tezgahı.
+io.github.listen1.Listen1	Çin'deki tüm ücretsiz müzik için bir tane
+io.github.loot.loot	Starfield ve bazı Elder Scrolls ve Fallout oyunları için modlama yardımcı programı
+io.github.lruzicka.Needly	Python'da yazılmış bir openQA iğne düzenleyicisi
+io.github.ltiber.Pwall	fotoğraflarınıza/videolarınıza göz atın
+io.github.lunarequest.NightPDF	Karanlık Mod PDF okuyucu
+io.github.lxndr.gswatcher	Basit bir oyun sunucusu monitörü ve bir yönetim aracı.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA, bir Doom 3 BFG GPL kaynak bağlantı noktasıdır
+io.github.magnush.mhWaveEdit	mhWaveEdit ses dosyalarını düzenlemek için kullanılan grafiksel bir programdır
+io.github.mahmoudbahaa.outlook_for_linux	Electron kullanan Linux için resmi olmayan Microsoft Outlook istemcisi
+io.github.mak448a.QTCord	Bir Discord istemcisi
+io.github.MakovWait.Godots	Godot oyun motoru versiyon yöneticisi
+io.github.mandruis7.xbox-cloud-gaming-electron	Açık kaynaklı Xbox Cloud Electron istemcisi
+io.github.manisandro.gImageReader	Tesseract-ocr'a grafiksel (gtk) bir ön uç
+io.github.markummitchell.Engauge_Digitizer	bir bitmap grafiğini veya haritayı etkileşimli olarak sayılara dönüştürün
+io.github.martinrotter.rssguard	Basit ama güçlü haber akışı okuyucusu
+io.github.martinrotter.rssguardlite	Basit ama güçlü haber akışı okuyucusu (yerleşik web tarayıcısı yok)
+io.github.martinrotter.textosaurus	Qt ve QScintilla'yı temel alan basit platformlar arası metin düzenleyici
+io.github.maurycyliebner.enve	2D animasyon
+io.github.mgerhardy.vengi.voxedit	voksel düzenleyici
+io.github.mideb.digitales_register	Dijital Kayıt için Resmi Müşteri
+io.github.mightycreak.Diffuse	Metinleri birleştirmek ve değiştirmek için grafiksel araç
+io.github.mihnea_radulescu.imagefanreloaded	Çok çekirdekli işlemeyi destekleyen hafif sekme tabanlı resim görüntüleyici
+io.github.mimbrero.WhatsAppDesktop	Resmi olmayan WhatsApp Web Masaüstü istemcisi.
+io.github.mki1967.mki3dgame	3D aşamalarda jeton aramayı içeren basit bir OpenGL oyunu
+io.github.mmarco94.tambourine	Kitaplığınız için basit bir müzik çalar
+io.github.mmstick.FontFinder	Yazı tipi tarayıcısı
+io.github.mpobaschnig.Vaults	Önemli dosyaları güvende tutun
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA API'leri。[EN] CBETA API'lerini kullanan Budist bir metin okuyucu.
+io.github.mrvladus.List	Görevlerinizi yönetin
+io.github.muse_sequencer.Muse	Dijital Ses İş İstasyonu
+io.github.myst6re.makoureactor	Final Fantasy VII'nin Saha Editörü
+io.github.naikari.Naikari	2 boyutlu serbest biçimli uzay gizemi oyunu
+io.github.najepaliya.kleaner	Görüntü Meta Veri Temizleyici
+io.github.narunlifescience.AlphaPlot	AlphaPlot, Bilimsel Veri Analizi ve Görselleştirme için ücretsiz bir uygulamadır
+io.github.nate_xyz.Chromatic	Enstrümanlarınıza ince ayar yapın
+io.github.nate_xyz.Conjure	Görüntüleri sihirli bir şekilde dönüştürün
+io.github.nate_xyz.Paleta	Renk paletlerini kolaylıkla oluşturun
+io.github.nate_xyz.Resonance	Dinleme deneyiminizi uyumlu hale getirin
+io.github.nearinfinitybrowser.nearinfinity	Infinity Engine Kaynak Tarayıcısı ve Düzenleyicisi
+io.github.neil_morrison44.pocket-sync	Analog Pocket ile bir şeyler yapmak için bir GUI
+io.github.NhekoReborn.Nheko	Matrix protokolü için masaüstü istemcisi
+io.github.NickKarpowicz.LightwaveExplorer	Doğrusal olmayan ışık-madde etkileşimi için verimli, kullanıcı dostu bir çözücü
+io.github.nokse22.asciidraw	ASCII karakterleri kullanarak çizin
+io.github.nokse22.inspector	Sisteminiz hakkında bilgi edinin
+io.github.nokse22.minitext	Geçici not defteri
+io.github.nokse22.teleprompter	Kayan metni ekranınızda görüntülenir
+io.github.nokse22.trivia-quiz	Bitmek bilmeyen sorulara yanıt verin
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	PC için bir D-Star istemcisi
+io.github.noxworld_dev.OpenNox	OpenNox, Nox oyun motorunun modern bir uygulamasıdır
+io.github.nroduit.Weasis	Ücretsiz/libre/açık tıbbi DICOM görüntüleyici
+io.github.nuttyartist.notes	Not alma uygulaması. Düşüncelerinizi yazın
+io.github.obiwankennedy.HotShots	Güçlü ve kullanımı basit ekran görüntüsü yazılımı
+io.github.onionware_github.onionmedia	Ücretsiz Medya İndirici ve Dönüştürücü - Çapraz Platform
+io.github.openhv.OpenHV	Açık Kaynak 90'ların Pixelart Bilim Kurgu Gerçek Zamanlı Strateji oyunu
+io.github.OpenToonz	2D animasyon
+io.github.orontee.Argos	Mopidy müzik sunucusu için hafif ön uç
+io.github.paledega.alpine-rootfs	Alp Linux alt sistemi
+io.github.parnassius.SysDVR-Qt	Akış USB veya ağ üzerinden oyunları bilgisayarınıza aktarın
+io.github.pastthepixels.InfiniteShooter	Godot motoruyla yapılmış basit bir nişancı oyunu.
+io.github.paulwedeck.settlers-remake	The Settlers III'ün Windows, Linux, Mac ve Android için Yeniden Yapımı
+io.github.pd_l2ork.Pd_L2Ork	Saf Veriyi temel alan, multimedya için açık kaynaklı bir görsel programlama dili
+io.github.peazip.PeaZip	Ücretsiz dosya arşivleyici yardımcı programı, RAR TAR ZIP arşivlerini açın, çıkarın
+io.github.petitlapin.Li-ri	Çocuk oyunu, oyuncak ahşap motoru sür
+io.github.phastmike.tags	Etiketlere dayalı renk günlükleri
+io.github.philipk.boilr	Steam kitaplığınıza Steam dışı oyunlar ekleyin
+io.github.Pithos	Pandora radyo istemcisi
+io.github.polypixeldev.Polypass	Basit, güvenli ve kullanımı kolay bir şifre yöneticisi
+io.github.pragha_music_player.pragha	Müziğinizi yönetin ve dinleyin
+io.github.prateekmedia.appimagepool	Basit, modern bir AppImageHub İstemcisi.
+io.github.prateekmedia.pstube	Flutter kullanılarak yapılan Youtube istemcisi
+io.github.pr_starfighter.starfighter	Uzay onları vur oyunu.
+io.github.punesemu.puNES	Nintendo Eğlence Sistemi emülatörü
+io.github.purplehorrorrus.Meridius	Vk.com için Müzik Çalar
+io.github.pwr_solaar.solaar	Logitech klavyeler, fareler ve izleme dörtgenleri için Linux yöneticisi
+io.github.pyfa_org.Pyfa	EVE için Python montaj asistanı: Çevrimiçi
+io.github.Qalculate	Güçlü ve kullanımı kolay hesap makinesi
+io.github.Qalculate.qalculate-qt	Güçlü ve kullanımı kolay hesap makinesi
+io.github.qier222.YesPlayMusic	Yüksek Görünümlü Üçüncü Taraf Netease CloudMusic Oynatıcı
+io.github.qnapi	Altyazıları filmlerle indirmek ve otomatik olarak eşleştirmek için bir yazılım
+io.github.qtox.qTox	Tox tasarım yönergelerini izleyen güçlü Tox sohbet istemcisi.
+io.github.quodlibet.ExFalso	Ses dosyalarınızdaki etiketleri düzenler
+io.github.quodlibet.QuodLibet	Müzik koleksiyonunuzu gezin, detaylandırın, birleştirin
+io.github.qwersyk.Newelle	Bilgisayarınızı kontrol eden sohbet botu
+io.github.rafaelfassi.QLogExplorer	Gelişmiş araçlara sahip hızlı günlük gezgini
+io.github.randovania.Randovania	Çok sayıda oyun için rastgele bir platform
+io.github.Rangi42.polished-map	Pokecrystal haritalarını ve döşeme setlerini düzenleyin
+io.github.Rangi42.polished-map-plusplus	Pokecrystal haritalarını ve döşeme setlerini düzenleyin
+io.github.Rangi42.tilemap-studio	Game Boy, Color, Advance, DS ve SNES projeleri için bir döşeme haritası düzenleyicisi
+io.github.realmazharhussain.GdmSettings	Giriş ekranınızı özelleştirin
+io.github.retgal.Dayon	Uzaktan yardım artık çok kolay!
+io.github.retux_game.retux	Linux maskotu Tux'un başrolde olduğu aksiyon platform oyunu
+io.github.rinigus.OSMScoutServer	Parçalar, coğrafi kodlayıcı ve yönlendirici sağlayan harita sunucusu
+io.github.rinigus.PureMaps	Haritalar ve navigasyon
+io.github.ripose_jp.Memento	Japonca öğrenmek için mpv tabanlı bir video oynatıcı
+io.github.Rirusha.Cassette	Resmi olmayan Yandex.Music istemcisi
+io.github.RobertBeckebans.RBDoom3BFG-GL	DOOM-3-BFG'nin modernizasyon çalışması
+io.github.rocket.editor	Roket Düzenleyici
+io.github.RodZill4.Material-Maker	Prosedürel doku oluşturma ve ağ boyama aracı
+io.github.sameboy.SameBoy	Game Boy ve Game Boy Color emülatörü
+io.github.santiagocezar.maniatic-launcher	Retro Engine'in (v5) derlenmesine yönelik bir başlatıcı
+io.github.seadve.Breathing	Nefes alıp verme üzerinde alıştırma yapın
+io.github.seadve.Kooha	Ekranınızı zarif bir şekilde kaydetme
+io.github.seadve.Mousai	Şarkıları saniyeler içinde tanıyın
+io.github.searchandrescue2.sar2	Kurtarma Helikopteri Simülatörü
+io.github.Sebicodes99.Prt	Basit bir GUI ile bir arkadaşınızın bağlantı noktalarını açmadan veya bir ssh sunucusu kullanmadan sisteminizde bir komut yürütmesine izin veren bir python soket uygulaması
+io.github.sharkwouter.Minigalaxy	Linux için basit bir GOG istemcisi
+io.github.sharkwouter.oceanpop	Değişik bir tarza sahip rahatlatıcı bir 3'lü eşleştirme bulmaca oyunu
+io.github.shiftey.Desktop	Masaüstünüzden basit işbirliği
+io.github.shiiion.primehack	Çeşitli Metroid Prime modları için Dolphin Emu çatalı
+io.github.sigmasd.IRust	Pas Koruması
+io.github.sigmasd.stimulator	Masaüstünü uyanık tut
+io.github.signus_game.signus	Sıra tabanlı strateji oyunu
+io.github.sil_car.SqueezeVid	Videoları minimum, projeksiyonla uyumlu bir kaliteye normalleştirin.
+io.github.simple64.simple64	Nintendo 64 Emülatörü
+io.github.sithlord48.blackchocobo	Final Fantasy VII için Kaydetme Düzenleyicisi
+io.github.slgobinath.SafeEyes	Linux kullanıcılarının tekrarlayan zorlanma yaralanmalarını (RSI) azaltması ve önlemesi için Ücretsiz ve Açık Kaynaklı bir araç.
+io.github.Snaggly.PS2_Pnacher	Pnaches'i doğrudan PS2 ISO'larına uygulama.
+io.github.snesrev.Zelda3	Zelda3, Zelda - Geçmişe Bir Bağlantı'nın tersine mühendislik ürünü bir klonudur
+io.github.Soundux	Platformlar arası ses tahtası
+io.github.spacingbat3.webcord	Electron ile yapılmış web tabanlı bir Discord ve Fosscord istemcisi
+io.github.srb2.rphys	Sonic Robo Blast 2 için oynanış revizyon modu
+io.github.stella_emu.Stella	Çok platformlu Atari 2600 VCS emülatörü
+io.github.streetpea.Chiaki4deck	Steam Deck için değiştirilmiş PlayStation Remote Play için Ücretsiz ve Açık Kaynak İstemcisi
+io.github.Sunderland93.sway-input-config	Sway için giriş cihazı yapılandırıcısı
+io.github.swanux.hbud	Python ve GTK4 ile yazılmış basit ses/video oynatıcı ve karaoke uygulaması
+io.github.tcobbs.LDView	LDraw model görüntüleyici
+io.github.tdesktop_x64.TDesktop	Telegram mesajlaşma uygulamasının resmi olmayan masaüstü sürümü
+io.github.technic.e2designer	Enigma2 için Qt5 ile yazılmış cilt editörü
+io.github.tfuxu.Halftone	Görüntülerinize piksel benzerini stil ekleyin
+io.github.thaunknown.miru	Miru - Kediler için Bittorrent akış yazılımı
+io.github.TheThirdOne.rars	RISC-V Birleştirici ve Çalışma Zamanı Simülatörü
+io.github.thetumultuousunicornofdarkness.cpu-x	CPU, anakart ve daha fazlası hakkında bilgi toplar
+io.github.TheWisker.Cavasik	CAVA tabanlı ses görselleştirici
+io.github.thiefmd.themegenerator	Stil ile Stiller Oluşturun.
+io.github.tlcfem.suanPan	🧮 Açık Kaynaklı, Paralel ve Heterojen Sonlu Elemanlar Analiz Çerçevesi
+io.github.tntwise.REAL-Video-Enhancer	Ücretsiz ve Açık Kaynaklı Video Geliştirme Aracı
+io.github.torrent_file_editor.Torrent-file-editor	.torrent dosyalarını düzenleyin ve oluşturun
+io.github.trackballs.Trackballs	Mermer bir topu labirentte yönlendirin
+io.github.tralph3.Steam_Metadata_Editor	Steam Uygulamalarınızın meta verilerini düzenleyen, kullanımı kolay bir GUI
+io.github.TransmissionRemoteGtk	Transmission BitTorrent istemcisini uzaktan yönetin
+io.github.trevorsandy.LPub3D	LPub3D - Bir LDraw Yapı Talimatı Düzenleyicisi
+io.github.trigg.discover_overlay	Discord sesli sohbeti için grafiksel bir katman.
+io.github.troyeguo.koodo-reader	Platformlar arası bir e-kitap okuyucu
+io.github.trytonvanmeer.DungeonJournal	5e Karakter Yöneticisi
+io.github.TTimo.GtkRadiant	Quake serisi dahil ID Tech tabanlı oyunlar için seviye düzenleyici
+io.github.twanvl.MagicSetEditor2	Özel kartlar yapmak için kullanılan bir program
+io.github.unicornyrainbow.secrets	İhtiyaçlarınıza göre kolayca şifreler oluşturun
+io.github.unknownskl.greenlight	Greenlight, xCloud ve Xbox ev akışı için açık kaynaklı bir istemcidir
+io.github.unrud.RecentFilter	Dosyaları ve klasörleri son kullanılan dosyalardan hariç tut
+io.github.vemonet.EmojiMart	Emoji Mart web bileşenini temel alan, masaüstü için modern bir açılır emoji seçici.
+io.github.veusz.Veusz	Bilimsel çizim paketi
+io.github.vikdevelop.SaveDesktop	Masaüstü ortamınızın mevcut yapılandırmasını kaydedin
+io.github.vinser.burnfix	Ekrandaki görüntü bozulmalarını düzeltmeye ve yakmaya çalışın, ekran kusurlarını arayın
+io.github.vinser.pixyne	Fotoğraf klasörlerini hızlı bir şekilde inceleyin, kötü ve benzer çekimleri güvenle silin, çekim tarihlerini düzeltin
+io.github.voxelcubes.deepqt	Bu kullanıcı dostu arayüzle DeepL API'nin gücünden yararlanın
+io.github.voxelcubes.panelcleaner	Manga panellerini temizlemek için yapay zeka destekli bir araç
+io.github.webcamoid.Webcamoid	Web kameranızla fotoğraf çekin ve video kaydedin
+io.github.weclaw1.ScoreTracker	Kart ve masa oyunlarında oyuncu puanlarını takip etmek için başvuru
+io.github.wereturtle.ghostwriter	Markdown için, dikkat dağıtmayan bir metin tamamlayıcı
+io.github.wh201906.serialtest	Seri port, Bluetooth, TCP ve UDP için çapraz platform test aracı
+io.github.wojciech_graj.OrbVis	Gerçek Zamanlı Uydu Yörünge Görüntüleyicisi
+io.github.wxmaxima_developers.wxMaxima	Güçlü bir bilgisayar cebir sistemi olan Maxima için grafiksel bir kullanıcı arayüzü
+io.github.xaos_project.XaoS	Hızlı etkileşimli gerçek zamanlı fraktal yakınlaştırma/morfer
+io.github.xiaoyifang.goldendict_ng	Gelişmiş sözlük arama programı
+io.github.xolatgames.marknpaul	Sihirbaz ol!
+io.github.xverizex.nem_desktop	Arkadaşlarla sohbet.
+io.github.xverizex.RetroSpriteEditor	Retro Konsollar için Piksel Düzenleyici
+io.github.xyproto.zsnes	Süper Nintendo emülatörü
+io.github.yairm210.unciv	Sıra tabanlı strateji oyunu
+io.github.yamanqd.antware	Bir FPS oyunu.
+io.github.Youda008.DoomRunner	ZDoom ve türevlerinin ön ayar odaklı grafik başlatıcısı
+io.github.zaps166.QMPlay2	Video ve ses oynatıcı
+io.github.zhrexl.thisweekinmylife	Bu, kullanıcının görevleri içeren kartları ekleyebileceği kaban tarzı bir planlayıcıdır.
+io.github.zyedidia.micro	Modern ve sezgisel bir terminal tabanlı metin düzenleyici
+io.gitlab.adhami3310.Converter	Resimleri dönüştür ve düzenle
+io.gitlab.adhami3310.Footage	Videolarınıza ince ayar yapın
+io.gitlab.adhami3310.Impression	Önyüklenebilir USB sürücü oluştur
+io.gitlab.azymohliad.WatchMate	PineTime'ınızı yönetin
+io.gitlab.ballz.Ballz	Yuvarlanan bir topu kontrol ettiğiniz platform/bulmaca oyunu
+io.gitlab.celleron56.libretile	açık kaynaklı bir karo oyun motoru şeyi
+io.gitlab.coolreader_ng.crqt-ng	Çapraz platform açık kaynak e-kitap okuyucu
+io.gitlab.cyberphantom52.sudoku_solver	Basit bir Sudoku Sovler
+io.gitlab.daikhan.stable	Video/Müzik oynatırken stiliniz olsun
+io.gitlab.dev_nis.one-click-backup	Klasörleri kopyalayarak harici bir konuma yedeklemek için basit program
+io.gitlab.floodlight.Presenter	Ücretsiz, libre, açık kaynak sunum ve şarkı sözü programı
+io.gitlab.Goodvibes	İnternet radyolarını birleştirir
+io.gitlab.gregorni.Calligraphy	Metninizi ASCII banner'larına dönüştürün
+io.gitlab.gregorni.Letterpress	Güzel ASCII sanatı yaratın
+io.gitlab.gwendalj.package-transporter	Uygulamalarınızı kurulumlar arasında aktarın
+io.gitlab.idevecore.Pomodoro	Pomodoro üretkenlik odaklı bir zamanlayıcıdır
+io.gitlab.jazztickets.choria	Son olarak, tamamen öğütmek ve ev işleri yapmakla ilgili bir MMORPG.
+io.gitlab.jazztickets.emptyclip	Empty Clip, yukarıdan aşağıya bir nişancı aksiyon RPG'sidir.
+io.gitlab.jazztickets.irrlamb	Tüm parlayan kürelere dokunmak amacıyla mavi bir enerji topunu kontrol ettiğiniz 3D fizik oyunu
+io.gitlab.jazztickets.openflap	Topların hiç bitmeyen boruların boşluklarından sektirilmesiyle ilgili bir oyun
+io.gitlab.leesonwai.Sums	Postfix notasyonuyla hesapla
+io.gitlab.leesonwai.Tactics	Futbol kadronuzu oluşturun
+io.gitlab.librewolf-community	LibreWolf Web Tarayıcısı
+io.gitlab.news_flash.NewsFlash	Gönderilerinizi takip edin
+io.gitlab.o20.word	Linux için Açık Kaynak MS Word 2019 klonu...
+io.gitlab.osslugaru.Lugaru	Üçüncü şahıs ninja tavşan dövüş oyunu
+io.gitlab.persiangolf.voicegen	Metni kolayca konuşmaya dönüştürün
+io.gitlab.stone_kingdoms.StoneKingdoms	Açık kaynaklı Stronghold hayranının yeniden yapımı
+io.gitlab.theevilskeleton.Upscaler	Resimleri büyütüp iyileştirmek
+io.gitlab.Turtlico	Öğrenme için programlama aracı
+io.gitlab.zehkira.Monophony	YouTube Music'ten müzik akışı yapın
+io.howl.Editor	Klavye merkezli minimalist arayüze sahip hafif düzenleyici
+io.itch.azagaya.Laigter	2B dokular için normal, aynasal, kapanma ve paralaks haritaları oluşturma aracı
+io.itch.doctorm64.skippybot	Skippy, gerçek kaderini ortaya çıkarmak için destansı bir arayışa çıkıyor.
+io.itch.domestique_baston.domestique_baston	1'e 1 dövüş oyunu
+io.itch.drwhut.TabletopClub	Fizik tabanlı bir 3D sanal alanda masaüstü oyunları oynayın
+io.itch.itch	Bağımsız oyunları yükleyin, güncelleyin ve oynayın
+io.itch.keyikedalube_ndang.Type-Off	6 dakikalık kısa bir yazma hızı oyunu
+io.itch.nordup.TheGates	Dünyanın her yerindeki geliştiricilerin yarattığı farklı dünyalara seyahat edin!
+io.jamulus.Jamulus	Jamulus. İnternet Jam Session Yazılımı
+io.jor.bugdom	Bugdom'u Thorax'ın şeytani Ateş Karıncalarından kurtarın
+io.jor.bugdom2	Bully Bee'nin izini sürün ve sırt çantanızı geri alın!
+io.jor.mightymike	Bir Oyuncak Mağazasında Yüksek Güçlü Eylem Kurtarma Çıldırdı!
+io.jor.nanosaur	Dünyaya meteor çarpmadan dinozor yumurtalarını geleceğe gönderin!
+io.jor.nanosaur2	Yüksek teknolojili silahlarla dolu bir pterodaktil uçurun
+io.jor.ottomatic	Dünyayı Gezegen X'in Dev Beyninin pençesinden kurtarın
+io.kapsa.drive	Herhangi bir S3 sağlayıcıyla uyumlu Sıfır Bilgi E2E şifreli depolama
+io.kinvolk.Headlamp	Kubernetes için kullanımı kolay ve genişletilebilir bir web kullanıcı arayüzü
+io.kopia.KopiaUI	Yedekleme çözümü
+io.liri.Calculator	Aritmetik veya bilimsel hesaplamalar yapın
+io.liri.Text	Metin dosyalarını düzenle
+io.lmms.LMMS	Bir müzik prodüksiyon uygulaması
+io.mango3d.LycheeSlicer	Reçine ve Filament 3D Yazıcılar için güçlü ve çok yönlü bir Dilimleyici
+io.mgba.mGBA	Nintendo Game Boy Advance Emülatörü
+io.missioncenter.MissionCenter	Sistem kaynakları verileri izle
+io.mpv.Mpv	Ücretsiz, açık kaynaklı ve platformlar arası bir medya oynatıcı
+io.mrarm.mcpelauncher	GNU/Linux'ta Minecraft Bedrock Edition'ı indirin ve oynayın
+io.naox.InnerBreeze	Wim Hof Nefes alma pratiğinize rehberlik edecek ve takip edecek bir meditasyon uygulaması
+io.neovim.nvim	Vim-fork genişletilebilirlik ve kullanılabilirliğe odaklandı
+io.openrct2.OpenRCT2	Eğlence parkı yönetimini simüle eden bir inşaat ve yönetim simülasyonu video oyunu
+io.osdn.simplesok	Basit sokoban oyunu
+io.otsaloma.gaupol	Metin tabanlı altyazılar için kapsamlı.
+io.otsaloma.nfoview	NFO dosyaları için görüntüleyici
+io.photoflare.photoflare	Basit ama güçlü Çapraz Platform Görüntü Düzenleyicisi
+io.podman_desktop.PodmanDesktop	Podman'ı ve diğer konteyner motorlarını tek bir kullanıcı arayüzünden ve tepsiden yönetin
+io.poez.Poezio	Poezio ücretsiz bir konsol XMPP istemcisidir
+io.posidon.Paper	Markdown ile alınamaz
+io.qt.Designer	Qt uygulamaları için GUI'ler tasarlayın
+io.qt.Linguist	Qt uygulamalarına çeviri ekleme
+io.qt.qdbusviewer	D-Bus uygulamalarında hata ayıklama
+io.qt.QtCreator	Uygulama geliştiricilerin birden fazla platform ve cihaza yönelik uygulamalar oluşturması için platformlar arası, eksiksiz bir entegre geliştirme ortamı (IDE) sağlar
+io.qt.qtwebengine.BaseApp	Qt WebEngine kullanan uygulamalar için paylaşılan platform
+io.sourceforge.chart_geany.chart-geany	Chart Geany, piyasa teknik analizi, grafik oluşturma ve portföy yöneticisi için ücretsiz bir çapraz platform yazılım çözümüdür
+io.sourceforge.clonekeenplus	Commander Keen ve Cosmos the Cosmic Adventure oyun serisini oynamak için kullanılan bir Motor
+io.sourceforge.pentobi	Masa oyunu Blokus'un bilgisayar rakibi
+io.sourceforge.pipewalker.PipeWalker	Bağlantı bulmaca oyunu
+io.sourceforge.Pixelitor	Pixelitor açık kaynaklı bir resim düzenleyicidir
+io.sourceforge.pysolfc.PySolFC	Solitaire oyunu derlemesi
+io.sourceforge.qoobar.Qoobar	Qoobar klasik müzik için basit bir etiket düzenleyicisidir
+io.sourceforge.trigger_rally.TriggerRally	Hızlı tempolu tek oyunculu ralli yarışı oyunu
+io.sourceforge.YSoccer	Retro tarzı futbol oyunu
+io.sourceforge.zaz	Oyuncunun topları üçer parça halinde dizmesi gereken bulmaca oyunu.
+io.stoplight.studio	Stoplight Stüdyosu. Zahmetsiz API Tasarımı.
+io.thp.numptyphysics	Pastel boya çizimine dayalı bir fizik bulmaca oyunu
+io.trustable.stpadocumentationtool	STPA'yı kolaylaştıran ve dokümantasyonu otomatikleştiren bir Sistem Teorik Süreç Analizi aracı
+io.typora.Typora	Minimal bir Markdown okuma ve yazma uygulaması
+io.unobserved.espansoGUI	Espanso için GUI arayüzü
+io.vikunja.Vikunja	Açık kaynaklı yapılacaklar uygulaması
+io.wasabiwallet.WasabiWallet	Güvenilir CoinJoin'i uygulayan, Masaüstü için açık kaynaklı, gözetimsiz, gizlilik odaklı Bitcoin cüzdanı.
+io.wavebox.Wavebox	Yeni nesil web-masaüstü iletişimi
+io.webtorrent.WebTorrent	Torrent uygulaması akışı
+ir.imansalmani.IPlan	Kişisel yaşamınızı ve iş verimliliğinizi artırmayı planlayın
+it.cuteworks.pacmanlogviewer	Pacman günlüğünü inceleyin
+it.fabiodistasio.AntaresSQL	UX odaklı, modern, hızlı ve üretkenlik odaklı bir SQL istemcisi
+it.mijorus.collector	Bir sonraki seviyeye Sürükle ve Bırak
+it.mijorus.gearlever	AppImages'ı Yönet
+it.mijorus.smile	Bir emoji seçici
+it.mijorus.whisper	Mikrofonunuzu dinleyin
+jp.yvt.OpenSpades	Açık Kaynak voksel atıcı
+la.ogri.strongbox	World of Warcraft için eklenti yöneticisi
+life.bolls.bolls	Yalnızca Tanrı'nın Sözü'ne vurgu yaparak İncil'i okumaya yönelik bir web uygulaması. Sola senaryosu
+lv.martinsz.millionaire	1 milyon dolar kazanmak için tüm soruları yanıtlayın.
+md.obsidian.Obsidian	Markdown tabanlı bilgi tabanı
+me.acristoffers.Lachesis	Moirai süpervizörü
+me.ahola.aphototoollibre	Linux için fotoğraf editörü
+me.broken_by.PdfMetadataEditor	PDF meta verilerini düzenleyin
+media.emby.EmbyServer	Açık medya çözümü
+media.emby.EmbyTheater	Açık medya çözümü
+me.dusansimic.DynamicWallpaper	Gnome 42 için dinamik duvar kağıdı oluşturucu
+me.hergert.Schemes	GtkSourceView için tasarım stili şemaları
+me.hyliu.fluentreader	Modern masaüstü RSS okuyucu
+me.iepure.devtoolbox	Geliştirme araçlarının parmaklarının ucunda
+me.iepure.Ticketbooth	Favori programlarınızı takip edin
+me.kozec.syncthingtk	Senkronizasyon için GUI ve bildirim alanı simgesi
+me.leucoso.Grock	Birleşik Krallık'ın jeolojik haritalarını görüntüler.
+me.mitya57.ReText	Markdown ve reStructuredText için basit ama güçlü bir şekilde
+me.njean.shootingpactris	Tetris, Pacman ve shmup oynanışına sahip bir retro retro oyun.
+me.orszulak.keyring	Tek kelimeyle güzel veya güzelce basit OTP oluşturucu.
+me.ppvan.psequel	SQL sorgunuzu çalıştırın
+me.sanchezrodriguez.passes	Dijital geçişlerinizi yönetin
+me.simakis.dropboxignore	Her şey eksik .dropboxignore dosyasıyla ilgili.
+me.timschneeberger.GalaxyBudsClient	Windows ve Linux için resmi olmayan Galaxy Buds Yöneticisi
+me.timschneeberger.jdsp4linux	Pipewire için açık kaynaklı ses efekti işlemcisi
+ml.mdwalters.EightBall	Kolayca karar verin
+ml.mdwalters.Lemonade	Lemmy hakkındaki tartışmaları takip edin
+ml.prevete.Daty	Ücretsiz Vikiveri editörü.
+mobi.snowball.Snowball	Platform döngüsü/vızıltı kablolu oyununa benzeyen yeni bir hızlı koşu oyunu
+moe.clover.mm3d	Oyunlar için 3D model düzenleyici ve animatör
+moe.karaokes.mugen	Karaoke oturumu yöneticisi ve oyuncusu
+moe.tundra.Tundra	Anime listelerinizi otomatik olarak güncelleyin
+mx.pwmc.Svgvi	XML bildirimlerini kullanan SVG görüntüleyici ve düzenleyici
+net._86box._86Box	Klasik IBM PC klonları için bir emülatör
+net.agalwood.Motrix	Tam özellikli bir indirme yöneticisi
+net.ankiweb.Anki	Güçlü, akıllı flash kartlar
+net.bartkessels.getit	API uç noktalarına HTTP istekleri gönderin
+net.baseart.Glide	Filmleri ve ses dosyalarını oynatın
+net.biniou.LeBiniou	Kullanıcı dostu, güçlü müzik görselleştirme / VJing aracı
+net.blix.BlueMail	BlueMail E-posta ve Takvim Uygulaması
+net.blockattack.game	Hızlı tempolu bir 3'lü eşleştirme/blok düşme oyunu
+net.blockbench.Blockbench	Blockbench - Kutu gibi bir 3D model düzenleyici
+net.blockout.BlockOutII	Orijinal BlockOut oyununun ücretsiz uyarlaması
+net.blumia.pineapple-pictures	Resim görüntüleyici
+net.brinkervii.grapejuice	Roblox Player ve Roblox Studio için Başlatıcı
+net.cebix.basilisk	68k Macintosh emülatörü
+net.christianbeier.Gromit-MPX	Gromit-MPX ekranda açıklamalar yapmak için bir araçtır
+net.christianbeier.MultiVNC	Platformlar arası Çoklu Yayın özellikli VNC görüntüleyici
+net.codeindustry.MasterPDFEditor	PDF belgelerini görüntüleyin, oluşturun, değiştirin, imzalayın, tarayın, OCR yapın ve yazdırın
+net.corluma.Corluma	Philip's Hues, LIFX, Nanoleafs ve Arduinos'u kontrol edin.
+net.cozic.joplin_desktop	açık kaynak not alma ve yapılacaklar uygulaması
+net.crossfireatlas.crossfire	Rogue benzeri çok kullanıcılı RPG
+net.cubers.assault.AssaultCube	Hızlı arcade birinci şahıs nişancı
+net.daase.journable	Basit bir mermi günlüğü
+net.danigm.loop	GNOME için basit bir ses döngüsü makinesi
+net.danigm.timetrack	GNOME için zaman takipçisi
+net.darkradiant.DarkRadiant	The Dark Mod ve Doom 3 için 3 boyutlu seviye düzenleyici
+net.davidotek.pupgui2	Wine ve Proton tabanlı uyumluluk araçlarını yükleyin
+net.dengine.Doomsday	Doom, Heretic ve Hexen'in geliştirilmiş kaynak bağlantı noktası
+net.devolutions.RDM	Uzaktan Bağlantıları Merkezileştirin, Yönetin ve Güvenli Hale Getirin
+net.displaycal.DisplayCAL	Doğruluk ve çok yönlülüğe odaklanarak kalibrasyon ve profil oluşturmayı görüntüleyin
+net.drawpile.drawpile	İşbirlikçi çizim
+net.epson.epsonscan2	Epson tarayıcılar ve çok işlevli yazıcılar için yazılım
+net.fasterland.converseen	Toplu görüntü işlemcisi
+net.filebot.FileBot	En iyi TV ve Film Yeniden Adlandırıcı
+net.freerct.FreeRCT	Tema parkı strateji oyunu
+net.fsuae.FS-UAE	FS-BAE Amiga Emülatörü
+net.gaijin.WarThunder	War Thunder, oynaması ücretsiz, platformlar arası en kapsamlı MMO askeri oyunudur.
+net.giuspen.cherrytree	Hiyerarşik Not Alma
+net.goatattack.goatattack	Çok Oyunculu Piksel Sanat Nişancı Oyunu
+net.gradator.gtkatlantic	Monopoly benzeri bir oyun
+net.granjow.slowmovideo	SlowmoVideo, çekimlerinizden ağır çekim videolar oluşturan bir Açık Kaynak programıdır.
+net.gwyddion.Gwyddion	SPM (taramalı prob mikroskobu) veri görselleştirme ve analizi programı
+net.hovancik.Stretchly	Mola zamanı hatırlatma uygulaması
+net.huitsi.ParallelOverhead	Sonsuz koşucu oyunu
+net.imaginaryinfinity.Squiid	Gelişmiş cebirsel ve RPN hesaplamaları yapın
+net.jami.Jami	Gizlilik odaklı ses, video, sohbet ve konferans platformu
+net.jammr.jammr	İnternet üzerinden müzisyenlerle oynayın
+net.jenyay.Outwiker	Kişisel wiki ve taslak.
+net.kirgroup.confy	Konferans programları görüntüleyicisi
+net.krafting.Playlifin	YouTube oynatma listelerini Jellyfin ile senkronize edin
+net.krafting.PlaylifinVoyager	Çalma listelerini Jellyfin'e/Jellyfin'den aktarın
+net.krafting.PleasureDVR	Chaturbate web sitesi için DVR
+net.kubux.Muehle	Dokuz Adam Morris oyunu oyna.
+net.kuribo64.melonDS	Nintendo DS ve DSi emülatörü
+net.kvirc.KVIrc	KVIrc ücretsiz bir taşınabilir IRC istemcisidir
+net.launchpad.Gnuclad	Kladogram ağacı oluşturucu
+net.line72.campcounselor	Bandcamp.com İstek Listesi Yöneticisi
+net.longturn.freeciv21	Freeciv21 - 21. Yüzyıl için Freeciv
+net.lugsole.bible_gui	Birden fazla çeviriyi ve dili destekleyen İncil uygulaması
+net.lutris.Lutris	Video oyunu depolama platformu
+net.mancubus.SLADE	Bu bir Doom editörü
+net.mediaarea.AVIMetaEdit	AVI dosyalarının meta verilerini ekleyin, doğrulayın ve dışa aktarın
+net.mediaarea.BWFMetaEdit	BWF dosyalarının meta verilerini gömün, doğrulayın ve dışa aktarın
+net.mediaarea.DVAnalyzer	DV akışlarını analiz edin ve hataları bildirin
+net.mediaarea.MediaConch	Uygulama denetleyicisi, politika denetleyicisi, raporlayıcı ve düzeltici
+net.mediaarea.MediaInfo	Video ve ses dosyaları için en alakalı teknik ve etiket verilerinin kullanışlı birleştirilmiş gösterimi
+net.mediaarea.MOVMetaEdit	Universal Ad ID meta verilerini MOV veya MP4 dosyalarına yerleştirme ve düzenleme
+net.mediaarea.QCTools	Video Korumaya Yönelik Kalite Kontrol Araçları
+net.meijn.onvifviewer	ONVIF protokolünü kullanarak ağ kameralarını görüntüleyip denetleyin
+net.meshlab.MeshLab	Ücretsiz ve açık kaynak 3D üçgen ağları işleme ve düzenleme
+net.minetest.Minetest	Çok oyunculu sonsuz dünya blok sandbox oyunu
+net.mkiol.SpeechNote	Çevrimdışı Konuşmadan Metne, Metinden Konuşmaya ve Makine Çevirisi ile not alma, okuma ve çeviri
+net.mullvad.MullvadBrowser	İnterneti kitlesel gözetimden kurtarın
+net.natesales.Aviator	Video Yardımcı Pilotunuz: AV1/OPUS Video Kodlayıcı
+net.nokyan.Resources	Sistem kaynaklarınızı ve süreçlerinizi izleyin
+net.olofson.KoboDeluxe	Üçüncü şahıs kaydırmalı 2D nişancı oyunu
+net.openra.OpenRA	Erken dönem Westwood gerçek zamanlı strateji oyunlarının yeniden tasarlanması
+net.oz9aec.Gpredict	Gerçek zamanlı uydu izleme ve yörünge tahmin programı
+net.pcsx2.PCSX2	PlayStation 2 Emülatörü
+net.peercoin.peercoin-qt	Peercoin, sürdürülebilir gelecek için yeşil bir kripto.
+net.pioneerspacesim.Pioneer	Yalnız uzay macerası oyunu
+net.pistegamez.PekkaKana2	Eski klasik platform oyunlarının ruhuyla yapılmış zıpla ve koş oyunu
+net.poedit.Poedit	Basit çeviri editörü
+net.puddletag.puddletag	Güçlü bir ID3 etiket düzenleyicisi
+net.purrdata.PurrData	Saf Veriyi temel alan, multimedya için açık kaynaklı bir görsel programlama dili
+net.qsl.QSSTV	SSTV ve HAMDRM'yi alma ve aktarma programı
+net.redeclipse.RedEclipse	Çevik oynanışa ve yerleşik düzenleyiciye sahip birinci şahıs nişancı
+net.retrodeck.retrodeck	RetroDECK, retro oyunlarınızı doğrudan Steam Deck'inizde kataloglamak ve oynamak için bir ortam getiriyor
+net.rpcs3.RPCS3	Açık kaynaklı Sony PlayStation 3 Emülatörü
+net.rpdev.OpenTodoList	Yapılacaklar listesi ve not alma uygulaması
+net.runelite.RuneLite	RuneLite OSRS İstemcisi
+net.sapples.LiveCaptions	Masaüstü için Canlı Altyazı
+net.scribus.Scribus	Açık Kaynak Sayfa Düzeni ve Masaüstü Yayıncılık (DTP)
+net.seamly.seamly2d	Dikiş deseni tasarım yazılımı
+net.sf.fuse_emulator	Sinclair ZX Spektrum Emülatörü
+net.sf.metronomek	Doğal sesler ve gelişmiş olanaklarla sıradan görünümlü metronom
+net.sf.nootka	Klasik puan notasyonunu öğrenmek için uygulama
+net.sf.VICE	Çok Yönlü Commodore Emülatörü
+net.shrew.ike.qikea	Uzak site yapılandırmalarını yönetmek için uygulama
+net.sonic_pi.SonicPi	Kod tabanlı bir müzik oluşturma ve performans aracı
+net.sonobus.SonoBus	Ücretsiz ve açık kaynaklı ağ ses akışı
+net.sourceforge.artha.Artha	Açık Eş Anlamlılar Sözlüğü
+net.sourceforge.atanks	Sıra tabanlı topçu strateji oyunu
+net.sourceforge.audmes.audmes	Ses ölçüm sistemi
+net.sourceforge.btanks	Savaş tanklarıyla eğlence dolu bir kaydırma oyunu
+net.sourceforge.Chessx	Ücretsiz Satranç Veritabanı
+net.sourceforge.chromium-bsu	Hızlı tempolu, atari tarzı, üst kaydırmalı uzay nişancı oyunu
+net.sourceforge.dmidiplayer	Drumstick Multiplatform MIDI Dosya Oynatıcı
+net.sourceforge.DuneLegacy	Modern bir Dune II yeniden uygulaması
+net.sourceforge.efaxgtk	Linux/Unix ile Faks Gönderme
+net.sourceforge.electrip.Electrip	Model demiryolunuzu oyun kumandalarını kullanarak kontrol edin!
+net.sourceforge.ExtremeTuxRacer	Tux Racer'ı temel alan yüksek hızlı arktik yarış oyunu
+net.sourceforge.Fillets	70 seviyeli bulmaca oyunu
+net.sourceforge.fretsonfire	Frets on Fire, müzikal beceri ve hızlı parmaklarla oynanan bir oyundur. Oyunun amacı gitarı klavyeyle mümkün olduğunca doğru çalmaktır.
+net.sourceforge.fspclient	FSP için FTP benzeri arayüz
+net.sourceforge.GrandOrgue	Boru organı simülatörü
+net.sourceforge.Hugin	Panoramik fotoğraf birleştirici ve daha fazlası
+net.sourceforge.jpdftweak.jPdfTweak	PDF dosyaları için İsviçre Çakısı
+net.sourceforge.Kino	GNU/Linux ve BSD platformları için Kino DV doğrusal olmayan video düzenleyicisi
+net.sourceforge.Klavaro	Dokunarak yazma öğretmeni
+net.sourceforge.kmetronome	ALSA Sıralayıcıyı temel alan baget MIDI Metronom
+net.sourceforge.kmidimon	Drumstick MIDI Monitor, ALSA sıralayıcıyı kullanan Linux için bir MIDI monitörüdür
+net.sourceforge.lgames.LBreakoutHD	Arkanoid / Breakout benzer oyun
+net.sourceforge.lgames.LGeneral	Sıra tabanlı strateji oyunu motoru (Panzer General gibi)
+net.sourceforge.lgames.LPairs2	Klasik hafıza oyunu
+net.sourceforge.lgames.LTris	Düşen bloklarla beceri oyunu
+net.sourceforge.Lifeograph	Dijital günlük ve not defteri
+net.sourceforge.liferea	RSS beslemesi okuyucu
+net.sourceforge.mars-game	Harika görsel efektlere sahip 2D uzay nişancı oyunu
+net.sourceforge.mcomix	Komik ve genel amaçlı resim görüntüleyici
+net.sourceforge.molsketch	2D Moleküler Yapılar Düzenleyicisi
+net.sourceforge.OpenLieroX	Çeşitli silahlarla donanmış solucanları kontrol ettiğiniz yana kaydırmalı nişancı oyunu
+net.sourceforge.osmo	Kişisel organizatör
+net.sourceforge.paulstretch	Bu, aşırı ses genişletmeye (50x gibi) ve sesleri spektral yumuşatarak özel efektler uygulamaya yönelik bir programdır.
+net.sourceforge.pdfchain	PDF Zinciri, PDF Araç Takımı (PDFtk) için grafiksel bir kullanıcı arayüzüdür
+net.sourceforge.Pdfedit	Ham pdf nesneleri ağacına göz atma/düzenleme özelliğine sahip PDF düzenleyici
+net.sourceforge.projectM	3D hızlandırılmış yinelemeli görüntü tabanlı oluşturmayı kullanan müzik görselleştirici
+net.sourceforge.qtpfsgui.LuminanceHDR	HDR görüntüleri oluşturun
+net.sourceforge.QtSpim	MIPS32 programlarını çalıştıran bağımsız bir simülatör
+net.sourceforge.quakespasm.Quakespasm	Orijinal Quake motorunun modern limanı
+net.sourceforge.Ri-li	Çocuk oyunu, oyuncak ahşap motoru kullan
+net.sourceforge.roccat.roccat-tools	Roccat cihazlarını yapılandırmak için uygulamalar.
+net.sourceforge.scidavis	Bilimsel veri analizi ve görselleştirme için başvuru
+net.sourceforge.SDL-Ball	Güzel grafiklere sahip tuğla kırma oyunu
+net.sourceforge.squirrel_sql	SQuirreL SQL Client, JDBC uyumlu bir veritabanının yapısını görüntülemenize, tablolardaki verilere göz atmanıza, SQL komutları vermenize vb. olanak tanıyan bir GUI'dir. MySQL, PostgreSQL, MariaDB ve SQLite'ı destekler.
+net.sourceforge.Teo	Thomson TO8D emülatörü
+net.sourceforge.tomatoes.IHaveNoTomatoes	Domates parçalama oyunu
+net.sourceforge.torcs	Açık Yarış Arabası Simülatörü
+net.sourceforge.TuxFootball	Harika bir 2D futbol (bazen futbol da denir) oyunu
+net.sourceforge.uhexen2.uhexen2	Hexen II'nin modernize edilmiş kaynak limanı
+net.sourceforge.VMPK	Sanal MIDI Piyano Klavyesi: bir MIDI olay oluşturucusu ve alıcısı
+net.sourceforge.wavbreaker	WAV, MP2 ve MP3 dosyalarını bölmek için GUI aracı
+net.sourceforge.wxEDID	Genişletilmiş Ekran Tanımlama Verileri (EDID) dosyalarını okuyun ve düzenleyin
+net.stabyourself.nottetris2	Fizik tabanlı Tetris
+net.studio08.xbplay	Konsolunuzdan veya xCloud'dan uzaktan oynatma
+net.supertuxkart.SuperTuxKart	3D açık kaynaklı kart yarışı oyunu
+net.tedomum.CapBattleship	Korsan temalı savaş gemisi oyunu
+net.unvanquished.Unvanquished	Hızlı tempolu, birinci şahıs strateji oyunu
+net.veloren.airshipper	Airshipper, Veloren'in resmi başlatıcısıdır.
+net.veloren.veloren	Veloren, Rust'ta yazılmış çok oyunculu bir voksel RPG'sidir. Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress ve Minecraft gibi oyunlardan ilham almıştır.
+net.warsow.Warsow	Hızlı tempolu 3D birinci şahıs nişancı
+net.waterfox.waterfox	Modern web için oluşturulmuş hafif, ücretsiz ve açık kaynaklı bir web tarayıcısı.
+net.werwolv.ImHex	Tersine mühendisler ve programcılar için bir hex düzenleyici
+network.bisq.Bisq	Merkezi olmayan bir bitcoin değişim ağı.
+network.koesling.shm-modbus	Modbus TCP/RTU istemcisini simüle etmeye yönelik bir araç koleksiyonu
+network.loki.Session	Özel mesajlaşma
+net.worldofpadman.WoP	Genç ve kalbi genç insanlar için inanılmaz derecede dikkatli tasarlanmış ve renkli, ücretsiz, eğlenceli bir nişancı oyunu
+net.wz2100.wz2100	Dünyayı yeniden inşa etme savaşında Projenin güçlerine komuta edin.
+net.xm1math.Texmaker	Lateks düzenleyici
+net.xmind.XMind	Zihin Haritalaması ve Beyin Fırtınası
+net.xmind.XMind8	İnanılmaz beyin fırtınası ve zihin haritalama aracı.
+net.zgcoder.skycheckers	Düşmanları sahneden fırlatın
+nl.brixit.powersupply	Linux güç alt sistemi hata ayıklayıcısı
+nl.brixit.wiremapper	Pockethernet ağ test cihazı için Linux istemcisi
+nl.g4d.Girens	Plex içeriğinizi izleyin
+nl.hjdskes.gcolor3	Seçiciden veya ekrandan renk seç
+nl.lostboys.rollemup	90'ların sonlarından kalma klasik tilt oyunu.
+nl.openoffice.bluefish	Birçok web ve yazılım geliştirme ekstrasına sahip metin editörü
+nl.sarine.gpx-viewer	Basit bir gpx görüntüleyici
+nl.v0yd.Capsule	İlaç takipçisi
+no.mifi.losslesscut	Video ve ses dosyalarını hızlı ve kayıpsız bir şekilde kırparak yerden tasarruf edin
+nz.mega.MEGAsync	Bilgisayarlarınız ve MEGA Bulut Sürücünüz arasında kolay otomatik senkronizasyon.
+one.ablaze.floorp	Floorp tarayıcı
+one.alynx.FlipClock	SDL2 tarafından desteklenen bir çevirmeli saat ekran koruyucusu.
+one.flipperzero.qFlipper	Flipper Zero aygıt yazılımını PC üzerinden güncellemek için grafiksel masaüstü uygulaması
+one.jiri.easydict-gtk	Sözlük verileriyle de tamamen açık olan ilk açık kaynak çevirmen.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	GNOME için ATHN tarayıcısı
+org._2006Scape.Launcher	2006Scape ücretsiz bir Runescape 2006 Emülasyon sunucusudur
+org._2009scape.Launcher	Runescape 2009 Emülasyon Sunucuları için Başlatıcı
+org.adishatz.syncpasswd	Şifreleri güncelle
+org.alienarena.alienarena	Ultra hızlı tempolu arena FPS
+org.aliflang.lang	Alif (ألف), Arapça programlama dili
+org.altaqwaa.Altaqwaa	Kuran, ezkar ve namaz vakitleri
+org.americanmonk.TipitakaPaliReader	Bu, Theravāda Budist Tipitaka Pāḷi metinlerini okumak ve zahmetsizce tanımları almak için bir uygulamadır
+org.apache.directory.studio	Eksiksiz bir dizin oluşturma platformu
+org.apache.jmeter	Yük testi ve performans ölçümü uygulaması
+org.apache.netbeans	NetBeans - Apache Java IDE'si. Parçaları Bir Araya Uyar
+org.ardour.Ardour	Dijital Ses İş İstasyonu
+org.armagetronad.ArmagetronAdvanced	3D Işık Bisikleti Oyunu
+org.arrl.trustedqsl	Ham Radyo İletişim doğrulama araçları
+org.artsoft.rocksndiamonds	Mücevher toplama bulmaca oyunu
+org.asc_hq.ASC	Sıra tabanlı strateji oyunu
+org.atheme.audacious	Hafif ses oynatıcı
+org.audacityteam.Audacity	Audacity dünyanın en popüler ses düzenleme ve kayıt uygulamasıdır
+org.audiveris.audiveris	Optik Müzik Tanıma (OMR) Uygulaması
+org.avidemux.Avidemux	Çok amaçlı video düzenleme ve işleme yazılımı
+org.b3log.siyuan	Gizliliğe öncelik veren kişisel bilgi yönetimi sistemi, ayrıntılı blok düzeyinde referansı ve Markdown WYSIWYG'yi destekler
+org.beeref.BeeRef	Basit Bir Referans Resim Görüntüleyici
+org.bino3d.bino	3D Video Oynatıcı
+org.bionus.Grabber	Güçlü dosya adlandırma özelliklerine sahip, çok özelleştirilebilir görüntü panosu/booru indiricisi
+org.bitbucket.mystery_keeper.VapourSynthEditor	VapourSynth komut dosyaları düzenleyicisi
+org.bitcoincore.bitcoin-qt	Bitcoin eşler arası ağ düğümünü, cüzdanını ve GUI'sini tamamen doğruluyor
+org.bitfighter.Bitfighter	çok oyunculu vektör grafikli uzay oyunu
+org.blackcoin.blackcoin-more	Gerçek Merkezi Olmayan Dijital Para Birimi
+org.blackfennec.app	Genişletilebilir Yarı Yapılandırılmış Veri Düzenleme Ortamı
+org.bleachbit.BleachBit	Disk alanını boşaltmak ve gizliliği korumak için dosyaları temizler
+org.blender.Blender	Ücretsiz ve açık kaynaklı 3D oluşturma paketi
+org.bluej.BlueJ	Yeni başlayanlar için Java IDE'si
+org.bluesabre.MenuLibre	FreeDesktop.org uyumlu gelişmiş menü
+org.briarproject.Briar	Her yerde güvenli mesajlaşma
+org.btchd.btchd-qt	BitcoinHD P2P ağına bağlanın
+org.buhocms.BuhoCMS	Statik site oluşturucular için yerel bir CMS
+org.bunkus.mkvtoolnix-gui	Matroska dosyaları oluşturucu ve araçları
+org.bzdev.CVRDecode	California Digital COVID-19 Aşı Kayıtları için Kod Çözücü
+org.bzflag.BZFlag	3D birinci şahıs tank savaşı oyunu
+org.caione.GScope	Cscope'a GTK arayüzü
+org.chocolate_doom.ChocolateDoom	Muhafazakar Doom Kaynağı Bağlantı Noktası
+org.chromium.Chromium	Chromium projesindeki web tarayıcısı
+org.citra_emu.citra	Nintendo 3DS emülatörü
+org.claws_mail.Claws-Mail	Claws Mail, GTK+ tabanlı bir e-posta istemcisidir (ve haber okuyucudur)
+org.clementine_player.Clementine	Müzik dosyalarını ve İnternet radyosunu çalar
+org.cloudcompare.CloudCompare	3 boyutlu nokta bulutu ve ağ işleme yazılımı
+org.cockpit_project.CockpitClient	Cockpit ile sunuculara ssh aracılığıyla bağlanın
+org.codeberg.dimkard.glossaico	Dil öğrenme uygulaması
+org.codeblocks.codeblocks	C, C++ ve Fortran için IDE
+org.contourterminal.Contour	Contour, günlük kullanıma yönelik modern ve aslında hızlı, modal, sanal bir terminal emülatörüdür
+org.coolero.Coolero	Coolero, soğutma cihazlarınızı izlemeye ve kontrol etmeye yönelik bir programdır
+org.cryptomator.Cryptomator	Bulut depoları için optimize edilmiş çok platformlu istemci tarafı şifreleme aracı
+org.cubocore.CoreAction	Bazı kullanışlı aletlerin bulunduğu bir kenar çubuğu
+org.cubocore.CoreArchiver	Basit bir dosya sıkıştırma/çıkarma yardımcı programı
+org.cubocore.CoreFM	Basit, hafif, kullanımı kolay bir dosya yöneticisi
+org.cubocore.CoreHunt	Kullanımı kolay, hızlı bir dosya arama aracı
+org.cubocore.CoreImage	Basit, hafif, kullanımı kolay bir resim görüntüleyici
+org.cubocore.CoreInfo	Dosyalar için basit bir meta veri görüntüleyici
+org.cubocore.CoreKeyboard	Kelime önerileri içeren basit bir sanal klavye
+org.cubocore.CorePad	Basit, hafif ama güçlü bir metin düzenleyici
+org.cubocore.CorePaint	Basit bir boyama aracı
+org.cubocore.CorePDF	Basit ve hafif bir PDF görüntüleyici
+org.cubocore.CoreRenamer	Basit, hafif bir toplu iş dosyası yeniden adlandırıcı
+org.cubocore.CoreShot	X11 için basit, hafif bir ekran yakalama yardımcı programı
+org.cubocore.CoreStats	Basit, hafif bir sistem kaynağı görüntüleyici
+org.cubocore.CoreTime	Zamanla ilgili bir görev yöneticisi
+org.cvfosammmm.Porto	Jupyter not defterlerini masaüstünde düzenleme
+org.cvfosammmm.Setzer	Basit ama tam özellikli LaTeX düzenleyici
+org.cznic.Datovka	Veri kutuları için ücretsiz bir grafik kullanıcı arayüzü
+org.d3cod3.Mosaic	openFrameworks tabanlı Görsel Yama Yaratıcı Kodlama Platformu
+org.darkdimension.rue	Kesinti, aşk ve pişmanlıkla ilgili bir kart oyunu.
+org.darktable.Darktable	Dijital kameralardan alınan görüntüleri organize edin ve geliştirin
+org.dash.electrum.electrum_dash	Hafif Dash istemcisi
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Değişim Ağ Geçidi
+org.debian.TuxPuck	3D Karışık Pong Oyunu
+org.deidentifier.arx	ARX Veri Anonimleştirme Aracı
+org.deluge_torrent.deluge	Tam özellikli bir BitTorrent İstemcisi
+org.denemo.Denemo	Müzik Notaları Oluşturun
+org.desmume.DeSmuME	Nintendo DS emülatörü
+org.develz.Crawl	Rogue benzeri zindan keşif oyunu
+org.dhewm3.Dhewm3	dhewm 3 bir Doom 3 GPL kaynak bağlantı noktasıdır
+org.diasurgical.DevilutionX	Modern işletim sistemleri için Diablo/Hellfire kaynak bağlantı noktası
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce Emülatörü
+org.duckstation.DuckStation	PlayStation Emülatörü
+org.dupot.beatmatchtopass	Hepsini yen
+org.dupot.littleadventure	RPG Piksel Sanatı küçük Oyun
+org.dust3d.dust3d	Hızlı bir 3D modelleme aracı
+org.easycoding.TunedSwitcher	Ayarlanmış hizmeti yönetmek için basit yardımcı program
+org.eclipse.iot.fourdiac.Ide	Açık Kaynak IEC 61499 uyumlu PLC IDE
+org.eclipse.Java	Java IDE, Git istemcisi, XML Düzenleyici, Maven ve Gradle entegrasyonu da dahil olmak üzere herhangi bir Java geliştiricisi için temel araçlar
+org.eclipse.Javascript	JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown dil desteği de dahil olmak üzere herhangi bir JavaScript geliştiricisi için temel araçlar
+org.eclipse.sumo	Mikroskobik Trafik Simülasyonu
+org.electrum.electrum	Hafif Bitcoin istemcisi
+org.emilien.Password	Maksimum Güvenlik için Güçlü Şifre
+org.emilien.SpaceLaunch	Bir sonraki roket ne zaman göklere uçacak?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(ler) test aracı
+org.endlessos.Key	Her zaman, her yerde seçilmiş öğrenme
+org.enjoyingfoss.FOSStriangulator	Fotoğraflardan üçgen çizimler oluşturmaya yönelik bir araç
+org.entangle_photo.Manager	Bağlı Kamera Denetleme & Yakalama
+org.equeim.Tremotesf	İletim BitTorrent uzaktan uygulama için görünürsi
+org.eu.encom.spectral	Matrix protokolü için IM istemcisi
+org.eu.getcatalyst.Catalyst	Electron tarafından desteklenen hafif ve kullanıcı odaklı bir web tarayıcısı
+org.eu.wabarc.wayback	Web sayfalarını Internet Archive, archive.today, IPFS ve yerel dosya sistemlerine arşivlemek için kendi kendine barındırılan bir araç seti
+org.exaile.Exaile	Ses koleksiyonunuzu dinleyin, keşfedin veya yönetin
+org.exbin.BinEd	İkili/Hex Düzenleyici
+org.expresslrs.ExpressLRSConfigurator	ExpressLRS ürün yazılımı için çapraz platform yapılandırma aracı
+org.eyecreate.qiflora	Mi Flora cihazlarını kullanarak bitkileri izlemek için mobil uyumlu uygulama.
+org.eyecreate.vehiclevoyage	Araç servis geçmişini takip edin.
+org.famistudio.FamiStudio	FamiStudio NES Müzik Düzenleyici
+org.fcitx.Fcitx5	Giriş metodu
+org.fdroid.Repomaker	Kolayca F-Droid depoları oluşturun
+org.featherwallet.Feather	Monero masaüstü cüzdanı
+org.fedoraproject.MediaWriter	Fedora içeriği içeren canlı USB aygıtı oluşturmanızı sağlayan araç
+org.ferdium.Ferdium	Masaüstü için Messenger
+org.filezillaproject.Filezilla	Hızlı ve güvenilir FTP istemcisi
+org.filmulator.Filmulator	Tüm olumlu yönleri içeren ve hiçbir olumsuzluğu olmayan bir film emülatörü olan Filmulator'un GUI uyarlaması
+org.firestormviewer.FirestormViewer	3D sanal dünyalara erişim için istemci
+org.fkoehler.KTailctl	Tailscale ağ ağı için bir GUI
+org.flameshot.Flameshot	Güçlü ve kullanımı basit ekran görüntüsü yazılımı
+org.flarerpg.Flare	2D aksiyon rol yapma oyunu
+org.flathub.flatpak-external-data-checker	Flatpak bildirimlerinde kullanılan harici verilerin hala güncel olup olmadığını kontrol etmeye yönelik bir araç
+org.flatpak.qtdemo	Flatpak Geliştirici Demosu
+org.flightgear.FlightGear	Ücretsiz ve son derece gelişmiş bir uçuş simülatörü
+org.flozz.calcleaner	CalDAV takvimlerindeki eski etkinlikleri temizlemek için basit bir grafik araç
+org.flozz.yoga-image-optimizer	JPEG, PNG ve WebP görsellerini dönüştürün ve optimize edin
+org.flycast.Flycast	Sega Dreamcast, Naomi ve Atomiswave emülatörü
+org.fontforge.FontForge	Bir taslak yazı tipi düzenleyicisi
+org.freac.freac	Ses dönüştürücü ve CD kopyalayıcı
+org.free_astro.siril	Astronomik görüntü (ön)işleme programı
+org.freecadweb.FreeCAD	Açık kaynaklı parametrik 3D CAD modelleyici
+org.freeciv.gtk322	Freeciv oyunu için Gtk+-3.22 tabanlı istemci
+org.freeciv.qt	Freeciv oyunu için Qt tabanlı istemci
+org.freecol.FreeCol	FreeCol sıra tabanlı bir strateji oyunudur.
+org.freedesktop.adriconf	Gelişmiş DRI yapılandırıcı
+org.freedesktop.appstream.cli	AppStream üst verileriyle çalışmak için bir araç
+org.freedesktop.appstream.generator	Hızlı bir AppStream meta veri oluşturucu
+org.freedesktop.appstream-glib	AppStream dosyalarının doğrulanması ve araçları
+org.freedesktop.Bustle	D-Bus aktivitesinin sıra diyagramlarını çizin
+org.freedesktop.dabrain34.GstPipelineStudio	Kendi GStreamer boru hattınızı çizin...
+org.freedesktop.dabrain34.squared	Kareyi sayılarla doldurmaya çalışın
+org.freedesktop.fwupd	Linux'ta cihaz donanım yazılımını güncelleyin
+org.freedesktop.GstDebugViewer	GStreamer hata ayıklama günlüğü bilgilerini inceleyin
+org.freedesktop.Piper	Oyun faresi yapılandırma yardımcı programı
+org.freedesktop.Tuhi	Wacom Ink cihazlarınızdan çizimlerinizi indirmek için bir araç
+org.freedownloadmanager.Manager	FDM güçlü, modern bir indirme hızlandırıcısı ve düzenleyicisidir.
+org.freefilesync.FreeFileSync	Görsel klasör karşılaştırması ve senkronizasyonu
+org.freeorion.FreeOrion	Sıra tabanlı uzay imparatorluğu ve galaktik fetih (4X) bilgisayar oyunu
+org.freeplane.App	Zihin Haritalama, Bilgi Yönetimi, Proje Yönetimi. Fikirlerinizi ve bilginizi en etkili şekilde geliştirin, organize edin ve iletin
+org.frescobaldi.Frescobaldi	LilyPond Müzik Editörü
+org.fritzing.Fritzing	Elektronik Tasarım Aracı
+org.frozen_bubble.frozen-bubble	Donmuş baloncuklarla ilgili bağımlılık yaratan bir oyun
+org.gabmus.gfeeds	GNOME için haber okuyucusu
+org.gabmus.giara	Reddit için bir uygulama
+org.gabmus.hydrapaper	Çoklu ekran destekli duvar kağıdı yöneticisi
+org.gabmus.notorious	Klavye merkezli notlar
+org.gabmus.swatch	Renk paleti yöneticisi
+org.gabmus.unifydmin	Birden fazla heterojen sunucuyu kolaylıkla kontrol etmek için GNOME uygulaması
+org.gabmus.whatip	IP'niz hakkında bilgi
+org.gahshomar.Gahshomar	Farsça/Celali/Farsça takvimi
+org.gajim.Gajim	Fully-featured XMPP chat client
+org.gaphor.Gaphor	Simple UML and SysML modeling tool
+org.geany.Geany	A fast and lightweight IDE
+org.geeqie.Geeqie	A lightweight image viewer
+org.genivi.DLTViewer	Diagnostic Log and Trace viewing program
+org.geogebra.GeoGebra	Dynamic mathematics software
+org.gephi.Gephi	The Open Graph Viz Platform
+org.getmonero.Monero	Monero: the secure, private, untraceable cryptocurrency
+org.getoutline.OutlineClient	Access to the free and open Internet
+org.getoutline.OutlineManager	Set up your Outline Servers on the cloud and manage who has access to the server
+org.getzola.zola	A fast static site generator in a single binary with everything built-in
+org.ghidra_sre.Ghidra	Ghidra Software Reverse Engineering Suite
+org.gimp.GIMP	Görüntü oluşturur ve fotoğraf düzenler
+org.gmusicbrowser.gmusicbrowser	Jukebox for large collection of music
+org.gna.Warmux	A 2D game where funny characters launch funny weapons
+org.gnode.NixView	Viewer for nix datafiles
+org.gnome.Aisleriot	Birçok değişik iskambil falı oyunu oynayın
+org.gnome.atomix	Molekülleri, atomlardan oluşturun
+org.gnome.baobab	Klasör boyutlarını ve kullanılabilir disk alanını denetle
+org.gnome.Boxes	Sanallaştırma kolaylaştırıldı
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	GNOME için IDE
+org.gnome.Calculator	Aritmetik, bilimsel ve finansal hesaplamalar gerçekleştirir
+org.gnome.Calendar	GNOME için Takvim
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.Characters	Karakter eşlem uygulaması
+org.gnome.Cheese	Web kameranızdan fotoğraflar ve videolar çekip bunlara görsel etkiler ekler.
+org.gnome.Chess	Klasik iki oyunculu satranç oyununu oyna
+org.gnome.clocks	Zaman takibi yap
+org.gnome.ColorViewer	Yüklü renk profillerini inceleyin ve karşılaştırın
+org.gnome.Connections	Diğer masaüstlerini görüntüle ve kullan
+org.gnome.Contacts	Kişilerinizi yönetin
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	Kendinizi veri yitiminden koruyun
+org.gnome.design.AppIconPreview	Uygulama simgeleri tasarlamak için uygulama
+org.gnome.design.Contrast	İki renk arasındaki karşıtlığı gözden geçir
+org.gnome.design.Emblem	Proje avatarları oluşturun
+org.gnome.design.IconLibrary	Uygulamalarınız için sembolik simgeler
+org.gnome.design.Lorem	Yer tutucu metin oluştur
+org.gnome.design.Palette	Renk Paleti aracı
+org.gnome.design.SymbolicPreview	Sembolikler Kolaylaştı
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	API belgelendirmesini taramak ve gözden geçirmek için geliştirici aracı
+org.gnome.dspy	GNOME için D-Bus gezgini
+org.gnome.EasyTAG	Ses dosyası üstverilerini düzenleyin
+org.gnome.eog	Resimlere göz at ve döndür
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Web’e göz at
+org.gnome.Evince	Gözde belge biçimleri için belge görüntüleyici
+org.gnome.Evolution	E-postalarını, bağlantılarınızı ve randevularınızı yönetin
+org.gnome.Extensions	GNOME Uzantılarını Yönet
+org.gnome.FileRoller	Sıkıştırılmış arşiv dosyalarını aç, değiştir ve oluştur
+org.gnome.Firmware	Aygıtlara donanım yazılımı kur
+org.gnome.five-or-more	Çizgiler oluşturarak renkli topları tahtadan kaldırın
+org.gnome.FontManager	Gtk+ Masaüstü Ortamları için basit bir yazı tipi yönetim uygulaması
+org.gnome.font-viewer	Sisteminizdeki yazı tiplerini görüntüleyin
+org.gnome.Four-in-a-row	Aynı renkten çizgiler yapmak için yarışın
+org.gnome.Fractal	Matrix küme mesajlaşma uygulaması
+org.gnome.frogr	GNOME için Flickr karşıya yükleyici
+org.gnome.gbrainy	gbrainy; bellek, aritmetik sözlü ve mantıksal yetenekleri eğitici oyundur.
+org.gnome.Geary	E-posta gönder ve al
+org.gnome.gedit	Metin düzenleyici
+org.gnome.Genius	Genius is a general purpose calculator program
+org.gnome.GHex	İkilik dosyaları inceleyin ve düzenleyin
+org.gnome.gitg	git için grafiksel kullanıcı arayüzü
+org.gnome.gitlab.bazylevnik0.Convolution	Maze escaping game
+org.gnome.gitlab.Cowsay	Cowsay, a state of the art Cowsay generator using GNOME conventions
+org.gnome.gitlab.dqpb.GMetronome	A tempo measurement tool for composers and musicians
+org.gnome.gitlab.ilhooq.Bookup	Markdown sözdizimi ile not almayı basitleştirin
+org.gnome.gitlab.johannesjh.favagtk	Do your finances using fava and beancount
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.gitlab.somas.Apostrophe	Markdown’ın tarzını düzenleyin
+org.gnome.gitlab.YaLTeR.Identity	Görüntüleri ve videoları karşılaştır
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Videoları hızlıca kırpın
+org.gnome.glabels-3	Etiketler, kart vizitler ve medya kapakları oluşturun.
+org.gnome.Glade	GTK+ uygulamaları için kullanıcı arabirim tasarımları oluştur ya da aç
+org.gnome.Gnote	Basit not alma uygulaması
+org.gnome.GTG	Personal tasks and TODO-list items organizer
+org.gnome.gThumb	Resimleri düzenle ve görüntüle
+org.gnome.Gtranslator	Uygulamaları ve kütüphaneleri çevir ve yerelleştir
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Hitori bulmaca oyununu oynayın
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Yapbozu çözmek için blokları kaydır
+org.gnome.LightsOff	Tüm ışıkları kapat
+org.gnome.Logs	Sistem için ayrıntılı olay günlüklerini görüntüle
+org.gnome.Lollypop	Müzik koleksiyonunuzu çalın ve düzenleyin
+org.gnome.Loupe	Resimleri göster
+org.gnome.Mahjongg	Karoları eşleştir ve panoyu temizle
+org.gnome.Maps	Dünya genelindeki yerleri bul
+org.gnome.meld	Dosyalarınızı karşılaştırın ve birleştirin
+org.gnome.Mines	Mayın tarlasından gizli mayınları temizle
+org.gnome.moserial	Seri uçbirim
+org.gnome.Music	Müzik derleminizi çalın ve yönetin
+org.gnome.NautilusPreviewer	Değişik türdeki dosyaları hızlıca görüntülemeyi sağlar
+org.gnome.NetworkDisplays	Masaüstünü Kablosuz Ekran özellikli aygıtlara aktarır
+org.gnome.Nibbles	Solucanı engellerin çevresinden geçirin
+org.gnome.Notes	GNOME için Notlar
+org.gnome.OCRFeeder	Tam OCR takımı
+org.gnome.OfficeRunner	Diz üstü ekranınızı kapatın ve koşmaya başlayın
+org.gnome.Photos	GNOME üzerinde fotoğraflarınıza erişin, yönetin ve paylaşın
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Gözde gösterilerinizi dinleyin
+org.gnome.Polari	IRC’deki insanlarla konuş
+org.gnome.PowerStats	Güç yönetimini gözlemle
+org.gnome.Quadrapassel	Düşen blokları bir araya oturt
+org.gnome.Recipes	GNOME loves to cook
+org.gnome.Reversi	Klasik reversi oyunundaki tahtanın hakimi ol, veya ters çevrilmiş türünü oyna
+org.gnome.Rhythmbox3	Müzik koleksiyonunuzu çalın ve yönetin
+org.gnome.Robots	Robotlardan kaçın ve onların birbirlerine çarpmalarını sağlayın
+org.gnome.seahorse.Application	Parolalarınızı ve şifreleme anahtarlarınızı yönetin
+org.gnome.Shotwell	Dijital fotoğraf yöneticisi
+org.gnome.SimpleScan	Resim ve belgelerinizin sayısal kopyasını oluşturun
+org.gnome.Snapshot	Resim ve video çek
+org.gnome.Solanum	Çalışma ve mola zamanlarını dengele
+org.gnome.SoundJuicer	Temiz arayüzlü ve basit seçenekli CD kopyalayıcısı
+org.gnome.SoundRecorder	GNOME için sade, çağdaş bir ses kaydedici
+org.gnome.Sudoku	Bu rakam yerleştirme bulmacasında mantıksal yeteneklerinizi sınayın
+org.gnome.SwellFoop	Renkli ve şekilli döşeme kümelerini kaldırarak ekranı temizle
+org.gnome.Tali	Zar atın ve puan kazanın
+org.gnome.Taquin	Karoları doğru yerlerine kaydır
+org.gnome.Tau	xi metin editorü için GTK ön yüzü
+org.gnome.Tetravex	Karoları bir kareye sığdırmak için yeniden sıralayın
+org.gnome.TextEditor	Metin dosyalarını düzenle
+org.gnome.Todo	Manage your tasks
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Filmleri oynat
+org.gnome.TwentyFortyEight	2048'i elde edin
+org.gnome.Weather	Hava durumunu ve tahminleri göster
+org.gnome.World.Citations	Kaynakçanızı yönetin
+org.gnome.World.Iotas	Basit not alma
+org.gnome.World.PikaBackup	Verilerini güvende tut
+org.gnome.World.Secrets	Parolalarınızı yönetin
+org.gnucash.GnuCash	Maliyet, hesap ve yatırımlarınızı yönetin
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	A High-Precision Spreadsheet Program
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnu.pspp	GNU PSPP is a program for statistical analysis of sampled data
+org.godotengine.Godot	Godot game engine editor
+org.godotengine.Godot3	Godot game engine editor
+org.godotengine.Godot3Sharp	Godot game engine editor
+org.godotengine.GodotSharp	Godot game engine editor
+org.goldcoinproject.goldcoin-qt	Discover the Gold Standard of Digital Currency.
+org.goldendict.GoldenDict	Dictionary lookup program
+org.gottcode.Connectagram	Kalıplarda yerleştirilmiş kelimeleri düzenle
+org.gottcode.CuteMaze	Labirentte hedefleri bul
+org.gottcode.FocusWriter	Tam ekran kelime işlemci
+org.gottcode.Gottet	Düşen blokların panosunu temizle
+org.gottcode.Hexalate	Renkleri eşleştirmek için daireleri döndürün
+org.gottcode.Kapow	Projeler için harcanan zamanı takip edin
+org.gottcode.NovProg	Wordcount graphing program
+org.gottcode.Peg-E	Jump pegs to eliminate them
+org.gottcode.Simsu	Fill in numbers to solve puzzles
+org.gottcode.Tanglet	Boggle'ın tek oyuncu çeştilemesidir
+org.gottcode.Tetzle	Tetris benzeri parçalı bir yap-boz oyunu
+org.gpodder.gpodder	Media aggregator and podcast client
+org.gpodder.gpodder-adaptive	Hem mobil hem de masaüstü cihazlar için medya toplayıcı ve podcast istemcisi
+org.gramps_project.Gramps	Şecere bilgilerini yönetin, şecere araştırması ve analizi gerçekleştirin
+org.greenfoot.Greenfoot	Yeşilayak
+org.grisbi.Grisbi	Kişisel finans yöneticisi
+org.groestlcoin.electrum-grs	Hafif Groestlcoin istemcisi
+org.groestlcoin.groestlcoin-qt	Groestlcoin eşler arası ağ düğümünü, cüzdanını ve GUI'sini tamamen doğruluyor
+org.gtaf.quran	Kelime Analizi, Renkli Tajweed, Tefsir ve Ses ile Kur'an'ı Kelimeyle İnceleyin
+org.gtimelog.GTimeLog	Göze batmadan zamanınızı takip edin
+org.gtkhash.gtkhash	Mesaj özetlerini veya toplamlarını sağlama hesabıyla
+org.guerinoni.qTsConverter	Qt çeviri dosyasını (ts) diğer formata (xlsx / csv) veya tam tersine dönüştürmek için basit bir araç.
+org.guitarix.Guitarix	Jack/Linux için sanal çok yönlü güçlendirme
+org.gustavoperedo.FontDownloader	Çevrimiçi kaynaklardan yazı tiplerini yükleyin
+org.hdfgroup.HDFView	HDF dosyalarına göz atın ve düzenleyin
+org.hedgewars.Hedgewars	Kirpilerle savaşmayı içeren eğlenceli sıra tabanlı topçu oyunu!
+org.hikounomizu.HikouNoMizu	Platform tabanlı, anime tarzı dövüş oyunu
+org.hlwd.sonofman	İncil çoklu dilleri, ücretsiz, çevrimdışı, reklamsız, Terminal için İngilizce, Fransızca, İtalyanca, İspanyolca, Portekizce.
+org.homelinuxserver.vance.biblereader	Kelimeyi Oku
+org.horizon_eda.HorizonEDA	Ücretsiz bir EDA paketi
+org.hydrogenmusic.Hydrogen	Gelişmiş davul makinesi
+org.icculus.tennix	Çok Oyunculu Tenis Oyunu
+org.imitationpickles.barbie	Help barbie the seahorse float on bubbles to the moon
+org.inkscape.Inkscape	Vektör Grafik Düzenleyici
+org.ioquake3.ioquake3	Free and open-source Quake 3 based engine
+org.jabref.jabref	Graphical Java application for managing BibTeX and biblatex (.bib) databases
+org.jacktrip.JackTrip	Connect and play with other musicians
+org.jamovi.jamovi	Real-time statistical spreadsheet
+org.jaspstats.JASP	Standard statistical analyses, both classical and Bayesian
+org.jdownloader.JDownloader	Download management tool
+org.jellyfin.JellyfinServer	The Free Software Media System
+org.jflap.JFLAP	Formal languages testing
+org.jitsi.jitsi-meet	Jitsi Meet - Secure, Simple and Scalable Video Conferences
+org.jreleaser.cli	Release projects quickly and easily with JReleaser
+org.js.nuclear.Nuclear	A electron based music player
+org.jupyter.JupyterLab	JupyterLab desktop application, based on Electron
+org.karapulse.Karapulse	Karaoke player with built-in web remote client
+org.kde.akregator	Haber beslemesi okuyucusu
+org.kde.alligator	Taşınabilir aygıtlar için besleme okuyucu
+org.kde.angelfish	Taşınabilir aygıtlar için web tarayıcısı
+org.kde.arianna	E-kitap Okuyucusu
+org.kde.ark	Arşivleme Aracı
+org.kde.artikulate	Telaffuz Eğitici
+org.kde.atlantik	Monopoly® benzeri Masa Oyunları
+org.kde.audiotube	Yakınsak YouTube Müzik İstemcisi
+org.kde.blinken	Bellek Geliştirme Oyunu
+org.kde.bomber	Bombalama Macera Oyunu
+org.kde.bovo	Satırda beş tahta oyunu
+org.kde.cantor	Matematik Yazılımı KDE Ön Ucu
+org.kde.choqok	Mini-günlük İstemcisi
+org.kde.digikam	Fotoğraf Yönetim Programı
+org.kde.dolphin	Dosya Yöneticisi
+org.kde.elisa	Çevrimiçi radyo desteğine sahip, sıkıntısız müzik çalar
+org.kde.falkon	Web Tarayıcısı
+org.kde.filelight	Disk kullanımına bakın ve kullanılmayan dosyaları silin
+org.kde.francis	Zamanınızı izleyin
+org.kde.gcompris	2-10 Yaş Arası Çocuklar için Çok Etkinlikli Eğitici Oyunlar
+org.kde.granatier	Bomberman Klonu
+org.kde.gwenview	Görsel Görüntüleyicisi
+org.kde.haruna	Qt/QML ve libmpv ile yapılmış, açık kaynaklı ortam oynatıcısı
+org.kde.Ikona	Ikona is a design companion to help you design icons
+org.kde.index	Dosyalarınızı yönetin
+org.kde.isoimagewriter	ISO Kalıbını bir USB Diske Yaz
+org.kde.itinerary	Sayısal yolculuk asistanı
+org.kde.juk	Müzik Çalar
+org.kde.kaffeine	Çoklu Ortam Oynatıcı
+org.kde.kalgebra	Grafik Hesap Makinesi
+org.kde.kalk	Çok Özellikli Hesap Makinesi
+org.kde.kalzium	Elementlerin Periyodik Tablosu
+org.kde.kamoso	Fotoğraf çekmek ve video yapmak için web kameranızı kullanın
+org.kde.kanagram	Harf Sırası Oyunu
+org.kde.kapman	Pac-Man Klonu
+org.kde.kasts	Pod yayını uygulaması
+org.kde.katomic	Sokoban benzeri Mantık Oyunu
+org.kde.kbibtex	Kaynakça dosyalarını LaTeX kullanarak düzenlemek için KDE BibTeX düzenleyicisi
+org.kde.kblackbox	Karakutu Mantık Oyunu
+org.kde.kblocks	Düşen Bloklar Oyunu
+org.kde.kbounce	K Zıpla, yapboz ögelerine sahip tek kişilik bir eğlence salonu oyunudur
+org.kde.kbreakout	KDE tarafından Breakout benzeri bir oyun
+org.kde.kbruch	Kesir Alıştırmaları Yap
+org.kde.kcachegrind	Profil Ön Yüzü
+org.kde.kcalc	Bilimsel Hesap Makinesi
+org.kde.kclock	Alarm, Sayaç, Kronometre, Dünya Saati
+org.kde.kcolorchooser	Renk seçici ve palet düzenleyici
+org.kde.kdenlive	Video Düzenleyicisi
+org.kde.kdevelop	Tam özellikli, eklenti ile geliştirilebilir, C/C++ ve diğer programlama dilleri için tümleşik geliştirme ortamı
+org.kde.kdiamond	K Elmas, KDE tarafından yapılan bir sıralı üçlü oyunudur
+org.kde.kdiff3	Bir dosya/klasör karşılaştırma ve birleştirme aracı
+org.kde.keysmith	İki Aşamalı Kod Oluşturucu
+org.kde.kfind	Dosya/Dizin Bul
+org.kde.kfourinline	KFourInLine, KDE tarafından yapılan bir dörtlü sıralama oyunudur
+org.kde.kgeography	Coğrafya öğrenme aracı
+org.kde.kgeotag	Coğrafi Fotoğraf Etiketleyicisi
+org.kde.kget	İndirme Yöneticisi
+org.kde.kgoldrunner	Altın Avla, Düşmanlarını Atlat ve Bulmacaları Çöz
+org.kde.kgraphviewer	Graphviz DOT graf görüntüleyici
+org.kde.khangman	Adam Asmaca Oyunu
+org.kde.kid3	Ses dosyası üstverisini düzenleyin
+org.kde.kig	Etkileşimli Geometri
+org.kde.kigo	Go Masaüstü Oyunu
+org.kde.kile	TeX/LaTeX Düzenleyici
+org.kde.killbots	Kazanmak için katil robotları alt edin
+org.kde.kimagemapeditor	HTML Görsel Haritası Düzenleyicisi
+org.kde.kiriki	Yahtzee benzeri Zar Oyunu
+org.kde.kiten	Japonca Başvuru ve Çalışma Aracı
+org.kde.kjumpingcube	Bölge Ele Geçirme Oyunu
+org.kde.kleopatra	Sertifika Yöneticisi ve Birleşik Şifreleme Arayüzü
+org.kde.klettres	Abeceyi Öğrenin
+org.kde.klickety	Kliketi, clickomania oyununa bir benzetmedir
+org.kde.klines	Taktik Oyunu
+org.kde.kmahjongg	Mahjongg Solitaire
+org.kde.kmines	Mayın Tarlası benzeri Oyun
+org.kde.kmplayer	MPlayer için bir KDE arayüzü
+org.kde.kmplot	Matematiksel İşlev Çizicisi
+org.kde.kmymoney	Çift girişli muhasebeye dayalı kişisel finans yöneticisi
+org.kde.knavalbattle	Savaş Gemisi Oyunu
+org.kde.knetwalk	K Geçit, sistem yöneticileri için bir oyundur
+org.kde.knights	Satranç oyunu
+org.kde.koko	Görsel Galerisi
+org.kde.kolf	Minyatür Golf
+org.kde.kollision	Sıradan bir top oyunu
+org.kde.kolourpaint	Boyama Programı
+org.kde.kommit	KDE için Git Grafik Kullanıcı Arayüzü
+org.kde.kompare	Diff/Yama Ön Yüzü
+org.kde.kongress	KDE Konferans yardımcı uygulaması
+org.kde.konquest	Galaktik Strateji Oyunu
+org.kde.konsole	Uçbirim
+org.kde.kontact	Tüm e-posta, takvim, kişiler ve daha fazlasını tek bir pencerede yönetin
+org.kde.kontrast	Bir Renk Karşıtlığı Denetleyicisi
+org.kde.konversation	IRC istemcisi
+org.kde.kpat	Solitaire kart oyunu
+org.kde.kphotoalbum	KDE görsel yönetim yazılımı
+org.kde.krdc	Başka bir bilgisayara RDP veya VNC ile bağlanın
+org.kde.krename	Güçlü bir toplu iş dosyası yeniden adlandırıcı
+org.kde.kreversi	Reversi Tahta Oyunu
+org.kde.krita	Sayısal Boyama, Yaratıcı Özgürlük
+org.kde.kronometer	Kronometre
+org.kde.kruler	Ekran Cetveli
+org.kde.ksirk	Dünya Hakimiyeti Strateji Oyunu
+org.kde.ksnakeduel	Tron benzeri Oyun
+org.kde.ksquares	Kare oluşturmak için noktaları birbirlerine bağla
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	Masaüstü Gezegenevi
+org.kde.ksudoku	Birden dokuza kadar sayıları kullanarak sayısal bir bulmaca tamamla
+org.kde.kteatime	Çaycı
+org.kde.ktimetracker	Personal Time Tracker
+org.kde.ktorrent	BitTorrent İstemcisi
+org.kde.ktouch	On Parmak Öğretici
+org.kde.ktrip	Toplu Taşıma için Yol Bulucu
+org.kde.ktuberling	Çocuklar ve yetişkinler için bir yapım oyunu
+org.kde.kturtle	Eğitimsel Programlama Ortamı
+org.kde.kubrick	3B Rubik Küpü Temelli Oyun
+org.kde.kuiviewer	Qt Designer UI Dosyası Görüntüleyicisi
+org.kde.kwalletmanager5	Cüzdan Yönetim Aracı
+org.kde.kweather	Hava Durumu Tahminleri/Diğer Bilgiler için Görüntüleyici
+org.kde.kwordquiz	Bilgi Kartı Çalıştırıcısı
+org.kde.kwrite	Metin Düzenleyicisi
+org.kde.kxstitch	Çapraz dikiş desen oluşturucu
+org.kde.labplot2	Etkileşimli Veri Görselleştirme ve Çözümleme
+org.kde.lokalize	Bilgisayar destekli çeviri sistemi
+org.kde.lskat	İki kişilik Alman kart oyunu Skat
+org.kde.marble	Sanal Küre
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	Müzik Eğitim Yazılımı
+org.kde.neochat	Merkezi olmayan iletişim protokolü Matrix için bir istemci
+org.kde.okteta	Bayt düzenleyici
+org.kde.okular	Belge Görüntüleyicisi
+org.kde.palapeli	Yapboz oyunu
+org.kde.parley	Söz Dağarcığı Çalıştırıcı
+org.kde.peruse	Comic Book Reader
+org.kde.picmi	Sayısal mantığa dayalı bir bulmaca oyunu
+org.kde.pix	Görsel Galerisi
+org.kde.plasmatube	YouTube Videolarını İzleyin
+org.kde.qmlkonsole	Taşınabilir uçbirim uygulaması
+org.kde.rocs	Rocs Grafik Kuramı
+org.kde.ruqola	Rocket.Chat İstemcisi
+org.kde.skanpage	Çok sayfalı belge tarama uygulaması
+org.kde.skrooge	Ev kullanımı için tek girişli muhasebe yönetimi
+org.kde.subtitlecomposer	Temel ve gelişmiş düzenleme işlemlerini destekleyen video altyazı düzenleyici
+org.kde.SymbolEditor	Çapraz köşe sembol düzenleyicisi
+org.kde.tellico	Koleksiyon Yöneticisi
+org.kde.telly-skout	Yakınsak bir Kirigami TV Kılavuzu
+org.kde.tokodon	Bir Mastodon parlaması
+org.kde.umbrello	UML Modelleyici
+org.kde.vvave	Müzik koleksiyonunuz çalındı
+org.kde.yakuake	Yukarıdan Aşağı Açılır Uçbirim
+org.keepassxc.KeePassXC	Windows uygulamasının topluluk odaklı bağlantı noktası “KeePass Password Safe”
+org.KekikAkademi.BTKSorgu	Hedef web sitesine Türkiye'den erişilebiliyor mu? (BTK)
+org.KekikAkademi.eFatura	Vergi veya TC Kimlik Numarasından E-Fatura Kullanım Sorgulama
+org.kekikakademi.ntvHaber	NTV.com.tr'den Türkçe Son Dakika Haberleri
+org.kicad.KiCad	Şematik ve devre kartı tasarımı için bir EDA paketi
+org.kiwix.desktop	Çevrimdışı içeriği görüntüle
+org.kosmospredanie.Yakblt	Basit bir kurşundan kaçma oyunu
+org.kryogenix.hushboard	Yazarken mikrofonunuzun sesini kapatın
+org.kryogenix.Pick	Bir renk seçici
+org.kryogenix.utm_no	Kopyalanan URL'lerden izleme parametrelerini kaldırın
+org.ksnip.ksnip	Ek açıklama özelliklerine sahip Çapraz Platform Ekran Görüntüsü aracı
+org.lamport.tla.toolbox	TLA+ Araç Kutusu, TLA+ araçlarına yönelik bir IDE'dir (entegre geliştirme ortamı).
+org.laptop.TurtleArtActivity	Bir araya getirilebilen görsel programlama bloklarıyla renkli resimler çizen, Logodan ilham alan bir kaplumbağa
+org.learningequality.Kolibri	Çevrimdışı eğitim teknolojisi platformu
+org.leocad.LeoCAD	LEGO tuğlalarıyla inşa edebileceğiniz sanal modeller tasarlayın
+org.librecad.librecad	2D Bilgisayar Destekli Tasarım (CAD)
+org.librehunt.Organizer	Dosyalarınızı düzenli kategoriler halinde düzenlemenizi sağlayan bir yardımcı program
+org.libreoffice.LibreOffice	LibreOffice üretkenlik paketi
+org.librepcb.LibrePCB	Tasarım Şemaları ve PCB'ler
+org.libretrainsim.Libre-TrainSim	Herkes için Ücretsiz Tren Simülatörü
+org.libretro.RetroArch	Emülatörler, oyun motorları ve medya oynatıcıları için ön uç
+org.libsdl.Maelstrom	Yüksek Kaliteli Asteroitler Klonu
+org.libvips.vipsdisp	Resim görüntüleyici
+org.linux_hardware.hw-probe	Bilgisayar donanımının çalışabilirliğini kontrol edin ve sürücüleri bulun
+org.linuxshowplayer.LinuxShowPlayer	Sahne prodüksiyonları için tasarlanmış işaret oynatıcısı
+org.localsend.localsend_app	Dosyaları yakındaki cihazlarla paylaşın
+org.love2d.love2d	LÖVE, Lua için harika bir 2D oyun çerçevesidir.
+org.lyx.LyX	Belge İşlemcisi
+org.mamedev.MAME	MAME çok amaçlı bir emülasyon çerçevesidir.
+org.manaplus.ManaPlus	The Mana World ve benzeri sunucular için genişletilmiş istemci
+org.mapeditor.Tiled	Genel amaçlı harita editörü
+org.mattbas.Glaxnimate	Vektör Animasyon Düzenleyicisi
+org.mattdm.icebreaker	Zıplayan penguenlerin yer aldığı bağımlılık yaratan bir aksiyon-bulmaca oyunu
+org.mavlink.qgroundcontrol	UAS yer kontrol istasyonu
+org.megaglest.MegaGlest	Gerçek zamanlı strateji oyunu (RTS)
+org.megamek.MegaMek	Altıgen tabanlı bir harita üzerinde dev robotları, tankları ve/veya piyadeleri kullanarak savaşın.
+org.mersenne.mprime	Ücretsiz Mersenne Prime Arama Yazılımı
+org.metal3d.scoreboard	Herhangi bir oyun için puan saymak için basit bir puan tablosu
+org.mfek.MFEKglif	Modüler Yazı Tipi Düzenleyicisi K projesi için Glif düzenleyici
+org.midori_browser.Midori	Hızlı ve hafif bir web tarayıcısı
+org.milkytracker.MilkyTracker	Fast Tracker II'den ilham alan müzik takip cihazı
+org.mixxx.Mixxx	Canlı DJ miksleri gerçekleştirmek için ihtiyacınız olan her şey
+org.mmass.mMass	Açık Kaynak Kütle Spektrometresi Aracı
+org.mobsya.ThymioSuite	Thymio'nun programlama arayüzlerine kolayca erişme
+org.moneymanagerex.MMEX	Finansmanı organize edin ve nakit kapasitelerini takip edin
+org.mosh.mosh	Mobil Kabuk
+org.mozilla.firefox	Hızlı, Özel ve Güvenli Web Tarayıcısı
+org.mozilla.Thunderbird	Thunderbird ücretsiz ve açık kaynaklı bir e-posta, haber akışı, sohbet ve takvim istemcisidir
+org.mpdevil.mpdevil	MPD için basit bir müzik tarayıcısı
+org.msweet.htmldoc	HTML Dönüştürme Yazılımı
+org.munadi.Munadi	Basit Ezan Uygulaması
+org.musescore.MuseScore	Güzel notalar oluşturun, oynatın ve yazdırın
+org.musicbrainz.Picard	MusicBrainz'in müzik etiketleyicisi
+org.mypaint.MyPaint	Dijital sanatçılar için resim programı
+org.naev.Naev	2D aksiyon/rpg uzay ticareti savaş oyunu
+org.nanuc.Axolotl	Axolotl, çapraz platformlu bir Signal istemcisidir
+org.netsurf_browser.NetSurf	CSS destekli küçük web tarayıcısı
+org.neverball.Neverball	Yuvarlanan Topu Birçok Kaygan 3D Seviyede Ustaca Yönlendirin
+org.nickvision.cavalier	CAVA ile sesleri görselleştirin
+org.nickvision.money	Kişisel mali tasarrufları yönetin
+org.nickvision.tagger	Müziklerinizi etiketleyin
+org.nickvision.tubeconverter	Web video ve seslerini indir
+org.nicotine_plus.Nicotine	Soulseek ağı için grafiksel gösterim
+org.nmap.Zenmap	Nmap Güvenlik Tarayıcısı için platformlar arası bir GUI
+org.nomacs.ImageLounge	nomacs ücretsiz, açık kaynaklı bir resim görüntüleyicidir
+org.nongnu.enigma	Yapboz oyunu
+org.nongnu.gsequencer.gsequencer	Gelişmiş Gtk+ Sıralayıcı
+org.nongnu.Xlog	Amatör Telsiz Operatörleri için kayıt programı
+org.nsnam.NetAnim	NetAnim, ns-3 için çevrimdışı bir animatördür
+org.nuspell.Nuspell	yazım denetleyicisi
+org.octave.Octave	Sayısal hesaplamalar için etkileşimli programlama ortamı
+org.olivevideoeditor.Olive	Doğrusal olmayan video düzenleyici
+org.omegat.OmegaT	Basit, açık kaynaklı bir çeviri belleği yöneticisi ve CAT aracı
+org.onionshare.OnionShare	Dosyaları güvenli ve anonim bir şekilde paylaşın, web sitelerini barındırın ve arkadaşlarınızla sohbet edin
+org.onlyoffice.desktopeditors	Ofis üretkenlik paketi
+org.openandroidinstaller.OpenAndroidInstaller	Alternatif Android dağıtımlarının kurulumunu güzel ve kolay hale getirir
+org.openchemistry.Avogadro2	Ücretsiz ve açık kaynaklı moleküler düzenleyici
+org.openclonk.OpenClonk	Küçük ve çevik insansıları kontrol ettiğiniz çok oyunculu aksiyon oyunu
+org.opencpn.OpenCPN	Kısa ve öz bir Harita Çizici ve Navigasyon yazılımı
+org.openfodder.OpenFodder	DOS strateji oyunu Cannon Fodder'ın açık kaynaklı bir bağlantı noktası.
+org.openhantek.OpenHantek6022	Hantek USB dijital sinyal osiloskopları 6022BE/BL için DSO yazılımı
+org.openjkdf2.OpenJKDF2	“Jedi Knight: Dark Forces II”nin platformlar arası yeniden uygulaması
+org.openkj.OpenKJ	Profesyonel karaoke barındırma yazılımı
+org.openmsx.openMSX	MSX'in tüm yönlerini yüksek doğrulukla taklit edin
+org.openmw.OpenMW	The Elder Scrolls III: Morrowind'in yeniden uygulanması
+org.opennumismat.OpenNumismat	Kendi kataloğunuzu organize etmek ve yönetmek için madeni para toplama yazılımı
+org.openrgb.OpenRGB	Üretici yazılımına bağlı olmayan açık kaynaklı RGB aydınlatma kontrolü.
+org.openscad.OpenSCAD	Programcılar Katı 3D CAD Modelleyici
+org.openscopeproject.TrguiNG	İletim torrent arka plan programı için Uzak GUI
+org.openshot.OpenShot	Kullanımı kolay, öğrenmesi hızlı ve şaşırtıcı derecede güçlü bir video düzenleyici
+org.openstreetmap.josm	Java OpenStreetMap Düzenleyicisi
+org.opensurge2d.OpenSurge	Sonic oyunlarından ve oyun oluşturma sisteminden ilham alan eğlenceli bir 2D retro platform oyunu
+org.opentransactions.metier	Çok para birimli blockchain cüzdanı ve Açık İşlem istemcisi
+org.openttd.OpenTTD	Transport Tycoon Deluxe'e dayanan açık kaynaklı simülasyon oyunu
+org.otfried.Ipe	Ipe genişletilebilir çizim düzenleyicisi
+org.pairinteraction.Pairinteraction	Rydberg Etkileşim Hesaplayıcısı
+org.paraview.ParaView	Veri analizi ve görselleştirme
+org.parlatype.Parlatype	Ortam oynatıcısı için konuşma çevirisi yazımı
+org.pegasus_frontend.Pegasus	Emülatörlerin başlatılması için çapraz platform, özelleştirilebilir grafiksel ön uç
+org.pencil2d.Pencil2D	Bitmap ve vektör grafiklerini destekleyen 2D animasyon yazılımı
+org.phoenicis.playonlinux	Linux'ta Windows yazılımını yükleyin ve çalıştırın
+org.photoqt.PhotoQt	Resimleri görüntüleyin ve yönetin
+org.pipewire.Helvum	PipeWire için Patchbay
+org.pitivi.Pitivi	Kendi filminizi yayınlayın ve birleştirin
+org.pjbroad.EternallandsClient	Eternal Lands, oynaması ücretsiz, grafiksel bir MMORPG'dir
+org.plomgrading.PlomClient	Plom çevrimiçi derecelendirme sistemi için not verme/notlandırma istemcisi
+org.polymc.PolyMC	Aynı anda birden fazla Minecraft kurulumunu kolayca yönetmenize olanak tanıyan özel bir Minecraft başlatıcısı
+org.ppsspp.PPSSPP	Bir PlayStation Taşınabilir emülatörü
+org.prismlauncher.PrismLauncher	Aynı anda birden fazla Minecraft kurulumunu kolayca yönetmenize olanak tanıyan özel bir Minecraft başlatıcısı
+org.processing.processingide	Açık kaynaklı yazılım prototip oluşturma platformu
+org.profex_xrd.Profex	Açık Kaynak XRD ve Rietveld İyileştirmesi
+org.pulseaudio.pavucontrol	Donanım aygıtlarının ve uygulamaların ses düzeyini ayarlayın
+org.purei.Play	Bir Playstation 2 emülatörü
+org.pydpainter.PyDPainter	Python'da yazılmış kullanışlı bir piksel sanatı boyama programı
+org.pymol.PyMOL	Moleküler görselleştirme ve ışın izleme
+org.pyzo.pyzo	Basitliği ve etkileşimi hedefleyen bir Python IDE
+org.qbittorrent.qBittorrent	Açık kaynaklı bir Bittorrent istemcisi
+org.qelectrotech.QElectroTech	Elektrik şeması düzenleyicisi
+org.qgis.qgis	Ücretsiz ve Açık Kaynak Coğrafi Bilgi Sistemi
+org.qownnotes.QOwnNotes	Markdown desteği ve Nextcloud / ownCloud entegrasyonu ile düz metin dosyalı not defteri
+org.quassel_irc.QuasselClient	Modern dağıtılmış IRC istemcisi
+org.quetoo.Quetoo	Mac, PC ve Linux için ücretsiz bir birinci şahıs nişancı oyunu
+org.qutebrowser.qutebrowser	Klavyeyle çalışan bir web tarayıcısı
+org.qxmledit.QXmlEdit	XML düzenleyici
+org.raceintospace.Raceintospace	1960'ların Uzay Yarışını yeniden yaşayacak bir oyun
+org.racket_lang.Racket	Dil Odaklı Programlama Dili
+org.radare.iaito	Radare2 tersine mühendislik çerçevesi için Qt ve C++ GUI
+org.raspberrypi.rpi-imager	Raspberry Pi görüntüleme yardımcı programı
+org.remmina.Remmina	Uzak Masaüstü İstemcisi
+org.rncbc.qpwgraph	PipeWire Grafiği Qt GUI Arayüzü
+org.rncbc.qsynth	Fluidsynth Qt GUI Arayüzü
+org.rncbc.qtractor	Bir Ses/MIDI çok kanallı sıralayıcı
+org.robocode.Robocode	En iyisini inşa et, gerisini yok et!
+org.rolisteam.rolisteam	Rolisteam Sunucusunun İstemci Yardımcısı
+org.ryujinx.Ryujinx	Bir Nintendo Switch Emülatörü
+org.sabnzbd.sabnzbd	Ücretsiz ve kolay ikili haber okuyucusu
+org.sauerbraten.Sauerbraten	Ücretsiz çok oyunculu ve tek oyunculu birinci şahıs nişancı oyunu, Cube FPS'nin halefi
+org.scantailor.ScanTailor	Taranan sayfalar için etkileşimli son işleme aracı
+org.scilab.Scilab	Sayısal hesaplamalar için bilimsel yazılım paketi
+org.scintilla.SciTE	SCIntilla tabanlı bir Metin Düzenleyici
+org.scummvm.ScummVM	Çok sayıda macera oyunu ve rol yapma oyununun tercümanı
+org.sdrangel.SDRangel	TX ve RX Yazılım Tanımlı Radyo
+org.seul.crimson	Sıra tabanlı bir taktik savaş oyunu
+org.shadered.SHADERed	HLSL ve GLSL gölgelendiricileri oluşturmaya ve test etmeye yönelik araç
+org.shadowsocks.qt5client	Gelişmiş özelliklere sahip yerel ve platformlar arası bir shadowsocks GUI istemcisi.
+org.shotcut.Shotcut	Video düzenleyici
+org.signal.Signal	Özel mesajlaşma
+org.sigxcpu.Livi	Cep telefonları için basit bir GTK4 tabanlı video oynatıcı
+org.sil.Bloom	Dil toplulukları için okuryazarlık materyalleri geliştirme
+org.sil.FieldWorks	Dil ve kültürel veri yönetimi
+org.skytemple.Randomizer	Pokémon Mystery Dungeon Explorers of Sky için Randomizer
+org.skytemple.SkyTemple	Pokémon Mystery Dungeon Explorers of Sky için ROM Editörü
+org.soapui.SoapUI	SoapUI OS, API'ler ve web hizmetleri için işlevsel bir test çözümüdür
+org.solarus_games.solarus.Launcher	Solarus görev koleksiyonunuza göz atın ve oynayın.
+org.sonic3air.Sonic3AIR	Sonic 3 ve Knuckles'ın hayran yapımı geniş ekran yeniden düzenlemesi.
+org.soundconverter.SoundConverter	Ses dosyalarını dönüştürün
+org.sparkleshare.SparkleShare	Magic kendi kendine barındırılan Git dosya senkronizasyonu
+org.speedcrunch.SpeedCrunch	Yüksek hassasiyetli bilimsel hesap makinesi
+org.speed_dreams.SpeedDreams	Speed Dreams, 3 boyutlu, çapraz platformlu, açık kaynaklı bir motor sporları simülasyonu ve yarış oyunudur
+org.sqlitebrowser.sqlitebrowser	DB Tarayıcı for SQLite, SQLite veritabanları için hafif bir GUI düzenleyicisidir
+org.squeakland.Etoys	Görsel programlamayla öğrenin
+org.squey.Squey	Verilerinizi keşfedin
+org.squidowl.halloy	Rust'ta yazılmış IRC istemcisi
+org.srb2.SRB2	Doom Legacy'nin değiştirilmiş bir versiyonunu temel alan bir 3D Sonic the Hedgehog hayran oyunu
+org.srb2.SRB2Kart	3D Sonic the Hedgehog hayran oyunu Sonic Robo Blast 2'yi temel alan bir kart yarışı modu
+org.srb2.SRB2Kart-galaxy	Modifiye edilmiş SRB2Kart birçok özel özellik ekliyor
+org.srb2.SRB2Kart-galaxy_azerty	Modifiye edilmiş SRB2Kart, azerty fransız klavye düzeniyle birçok özel özellik ekliyor
+org.srb2.SRB2Kart-Saturn	Modifiye edilmiş SRB2Kart birçok özel özellik ekliyor
+org.srb2.SRB2Persona	3D Sonic the Hedgehog hayran oyunu Sonic Robo Blast 2'yi temel alan, Persona'dan ilham alan bir mod
+org.standardnotes.standardnotes	Notlarınız, düşünceleriniz ve hayatınızın çalışmaları için basit ve özel bir yer
+org.stellarium.Stellarium	Masaüstü Gökevi
+org.stochas.Stochas	Stochas sıralayıcı
+org.strawberrymusicplayer.strawberry	Bir müzik çalar ve koleksiyon düzenleyici
+org.subsurface_divelog.Subsurface	Dalış bilgisayarı verilerini yönetin ve görüntüleyin
+org.subtitld.Subtitld	Subtitld, altyazı oluşturmak ve düzenlemek için kullanılan bir yazılımdır
+org.sugarlabs.AbacusActivity	Basit aritmetik hesaplamalar için bir araç
+org.sugarlabs.Chart	Grafiklerinizi oluşturun
+org.sugarlabs.Chess	Tatlı bir satranç oyunu
+org.sugarlabs.ColorDeducto	Mantıksal tümevarıma dayalı bir oyun
+org.sugarlabs.Dimensions	Bir desen eşleştirme oyunu
+org.sugarlabs.Finance	Finansal planlamanın temellerini öğrenin
+org.sugarlabs.FotoToon	Kendi çizgi romanını yarat
+org.sugarlabs.FractionBounce	Kesirler hakkında bir oyun
+org.sugarlabs.ImplodeActivity	Aynı renkteki blokları hepsi bitene kadar patlatın
+org.sugarlabs.Maze	Basit bir labirent oyunu
+org.sugarlabs.Measure	Mikrofon girişini görselleştirmek için osiloskop programı
+org.sugarlabs.Memorize	Eşleşen çiftleri bulun
+org.sugarlabs.MusicBlocks	Temel müzik kavramlarını eğlenceli bir şekilde keşfetmeye yönelik araçlardan oluşan bir koleksiyon.
+org.sugarlabs.MusicKeyboard	Bu piyano klavyesiyle müzik çalın
+org.sugarlabs.Paint	Tatlı bir boyama aracı
+org.sugarlabs.Physics	Sör Isaac Newton'un doğruluğunu kanıtlayın
+org.sugarlabs.Pippy	Python'da bilgisayarınızla konuşun
+org.sugarlabs.Pukllanapac	Kayan bulmaca oyunu
+org.sugarlabs.ReadETexts	Binlerce ücretsiz e-kitap okuyun
+org.sugarlabs.Sliderule	Mekanik bir hesap makinesi
+org.sugarlabs.SolarSystem	Gezegenler hakkında bilgi edinin
+org.sugarlabs.Speak	Yazdığınız her şeyi söyleyen hareketli bir yüz
+org.sugarlabs.StoryActivity	Bir hikaye anlatmak
+org.sugarlabs.SwiftFeet	Ayağa kalk ve dans et!
+org.sugarlabs.TurtlePondActivity	Kaplumbağa ekrandan çıkmadan önce etrafını sarın
+org.sugarlabs.Words	Çok dilli bir çevrimdışı sözlük
+org.supertuxproject.SuperTux	Penguen Tux'un oynadığı bir zıpla-kaç oyunu
+org.surge_synth_team.surge-xt	Surge XT Synthesizer Bağımsız
+org.synfig.SynfigStudio	2D animasyonlar ve kompozisyonlar oluşturun ve düzenleyin
+org.syphon.Syphon	gizliliğiniz ve özgürlüğünüz bozulmadan sohbet edin
+org.tabos.maxcontrol	Max için kontrol yazılımı! cihazlar
+org.tabos.roger	AVM FRITZ!Box veya uyumlu için Günlük, Faks Yazılımı ve Çağrı İzleme
+org.tabos.saldo	Banka hesaplarınızı kontrol edin
+org.tabos.twofun	İki oyuncu için dokunmatik tabanlı reaksiyon oyunu.
+org.taisei_project.Taisei	Tōhō evreninde geçen kurşun cehennemi onları vur oyunu
+org.telegram.desktop	Hızlı. Güvenli. Güçlü.
+org.telesculptor.TeleSculptor	Havadan videoya odaklanılarak tasarlanmış fotogrametri
+org.tenacityaudio.Tenacity	Ses dosyalarını kaydedin ve düzenleyin
+org.texstudio.TeXstudio	LaTeX düzenleyici
+org.thentrythis.Samplebrain	Aphex Twin tarafından tasarlanan özel bir örnek mashing uygulaması
+org.thonny.Thonny	Yeni başlayanlar için Python IDE'si
+org.tigervnc.vncviewer	VNC sunucusuna bağlanın ve uzak masaüstünü görüntüleyin
+org.tildearrow.furnace	Açık kaynaklı chiptune izleyici
+org.tomviz.Tomviz	Nano ölçekli malzemelerin ücretsiz ve açık kaynaklı tomografik görselleştirilmesi
+org.tordini.flavio.Minitube	YouTube uygulaması
+org.torproject.torbrowser-launcher	Tor Tarayıcı Paketini indirmenize, güncel tutmanıza ve çalıştırmanıza yardımcı olacak bir program
+org.tribler.Tribler	Bittorrent'i anonim ve kapatılması imkansız hale getirmeye doğru.
+org.tropy.Tropy	Araştırma fotoğraflarınızı keşfedin
+org.tryton.Tryton-68	Tryton Uygulama Platformu İstemcisi
+org.tryton.Tryton-70	Tryton Uygulama Platformu İstemcisi
+org.tug.texworks	TeXworks, TeX belgelerii düzenleme, dizme ve boşaltmak için basit bir ortamdır
+org.turbowarp.TurboWarp	Projeleri daha hızlı çalıştırmak için derleyicili bir Scratch modu, karanlık mod, bir dizi eklenti ve daha fazlası
+org.tuxemon.Tuxemon	Tuxemon ücretsiz, açık kaynaklı, canavarlarla savaşan bir RPG'dir.
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon emülatörü
+org.tuxfamily.StuntRally	Ralli sürüş tarzına sahip yarış oyunu
+org.tuxfamily.XMoto	2D motokros platform oyunu
+org.tuxpaint.Tuxpaint	Çocuklar için bir çizim programı
+org.tvbrowser.TVBrowser	Ücretsiz bir EPG
+org.twinery.Twine	Twine, etkileşimli, doğrusal olmayan hikayeler anlatmaya yönelik açık kaynaklı bir araçtır
+org.ultimatepp.TheIDE	Platformlar arası U++ uygulama geliştirme çerçevesi için IDE
+org.unitystation.StationHub	Açık kaynaklı oyun Unitystation için başlatıcı
+org.unknown_horizons.UnknownHorizons	Açık Kaynaklı Gerçek Zamanlı Ekonomi Simülasyon Oyunu
+org.upnproutercontrol.UPnPRouterControl	UPnP uyumlu yönlendiricileri yöneten basit bir program
+org.upscayl.Upscayl	Ücretsiz ve Açık Kaynaklı Yapay Zeka Görüntü Yükseltici
+org.v1993.NXDumpClient	Nxdumptool ile USB üzerinden döküm için istemci
+org.verapdf.veraPDF	veraPDF, PDF/A arşivleme standardı için bir dosya formatı doğrulayıcıdır
+org.vergecurrency.verge-qt	VergeCurrency, Güvenli ve kullanıcı dostu bir dijital para birimi.
+org.vertcoin.vertcoin-qt	Vertcoin eşler arası ağ düğümünü, cüzdanını ve GUI'sini tamamen doğruluyor
+org.videolan.VLC	VLC medya oynatıcı, açık kaynaklı multimedya oynatıcı
+org.viking.Viking	GPS Veri Düzenleyicisi ve Analizörü
+org.vim.Vim	Her yerde bulunan metin editörü
+org.vinegarhq.Vinegar	Roblox için özelliklerle dolu küçük ve hızlı bir önyükleyici
+org.virt_manager.virt-viewer	Sanal makinelere uzaktan erişim
+org.virtualxt.VirtualXT	Turbo PC/XT emülatörü
+org.wesnoth.Wesnoth	Yüksek fantezi temasına sahip sıra tabanlı bir strateji oyunu
+org.wezfurlong.wezterm	GPU ile hızlandırılmış platformlar arası terminal emülatörü ve çoklayıcı
+org.wfview.wfview	Icom alıcı-vericileri için Açık Kaynak arayüzü
+org.widelands.Widelands	Gerçek zamanlı inşa stratejisi oyunu
+org.winehq.Wine	Windows uygulamalarını Linux, BSD, Solaris ve Mac OS X'te çalıştırın
+org.wireshark.Wireshark	Wireshark dünyanın önde gelen protokol analizörüdür
+org.worldpossible.ScriptLauncher	Kabuk komut dosyalarını kök ayrıcalıklarıyla çalıştırmaya yönelik bir araç
+org.wxhexeditor.wxHexEditor	Gelişmiş büyük dosya hex düzenleyicisi
+org.xfce.mousepad	Mousepad, Xfce Mobil Ortamı için basit bir metin bağlantısıdır
+org.xfce.ristretto	Hızlı ve hafif resim görüntüleyici
+org.xiphos.Xiphos	İncil Çalışma Kılavuzu
+org.xnec2c.Xnec2c	Anten radyasyon modellerini modellemek için NEC2'yi temel alan çok iş parçacıklı bir EM aracı
+org.xonotic.Xonotic	Çok oyunculu, ölüm maçı odaklı birinci şahıs nişancı
+org.x.Warpinator	Ağ Üzerinden Dosya Gönderin ve Alın
+org.yamagi.YamagiQ2	Yamagi Quake II, id Software'in Quake II'sine alternatif bir istemcidir
+org.yuzu_emu.yuzu	Nintendo Switch emülatörü
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) popüler bir ücretsiz güvenlik aracıdır.
+org.zdoom.GZDoom	Tüm klasik kimlik oyunları için klasik birinci şahıs nişancı motoru
+org.zealdocs.Zeal	Dokümantasyon tarayıcısı
+org.zim_wiki.Zim	Masaüstü wiki'ye not yazma
+org.zirael.bkchem.BKChem	Molekül çizim programı
+org.zotero.Zotero	Araştırmaları toplayın, düzenleyin, alıntı yapın ve paylaşın
+org.zrythm.Zrythm	Dijital ses iş istasyonu
+org.zulip.Zulip	Linux için Zulip Masaüstü İstemcisi
+page.codeberg.DrRac27.Karoto	Linux mobile için bir alışveriş listesi uygulaması
+page.codeberg.Imaginer.Imaginer	Yapay zeka ile hayal edin
+page.codeberg.JakobDev.CCLite	Bir ComputerCraft Emülatörü
+page.codeberg.JakobDev.jdAnimatedImageEditor	Animasyonlu Görüntüler oluşturmak için basit bir program
+page.codeberg.JakobDev.jdAppStreamEdit	AppStream dosyalarını oluşturmak ve düzenlemek için grafiksel bir Program
+page.codeberg.JakobDev.jdDBusDebugger	Gelişmiş bir D-Bus Hata Ayıklayıcı
+page.codeberg.JakobDev.jdDesktopEntryEdit	Masaüstü Girişlerini oluşturmak ve düzenlemek için grafiksel bir Program
+page.codeberg.JakobDev.jdDiff	Grafiksel bir platformlar arası fark görüntüleyici
+page.codeberg.JakobDev.jdEolConverter	Bir dizindeki tüm dosyaların Satır Sonunu dönüştürür
+page.codeberg.JakobDev.jdFlatpakSnapshot	Flatpak Uygulamalarının Anlık Görüntülerini oluşturmak için bir Program
+page.codeberg.JakobDev.jdMinecraftLauncher	Klasik tarza sahip bir Minecraft Başlatıcısı
+page.codeberg.JakobDev.jdMrpackInstaller	Modrinth mod paketlerini yükleyin
+page.codeberg.JakobDev.jdNBTExplorer	Minecraft NBT dosyaları için bir Düzenleyici
+page.codeberg.JakobDev.jdPixelUpscaler	Piksel Başına Lüks Görüntüler
+page.codeberg.JakobDev.jdProcessFileWatcher	Herhangi bir işlem için gerçek zamanlı dosya erişimini zahmetsizce izleyin ve görüntüleyin
+page.codeberg.JakobDev.jdReplace	jdReplace ile bir dizinin tüm dosyalarındaki metni değiştirebilirsiniz
+page.codeberg.JakobDev.jdSimpleAutostart	Otomatik başlatma girişlerini düzenleyin
+page.codeberg.JakobDev.jdTextEdit	Gelişmiş bir metin düzenleyici
+page.codeberg.lazyt.ubpm	Kan basıncı verilerini yönetin
+page.codeberg.libre_menu_editor.LibreMenuEditor	Menüyü özelleştirin
+page.codeberg.papojari.Find_Billy	Bir piksel sanatı 2d platform oyunu.
+page.codeberg.Qwel.egui_picross	Temel bir picross, nonogram, kalbur oyunu
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita Oyunu bir köpeğin etrafında şekilleniyor
+page.codeberg.tpikonen.geobug	Konumunuzu kontrol edin ve bir GPX parkuruna kaydedin
+page.codeberg.tpikonen.satellite	GPS alımınızı kontrol edin ve parkurlarınızı kaydedin
+page.codeberg.yeldham.Librerama	Mini oyunlardan oluşan ücretsiz/libre hızlı tempolu bir arcade koleksiyonu
+party.supertux.supertuxparty	FLOSS maskotlarının oynadığı bir parti oyunu
+pl.art.lach.slawek.V2BlankBrowser	Önemsiz ekranı olmayan Web Tarayıcısı
+pl.nieto.fityk	Doğrusal olmayan eğri uydurma ve veri analizi
+pl.youkai.lanchat	LAN sohbeti ve dosya aktarımı
+pl.youkai.nscan	Ağ tarayıcısı.
+pm.mirko.Atoms	Chroot ve Konteynerleri yönetin.
+pro.vpup.vpuppr	Godot 3.4 ile yapılan VTuber uygulaması
+radio.k0swe.Kel_Agent	Amatör radyo web ajanı
+re.chiaki.Chiaki	PlayStation Remote Play için Ücretsiz ve Açık Kaynak İstemcisi
+re.rizin.cutter	Rizin ve Qt tarafından desteklenen Ücretsiz ve Açık Kaynak Tersine Mühendislik Platformu
+re.sonny.Commit	Commit metin güncel
+re.sonny.Junction	Uygulama seçici
+re.sonny.OhMySVG	SVG'lerin boyutunu azaltın
+re.sonny.Playhouse	HTML/CSS/JavaScript için oyun alanı
+re.sonny.Retro	Özelleştirilebilir bir retro dijital segment saati
+re.sonny.Tangram	Tarayıcı için sabitlenmiş sekmeleriniz
+re.sonny.Workbench	GNOME teknolojileriyle öğrenin ve prototip yapın
+rest.insomnia.Insomnia	GraphQL, REST ve gRPC için Açık Kaynak API İstemcisi ve Tasarım Platformu.
+rocks.koreader.KOReader	DjVu, PDF, EPUB ve daha fazlası için belge görüntüleyici
+ro.fxdata.taskmonitor.viewer	TaskMonitor verilerini görselleştirin
+ro.go.hmlendea.DL-Desktop	Dil öğrenme uygulaması Duolingo için resmi olmayan masaüstü istemcisi
+ro.go.hmlendea.SokoGrump	Huysuz Kedi'nin yer aldığı Sokoban benzeri mantık oyunu
+ro.hume.cosmin.ShoppingList	GNU/Linux mobil cihazları için bir alışveriş listesi uygulaması
+ru.proninyaroslav.libretrack	Özel, platformlar arası paket takip uygulaması
+ru.sview.sView	Stereoskopik Medya Oynatıcı
+ru.yandex.Browser	Yandex'in web tarayıcısı
+sa.sy.bluerecorder	Linux masaüstü için basit bir ekran kaydedici. Wayland ve Xorg'u destekler
+se.cendio.tlclient	Açık kaynak teknolojisi üzerine kurulu Linux uzak masaüstü sunucusu
+se.emijoh.mpw	İhtiyacınız olduğunda bir sitenin şifresini hesaplayın.
+se.manyver.Manyverse	merkezi olmayan sosyal ağ
+se.sjoerd.GIScan	Cbf formatında saklanan GISAXS verilerini okuyun ve analiz edin
+se.sjoerd.Graphs	Verileri çizin ve yönetin
+sh.cider.Cider	Açık kaynak ve topluluk odaklı bir Apple Music istemcisi
+sh.fhs.KatawaShoujoReEngineered	Klasik bishoujo tarzı görsel romanın modern versiyonu
+sh.ppy.osu	Kazanması ücretsiz bir ritim oyunu. Ritim sadece bir *tık* uzakta!
+sh.xaviers.Opentapes	Hip-Hop mixtape'lerini dinleyin
+si.tano.Vremenar	Hava koşullarını ve tahminleri harita üzerinde hızlı ve basit bir şekilde görüntüleyin
+site.someones.Lonewolf	Görevlerinizi kolaylıkla ve esneklikle organize edin ve takip edin
+sm.puri.Chatty	Mobil ve Kişisel için mesajlaşma uygulaması
+social.whalebird.WhalebirdDesktop	Whalebird, masaüstü için bir Mastodon, Pleroma ve Misskey istemcisidir
+so.libdb.gtkcord4	Go'da GTK4 Discord istemcisi
+so.onekey.Wallet	Hepsi bir arada kripto cüzdanı.
+space.fips.Fips	OpenGL tabanlı FITS resim görüntüleyici
+space.nouspiro.tenmon	FITS/XISF resim görüntüleyici, dönüştürücü, dizin ve arama
+studio.kx.carla	Ses Eklentisi Sunucusu
+tech.feliciano.pocket-casts	Çevrimiçi podcast oynatıcı
+tk.deat.Jazz2Resurrection	Jazz Jackrabbit 2'nin yeniden uygulanması
+tr.gov.uyap.Editor	UYAP Doküman Düzenleyici, UYAP sisteminde UDF dokümanlarını görüntülemek ve oluşturmak için kullanılan bir uygulamadır.
+tv.kodi.Kodi	Üstün eğlence merkezi
+tv.plex.PlexDesktop	Masaüstü bilgisayarlar için Plex istemcisi
+tv.plex.PlexHTPC	Büyük ekran için Plex HTPC istemcisi
+tw.ddnet.ddnet	Şimdiye kadarki en zor ortak 2D platform oyunu
+ua.org.brezblock.q4wine	Şarap uygulamaları ve önek yönetimi için yardımcı program
+uk.co._69_studios.kublit	69 Studios'tan yepyeni orijinal bulmaca oyunu
+uk.co.electronstudio.ComicReaderUltimate	Sabit fikirli bir CBZ izleyicisi
+uk.co.mangobrain.Infector	Klasik iki ila dört oyunculu masa oyunu Ataxx'ı oynayın
+uk.co.parallelrealities.games.edgar	2D Macera Platform Oyunu
+uk.co.powdertoy.tpt	Fizik sandbox oyunu
+uk.et1.big-finish-downloader	Big Finish Koleksiyonunuzu indirmek için bir GTK uygulaması
+uk.jnthn.backgammony	Çok oyunculu desteğe sahip bir tavla arayüzü
+uk.me.doof.Lander	Lunar Lander tarzı bir arcade oyunu.
+uk.org.greenend.chiark.sgtatham.putty	SSH, Telnet ve Rlogin istemcisi
+uk.org.greenend.chiark.sgtatham.puzzles	Bulmaca oyunu koleksiyonu
+uk.org.zint.zint-qt	Barkod oluşturucu
+us.ihmc.cmap.CmapTools	Kullanıcıların kavram haritaları oluşturmasına ve paylaşmasına olanak tanır.
+us.zoom.Zoom	Video Konferans, Web Konferans, Web Seminerleri, Ekran Paylaşımı
+vet.rsc.OpenRSC.Launcher	Açık RuneScape Klasik Sunucuları için Başlatıcı
+vn.hoabinh.quan.CoBang	Linux Masaüstü için QR kod tarayıcı
+website.i2pd.i2pd	Görünmez İnternet
+work.openpaper.Paperwork	Kişisel belge yöneticisi
+ws.openarena.OpenArena	Ücretsiz ve açık kaynak birinci şahıs nişancı
+xyz.aguno.CubeTimer	StackMat gibi ama Linux için
+xyz.armcord.ArmCord	ArmCord, her şeyi hafif tutarken Discord deneyiminizi geliştirmek için tasarlanmış özel bir istemcidir.
+xyz.audiostellar.AudioStellar	Yapay zeka destekli deneysel örnekleyici
+xyz.eclipium.Hieroctive	Hiyeroglifleri öğrenmek için eğlenceli bir hafıza oyunu!
+xyz.eclipium.TetraSwap	Basit ama zorlu bir fütüristik bulmaca oyunu!
+xyz.hyperplay.HyperPlay	Gelecekten Web3 oyun başlatıcısı. Cüzdanınızı, NFT'lerinizi, jetonlarınızı ve başarılarınızı her oyuna taşıyın.
+xyz.ketok.Speedtest	İnternet bağlantı hızınızı ölçen
+xyz.kusma.aurora	Aşırılıktan Aurora
+xyz.ljoonal.neospeeps	NeosVR gözetlemelerini ve oturumlarını listeleyen hafif bir uygulama
+xyz.mx_moment.moment	Özelleştirilebilir ve klavyeyle çalıştırılabilen Matrix istemcisi
+xyz.rescribe.rescribe	Resimler, PDF'ler ve Google Kitaplar için yüksek kaliteli OCR.
+xyz.safeworlds.hiit	Yüksek yoğunluklu aralıklı antrenman için zamanlayıcı saati
+xyz.safeworlds.midiconn	Sanal MIDI hub'ı
+xyz.slothlife.Jogger	Fitness takipçisi
+xyz.splashmapper.Splash	Video haritalama yazılımı
+xyz.stuerz.BilligSweeper	Mayın Tarlası'nın ucuz bir klonu
+xyz.tytanium.DoorKnocker	Portalların kullanılabilirliğini denetler
+xyz.woxel.Woxel	Minecraft'a benzer Açık Kaynak 3D voksel düzenleyici
+xyz.xclicker.xclicker	x11 linux masaüstü bilgisayarlar için hızlı gui otomatik tıklayıcı
+xyz.z3ntu.razergenie	Razer cihazlarınızı yapılandırın ve kontrol edin

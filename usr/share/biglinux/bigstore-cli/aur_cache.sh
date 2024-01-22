@@ -25,8 +25,8 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 # Load config file
+# shellcheck source=/usr/share/biglinux/bigstore-cli/config.sh
 . /usr/share/biglinux/bigstore-cli/config.sh
 
 # Folder to save list of packages
@@ -42,9 +42,7 @@ originalJsonFile="$cacheFolder/packages-meta-ext-v1.json"
 
 # verify if exist '/var/tmp/pamac/aur_filtered.json' and if is less than 10MB
 if [[ ! -e $originalJsonFile || $(stat -c %s "$originalJsonFile") -le 10485760 ]]; then
-    if [[ $? -eq 0 ]]; then
-        echo "Cache file '$originalJsonFile' not found or less than 10MB, attempting download now."
-    fi
+    echo "Cache file '$originalJsonFile' not found or less than 10MB, attempting download now."
 
     aur_download.sh
     if [[ $? -eq 0 ]]; then
@@ -189,11 +187,27 @@ if [[ "$DisableTranslate" == "false" ]]; then
             # Append the package info to the output string
             # The separator variable is used to add a comma and newline after each package info
             # out separator have lot of \ because need scape the "
-            out = out separator "{\"p\":\"" package "\",\"d\":\"" description_to_use "\",\"v\":\"" version "\",\"i\":\"true\",\"iver\":\"" installed_version "\",\"up\":\"" update_available "\",\"vote\":\"" numvotes "\",\"pop\":\"" popularity "\",\"ood\":\"" outofdate "\",\"maint\":\"" maintainer "\"}";
+            out = out separator "{\"p\":\""package\
+                                "\",\"d\":\""description_to_use\
+                                "\",\"v\":\""version\
+                                "\",\"i\":\"true\",\"iver\":\""installed_version\
+                                "\",\"up\":\""update_available\
+                                "\",\"vote\":\""numvotes\
+                                "\",\"pop\":\""popularity\
+                                "\",\"ood\":\""outofdate\
+                                "\",\"maint\":\""maintainer"\"}";
 
         } else {
             # Same as above, but for packages that are not installed
-            out = out separator "{\"p\":\"" package "\",\"d\":\"" description_to_use "\",\"v\":\"" version "\",\"i\":\"false\",\"iver\":\"" null "\",\"up\":\"" null "\",\"vote\":\"" numvotes "\",\"pop\":\"" popularity "\",\"ood\":\"" outofdate "\",\"maint\":\"" maintainer "\"}";
+            out = out separator "{\"p\":\""package\
+                                "\",\"d\":\""description_to_use\
+                                "\",\"v\":\""version\
+                                "\",\"i\":\"false\",\"iver\":\""null\
+                                "\",\"up\":\""null\
+                                "\",\"vote\":\""numvotes\
+                                "\",\"pop\":\""popularity\
+                                "\",\"ood\":\""outofdate\
+                                "\",\"maint\":\""maintainer"\"}";
         }
         separator = ",\n";
     }
@@ -260,15 +274,30 @@ else
             # Append the package info to the output string
             # The separator variable is used to add a comma and newline after each package info
             # out separator have lot of \ because need scape the "
-            out = out separator "{\"p\":\"" package "\",\"d\":\"" description "\",\"v\":\"" version "\",\"i\":\"true\",\"iver\":\"" installed_version "\",\"up\":\"" update_available "\",\"vote\":\"" numvotes "\",\"pop\":\"" popularity "\",\"ood\":\"" outofdate "\",\"maint\":\"" maintainer "\"}";
+            out = out separator "{\"p\":\""package\
+                                "\",\"d\":\""description\
+                                "\",\"v\":\""version\
+                                "\",\"i\":\"true\",\"iver\":\""installed_version\
+                                "\",\"up\":\""update_available\
+                                "\",\"vote\":\""numvotes\
+                                "\",\"pop\":\""popularity\
+                                "\",\"ood\":\""outofdate\
+                                "\",\"maint\":\""maintainer"\"}";
 
         } else {
             # Same as above, but for packages that are not installed
-            out = out separator "{\"p\":\"" package "\",\"d\":\"" description "\",\"v\":\"" version "\",\"i\":\"false\",\"iver\":\"" null "\",\"up\":\"" null "\",\"vote\":\"" numvotes "\",\"pop\":\"" popularity "\",\"ood\":\"" outofdate "\",\"maint\":\"" maintainer "\"}";
+            out = out separator "{\"p\":\""package\
+                                "\",\"d\":\""description\
+                                "\",\"v\":\""version\
+                                "\",\"i\":\"false\",\"iver\":\""null\
+                                "\",\"up\":\""null\
+                                "\",\"vote\":\""numvotes\
+                                "\",\"pop\":\""popularity\
+                                "\",\"ood\":\""outofdate\
+                                "\",\"maint\":\""maintainer"\"}";
         }
         separator = ",\n";
     }
-
 
     # END is run after the last line is read, and just execute one time
     END {

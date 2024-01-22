@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	密碼管理器：在所有平台和裝置上確保您的密碼安全
+app.bbsync.BlackboardSync	將 Blackboard Learn 內容下載到您的設備
+app.bluebubbles.BlueBubbles	適用於 Linux 的 BlueBubbles 用戶端
+app.cantara.Cantara	一個簡單、輕量級但功能強大的程序，用於在教會、小組或卡拉 OK 派對上展示歌曲。
+app.drey.Biblioteca	GNOME 文件檢視器
+app.drey.Blurble	猜詞遊戲
+app.drey.Damask	自動設定來自網路來源的桌布影像
+app.drey.Dialect	語言之間的翻譯
+app.drey.EarTag	編輯音訊檔案標籤
+app.drey.Elastic	設計彈簧動畫
+app.drey.KeyRack	查看和編輯應用程式機密
+app.drey.MultiplicationPuzzle	解開一個數學謎題
+app.drey.Warp	快速安全的文件傳輸
+app.feeddeck.feeddeck	關注您的 RSS 和社交媒體源
+app.getclipboard.Clipboard	隨時隨地剪下、複製和貼上任何內容
+app.getspace.Space	抽認卡的間隔重複
+app.gummi.gummi	簡單的 LaTeX 編輯器
+app.kaiteki.Kaiteki	舒適的 SNS 用戶端，無處不在
+app.lith.Lith	微信中繼客戶端
+app.midterm.MidtermDesktop	一款免費的學習筆記應用程式。
+app.moosync.moosync	可自訂的音樂播放器
+app.organicmaps.desktop	適合旅行者、遊客、徒步旅行者、司機和騎自行車者的免費離線地圖應用程式
+app.rednotebook.RedNotebook	圖文日記和日記
+app.riftshare.RiftShare	簡單、安全、免費的文件共享。使用魔法蟲洞跨平台檔案共享
+app.vup.Vup	具有整合媒體伺服器的開源端對端加密雲端儲存應用程式
+app.xemu.xemu	原廠 Xbox 模擬器
+app.ytmdesktop.ytmdesktop	適用於 YouTube 音樂的免費跨平台桌面播放器
+app.ywallet.Ywallet	適用於 Ycash 和 Zcash 的輕錢包
+ar.com.pilas_engine.App	Pilas Engine 是一款用於建立視訊遊戲的遊戲和娛樂遊戲
+ar.com.softwareperonista.Rockarrolla	類似點唱機的音樂播放器
+ar.com.tuxguitar.TuxGuitar	TuxGuitar 是個免費的開源指法譜編輯器。
+art.taunoerik.tauno-monitor	簡單的獨立串口監視器。
+art.taunoerik.tauno-serial-plotter	適用於 Arduino 和其他類似設備的簡單串行繪圖儀。
+ar.xjuan.Cambalache	建立 GTK 使用者介面
+at.priv.toastfreeware.ConfClerk	ConfClerk 是一款可以離線查看會議日程的應用程序
+at.ssh_mitm.server	SSH-MITM - ssh 審計變得簡單
+at.vintagestory.VintageStory	荒野生存沙盒遊戲
+au.edu.uq.esys.escript	esys-escript是一個Python模組，用於使用有限元素方法實現數學模型
+br.app.pw3270.terminal	存取TN3270主機
+br.com.gualandi.Xjump	現代圖形系統的跳躍遊戲
+br.gov.cti.invesalius	3D醫學影像重建軟體
+br.gov.fazenda.receita.irpf2022	在巴西報稅
+br.gov.fazenda.receita.irpf2023	在巴西報稅
+ca._0ldsk00l.Nestopia	任天堂娛樂系統模擬器
+ca.desrt.dconf-editor	用於編輯dconf資料庫的圖形化工具
+cafe.avery.Delfin	串流媒體 Jellyfin 電影和電視節目
+ca.hamaluik.Timecop	一個時間跟踪應用程序，尊重您的隱私並在不花哨的情況下完成工作
+ca.littlesvr.asunder	Asunder 是一個圖形化音訊 CD 抓取器和編碼器
+camp.nook.nookdesktop	Nook 是一款每小時播放《動物之森》主題的應用程式。
+ca.parallel_launcher.ParallelLauncher	現代 N64 仿真器
+cat.xtec.clic.JClic	為學生和教育工作者提供的教育活動和遊戲
+ca.uwaterloo.Raven	模擬流域水文的建模框架
+cc.arduino.arduinoide	開源電子原型平台
+cc.arduino.IDE2	開源電子原型平台
+cc.craftos_pc.CraftOS-PC	進階 ComputerCraft 模擬器
+cc.craftos_pc.CraftOS-PC-Accelerated	進階 ComputerCraft 模擬器
+cc.nift.nsm	動態和靜態站點產生器
+cc.retroshare.retroshare-gui	每個人的安全通信
+cern.root.ROOT	數據分析框架
+chat.delta.desktop	Delta Chat 以電子郵件為基礎的通訊工具
+chat.quadrix.Quadrix	適用於 Matrix 協定的最小、簡單、多平台聊天用戶端
+chat.revolt.RevoltDesktop	反抗桌面應用程式
+chat.rocket.RocketChat	開源團隊溝通
+chat.schildi.desktop	SchildiChat 是一款基於 Element 的 Matrix 用戶端，具有更傳統的即時訊息體驗。
+chat.tandem.Client	遠端團隊的虛擬辦公室
+ch.imatt.ClipQR	掃描螢幕上和相機上的二維碼。
+ch.openboard.OpenBoard	適用於學校和大學的互動式白板
+ch.protonmail.protonmail-bridge	在郵件進入和離開您的電腦時對其進行無縫加密和解密
+ch.protonmail.protonmail-import-export-app	將電子郵件匯入安全的 ProtonMail 收件匣或使用匯入-匯出應用程式進行離線備份。
+ch.theologeek.Manuskript	為作家提供的開源工具
+ch.threema.threema-web-desktop	Threema 桌面版是 Threema 的桌面用戶端，Threema 是一款在瑞士託管和開發的注重隱私的端對端加密行動通訊軟體。非官方包。
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	玩我的世界，創造你自己的世界！
+ch.x29a.playitslowly	以不同的速度播放音樂
+cn.lceda.LCEDAPro	更簡單、更強大的線上 PCB 設計工具
+cn.navclub.ldbfx	可視化資料庫管理工具
+cn.ottercorp.xivlaunchercn	《最終幻想 XIV Online》（中國版）的啟動器和無縫 Linux 集成
+cn.xfangfang.wiliwili	專為控制器使用者設計的第三方嗶哩嗶哩客戶端
+codes.loers.Karlender	管理你的日程安排
+codes.loers.Punchclock	追蹤任務的時間。
+codes.merritt.adventurelist	同步到您所有裝置的待辦事項列表
+codes.merritt.bargain	購物時輕鬆比較商品
+codes.merritt.FeelingFinder	一個快速而美麗的表情符號選擇器
+codes.merritt.Nyrna	暫停遊戲和應用程式
+codes.nora.gDiceRoller	以所有可能的組合擲出許多不同形狀和大小的骰子。
+co.headsetapp.headset	耳機。在 YouTube 上發現和收集音樂。
+co.luoja.Telyn	參數化縫紉圖案的視覺化編輯器
+com.abagames.noiz2sa	一個狂熱的抽象射手
+com.abagames.rRootage	擊敗自動創建的巨大戰艦。
+com.abisource.AbiWord	文字處理器
+com.adamcake.Bolt	開源第三方 Jagex 啟動器
+com.adilhanney.ricochlime	令人滿意的怪物射擊遊戲
+com.adilhanney.saber	專為手寫而設計的筆記應用程式
+com.adilhanney.super_nonogram	解決無限的程式生成的非圖謎題！
+com.adilhanney.timing	學習辨識亞秒時間間隔
+com.adobe.Flash-Player-Projector	使用 Adobe Flash 建立的內容的播放器
+com.adobe.Reader	PDF檢視器
+com.adrienplazas.Metronome	保持節奏
+com.agatanawrot.karambola	在這款簡短的手繪點擊式益智冒險遊戲中，幫助卡蘭波拉完成他的任務，從黑暗思想的力量中拯救他的情感水果人朋友
+com.agateau.nanonote	一款簡約的筆記應用程式。
+com.agateau.PixelWheels	Pixel Wheels 是一款復古的自上而下的賽車遊戲。
+com.airtame.Client	Airtame 是一種無線串流解決方案
+com.albiononline.AlbionOnline	MMORPG 開放式中世紀奇幻遊戲
+com.alientrap.nexuiz-classic	多人第一人稱射擊遊戲
+com.alovoa.alovoa-electron	開源線上約會應用程式
+com.amazon.Workspaces	隨時隨地從任何裝置存取您的桌面
+com.ampl.ide	為 AMPL 使用者提供簡單直接的增強建模介面
+com.anydesk.Anydesk	遠端連接到電腦
+com.arteeh.Flasher	一個簡單的應用程序，用於透過 ST-Link 刷新 PineTime 智慧手錶
+com.arviceblot.eso-addon-manager	上古捲軸在線的跨平台非官方插件管理器。
+com.atlauncher.ATLauncher	Minecraft 的啟動器，整合了多個不同的模組包，讓您輕鬆快速地下載和安裝模組包。
+com.authy.Authy	Twilio Authy 兩因素身份驗證桌面應用程式
+com.avocode.Avocode	移交並檢查任何設計
+com.axosoft.GitKraken	用於回購管理、應用程式內程式碼編輯和問題追蹤。
+com.baidu.NetDisk	百度網盤桌面用戶端
+com.bambulab.BambuStudio	獲得完美的 3D 列印！
+com.basemark.BasemarkGPU	GPU效能評估工具
+com.behringer.XAirEdit	Behringer XR 混音台使用者介面
+com.belmoussaoui.ashpd.demo	玩門戶
+com.belmoussaoui.Authenticator	產生雙因素代碼
+com.belmoussaoui.Decoder	掃描並產生二維碼
+com.belmoussaoui.Obfuscate	審查私人資訊
+com.belmoussaoui.ReadItLater	儲存並閱讀網路文章
+com.belmoussaoui.snowglobe	透過 DBus 使用 QEMU 的虛擬化檢視器
+com.biglybt.BiglyBT	功能齊全、開源、無廣告、bittorrent 用戶端
+com.bitwarden.desktop	適用於您所有裝置的安全且免費的密碼管理器
+com.bitwig.BitwigStudio	現代音樂製作與表演
+com.bixense.PasswordCalculator	根據您的單一秘密計算每個別名的強密碼
+com.bjareholt.johan.SimpleDiary	簡單輕量的日記應用
+com.bktus.gpgfrontend	OpenPGP 加密工具
+com.bladecoder.adventure-editor	經典的點擊式冒險遊戲引擎和編輯器
+com.blitterstudio.amiberry	適用於 Linux 的 Amiga 模擬器
+com.blockstream.Green	簡單又安全的比特幣和 Liquid 網路錢包
+com.borgbase.Vorta	備份客戶端
+com.boxy_svg.BoxySVG	可縮放向量圖形編輯器
+com.brave.Browser	Brave 的網頁瀏覽器
+com.brosix.Brosix	一款一體化、安全的即時通訊工具
+com.budgetwithbuckets.Buckets	快速、簡單且私密的家庭預算應用程序
+com.calibre_ebook.calibre	滿足您所有電子書需求的一站式解決方案
+com.carpeludum.KegaFusion	適用於 Sega 8 和 16 位元遊戲機的模擬器
+com.cassidyjames.butler	家庭助理的伴侶
+com.cassidyjames.plausible	Google Analytics 的簡單且保護隱私的替代方案
+com.cburch.Logisim	Logisim 一款用於設計與模擬邏輯電路的圖形工具
+com.chatterino.chatterino	twitch.tv 聊天客戶端
+com.chez.GrafX2	專門用於 256 色繪製的點陣圖繪製程序
+com.chmouel.gnomeNextMeetingApplet	在面板中顯示您的下一個活動
+com.chowdsp.BYOD	BYOD：自帶失真，獨立
+com.chroniclogic.Zatikon	類似西洋棋的奇幻遊戲，征服敵人的城堡
+com.clarahobbs.chessclock	國際象棋的時間遊戲
+com.claudiocambra.brickbuster	一款有趣且令人上癮的打磚塊遊戲！
+com.cocoatech.deckr	與 Deckr chrome 插件一起使用的桌面應用程式
+com.codemouse92.timecard	精美地追蹤時間。
+com.coeck_studios.Dinonuggys-Journey	像素藝術 2D 平台遊戲。
+com.corsixth.corsixth	主題醫院的開源克隆
+com.cuperino.qprompt	適合所有影片創作者的個人提詞器軟體
+com.daidouji.oneko	桌面上跟著滑鼠指標玩具的小貓
+com.darhon.drfinance	管理您的個人帳戶
+com.darhon.syncbackup	備份和鏡像您的驅動器
+com.dec05eba.gpu_screen_recorder	適用於 Linux 的類似皮影戲的螢幕錄影機。 Linux 上最快的螢幕錄影機
+com.dhsdevelopments.Climaxima	Maxima CAS 前端
+com.diffingo.fwbackups	功能豐富、使用者友善的備份程序
+com.discordapp.Discord	訊息、語音和視訊用戶端
+com.diy_fever.DIYLayoutCreator	電路佈局設計工具，支援 PCB、vero-board、點對點、perf-board 和吉他接線圖
+com.djoffe.gnukem	復古風格 2D 捲軸平台射擊遊戲
+com.dosbox.DOSBox	帶有聲音和圖形的 x86/DOS 模擬器
+com.dosbox_x.DOSBox-X	帶有聲音和圖形的 x86/DOS 模擬器
+com.doycho.euterpe.gtk	Euterpe 媒體伺服器的媒體播放器用戶端。
+com.dreamsourcelab.DSView	適合所有人的開源多功能儀器
+com.dropbox.Client	從任何電腦存取您的文件
+com.eduke32.EDuke32	EDuke32 是一款很棒的免費自製遊戲引擎
+com.ekonomikas.merkato	追蹤您的投資
+com.elsevier.MendeleyDesktop	Mendeley 是一個免費的參考管理員和學術社交網絡
+com.eminfedar.vaktisalah	跨平台祈禱時間應用程序
+com.emqx.MQTTX	優雅的跨平台 MQTT 5.0 桌面用戶端
+com.endlessm.photos	輕鬆編輯並分享所有您喜愛的照片
+com.endlessnetwork.aqueducts	身臨其境的解謎冒險遊戲，您可以透過破解來拯救世界！
+com.endlessnetwork.dragonsapprentice	類似 RPG 的解謎地牢爬行遊戲等等！
+com.endlessnetwork.fablemaker	以前所未有的方式進入伊索寓言世界！互動故事，您可以在這款引人入勝且具有教育意義的應用程式中自訂角色、文字和聲音，並破解其代碼。
+com.endlessnetwork.frogsquash	一款令人上癮的過馬路遊戲
+com.endlessnetwork.MidnightmareTeddy	射擊並生存
+com.endlessnetwork.missilemath	一款飛機飛行射擊遊戲
+com.endlessnetwork.passage	在這款橫向捲軸動作冒險射擊遊戲中闖出一條路
+com.endlessnetwork.tankwarriors	駕駛、射擊、爆炸和程式設計——一切盡在一款遊戲中
+com.endlessnetwork.whitehouse	利用 CSS 的魔力，將您的世界變成獨特的色彩和光線，揭示隱藏的物體和線索。
+com.enjoyingfoss.feeel	一個簡單的家庭鍛煉/鍛煉應用程序，尊重您的隱私
+com.enjoyingfoss.Parlera	一款派對遊戲，您的朋友描述您的猜測；或相反亦然
+com.epicgames.ut2004	第一人稱競技場射擊遊戲
+com.epicgames.ut99	第一人稱競技場射擊遊戲
+com.etlegacy.ETLegacy	ET: Legacy 是一個基於 Wolfenstein: Enemy Territory 代碼的開源項目，該項目於 2010 年根據 GPLv3 條款發布。
+com.expidusos.calculator	ExpidusOS 計算器
+com.expidusos.file_manager	ExpidusOS 檔案管理器
+com.feaneron.Boatswain	控制您的 Elgato Stream Deck
+com.felipekinoshita.Kana	學習日文字符
+com.felipekinoshita.Wildcard	測試你的正規表示式
+com.fightcade.Fightcade	線上玩街機遊戲。
+com.flashforge.FlashPrint	FlashForge 3D 列印機切片機
+com.frac_tion.teleport	透過本地網路共享文件
+com.freerdp.FreeRDP	適用於 Linux 的 FreeRDP（遠端桌面協定）用戶端
+com.frogatto.Frogatto	一款老式 2D 平台遊戲
+com.fyralabs.SkiffDesktop	隱私第一的端對端加密電子郵件
+com.gamestarmechanic.gamestarmechanic	學習設計電玩遊戲
+com.geekbench.Geekbench6	跨平台系統基準測試
+com.georgefb.mangareader	本地文件的漫畫閱讀器
+com.georgefb.quickaccess	全域選單可讓您快速存取資料夾和自訂命令。
+com.getmailspring.Mailspring	適合工作人員和團隊的最佳電子郵件應用程式
+com.getpostman.Postman	用於建立和使用 API 的平台
+com.ghostery.browser	Ghostery 提供完全私密的瀏覽體驗
+com.giadamusic.Giada	你的鐵桿循環機
+com.gigitux.youp	Whatsapp
+com.gitfiend.GitFiend	專為人類設計的 Git 用戶端
+com.github._0negal.Viper	Viper 是 Northstar 的啟動器和更新器，僅此而已。
+com.github._4lex4.ScanTailor-Advanced	用於掃描頁面的互動式後處理工具
+com.github.ADBeveridge.Raider	安全刪除您的文件
+com.github.afrantzis.Bless	Gtk# 十六進位編輯器
+com.github.aharotias2.parapara	沒有庫的圖像檢視器
+com.github.ahrm.sioyek	PDF 檢視器專為閱讀研究論文和技術書籍而設計
+com.github.alainm23.byte	重新發現你的音樂
+com.github.alainm23.planner	再也不用擔心忘記東西了
+com.github.Alcaro.Flips	IPS 和 BPS 檔案的修補程序
+com.github.alecaddd.sequeler	友善的 SQL 用戶端
+com.github.alexhuntley.Plots	簡單的圖表繪製
+com.github.alexkdeveloper.astronum	用於簡單占星和命理學計算的程序
+com.github.alexkdeveloper.desktop-files-creator	用於在 GNU/Linux 上建立桌面檔案的簡單應用程式
+com.github.alexkdeveloper.dice	一個簡單的骰子遊戲
+com.github.alexkdeveloper.dwxmlcreator	簡單的動態桌布製作器
+com.github.alexkdeveloper.easter	計算天主教復活節的日期
+com.github.alexkdeveloper.forgetpass	簡單的網站密碼產生器
+com.github.alexkdeveloper.goldsearch	一款你需要尋找金子的遊戲
+com.github.alexkdeveloper.notepad	輕鬆建立文字註釋
+com.github.alexkdeveloper.recorder	簡單的錄音機
+com.github.alexkdeveloper.relaxator	聆聽舒緩的聲音放鬆身心
+com.github.alexkdeveloper.somafm	內建電台的簡單收音機，來自 somafm.com 網站
+com.github.alexkdeveloper.sudoku	數獨遊戲
+com.github.AlizaMedicalImaging.AlizaMS	DICOM 檢視器
+com.github.AmatCoder.mednaffe	mednafen 模擬器的前端 (GUI)（包含在內）
+com.github.amikha1lov.RecApp	用 GTK 編寫的用戶友好的 Linux 開源截圖程序
+com.github.Anuken.Mindustry	Mindustry：一款沙盒塔防遊戲
+com.github.appadeia.Taigo	Taigo 是桌面虛擬寵物
+com.github.arminstraub.krop	一款PDF檔案裁切工具
+com.github.arshubham.cipher	對文字進行編碼和解碼
+com.github.arshubham.gitignore	.gitignore 各種語言的參考
+com.github.artemanufrij.graphui	圖形視覺化
+com.github.artemanufrij.playmymusic	用於收聽本地音樂檔案、線上收音機和音訊 CD 的音樂播放器
+com.github.artemanufrij.playmyvideos	一個視頻播放器，用於觀看本地視頻文件
+com.github.artemanufrij.regextester	一個用於測試正規表示式的簡單應用程序
+com.github.avojak.paint-spill	填色益智遊戲
+com.github.avojak.warble	猜詞遊戲
+com.github.babluboy.bookworm	專業電子書閱讀器
+com.github.bajoja.indicator-kdeconnect	KDE Connect 的 AppIndicator
+com.github.bcedu.valasimplehttpserver	從同一網路上的任何裝置存取您的文件
+com.github.bcedu.vgrive	適用於 Linux 的具有自動同步功能的 Google Drive 用戶端
+com.github.benpocalypse.Huely	為您的空間增添色彩
+com.github.birros.WebArchives	網路檔案檢視器
+com.github.bjaraujo.Bombermaaan	街機遊戲
+com.github.Bleuzen.FFaudioConverter	批量音頻轉換器和效果處理器
+com.github.bluesabre.darkbar	根據您的喜好將應用程式標題列變暗
+com.github.buddhi1980.mandelbulber2	免費開源 3D 分形產生器
+com.github.bvschaik.julius	Julius 是 Caesar III 的開源重新實現
+com.github.calo001.fondo	尋找最美麗的壁紙
+com.github.calo001.luna	一個令人驚嘆的日曆小部件
+com.github.carlos157oliveira.Calculus	計算導數和積分
+com.github.cassidyjames.clairvoyant	提出問題，獲得心靈答案
+com.github.cassidyjames.dippi	計算 DPI 和寬高比等顯示訊息
+com.github.cfcurtis.pdfstitcher	PDF Stitcher 是一個用於縫合和修改 PDF 縫紉圖案的線條屬性的實用程序
+com.github.childishgiant.mixer	更改應用程式的音量
+com.github.chipmuenk.pyfda	Python 濾波器設計分析工具
+com.github.christianrauch.Jahresarbeit-2003	求連通正方形的最大面積
+com.github.corna.Vivado	用於硬體開發的 Xilinx 設計套件
+com.github.coslyk.MoonPlayer	影片播放器，用於播放和下載 YouTube、優酷等線上影片。
+com.github.cubitect.cubiomes-viewer	高效的 Minecraft 種子查找器和地圖檢視器。
+com.github.d4nj1.tlpui	GTK-UI 可以輕鬆更改 TLP 設定檔。
+com.github.dahenson.agenda	把事情做完
+com.github.dail8859.NotepadNext	Notepad++ 的跨平台重新實現
+com.github.Darazaki.Spedread	GTK速讀軟體：像速跑者一樣閱讀！
+com.github.dariasteam.cowsrevenge	獨立平台像素藝術遊戲
+com.github.dawidd6.checksumo	根據給定的哈希值驗證指定的文件
+com.github.debauchee.barrier	Barrier - 透過本機網路分享滑鼠和鍵盤
+com.github.devalien.workspaces	時刻準備好工作
+com.github.dimkr.gplaces	基於終端的 Gemini 用戶端
+com.github.donadigo.appeditor	編輯應用程式選單
+com.github.dynobo.normcap	從螢幕上的任意位置提取文本
+com.github.edenalencar.identifications	它是 QA 團隊和開發人員的工具
+com.github.Eloston.UngoogledChromium	一種消除 Google Web 服務依賴的輕量級方法
+com.github.elth0r0.iqpuzzle	有趣的智商。具有挑戰性的五聯拼圖
+com.github.emmanueltouzery.cigale	回顧您過去的活動
+com.github.emmanueltouzery.hotwire	Hotwire 讓您以簡單的方式研究幾種流行協定的網路流量
+com.github.emmanueltouzery.projectpad	Projectpad 允許管理您作為軟體開發人員或系統管理員需要處理的秘密憑證和伺服器資訊。
+com.github.eneshecan.WhatsAppForLinux	適用於 Linux 的非官方 WhatsApp 桌面應用程式
+com.github.fabiocolacio.marker	適用於 GNOME 桌面的強大 Markdown 編輯器。
+com.github.finefindus.eyedropper	選擇顏色並設定格式
+com.github.Flacon	Flacon 從包含整個音樂專輯的一個大音訊檔案中提取單個曲目，並將它們儲存為單獨的音訊檔案
+com.github.flxzt.rnote	畫草圖並做手寫筆記
+com.github.fontmatrix.Fontmatrix	字體管理應用程式
+com.github.fries1234.ncsa-mosaic	NSCA Mosaic Web 瀏覽器
+com.github.gabutakut.gabutdm	簡單快速的下載管理器
+com.github.geigi.cozy	聽有聲讀物
+com.github.giacomogroppi.writernote-qt	Writernote 是一款多平台應用程序，可讓您透過錄製音訊來記筆記，稍後將其翻譯成文本，並以智慧方式收聽。
+com.github.gijsgoudzwaard.image-optimizer	簡單的無損影像壓縮
+com.github.git_cola.git-cola	時尚而強大的 Git GUI
+com.github.gmg137.netease-cloud-music-gtk	基於Rust+GTK的網易雲音樂播放器
+com.github.gpuvis.Gpuvis	GPU 追蹤視覺化工具
+com.github.GradienceTeam.Gradience	輕鬆改變 Adwaita 的外觀
+com.github.gyunaev.spivak	卡拉OK機
+com.github.hluk.copyq	進階剪貼簿管理器
+com.github.hopsan.Hopsan	用於流體動力和機電一體化系統的建模和模擬工具
+com.github.horaciodrs.tradesim	Linux 交易模擬器
+com.github.hugolabe.Wike	搜尋並閱讀維基百科條目
+com.github.huluti.Coulr	享受色彩，感受快樂！
+com.github.huluti.Curtail	壓縮您的影像
+com.github.HypatiaProject.hypatia	一個研究輔助工具，提供有趣主題的背景和資訊。
+com.github.ilai_deutel.kibi	一個 ≤1024 行程式碼的文字編輯器，用 Rust 寫
+com.github.inercia.k3x	使用 k3d 管理本地 Kubernetes 集群
+com.github.iortcw.iortcw	《重返德軍總部》的遊戲引擎
+com.github.IsmaelMartinez.teams_for_linux	使用 Electron 的適用於 Linux 的非官方 Microsoft Teams 用戶端
+com.github.iwalton3.jellyfin-media-player	Jellyfin 媒體伺服器的桌面用戶端
+com.github.iwalton3.jellyfin-mpv-shim	Jellyfin 媒體伺服器的僅 Cast 用戶端
+com.github.JannikHv.Gydl	從 YouTube 等網站下載內容
+com.github.jeromerobert.pdfarranger	PDF 合併、重新排列、分割、旋轉和裁剪
+com.github.jkotra.eovpn	OpenVPN 設定管理員
+com.github.jkotra.unlockr	PDF密碼清除器
+com.github.jmlich.geotagging	找到您拍照的地點
+com.github.jms55.Sandbox	一款沙子模擬遊戲
+com.github.johnfactotum.Foliate	以時尚的方式閱讀電子書
+com.github.johnfactotum.QuickLookup	快速查單字
+com.github.Johnn3y.Forklift	視訊和音訊下載應用程式
+com.github.joseexposito.touche	多點觸控手勢
+com.github.jpakkane.glyphtracer	將字母圖片轉換為字體
+com.github.junrrein.PDFSlicer	用於提取、合併、旋轉和重新排序 PDF 文件頁面的簡單工具
+com.github.juzzlin.DustRacing2D	傳統的自上而下的賽車遊戲，包括關卡編輯器
+com.github.k4zmu2a.spacecadetpinball	Space Cadet Pinball 的遊戲引擎
+com.github.kagami.boram	跨平台圖形 WebM 轉換器。
+com.github.kalibari.audok	免費的開源音樂播放器
+com.github.keriew.augustus	Augustus 是 Caesar III 的開源重新實現，但對遊戲玩法進行了更改
+com.github.kmwallio.thiefmd	值得借鏡的 Markdown 編輯器。
+com.github.KRTirtho.Spotube	🎧 開源 Spotify 用戶端，不需要 Premium 也不使用 Electron！適用於桌面和行動裝置！
+com.github.labyrinth_team.labyrinth	一款輕量級心智圖工具
+com.github.lachhebo.Gabtag	音訊標記工具
+com.github.libresprite.LibreSprite	動畫精靈編輯器和像素藝術工具
+com.github.liferooter.textpieces	無需使用隨機網站即可轉換文本
+com.github.LongSoft.UEFITool	UEFI 韌體影像檢視器和編輯器
+com.github.louis77.tuner	發現並收聽網路廣播電台
+com.github.lxgr_linux.pokete	一款基於終端的寶可夢類遊戲
+com.github.makhber.Makhber	科學數據的可視化與分析
+com.github.maoschanz.drawing	編輯螢幕截圖或表情包
+com.github.maoschanz.DynamicWallpaperEditor	為 GNOME 桌面建立或編輯 XML 動態桌布（背景投影片）
+com.github.marhkb.Pods	追蹤您的 podman 容器
+com.github.marinm.songrec	適用於 Linux 的開源非官方 Shazam 用戶端，以 Rust 編寫。
+com.github.marktext.marktext	下一代 Markdown 編輯器
+com.github.matfantinel.moneta	在桌面上監控現實世界貨幣的匯率
+com.github.matfantinel.reminduck	以一種可愛又煩人的方式記住你的東西。
+com.github.Matoking.protontricks	一個簡單的包裝器，可以為支援 Proton 的遊戲做 winetricks 的事情
+com.github.mdh34.hackup	從桌面閱讀駭客新聞
+com.github.mdh34.quickdocs	快速閱讀開發者文檔
+com.github.mgropp.PdfJumbler	用於重新排列、合併、刪除和旋轉 PDF 文件中頁面的簡單工具
+com.github.miguelmota.Cointop	用於追蹤加密貨幣的基於終端的應用程式
+com.github.mikacousin.olc	控制您的燈光秀
+com.github.mtkennerly.ludusavi	備份您的 PC 視訊遊戲保存數據
+com.github.muriloventuroso.easyssh	SSH 連線管理員
+com.github.muriloventuroso.givemelyrics	你的歌曲的歌詞
+com.github.muriloventuroso.pdftricks	PDF 檔案的技巧
+com.github.Murmele.Gittyup	圖形化的 Git 用戶端旨在幫助您了解和管理原始程式碼歷史記錄
+com.github.Murmele.scram	用於機率風險分析的命令列和圖形工具
+com.github.naaando.lyrics	唱歌的美妙方式
+com.github.needleandthread.vocal	適用於現代免費桌面的出色播客用戶端
+com.github.neithern.g4music	優雅地演奏你的音樂
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x轉換器ncnn版本
+com.github.nrittsti.NTag	NTag 是一個跨平台圖形標籤編輯器，專注於日常生活用例。
+com.github.ojubaorg.Othman	電子古蘭經瀏覽器
+com.github.opentyrian.OpenTyrian	DOS 射擊遊戲 Tyrian 的開源移植。
+com.github.optyfr.JRomManager	Mame 和 Retrogaming ROM 管理器
+com.github.paolostivanin.OTPClient	GTK+ 應用程式用於管理內建加密的 TOTP 和 HOTP 令牌。
+com.github.petebuffon.yafc	YAFC 是異星工廠計算機、規劃器和分析器。 YAFC 的主要目標是應對大量修改的遊戲。
+com.github.phase1geo.minder	創建、發展和視覺化您的想法
+com.github.philip_scott.notes-up	你的新筆記本
+com.github.philip_scott.spice-up	創建簡單而美觀的演示文稿
+com.github.PintaProject.Pinta	編輯圖像並進行數位繪畫
+com.github.polymeilex.neothesia	GPU 加速的 MIDI 視覺化工具
+com.github.PopoutApps.popout3d	從普通相機拍攝的照片建立 3D 影像。
+com.github.powertab.powertabeditor	查看和編輯吉他譜
+com.github.qarmin.czkawka	多功能應用程式可尋找重複項、空資料夾、類似影像、損壞的檔案等。
+com.github.qarmin.szyszka	簡單但功能強大的檔案重命名器，用 Rust 編寫
+com.github.quaternion	用於 Matrix 網路的基於 Qt 的用戶端
+com.github.Qv2ray	Qv2ray 是一個用 Qt 編寫的跨平台 v2ray 圖形前端。
+com.github.rafostar.Clapper	簡單而現代的 GNOME 媒體播放器
+com.github.raibtoffoletto.litteris	筆友通訊組織
+com.github.rajsolai.response	測試網頁的反應能力
+com.github.rajsolai.textsnatcher	只需拖曳即可抓取文本
+com.github.ransome1.sleek	基於 Linux 的 todo.txt 語法的 todo 管理器，免費且開源 (FOSS)
+com.github.reds.LogisimEvolution	數位邏輯設計器和模擬器
+com.github.reduz.ChibiTracker	ChibiTracker 是一個便攜式 IT（脈衝追蹤器）克隆
+com.github.rhyme_player.rhyme	您的音樂之家。
+com.github.rkoesters.xkcd-gtk	閱讀 xkcd：一部浪漫、諷刺、數學和語言的網路漫畫
+com.github.robertsanseries.ciano	多媒體檔案轉換器
+com.github.rogercrocker.badabib	查看和編輯 BibTeX 條目
+com.github.Rosalie241.RMG	用 C++ 和 Qt 編寫的易於使用且跨平台的 mupen64plus 前端
+com.github.ryanakca.slingshot	2D重力太空射擊遊戲
+com.github.ryonakano.konbucase	轉換文字中的大小寫
+com.github.ryonakano.pinit	將您最喜歡的便攜式應用程式的快捷方式固定到應用程式啟動器
+com.github.ryonakano.reco	錄製談話內容以便日後記住內容
+com.github.sakya.corechess	用於國際象棋引擎的開源國際象棋 GUI
+com.github.scrivanolabs.scrivano	適合那些喜歡手寫而不是打字的人的筆記應用程式。
+com.github.sdv43.whaler	Docker容器管理
+com.github.shonumi.gbe-plus	Game Boy（彩色、進階）模擬器
+com.github.sixpounder.GameOfLife	玩康威的生命遊戲
+com.github.skullernet.q2pro	增強版 Quake 2 用戶端
+com.github.skylot.jadx	Dex 到 Java 反編譯器
+com.github.subhadeepjasu.pebbles	輕鬆執行高階計算
+com.github.suzie97.communique	具有跨平台同步功能的 RSS 閱讀器
+com.github.taiko2k.avvie	裁剪圖像作為頭像或壁紙
+com.github.taiko2k.tauonmb	以風格演奏您的音樂
+com.github.tchx84.Flatseal	管理 Flatpak 權限
+com.github.tenderowl.frog	從圖像中提取文本
+com.github.tenderowl.norka	連續文字編輯器
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto 是一個跨平台應用程序，可讓您以簡單的方式加密和解密文字。
+com.github.theCalcaholic.StreamDeck	將串流 Web 服務新增至 Steam
+com.github.theironrobin.siglo	將 PineTime 與您的 PinePhone 同步
+com.github.themix_project.Oomox	自訂圖示、xrdb 和 GTK 主題
+com.github.tmewett.BrogueCE	Brogue：社群版 - 深受喜愛的極簡 roguelike 遊戲的社群主導分支
+com.github.treagod.spectator	輕鬆測試您的 REST API！
+com.github.unrud.djpdf	從掃描文件建立小型、可搜尋的 PDF
+com.github.unrud.RemoteTouchpad	從智慧型手機控制滑鼠和鍵盤
+com.github.unrud.VideoDownloader	從 YouTube 等網站下載視頻
+com.github.utsushi.Utsushi	Epson 的影像擷取實用程式
+com.github.varnholt.dynablaster_revenge	遊戲 Dynablaster 的重製版
+com.github.vikdevelop.photopea_app	Adobe Photoshop 用戶的免費替代方案
+com.github.vikdevelop.timer	簡單的倒數計時器
+com.github.vkohaupt.vokoscreenNG	易於使用的截圖影片創建器
+com.github.vladimiry.ElectronMail	ProtonMail 非官方桌面用戶端
+com.github.weclaw1.ImageRoll	具有基本影像處理工具的影像檢視器
+com.github.wwmm.easyeffects	PipeWire 應用的音訊效果
+com.github.wwmm.pulseeffects	PulseAudio 應用程式的音訊效果
+com.github.Xenoveritas.abuse	黑暗 2D 橫向捲軸平台遊戲
+com.github.xournalpp.xournalpp	手寫筆記
+com.github.yucefsourani.albasheer-electronic-quran-browser	電子古蘭經瀏覽器
+com.github.zadam.trilium	建立您的個人知識庫
+com.github.z.Cumulonimbus	一個簡單、漂亮的播客應用程式
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + 簡單的托盤指示器
+com.github.ztefn.haguichi	Hamachi 的圖形前端
+com.gitlab.adnan338.Invoicer	建立您的付款發票
+com.gitlab.adnan338.Nixwriter	建立可啟動的 Linux 映像
+com.gitlab.azymohliad.Qwertone	將您的電腦變成樂器
+com.gitlab.bitseater.meteo	透過數據和地圖了解未來幾小時和幾天的預測
+com.gitlab.ColinDuquesnoy.MellowPlayer	桌面雲端音樂集成
+com.gitlab.coringao.cavestory-nx	一款懷舊的橫向動作冒險遊戲
+com.gitlab.coringao.JAG	街機和益智 2D 遊戲，您必須打破所有目標區塊
+com.gitlab.cutecom.cutecom	圖形串口終端
+com.gitlab.davem.ClamTk	Clam Antivirus (ClamAV) 易於使用的圖形使用者介面
+com.gitlab.guillermop.MasterKey	密碼管理器應用程式
+com.gitlab.j0chn.nextcloud_password_client	在桌面上管理您的 Nextcloud 密碼
+com.gitlab.kendellfab.restscope	使用 D 和 GtkD 建立的簡單 http/rest 測試工具。
+com.gitlab.librebob.Athenaeum	Steam 的自由替代品
+com.gitlab.maevemi.publictransport	德國的公共交通應用程式（當前）
+com.gitlab.Murmele.UDPLogger	UDPLogger是一個輕量級高效能UDP資料記錄器。另外，數據可以在繪圖上視覺化。
+com.gitlab.tipp10.tipp10	盲打導師
+com.gluonhq.SceneBuilder	Scene Builder 是一個開源工具，允許拖放設計 JavaFX 使用者介面。
+com.google.AndroidStudio	Google Android 平台的整合開發環境
+com.google.Chrome	來自 Google 的網頁瀏覽器
+com.google.ChromeDev	來自 Google 的網頁瀏覽器
+com.google.EarthPro	3D 行星檢視器
+com.googleplaymusicdesktopplayer.GPMDP	將 Google Play 音樂作為獨立的桌面應用程式運行
+com.grangerhub.Tremulous	外星人 vs 人類，帶有即時策略元素的第一人稱射擊遊戲
+com.hack_computer.Clubhouse	孩子學習如何編碼的目的地
+com.hack_computer.OperatingSystemApp	系統讓您成為讓您的電腦保持運轉的魔力的一部分！
+com.hack_computer.Sidetrack	逃離深坑和機器人的迷宮！
+com.hamrick.VueScan	適用於 6000 多台掃描器的掃描軟體
+com.helix_editor.Helix	後現代文字編輯器
+com.her01n.BatteryInfo	顯示有關係統電池的資訊。
+com.heroicgameslauncher.hgl	開源 Epic Games、GOG 和 Amazon Prime 遊戲啟動器。
+com.hostbuf.FinalShell	FinalShell ssh 工具
+com.howlingmoonsoftware.CrayonBall	快節奏的四消益智遊戲
+com.hunterwittenborn.Celeste	同步您的雲端文件
+com.icanblink.blink	閃爍 SIP 用戶端
+com.icons8.Lunacy	免費設計軟體，利用 AI 工具和內建圖形讓您保持流暢
+com.identicalsoftware.anagramarama	從一堆字母組成單字
+com.inform7.IDE	撰寫互動小說
+com.inklestudios.Inky	用 inkle 的標記語言寫出互動式敘述
+com.inochi2d.inochi-creator	創建和編輯 Inochi2D 木偶的工具
+com.interversehq.qView	實用且簡約的影像檢視器
+com.inventwithpython.flippy	經典棋盤遊戲黑白棋的克隆
+com.invoiceninja.InvoiceNinja	建立發票、接受付款、追蹤費用和時間任務
+com.irccloud.desktop	現代、始終連接的 IRC 客戶服務
+com.itextpdf.RUPS	iText RUPS是一個檢視PDF結構的工具
+com.itopia.client	遠端桌面協定 (RDP) 伺服器的用戶端
+com.jagex.RuneScape	免費奇幻 MMORPG
+com.jaquadro.NBTExplorer	適用於所有 Minecraft NBT 資料來源的圖形 NBT 編輯器
+com.jetbrains.CLion	適用於 C 和 C++ 的跨平台 IDE
+com.jetbrains.DataGrip	基於 IntelliJ 的資料庫和 SQL IDE
+com.jetbrains.GoLand	功能強大且符合人體工學的 Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	功能強大且符合人體工學的 Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	適用於企業、Web 和行動開發的功能強大且符合人體工學的 Java IDE
+com.jetbrains.PhpStorm	專業開發的 PHP IDE
+com.jetbrains.PyCharm-Community	最聰明的Python IDE
+com.jetbrains.PyCharm-Professional	最聰明的Python IDE
+com.jetbrains.Rider	快速且強大的跨平台 .NET IDE
+com.jetbrains.RubyMine	享受對 Ruby 2.x 和 Rails 6.x、Sinatra、React、Angular、Puppet、Docker 等的一流支持
+com.jetbrains.WebStorm	最智能的 JavaScript IDE
+com.jetpackduba.Gitnuro	多平台 Git 用戶端
+com.jgraph.drawio.desktop	建立和共享圖表
+com.jonathankang.Weibird	原生GTK+微博客戶端
+com.jpexs.decompiler.flash	反編譯和編輯SWF文件
+com.js8call.JS8Call	使用 JS8 數位模式的軟體向業餘無線電操作員提供弱訊號鍵盤到鍵盤訊息傳遞
+com.katawa_shoujo.KatawaShoujo	美少女風格的視覺小說
+com.kavilgroup.gelectrical	配電網路設計與分析
+com.kavilgroup.gestimator	土建估算軟體
+com.kolor.AutopanoPro	Kolor專業影像拼接軟體
+com.kristianduske.TrenchBroom	基於 Quake 的遊戲的關卡編輯器
+com.ktechpit.colorwall	終極桌面壁紙應用程式
+com.ktechpit.orion	適用於 Linux 桌面的完整 torrent 用戶端和串流媒體
+com.ktechpit.torrhunt	洪流搜尋引擎
+com.ktechpit.ultimate-media-downloader	適用於 Linux 的線上影片和音訊下載器，支援 1300 多個網站
+com.ktechpit.whatsie	適用於 Linux 桌面的 Qt Whatsapp Web 用戶端
+com.ktechpit.wonderwall	壁紙管理器
+com.lakoliu.Furtherance	追蹤你的時間而不被追蹤
+com.leinardi.gkraken	讓您可以從 Linux 控制 NZXT Kraken X 幫浦的冷卻。
+com.leinardi.gst	旨在對各種硬體組件進行壓力和監控的系統實用程序
+com.leinardi.gwe	系統實用程式旨在提供資訊、控制風扇以及對 NVIDIA 卡進行超頻
+com.leinardi.gx52	為 Logitech X52 和 X52 Pro H.O.T.A.S. 提供 LED 和 MFD 控制。
+com.lettier.movie-monad	用 Haskell 製作的免費且簡單易用的影片播放器
+com.librumreader.librum	現代電子書閱讀器與圖書館管理器
+com.lixgame.Lix	類似旅鼠的遊戲，有解謎、編輯、多人遊戲
+com.locomalito.abbayedesmorts	一款過時的電子遊戲，訴說一段黑暗的歷史
+com.logseq.Logseq	本地優先、非線性、大綱筆記本，用於組織和共享您的個人知識庫
+com.lunarclient.LunarClient	適用於所有現代版本 Minecraft 的模組包！
+com.makemkv.MakeMKV	DVD 和藍光到 MKV 轉換器和網路串流媒體
+com.maplerain.telsis_translator_flutter	可與《紫羅蘭永恆花園》系列中使用的 Telsis 語言進行互譯的應用程式
+com.mardojai.DiccionarioLengua	布斯卡·帕拉布拉斯·恩·埃爾·DLE
+com.mardojai.ForgeSparks	取得 Git 偽造通知
+com.mastermindzh.tidal-hifi	Listen.tidal.com 的網路版本，支援 Hi-Fi（高和最大）
+com.mattermost.Desktop	用於開發者協作的開源平台
+com.mattjakeman.ExtensionManager	瀏覽、安裝和管理 GNOME Shell 擴充功能
+com.meetfranz.Franz	桌面版 Messenger
+com.microsoft.AzureStorageExplorer	用於管理Azure雲端儲存資源的圖形化工具
+com.microsoft.Edge	隆重介紹新的 Microsoft Edge 網路瀏覽器。是時候期待更多了。更多隱私。更多控制。更高的生產力。更有價值。
+com.microsoft.EdgeDev	隆重介紹新的 Microsoft Edge 網路瀏覽器。是時候期待更多了。更多隱私。更多控制。更高的生產力。更有價值。
+com.milesalan.mepo	適用於 Linux 的快速、簡單且可破解的 OSM 地圖檢視器
+com.moddb.TotalChaos	以綠洲堡為背景的偏遠島嶼上的生存恐怖遊戲
+com.moddb.TotalChaosRetro	以綠洲堡為背景的偏遠島嶼上的生存恐怖遊戲
+com.mojang.Minecraft	在最流行的視頻遊戲之一中創建自己的世界
+com.mongodb.Compass	MongoDB 圖形使用者介面
+com.moonlight_stream.Moonlight	從另一台運行 Sunshine 或 GeForce Experience 的電腦串流遊戲和其他應用程式
+com.mousepawmedia.omission	一個看似簡單的文字謎題。
+com.mudeprolinux.whakarere	GTK4 Whatsapp 用戶端
+community.pathofbuilding.PathOfBuilding	Path of Building（社區） - 流亡黯道的強大建造規劃器
+com.musixmatch.Musixmatch	隨處享受你的歌詞
+com.napster.napster-bigscreen-electron	適用於您的掌上電腦的 Napster
+com.neatdecisions.Detwinner	尋找並刪除重複檔案和相似影像
+com.netease.CloudMusic	網易開發的一款流行的線上音樂播放器
+com.nextcloud.desktopclient.nextcloud	Nextcloud桌面同步客戶端
+com.nitrokey.nitrokey-app	管理您的 Nitrokey 設備
+com.nordpass.NordPass	由網路安全專家為您帶來的易於使用的密碼管理器。
+com.notepadqq.Notepadqq	進階文字編輯器
+com.notesnook.Notesnook	Evernote 的完全開源和端對端加密筆記替代方案
+com.obsproject.Studio	直播和錄影軟體
+com.okta.developer.CLI	Okta CLI 是開始使用 Okta 的最簡單方法！
+com.openwall.John	開膛手約翰 Jumbo 密碼破解器
+com.opera.Opera	Opera 的網頁瀏覽器
+com.oppzippy.OpenSCQ30	Soundcore Q30 耳機的控制設置
+com.orama_interactive.Pixelorama	支援動畫的 2D 精靈編輯器
+com.outerwildsmods.owmods_gui	一個易於使用的應用程序，用於安裝和運行《星際拓荒》模組
+com.ownrwallet.wallet	發送、接收、提取、兌換和購買虛擬貨幣。只有您可以控制存取和資產
+com.ozmartians.VidCutter	媒體切割機+連接器
+com.parallax.PropellerIDE	開發、編譯和上傳 Parallax Propeller 平台的程式碼。
+com.parsecgaming.parsec	簡單、低延遲的遊戲串流
+com.pikatorrent.PikaTorrent	一款現代、簡單、互聯且電動的 BitTorrent 應用程式 ⚡
+com.pinegrow.Pinegrow	專業人士的可視化網頁編輯器
+com.play0ad.zeroad	古代戰爭即時策略遊戲
+com.playonlinux.PlayOnLinux4	Wine 的圖形前端
+com.plexamp.Plexamp	Plexamp - 一款適合發燒友、策展人和時尚人士的精美 Plex 音樂播放器
+com.pojtinger.felicitas.Multiplex	與朋友一起觀看種子
+com.pokemmo.PokeMMO	PokeMMO 是一款免費的大型多人線上角色扮演遊戲，隨著您的升級並發現新的怪物，請加入不斷壯大的社區
+com.polyphone_soundfonts.polyphone	創建您自己的樂器來演奏您最喜愛的音樂
+com.powerball253.eternalmodmanager	《DOOM Eternal》的跨平台模組管理器。
+com.poweriso.PowerISO	一體化 CD/DVD/藍光工具
+com.protonvpn.www	適用於 Linux 的值得信賴且易於使用的 VPN 應用程序
+com.prusa3d.PrusaSlicer	獲得完美的 3D 列印！
+com.pypyrev.linuxdcpp	用於 Direct Connect 網路的檔案共用用戶端
+com.q3rally.Q3Rally	生存賽車遊戲
+com.qq.QQ	線上即時通訊服務
+com.qq.QQmusic	線上音樂串流服務
+com.quexten.Goldwarden	Bitwarden 相容的桌面用戶端
+com.quixel.Bridge	Megascans 和您最喜歡的工具之間的完美橋樑
+com.qzandronum.Q-Zandronum	Zandronum 3.0 前叉具有改進的網路程式碼、可設定的運動和許多小調整
+com.rabbit_company.passky	Passky 是一個簡單、現代、輕量、開源且安全的密碼管理器。
+com.rafaelmardojai.Blanket	聆聽不同的聲音
+com.rafaelmardojai.SharePreview	在本地測試社交媒體卡
+com.rafaelmardojai.WebfontKitGenerator	輕鬆建立@font-face套件
+com.raggesilver.BlackBox	漂亮的 GTK 4 終端
+com.ranfdev.Geopard	雙子座瀏覽器
+com.ranfdev.Lobjur	一個簡單的 lobste.rs 客戶端
+com.ranfdev.Notify	接收來自 ntfy.sh 的通知。
+com.rawtherapee.RawTherapee	先進的原始照片沖洗程序
+com.realm667.Wolfenstein_Blade_of_Agony	故事驅動的第一人稱射擊遊戲，靈感來自 90 年代和 2000 年代初的二戰射擊遊戲
+com.redis.RedisInsight	Redis 的開發者 GUI，由 Redis 提供。
+com.remnantsoftheprecursors.ROTP	1993 年原版 Master of Orion Strategy 遊戲的完美現代化版本。
+com.retrodev.blastem	Sega Mega Drive/Genesis 與 Master System 模擬器
+com.revolutionarygamesstudio.ThriveLauncher	一款進化模擬遊戲。控制環境中的物種並整體編輯物種。與其他不斷進化的物種競爭外星球上的資源。
+com.riverbankcomputing.PyQt.BaseApp	使用 PyQt 的應用程式的共享平台
+com.rocksandpaper.syndic	觸摸友善 RSS/Atom 閱讀器
+com.roguetemple.HyperRogue	非歐幾里德圖形 Rogue-like 遊戲
+com.rosegardenmusic.rosegarden	MIDI 和音訊音序器和樂譜編輯器
+com.rq3.Reaction	電影寫實主義第一人稱射擊遊戲
+com.rtosta.zapzap	WhatsApp 信使
+com.sayonara_player.Sayonara	一個輕量級的 Qt 音訊播放器
+com.scoutshonour.Digital	一部以 1988 年未來五分鐘為背景的電腦懸疑/愛情小說
+com.scoutshonour.dtipbijays	《數位：愛情故事》的精神續集，以一所著名的私立高中為背景，在 2027 年的社交網路上
+com.seafile.Client	Seafile 檔案同步與共用桌面用戶端
+com.seal_one.SealOne	用於基於 Seal One 硬體的簽章設備的軟體
+com.serveftp.officefactoring	用於保理、證券化、ESC 或 FIDC 的應用程式
+com.sevenkfans.sevenkaa	中世紀即時策略遊戲
+com.seventhstring.Transcribe	錄製！ - 幫助轉錄錄製音樂的軟體
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG，具有像素藝術圖形以及豐富的多樣性和可重玩性
+com.sigil_ebook.Sigil	多平台 EPUB 電子書編輯器
+com.sigmyne.crush	特定天文相機的數據縮減和成像
+com.simplenote.Simplenote	最簡單的筆記方法
+com.sindresorhus.Caprine	優雅的 Facebook Messenger 桌面應用程式
+com.sireliah.Dragit	適用於本地網路的直覺式檔案共享應用程式
+com.skype.Client	呼叫 Skype 用戶並發送訊息，支援視訊聊天
+com.slack.Slack	21世紀的團隊溝通
+com.sleepfiles.OSCAR	開源 CPAP 分析報告器
+com.slugchess.SlugChess	戰爭迷霧和洗牌軍官的西洋棋
+com.snes9x.Snes9x	超級任天堂模擬器
+com.solvespace.SolveSpace	免費 (GPLv3) 參數化 3D CAD 工具
+com.sourcepole.kadas	非專業用戶的地圖應用程式
+com.spacestation14.Launcher	多人災難模擬器
+com.spotify.Client	線上音樂串流服務
+com.springrts.SpringLobby	使用 Spring 引擎玩線上 RTS 遊戲
+com.steamdeckrepo.manager	使用 Steam Deck Repo 網站 API 將啟動影片安裝到您的 Steam Deck。
+com.steamgriddb.SGDBoop	將 SteamGridDB 資產套用到 Steam
+com.steamgriddb.steam-rom-manager	用於在 Steam 中管理 ROM 的應用程式
+com.stepmania.StepMania	節奏和舞蹈遊戲
+com.stremio.Service	自由串流
+com.stremio.Stremio	即時觀看影片、電影、電視劇和電視頻道
+com.strlen.TreeSheets	自由格式資料組織器
+com.st.STM32CubeIDE	STM32整合開發環境
+com.sublimemerge.App	Sublime Merge 是一個 Git 用戶端，來自 Sublime Text 的開發者
+com.sublimetext.three	用於程式碼、標記和散文的複雜文字編輯器
+com.sudovanilla.penpot-desktop	團隊的設計自由
+com.supermodel3.Supermodel	Sega Model 3 街機模擬器
+com.sweethome3d.Sweethome3d	甜蜜之家 3D 室內設計應用程序
+com.sweetscape.ZeroOneZeroEditor	使用二進位範本進行專業文字和十六進位編輯
+com.synology.CloudStationBackup	即時備份，避免大量資料遺失
+com.synology.SynologyAssistant	用於管理本地網路中的 Synology NAS 的工具
+com.synology.SynologyDrive	強大的私有雲存儲，無需經常性費用
+com.syntevo.SmartGit	完成你的提交
+com.syntevo.SmartSynchronize	以智慧方式比較目錄
+com.system76.Popsicle	並行刷新多個 USB 設備
+com.szibele.e-juice-calc	免費且易於使用的 E-Juice 計算器
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim 桌面應用程式
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP 應用程式
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP 應用程式
+com.teeworlds.Teeworlds	線上多人射擊遊戲
+com.tencent.wemeet	騰訊20多年視聽通訊經驗打造的雲端高畫質會議產品
+com.tercad.fingrom	與平台無關的財務會計應用程序
+com.thebrokenrail.MCPIReborn	積木的樂趣
+com.thewavewarden.Odin2	奧丁 2 合成器
+com.thincast.client	適用於 Linux、macOS 和 Windows 的免費 RDP（遠端桌面協定）用戶端
+com.tic80.TIC_80	用於製作、玩和分享小遊戲的幻想計算機
+com.ticktick.TickTick	您精彩的待辦事項和任務列表，可讓所有事情完成並讓生活井井有條。
+com.todoist.Todoist	「目前最好的待辦事項清單應用程式」 - The Verge
+com.toggl.TogglDesktop	簡單直覺的時間追蹤軟體
+com.tomjwatson.Emote	現代彈出表情符號選擇器
+com.tonikelope.MegaBasterd	從 MEGA.nz 下載、上傳或串流文件
+com.tracktion.Waveform	適合所有音樂創作者的數位音訊工作站
+com.transmissionbt.Transmission	透過 BitTorrent 下載和共享文件
+com.tutanota.Tutanota	安全的電子郵件、日曆和聯絡人
+com.tux4kids.tuxmath	TuxMath 是一款街機遊戲，可幫助孩子練習數學知識
+com.tux4kids.tuxtype	由 Tux 主演的教育打字輔導遊戲
+com.tuxpusher.TuxPusher	以 Tux 為主角的有趣推幣遊戲！
+com.tuxpusher.TuxPusherAF	515 個獨特獎品 + 6 隻企鵝
+com.ugetdm.uGet	下載管理器
+com.ulduzsoft.Birdtray	Thunderbird 的系統托盤新郵件通知
+com.ultimaker.cura	用於準備 3D 列印專案的切片機
+com.umlet.Umlet	用於快速 UML 圖表的免費 UML 工具
+com.unity.UnityHub	即時遊戲引擎
+com.uploadedlobster.peek	簡單的螢幕錄影機，具有易於使用的介面
+com.usebottles.bottles	運行Windows軟體
+com.usebruno.Bruno	快速且 Git 友善的 API 用戶端
+com.vagueentertainment.Framed	適用於您的 NFTshowroom 藝術和個人作品的數位相框
+com.valvesoftware.Steam	Steam 軟體分送服務的啟動器
+com.valvesoftware.SteamLink	使用 Steam 從另一台電腦串流遊戲
+com.varnamproject.Varnam	輕鬆輸入印度語
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M，高相容性的 Gameboy Advance 模擬器
+com.vesc_project.VescTool	VESC® 工具是 BLDC 工具的全新且 100% 修訂的替代品
+com.viber.Viber	我們將人們聯繫起來，無論他們是誰或來自哪裡
+com.vicr123.thebeat	音訊播放器
+com.viewizard.AstroMenace	硬派 3D 太空捲軸射擊遊戲，可升級太空船
+com.virustotal.VirusTotalUploader	將文件上傳到virustotal.com
+com.visualstudio.code	程式碼編輯。重新定義。
+com.visualstudio.code-oss	Visual Studio 程式碼。程式碼編輯。重新定義。
+com.vivaldi.Vivaldi	功能強大、個人化且私密的網頁瀏覽器
+com.vixalien.decibels	播放音訊檔案
+com.vixalien.sticky	將筆記固定在桌面
+com.voxdsp.aigeneratedgame	從鬼魂手中拯救你的花園朋友！
+com.voxdsp.AstroImpact	多人太空遊戲，保衛地球免受小行星的攻擊！
+com.voxdsp.Borg	受 Korg ER-1 啟發的便攜式 (SDL) 音訊合成器/音調產生器
+com.voxdsp.Borg0	便攜式 (SDL) 音訊合成器/音調產生器可讓使用者繪製振盪器和包絡。
+com.voxdsp.CubeShooter	3D 街機風格射擊遊戲
+com.voxdsp.PoryDrive	一款必須抓住 Porygon 的車遊戲！
+com.voxdsp.SeriousShooter	山姆大叔認可的 3D FPS
+com.voxdsp.Snowboarder	一款3D簡單的滑雪遊戲
+com.voxdsp.Snowling	運氣的保齡球遊戲
+com.voxdsp.Spaceminer	3D太空採礦遊戲
+com.voxdsp.Tuxocide	3D FPS 南極戰事如火如荼......
+com.voxdsp.TuxScape	扮演小禮服的神話冒險！
+com.voxdsp.TuxVsDragon	殺死紅龍禮服！
+com.voxdsp.VoxelPaint	使用體素進行 3D 繪畫！
+com.voxdsp.VoxelPaintPro	使用實心陰影體素進行 3D 繪畫！
+com.vscodium.codium	程式碼編輯。重新定義。遙測較少。
+com.vysp3r.ProtonPlus	一個簡單的基於 Wine 和 Proton 的兼容性工具管理器
+com.vzhd1701.gridplayer	並排播放視頻
+com.w1hkj.fldigi	業餘無線電聲卡通信
+com.w1hkj.flrig	業餘無線電裝備控制
+com.whitemagicsoftware.kmcaster	在螢幕上顯示滑鼠和鍵盤事件
+com.wickeditor.WickEditor	用於創建遊戲、動畫以及介於兩者之間的所有內容的工具！
+com.wings3d.WINGS	進階細分建模器
+com.wire.WireDesktop	最安全的協作平台
+com.wiz.Note	基於雲端使用的優秀PKM（個人知識管理）桌面環境
+com.wps.Office	WPS辦公室套件
+com.writerduet.writersolo	一款功能豐富的桌面應用程序，用於完整編寫劇本或在各種劇本格式（例如最終草稿 fdx 或噴泉）之間進行轉換
+com.xnview.XnConvert	輕鬆批次影像和編輯元數據
+com.xnview.XnRetro	創造具有復古或即時效果的令人驚嘆的圖像
+com.xnview.XnSketch	將您的照片變成卡通或素描圖像
+com.xnview.XnViewMP	查看和組織您的圖像
+com.xunlei.Thunder	迅雷下載。迅雷下載。
+com.yacreader.YACReader	又一個漫畫讀者
+com.yktoo.ymuse	用於音樂播放器守護程式的簡單、實用且快速的 GTK 前端（客戶端）
+com.ylsoftware.qmmp.Qmmp	基於Qt的多媒體播放器
+com.yubico.yubioath	使用 YubiKey 顯示 OATH 程式碼的圖形介面
+com.zandronum.Zandronum	在新派多人《毀滅戰士》線上遊戲中引領潮流
+com.zerobrane.studio	用於 Lua 的輕量級基於 Lua 的 IDE
+com.zettlr.Zettlr	21 世紀的 Markdown 編輯器
+com.zhqli.wikit	通用詞典
+com.zoho.Notebook	跨裝置最漂亮的筆記應用程式
+com.zquestclassic.ZQuest	用於創建類似於流行的經典冒險遊戲的遊戲引擎
+cool.ldr.lfy	gnome 翻譯軟體
+cz.cvut.edu.comparch.qtrvsim	用於教育目的的 RISC-V CPU 模擬器
+cz.krupkat.Xpano	自動照片拼接工具
+cz.zeropage.Formiko	reStructuredText 和 MarkDown 編輯器和即時預覽器
+de._0x539.gobby	協作編輯文字文件
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	添加小時和分鐘的簡單計算器
+de.akaflieg_freiburg.enroute	專為 VFR 飛行員設計的飛行導航應用程式
+de.bforartists.Bforartists	完整、免費、開源的 3D 套件
+de.billardgl.Billardgl	有趣的3D撞球遊戲
+de.blobbyvolley.BlobbyVolley2	面對面的多人排球比賽。
+de.breitbandmessung.Breitbandmessung	允許測量網路速度。
+de.bund.ausweisapp.ausweisapp2	德國身份證和居留證的官方認證應用程序
+de.create3000.titania	在 X3D 和 VRML 世界中編輯、檢視和導航
+de.fabrik19.mos-Launcher	用於使用 Mobilitysuite 進行開發
+de.finnik.PassVault	使用 PassVault 安全、輕鬆地管理您的密碼
+de.flinkebits.AvaEmailArchivar	從 IMAP 信箱歸檔和恢復電子郵件
+de.gunibert.Hackgregator	駭客新聞閱讀器
+de.haeckerfelix.AudioSharing	分享您的電腦音訊
+de.haeckerfelix.Fragments	BitTorrent 用戶端
+de.haeckerfelix.Shortwave	收聽網路廣播
+de.halaszovich.PMbrowser	開啟、瀏覽和匯出 PM 資料文件
+de.ifw_dresden.nagstamon	Nagstamon 是桌面狀態監視器。
+de.k_bo.Televido	觀賞德語公共電視
+de.klayout.KLayout	掩模佈局的檢視器和編輯器
+de.lernsoftware_filius.Filius	Filius 是一個用於教育目的的網路模擬器。
+de.linuxguides.RechnungsAssistent	德國發票產生器
+de.manuel_kehl.go-for-it	內建計時器的待辦清單
+de.marlam.gencolormap	彩色圖產生器
+de.marlam.qv	2D 資料視覺化工具
+de.mediathekview.MediathekView	訪問公共德國電視 Mediathek
+de.nicokimmel.shadowcast-electron	顯示 Genki 的 ShadowCast 視訊串流
+de.peterge.combined	合併！是一款方塊益智遊戲。您的目標是連接方塊以在棋盤上獲得更高的方塊。
+de.philippun1.Snoop	窺探你的文件
+de.philippun1.turtle	管理您的 git 儲存庫
+de.rwth_aachen.ient.RDPlot	RDPlot是繪製率失真曲線的工具
+de.rwth_aachen.ient.YUView	基於 QT 的跨平台 YUV 播放器，具有先進的分析工具集
+de.schmidhuberj.DieBahn	旅行時將所有火車資訊集中在一處
+de.schmidhuberj.Flare	在 Signal 上與您的朋友聊天
+de.schmidhuberj.tubefeeder	關注影片創作者
+de.sesu8642.feudaltactics	策略遊戲擁有無數獨特且具挑戰性的關卡。
+de.shorsh.discord-screenaudio	自訂 Discord 用戶端，支援 Linux 上的音訊串流傳輸
+de.syping.gta5view	與編輯GTA V 個人檔案
+de.tumexam.cli	TUMexam 的客戶端，用於管理學生和考試。
+de.unifreiburg.ellipticcurve	繪製橢圓曲線並允許試驗其群律
+de.uni_heidelberg.zah.GaiaSky	適用於桌面和 VR 的開源 3D 宇宙模擬器，支援超過 10 億個對象
+dev.alextren.Spot	在 Spotify 上聽音樂
+dev.ares.ares	多系統控制台仿真套件
+dev.atoft.Reactions	簡單的 GIF 搜尋。
+dev.aunetx.deezer	線上音樂串流服務
+dev.bambosh.UnofficialHomestuckCollection	Homestuck及其相關作品線下集
+dev.boxi.Boxi	與 Toolbox 一起使用的終端模擬器
+dev.bragefuglseth.Fretboard	尋找吉他和弦
+dev.bsnes.bsnes	超級任天堂模擬器
+dev.Cogitri.Health	追蹤您的健身目標
+dev.deedles.Trayscale	Tailscale CLI 的非官方 GUI 包裝器。
+dev.edfloreshz.Done	重新設計的待辦事項列表
+dev.ensoft.ecode	輕量級多平台程式碼編輯器，專為現代硬體設計，重點關注響應能力和性能。
+dev.gbstudio.gb-studio	一款快速且易於使用的 Game Boy 拖放復古遊戲創作器
+dev.geopjr.Collision	檢查文件的哈希值
+dev.geopjr.Tuba	瀏覽聯邦宇宙
+dev.goats.xivlauncher	最終幻想 XIV Online 的啟動器和無縫 Linux 集成
+dev.hdos.HDOS	高細節老式 Runescape 用戶端
+dev.jamiethalacker.window_painter	用相同顏色的油漆填充板
+dev.k8slens.OpenLens	Kubernetes IDE
+dev.krtirtho.Flemozi	進階⚡表情符號選擇器😀，適用於 Linux🐧、Windows🪟 和 macOS🍎
+dev.lapce.lapce	用 Rust 編寫的閃電般快速且強大的程式碼編輯器
+dev.lasheen.qr	二維碼掃描器/生成器
+dev.levz.TinyImageFinder	帶預覽的圖像查找器
+dev.linwood.butterfly	功能強大、簡約、跨平台、開源筆記應用程式
+dev.lizardbyte.app.Sunshine	Moonlight 自架遊戲直播主機。
+dev.lukebriggs.pepys	簡單明了的 Markdown 日記
+dev.mrquantumoff.mcmodpackmanager	輕鬆管理您的模組包！
+dev.mufeed.Wordbook	查找任何英語術語的定義
+dev.paullee.scraterpreter.Scrape	Scraterpreter 是一個執行 .sb3 (Scratch) 專案的解譯器。
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc 是 Scraterpreter 的編譯器。
+dev.pulsar_edit.Pulsar	社群主導的超級可破解文字編輯器
+dev.rzia.minesector	時髦的掃雷遊戲
+dev.salaniLeo.forecast	適用於 GNOME 的天氣應用程式
+dev.salaniLeo.immagini	AppImage 應用程式的庫和建立工具
+dev.schlaubi.Tonbrett	Discord Soundboard Bot 的配套應用程式
+dev.serebit.Waycheck	顯示 Wayland 合成器實現的協議
+dev.slimevr.SlimeVR	一款促進虛擬實境全身追蹤的應用程式
+dev.stewlab.PortaWar	歡迎來到掌上電腦之戰！
+dev.storyapps.starc	多合一寫作應用程式
+dev.tchx84.Portfolio	隨時隨地管理文件
+dev.vencord.Vesktop	帶有 Vencord 的 Snappier Discord 應用程式
+dev.vieb.Vieb	Vim 啟發的電子瀏覽器
+dev.zelikos.rollit	擲骰子
+de.wger.flutter	健身/運動、營養和體重追蹤器
+de.willuhn.Jameica	類似於OSGI的應用平台
+de.wwwtech.ColorMate	在符號之間轉換 CSS 顏色
+de.zwarf.picplanner	規劃下一次的拍照地點
+dk.tangramgames.mrrescue	街機風格的消防遊戲
+edu.berkeley.BOINC	為許多科學領域的研究計畫貢獻運算能力
+edu.mit.Scratch	創建故事、遊戲和動畫，與世界各地的其他人分享
+edu.princeton.physics.WSJTX	業餘無線電弱訊號操作
+edu.stanford.Almond	開放式虛擬助手
+edu.stanford.protege	功能豐富的本體編輯環境
+engineer.atlas.Nyxt	駭客的瀏覽器
+es.estoes.wallpaperDownloader	自動從網路下載、管理和更改您的桌布
+eu.ad5001.LogarithmPlotter	二維對數標度繪圖儀軟體，用於繪製波特圖、序列和分佈函數
+eu.betterbird.Betterbird	Betterbird 是 Mozilla Thunderbird 的軟分叉。簡直更好。
+eu.cichy1173.tabela	在表格中顯示 CSV 內容的簡單應用程式
+eu.ithz.umftpd	從另一台裝置存取您的文件
+eu.ngdevelopment.tsukitag	動漫圖像板瀏覽器、聚合器、下載器、標記器、轉換器、收藏管理器。瀏覽並建立您自己的集合，透過範本支援配置圖像下載工作區。
+eu.nimmerfort.blackbody	熱圖檢視器
+eu.ototu.Quteqoin	論壇報申請
+eu.planete_kraus.Tarot	與人工智慧玩塔羅牌遊戲
+eu.scarpetta.PDFMixTool	對 PDF 檔案執行常見編輯操作的應用程式
+eu.skribisto.skribisto	寫作軟體
+eu.stethewwolf.gresistor	電阻器顏色代碼計算器
+eu.usdx.UltraStarDeluxe	評估您表現的卡拉 OK 程序
+eu.vcmi.VCMI	《魔法門之英雄無敵 III》的開源遊戲引擎
+fi.mooc.tmc.tmc-cli-rust	TestMyCode 程式設計作業評估器的 CLI。
+fi.skyjake.Lagrange	美麗的雙子座客戶
+fm.cancel.Ripcord	Slack（和 Discord）的替代桌面聊天用戶端
+fm.helio.Workstation	Helio Project libre 音樂創作軟體
+fm.reaper.Reaper	數位音訊工作站
+fr.dwightstudio.JArmEmu	用 Java 編寫的簡單 ARMv7 模擬器，用於教育目的
+fr.fgrabenstaetter.DigitalAssets	加密貨幣價格和統計數據
+fr.free.brouits.qspeakers	揚聲器設計軟體
+fr.free.Homebank	適合所有人的免費、簡單的個人會計
+fr.free.hxc2001.HxCFloppyEmulator	更換舊軟碟的軟硬體解決方案
+fr.free.qccrypt.Qccrypt	ccrypt 工具是基於 QT 的圖形前端
+fr.handbrake.ghb	視訊轉碼器
+fr.henri2h.minestrix	基於 Matrix 的注重隱私的社群媒體
+fr.inria.corese.CoreseCommand	釋放語意網的力量
+fr.inria.corese.CoreseGui	釋放語意網的力量
+fr.masson_informatique.WhosWho	建立包含人物圖片和相應姓名的 PDF 文檔，也稱為名人錄、年鑑或 facebook
+fr.natron.Natron	開源視訊合成軟體
+fr.romainvigier.MetadataCleaner	查看和清理文件中的元數據
+fr.romainvigier.zap	從音板播放聲音
+fr.rubet.rpn	逆波蘭表示法 CLI 計算器
+fr.sgued.ten_forward	控制 NAT-PMP 網關
+fun.vnote.app.VNote	一個愉快的筆記平台
+fyi.zoey.Boop-GTK	將 IvanMathy 的 Boop 移植到 GTK，這是一個為開發人員提供的可編寫腳本的暫存器。
+fyi.zoey.TeX-Match	透過繪製草圖來尋找 LaTeX 符號
+games.zetsubou.AnAdventurersGallantry	在這部奇幻視覺小說中，名譽掃地的受訓騎士奧倫獲得了作為冒險家的第二次人生機會
+games.zetsubou.HumanityMustPerish	一部喜劇視覺小說，講述了一個裝扮成高中女生的機器人準備毀滅人類的故事
+games.zetsubou.MaxMassacre	以充滿怪物的奇幻世界為背景的視覺小說
+games.zetsubou.SablesGrimoireDemo	發生在魔法學院的怪物女孩視覺小說
+games.zetsubou.WanderNoMore	一部講述流氓武士故事的視覺小說
+garden.turtle.Jellybean	記錄可補貨商品的數量
+ga.rpmtw.rpmlauncher	更好的 Minecraft 啟動器，支援多平台和多種功能供您探索！
+gg.guilded.Guilded	訊息、語音和視訊用戶端
+gg.minion.Minion	上古卷軸 Online 和魔獸世界的插件管理器
+gg.tesseract.Tesseract	具有合作遊戲內地圖編輯功能的第一人稱射擊遊戲
+global.worldcoin.worldcoin-core	因邊界而分離，因技術而團結
+hu.irl.cameractrls	Linux 下的相機控制
+hu.kramo.Cartridges	啟動您的所有遊戲
+id.sideka.App	村政平台
+il.co.ravkavonline.RavKavOnline	在家中加載您的 Rav-Kav 卡並舒適地旅行
+im.bernard.Funkcio	從點繪製函數
+im.bernard.Nostalgia	設定歷史性的 GNOME 壁紙
+im.dino.Dino	現代 XMPP 聊天客戶端
+im.fluffychat.Fluffychat	與你的朋友聊天
+im.gitter.Gitter	GitHub 上社群和團隊的通訊產品。
+im.kaidan.kaidan	適用於所有設備的用戶友好且現代的聊天應用程序
+im.pidgin.Pidgin	即時通訊用戶端
+im.riot.Riot	安全地創建、分享、交流、聊天和通話，並橋接到其他應用程式
+im.srain.Srain	用 GTK 編寫的現代 IRC 用戶端
+in.bharatkalluri.shortcircuit	開發人員便條本
+in.bharatkalluri.splash	從 Unsplash 設定高解析度桌面背景！
+in.cinny.Cinny	又一款 Matrix 用戶端，介面簡潔、優雅、安全。
+info.beyondallreason.bar	您一直在等待的以《橫掃千軍》為靈感的即時戰略遊戲
+info.bibletime.BibleTime	聖經學習計劃
+info.cemu.Cemu	任天堂 Wii U 模擬器
+info.colobot.Colobot	與機器人殖民
+info.febvre.Komikku	閱讀您最喜歡的漫畫
+info.mumble.Mumble	低延遲加密 VoIP 用戶端
+info.olasagasti.revelation	密碼管理器
+info.portfolio_performance.PortfolioPerformance	追蹤投資組合的表現
+info.puredata.Pd	用於現場互動式電腦音樂的即時圖形程式設計環境
+info.puredata.Pd-extended	用於多媒體的開源視覺化程式語言
+info.rttr.Return-To-The-Roots	重新實現《工人物語 2》遊戲的粉絲項目
+info.smplayer.SMPlayer	一個很棒的媒體播放器
+info.urbanterror.UrbanTerror	具有動作電影元素的戰術第一人稱射擊遊戲
+ink.scribl.Scribl	創建簡單的教學視頻
+in.p1x.TanksOfFreedom	等距像素藝術中的獨立回合製策略遊戲
+in.srev.guiscrcpy	安卓螢幕鏡像軟體
+io.appflowy.AppFlowy	開源概念替代方案
+io.atom.Atom	21 世紀的可破解文字編輯器
+io.bassi.Amberol	播放音樂，不做其他事情
+io.beekeeperstudio.Studio	您夢想中的 SQL 編輯器和資料庫管理器
+io.blockloader.BlockLoader	最好的 Minecraft 模組管理器
+io.botfather.Botfather	通用自動化框架
+io.conduktor.Conduktor	一個漂亮且功能齊全的 Apache Kafka 桌面用戶端
+io.crow_translate.CrowTranslate	一個簡單、輕量級的翻譯器
+io.dbeaver.DBeaverCommunity	通用資料庫管理器
+io.defn.Franz	Apache Kafka 的桌面用戶端
+io.edcd.EDMarketConnector	使用遊戲中的資料更新 EDDN
+io.emeric.toolblex	藍牙低功耗設備掃描器和分析儀
+io.emeric.watchflower	適用於藍牙低功耗感測器和溫度計（例如小米“Flower Care”或 Parrot“Flower Power”）的植物監控應用程式
+io.enpass.Enpass	Enpass 是一個密碼管理器，用於安全地儲存和管理您的密碼和其他憑證。
+io.exodus.Exodus	用於保護、管理和交換區塊鏈資產的一體化應用程序
+io.frama.tractor.carburetor	洋蔥路由應用程式
+io.freetubeapp.FreeTube	一款保護隱私的開源 YouTube 應用
+io.gdevelop.ide	快速簡單的遊戲製作
+io.gdevs.GDLauncher	GDLauncher 是一款簡單但功能強大的 Minecraft 自訂啟動器，非常注重使用者體驗。
+io.github._0xzer0x.qurancompanion	跨平台桌面離線古蘭經閱讀器和播放器
+io.github.aandrew_me.ytdn	從數百個網站下載視訊和音頻
+io.github.achetagames.epic_asset_manager	管理您的 Epic 資產
+io.github.Adda0.Stardrop	Stardrop 的非官方分支，帶有自訂更改
+io.github.adrienverge.PhotoCollage	製作照片拼貼海報的圖形工具
+io.github.aerocyber.sitemarker	開源書籤管理員
+io.github.aggalex.Wineglass	葡萄酒的圖形使用者介面
+io.github.alainm23.planify	忘記忘記事情
+io.github.alexkdeveloper.gomoku	五子棋遊戲
+io.github.alexkdeveloper.radio	一個簡單的收音機，其中包含來自 radio-browser.info 網站的電台
+io.github.alexkdeveloper.zodiac	一個繪製星座圖的簡單程序
+io.github.am2r_community_developers.AM2RLauncher	用於處理 AM2R 更新和模組的前端
+io.github.am2r_community_developers.Atomic	AM2R mods 的 mod 打包工具鏈。
+io.github.amit9838.weather	美觀且輕量級的天氣應用
+io.github.andreibachim.shortcut	製作應用程式快捷方式
+io.github.Andrettin.Wyrmsun	基於歷史、神話和小說的策略遊戲
+io.github.anirbandey1.ChatbotClient	ChatGPT 網站的電子包裝
+io.github.antimicrox.antimicrox	用於將遊戲手把按鈕對應到鍵盤、滑鼠、腳本和巨集的圖形程序
+io.github.appoutlet.GameOutlet	尋找 PC 遊戲的最優惠價格
+io.github.Archeb.opentrace	NextTrace 的跨平台 GUI 包裝器
+io.github.Arisotura.CoinKiller	NSMB2 的關卡編輯器
+io.github.arunsivaramanneo.GPUViewer	glxinfo、vulkaninfo、clinfo 和 es2_info 的前端
+io.github.Bavarder.Bavarder	與 AI 聊天
+io.github.benini.scid	國際象棋資料庫應用程式
+io.github.betaflight.BetaflightConfigurator	Betaflight飛控系統跨平台設定工具
+io.github.bkueng.qMasterPassword	無狀態主密碼管理器
+io.github.Bollos00.LibreMines	一款基於 Qt 的自由/開源軟體掃雷遊戲，適用於 GNU/Linux、FreeBSD 和 Windows 系統。
+io.github.bothlab.pomidaq	檢視和錄製 UCLA 微型顯微鏡的視頻
+io.github.bothlab.syntalos	不同來源的同步資料收集和靈活的實驗控制
+io.github.brainstormtrooper.facteur	將基於範本的電子郵件傳送給收件者列表
+io.github.brunoherbelin.Vimix	視訊現場混音器
+io.github.btpf.alexandria	簡約的電子書閱讀器
+io.github.bytezz.IPLookup	查找有關 IP 位址的信息
+io.github.carterbox.Electricity_Clock	電費使用時間監控器
+io.github.cboxdoerfer.FSearch	圖形檔案搜尋應用程式
+io.github.celluloid_player.Celluloid	mpv 的 GTK+ 前端
+io.github.cges30901.hmtimer	圖形化關機定時器
+io.github.chris2511.xca	X 憑證和金鑰管理
+io.github.ciromattia.kcc	一款可將 PNG、JPG、GIF、CBZ、CBR 和 CB7 檔案轉換為 EPUB 或 MOBI 格式電子書的應用程式
+io.github.cleomenezesjr.Escambo	測試和開發 API
+io.github.cloose.CuteMarkEd	Qt Markdown 編輯器
+io.github.cmus.cmus	控制台音樂播放器
+io.github.Cockatrice.cockatrice	多人紙牌遊戲的虛擬桌面
+io.github.congard.qnvsm	Nvidia 系統監視器 Qt
+io.github.ctlcltd.e2se	衛星頻道清單編輯器：Enigma2、Neutrino、dreambox
+io.github.cudatext.CudaText-Qt5	開源和跨平台文本編輯器
+io.github.cxong.cdogs-sdl	經典的頭頂跑轟遊戲
+io.github.dagargo.Elektroid	樣本和 MIDI 設備管理器
+io.github.daviddesimone.opencloudsaves	用於跨裝置同步保存遊戲的工具
+io.github.davidoc26.wallpaper_selector	下載並套用壁紙
+io.github.dbchoco.muezzin	伊斯蘭祈禱時間應用
+io.github.dbchoco.Salawat	伊斯蘭祈禱時間應用
+io.github.ddanilov.soundscape	桌面音景應用程式
+io.github.dfandrich.gpscorrelate	GPS Correlate 將 EXIF GPS 位置標籤附加到影像上
+io.github.dgsasha.Remembrance	為自己設定提醒
+io.github.dida_code.OpstaKultura	遊戲、知識問答
+io.github.diegoivan.GaticTacToe	和你的朋友一起玩井字遊戲
+io.github.diegoivanme.flowtime	明智地度過你的時間
+io.github.diegoivan.pdf_metadata_editor	編輯 PDF 文件元數據
+io.github.diegopvlk.Dosage	追蹤您的治療情況
+io.github.dimtpap.coppwr	PipeWire 的低階控制 GUI
+io.github.divverent.aaaaxy	發生在不可能的空間的非線性解謎平台遊戲
+io.github.dlippok.photometric-viewer	查看光度文件
+io.github.dman95.SASM	適用於 NASM、MASM、GAS 和 FASM 彙編語言的簡單跨平台 IDE
+io.github.dosbox-staging	注重易用性的 DOS/x86 模擬器
+io.github.Dretch.MonomerFlatpakExample	單體 Flatpak 範例應用。
+io.github.dtsudo.ChessCompStompWithHacks	使用黑客手段擊敗國際象棋人工智慧！
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	使用儲存狀態快速衝過 10 個關卡！
+io.github.dubstar_04.design	適用於 GNOME 的 2D CAD
+io.github.dummerle.rare	Legendary 的 GUI，開源 Epic Games 的替代品
+io.github.dvlv.boxbuddyrs	圖形化 Distrobox 管理器
+io.github.dweymouth.supersonic	適用於 Subsonic 和 Jellyfin 音樂伺服器的輕量級跨平台桌面用戶端
+io.github.dyegoaurelio.simple-wireplumber-gui	用於 PipeWire 的簡單 GTK4 GUI
+io.github.ec_.Quake3e.OpenArena	免費開源第一人稱射擊遊戲
+io.github.eminfedar.vaktisalah-gtk-rs	GTK4 版本的 Vakt-i Salah（祈禱時間）
+io.github.endless_sky.endless_sky	太空探索與戰鬥遊戲
+io.github.erkin.ponysay	為小馬重新實現owsay
+io.github.everestapi.Olympus	跨平台 Celeste Mod 管理器
+io.github.ezQuake	專注於線上競技遊戲的現代 QuakeWorld 客戶端
+io.github.f3d_app.f3d	快速且簡約的 3D 檢視器
+io.github.fabiangreffrath.Doom	解除限制的增強解析度 Doom 來源端口
+io.github.fabrialberio.pinapp	建立和編輯應用程式快捷方式
+io.github.FailurePoint.RandomNumberFive	適用於 Linux 桌面的隨機數產生器！
+io.github.fastrizwaan.WineZGUI	使用 Zenity 的 Wine GUI
+io.github.ferraridamiano.ConverterNOW	簡單、即時、快速的單位轉換器！
+io.github.Figma_Linux.figma_linux	網路為基礎的協作設計工具
+io.github.fin_ger.OvGUCanteen	在小型 GTK 應用程式中查看 OvGU Mensa 菜單
+io.github.fizzyizzy05.binary	數基轉換器
+io.github.fkinoshita.Telegraph	寫入和解碼莫爾斯電碼
+io.github.flattool.Warehouse	管理 Flatpak 的所有事物
+io.github.Fndroid.clash_for_windows	Clash 的圖形客戶端，基於 Electron。
+io.github.Foldex.AdwSteamGtk	給予 Steam Adwaita 待遇
+io.github.Foldex.r2mod	雨中冒險 2 Mod 管理器
+io.github.foldynl.QLog	業餘無線電日誌
+io.github.foxxmd.multiscrobbler	將來自多個來源的音樂複製給多個客戶
+io.github.fragglet.sdl_sopwith	經典的雙翼飛機射擊遊戲
+io.github.fralonra.PpdEditor	2D紙娃娃編輯器
+io.github.fralonra.WgShadertoy	受 Shadertoy 啟發的 WGSL 遊樂場
+io.github.freedoom.FreeDM	基於 Doom 引擎的死亡競賽遊戲
+io.github.freedoom.Phase1	基於 Doom 引擎的第一人稱射擊遊戲
+io.github.freedoom.Phase2	基於 Doom 引擎的第一人稱射擊遊戲
+io.github.fsobolev.TimeSwitch	設定任務在計時器後運行
+io.github.gamingdoom.Datcord	使用 Firefox 的開源 Discord 用戶端
+io.github.garglk.Gargoyle	互動小說播放器
+io.github.gen2brain.cbconvert	漫畫書轉換器
+io.github.gerryferdinandus.bittorrent-tracker-editor	從 torrent 檔案中新增或刪除追蹤器。
+io.github.giantpinkrobots.bootqt	建立可啟動驅動器
+io.github.giantpinkrobots.flatsweep	Flatpak殘留清理器
+io.github.giantpinkrobots.varia	快速有效率地下載文件
+io.github.gillesdegottex.FMIT	Free Musical Instrument Tuner (FMIT)，一款樂器調音工具
+io.github.glitterware.Passy	具有跨平台同步功能的離線密碼管理器
+io.github.GoldenGnu.jEveAssets	jEveAssets 是 Eve-Online 的遊戲外資產管理器
+io.github.gopher64.gopher64	任天堂 64 模擬器
+io.github.gssh_linux.gssh	一個 Python 應用程序，可讓您從（非常）簡單的 GUI 連接到 ssh 伺服器
+io.github.gtkwave.GTKWave	用於查看模擬結果的電子波形檢視器
+io.github.guillaumechereau.Goxel	開源 3D 體素編輯器
+io.github.hakandundar34coding.mini-system-monitor	監控 CPU、RAM、磁碟、網路使用情況
+io.github.hakandundar34coding.system-monitoring-center	多功能係統監視器
+io.github.hakuneko.HakuNeko	來自各個網站的漫畫和動漫的跨平台下載器
+io.github.helpseeker.Gyre	Coub 影片下載器
+io.github.hermitdemschoenenleben.linien	光譜鎖
+io.github.Hexchat	IRC客戶端
+io.github.hmlendea.geforcenow-electron	用 Electron 編寫的非官方 GeForce NOW 應用程式
+io.github.hrkfdn.ncspot	跨平台 ncurses Spotify 用戶端
+io.github.huderlem.porymap	神奇寶貝第三代反編譯專案的地圖編輯器
+io.github.hurricangame.hurrican	由 Poke53280 創建的免費軟體跳躍和射擊遊戲
+io.github.hvdwofl.jExifToolGUI	ExifTool 的簡單前端
+io.github.hydrusnetwork.hydrus	在桌面上整理媒體
+io.github.hypengw.Qcm	網路易雲音樂Qt客戶端
+io.github.Icalingua.Icalingua	用於 QQ 等功能的 Linux 用戶端
+io.github.idevecore.CurrencyConverter	使用基於 Google 的數據的簡單貨幣轉換器
+io.github.igaldino.CoyoteTM	像土狼一樣管理任務
+io.github.igorlogius.scr2ppm	最小的 X11 螢幕截圖又名。截圖工具
+io.github.ihhub.Fheroes2	fheroes2 是《魔法門之英雄無敵 II》遊戲引擎的重現
+io.github.ilius.pyglossary	轉換字典檔案（又稱術語表）的工具。
+io.github.ImEditor	簡單且多功能的影像編輯器
+io.github.iSlammedMyKindle.godotGem	用於模擬 Windows 的 xbox360 控制器的控制器用戶端
+io.github.ja2_stracciatella.JA2-Stracciatella	改進的、跨平台的、穩定的《鐵血聯盟 2》運行時
+io.github.jacalz.rymdport	快速、加密的檔案傳輸
+io.github.JaGoLi.ytdl_gui	youtube-dl 的簡單易用的跨平台圖形介面。
+io.github.JakubMelka.Pdf4qt	開源 PDF 編輯器
+io.github.janbar.noson	SONOS 控制器
+io.github.java_decompiler.jd-gui	一個獨立的圖形實用程序，顯示 CLASS 檔案中的 Java 原始程式碼
+io.github.jean28518.Linux-Assistant	具有強大整合搜尋、例程和檢查功能的日常 Linux 助手
+io.github.jeffshee.Hidamari	Linux 的影片桌布
+io.github.jhaygood86.mauborgne	2FA OTP 碼產生器
+io.github.jliljebl.Flowblade	影片編輯器 - 快速、精準、穩定
+io.github.jonmagon.kdiskmark	磁碟基準測試工具
+io.github.jorchube.monitorets	系統資源的使用始終一目了然
+io.github.jordanl2.ModularCalculator	一款功能強大、可編寫腳本的模組化計算器，適用於科學、工程或計算工作。
+io.github.jotd666.gods-deluxe	平台遊戲的重製版
+io.github.jtdx_project.JTDX	jtdx（用於業餘無線電通訊的分叉 WSJT-X）
+io.github.julian_hochhaus.LG4X_V2	用於XPS曲線擬合分析的Python包
+io.github.kaii_lb.hgui	一款用於在回曆日期和公曆日期之間輕鬆離線轉換（反之亦然）的應用程式！
+io.github.kalaksi.Lightkeeper	獨立的、可自訂的伺服器管理工具
+io.github.kaschpal.timetable	教師和學生使用的日曆/計劃表
+io.github.kevinsmia1939.PySimpleCV	繪製循環伏安圖和電池循環
+io.github.KikoPlayProject.KikoPlay	不僅僅是一個全功能的彈幕播放器
+io.github.koromelodev.mindmate	ChatGPT 的非官方應用程式
+io.github.kotatogram	Kotatogram 桌面通訊軟體
+io.github.ktgw0316.LightZone	相機RAW影像處理器
+io.github.kukuruzka165.materialgram	非官方 Telegram 桌面訊息應用程式
+io.github.labsquare.CutePeaks	獨立的 Sanger 追蹤檢視器
+io.github.lainsce.Colorway	產生顏色配對
+io.github.lainsce.Countdown	追蹤事件直至事件發生或事件發生後
+io.github.lainsce.DotMatrix	線條和曲線的創意遊樂場
+io.github.lainsce.Emulsion	儲備顏色
+io.github.lainsce.Khronos	記錄完成任務所花費的時間
+io.github.lainsce.Notejot	記下你的想法
+io.github.lainsce.Quilter	專注於你的寫作
+io.github.lemmygtk.lemoa	Lemmy 的 Gtk 用戶端
+io.github.leolost2605.gradebook	追蹤你的成績
+io.github.leonardschardijn.Chirurgien	理解和操作二進位檔案格式
+io.github.lethal_guitar.RigelEngine	經典 DOS 遊戲《毀滅公爵 II》的現代重新實現
+io.github.letslearn_app.letslearn	一個外觀整潔的開源筆記應用程式
+io.github.libvibrant.vibrantLinux	用於調整 X11 螢幕色彩飽和度的系統實用程式
+io.github.limads.Queries	與關係資料庫互動的工作台。
+io.github.listen1.Listen1	中國所有免費音樂合一
+io.github.loot.loot	適用於 Starfield 以及一些上古捲軸和輻射遊戲的模組實用程序
+io.github.lruzicka.Needly	用 Python 寫的 openQA 針編輯器
+io.github.ltiber.Pwall	瀏覽您的照片/視頻
+io.github.lunarequest.NightPDF	深色模式 PDF 閱讀器
+io.github.lxndr.gswatcher	一個簡單的遊戲伺服器監視器和管理工具。
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA 是 Doom 3 BFG GPL 來源端口
+io.github.magnush.mhWaveEdit	mhWaveEdit 是一個用於編輯聲音檔案的圖形程序
+io.github.mahmoudbahaa.outlook_for_linux	使用 Electron 的適用於 Linux 的非官方 Microsoft Outlook 用戶端
+io.github.mak448a.QTCord	一個不和諧的客戶端
+io.github.MakovWait.Godots	Godot 遊戲引擎版本管理器
+io.github.mandruis7.xbox-cloud-gaming-electron	開源 Xbox Cloud Electron 用戶端
+io.github.manisandro.gImageReader	tesseract-ocr 的圖形 (gtk) 前端
+io.github.markummitchell.Engauge_Digitizer	以互動方式將點陣圖或地圖轉換為數字
+io.github.martinrotter.rssguard	簡單但功能強大的動態閱讀器
+io.github.martinrotter.rssguardlite	簡單但功能強大的動態閱讀器（無內建網頁瀏覽器）
+io.github.martinrotter.textosaurus	基於Qt和QScintilla的簡單跨平台文字編輯器
+io.github.maurycyliebner.enve	2D動畫
+io.github.mgerhardy.vengi.voxedit	體素編輯器
+io.github.mideb.digitales_register	Inoffizieller 數位註冊用戶端
+io.github.mightycreak.Diffuse	用於合併和比較文字檔案的圖形工具
+io.github.mihnea_radulescu.imagefanreloaded	輕量級基於選項卡的影像檢視器，支援多核心處理
+io.github.mimbrero.WhatsAppDesktop	非官方 WhatsApp 網路桌面用戶端。
+io.github.mki1967.mki3dgame	一個簡單的 OpenGL 遊戲，在 3D 階段尋找標記
+io.github.mmarco94.tambourine	適合您圖書館的簡單音樂播放器
+io.github.mmstick.FontFinder	字體瀏覽器
+io.github.mpobaschnig.Vaults	確保重要文件安全
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用CBETA API。[EN] 一款使用CBETA API的佛典閱讀器。
+io.github.mrvladus.List	管理您的任務
+io.github.muse_sequencer.Muse	數位音訊工作站
+io.github.myst6re.makoureactor	最終幻想 VII 的現場編輯
+io.github.naikari.Naikari	二維自由形態太空神秘遊戲
+io.github.najepaliya.kleaner	影像元資料清理器
+io.github.narunlifescience.AlphaPlot	AlphaPlot 是一款用於科學數據分析和視覺化的免費應用程式
+io.github.nate_xyz.Chromatic	微調你的樂器
+io.github.nate_xyz.Conjure	神奇變換影像
+io.github.nate_xyz.Paleta	輕鬆生成調色板
+io.github.nate_xyz.Resonance	協調您的聆聽體驗
+io.github.nearinfinitybrowser.nearinfinity	Infinity Engine 資源瀏覽器和編輯器
+io.github.neil_morrison44.pocket-sync	使用 Analogue Pocket 進行操作的 GUI
+io.github.NhekoReborn.Nheko	Matrix 協定的桌面用戶端
+io.github.NickKarpowicz.LightwaveExplorer	用於非線性光-物質相互作用的高效、用戶友好的求解器
+io.github.nokse22.asciidraw	使用 ASCII 字元進行繪製
+io.github.nokse22.inspector	查看有關您的系統的信息
+io.github.nokse22.minitext	臨時便條本
+io.github.nokse22.teleprompter	在螢幕上顯示滾動文字
+io.github.nokse22.trivia-quiz	回答無窮無盡的問題
+io.github.nokse22.ultimate-tic-tac-toe	（井字棋）²
+io.github.nostar.DroidStar	PC 版 D-Star 用戶端
+io.github.noxworld_dev.OpenNox	OpenNox 是 Nox 遊戲引擎的現代實現
+io.github.nroduit.Weasis	免費/自由/開放的醫療 DICOM 檢視器
+io.github.nuttyartist.notes	記筆記應用程式。寫下你的想法
+io.github.obiwankennedy.HotShots	功能強大且簡單易用的截圖軟體
+io.github.onionware_github.onionmedia	免費媒體下載器和轉換器 - 跨平台
+io.github.openhv.OpenHV	開源 90 年代 Pixelart 科幻即時戰略遊戲
+io.github.OpenToonz	2D動畫
+io.github.orontee.Argos	Mopidy 音樂伺服器的輕量級前端
+io.github.paledega.alpine-rootfs	Alpine Linux 子系統
+io.github.parnassius.SysDVR-Qt	透過 USB 或網路將 Switch 遊戲串流到您的 PC
+io.github.pastthepixels.InfiniteShooter	使用 Godot 引擎製作的簡單射擊遊戲。
+io.github.paulwedeck.settlers-remake	適用於 Windows、Linux、Mac 和 Android 的《工人物語 III》重製版
+io.github.pd_l2ork.Pd_L2Ork	一種基於純數據的開源多媒體視覺化程式語言
+io.github.peazip.PeaZip	免費文件歸檔實用程序，開啟、擷取 RAR TAR ZIP 檔案
+io.github.petitlapin.Li-ri	兒童遊戲，駕駛玩具木製發動機
+io.github.phastmike.tags	基於標籤的彩色日誌
+io.github.philipk.boilr	將非 Steam 遊戲加入您的 Steam 庫中
+io.github.Pithos	潘朵拉電台客戶端
+io.github.polypixeldev.Polypass	簡單、安全且易於使用的密碼管理器
+io.github.pragha_music_player.pragha	管理和聆聽您的音樂
+io.github.prateekmedia.appimagepool	一個簡單、現代的 AppImageHub 用戶端。
+io.github.prateekmedia.pstube	使用flutter製作的Youtube客戶端
+io.github.pr_starfighter.starfighter	太空射擊遊戲。
+io.github.punesemu.puNES	任天堂娛樂系統模擬器
+io.github.purplehorrorrus.Meridius	vk.com 的音樂播放器
+io.github.pwr_solaar.solaar	Logitech 鍵盤、滑鼠和觸控板的 Linux 管理器
+io.github.pyfa_org.Pyfa	EVE 的 Python 試衣助理：在線
+io.github.Qalculate	功能強大且易於使用的計算器
+io.github.Qalculate.qalculate-qt	功能強大且易於使用的計算器
+io.github.qier222.YesPlayMusic	一款高顏值的第三方網易雲音樂播放器
+io.github.qnapi	一款下載並自動搭配電影字幕的軟體
+io.github.qtox.qTox	功能強大的 Tox 聊天用戶端，遵循 Tox 設計指南。
+io.github.quodlibet.ExFalso	編輯音訊檔案中的標籤
+io.github.quodlibet.QuodLibet	聆聽、瀏覽或編輯您的音訊收藏
+io.github.qwersyk.Newelle	控制您電腦的聊天機器人
+io.github.rafaelfassi.QLogExplorer	具有高級工具的快速日誌瀏覽器
+io.github.randovania.Randovania	適用於多種遊戲的隨機化器平台
+io.github.Rangi42.polished-map	編輯精靈水晶地圖和圖塊集
+io.github.Rangi42.polished-map-plusplus	編輯精靈水晶地圖和圖塊集
+io.github.Rangi42.tilemap-studio	適用於 Game Boy、Color、Advance、DS 和 SNES 專案的圖塊地圖編輯器
+io.github.realmazharhussain.GdmSettings	自訂您的登入畫面
+io.github.retgal.Dayon	遠端協助變簡單！
+io.github.retux_game.retux	由 Linux 吉祥物 Tux 主演的動作平台遊戲
+io.github.rinigus.OSMScoutServer	提供圖塊、地理編碼器和路由器的地圖伺服器
+io.github.rinigus.PureMaps	地圖和導航
+io.github.ripose_jp.Memento	一款用於學習日語的基於 mpv 的視訊播放器
+io.github.Rirusha.Cassette	非官方 Yandex.Music 用戶端
+io.github.RobertBeckebans.RBDoom3BFG-GL	DOOM-3-BFG 的現代化努力
+io.github.rocket.editor	火箭編輯
+io.github.RodZill4.Material-Maker	程式紋理生成和網格繪製工具
+io.github.sameboy.SameBoy	Game Boy 和 Game Boy Color 模擬器
+io.github.santiagocezar.maniatic-launcher	Retro Engine (v5) 反編譯啟動器
+io.github.seadve.Breathing	放鬆並冥想
+io.github.seadve.Kooha	優雅地錄製您的螢幕
+io.github.seadve.Mousai	在幾秒鐘內識別歌曲
+io.github.searchandrescue2.sar2	救援直升機模擬器
+io.github.Sebicodes99.Prt	一個 python 套接字應用程序，讓朋友在您的系統上執行命令，而無需打開端口或使用 ssh 伺服器，並且具有簡單的 GUI
+io.github.sharkwouter.Minigalaxy	適用於 Linux 的簡單 GOG 用戶端
+io.github.sharkwouter.oceanpop	一款輕鬆有趣的三消益智遊戲
+io.github.shiftey.Desktop	從桌面輕鬆協作
+io.github.shiiion.primehack	適用於各種銀河戰士 Prime 模組的 Dolphin Emu 前叉
+io.github.sigmasd.IRust	Rust 複製品
+io.github.sigmasd.stimulator	保持桌面喚醒
+io.github.signus_game.signus	回合製策略遊戲
+io.github.sil_car.SqueezeVid	將影片標準化為最低的、與投影相容的品質。
+io.github.simple64.simple64	任天堂 64 模擬器
+io.github.sithlord48.blackchocobo	最終幻想 VII 的保存編輯器
+io.github.slgobinath.SafeEyes	為 Linux 用戶提供的免費開源工具，可減少和預防重複性勞損 (RSI)。
+io.github.Snaggly.PS2_Pnacher	將 Pnaches 直接應用於 PS2 ISO。
+io.github.snesrev.Zelda3	Zelda3 是《薩爾達傳說：眾神的三角力量》的逆向克隆版本
+io.github.Soundux	跨平台音板
+io.github.spacingbat3.webcord	使用 Electron 製作的基於網路的 Discord 和 Fosscord 用戶端
+io.github.srb2.rphys	Sonic Robo Blast 2 的遊戲玩法大修模組
+io.github.stella_emu.Stella	多平台 Atari 2600 VCS 模擬器
+io.github.streetpea.Chiaki4deck	為 Steam Deck 修改的 PlayStation Remote Play 免費開源用戶端
+io.github.Sunderland93.sway-input-config	Sway 的輸入設備配置器
+io.github.swanux.hbud	用 Python 和 GTK4 編寫的簡單音訊/視訊播放器和卡拉 OK 應用程式
+io.github.tcobbs.LDView	LDraw 模型檢視器
+io.github.tdesktop_x64.TDesktop	Telegram 訊息應用程式的非官方桌面版本
+io.github.technic.e2designer	使用 Qt5 編寫的 enigma2 皮膚編輯器
+io.github.tfuxu.Halftone	為您的圖像提供像素藝術般的風格
+io.github.thaunknown.miru	Miru - 貓用 Bittorrent 串流軟體
+io.github.TheThirdOne.rars	RISC-V 彙編器和運行時模擬器
+io.github.thetumultuousunicornofdarkness.cpu-x	收集有關 CPU、主機板等的信息
+io.github.TheWisker.Cavasik	基於CAVA的音訊視覺化器
+io.github.thiefmd.themegenerator	使用 Style 產生樣式。
+io.github.tlcfem.suanPan	🧮 開源平行異構有限元素分析框架
+io.github.tntwise.REAL-Video-Enhancer	免費開源影片增強工具
+io.github.torrent_file_editor.Torrent-file-editor	編輯並建立 .torrent 文件
+io.github.trackballs.Trackballs	引導彈珠穿過迷宮
+io.github.tralph3.Steam_Metadata_Editor	易於使用的 GUI，可編輯 Steam 應用程式的元數據
+io.github.TransmissionRemoteGtk	遠端管理 Transmission BitTorrent 用戶端
+io.github.trevorsandy.LPub3D	LPub3D - LDraw 建置指令編輯器
+io.github.trigg.discover_overlay	Discord 語音聊天的圖形疊圖。
+io.github.troyeguo.koodo-reader	跨平台電子書閱讀器
+io.github.trytonvanmeer.DungeonJournal	5e 角色管理器
+io.github.TTimo.GtkRadiant	基於 ID Tech 的遊戲（包括 Quake 系列）的關卡編輯器
+io.github.twanvl.MagicSetEditor2	用於製作自訂卡片的程序
+io.github.unicornyrainbow.secrets	根據您的需求輕鬆產生密碼
+io.github.unknownskl.greenlight	Greenlight 是 xCloud 和 Xbox 家庭串流媒體的開源用戶端
+io.github.unrud.RecentFilter	從最近使用的文件中排除文件和資料夾
+io.github.vemonet.EmojiMart	一款現代的桌面彈出式表情符號選擇器，基於 Emoji Mart Web 元件。
+io.github.veusz.Veusz	科學繪圖包
+io.github.vikdevelop.SaveDesktop	儲存桌面環境的目前配置
+io.github.vinser.burnfix	嘗試修復螢幕影像殘留和燒屏，尋找螢幕缺陷
+io.github.vinser.pixyne	快速查看照片資料夾，安全刪除不良和相似的照片，修復拍攝日期
+io.github.voxelcubes.deepqt	透過這個友善的使用者介面利用 DeepL API 的強大功能
+io.github.voxelcubes.panelcleaner	一款由人工智慧驅動的清潔漫畫面板的工具
+io.github.webcamoid.Webcamoid	使用網路攝影機拍照和錄影
+io.github.weclaw1.ScoreTracker	用於追蹤紙牌遊戲和棋盤遊戲中玩家得分的應用程式
+io.github.wereturtle.ghostwriter	使用文字編輯器不分散注意力的 Markdown
+io.github.wh201906.serialtest	跨平台串口，藍牙，網路偵錯助手
+io.github.wojciech_graj.OrbVis	即時衛星軌道可視化儀
+io.github.wxmaxima_developers.wxMaxima	Maxima 的圖形使用者介面，強大的電腦代數系統
+io.github.xaos_project.XaoS	快速互動式即時分形縮放器/變形器
+io.github.xiaoyifang.goldendict_ng	高級字典查找程序
+io.github.xolatgames.marknpaul	成為巫師！
+io.github.xverizex.nem_desktop	跟朋友聊天。
+io.github.xverizex.RetroSpriteEditor	適用於復古遊戲機的像素編輯器
+io.github.xyproto.zsnes	超級任天堂模擬器
+io.github.yairm210.unciv	回合製策略遊戲
+io.github.yamanqd.antware	一款第一人稱射擊遊戲。
+io.github.Youda008.DoomRunner	ZDoom 及其衍生產品的預設為導向的圖形啟動器
+io.github.zaps166.QMPlay2	視訊和音訊播放器
+io.github.zhrexl.thisweekinmylife	這是一個卡班風格的計劃器，用戶可以在其中插入帶有任務的卡片。
+io.github.zyedidia.micro	現代且直觀的基於終端的文本編輯器
+io.gitlab.adhami3310.Converter	轉換和操作影像
+io.gitlab.adhami3310.Footage	打磨您的視頻
+io.gitlab.adhami3310.Impression	建立可啟動驅動器
+io.gitlab.azymohliad.WatchMate	管理您的 PineTime
+io.gitlab.ballz.Ballz	控制滾動球的平台/益智遊戲
+io.gitlab.celleron56.libretile	開源瓷磚遊戲引擎之類的東西
+io.gitlab.coolreader_ng.crqt-ng	跨平台開源電子書閱讀器
+io.gitlab.cyberphantom52.sudoku_solver	一個簡單的數獨 Sovler
+io.gitlab.daikhan.stable	有風格地播放影片/音樂
+io.gitlab.dev_nis.one-click-backup	透過複製資料夾將資料夾備份到外部位置的簡單程序
+io.gitlab.floodlight.Presenter	免費、自由、開源的演示和歌詞程序
+io.gitlab.Goodvibes	播放網路廣播
+io.gitlab.gregorni.Calligraphy	將您的文字轉換為 ASCII 橫幅
+io.gitlab.gregorni.Letterpress	創造美麗的 ASCII 藝術
+io.gitlab.gwendalj.package-transporter	跨安裝傳輸您的應用程式
+io.gitlab.idevecore.Pomodoro	番茄鐘是一款專注於生產力的計時器
+io.gitlab.jazztickets.choria	最後，一款 MMORPG 的全部內容就是磨練和做家事。
+io.gitlab.jazztickets.emptyclip	Empty Clip 是一款自上而下的射擊動作角色扮演遊戲。
+io.gitlab.jazztickets.irrlamb	3D 物理遊戲，您可以控制藍色能量球，嘗試觸摸所有發光的球體
+io.gitlab.jazztickets.openflap	一款關於透過永無止境的管道間隙彈跳球的遊戲
+io.gitlab.leesonwai.Sums	使用後綴表示法計算
+io.gitlab.leesonwai.Tactics	建立你的足球陣容
+io.gitlab.librewolf-community	LibreWolf 網頁瀏覽器
+io.gitlab.news_flash.NewsFlash	跟上您的動態
+io.gitlab.o20.word	適用於 Linux 的開源 MS Word 2019 克隆...
+io.gitlab.osslugaru.Lugaru	第三人稱忍者兔格鬥遊戲
+io.gitlab.persiangolf.voicegen	輕鬆將文字轉換為語音
+io.gitlab.stone_kingdoms.StoneKingdoms	開源要塞粉絲重製版
+io.gitlab.theevilskeleton.Upscaler	升級並增強影像
+io.gitlab.Turtlico	學習程式設計工具
+io.gitlab.zehkira.Monophony	從 YouTube Music 串流音樂
+io.howl.Editor	具有以鍵盤為中心的簡約介面的輕量級編輯器
+io.itch.azagaya.Laigter	用於產生 2D 紋理的法線、鏡面反射、遮擋和視差貼圖的工具
+io.itch.doctorm64.skippybot	Skippy 正在進行一場史詩般的探索，以解開其真正的命運。
+io.itch.domestique_baston.domestique_baston	1對1的格鬥遊戲
+io.itch.drwhut.TabletopClub	在基於物理的 3D 沙盒中玩桌上遊戲
+io.itch.itch	安裝、更新和玩獨立遊戲
+io.itch.keyikedalube_ndang.Type-Off	簡短的 6 分鐘打字速度遊戲
+io.itch.nordup.TheGates	前往世界各地開發者創造的不同世界！
+io.jamulus.Jamulus	賈穆勒斯。網路即興演奏軟體
+io.jor.bugdom	從索拉克斯邪惡的火蟻手中拯救巴格多姆
+io.jor.bugdom2	追蹤惡霸蜂並拿回你的背包！
+io.jor.mightymike	瘋狂玩具店中的強力行動救援！
+io.jor.nanosaur	在流星撞擊地球之前將恐龍蛋送到未來！
+io.jor.nanosaur2	駕駛裝載高科技武器的翼手龍
+io.jor.ottomatic	從 X 行星巨腦的魔掌中拯救地球
+io.kapsa.drive	零知識E2E加密儲存相容於任何S3供應商
+io.kinvolk.Headlamp	易於使用且可擴充的 Kubernetes Web UI
+io.kopia.KopiaUI	備份方案
+io.liri.Calculator	進行算術或科學計算
+io.liri.Text	編輯文字文件
+io.lmms.LMMS	音樂製作應用程式
+io.mango3d.LycheeSlicer	適用於樹脂和長絲 3D 列印機的強大且多功能的切片機
+io.mgba.mGBA	任天堂 Game Boy Advance 模擬器
+io.missioncenter.MissionCenter	監控系統資源使用情況
+io.mpv.Mpv	免費、開源、跨平台的媒體播放器
+io.mrarm.mcpelauncher	在 GNU/Linux 下載並玩 Minecraft 基岩版
+io.naox.InnerBreeze	一個冥想應用程序，用於指導和追蹤您的 Wim Hof 呼吸練習
+io.neovim.nvim	Vim-fork 專注於可擴充性和可用性
+io.openrct2.OpenRCT2	一款模擬遊樂園管理的建置與管理模擬遊戲
+io.osdn.simplesok	簡單的推箱子遊戲
+io.otsaloma.gaupol	基於文字的字幕編輯器
+io.otsaloma.nfoview	NFO 文件檢視器
+io.photoflare.photoflare	簡單但功能強大的跨平台圖像編輯器
+io.podman_desktop.PodmanDesktop	從單一 UI 和托盤管理 Podman 和其他容器引擎
+io.poez.Poezio	Poezio 是一個免費的控制台 XMPP 用戶端
+io.posidon.Paper	在 Markdown 做筆記
+io.qt.Designer	為 Qt 應用程式設計 GUI
+io.qt.Linguist	將翻譯新增至 Qt 應用程式
+io.qt.qdbusviewer	調試 D-Bus 應用程式
+io.qt.QtCreator	為應用程式開發人員提供跨平台、完整的整合開發環境（IDE），為多個平台和裝置創建應用程式
+io.qt.qtwebengine.BaseApp	使用 Qt WebEngine 的應用程式的共享平台
+io.sourceforge.chart_geany.chart-geany	Chart Geany 是一款免費的跨平台軟體解決方案，用於市場技術分析、圖表和投資組合管理器
+io.sourceforge.clonekeenplus	用於玩 Commander Keen 和 Cosmos the Cosmic Adventure 遊戲系列的引擎
+io.sourceforge.pentobi	桌遊 Blokus 的電腦對手
+io.sourceforge.pipewalker.PipeWalker	連結益智遊戲
+io.sourceforge.Pixelitor	Pixelitor 是一個開源影像編輯器
+io.sourceforge.pysolfc.PySolFC	紙牌遊戲彙編
+io.sourceforge.qoobar.Qoobar	Qoobar 是一個簡單的古典音樂標籤編輯器
+io.sourceforge.trigger_rally.TriggerRally	快節奏的單人拉力賽車遊戲
+io.sourceforge.YSoccer	復古風格的足球遊戲
+io.sourceforge.zaz	益智遊戲，玩家必須將球排列成三胞胎。
+io.stoplight.studio	紅綠燈工作室。輕鬆的 API 設計。
+io.thp.numptyphysics	一款以蠟筆為基礎的實體益智遊戲
+io.trustable.stpadocumentationtool	系統理論過程分析工具 - 促進 STPA 並自動化文件記錄
+io.typora.Typora	一個最小的 Markdown 閱讀和寫作應用程序
+io.unobserved.espansoGUI	espanso 的 GUI 介面
+io.vikunja.Vikunja	開源待辦事項應用程式
+io.wasabiwallet.WasabiWallet	開源、非託管、注重隱私的桌面比特幣錢包，實現了無需信任的 CoinJoin。
+io.wavebox.Wavebox	新一代網路桌面通信
+io.webtorrent.WebTorrent	串流媒體種子應用程式
+ir.imansalmani.IPlan	您改善個人生活和工作流程的計劃
+it.cuteworks.pacmanlogviewer	檢查 pacman 日誌
+it.fabiodistasio.AntaresSQL	現代、快速、生產力驅動的 SQL 用戶端，重點在於使用者體驗
+it.mijorus.collector	拖放到下一個級別
+it.mijorus.gearlever	管理應用程式映像
+it.mijorus.smile	表情符號選擇器
+it.mijorus.whisper	聽你的麥克風
+jp.yvt.OpenSpades	開源體素射擊遊戲
+la.ogri.strongbox	魔獸世界插件管理器
+life.bolls.bolls	一個用於閱讀聖經的網路應用程序，完全強調上帝的話語。唯獨聖經
+lv.martinsz.millionaire	回答所有問題即可贏得 100 萬美元。
+md.obsidian.Obsidian	基於Markdown的知識庫
+me.acristoffers.Lachesis	莫伊萊主管
+me.ahola.aphototoollibre	Linux 下的照片編輯器
+me.broken_by.PdfMetadataEditor	編輯 PDF 元數據
+media.emby.EmbyServer	開放媒體解決方案
+media.emby.EmbyTheater	開放媒體解決方案
+me.dusansimic.DynamicWallpaper	Gnome 42 的動態桌布創建器
+me.hergert.Schemes	GtkSourceView 的設計風格方案
+me.hyliu.fluentreader	現代桌面 RSS 閱讀器
+me.iepure.devtoolbox	觸手可及的開發工具
+me.iepure.Ticketbooth	追蹤您最喜愛的節目
+me.kozec.syncthingtk	Syncthing 的 GUI 和通知區域圖標
+me.leucoso.Grock	顯示英國的地質圖。
+me.mitya57.ReText	適用於 Markdown 和 reStructuredText 的簡單文字編輯器
+me.njean.shootingpactris	一款帶有俄羅斯方塊、吃豆子和 shmup 遊戲玩法的合作復古遊戲。
+me.orszulak.keyring	簡單漂亮或漂亮簡單的 OTP 生成器。
+me.ppvan.psequel	執行您的 SQL 查詢
+me.sanchezrodriguez.passes	管理您的數位通行證
+me.simakis.dropboxignore	這都是關於丟失的 .dropboxignore 文件。
+me.timschneeberger.GalaxyBudsClient	適用於 Windows 和 Linux 的非官方 Galaxy Buds Manager
+me.timschneeberger.jdsp4linux	Pipewire 的開源音訊效果處理器
+ml.mdwalters.EightBall	輕鬆做出決定
+ml.mdwalters.Lemonade	關注 Lemmy 的討論
+ml.prevete.Daty	免費維基數據編輯器。
+mobi.snowball.Snowball	一種類似於平台循環/嗡嗡聲線遊戲的新穎的速度運行遊戲
+moe.clover.mm3d	遊戲 3D 模型編輯器和動畫師
+moe.karaokes.mugen	卡拉 OK 會話管理器和播放器
+moe.tundra.Tundra	自動更新您的動漫列表
+mx.pwmc.Svgvi	使用 XML 聲明的 SVG 檢視器和編輯器
+net._86box._86Box	經典 IBM PC 克隆的模擬器
+net.agalwood.Motrix	功能齊全的下載管理器
+net.ankiweb.Anki	功能強大、智慧的快閃記憶體卡
+net.bartkessels.getit	向 API 端點發送 HTTP 請求
+net.baseart.Glide	播放電影和音訊文件
+net.biniou.LeBiniou	使用者友善、功能強大的音樂視覺化/VJing 工具
+net.blix.BlueMail	BlueMail 電子郵件和日曆應用程式
+net.blockattack.game	快節奏的三消/方塊掉落遊戲
+net.blockbench.Blockbench	Blockbench - 四四方方的 3D 模型編輯器
+net.blockout.BlockOutII	原版 BlockOut 遊戲的免費改編版
+net.blumia.pineapple-pictures	圖片瀏覽器
+net.brinkervii.grapejuice	Roblox Player 和 Roblox Studio 的啟動器
+net.cebix.basilisk	68k Macintosh 模擬器
+net.christianbeier.Gromit-MPX	Gromit-MPX是一個在螢幕上進行註解的工具
+net.christianbeier.MultiVNC	跨平台、支援多播的 VNC 檢視器
+net.codeindustry.MasterPDFEditor	檢視、建立、修改、簽署、掃描、OCR 和列印 PDF 文檔
+net.corluma.Corluma	控制 Philip's Hues、LIFX、Nanoleafs 和 Arduino。
+net.cozic.joplin_desktop	開源筆記和待辦事項應用程式
+net.crossfireatlas.crossfire	Roguelike 多用戶角色扮演遊戲
+net.cubers.assault.AssaultCube	快速街機第一人稱射擊遊戲
+net.daase.journable	簡單的子彈日記
+net.danigm.loop	一台簡單的 GNOME 音訊循環機
+net.danigm.timetrack	GNOME 的時間表
+net.darkradiant.DarkRadiant	適用於 The Dark Mod 和 Doom 3 的 3D 關卡編輯器
+net.davidotek.pupgui2	安裝基於 Wine 和 Proton 的相容性工具
+net.dengine.Doomsday	Doom、Heretic 和 Hexen 的增強源端口
+net.devolutions.RDM	集中、管理和保護遠端連接
+net.displaycal.DisplayCAL	顯示校準和分析，重點關注準確性和多功能性
+net.drawpile.drawpile	協作繪圖
+net.epson.epsonscan2	適用於愛普生掃描器和多功能印表機的軟體
+net.fasterland.converseen	批次影像處理器
+net.filebot.FileBot	終極電視和電影重命名器
+net.freerct.FreeRCT	主題樂園策略遊戲
+net.fsuae.FS-UAE	FS-UAE Amiga 模擬器
+net.gaijin.WarThunder	War Thunder 是最全面的免費跨平台 MMO 軍事遊戲。
+net.giuspen.cherrytree	分層筆記
+net.goatattack.goatattack	多人像素藝術射擊遊戲
+net.gradator.gtkatlantic	像大富翁這樣的遊戲
+net.granjow.slowmovideo	SlowmoVideo 是一個開源程序，可以根據您的素材創建慢動作視頻。
+net.gwyddion.Gwyddion	SPM（掃描探針顯微鏡）資料視覺化和分析程序
+net.hovancik.Stretchly	休息時間提醒應用程式
+net.huitsi.ParallelOverhead	無盡的跑酷遊戲
+net.imaginaryinfinity.Squiid	進行高級代數和 RPN 計算
+net.jami.Jami	面向隱私的語音、視訊、聊天和會議平台
+net.jammr.jammr	透過網路與音樂家一起演奏
+net.jenyay.Outwiker	個人維基和大綱。
+net.kirgroup.confy	會議日程檢視器
+net.krafting.Playlifin	將 YouTube 播放清單同步到 Jellyfin
+net.krafting.PlaylifinVoyager	將播放清單傳輸到 Jellyfin 或從 Jellyfin 傳輸播放清單
+net.krafting.PleasureDVR	Chaturbate 網站的 DVR
+net.kubux.Muehle	玩九人莫里斯遊戲。
+net.kuribo64.melonDS	任天堂 DS 和 DSi 模擬器
+net.kvirc.KVIrc	KVIrc 是一款免費的便攜式 IRC 用戶端
+net.launchpad.Gnuclad	分支圖樹產生器
+net.line72.campcounselor	Bandcamp.com 願望清單管理器
+net.longturn.freeciv21	Freeciv21 - 21 世紀的 Freeciv
+net.lugsole.bible_gui	支援多種翻譯和語言的聖經應用程序
+net.lutris.Lutris	電子遊戲保存平台
+net.mancubus.SLADE	這是一個《毀滅戰士》編輯器
+net.mediaarea.AVIMetaEdit	嵌入、驗證和匯出 AVI 文件元數據
+net.mediaarea.BWFMetaEdit	嵌入、驗證和匯出 BWF 文件元數據
+net.mediaarea.DVAnalyzer	分析 DV 流並報告錯誤
+net.mediaarea.MediaConch	實施檢查者、政策檢查者、報告者和修復者
+net.mediaarea.MediaInfo	方便統一顯示視訊和音訊檔案最相關的技術和標籤數據
+net.mediaarea.MOVMetaEdit	在 MOV 或 MP4 檔案中嵌入和編輯通用廣告 ID 元數據
+net.mediaarea.QCTools	用於視訊保存的品質控制工具
+net.meijn.onvifviewer	使用 ONVIF 協定檢視和控製網路攝影機
+net.meshlab.MeshLab	免費開源處理和編輯 3D 三角形網格
+net.minetest.Minetest	多人無限世界方塊沙盒遊戲
+net.mkiol.SpeechNote	使用離線語音轉文字、文字轉語音和機器翻譯進行筆記、閱讀和翻譯
+net.mullvad.MullvadBrowser	讓網路免受大規模監控
+net.natesales.Aviator	您的視訊副駕駛：AV1/OPUS 視訊編碼器
+net.nokyan.Resources	監控您的系統資源和進程
+net.olofson.KoboDeluxe	第三人稱捲軸 2D 射擊遊戲
+net.openra.OpenRA	重新構想早期 Westwood 即時戰略遊戲
+net.oz9aec.Gpredict	即時衛星追蹤和軌道預測程序
+net.pcsx2.PCSX2	PlayStation 2 模擬器
+net.peercoin.peercoin-qt	Peercoin，一種永續未來的綠色加密貨幣。
+net.pioneerspacesim.Pioneer	一款孤獨的太空冒險遊戲
+net.pistegamez.PekkaKana2	秉承古老經典平台遊戲精神的跳躍與跑步遊戲
+net.poedit.Poedit	簡單的翻譯編輯器
+net.puddletag.puddletag	強大的 ID3 標籤編輯器
+net.purrdata.PurrData	一種基於純數據的開源多媒體視覺化程式語言
+net.qsl.QSSTV	SSTV 和 HAMDRM 接收和傳輸程序
+net.redeclipse.RedEclipse	具有敏捷遊戲玩法和內建編輯器的第一人稱射擊遊戲
+net.retrodeck.retrodeck	RetroDECK 帶來了一個直接在 Steam Deck 上編目和玩復古遊戲的環境
+net.rpcs3.RPCS3	開源索尼 PlayStation 3 模擬器
+net.rpdev.OpenTodoList	待辦事項清單和筆記應用程式
+net.runelite.RuneLite	RuneLite OSRS 用戶端
+net.sapples.LiveCaptions	桌面版即時字幕
+net.scribus.Scribus	開源頁面佈局和桌面排版 (DTP)
+net.seamly.seamly2d	縫製花樣設計軟體
+net.sf.fuse_emulator	Sinclair ZX 頻譜模擬器
+net.sf.metronomek	看似平凡的節拍器，有著自然的聲音和複雜的可能性
+net.sf.nootka	學習古典樂譜的應用
+net.sf.VICE	多功能 Commodore 模擬器
+net.shrew.ike.qikea	用於管理遠端站點配置的應用程式
+net.sonic_pi.SonicPi	基於代碼的音樂創作和表演工具
+net.sonobus.SonoBus	免費開源網路音訊串流
+net.sourceforge.artha.Artha	開放同義詞庫
+net.sourceforge.atanks	回合製砲兵策略遊戲
+net.sourceforge.audmes.audmes	音頻測量系統
+net.sourceforge.btanks	一款充滿樂趣的坦克捲軸遊戲
+net.sourceforge.Chessx	免費國際象棋資料庫
+net.sourceforge.chromium-bsu	快節奏、街機風格、頂級捲軸太空射擊遊戲
+net.sourceforge.dmidiplayer	Drumstick 多平台 MIDI 檔案播放器
+net.sourceforge.DuneLegacy	現代《沙丘 II》的重新實現
+net.sourceforge.efaxgtk	使用 Linux/Unix 傳送傳真
+net.sourceforge.electrip.Electrip	使用遊戲手把控制您的模型鐵路！
+net.sourceforge.ExtremeTuxRacer	基於Tux Racer的高速北極賽車遊戲
+net.sourceforge.Fillets	70 個關卡的益智遊戲
+net.sourceforge.fretsonfire	Frets on Fire 是一款考驗音樂技巧和快速手指的遊戲。遊戲的目的是盡可能準確地用鍵盤彈奏吉他。
+net.sourceforge.fspclient	FSP 的類別 FTP 介面
+net.sourceforge.GrandOrgue	管風琴模擬器
+net.sourceforge.Hugin	全景照片拼接器等
+net.sourceforge.jpdftweak.jPdfTweak	用於 PDF 檔案的瑞士軍刀
+net.sourceforge.Kino	適用於 GNU/Linux 和 BSD 平台的 Kino DV 非線性影片編輯器
+net.sourceforge.Klavaro	盲打導師
+net.sourceforge.kmetronome	以 ALSA 音序器為基礎的鼓棒 MIDI 節拍器
+net.sourceforge.kmidimon	Drumstick MIDI Monitor 是一個使用 ALSA 音序器的 Linux MIDI 監視器
+net.sourceforge.lgames.LBreakoutHD	打磚塊/打磚塊類似遊戲
+net.sourceforge.lgames.LGeneral	回合製策略遊戲引擎（如 Panzer General）
+net.sourceforge.lgames.LPairs2	經典記憶遊戲
+net.sourceforge.lgames.LTris	下落方塊的技巧遊戲
+net.sourceforge.Lifeograph	數位日記和筆記
+net.sourceforge.liferea	RSS 提要閱讀器
+net.sourceforge.mars-game	具有酷炫視覺效果的 2D 太空射擊遊戲
+net.sourceforge.mcomix	漫畫和通用圖像檢視器
+net.sourceforge.molsketch	2D 分子結構編輯器
+net.sourceforge.OpenLieroX	橫向捲軸射擊遊戲，你可以控製配備各種武器的蠕蟲
+net.sourceforge.osmo	個人組織者
+net.sourceforge.paulstretch	這是一個用於極端聲音拉伸（如 50 倍）和透過平滑聲音頻譜來應用特殊效果的程式。
+net.sourceforge.pdfchain	PDF Chain 是 PDF 工具包 (PDFtk) 的圖形使用者介面
+net.sourceforge.Pdfedit	PDF 編輯器能夠瀏覽/編輯原始 pdf 物件樹
+net.sourceforge.projectM	使用基於 3D 加速迭代圖像渲染的音樂視覺化工具
+net.sourceforge.qtpfsgui.LuminanceHDR	建立 HDR 影像
+net.sourceforge.QtSpim	運行 MIPS32 程式的獨立模擬器
+net.sourceforge.quakespasm.Quakespasm	原始 Quake 引擎的現代移植
+net.sourceforge.Ri-li	兒童遊戲，駕駛玩具木製發動機
+net.sourceforge.roccat.roccat-tools	用於配置 Roccat 設備的應用程式。
+net.sourceforge.scidavis	科學數據分析與視覺化應用
+net.sourceforge.SDL-Ball	具有漂亮圖形的打磚塊遊戲
+net.sourceforge.squirrel_sql	SQuirreL SQL 用戶端是一個 GUI，可讓您查看 JDBC 相容資料庫的結構、瀏覽表中的資料、發出 SQL 命令等。支援 MySQL、PostgreSQL、MariaDB 和 SQLite。
+net.sourceforge.Teo	湯姆遜TO8D模擬器
+net.sourceforge.tomatoes.IHaveNoTomatoes	砸番茄遊戲
+net.sourceforge.torcs	開放式賽車模擬器
+net.sourceforge.TuxFootball	一款精彩的 2D 足球（有時稱為橄欖球）遊戲
+net.sourceforge.uhexen2.uhexen2	Hexen II 的現代化來源端口
+net.sourceforge.VMPK	虛擬 MIDI 鋼琴鍵盤：MIDI 事件產生器與接收器
+net.sourceforge.wavbreaker	用於分割 WAV、MP2 和 MP3 檔案的 GUI 工具
+net.sourceforge.wxEDID	讀取和編輯擴充功能顯示識別資料 (EDID) 文件
+net.stabyourself.nottetris2	基於物理的俄羅斯方塊
+net.studio08.xbplay	從您的主機或 xCloud 進行遠端遊戲
+net.supertuxkart.SuperTuxKart	一款3D開源卡丁車賽車遊戲
+net.tedomum.CapBattleship	戰艦遊戲，以海盜為主題
+net.unvanquished.Unvanquished	快節奏的第一人稱策略遊戲
+net.veloren.airshipper	Airshipper 是 Veloren 的官方啟動器。
+net.veloren.veloren	Veloren 是一款以 Rust 編寫的多人體素角色扮演遊戲。它的靈感來自《魔術方塊世界》、《薩爾達傳說：曠野之息》、《矮人要塞》和《我的世界》等遊戲。
+net.warsow.Warsow	快節奏 3D 第一人稱射擊遊戲
+net.waterfox.waterfox	專為現代網路打造的輕量級、免費且開源的網頁瀏覽器。
+net.werwolv.ImHex	逆向工程師和程式設計師的十六進位編輯器
+network.bisq.Bisq	去中心化的比特幣交易網路。
+network.koesling.shm-modbus	模擬 modbus TCP/RTU 客戶端的工具集合
+network.loki.Session	私人信使
+net.worldofpadman.WoP	精心設計、色彩繽紛的免費軟體，適合年輕人和心態年輕的人的有趣射擊遊戲
+net.wz2100.wz2100	指揮「計劃」部隊參加重建世界的戰鬥。
+net.xm1math.Texmaker	乳膠編輯器
+net.xmind.XMind	心智圖與腦力激盪
+net.xmind.XMind8	令人驚嘆的腦力激盪和心智圖工具。
+net.zgcoder.skycheckers	將敵人從舞台上炸下來
+nl.brixit.powersupply	Linux 電源子系統偵錯工具
+nl.brixit.wiremapper	Pockethernet 網路測試儀的 Linux 用戶端
+nl.g4d.Girens	觀看您的 Plex 內容
+nl.hjdskes.gcolor3	從選擇器或螢幕中選擇顏色
+nl.lostboys.rollemup	90 年代末的經典彈珠遊戲。
+nl.openoffice.bluefish	具有許多網路和軟體開發附加功能的文字編輯器
+nl.sarine.gpx-viewer	一個簡單的 gpx 檢視器
+nl.v0yd.Capsule	藥物追蹤器
+no.mifi.losslesscut	透過快速無損地修剪視訊和音訊檔案來節省空間
+nz.mega.MEGAsync	您的電腦和 MEGA Cloud Drive 之間輕鬆自動同步。
+one.ablaze.floorp	地板瀏覽器
+one.alynx.FlipClock	SDL2 支援的翻轉時脈螢幕保護程式。
+one.flipperzero.qFlipper	用於透過 PC 更新 Flipper Zero 韌體的圖形桌面應用程式
+one.jiri.easydict-gtk	第一個開源翻譯器，也完全開放字典資料。
+one.mixin.messenger	混合信使
+online.athn.browser.gnome	適用於 gnome 的 ATHN 瀏覽器
+org._2006Scape.Launcher	2006Scape 是一款免費的 Runescape 2006 類比伺服器
+org._2009scape.Launcher	Runescape 2009 模擬伺服器的啟動器
+org.adishatz.syncpasswd	更新密碼
+org.alienarena.alienarena	超快節奏的競技場 FPS
+org.aliflang.lang	Alif(???)，阿拉伯語程式語言
+org.altaqwaa.Altaqwaa	《古蘭經》、adhkar 和祈禱時間
+org.americanmonk.TipitakaPaliReader	這是一款可以輕鬆閱讀上座部佛教三藏巴利文並獲得定義的應用程式
+org.apache.directory.studio	完整的目錄工具平台
+org.apache.jmeter	負載測試和效能測量應用
+org.apache.netbeans	NetBeans - Apache Java IDE。將各個部分組合在一起
+org.ardour.Ardour	數位音訊工作站
+org.armagetronad.ArmagetronAdvanced	3D光輪遊戲
+org.arrl.trustedqsl	業餘無線電接觸驗證工具
+org.artsoft.rocksndiamonds	寶石收集益智遊戲
+org.asc_hq.ASC	回合製策略遊戲
+org.atheme.audacious	輕量級音訊播放器
+org.audacityteam.Audacity	Audacity 是世界上最受歡迎的音訊編輯和錄音應用程式
+org.audiveris.audiveris	光學音樂辨識 (OMR) 應用
+org.avidemux.Avidemux	多用途影片編輯與處理軟體
+org.b3log.siyuan	隱私優先的個人知識管理系統，支援細粒度的區塊級引用和Markdown所見即所得
+org.beeref.BeeRef	一個簡單的參考影像檢視器
+org.bino3d.bino	3D視訊播放器
+org.bionus.Grabber	非常可自訂的圖像板/booru 下載器，具有強大的檔案命名功能
+org.bitbucket.mystery_keeper.VapourSynthEditor	VapourSynth 腳本編輯器
+org.bitcoincore.bitcoin-qt	全面驗證比特幣點對點網路節點、錢包和GUI
+org.bitfighter.Bitfighter	多人向量圖形太空遊戲
+org.blackcoin.blackcoin-more	真正的去中心化數位貨幣
+org.blackfennec.app	可擴展的半結構化資料編輯環境
+org.bleachbit.BleachBit	清理文件以釋放磁碟空間並維護隱私
+org.blender.Blender	免費開源 3D 創作套件
+org.bluej.BlueJ	適合初學者的 Java IDE
+org.bluesabre.MenuLibre	符合 FreeDesktop.org 的高級選單編輯器
+org.briarproject.Briar	隨時隨地安全訊息傳送
+org.btchd.btchd-qt	連接BitcoinHD P2P網絡
+org.buhocms.BuhoCMS	用於靜態網站產生器的本機 CMS
+org.bunkus.mkvtoolnix-gui	Matroska 檔案建立器和工具
+org.bzdev.CVRDecode	加州數位 COVID-19 疫苗記錄解碼器
+org.bzflag.BZFlag	一款3D第一人稱戰車大戰遊戲
+org.caione.GScope	GTK 與 cscope 的接口
+org.chocolate_doom.ChocolateDoom	保守的末日來源端口
+org.chromium.Chromium	來自 Chromium 專案的網頁瀏覽器
+org.citra_emu.citra	任天堂 3DS 模擬器
+org.claws_mail.Claws-Mail	Claws Mail 是一個基於 GTK+ 的電子郵件用戶端（和新聞閱讀器）
+org.clementine_player.Clementine	播放音樂檔案及網路廣播
+org.cloudcompare.CloudCompare	3D點雲和網格處理軟體
+org.cockpit_project.CockpitClient	使用 Cockpit 透過 ssh 連接到伺服器
+org.codeberg.dimkard.glossaico	語言學習應用
+org.codeblocks.codeblocks	適用於 C、C++ 和 Fortran 的 IDE
+org.contourterminal.Contour	Contour 是一個現代且實際上快速的模態虛擬終端模擬器，適合日常使用
+org.coolero.Coolero	Coolero 是一個監控和控製冷卻設備的程序
+org.cryptomator.Cryptomator	針對雲端儲存最佳化的多平台用戶端加密工具
+org.cubocore.CoreAction	帶有一些方便小工具的側欄
+org.cubocore.CoreArchiver	一個簡單的檔案壓縮/解壓縮實用程序
+org.cubocore.CoreFM	一個簡單的輕量級易於使用的文件管理器
+org.cubocore.CoreHunt	一個易於使用的快速文件搜尋工具
+org.cubocore.CoreImage	一個簡單、輕量、易於使用的影像檢視器
+org.cubocore.CoreInfo	一個簡單的文件元資料檢視器
+org.cubocore.CoreKeyboard	帶有單字建議的簡單虛擬鍵盤
+org.cubocore.CorePad	一個簡單的輕量級但功能強大的文字編輯器
+org.cubocore.CorePaint	一個簡單的繪畫工具
+org.cubocore.CorePDF	一個簡單的輕量級 PDF 檢視器
+org.cubocore.CoreRenamer	一個簡單的輕量級批次檔重命名器
+org.cubocore.CoreShot	適用於 X11 的簡單輕量級螢幕擷取實用程式
+org.cubocore.CoreStats	一個簡單的輕量級系統資源檢視器
+org.cubocore.CoreTime	與時間相關的任務管理器
+org.cvfosammmm.Porto	在桌面上編輯 Jupyter 筆記本
+org.cvfosammmm.Setzer	簡單但功能齊全的 LaTeX 編輯器
+org.cznic.Datovka	數據框的免費圖形使用者介面
+org.d3cod3.Mosaic	基於開放框架的視覺修補創意編碼平台
+org.darkdimension.rue	一款關於演繹、愛與遺憾的卡牌遊戲。
+org.darktable.Darktable	組織和開發數位相機中的影像
+org.dash.electrum.electrum_dash	輕量級達世幣客戶端
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange 網關
+org.debian.TuxPuck	3D 沙狐球乒乓球遊戲
+org.deidentifier.arx	ARX資料匿名化工具
+org.deluge_torrent.deluge	功能齊全的 BitTorrent 用戶端
+org.denemo.Denemo	創建樂譜
+org.desmume.DeSmuME	任天堂 DS 模擬器
+org.develz.Crawl	Roguelike地牢探索遊戲
+org.dhewm3.Dhewm3	dhewm 3 是 Doom 3 GPL 來源端口
+org.diasurgical.DevilutionX	適用於現代作業系統的 Diablo/Hellfire 來源端口
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce 模擬器
+org.duckstation.DuckStation	PlayStation模擬器
+org.dupot.beatmatchtopass	擊敗他們所有人
+org.dupot.littleadventure	角色扮演像素藝術小遊戲
+org.dust3d.dust3d	快速 3D 建模工具
+org.easycoding.TunedSwitcher	操作 Tuned 服務的簡單實用程序
+org.eclipse.iot.fourdiac.Ide	相容 IEC 61499 的開源 PLC IDE
+org.eclipse.Java	任何 Java 開發人員的必備工具，包括 Java IDE、Git 客戶端、XML 編輯器、Maven 和 Gradle 集成
+org.eclipse.Javascript	任何 JavaScript 開發人員的必備工具，包括 JavaScript、TypeScript、HTML、CSS、XML、Yaml、Markdown 語言支持
+org.eclipse.sumo	微觀交通模擬
+org.electrum.electrum	輕量級比特幣客戶端
+org.emilien.Password	強密碼可達到最大程度的安全性
+org.emilien.SpaceLaunch	下一枚火箭什麼時候升空？
+org.emptyflow.ArdorQuery	Rest API、GraphQL、HTTP(s) 測試工具
+org.endlessos.Key	隨時隨地規劃學習
+org.enjoyingfoss.FOSStriangulator	用照片製作三角插圖的工具
+org.entangle_photo.Manager	繫留相機控制與捕捉
+org.equeim.Tremotesf	Transmission BitTorrent 用戶端的遠端 GUI
+org.eu.encom.spectral	Matrix 協定的 IM 用戶端
+org.eu.getcatalyst.Catalyst	由 Electron 提供支援的輕量級且以使用者為中心的 Web 瀏覽器
+org.eu.wabarc.wayback	用於將網頁存檔至網際網路檔案館、archive.today、IPFS 和本機檔案系統的自架工具包
+org.exaile.Exaile	聆聽、探索或管理您的音訊收藏
+org.exbin.BinEd	二進位/十六進位編輯器
+org.expresslrs.ExpressLRSConfigurator	ExpressLRS 韌體的跨平台設定工具
+org.eyecreate.qiflora	使用 Mi Flora 設備監控植物的行動友善應用程式。
+org.eyecreate.vehiclevoyage	追蹤車輛服務歷史記錄。
+org.famistudio.FamiStudio	FamiStudio NES 音樂編輯器
+org.fcitx.Fcitx5	輸入法
+org.fdroid.Repomaker	輕鬆建立 F-Droid 儲存庫
+org.featherwallet.Feather	門羅幣桌面錢包
+org.fedoraproject.MediaWriter	使用 Fedora 版本建立即時 USB 隨身碟的工具
+org.ferdium.Ferdium	桌面版 Messenger
+org.filezillaproject.Filezilla	快速可靠的 FTP 用戶端
+org.filmulator.Filmulator	Filmulator 的 GUI 改編版，是一款具有所有優點但沒有任何缺點的電影模擬器
+org.firestormviewer.FirestormViewer	用於存取 3D 虛擬世界的用戶端
+org.fkoehler.KTailctl	Tailscale 網狀網路的 GUI
+org.flameshot.Flameshot	功能強大且簡單易用的截圖軟體
+org.flarerpg.Flare	2D動作角色扮演遊戲
+org.flathub.flatpak-external-data-checker	用於檢查 Flatpak 清單中使用的外部資料是否仍然是最新的工具
+org.flatpak.qtdemo	Flatpak 開發者演示
+org.flightgear.FlightGear	免費且高度複雜的飛行模擬器
+org.flozz.calcleaner	一個簡單的圖形工具，用於從 CalDAV 日曆中清除舊事件
+org.flozz.yoga-image-optimizer	轉換和最佳化 JPEG、PNG 和 WebP 影像
+org.flycast.Flycast	Sega Dreamcast、Naomi 和 Atomiswave 模擬器
+org.fontforge.FontForge	輪廓字體編輯器
+org.freac.freac	音訊轉換器和 CD 擷取器
+org.free_astro.siril	天文圖像（前）處理程序
+org.freecadweb.FreeCAD	開源參數化 3D CAD 建模器
+org.freeciv.gtk322	基於 Gtk+-3.22 的 Freeciv 遊戲用戶端
+org.freeciv.qt	Freeciv 遊戲基於 Qt 的客戶端
+org.freecol.FreeCol	FreeCol 一款回合製策略遊戲。
+org.freedesktop.adriconf	進階 DRI 配置器
+org.freedesktop.appstream.cli	處理 AppStream 中的公用計劃數據
+org.freedesktop.appstream.generator	快速 AppStream 元資料產生器
+org.freedesktop.appstream-glib	AppStream 檔案驗證工具
+org.freedesktop.Bustle	繪製 D-Bus 活動的序列圖
+org.freedesktop.dabrain34.GstPipelineStudio	繪製您自己的 GStreamer 管道...
+org.freedesktop.dabrain34.squared	試著用數字填滿正方形
+org.freedesktop.fwupd	在 Linux 上更新設備韌體
+org.freedesktop.GstDebugViewer	檢查 GStreamer 調試日誌信息
+org.freedesktop.Piper	遊戲滑鼠配置實用程式
+org.freedesktop.Tuhi	從 Wacom Ink 系列裝置下載繪圖的實用程式
+org.freedownloadmanager.Manager	FDM 是一款功能強大的現代下載加速器和組織器。
+org.freefilesync.FreeFileSync	可視化資料夾比較和同步
+org.freeorion.FreeOrion	回合製太空帝國與銀河征服 (4X) 電腦遊戲
+org.freeplane.App	心智圖、知識管理、專案管理。以最有效的方式發展、組織和交流您的想法和知識
+org.frescobaldi.Frescobaldi	LilyPond 音樂編輯器
+org.fritzing.Fritzing	電子設計工具
+org.frozen_bubble.frozen-bubble	關於冰凍泡泡的令人上癮的遊戲
+org.gabmus.gfeeds	GNOME 新聞閱讀器
+org.gabmus.giara	Reddit 的應用程式
+org.gabmus.hydrapaper	具有多顯示器支援的壁紙管理器
+org.gabmus.notorious	以鍵盤為中心的音符
+org.gabmus.swatch	調色板管理器
+org.gabmus.unifydmin	用於輕鬆控制多個異質伺服器的 GNOME 應用程式
+org.gabmus.whatip	有關您的 IP 的信息
+org.gahshomar.Gahshomar	波斯/賈拉利/波斯曆
+org.gajim.Gajim	功能齊全的 XMPP 聊天用戶端
+org.gaphor.Gaphor	簡單的 UML 和 SysML 建模工具
+org.geany.Geany	快速且輕量級的 IDE
+org.geeqie.Geeqie	輕量級影像檢視器
+org.genivi.DLTViewer	診斷日誌和追蹤查看程序
+org.geogebra.GeoGebra	動態數學軟體
+org.gephi.Gephi	開放圖視覺化平台
+org.getmonero.Monero	Monero：安全、私密、不可追蹤的加密貨幣
+org.getoutline.OutlineClient	訪問免費開放的互聯網
+org.getoutline.OutlineManager	在雲端上設定 Outline 伺服器並管理誰有權存取該伺服器
+org.getzola.zola	單一二進位檔案中的快速靜態網站產生器，內建所有內容
+org.ghidra_sre.Ghidra	Ghidra 軟體逆向工程套件
+org.gimp.GIMP	建立圖像和編輯照片
+org.gmusicbrowser.gmusicbrowser	可收藏大量音樂的自動點唱機
+org.gna.Warmux	一款 2D 遊戲，有趣的角色發射有趣的武器
+org.gnode.NixView	nix 資料檔案檢視器
+org.gnome.Aisleriot	玩許多不同的紙牌遊戲
+org.gnome.atomix	用單一原子建構分子
+org.gnome.baobab	檢查資料夾大小和可用磁碟空間
+org.gnome.Boxes	虛擬化變簡單
+org.gnome.BreakTimer	GNOME 的電腦中斷提醒
+org.gnome.Builder	GNOME 的 IDE
+org.gnome.Calculator	進行算術、科學或金融計算
+org.gnome.Calendar	GNOME 日曆
+org.gnome.Calls	撥打電話和 SIP 呼叫
+org.gnome.Characters	字元對映表應用
+org.gnome.Cheese	使用網路攝影機拍攝照片和視頻，並享受有趣的圖形效果
+org.gnome.Chess	玩經典的兩人棋盤遊戲
+org.gnome.clocks	追蹤時間
+org.gnome.ColorViewer	檢查並比較已安裝的顏色配置文件
+org.gnome.Connections	查看和使用其他桌面
+org.gnome.Contacts	管理您的聯絡人
+org.gnome.Crosswords	解開填字遊戲
+org.gnome.Crosswords.Editor	創建填字遊戲
+org.gnome.DejaDup	保護自己免於資料遺失
+org.gnome.design.AppIconPreview	用於設計應用程式圖示的工具
+org.gnome.design.Contrast	檢查兩種顏色之間的對比度
+org.gnome.design.Emblem	產生專案頭像
+org.gnome.design.IconLibrary	您的應用程式的符號圖標
+org.gnome.design.Lorem	產生佔位符文本
+org.gnome.design.Palette	調色盤工具
+org.gnome.design.SymbolicPreview	符號學變簡單
+org.gnome.design.Typography	排版工具
+org.gnome.design.VectorSlicer	從 SVG 匯出多頁 PDF
+org.gnome.Devhelp	用於瀏覽和搜尋API文件的開發者工具
+org.gnome.dspy	GNOME 的 D-Bus 瀏覽器
+org.gnome.EasyTAG	編輯音訊檔案元數據
+org.gnome.eog	瀏覽和旋轉圖像
+org.gnome.Eolie	網頁瀏覽器
+org.gnome.Epiphany	瀏覽網頁
+org.gnome.Evince	適用於流行文檔格式的文檔檢視器
+org.gnome.Evolution	管理您的電子郵件、聯絡人和日程安排
+org.gnome.Extensions	管理您的 GNOME 擴展
+org.gnome.FileRoller	開啟、修改和建立壓縮存檔文件
+org.gnome.Firmware	在設備上安裝韌體
+org.gnome.five-or-more	透過形成線條從板上移除彩色球
+org.gnome.FontManager	適用於 Gtk+ 桌面環境的簡單字體管理應用程式
+org.gnome.font-viewer	查看系統上的字體
+org.gnome.Four-in-a-row	讓相同顏色的線獲勝
+org.gnome.Fractal	Matrix 群組訊息應用
+org.gnome.frogr	適用於 GNOME 的 flickr 上傳器
+org.gnome.gbrainy	gbrainy 是一款訓練記憶、算術、語言和邏輯技能的遊戲。
+org.gnome.Geary	發送和接收電子郵件
+org.gnome.gedit	文字編輯器
+org.gnome.Genius	Genius 是一個通用計算器程式
+org.gnome.GHex	檢查和編輯二進位文件
+org.gnome.gitg	git 的圖形使用者介面
+org.gnome.gitlab.bazylevnik0.Convolution	迷宮逃脫遊戲
+org.gnome.gitlab.Cowsay	Cowsay，使用 GNOME 約定的最先進的 Cowsay 生成器
+org.gnome.gitlab.dqpb.GMetronome	供作曲家和音樂家使用的節奏測量工具
+org.gnome.gitlab.ilhooq.Bookup	使用 Markdown 文法簡化你的筆記記錄
+org.gnome.gitlab.johannesjh.favagtk	使用 fava 和 beancount 進行財務管理
+org.gnome.gitlab.powimod.aion-task	循環工作管理員
+org.gnome.gitlab.somas.Apostrophe	以風格編輯 Markdown
+org.gnome.gitlab.YaLTeR.Identity	比較圖像和視頻
+org.gnome.gitlab.YaLTeR.VideoTrimmer	快速修剪視頻
+org.gnome.glabels-3	建立標籤、名片和媒體封面
+org.gnome.Glade	為 GTK+ 應用程式建立或開啟使用者介面設計
+org.gnome.Gnote	一個簡單的筆記應用程式
+org.gnome.GTG	個人任務和待辦事項清單項目管理器
+org.gnome.gThumb	查看和組織您的圖像
+org.gnome.Gtranslator	翻譯和在地化應用程式和庫
+org.gnome.Hamster	您的個人計時工具
+org.gnome.HexGL	太空賽車遊戲
+org.gnome.Hitori	玩 Hitori 益智遊戲
+org.gnome.Keysign	OpenPGP 金鑰簽署助手
+org.gnome.Klotski	滑動塊來解決難題
+org.gnome.LightsOff	關掉所有燈
+org.gnome.Logs	查看系統的詳細事件日誌
+org.gnome.Lollypop	播放並整理您的音樂收藏
+org.gnome.Loupe	查看影像
+org.gnome.Mahjongg	匹配瓷磚並清除棋盤
+org.gnome.Maps	尋找世界各地的地方
+org.gnome.meld	比較並合併您的文件
+org.gnome.Mines	清除雷區隱藏的地雷
+org.gnome.moserial	串口終端
+org.gnome.Music	播放並整理您的音樂收藏
+org.gnome.NautilusPreviewer	提供快速查看不同類型文件的工具
+org.gnome.NetworkDisplays	將桌面串流傳輸到支援 Wi-Fi Display 的設備
+org.gnome.Nibbles	引導蠕蟲繞過迷宮
+org.gnome.Notes	GNOME 註釋
+org.gnome.OCRFeeder	完整的 OCR 套件
+org.gnome.OfficeRunner	合上筆記型電腦蓋子並開始運行
+org.gnome.Photos	在 GNOME 上存取、整理和分享您的照片
+org.gnome.Pinpoint	幫助駭客進行精彩的演示
+org.gnome.Podcasts	聆聽您喜愛的節目
+org.gnome.Polari	與 IRC 上的人交談
+org.gnome.PowerStats	觀察電源管理
+org.gnome.Quadrapassel	將下落的方塊組裝在一起
+org.gnome.Recipes	GNOME 喜歡做飯
+org.gnome.Reversi	在經典的黑白棋遊戲中稱霸棋盤，或玩相反的遊戲
+org.gnome.Rhythmbox3	播放並整理您的音樂收藏
+org.gnome.Robots	避開機器人並讓它們互相碰撞
+org.gnome.seahorse.Application	管理您的密碼和加密金鑰
+org.gnome.Shotwell	數位照片整理器
+org.gnome.SimpleScan	製作照片和文件的數位副本
+org.gnome.Snapshot	拍攝照片和影片
+org.gnome.Solanum	平衡工作時間和休息時間
+org.gnome.SoundJuicer	CD 抓取工具具有簡潔的介面和簡單的首選項
+org.gnome.SoundRecorder	一台簡單、現代的 GNOME 錄音機
+org.gnome.Sudoku	在這個數字網格謎題中測試你的邏輯能力
+org.gnome.SwellFoop	透過移除彩色和形狀的瓷磚組來清除螢幕
+org.gnome.Tali	擲骰子並得分
+org.gnome.Taquin	將磁磚滑動到正確的位置
+org.gnome.Tau	xi 文字編輯器的 GTK 前端
+org.gnome.Tetravex	重新排列瓷磚以適合正方形
+org.gnome.TextEditor	編輯文字文件
+org.gnome.Todo	管理您的任務
+org.gnome.Tomboy	桌面筆記應用程式
+org.gnome.Totem	播放電影
+org.gnome.TwentyFortyEight	獲得2048塊
+org.gnome.Weather	顯示天氣狀況和預報
+org.gnome.World.Citations	管理您的參考書目
+org.gnome.World.Iotas	簡單的筆記
+org.gnome.World.PikaBackup	確保您的資料安全
+org.gnome.World.Secrets	管理您的密碼
+org.gnucash.GnuCash	管理您的財務、帳戶和投資
+org.gnu.emacs	可擴展的文字編輯器
+org.gnumeric.Gnumeric	高精度電子表格程式
+org.gnunet.Messenger	一個基於 GTK 的 GUI，用於 GNUnet 的 Messenger 服務。
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnu.pspp	GNU PSPP is a program for statistical analysis of sampled data
+org.godotengine.Godot	Godot game engine editor
+org.godotengine.Godot3	Godot game engine editor
+org.godotengine.Godot3Sharp	Godot game engine editor
+org.godotengine.GodotSharp	Godot game engine editor
+org.goldcoinproject.goldcoin-qt	Discover the Gold Standard of Digital Currency.
+org.goldendict.GoldenDict	Dictionary lookup program
+org.gottcode.Connectagram	Unscramble words placed in patterns
+org.gottcode.CuteMaze	在迷宮中尋找目標
+org.gottcode.FocusWriter	Fullscreen word processor
+org.gottcode.Gottet	清空遊戲碟中下落的方塊
+org.gottcode.Hexalate	旋轉圓盤以搭配顏色
+org.gottcode.Kapow	Keep track of time spent on projects
+org.gottcode.NovProg	Wordcount graphing program
+org.gottcode.Peg-E	跳過棋子，消除它！
+org.gottcode.Simsu	填入數字，解答難題
+org.gottcode.Tanglet	Single player variant of Boggle
+org.gottcode.Tetzle	Jigsaw puzzle with tetromino pieces
+org.gpodder.gpodder	Media aggregator and podcast client
+org.gpodder.gpodder-adaptive	適用於行動裝置和桌面裝置的媒體聚合器和播客用戶端
+org.gramps_project.Gramps	管理家譜信息，進行家譜研究和分析
+org.greenfoot.Greenfoot	葛林富特
+org.grisbi.Grisbi	個人財務經理
+org.groestlcoin.electrum-grs	輕量級 Groestlcoin 用戶端
+org.groestlcoin.groestlcoin-qt	全面驗證 Groestlcoin 點對點網路節點、錢包和 GUI
+org.gtaf.quran	透過逐字分析、彩色 Tajweed、Tafsir 和音訊來學習《古蘭經》
+org.gtimelog.GTimeLog	不引人注目地記錄你的時間
+org.gtkhash.gtkhash	計算訊息摘要或校驗和
+org.guerinoni.qTsConverter	一個簡單的工具，用於將 qt 翻譯檔案 (ts) 轉換為其他格式 (xlsx / csv)，反之亦然。
+org.guitarix.Guitarix	適用於 Jack/Linux 的虛擬多功能放大
+org.gustavoperedo.FontDownloader	從線上來源安裝字體
+org.hdfgroup.HDFView	瀏覽和編輯 HDF 文件
+org.hedgewars.Hedgewars	有趣的回合製火砲遊戲，以刺蝟格鬥為特色！
+org.hikounomizu.HikouNoMizu	以平台為基礎的動漫風格格鬥遊戲
+org.hlwd.sonofman	聖經多語言，免費，離線，無廣告，有英語，法語，義大利語，西班牙語，葡萄牙語終端。
+org.homelinuxserver.vance.biblereader	讀這個詞
+org.horizon_eda.HorizonEDA	免費的 EDA 包
+org.hydrogenmusic.Hydrogen	先進的鼓機
+org.icculus.tennix	多人網球遊戲
+org.imitationpickles.barbie	Help barbie the seahorse float on bubbles to the moon
+org.inkscape.Inkscape	Vector Graphics Editor
+org.ioquake3.ioquake3	Free and open-source Quake 3 based engine
+org.jabref.jabref	Graphical Java application for managing BibTeX and biblatex (.bib) databases
+org.jacktrip.JackTrip	Connect and play with other musicians
+org.jamovi.jamovi	Real-time statistical spreadsheet
+org.jaspstats.JASP	Standard statistical analyses, both classical and Bayesian
+org.jdownloader.JDownloader	Download management tool
+org.jellyfin.JellyfinServer	The Free Software Media System
+org.jflap.JFLAP	Formal languages testing
+org.jitsi.jitsi-meet	Jitsi Meet - Secure, Simple and Scalable Video Conferences
+org.jreleaser.cli	Release projects quickly and easily with JReleaser
+org.js.nuclear.Nuclear	A electron based music player
+org.jupyter.JupyterLab	JupyterLab desktop application, based on Electron
+org.karapulse.Karapulse	Karaoke player with built-in web remote client
+org.kde.akregator	新聞 Feed 閱讀程式
+org.kde.alligator	行動裝置用的 feed 閱讀器
+org.kde.angelfish	適用於行動裝置的網頁瀏覽器
+org.kde.arianna	EBook Reader
+org.kde.ark	壓縮工具
+org.kde.artikulate	Artikulate 發音訓練器
+org.kde.atlantik	Monopoly®-like Board Games
+org.kde.audiotube	Convergent YouTube Music client
+org.kde.blinken	加強記憶力的遊戲
+org.kde.bomber	大型遊戲機的戰鬥機遊戲
+org.kde.bovo	「五子棋」棋盤遊戲
+org.kde.cantor	KDE 數學軟體的前端介面
+org.kde.choqok	微部落格用戶端程式
+org.kde.digikam	圖片管理程式
+org.kde.dolphin	檔案管理員
+org.kde.elisa	漂亮且簡潔明瞭的音樂播放程式，支援線上廣播
+org.kde.falkon	網路瀏覽器
+org.kde.filelight	顯示磁碟用量、刪除不需要的檔案
+org.kde.francis	追蹤、掌控時間
+org.kde.gcompris	為 2-10 歲孩子設計的教育遊戲
+org.kde.granatier	炸彈超人遊戲
+org.kde.gwenview	影像檢視器
+org.kde.haruna	Open source media player built with Qt/QML and libmpv
+org.kde.Ikona	Ikona 是個能幫助你設計圖示的設計小幫手
+org.kde.index	管理您的檔案
+org.kde.isoimagewriter	將 ISO 映像寫入 USB 裝置
+org.kde.itinerary	Digital travel assistant
+org.kde.juk	音樂播放器
+org.kde.kaffeine	多媒體播放器
+org.kde.kalgebra	圖形計算器
+org.kde.kalk	A feature rich calculator
+org.kde.kalzium	元素週期表
+org.kde.kamoso	使用您的 Webcam 拍照或錄影
+org.kde.kanagram	字母排序遊戲
+org.kde.kapman	另一款小精靈遊戲
+org.kde.kasts	Podcast application
+org.kde.katomic	倉庫番(sokoban)式的智力遊戲
+org.kde.kbibtex	BibTeX editor by KDE to edit bibliographies used with LaTeX
+org.kde.kblackbox	黑盒子智力遊戲
+org.kde.kblocks	類似俄羅斯方塊遊戲
+org.kde.kbounce	KBounce 是一款具有謎題元素的單人街機遊戲
+org.kde.kbreakout	KBreakOut 是一款 KDE 的類 Breakout 遊戲
+org.kde.kbruch	練習分數
+org.kde.kcachegrind	分析器前端
+org.kde.kcalc	科學計算機
+org.kde.kclock	設定鬧鐘、計時器，使用碼錶，並管理世界時鐘
+org.kde.kcolorchooser	顏色選取器及調色盤編輯器
+org.kde.kdenlive	影像編輯器
+org.kde.kdevelop	Featureful, plugin-extensible IDE for C/C++ and other programming languages
+org.kde.kdiamond	KDiamond is a three-in-a-row game by KDE
+org.kde.kdiff3	A file and folder comparison and merge tool
+org.kde.keysmith	適用於 Plasma 行動版及桌面版的兩步驟驗證碼產生器
+org.kde.kfind	尋找檔案/資料夾
+org.kde.kfourinline	KFourInLine is a four-in-a-row game by KDE
+org.kde.kgeography	地理學習工具
+org.kde.kgeotag	Photo geotagging program
+org.kde.kget	下載管理器
+org.kde.kgoldrunner	Hunt Gold, Dodge Enemies and Solve Puzzles
+org.kde.kgraphviewer	A Graphviz DOT graph viewer
+org.kde.khangman	劊子手（hangman）遊戲
+org.kde.kid3	編輯音訊檔案中繼資料
+org.kde.kig	交互式幾何作圖
+org.kde.kigo	圍棋遊戲
+org.kde.kile	TeX/LaTeX Editor
+org.kde.killbots	Outsmart the killer robots to win
+org.kde.kimagemapeditor	HTML 影像地圖編輯器
+org.kde.kiriki	類似 Yahtzee 的骰子遊戲
+org.kde.kiten	日語參考/學習工具
+org.kde.kjumpingcube	領土爭奪戰
+org.kde.kleopatra	憑證管理與統一加密介面
+org.kde.klettres	語言_KLetters
+org.kde.klickety	Klickety 是一套 clickomania 的遊戲
+org.kde.klines	戰術遊戲
+org.kde.kmahjongg	麻將遊戲
+org.kde.kmines	Minesweeper-like Game
+org.kde.kmplayer	來自 KDE 的 MPlayer 介面
+org.kde.kmplot	函數繪圖程式
+org.kde.kmymoney	Personal finance manager based on double-entry bookkeeping
+org.kde.knavalbattle	Battle Ship Game
+org.kde.knetwalk	KNetWalk 是款為系統管理員製作的遊戲
+org.kde.knights	西洋棋遊戲
+org.kde.koko	圖片庫
+org.kde.kolf	Miniature Golf
+org.kde.kollision	丟球遊戲
+org.kde.kolourpaint	繪圖程式
+org.kde.kommit	KDE 的 Git 用戶端介面
+org.kde.kompare	差異 / 補丁後端
+org.kde.kongress	KDE Conference companion application
+org.kde.konquest	Galactic Strategy Game
+org.kde.konsole	終端機
+org.kde.kontact	在一個視窗裡管理您的所有電子郵件、行事曆、聯絡人等等
+org.kde.kontrast	一個用來檢查顏色對比度的工具
+org.kde.konversation	IRC 用戶端程式
+org.kde.kpat	Solitaire card game
+org.kde.kphotoalbum	KDE 圖片管理軟體
+org.kde.krdc	使用 RDP 或 VNC 連線到其他電腦
+org.kde.krename	強大的批次檔案重命名工具
+org.kde.kreversi	Reversi Board Game
+org.kde.krita	數位繪圖，自由創作
+org.kde.kronometer	Chronometer
+org.kde.kruler	螢幕尺規
+org.kde.ksirk	World Domination Strategy Game
+org.kde.ksnakeduel	Tron-like Game
+org.kde.ksquares	將點連起來組成方塊
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	桌面星象儀
+org.kde.ksudoku	Complete a numeric puzzle with the numbers from one to nine
+org.kde.kteatime	煮茶器
+org.kde.ktimetracker	個人時間追蹤器
+org.kde.ktorrent	BitTorrent 用戶端
+org.kde.ktouch	觸摸輸入輔助教學
+org.kde.ktrip	Public transport navigator
+org.kde.ktuberling	A simple constructor game suitable for children and adults alike
+org.kde.kturtle	教育程式環境
+org.kde.kubrick	3-D Game based on Rubik's Cube
+org.kde.kuiviewer	Qt Designer UI 檔案檢視器
+org.kde.kwalletmanager5	密碼庫管理工具
+org.kde.kweather	View real-time weather forecasts and other information
+org.kde.kwordquiz	閃卡訓練師
+org.kde.kwrite	文字編輯器
+org.kde.kxstitch	A cross stitch pattern creator
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	電腦輔助翻譯系統
+org.kde.lskat	German card game Skat for two players
+org.kde.marble	虛擬地球儀
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	音樂教育軟體
+org.kde.neochat	A client for matrix, the decentralized communication protocol
+org.kde.okteta	十六進位資料編輯器
+org.kde.okular	文件檢視器
+org.kde.palapeli	Jigsaw puzzle game
+org.kde.parley	字彙訓練師
+org.kde.peruse	漫畫書閱讀器
+org.kde.picmi	數字邏輯的解謎遊戲
+org.kde.pix	相簿
+org.kde.plasmatube	Watch YouTube videos
+org.kde.qmlkonsole	行動端終端機應用程式
+org.kde.rocs	Rocs 圖形理論
+org.kde.ruqola	Rocket Chat 用戶端
+org.kde.skanpage	Multi-page document scanning application
+org.kde.skrooge	Single-entry bookkeeping for home use
+org.kde.subtitlecomposer	支援基本及進階編輯動作的影片字幕編輯器
+org.kde.SymbolEditor	A cross stitch symbol editor
+org.kde.tellico	Collection Manager
+org.kde.telly-skout	A convergent Kirigami TV guide
+org.kde.tokodon	乳齒象客戶
+org.kde.umbrello	UML建模器
+org.kde.vvave	播放您的音樂收藏
+org.kde.yakuake	下拉式終端機
+org.keepassxc.KeePassXC	Windows 應用程式「KeePass 密碼安全」的社群驅動端口
+org.KekikAkademi.BTKSorgu	目標網站在土耳其可以訪問嗎？ （BTK）
+org.KekikAkademi.eFatura	透過稅號或 TR 身分證號碼查詢電子發票使用情況
+org.kekikakademi.ntvHaber	來自 NTV.com.tr 的土耳其語突發新聞
+org.kicad.KiCad	用於原理圖和電路板設計的 EDA 套件
+org.kiwix.desktop	查看離線內容
+org.kosmospredanie.Yakblt	一個簡單的躲避子彈的遊戲
+org.kryogenix.hushboard	打字時將麥克風靜音
+org.kryogenix.Pick	顏色選擇器
+org.kryogenix.utm_no	從複製的網址中刪除追蹤參數
+org.ksnip.ksnip	具有註解功能的跨平台截圖工具
+org.lamport.tla.toolbox	TLA+ Toolbox 是 TLA+ 工具的 IDE（整合開發環境）
+org.laptop.TurtleArtActivity	一隻受徽標啟發的烏龜，可以使用拼湊在一起的可視化編程塊繪製彩色圖片
+org.learningequality.Kolibri	線下教育科技平台
+org.leocad.LeoCAD	設計可以用樂高積木建造的虛擬模型
+org.librecad.librecad	2D 電腦輔助設計 (CAD)
+org.librehunt.Organizer	一個將文件整理成整齊類別的實用程序
+org.libreoffice.LibreOffice	LibreOffice 生產力套件
+org.librepcb.LibrePCB	設計原理圖和 PCB
+org.libretrainsim.Libre-TrainSim	適合所有人的免費火車模擬器
+org.libretro.RetroArch	模擬器、遊戲引擎和媒體播放器的前端
+org.libsdl.Maelstrom	高品質小行星克隆
+org.libvips.vipsdisp	圖片瀏覽器
+org.linux_hardware.hw-probe	檢查電腦硬體的可操作性並尋找驅動程式
+org.linuxshowplayer.LinuxShowPlayer	專為舞台製作設計的提示播放器
+org.localsend.localsend_app	將檔案分享到附近的設備
+org.love2d.love2d	LÖVE 是一個很棒的 Lua 2D 遊戲框架。
+org.lyx.LyX	文件處理器
+org.mamedev.MAME	MAME 是一個多用途模擬框架。
+org.manaplus.ManaPlus	《瑪娜世界》和類似伺服器的擴展客戶端
+org.mapeditor.Tiled	通用地圖編輯器
+org.mattbas.Glaxnimate	向量動畫編輯器
+org.mattdm.icebreaker	一款令人上癮的動作益智遊戲，涉及彈跳企鵝
+org.mavlink.qgroundcontrol	無人機地面控制站
+org.megaglest.MegaGlest	即時戰略遊戲（RTS）
+org.megamek.MegaMek	使用巨型機器人、坦克和/或步兵在六角形地圖上進行戰鬥。
+org.mersenne.mprime	免費 Mersenne Prime 搜尋軟體
+org.metal3d.scoreboard	一個簡單的記分板，可以計算任何遊戲的得分
+org.mfek.MFEKglif	Modular Font Editor K 專案的字形編輯器
+org.midori_browser.Midori	快速且輕量級的網頁瀏覽器
+org.milkytracker.MilkyTracker	Fast Tracker II 靈感音樂追蹤器
+org.mixxx.Mixxx	現場 DJ 混音所需的一切
+org.mmass.mMass	開源質譜工具
+org.mobsya.ThymioSuite	輕鬆存取 Thymio 的程式設計接口
+org.moneymanagerex.MMEX	組織財務並追蹤現金流
+org.mosh.mosh	手機殼
+org.mozilla.firefox	快速、私密且安全的網頁瀏覽器
+org.mozilla.Thunderbird	Thunderbird 是一款免費開源電子郵件、動態消息、聊天和日曆用戶端
+org.mpdevil.mpdevil	一個簡單的 MPD 音樂瀏覽器
+org.msweet.htmldoc	HTML 轉換軟體
+org.munadi.Munadi	簡單的阿森應用程式
+org.musescore.MuseScore	創作、演奏和列印精美的樂譜
+org.musicbrainz.Picard	MusicBrainz 的音樂標記器
+org.mypaint.MyPaint	數位藝術家的繪畫程序
+org.naev.Naev	2D動作/RPG太空交易格鬥遊戲
+org.nanuc.Axolotl	Axolotl 是一個跨平台 Signal 用戶端
+org.netsurf_browser.NetSurf	支援 CSS 的小型網頁瀏覽器
+org.neverball.Neverball	巧妙地引導滾球通過許多光滑的 3D 關卡
+org.nickvision.cavalier	使用 CAVA 可視化音頻
+org.nickvision.money	管理您的個人財務
+org.nickvision.tagger	標記您的音樂
+org.nickvision.tubeconverter	下載網路視訊和音訊
+org.nicotine_plus.Nicotine	Soulseek 網路的圖形客戶端
+org.nmap.Zenmap	Nmap 安全掃描器的跨平台 GUI
+org.nomacs.ImageLounge	nomacs 是一個免費的開源圖像檢視器
+org.nongnu.enigma	益智遊戲
+org.nongnu.gsequencer.gsequencer	高級 Gtk+ 音序器
+org.nongnu.Xlog	業餘無線電操作員的錄音程序
+org.nsnam.NetAnim	NetAnim 是 ns-3 的離線動畫製作器
+org.nuspell.Nuspell	拼字檢查器
+org.octave.Octave	數值計算程式設計環境
+org.olivevideoeditor.Olive	非線性影片編輯器
+org.omegat.OmegaT	一個簡單的開源翻譯記憶庫管理器和 CAT 工具
+org.onionshare.OnionShare	安全、匿名地分享文件、託管網站以及與朋友聊天
+org.onlyoffice.desktopeditors	辦公室生產力套件
+org.openandroidinstaller.OpenAndroidInstaller	讓安裝替代 Android 發行版變得輕鬆簡單
+org.openchemistry.Avogadro2	免費開源分子編輯器
+org.openclonk.OpenClonk	多人動作遊戲，您可以控制小型靈活的類人生物
+org.opencpn.OpenCPN	簡潔的海圖儀和導航軟體
+org.openfodder.OpenFodder	DOS 策略遊戲 Cannon Fodder 的開源移植版。
+org.openhantek.OpenHantek6022	適用於 Hantek USB 數位訊號示波器 6022BE/BL 的 DSO 軟體
+org.openjkdf2.OpenJKDF2	《絕地武士：黑暗勢力 II》的跨平台重新實現
+org.openkj.OpenKJ	專業卡拉OK託管軟體
+org.openmsx.openMSX	高精度模擬 MSX 的各個方面
+org.openmw.OpenMW	重新實現《上古卷軸 III：晨風》
+org.opennumismat.OpenNumismat	用於組織和管理您自己的目錄的硬幣收集軟體
+org.openrgb.OpenRGB	不依賴製造商軟體的開源 RGB 照明控制。
+org.openscad.OpenSCAD	程式設計師 Solid 3D CAD 建模器
+org.openscopeproject.TrguiNG	Transmission torrent 守護程式的遠端 GUI
+org.openshot.OpenShot	易於使用、快速學習且功能強大的影片編輯器
+org.openstreetmap.josm	Java OpenStreetMap 編輯器
+org.opensurge2d.OpenSurge	一款有趣的 2D 復古平台遊戲，靈感來自索尼克遊戲和遊戲創建系統
+org.opentransactions.metier	多幣種區塊鏈錢包和開放交易客戶端
+org.openttd.OpenTTD	基於Transport Tycoon Deluxe的開源模擬遊戲
+org.otfried.Ipe	Ipe 可擴充繪圖編輯器
+org.pairinteraction.Pairinteraction	里德伯相互作用計算器
+org.paraview.ParaView	數據分析和視覺化
+org.parlatype.Parlatype	用於語音轉錄的媒體播放器
+org.pegasus_frontend.Pegasus	用於啟動模擬器的跨平台、可自訂的圖形前端
+org.pencil2d.Pencil2D	支援點陣圖和向量圖形的 2D 動畫軟體
+org.phoenicis.playonlinux	在 Linux 上安裝並執行 Windows 軟體
+org.photoqt.PhotoQt	檢視和管理影像
+org.pipewire.Helvum	PipeWire 配線架
+org.pitivi.Pitivi	創建和編輯您自己的電影
+org.pjbroad.EternallandsClient	Eternal Lands 是一款免費的圖形 MMORPG
+org.plomgrading.PlomClient	Plom 線上分級系統的分級/標記用戶端
+org.polymc.PolyMC	Minecraft 的自訂啟動器，可讓您輕鬆管理 Minecraft 的多個安裝
+org.ppsspp.PPSSPP	PlayStation 隨身模擬器
+org.prismlauncher.PrismLauncher	Minecraft 的自訂啟動器，可讓您輕鬆管理 Minecraft 的多個安裝
+org.processing.processingide	開源軟體原型平台
+org.profex_xrd.Profex	開源 XRD 和 Rietveld 精修
+org.pulseaudio.pavucontrol	調整硬體設備和應用程式的音量級別
+org.purei.Play	Playstation 2 模擬器
+org.pydpainter.PyDPainter	用 Python 編寫的可用像素藝術繪畫程序
+org.pymol.PyMOL	分子可視化和光線追踪
+org.pyzo.pyzo	旨在簡單性和互動性的 Python IDE
+org.qbittorrent.qBittorrent	開源 Bittorrent 用戶端
+org.qelectrotech.QElectroTech	電氣圖編輯器
+org.qgis.qgis	免費開源地理資訊系統
+org.qownnotes.QOwnNotes	純文字文件記事本，支援 Markdown 和 Nextcloud / ownCloud 集成
+org.quassel_irc.QuasselClient	現代分散式 IRC 用戶端
+org.quetoo.Quetoo	適用於 Mac、PC 和 Linux 的免費第一人稱射擊遊戲
+org.qutebrowser.qutebrowser	鍵盤驅動的網頁瀏覽器
+org.qxmledit.QXmlEdit	XML編輯器
+org.raceintospace.Raceintospace	一款重溫 20 世紀 60 年代太空競賽的遊戲
+org.racket_lang.Racket	語言導向的程式語言
+org.radare.iaito	用於radare2逆向工程框架的Qt和C++ GUI
+org.raspberrypi.rpi-imager	Raspberry Pi 成像實用程式
+org.remmina.Remmina	遠端桌面用戶端
+org.rncbc.qpwgraph	PipeWire Graph Qt GUI 介面
+org.rncbc.qsynth	Fluidsynth Qt GUI 介面
+org.rncbc.qtractor	音訊/MIDI 多軌音序器
+org.robocode.Robocode	建造最好的 - 摧毀其餘的！
+org.rolisteam.rolisteam	Rolistteam 伺服器的用戶端伴侶
+org.ryujinx.Ryujinx	任天堂 Switch 模擬器
+org.sabnzbd.sabnzbd	免費且簡單的二進位新聞閱讀器
+org.sauerbraten.Sauerbraten	免費多人和單人第一人稱射擊遊戲，Cube FPS 的繼承者
+org.scantailor.ScanTailor	用於掃描頁面的互動式後處理工具
+org.scilab.Scilab	用於數值計算的科學軟體包
+org.scintilla.SciTE	基於 SCintilla 的文字編輯器
+org.scummvm.ScummVM	眾多冒險遊戲和角色扮演遊戲的翻譯
+org.sdrangel.SDRangel	TX 和 RX 軟體定義無線電
+org.seul.crimson	一款回合製戰術戰爭遊戲
+org.shadered.SHADERed	用於建立和測試 HLSL 和 GLSL 著色器的工具
+org.shadowsocks.qt5client	具有進階功能的本機跨平台 Shadowsocks GUI 用戶端。
+org.shotcut.Shotcut	影片編輯
+org.signal.Signal	私人信使
+org.sigxcpu.Livi	一個簡單的基於 GTK4 的手機視訊播放器
+org.sil.Bloom	為語言社群開發掃盲材料
+org.sil.FieldWorks	語言和文化數據管理
+org.skytemple.Randomizer	神奇寶貝不可思議的迷宮 天空探險家的隨機生成器
+org.skytemple.SkyTemple	精靈寶可夢不可思議的迷宮 天空探險隊 ROM 編輯器
+org.soapui.SoapUI	SoapUI OS 是 API 和 Web 服務的功能測試解決方案
+org.solarus_games.solarus.Launcher	瀏覽並玩您的索拉魯斯任務收藏。
+org.sonic3air.Sonic3AIR	由粉絲製作的《索尼克 3》和《指關節》的寬螢幕重製版。
+org.soundconverter.SoundConverter	轉換音訊檔案
+org.sparkleshare.SparkleShare	神奇的自架 Git 檔案同步
+org.speedcrunch.SpeedCrunch	獲得科學助手
+org.speed_dreams.SpeedDreams	Speed Dreams 是一款 3D 跨平台開源賽車模擬和賽車遊戲
+org.sqlitebrowser.sqlitebrowser	DB Browser for SQLite 是一個用於 SQLite 資料庫的輕型 GUI 編輯器
+org.squeakland.Etoys	透過視覺化程式設計學習
+org.squey.Squey	探索您的數據
+org.squidowl.halloy	用 Rust 編寫的 IRC 用戶端
+org.srb2.SRB2	基於《毀滅戰士：遺產》修改版的 3D 刺蝟索尼克同人遊戲
+org.srb2.SRB2Kart	基於 3D 刺蝟索尼克同人遊戲 Sonic Robo Blast 2 的卡丁車賽車模組
+org.srb2.SRB2Kart-galaxy	改裝 SRB2Kart 新增了許多自訂功能
+org.srb2.SRB2Kart-galaxy_azerty	修改後的 SRB2Kart 新增了許多帶有 azerty 法文鍵盤佈局的自訂功能
+org.srb2.SRB2Kart-Saturn	改裝 SRB2Kart 新增了許多自訂功能
+org.srb2.SRB2Persona	基於 3D 刺蝟索尼克同人遊戲《索尼克機器人爆炸 2》的受《女神異聞錄》啟發的模組
+org.standardnotes.standardnotes	一個簡單而私密的地方，用於存放您的筆記、想法和生活工作
+org.stellarium.Stellarium	桌上型電腦版星象儀
+org.stochas.Stochas	斯托查斯定序儀
+org.strawberrymusicplayer.strawberry	音樂播放器和收藏管理器
+org.subsurface_divelog.Subsurface	管理和顯示潛水電腦數據
+org.subtitld.Subtitld	Subtitld是一款創建和編輯字幕的軟體
+org.sugarlabs.AbacusActivity	簡單算術計算的工具
+org.sugarlabs.Chart	建立您的圖表
+org.sugarlabs.Chess	一款甜蜜的國際象棋遊戲
+org.sugarlabs.ColorDeducto	基於邏輯歸納的遊戲
+org.sugarlabs.Dimensions	圖案匹配遊戲
+org.sugarlabs.Finance	學習財務規劃基礎知識
+org.sugarlabs.FotoToon	創建自己的漫畫
+org.sugarlabs.FractionBounce	一個關於分數的遊戲
+org.sugarlabs.ImplodeActivity	內爆相同顏色的方塊，直到它們全部消失
+org.sugarlabs.Maze	一個簡單的迷宮遊戲
+org.sugarlabs.Measure	用於可視化麥克風輸入的示波器程序
+org.sugarlabs.Memorize	找到匹配對
+org.sugarlabs.MusicBlocks	以有趣的方式探索基本音樂概念的工具集合。
+org.sugarlabs.MusicKeyboard	用這個鋼琴鍵盤演奏音樂
+org.sugarlabs.Paint	一個甜蜜的繪畫工具
+org.sugarlabs.Physics	證明艾薩克·牛頓爵士的正確性
+org.sugarlabs.Pippy	用 Python 與你的電腦對話
+org.sugarlabs.Pukllanapac	一款滑動益智遊戲
+org.sugarlabs.ReadETexts	閱讀數千本免費電子書
+org.sugarlabs.Sliderule	機械計算機
+org.sugarlabs.SolarSystem	了解行星
+org.sugarlabs.Speak	無論您輸入什麼內容，一張動畫臉都會說出來
+org.sugarlabs.StoryActivity	講一個故事
+org.sugarlabs.SwiftFeet	站起來跳舞吧！
+org.sugarlabs.TurtlePondActivity	在烏龜跑出螢幕之前將其包圍
+org.sugarlabs.Words	多語言離線字典
+org.supertuxproject.SuperTux	由企鵝小企鵝主演的跳躍與奔跑遊戲
+org.surge_synth_team.surge-xt	Surge XT 合成器獨立版
+org.synfig.SynfigStudio	創建和編輯 2D 動畫和合成
+org.syphon.Syphon	聊天時保護您的隱私和自由
+org.tabos.maxcontrol	Max! 的控制軟體裝置
+org.tabos.roger	適用於 AVM FRITZ!Box 或相容設備的日誌、傳真軟體和呼叫監視器
+org.tabos.saldo	檢查您的銀行帳戶
+org.tabos.twofun	適合兩名玩家的基於觸摸的反應遊戲。
+org.taisei_project.Taisei	以東寶宇宙為背景的彈幕射擊遊戲
+org.telegram.desktop	快速地。安全的。強大的。
+org.telesculptor.TeleSculptor	以航空視頻為重點的攝影測量設計
+org.tenacityaudio.Tenacity	錄製和編輯音訊文件
+org.texstudio.TeXstudio	乳膠編輯器
+org.thentrythis.Samplebrain	由 Aphex Twin 設計的自訂範例糖化應用程式
+org.thonny.Thonny	適合初學者的 Python IDE
+org.tigervnc.vncviewer	連接VNC伺服器並顯示遠端桌面
+org.tildearrow.furnace	開源 Chiptune 追蹤器
+org.tomviz.Tomviz	奈米級材料的免費開源斷層掃描可視化
+org.tordini.flavio.Minitube	YouTube 應用程式
+org.torproject.torbrowser-launcher	一個幫助您下載、保持更新和運行 Tor 瀏覽器捆綁包的程序
+org.tribler.Tribler	致力於使 Bittorrent 匿名且無法關閉。
+org.tropy.Tropy	探索您的研究照片
+org.tryton.Tryton-68	Tryton 應用程式平台的用戶端
+org.tryton.Tryton-70	Tryton 應用程式平台的用戶端
+org.tug.texworks	用於編輯、排版和預覽 TeX 文件的簡單環境
+org.turbowarp.TurboWarp	Scratch 的 mod，有編譯器，可以更快地運行專案、黑暗模式、一堆插件等等
+org.tuxemon.Tuxemon	Tuxemon 是一款免費、開源的怪物戰鬥角色扮演遊戲。
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon 模擬器
+org.tuxfamily.StuntRally	具有拉力駕駛風格的賽車遊戲
+org.tuxfamily.XMoto	2D越野摩托車平台遊戲
+org.tuxpaint.Tuxpaint	兒童繪畫程序
+org.tvbrowser.TVBrowser	免費電子節目指南
+org.twinery.Twine	Twine 是一種開源工具，用於講述互動式非線性故事
+org.ultimatepp.TheIDE	用於跨平台 U++ 應用程式開發框架的 IDE
+org.unitystation.StationHub	開源遊戲 Unitystation 的啟動器
+org.unknown_horizons.UnknownHorizons	開源即時經濟模擬遊戲
+org.upnproutercontrol.UPnPRouterControl	管理 UPnP 相容路由器的簡單程序
+org.upscayl.Upscayl	免費開源 AI 影像升級器
+org.v1993.NXDumpClient	使用 nxdumptool 透過 USB 轉儲的客戶端
+org.verapdf.veraPDF	veraPDF 是 PDF/A 歸檔標準的文件格式驗證器
+org.vergecurrency.verge-qt	VergeCurrency，一種安全且用戶友好的數位貨幣。
+org.vertcoin.vertcoin-qt	全面驗證綠幣點對點網路節點、錢包和GUI
+org.videolan.VLC	VLC 媒體播放器，開源多媒體播放器
+org.viking.Viking	GPS 資料編輯器與分析器
+org.vim.Vim	無所不在的文字編輯器
+org.vinegarhq.Vinegar	功能齊全的 Roblox 小型快速引導程序
+org.virt_manager.virt-viewer	遠端存取虛擬機
+org.virtualxt.VirtualXT	Turbo PC/XT 模擬器
+org.wesnoth.Wesnoth	一款高奇幻主題的回合製策略遊戲
+org.wezfurlong.wezterm	GPU 加速的跨平台終端機模擬器與多工器
+org.wfview.wfview	Icom 收發器的開源介面
+org.widelands.Widelands	一款即時建造策略遊戲
+org.winehq.Wine	在 Linux、BSD、Solaris 和 Mac OS X 上執行 Windows 應用程式
+org.wireshark.Wireshark	Wireshark 是世界上最重要的協定分析器
+org.worldpossible.ScriptLauncher	以root權限運行shell腳本的工具
+org.wxhexeditor.wxHexEditor	高級大文件十六進位編輯器
+org.xfce.mousepad	Mousepad 是 Xfce 桌面環境的簡單文字編輯器
+org.xfce.ristretto	快速且輕量級的影像檢視器
+org.xiphos.Xiphos	聖經學習指南
+org.xnec2c.Xnec2c	基於 NEC2 的多執行緒 EM 工具，用於模擬天線輻射方向圖
+org.xonotic.Xonotic	多人、死亡競賽導向的第一人稱射擊遊戲
+org.x.Warpinator	透過網路傳送和接收文件
+org.yamagi.YamagiQ2	Yamagi Quake II 是 id Software 的 Quake II 的替代客戶端
+org.yuzu_emu.yuzu	任天堂 Switch 模擬器
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) 是一種受歡迎的免費安全工具。
+org.zdoom.GZDoom	適用於所有經典 ID 遊戲的經典第一人稱射擊引擎
+org.zealdocs.Zeal	文件瀏覽器
+org.zim_wiki.Zim	在桌面 wiki 中寫筆記
+org.zirael.bkchem.BKChem	分子繪圖程序
+org.zotero.Zotero	收集、組織、引用和分享研究成果
+org.zrythm.Zrythm	數位音訊工作站
+org.zulip.Zulip	適用於 Linux 的 Zulip 桌面用戶端
+page.codeberg.DrRac27.Karoto	適用於 Linux 行動裝置的購物清單應用程式
+page.codeberg.Imaginer.Imaginer	用人工智慧想像
+page.codeberg.JakobDev.CCLite	ComputerCraft 模擬器
+page.codeberg.JakobDev.jdAnimatedImageEditor	用於創建動畫圖像的簡單程序
+page.codeberg.JakobDev.jdAppStreamEdit	用於建立和編輯 AppStream 檔案的圖形程序
+page.codeberg.JakobDev.jdDBusDebugger	先進的 D-Bus 調試器
+page.codeberg.JakobDev.jdDesktopEntryEdit	用於建立和編輯桌面條目的圖形程序
+page.codeberg.JakobDev.jdDiff	圖形化跨平台差異檢視器
+page.codeberg.JakobDev.jdEolConverter	轉換目錄中所有檔案的行尾
+page.codeberg.JakobDev.jdFlatpakSnapshot	創建 Flatpak 應用程式快照的程序
+page.codeberg.JakobDev.jdMinecraftLauncher	經典風格的 Minecraft 啟動器
+page.codeberg.JakobDev.jdMrpackInstaller	安裝 Modrinth 模組包
+page.codeberg.JakobDev.jdNBTExplorer	Minecraft NBT 檔案的編輯器
+page.codeberg.JakobDev.jdPixelUpscaler	每像素高檔影像
+page.codeberg.JakobDev.jdProcessFileWatcher	輕鬆監控和顯示任何進程的即時文件訪問
+page.codeberg.JakobDev.jdReplace	使用 jdReplace 您可以替換目錄中所有文件中的文字
+page.codeberg.JakobDev.jdSimpleAutostart	編輯自動啟動條目
+page.codeberg.JakobDev.jdTextEdit	進階文字編輯器
+page.codeberg.lazyt.ubpm	管理血壓數據
+page.codeberg.libre_menu_editor.LibreMenuEditor	自訂選單
+page.codeberg.papojari.Find_Billy	像素藝術 2D 平台遊戲。
+page.codeberg.Qwel.egui_picross	圖形方塊、Nonogram、Griddler 的基本遊戲
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita 以狗為主題的遊戲
+page.codeberg.tpikonen.geobug	檢查您的位置並將其儲存到 GPX 軌跡
+page.codeberg.tpikonen.satellite	檢查您的 GPS 接收情況並儲存您的軌跡
+page.codeberg.yeldham.Librerama	免費/自由的快節奏街機迷你遊戲合集
+party.supertux.supertuxparty	由 FLOSS 吉祥物主演的派對遊戲
+pl.art.lach.slawek.V2BlankBrowser	網路瀏覽器，不會出現垃圾螢幕
+pl.nieto.fityk	非線性曲線擬合與數據分析
+pl.youkai.lanchat	區域網路聊天和檔案傳輸
+pl.youkai.nscan	網路掃描器。
+pm.mirko.Atoms	管理 Chroot 和容器。
+pro.vpup.vpuppr	用 Godot 3.4 製作的 VTuber 應用程式
+radio.k0swe.Kel_Agent	業餘無線電網路代理
+re.chiaki.Chiaki	適用於 PlayStation Remote Play 的免費開源用戶端
+re.rizin.cutter	由 Rizin 和 Qt 提供支援的免費開源逆向工程平台
+re.sonny.Commit	提交訊息編輯器
+re.sonny.Junction	應用程式選擇器
+re.sonny.OhMySVG	減小 SVG 的大小
+re.sonny.Playhouse	HTML/CSS/JavaScript 的遊樂場
+re.sonny.Retro	可自訂的復古數字分段時鐘
+re.sonny.Tangram	固定標籤的瀏覽器
+re.sonny.Workbench	使用 GNOME 技術進行學習和原型設計
+rest.insomnia.Insomnia	適用於 GraphQL、REST 和 gRPC 的開源 API 用戶端和設計平台。
+rocks.koreader.KOReader	DjVu、PDF、EPUB 等文件檢視器
+ro.fxdata.taskmonitor.viewer	可視化 TaskMonitor 數據
+ro.go.hmlendea.DL-Desktop	語言學習應用程式 Duolingo 的非官方桌面用戶端
+ro.go.hmlendea.SokoGrump	類似推箱子的邏輯遊戲，以脾氣暴躁的貓為特色
+ro.hume.cosmin.ShoppingList	適用於 GNU/Linux 行動裝置的購物清單應用程式
+ru.proninyaroslav.libretrack	私有的跨平台包裹追蹤應用程式
+ru.sview.sView	立體媒體播放器
+ru.yandex.Browser	Yandex 的網頁瀏覽器
+sa.sy.bluerecorder	一個簡單的 Linux 桌面螢幕錄影機。支持 Wayland 和 Xorg
+se.cendio.tlclient	基於開源技術建構的Linux遠端桌面伺服器
+se.emijoh.mpw	在需要時計算網站的密碼。
+se.manyver.Manyverse	去中心化社交網絡
+se.sjoerd.GIScan	讀取並分析以 cbf 格式儲存的 GISAXS 數據
+se.sjoerd.Graphs	繪製和操作數據
+sh.cider.Cider	開源且面向社群的 Apple Music 用戶端
+sh.fhs.KatawaShoujoReEngineered	經典美少女風格視覺小說的現代版本
+sh.ppy.osu	一款免費獲勝的節奏遊戲。只需*點擊*即可獲得節奏！
+sh.xaviers.Opentapes	聆聽嘻哈混音帶
+si.tano.Vremenar	以快速簡單的方式在地圖上顯示天氣狀況和預報
+site.someones.Lonewolf	輕鬆靈活地組織和追蹤您的任務
+sm.puri.Chatty	適用於行動和桌面的消息傳遞應用程式
+social.whalebird.WhalebirdDesktop	Whalebird 是 Mastodon、Pleroma 和 Misskey 的桌面用戶端
+so.libdb.gtkcord4	Go 中的 GTK4 Discord 用戶端
+so.onekey.Wallet	多合一加密錢包。
+space.fips.Fips	基於 OpenGL 的 FITS 影像檢視器
+space.nouspiro.tenmon	FITS/XISF 影像檢視器、轉換器、索引和搜尋
+studio.kx.carla	音訊插件主機
+tech.feliciano.pocket-casts	線上播客播放器
+tk.deat.Jazz2Resurrection	Jazz Jackrabbit 2 的重新實現
+tr.gov.uyap.Editor	UYAP文檔編輯器是一個在UYAP系統中顯示和建立UDF文檔的應用程式。
+tv.kodi.Kodi	終極娛樂中心
+tv.plex.PlexDesktop	適用於桌上型電腦的 Plex 用戶端
+tv.plex.PlexHTPC	適用於大型螢幕的 Plex HTPC 用戶端
+tw.ddnet.ddnet	有史以來最難的合作 2D 平台遊戲
+ua.org.brezblock.q4wine	Wine 應用程式和前綴管理實用程式
+uk.co._69_studios.kublit	69 Studios 全新原創益智遊戲
+uk.co.electronstudio.ComicReaderUltimate	固執己見的 CBZ 觀眾
+uk.co.mangobrain.Infector	玩經典的二至四人棋盤遊戲 Ataxx
+uk.co.parallelrealities.games.edgar	2D 冒險平台遊戲
+uk.co.powdertoy.tpt	實體沙盒遊戲
+uk.et1.big-finish-downloader	用於下載 Big Finish Collection 的 GTK 應用程式
+uk.jnthn.backgammony	具有多人支援的雙陸棋前端
+uk.me.doof.Lander	月球著陸器風格的街機遊戲。
+uk.org.greenend.chiark.sgtatham.putty	SSH、Telnet 和 Rlogin 用戶端
+uk.org.greenend.chiark.sgtatham.puzzles	益智遊戲合集
+uk.org.zint.zint-qt	條碼產生器
+us.ihmc.cmap.CmapTools	允許使用者建立和共享概念圖。
+us.zoom.Zoom	視訊會議、網路會議、網路研討會、螢幕分享
+vet.rsc.OpenRSC.Launcher	開放 RuneScape 經典伺服器的啟動器
+vn.hoabinh.quan.CoBang	適用於 Linux 桌面的 QR 碼掃描器
+website.i2pd.i2pd	隱形網路
+work.openpaper.Paperwork	個人文件管理器
+ws.openarena.OpenArena	免費開源第一人稱射擊遊戲
+xyz.aguno.CubeTimer	類似 StackMat，但適用於 Linux
+xyz.armcord.ArmCord	ArmCord 是一款客製化客戶端，旨在增強您的 Discord 體驗，同時保持一切輕量。
+xyz.audiostellar.AudioStellar	AI 驅動的實驗採樣器
+xyz.eclipium.Hieroctive	一個有趣的記憶遊戲來學習象形文字！
+xyz.eclipium.TetraSwap	一個簡單但具有挑戰性的未來益智遊戲！
+xyz.hyperplay.HyperPlay	未來的 Web3 遊戲啟動器。將您的錢包、NFT、代幣和成就帶入每場遊戲。
+xyz.ketok.Speedtest	測量您的網路連線速度
+xyz.kusma.aurora	極光過量
+xyz.ljoonal.neospeeps	一個列出 NeosVR 窺視和會話的輕量級應用程序
+xyz.mx_moment.moment	可自訂且可鍵盤操作的 Matrix 用戶端
+xyz.rescribe.rescribe	適用於影像、PDF 和 Google 圖書的高品質 OCR。
+xyz.safeworlds.hiit	高強度間歇訓練計時器
+xyz.safeworlds.midiconn	虛擬 MIDI 集線器
+xyz.slothlife.Jogger	健身追蹤器
+xyz.splashmapper.Splash	視訊映射軟體
+xyz.stuerz.BilligSweeper	掃雷的廉價克隆
+xyz.tytanium.DoorKnocker	檢查入口網站的可用性
+xyz.woxel.Woxel	類似 Minecraft 的開源 3D 體素編輯器
+xyz.xclicker.xclicker	適用於 x11 Linux 桌面的快速 GUI 自動點擊器
+xyz.z3ntu.razergenie	設定與控制您的 Razer 設備

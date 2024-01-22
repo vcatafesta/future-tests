@@ -26,7 +26,7 @@
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # Load config file
-. /usr/share/biglinux/bigstore-cli/config.sh
+source /usr/share/biglinux/bigstore-cli/config.sh
 
 # Load JSON file for search
 json_file="$cacheFolder/pacman_filtered.json"
@@ -48,7 +48,7 @@ fi
 json_output=false
 if [ "$1" == "-j" ]; then
     json_output=true
-    shift  # Remove the option -j from arguments
+    shift # Remove the option -j from arguments
 fi
 
 # Function to create a regex for each term
@@ -64,7 +64,7 @@ create_regex_for_term() {
 # Using regex, to replace for example a with [aáàâãäåæ]
 # The result is used in before function to use in ripgrep to search
 first_term_regex=$(create_regex_for_term "$(accents_regex.sh $1)")
-search_cmd="rg -N $uncompress_flag -i --pcre2 '$first_term_regex' '$json_file'"
+search_cmd="rg -N -i --pcre2 '$first_term_regex' '$json_file'"
 
 # If have more than one word in search, add each word to search
 # Filtering the results with ripgrep from the previous search
@@ -180,12 +180,12 @@ else
         # If the package is installed, count -= 10
         if (installed == "true") {
             count -= 10;
-            installed = "installed";
+            installed = "installed ";
             totalInstalled += 1;
 
             # If the package have update, count -= 10
             if (iver != "null") {
-                update = "repo version " gray version;
+                update = "repo version  " gray version;
                 version = iver;
                 count -= 10;
             } else {
@@ -206,4 +206,3 @@ else
     }'
     # }' | LANG=C sort -r | LANG=C cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi
-

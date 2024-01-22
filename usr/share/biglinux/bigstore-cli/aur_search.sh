@@ -48,7 +48,7 @@ fi
 json_output=false
 if [ "$1" == "-j" ]; then
     json_output=true
-    shift  # Remove the option -j from arguments
+    shift # Remove the option -j from arguments
 fi
 
 # Function to create a regex for each term
@@ -64,7 +64,7 @@ create_regex_for_term() {
 # Using regex, to replace for example a with [aáàâãäåæ]
 # The result is used in before function to use in ripgrep to search
 first_term_regex=$(create_regex_for_term "$(accents_regex.sh $1)")
-search_cmd="rg -N $uncompress_flag -i --pcre2 '$first_term_regex' '$json_file'"
+search_cmd="rg -N -i --pcre2 '$first_term_regex' '$json_file'"
 
 # If have more than one word in search, add each word to search
 # Filtering the results with ripgrep from the previous search
@@ -212,6 +212,5 @@ else
             print "\n01   " gray "AUR\t\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
 
-    
     # }' | sort -rn | cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

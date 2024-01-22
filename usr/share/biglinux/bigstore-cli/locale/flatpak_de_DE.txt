@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Passwort-Manager: Bewahren Sie Ihre Passwörter auf allen Plattformen und Geräten sicher auf
+app.bbsync.BlackboardSync	Laden Sie Ihre Blackboard Learn-Inhalte auf Ihr Gerät herunter
+app.bluebubbles.BlueBubbles	BlueBubbles-Client für Linux
+app.cantara.Cantara	Ein einfaches, leichtes, aber leistungsstarkes Programm zur Liedpräsentation in Kirchen, kleinen Gruppen oder auf Karaoke-Partys.
+app.drey.Biblioteca	Dokumentations-Viewer für GNOME
+app.drey.Blurble	Wortratespiel
+app.drey.Damask	Automatisches Einstellen von Hintergrundbildern aus Internetquellen
+app.drey.Dialect	Übersetzen Sie zwischen Sprachen
+app.drey.EarTag	Tags von Audio-Dateien bearbeiten
+app.drey.Elastic	Sprungfeder-Animationen entwerfen
+app.drey.KeyRack	App-Geheimnisse anzeigen und bearbeiten
+app.drey.MultiplicationPuzzle	Lösen Sie ein Mathe-Rätsel
+app.drey.Warp	Schnelle und sichere Dateiübertragung
+app.feeddeck.feeddeck	Verfolgen Sie Ihre RSS- und Social-Media-Feeds
+app.getclipboard.Clipboard	Alles ausschneiden, kopieren und einfügen, jederzeit und überall
+app.getspace.Space	Abstandswiederholung für Lernkarten
+app.gummi.gummi	Der einfache LaTeX-Editor
+app.kaiteki.Kaiteki	Der komfortable SNS-Client für alles und überall
+app.lith.Lith	WeeChat-Relay-Client
+app.midterm.MidtermDesktop	Eine kostenlose Notiz-App zum Lernen.
+app.moosync.moosync	Anpassbarer Musikplayer
+app.organicmaps.desktop	Eine kostenlose Offline-Karten-App für Reisende, Touristen, Wanderer, Autofahrer und Radfahrer
+app.rednotebook.RedNotebook	Grafisches Tagebuch und Journal
+app.riftshare.RiftShare	Einfache, sichere und kostenlose Dateifreigabe. Plattformübergreifende Dateifreigabe mit Magic Wormhole
+app.vup.Vup	Open-Source-End-to-End-verschlüsselte Cloud-Speicher-App mit integriertem Medienserver
+app.xemu.xemu	Originaler Xbox-Emulator
+app.ytmdesktop.ytmdesktop	Kostenloser plattformübergreifender Desktop-Player für YouTube Music
+app.ywallet.Ywallet	Leichte Geldbörse für Ycash und Zcash
+ar.com.pilas_engine.App	Pilas Engine ist ein Werkzeug zum Erstellen von Video-Spielen mit sensibler und unterhaltsamer Wirkung
+ar.com.softwareperonista.Rockarrolla	Ein Jukebox-ähnlicher Musikplayer
+ar.com.tuxguitar.TuxGuitar	TuxGuitar ist ein kostenloser Open-Source-Tabulatureditor.
+art.taunoerik.tauno-monitor	Einfacher eigenständiger Monitor für die serielle Schnittstelle.
+art.taunoerik.tauno-serial-plotter	Einfacher serieller Plotter für Arduino und andere ähnliche Geräte.
+ar.xjuan.Cambalache	Erstelle GTK Benutzeroberflächen
+at.priv.toastfreeware.ConfClerk	ConfClerk ist eine Anwendung, die Konferenzpläne offline verfügbar macht
+at.ssh_mitm.server	SSH-MITM – SSH-Audits leicht gemacht
+at.vintagestory.VintageStory	Wildnis-Survival-Sandbox-Spiel
+au.edu.uq.esys.escript	esys-escript ist ein Python-Modul zur Implementierung mathematischer Modelle mithilfe der Finite-Elemente-Methode
+br.app.pw3270.terminal	Greifen Sie auf TN3270-Hosts zu
+br.com.gualandi.Xjump	Ein Springspiel für moderne Grafiksysteme
+br.gov.cti.invesalius	3D-Rekonstruktionssoftware für medizinische Bildgebung
+br.gov.fazenda.receita.irpf2022	Reichen Sie Ihre Steuern in Brasilien ein
+br.gov.fazenda.receita.irpf2023	Reichen Sie Ihre Steuern in Brasilien ein
+ca._0ldsk00l.Nestopia	Ein Nintendo Entertainment System-Emulator
+ca.desrt.dconf-editor	Ein grafisches Werkzeug zum Bearbeiten der dconf-Datenbank
+cafe.avery.Delfin	Streamen Sie Filme und Fernsehsendungen von Jellyfin
+ca.hamaluik.Timecop	Eine Zeiterfassungs-App, die Ihre Privatsphäre respektiert und die Arbeit erledigt, ohne zu aufdringlich zu wirken
+ca.littlesvr.asunder	Asunder ist ein grafischer Audio-CD-Ripper und -Encoder
+camp.nook.nookdesktop	Nook ist eine Anwendung, die stündlich Animal Crossing-Themen abspielt.
+ca.parallel_launcher.ParallelLauncher	Moderner N64-Emulator
+cat.xtec.clic.JClic	Bildungsaktivitäten und Spiele für Schüler und Pädagogen
+ca.uwaterloo.Raven	Modellierungsrahmen zur Simulation der Hydrologie von Wassereinzugsgebieten
+cc.arduino.arduinoide	Open-Source-Elektronik-Prototyping-Plattform
+cc.arduino.IDE2	Open-Source-Elektronik-Prototyping-Plattform
+cc.craftos_pc.CraftOS-PC	Erweiterter ComputerCraft-Emulator
+cc.craftos_pc.CraftOS-PC-Accelerated	Erweiterter ComputerCraft-Emulator
+cc.nift.nsm	Dynamischer und statischer Site-Generator
+cc.retroshare.retroshare-gui	Sichere Kommunikation für alle
+cern.root.ROOT	Datenanalyse-Framework
+chat.delta.desktop	E-Mail-basierter Messenger von Delta Chat
+chat.quadrix.Quadrix	Minimaler, einfacher Multiplattform-Chat-Client für das Matrix-Protokoll
+chat.revolt.RevoltDesktop	Revolt-Desktop-App
+chat.rocket.RocketChat	Open-Source-Teamkommunikation
+chat.schildi.desktop	SchildiChat ist ein auf Element basierender Matrix-Client mit einem traditionelleren Instant-Messaging-Erlebnis.
+chat.tandem.Client	Virtuelles Büro für Remote-Teams
+ch.imatt.ClipQR	Scannen Sie QR-Codes auf dem Bildschirm und von der Kamera.
+ch.openboard.OpenBoard	Interaktives Whiteboard für Schulen und Universitäten
+ch.protonmail.protonmail-bridge	Verschlüsselt und entschlüsselt Ihre E-Mails nahtlos, während sie Ihren Computer erreichen und verlassen
+ch.protonmail.protonmail-import-export-app	Importieren Sie E-Mails in Ihren sicheren ProtonMail-Posteingang oder erstellen Sie Offline-Backups mit der Import-Export-App.
+ch.theologeek.Manuskript	Ein Open-Source-Tool für Autoren
+ch.threema.threema-web-desktop	Threema für Desktop ist ein Desktop-Client für Threema, einen datenschutzorientierten, Ende-zu-Ende-verschlüsselten mobilen Messenger, der in der Schweiz gehostet und entwickelt wird. INOFFIZIELLES PAKET.
+ch.tigerjython.TigerJython2	TigerJython-IDE
+ch.tlaun.TL	Spielen Sie Minecraft und erschaffen Sie Ihre eigene Welt!
+ch.x29a.playitslowly	Spielen Sie Musik mit einer anderen Geschwindigkeit ab
+cn.lceda.LCEDAPro	Ein einfacheres und leistungsstarkes Online-PCB-Designtool
+cn.navclub.ldbfx	Visuelles Datenbankverwaltungstool
+cn.ottercorp.xivlaunchercn	Launcher und nahtlose Linux-Integration für Final Fantasy XIV Online (China-Version)
+cn.xfangfang.wiliwili	Ein Bilibili-Client eines Drittanbieters, der speziell für Controller-Benutzer entwickelt wurde
+codes.loers.Karlender	Verwalten Sie Ihren Zeitplan
+codes.loers.Punchclock	Verfolgen Sie die Zeit für Ihre Aufgaben.
+codes.merritt.adventurelist	Todo-Liste, die mit allen Ihren Geräten synchronisiert wird
+codes.merritt.bargain	Vergleichen Sie Artikel beim Einkaufen ganz einfach
+codes.merritt.FeelingFinder	Ein schneller und schöner Emoji-Picker
+codes.merritt.Nyrna	Unterbrechen Sie Spiele und Anwendungen
+codes.nora.gDiceRoller	Wirf Würfel in vielen verschiedenen Formen und Größen in allen möglichen Kombinationen.
+co.headsetapp.headset	Headset. Entdecken und sammeln Sie Musik auf YouTube.
+co.luoja.Telyn	Visueller Editor für parametrische Nähmuster
+com.abagames.noiz2sa	Ein frenetischer abstrakter Shooter
+com.abagames.rRootage	Besiege automatisch erstellte riesige Schlachtschiffe.
+com.abisource.AbiWord	Ein Textverarbeitungsprogramm
+com.adamcake.Bolt	Open-Source-Jagex-Launcher eines Drittanbieters
+com.adilhanney.ricochlime	Befriedigender Monster-Shooter
+com.adilhanney.saber	Die Notizen-App für die Handschrift
+com.adilhanney.super_nonogram	Lösen Sie unbegrenzt prozedural generierte Nonogramm-Rätsel!
+com.adilhanney.timing	Lernen Sie, Zeitintervalle im Subsekundenbereich zu erkennen
+com.adobe.Flash-Player-Projector	Player für mit Adobe Flash erstellte Inhalte
+com.adobe.Reader	PDF-Viewer
+com.adrienplazas.Metronome	Das Tempo halten
+com.agatanawrot.karambola	Hilf Karambola in diesem kurzen, handgezeichneten Point-and-Click-Puzzle-Abenteuer bei seiner Suche nach der Rettung seiner emotionalen Obstmenschen-Freunde vor der Macht dunkler Gedanken
+com.agateau.nanonote	Eine minimalistische Notizanwendung.
+com.agateau.PixelWheels	Pixel Wheels ist ein Retro-Top-Down-Rennspiel.
+com.airtame.Client	Airtame ist eine drahtlose Streaming-Lösung
+com.albiononline.AlbionOnline	MMORPG offenes mittelalterliches Fantasy-Spiel
+com.alientrap.nexuiz-classic	Ein Multiplayer-Ego-Shooter
+com.alovoa.alovoa-electron	Open-Source-Online-Dating-Anwendung
+com.amazon.Workspaces	Greifen Sie überall, jederzeit und von jedem Gerät aus auf Ihren Desktop zu
+com.ampl.ide	Eine einfache und unkomplizierte erweiterte Modellierungsschnittstelle für AMPL-Benutzer
+com.anydesk.Anydesk	Stellen Sie eine Remoteverbindung zu einem Computer her
+com.arteeh.Flasher	Eine einfache App zum Flashen der PineTime-Smartwatch mit einem ST-Link
+com.arviceblot.eso-addon-manager	Ein plattformübergreifender, inoffizieller Add-on-Manager für The Elder Scrolls Online.
+com.atlauncher.ATLauncher	Ein Launcher für Minecraft, der mehrere verschiedene Modpacks integriert, damit Sie Modpacks einfach und schnell herunterladen und installieren können.
+com.authy.Authy	Twilio Authy Zwei-Faktor-Authentifizierungs-Desktopanwendung
+com.avocode.Avocode	Übergeben und prüfen Sie jedes Design
+com.axosoft.GitKraken	Für Repo-Management, In-App-Codebearbeitung und Problemverfolgung.
+com.baidu.NetDisk	Baidu Netdisk-Desktop-Client
+com.bambulab.BambuStudio	Erhalten Sie perfekte 3D-Drucke!
+com.basemark.BasemarkGPU	Tool zur Bewertung der GPU-Leistung
+com.behringer.XAirEdit	Benutzeroberfläche des Behringer XR-Mixers
+com.belmoussaoui.ashpd.demo	Spielen Sie mit Portalen
+com.belmoussaoui.Authenticator	Zwei-Faktor-Codes erzeugen
+com.belmoussaoui.Decoder	QR-Codes scannen und erstellen
+com.belmoussaoui.Obfuscate	Persönliche Informationen zensieren
+com.belmoussaoui.ReadItLater	Web-Artikel speichern und lesen
+com.belmoussaoui.snowglobe	Virtualization viewer using QEMU over DBus
+com.biglybt.BiglyBT	Feature filled, open source, ad-free, bittorrent client
+com.bitwarden.desktop	A secure and free password manager for all of your devices
+com.bitwig.BitwigStudio	Modern music production and performance
+com.bixense.PasswordCalculator	Calculate strong passwords for each alias from your single secret
+com.bjareholt.johan.SimpleDiary	Simple and lightweight diary app
+com.bktus.gpgfrontend	An OpenPGP Crypto Tool
+com.bladecoder.adventure-editor	Classic point and click adventure game engine and editor
+com.blitterstudio.amiberry	An Amiga emulator for Linux
+com.blockstream.Green	A simple and secure Bitcoin and Liquid Network wallet
+com.borgbase.Vorta	Backup client
+com.boxy_svg.BoxySVG	Editor für skalierbare Vektorgrafiken
+com.brave.Browser	The web browser from Brave
+com.brosix.Brosix	An all-in-one, secure instant messenger
+com.budgetwithbuckets.Buckets	Quick, simple and private family budgeting app
+com.calibre_ebook.calibre	Die Komplettlösung für alle Ihre eBook-Bedürfnisse
+com.carpeludum.KegaFusion	An emulator for Sega 8 and 16-bit consoles
+com.cassidyjames.butler	Begleiter für Home Assistant
+com.cassidyjames.plausible	Einfache und datenschutzfreundliche Alternative zu Google Analytics
+com.cburch.Logisim	Logisim ist ein grafisches Tool zum Entwerfen und Simulieren von Logikschaltungen
+com.chatterino.chatterino	Chat-Client für twitch.tv
+com.chez.GrafX2	Ein Bitmap-Malprogramm, das auf das Zeichnen mit 256 Farben spezialisiert ist
+com.chmouel.gnomeNextMeetingApplet	Zeigen Sie Ihre nächsten Veranstaltungen in Ihrem Panel an
+com.chowdsp.BYOD	BYOD: Bringen Sie Ihre eigene Verzerrung mit, Standalone
+com.chroniclogic.Zatikon	Schachartiges Fantasy-Spiel zur Eroberung der feindlichen Burg
+com.clarahobbs.chessclock	Zeitmessung für Schach am Brett
+com.claudiocambra.brickbuster	Ein Brick-Breaker-Spiel, lustig und süchtig machend!
+com.cocoatech.deckr	Desktop-App, die mit dem Deckr-Chrome-Plugin verwendet wird
+com.codemouse92.timecard	Verfolgen Sie die Zeit wunderbar.
+com.coeck_studios.Dinonuggys-Journey	Ein Pixel-Art-2D-Plattformspiel.
+com.corsixth.corsixth	Open-Source-Klon von Theme Hospital
+com.cuperino.qprompt	Persönliche Teleprompter-Software für alle Videokünstler
+com.daidouji.oneko	Kätzchen, das Ihrem Mauszeigerspielzeug auf dem Desktop folgt
+com.darhon.drfinance	Verwalten Sie Ihre persönlichen Konten
+com.darhon.syncbackup	Sichern und spiegeln Sie Ihre Laufwerke
+com.dec05eba.gpu_screen_recorder	Ein schattenspielähnlicher Bildschirmrekorder für Linux. Der schnellste Bildschirmrekorder für Linux
+com.dhsdevelopments.Climaxima	Frontend für Maxima CAS
+com.diffingo.fwbackups	Ein funktionsreiches, benutzerfreundliches Backup-Programm
+com.discordapp.Discord	Messaging-, Sprach- und Video-Client
+com.diy_fever.DIYLayoutCreator	Tool zum Entwerfen von Schaltungslayouts, das Leiterplatten-, Vero-Board-, Punkt-zu-Punkt-, Perf-Board- und Gitarren-Verdrahtungspläne unterstützt
+com.djoffe.gnukem	2D-Scrolling-Plattform-Shooter im Retro-Stil
+com.dosbox.DOSBox	x86/DOS-Emulator mit Sound und Grafik
+com.dosbox_x.DOSBox-X	x86/DOS-Emulator mit Sound und Grafik
+com.doycho.euterpe.gtk	Mediaplayer-Client für den Euterpe-Medienserver.
+com.dreamsourcelab.DSView	Ein Open-Source-Multifunktionsinstrument für jedermann
+com.dropbox.Client	Von jedem Computer aus Zugriff auf die eigenen Dateien
+com.eduke32.EDuke32	EDuke32 ist eine fantastische, kostenlose Homebrew-Spiele-Engine
+com.ekonomikas.merkato	Verfolgen Sie Ihre Investitionen
+com.elsevier.MendeleyDesktop	Mendeley ist ein kostenloser Referenzmanager und ein akademisches soziales Netzwerk
+com.eminfedar.vaktisalah	eine plattformübergreifende Prayer Times-Anwendung
+com.emqx.MQTTX	Ein eleganter plattformübergreifender MQTT 5.0-Desktop-Client
+com.endlessm.photos	Bearbeiten und teilen Sie ganz einfach alle Ihre Lieblingsfotos
+com.endlessnetwork.aqueducts	Ein fesselndes Puzzle-Abenteuerspiel, in dem Sie den Tag retten!
+com.endlessnetwork.dragonsapprentice	Ein RPG-ähnliches Dungeon-Crawler-Rätsellösungsspiel und mehr!
+com.endlessnetwork.fablemaker	Betreten Sie die Welt der Fabeln des Äsop wie nie zuvor! Interaktive Geschichten, in denen Sie in dieser fesselnden und lehrreichen App Charaktere, Texte und Sounds anpassen und sich in deren Code hineinhacken können.
+com.endlessnetwork.frogsquash	Ein süchtig machendes Cross-Road-Spiel mit einer Wendung
+com.endlessnetwork.MidnightmareTeddy	Schießen und überleben
+com.endlessnetwork.missilemath	Ein Flugzeug-Flug-Shooter-Spiel
+com.endlessnetwork.passage	Hacken Sie sich durch dieses Side-Scrolling-Action-Adventure-Shooter-Spiel
+com.endlessnetwork.tankwarriors	Fahren, Schießen, Explosionen und Programmieren – alles in einem Spiel
+com.endlessnetwork.whitehouse	Zerhacken Sie Ihre Welt mithilfe der Magie von CSS in einen einzigartigen Ausbruch aus Farbe und Licht, der versteckte Objekte und Hinweise enthüllt.
+com.enjoyingfoss.feeel	Eine einfache Heimtrainings-/Übungs-App, die Ihre Privatsphäre respektiert
+com.enjoyingfoss.Parlera	Ein Partyspiel, bei dem Ihre Freunde beschreiben und Sie raten; oder umgekehrt
+com.epicgames.ut2004	Ego-Arena-Shooter
+com.epicgames.ut99	Ego-Arena-Shooter
+com.etlegacy.ETLegacy	ET: Legacy ist ein Open-Source-Projekt, das auf dem Code von Wolfenstein: Enemy Territory basiert und 2010 unter den Bedingungen der GPLv3 veröffentlicht wurde.
+com.expidusos.calculator	ExpidusOS-Rechner
+com.expidusos.file_manager	ExpidusOS-Dateimanager
+com.feaneron.Boatswain	Steuern Sie Ihre Elgato Stream Decks
+com.felipekinoshita.Kana	Lernen Sie japanische Schriftzeichen
+com.felipekinoshita.Wildcard	Teste deine regulären Ausdrücke
+com.fightcade.Fightcade	Spielen Sie Arcade-Spiele online.
+com.flashforge.FlashPrint	Slicer für die FlashForge 3D-Drucker
+com.frac_tion.teleport	Teilen Sie Dateien über das lokale Netzwerk
+com.freerdp.FreeRDP	FreeRDP-Client (Remote Desktop Protocol) für Linux
+com.frogatto.Frogatto	Ein 2D-Plattformspiel der alten Schule
+com.fyralabs.SkiffDesktop	Datenschutzorientierte Ende-zu-Ende-verschlüsselte E-Mail
+com.gamestarmechanic.gamestarmechanic	Lernen Sie, Videospiele zu entwerfen
+com.geekbench.Geekbench6	Plattformübergreifender System-Benchmark
+com.georgefb.mangareader	Manga Reader für lokale Dateien
+com.georgefb.quickaccess	Ein globales Menü, das Ihnen schnellen Zugriff auf Ordner und benutzerdefinierte Befehle ermöglicht.
+com.getmailspring.Mailspring	Die beste E-Mail-App für Menschen und Teams bei der Arbeit
+com.getpostman.Postman	Plattform zum Erstellen und Verwenden von APIs
+com.ghostery.browser	Ein völlig privates Surferlebnis von Ghostery
+com.giadamusic.Giada	Deine Hardcore-Loop-Maschine
+com.gigitux.youp	WhatsApp
+com.gitfiend.GitFiend	Ein Git-Client, der für Menschen entwickelt wurde
+com.github._0negal.Viper	Viper ist ein Launcher und Updater für Northstar und nicht viel mehr.
+com.github._4lex4.ScanTailor-Advanced	Interaktives Nachbearbeitungstool für gescannte Seiten
+com.github.ADBeveridge.Raider	Dateien sicher löschen
+com.github.afrantzis.Bless	Gtk# Hex-Editor
+com.github.aharotias2.parapara	Ein Bildbetrachter ohne Bibliothek
+com.github.ahrm.sioyek	PDF-Viewer zum Lesen von Forschungsarbeiten und technischen Büchern
+com.github.alainm23.byte	Entdecke deine Musik neu
+com.github.alainm23.planner	Machen Sie sich nie wieder Sorgen, Dinge zu vergessen
+com.github.Alcaro.Flips	Ein Patcher für IPS- und BPS-Dateien
+com.github.alecaddd.sequeler	Freundlicher SQL-Client
+com.github.alexhuntley.Plots	Einfache grafische Darstellung
+com.github.alexkdeveloper.astronum	Programm für einfache astrologische und numerologische Berechnungen
+com.github.alexkdeveloper.desktop-files-creator	Einfache App zum Erstellen von Desktop-Dateien unter GNU/Linux
+com.github.alexkdeveloper.dice	Ein einfaches Würfelspiel
+com.github.alexkdeveloper.dwxmlcreator	Einfacher dynamischer Wallpaper-Ersteller
+com.github.alexkdeveloper.easter	Berechnen Sie das Datum des katholischen Osterfestes
+com.github.alexkdeveloper.forgetpass	Einfacher Passwortgenerator für Websites
+com.github.alexkdeveloper.goldsearch	Ein Spiel, in dem Sie nach Gold suchen müssen
+com.github.alexkdeveloper.notepad	Einfache Erstellung von Textnotizen
+com.github.alexkdeveloper.recorder	Einfacher Audiorecorder
+com.github.alexkdeveloper.relaxator	Entspannen Sie sich bei beruhigenden Klängen
+com.github.alexkdeveloper.somafm	Ein einfaches Radio mit integrierten Sendern von der Website somafm.com
+com.github.alexkdeveloper.sudoku	Sudoku-Spiel
+com.github.AlizaMedicalImaging.AlizaMS	Ein DICOM-Viewer
+com.github.AmatCoder.mednaffe	Ein Frontend (GUI) für den Mednafen-Emulator (im Lieferumfang enthalten)
+com.github.amikha1lov.RecApp	Benutzerfreundliches Programm für Linux zur Aufnahme eines Bildschirmvideos, geschrieben in GTK
+com.github.Anuken.Mindustry	Mindustry: Ein Sandbox-Tower-Defense-Spiel
+com.github.appadeia.Taigo	Taigo ist ein virtuelles Haustier für Ihren Desktop
+com.github.arminstraub.krop	Ein Tool zum Zuschneiden von PDF-Dateien
+com.github.arshubham.cipher	Text kodieren und dekodieren
+com.github.arshubham.gitignore	.gitignore-Referenz für verschiedene Sprachen
+com.github.artemanufrij.graphui	Diagrammvisualisierung
+com.github.artemanufrij.playmymusic	Ein Musikplayer zum Hören lokaler Musikdateien, Online-Radios und Audio-CDs
+com.github.artemanufrij.playmyvideos	Video Player zum Abspielen von lokalen Videodateien
+com.github.artemanufrij.regextester	Eine einfache App zum Testen regulärer Ausdrücke
+com.github.avojak.paint-spill	Das farbenfrohe Puzzlespiel
+com.github.avojak.warble	Das Wortratespiel
+com.github.babluboy.bookworm	Ein fokussierter E-Book-Reader
+com.github.bajoja.indicator-kdeconnect	AppIndicator für KDE Connect
+com.github.bcedu.valasimplehttpserver	Greifen Sie von jedem Gerät im selben Netzwerk auf Ihre Dateien zu
+com.github.bcedu.vgrive	Google Drive-Client mit automatischer Synchronisierung für Linux
+com.github.benpocalypse.Huely	Färben Sie Ihren Raum
+com.github.birros.WebArchives	Ein Webarchiv-Viewer
+com.github.bjaraujo.Bombermaaan	Arcade-Spiel
+com.github.Bleuzen.FFaudioConverter	Batch-Audiokonverter und Effektprozessor
+com.github.bluesabre.darkbar	Verdunkeln Sie die Titelleisten der Anwendung nach Ihren Wünschen
+com.github.buddhi1980.mandelbulber2	Kostenloser und quelloffener 3D-Fraktalgenerator
+com.github.bvschaik.julius	Julius ist eine Open-Source-Neuimplementierung von Caesar III
+com.github.calo001.fondo	Finden Sie die schönsten Hintergrundbilder
+com.github.calo001.luna	Ein fantastisches Kalender-Widget
+com.github.carlos157oliveira.Calculus	Berechnen Sie Ableitungen und Integrale
+com.github.cassidyjames.clairvoyant	Stellen Sie Fragen und erhalten Sie übersinnliche Antworten
+com.github.cassidyjames.dippi	Berechnen Sie Anzeigeinformationen wie DPI und Seitenverhältnis
+com.github.cfcurtis.pdfstitcher	PDF Stitcher ist ein Dienstprogramm zum Zusammenfügen und Ändern der Linieneigenschaften von PDF-Nähmustern
+com.github.childishgiant.mixer	Ändern Sie die Lautstärke von Apps
+com.github.chipmuenk.pyfda	Python-Filterdesign-Analysetool
+com.github.christianrauch.Jahresarbeit-2003	Finden Sie die größte Fläche zusammenhängender Quadrate
+com.github.corna.Vivado	Xilinx Design Suite für die Hardwareentwicklung
+com.github.coslyk.MoonPlayer	Videoplayer zum Abspielen und Herunterladen von Online-Videos von YouTube, Youku usw.
+com.github.cubitect.cubiomes-viewer	Ein effizienter Minecraft-Samenfinder und Kartenbetrachter.
+com.github.d4nj1.tlpui	GTK-UI zum einfachen Ändern von TLP-Konfigurationsdateien.
+com.github.dahenson.agenda	Aufgaben zuende bringen
+com.github.dail8859.NotepadNext	Eine plattformübergreifende Neuimplementierung von Notepad++
+com.github.Darazaki.Spedread	GTK-Programm zum Schnelllesen: Lesen Sie wie der Blitz!
+com.github.dariasteam.cowsrevenge	Indie-Plattformer-Pixel-Art-Spiel
+com.github.dawidd6.checksumo	Überprüfen Sie die angegebene Datei anhand des angegebenen Hashs
+com.github.debauchee.barrier	Barriere – Teilen Sie Maus und Tastatur über das lokale Netzwerk
+com.github.devalien.workspaces	Seien Sie immer bereit für die Arbeit
+com.github.dimkr.gplaces	Ein terminalbasierter Gemini-Client
+com.github.donadigo.appeditor	Anwendungsmenü bearbeiten
+com.github.dynobo.normcap	Extrahieren Sie Text von einer beliebigen Stelle auf dem Bildschirm
+com.github.edenalencar.identifications	Es ist ein Tool für das QA-Team und die Entwickler
+com.github.Eloston.UngoogledChromium	Ein einfacher Ansatz zur Beseitigung der Abhängigkeit von Google-Webdiensten
+com.github.elth0r0.iqpuzzle	Ein kurzweiliges und anspruchsvolles Pentomino-Puzzle
+com.github.emmanueltouzery.cigale	Überprüfen Sie Ihre vergangenen Aktivitäten
+com.github.emmanueltouzery.hotwire	Mit Hotwire können Sie den Netzwerkverkehr einiger gängiger Protokolle auf einfache Weise untersuchen
+com.github.emmanueltouzery.projectpad	Mit Projectpad können Sie geheime Anmeldeinformationen und Serverinformationen verwalten, mit denen Sie als Softwareentwickler oder Systemadministrator umgehen müssen.
+com.github.eneshecan.WhatsAppForLinux	Eine inoffizielle WhatsApp-Desktopanwendung für Linux
+com.github.fabiocolacio.marker	Leistungsstarker Markdown-Editor für den GNOME-Desktop.
+com.github.finefindus.eyedropper	Farbe auswählen und formatieren
+com.github.Flacon	Flacon extrahiert einzelne Titel aus einer großen Audiodatei, die das gesamte Musikalbum enthält, und speichert sie als separate Audiodateien
+com.github.flxzt.rnote	Zeichne und mache handschriftliche Notizen
+com.github.fontmatrix.Fontmatrix	Anwendung zur Schriftartenverwaltung
+com.github.fries1234.ncsa-mosaic	Der NSCA-Mosaik-Webbrowser
+com.github.gabutakut.gabutdm	Einfacher und schneller Download-Manager
+com.github.geigi.cozy	Hören Sie Hörbücher
+com.github.giacomogroppi.writernote-qt	Writernote ist eine Multiplattform-Anwendung, mit der Sie Notizen machen können, indem Sie Audio aufnehmen, diese später in Text übersetzen und auf intelligente Weise anhören.
+com.github.gijsgoudzwaard.image-optimizer	Einfache verlustfreie Bildkomprimierung
+com.github.git_cola.git-cola	Schlanke und leistungsstarke Git-GUI
+com.github.gmg137.netease-cloud-music-gtk	Netease Cloud-Musikplayer basierend auf Rust + GTK
+com.github.gpuvis.Gpuvis	A GPU Trace Visualizer
+com.github.GradienceTeam.Gradience	Ändere einfach das Aussehen von Adwaita
+com.github.gyunaev.spivak	Karaoke player
+com.github.hluk.copyq	Advanced clipboard manager
+com.github.hopsan.Hopsan	A modelling and simulation tool for fluid power and mechatronic systems
+com.github.horaciodrs.tradesim	The Linux Trading Simulator
+com.github.hugolabe.Wike	Suche und lese Wikipedia-Artikel
+com.github.huluti.Coulr	Genießen Sie die Farben und freuen Sie sich darüber!
+com.github.huluti.Curtail	Komprimieren Ihrer Bilder
+com.github.HypatiaProject.hypatia	A research helper tool that provides context and information about interesting topics.
+com.github.ilai_deutel.kibi	A text editor in ≤1024 lines of code, written in Rust
+com.github.inercia.k3x	Manager for local Kubernetes clusters with k3d
+com.github.iortcw.iortcw	Game engine for Return to Castle Wolfenstein
+com.github.IsmaelMartinez.teams_for_linux	Unofficial Microsoft Teams client for Linux using Electron
+com.github.iwalton3.jellyfin-media-player	Desktop client for Jellyfin media server
+com.github.iwalton3.jellyfin-mpv-shim	Cast-only client for Jellyfin Media Server
+com.github.JannikHv.Gydl	Download content from sites like YouTube
+com.github.jeromerobert.pdfarranger	PDFs zusammenfügen, umsortieren, trennen, rotieren und zuschneiden
+com.github.jkotra.eovpn	OpenVPN Configuration Manager
+com.github.jkotra.unlockr	PDF-Passwort Entferner
+com.github.jmlich.geotagging	Um den Ort zu finden, an dem Sie das Foto aufgenommen haben
+com.github.jms55.Sandbox	Ein Sandsimulationsspiel
+com.github.johnfactotum.Foliate	Lesen Sie E-Books mit Stil
+com.github.johnfactotum.QuickLookup	Suchen Sie schnell nach Wörtern
+com.github.Johnn3y.Forklift	Anwendung zum Herunterladen von Videos und Audio
+com.github.joseexposito.touche	Multi-Touch-Gesten
+com.github.jpakkane.glyphtracer	Konvertieren Sie Bilder von Buchstaben in eine Schriftart
+com.github.junrrein.PDFSlicer	Ein einfaches Werkzeug zum Extrahieren, Zusammenführen, Drehen und Neuordnen von Seiten aus PDF-Dokumenten
+com.github.juzzlin.DustRacing2D	Traditionelles Autorennspiel aus der Vogelperspektive, mit Leveleditor
+com.github.k4zmu2a.spacecadetpinball	Spiel-Engine für Space Cadet Pinball
+com.github.kagami.boram	Plattformübergreifender grafischer WebM-Konverter.
+com.github.kalibari.audok	Ein kostenloser Open-Source-Musikplayer
+com.github.keriew.augustus	Augustus ist eine Open-Source-Neuimplementierung von Caesar III mit Änderungen am Gameplay
+com.github.kmwallio.thiefmd	Der Markdown-Editor, den es sich zu stehlen lohnt.
+com.github.KRTirtho.Spotube	🎧 Open-Source-Spotify-Client, der weder Premium erfordert noch Electron verwendet! Verfügbar für Desktop und Mobilgeräte!
+com.github.labyrinth_team.labyrinth	Ein leichtes Mindmapping-Tool
+com.github.lachhebo.Gabtag	Ein Audio-Tagging-Tool
+com.github.libresprite.LibreSprite	Animierter Sprite-Editor und Pixel-Art-Tool
+com.github.liferooter.textpieces	Transformieren Sie Text, ohne zufällige Websites zu verwenden
+com.github.LongSoft.UEFITool	UEFI-Firmware-Bildbetrachter und -Editor
+com.github.louis77.tuner	Entdecke und empfange Internet Radio-Stationen
+com.github.lxgr_linux.pokete	A terminal based Pokemon like game
+com.github.makhber.Makhber	Visualization and Analysis of Scientific Data
+com.github.maoschanz.drawing	Bearbeiten von Bildschirmfotos oder Memes
+com.github.maoschanz.DynamicWallpaperEditor	Create or edit XML dynamic wallpapers (background slideshows) for the GNOME desktop
+com.github.marhkb.Pods	Behalte den Überblick über deine Podman-Container
+com.github.marinm.songrec	An open-source, unofficial Shazam client for Linux, written in Rust.
+com.github.marktext.marktext	Next generation markdown editor
+com.github.matfantinel.moneta	Monitor the exchange rates of real-world currencies on your desktop
+com.github.matfantinel.reminduck	Vergiss nichts mehr auf eine nervig süße Art und Weise
+com.github.Matoking.protontricks	A simple wrapper that does winetricks things for Proton enabled games
+com.github.mdh34.hackup	Read Hacker News from the desktop
+com.github.mdh34.quickdocs	Quickly Read Developer Docs
+com.github.mgropp.PdfJumbler	Simple tool to rearrange, merge, delete and rotate pages in PDF files
+com.github.miguelmota.Cointop	Terminal based application for tracking cryptocurrencies
+com.github.mikacousin.olc	Control your lighting shows
+com.github.mtkennerly.ludusavi	Back up your PC video game save data
+com.github.muriloventuroso.easyssh	SSH-Verbindungsmanager
+com.github.muriloventuroso.givemelyrics	Text für deine Lieder
+com.github.muriloventuroso.pdftricks	Tricks for PDF Files
+com.github.Murmele.Gittyup	Grafischer Git-Client, der Ihnen hilft, den Verlauf Ihres Quellcodes zu verstehen und zu verwalten
+com.github.Murmele.scram	Befehlszeilen- und grafisches Tool zur probailistischen Risikoanalyse
+com.github.naaando.lyrics	Die schöne Art, Ihre Lieder zu singen
+com.github.needleandthread.vocal	Ein großartiger Podcast-Client für den modernen kostenlosen Desktop
+com.github.neithern.g4music	Spielen Sie Ihre Musik elegant
+com.github.nihui.waifu2x-ncnn-vulkan	Waifu2x-Konverter NCNN-Version
+com.github.nrittsti.NTag	NTag ist ein plattformübergreifender grafischer Tag-Editor, der sich auf alltägliche Anwendungsfälle konzentriert.
+com.github.ojubaorg.Othman	Elektronischer Koran-Browser
+com.github.opentyrian.OpenTyrian	Eine Open-Source-Portierung des DOS-Shoot-Em-Ups Tyrian.
+com.github.optyfr.JRomManager	Ein Mame- und Retrogaming-Rom-Manager
+com.github.paolostivanin.OTPClient	GTK+-Anwendung zur Verwaltung von TOTP- und HOTP-Tokens mit integrierter Verschlüsselung.
+com.github.petebuffon.yafc	YAFC ist ein Factorio-Rechner, Planer und Analysator. Das Hauptziel von YAFC ist die Bewältigung stark modifizierter Spiele.
+com.github.phase1geo.minder	Kreieren, entwickeln und visualisieren Sie Ihre Ideen
+com.github.philip_scott.notes-up	Ihr neues Notizbuch
+com.github.philip_scott.spice-up	Erstellen Sie einfache und schöne Präsentationen
+com.github.PintaProject.Pinta	Bearbeiten Sie Bilder und malen Sie digital
+com.github.polymeilex.neothesia	GPU-beschleunigter Midi-Visualizer
+com.github.PopoutApps.popout3d	Erstellt 3D-Bilder aus Fotos, die mit einer normalen Kamera aufgenommen wurden.
+com.github.powertab.powertabeditor	Gitarrentabulatur ansehen und bearbeiten
+com.github.qarmin.czkawka	Multifunktionale App zum Auffinden von Duplikaten, leeren Ordnern, ähnlichen Bildern, beschädigten Dateien usw.
+com.github.qarmin.szyszka	Einfacher, aber leistungsstarker Dateiumbenenner, geschrieben in Rust
+com.github.quaternion	Qt-basierter Client für Matrix-Netzwerke
+com.github.Qv2ray	Qv2ray ist ein plattformübergreifendes grafisches v2ray-Frontend, das in Qt geschrieben ist.
+com.github.rafostar.Clapper	Einfacher und moderner GNOME-Mediaplayer
+com.github.raibtoffoletto.litteris	Briefwechsel organisiert
+com.github.rajsolai.response	Testen Sie die Reaktionsfähigkeit Ihrer Webseite
+com.github.rajsolai.textsnatcher	Schnappen Sie sich Text mit nur einem Drag
+com.github.ransome1.sleek	Todo-Manager basierend auf der todo.txt-Syntax für Linux, kostenlos und Open-Source (FOSS)
+com.github.reds.LogisimEvolution	Designer und Simulator für digitale Logik
+com.github.reduz.ChibiTracker	ChibiTracker ist ein tragbarer IT-Klon (Impulse Tracker).
+com.github.rhyme_player.rhyme	Das Zuhause Ihrer Musik.
+com.github.rkoesters.xkcd-gtk	Lesen Sie xkcd: ein Webcomic über Romantik, Sarkasmus, Mathematik und Sprache
+com.github.robertsanseries.ciano	Ein Multimedia-Dateikonverter
+com.github.rogercrocker.badabib	BibTeX-Einträge anzeigen und bearbeiten
+com.github.Rosalie241.RMG	Ein benutzerfreundliches und plattformübergreifendes mupen64plus-Frontend, geschrieben in C++ und Qt
+com.github.ryanakca.slingshot	2D-Weltraumschießspiel mit Schwerkraft
+com.github.ryonakano.konbucase	Wandeln Sie die Groß-/Kleinschreibung in Ihrem Text um
+com.github.ryonakano.pinit	Hängen Sie Verknüpfungen für Ihre bevorzugten tragbaren Apps an Ihren App-Launcher an
+com.github.ryonakano.reco	Zeichnen Sie Gespräche auf, um sich später an den Inhalt zu erinnern
+com.github.sakya.corechess	Open-Source-Schach-GUI für Schach-Engines
+com.github.scrivanolabs.scrivano	Eine Notizanwendung für diejenigen, die lieber handschriftlich schreiben als tippen.
+com.github.sdv43.whaler	Docker-Container-Management
+com.github.shonumi.gbe-plus	Ein Game Boy-Emulator (Color, Advance).
+com.github.sixpounder.GameOfLife	Spielen Sie Conways Spiel des Lebens
+com.github.skullernet.q2pro	Verbesserter Quake 2-Client
+com.github.skylot.jadx	Dex-zu-Java-Dekompiler
+com.github.subhadeepjasu.pebbles	Führen Sie mühelos erweiterte Berechnungen durch
+com.github.suzie97.communique	RSS-Reader mit plattformübergreifender Synchronisierung
+com.github.taiko2k.avvie	Schneiden Sie Bilder für Avatare oder Bildschirmhintergründe zu
+com.github.taiko2k.tauonmb	Spielen Sie Ihre Musik mit Stil
+com.github.tchx84.Flatseal	Berechtigungen von Flatpak-Anwendungen verwalten
+com.github.tenderowl.frog	Extrahieren Sie Text aus Bildern
+com.github.tenderowl.norka	Kontinuierlicher Texteditor
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto ist eine plattformübergreifende Anwendung, mit der Sie Texte auf einfache Weise verschlüsseln und entschlüsseln können.
+com.github.theCalcaholic.StreamDeck	Fügen Sie Streaming-Webdienste zu Steam hinzu
+com.github.theironrobin.siglo	Synchronisieren Sie PineTime mit Ihrem PinePhone
+com.github.themix_project.Oomox	Passen Sie Symbole, XRDB- und GTK-Themen an
+com.github.tmewett.BrogueCE	Brogue: Community Edition – ein von der Community geführter Ableger des beliebten minimalistischen Roguelike-Spiels
+com.github.treagod.spectator	Testen Sie bequem Ihre REST APIs!
+com.github.unrud.djpdf	Erstelle kleine, durchsuchbare PDFs aus gedruckten Dokumenten
+com.github.unrud.RemoteTouchpad	Control mouse and keyboard from a smartphone
+com.github.unrud.VideoDownloader	Lade Videos von Youtube und vielen weiteren Webseiten herunter
+com.github.utsushi.Utsushi	Image acquisition utilities for Epson
+com.github.varnholt.dynablaster_revenge	Remake of the game Dynablaster
+com.github.vikdevelop.photopea_app	Free alternative for Adobe Photoshop users
+com.github.vikdevelop.timer	Simple Countdown Timer
+com.github.vkohaupt.vokoscreenNG	Easy to use screencast creator
+com.github.vladimiry.ElectronMail	Unofficial desktop client for ProtonMail
+com.github.weclaw1.ImageRoll	Image viewer with basic image manipulation tools
+com.github.wwmm.easyeffects	Audio Effekte für PipeWire Anwendungen
+com.github.wwmm.pulseeffects	Audio Effekte für Pulseaudio Anwendungen
+com.github.Xenoveritas.abuse	Dark 2D side-scrolling platform game
+com.github.xournalpp.xournalpp	Handnotizen erstellen
+com.github.yucefsourani.albasheer-electronic-quran-browser	Electronic Quran Browser
+com.github.zadam.trilium	Build your personal knowledge base
+com.github.z.Cumulonimbus	A simple, beautiful podcast app
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + simple tray indicator
+com.github.ztefn.haguichi	Eine grafische Oberfläche für Hamachi
+com.gitlab.adnan338.Invoicer	Create your payment invoices
+com.gitlab.adnan338.Nixwriter	Create bootable Linux images
+com.gitlab.azymohliad.Qwertone	Turns your PC into musical instrument
+com.gitlab.bitseater.meteo	Sehen Sie die Wetterprognose der nächsten Stunden und Tage mit vielen Informationen und einer Kartenansicht
+com.gitlab.ColinDuquesnoy.MellowPlayer	Cloud music integration for your desktop
+com.gitlab.coringao.cavestory-nx	A nostalgic side-action adventure game
+com.gitlab.coringao.JAG	Arcade and Puzzle 2D Game in which you have to break all the target pieces
+com.gitlab.cutecom.cutecom	Graphical serial terminal
+com.gitlab.davem.ClamTk	ClamTk ist eine grafisches Oberfläche für Clam-Antivirus
+com.gitlab.guillermop.MasterKey	A password manager application
+com.gitlab.j0chn.nextcloud_password_client	Manage your Nextcloud Passwords on your desktop
+com.gitlab.kendellfab.restscope	A simple http/rest testing tool built with D and GtkD.
+com.gitlab.librebob.Athenaeum	A libre replacement for Steam
+com.gitlab.maevemi.publictransport	öffentliche Nah- und Fernverkehrsapp (zurzeit) für Deutschland
+com.gitlab.Murmele.UDPLogger	UDPLogger is a lightweight high performance Logger of UDP Data. Additional the data can be visualized on plots.
+com.gitlab.tipp10.tipp10	10-Finger-Schreibtrainer
+com.gluonhq.SceneBuilder	Scene Builder is an open source tool that allows for drag and drop design of JavaFX user interfaces.
+com.google.AndroidStudio	Integrated development environment for Google's Android platform
+com.google.Chrome	The web browser from Google
+com.google.ChromeDev	The web browser from Google
+com.google.EarthPro	3D planet viewer
+com.googleplaymusicdesktopplayer.GPMDP	Run Google Play Music as a standalone desktop app
+com.grangerhub.Tremulous	Aliens vs Humans, Ego-Shooter-Spiel mit Elementen der Echtzeitstrategie
+com.hack_computer.Clubhouse	Das Ziel für Kinder, das Programmieren zu lernen
+com.hack_computer.OperatingSystemApp	Mit System können Sie Teil der Magie sein, die Ihren Computer am Laufen hält!
+com.hack_computer.Sidetrack	Entkomme dem Labyrinth aus Gruben und Robotern!
+com.hamrick.VueScan	Scansoftware für über 6000 Scanner
+com.helix_editor.Helix	Ein postmoderner Texteditor
+com.her01n.BatteryInfo	Zeigt Informationen zur Systembatterie an.
+com.heroicgameslauncher.hgl	Ein Open Source Epic Games, GOG und Amazon Prime Games Launcher.
+com.hostbuf.FinalShell	FinalShell-SSH-Tools
+com.howlingmoonsoftware.CrayonBall	Ein rasantes Match-4-Puzzlespiel
+com.hunterwittenborn.Celeste	Synchronisieren Sie Ihre Cloud-Dateien
+com.icanblink.blink	Blink SIP-Client
+com.icons8.Lunacy	Kostenlose Designsoftware, die mit KI-Tools und integrierten Grafiken Ihren Flow aufrechterhält
+com.identicalsoftware.anagramarama	Bilden Sie Wörter aus einem Durcheinander von Buchstaben
+com.inform7.IDE	Schreiben Sie interaktive Belletristik
+com.inklestudios.Inky	Schreiben Sie eine interaktive Erzählung in der Markup-Sprache von Inkle
+com.inochi2d.inochi-creator	Tool zum Erstellen und Bearbeiten von Inochi2D-Puppen
+com.interversehq.qView	Praktischer und minimalistischer Bildbetrachter
+com.inventwithpython.flippy	Ein Klon des klassischen Brettspiels Reversi
+com.invoiceninja.InvoiceNinja	Erstellen Sie Rechnungen, akzeptieren Sie Zahlungen, verfolgen Sie Ausgaben und Zeitaufgaben
+com.irccloud.desktop	Moderner, stets verbundener IRC-Client-Service
+com.itextpdf.RUPS	iText RUPS ist ein Tool zum Anzeigen der PDF-Struktur
+com.itopia.client	Ein Client für RDP-Server (Remote Desktop Protocol).
+com.jagex.RuneScape	Ein kostenlos spielbares Fantasy-MMORPG
+com.jaquadro.NBTExplorer	Ein grafischer NBT-Editor für alle Minecraft NBT-Datenquellen
+com.jetbrains.CLion	Eine plattformübergreifende IDE für C und C++
+com.jetbrains.DataGrip	IntelliJ-basierte IDE für Datenbanken und SQL
+com.jetbrains.GoLand	Leistungsfähige und ergonomische Go-IDE
+com.jetbrains.IntelliJ-IDEA-Community	Leistungsfähige und ergonomische Java-IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Leistungsfähige und ergonomische Java-IDE für Unternehmens-, Web- und Mobilentwicklung
+com.jetbrains.PhpStorm	PHP-IDE für die berufliche Weiterentwicklung
+com.jetbrains.PyCharm-Community	Die intelligenteste Python-IDE
+com.jetbrains.PyCharm-Professional	Die intelligenteste Python-IDE
+com.jetbrains.Rider	Schnelle und leistungsstarke, plattformübergreifende .NET-IDE
+com.jetbrains.RubyMine	Genießen Sie erstklassigen Support für Ruby 2.x und Rails 6.x, Sinatra, React, Angular, Puppet, Docker und mehr
+com.jetbrains.WebStorm	Die intelligenteste JavaScript-IDE
+com.jetpackduba.Gitnuro	Multiplattform-Git-Client
+com.jgraph.drawio.desktop	Erstellen und teilen Sie Diagramme
+com.jonathankang.Weibird	Nativer GTK+ Weibo-Client
+com.jpexs.decompiler.flash	Dekompilieren und bearbeiten Sie SWF-Dateien
+com.js8call.JS8Call	Software, die den JS8-Digitalmodus verwendet und Amateurfunkern Nachrichten von Tastatur zu Tastatur über schwache Signale sendet
+com.katawa_shoujo.KatawaShoujo	Ein visueller Roman im Bishoujo-Stil
+com.kavilgroup.gelectrical	Entwurf und Analyse von Stromverteilungsnetzen
+com.kavilgroup.gestimator	Software für zivile Schätzungen
+com.kolor.AutopanoPro	Professionelle Software zum Zusammenfügen von Bildern von Kolor
+com.kristianduske.TrenchBroom	Level-Editor für Quake-basierte Spiele
+com.ktechpit.colorwall	Die ultimative Desktop-Hintergrundanwendung
+com.ktechpit.orion	Vollständiger Torrent-Client und Streamer für Linux Desktop
+com.ktechpit.torrhunt	Torrent-Suchmaschine
+com.ktechpit.ultimate-media-downloader	Online-Video- und Audio-Downloader für Linux, Unterstützung für über 1300 Websites
+com.ktechpit.whatsie	Qt WhatsApp Web Client für Linux Desktop
+com.ktechpit.wonderwall	Wallpaper-Manager
+com.lakoliu.Furtherance	Erfassen Sie Ihre Zeit, ohne getrackt zu werden
+com.leinardi.gkraken	Ermöglicht die Steuerung der Kühlung einer NZXT Kraken X-Pumpe unter Linux.
+com.leinardi.gst	Systemdienstprogramm zur Belastung und Überwachung verschiedener Hardwarekomponenten
+com.leinardi.gwe	Systemdienstprogramm zur Bereitstellung von Informationen, zur Steuerung der Lüfter und zur Übertaktung Ihrer NVIDIA-Karte
+com.leinardi.gx52	Bietet Steuerung von LEDs und MFD für Logitech X52 und X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Ein kostenloser und einfach zu verwendender Videoplayer, erstellt mit Haskell
+com.librumreader.librum	Ein moderner E-Book-Reader und Bibliotheksmanager
+com.lixgame.Lix	Lemmings-ähnliches Spiel mit Rätseln, Editor, Multiplayer
+com.locomalito.abbayedesmorts	Ein veraltetes Videospiel für einen dunklen Abschnitt der Geschichte
+com.logseq.Logseq	Ein lokal ausgerichtetes, nichtlineares Gliederungsnotizbuch zum Organisieren und Teilen Ihrer persönlichen Wissensdatenbank
+com.lunarclient.LunarClient	Ein Modpack für alle modernen Versionen von Minecraft!
+com.makemkv.MakeMKV	DVD- und Blu-ray-zu-MKV-Konverter und Netzwerk-Streamer
+com.maplerain.telsis_translator_flutter	App, die in die und aus der Telsis-Sprache übersetzt, die in der Violet Evergarden-Serie verwendet wird
+com.mardojai.DiccionarioLengua	Busca palabras en el DLE
+com.mardojai.ForgeSparks	Erhalten Sie Git-Fälschungsbenachrichtigungen
+com.mastermindzh.tidal-hifi	Die Webversion von listen.tidal.com mit Hi-Fi-Unterstützung (High und Max).
+com.mattermost.Desktop	Eine Open-Source-Plattform für die Zusammenarbeit von Entwicklern
+com.mattjakeman.ExtensionManager	Suchen, installieren und verwalten Sie GNOME-Shell-Erweiterungen
+com.meetfranz.Franz	Messenger für den Desktop
+com.microsoft.AzureStorageExplorer	Grafisches Tool zur Verwaltung von Azure-Cloud-Speicherressourcen
+com.microsoft.Edge	Vorstellung des neuen Microsoft Edge-Webbrowsers. Es ist Zeit, mehr zu erwarten. Mehr Privatsphäre. Mehr Kontrolle. Mehr Produktivität. Mehr Wert.
+com.microsoft.EdgeDev	Vorstellung des neuen Microsoft Edge-Webbrowsers. Es ist Zeit, mehr zu erwarten. Mehr Privatsphäre. Mehr Kontrolle. Mehr Produktivität. Mehr Wert.
+com.milesalan.mepo	Schneller, einfacher und hackbarer OSM-Kartenviewer für Linux
+com.moddb.TotalChaos	Survival-Horror spielt auf einer abgelegenen Insel namens Fort Oasis
+com.moddb.TotalChaosRetro	Survival-Horror spielt auf einer abgelegenen Insel namens Fort Oasis
+com.mojang.Minecraft	Erschaffe deine eigene Welt in einem der beliebtesten Videospiele
+com.mongodb.Compass	Die MongoDB-GUI
+com.moonlight_stream.Moonlight	Streamen Sie Spiele und andere Anwendungen von einem anderen PC mit Sunshine oder GeForce Experience
+com.mousepawmedia.omission	Ein täuschend einfaches Worträtsel.
+com.mudeprolinux.whakarere	GTK4 WhatsApp-Client
+community.pathofbuilding.PathOfBuilding	Path of Building (Community) – Ein leistungsstarker Build-Planer für Path of Exile
+com.musixmatch.Musixmatch	Genießen Sie Ihre Texte überall
+com.napster.napster-bigscreen-electron	Napster für Ihren Handheld
+com.neatdecisions.Detwinner	Suchen und entfernen Sie doppelte Dateien und ähnliche Bilder
+com.netease.CloudMusic	Ein beliebter Online-Musikplayer, entwickelt von Netease
+com.nextcloud.desktopclient.nextcloud	Nextcloud-Desktop-Synchronisierungsclient
+com.nitrokey.nitrokey-app	Verwalten Sie Ihre Nitrokey-Geräte
+com.nordpass.NordPass	Ein benutzerfreundlicher Passwort-Manager, der von Cybersicherheitsexperten für Sie entwickelt wurde.
+com.notepadqq.Notepadqq	Ein erweiterter Texteditor
+com.notesnook.Notesnook	Eine vollständig Open-Source- und Ende-zu-Ende-verschlüsselte Notizalternative zu Evernote
+com.obsproject.Studio	Live-Streaming- und Videoaufzeichnungssoftware
+com.okta.developer.CLI	Die Okta-CLI ist der einfachste Weg, mit Okta zu beginnen!
+com.openwall.John	John the Ripper Jumbo-Passwort-Cracker
+com.opera.Opera	Der Webbrowser von Opera
+com.oppzippy.OpenSCQ30	Steuerungseinstellungen der Soundcore Q30-Kopfhörer
+com.orama_interactive.Pixelorama	2D-Sprite-Editor mit Animationsunterstützung
+com.outerwildsmods.owmods_gui	Eine benutzerfreundliche App zum Installieren und Ausführen von Outer Wilds-Mods
+com.ownrwallet.wallet	Senden, empfangen, abheben, tauschen und kaufen Sie virtuelle Währungen. Nur Sie kontrollieren den Zugriff und die Vermögenswerte
+com.ozmartians.VidCutter	Medienschneider + Tischler
+com.parallax.PropellerIDE	Entwickeln, kompilieren und laden Sie Code für die Parallax Propeller-Plattform hoch.
+com.parsecgaming.parsec	Einfaches Spiele-Streaming mit geringer Latenz
+com.pikatorrent.PikaTorrent	Eine moderne, einfache, vernetzte und elektrische BitTorrent-App ⚡
+com.pinegrow.Pinegrow	Visueller Web-Editor für Profis
+com.play0ad.zeroad	Echtzeit-Strategiespiel von Ancient Warfare
+com.playonlinux.PlayOnLinux4	Grafisches Frontend für Wine
+com.plexamp.Plexamp	Plexamp – Ein wunderschöner Plex-Musikplayer für Audiophile, Kuratoren und Hipster
+com.pojtinger.felicitas.Multiplex	Schauen Sie sich Torrents mit Ihren Freunden an
+com.pokemmo.PokeMMO	PokeMMO ist ein kostenlos spielbares MMORPG. Treten Sie einer wachsenden Community bei, während Sie aufsteigen und neue Monster entdecken
+com.polyphone_soundfonts.polyphone	Erstellen Sie Ihre eigenen Instrumente, um Ihre Lieblingsmusik zu spielen
+com.powerball253.eternalmodmanager	Plattformübergreifender Mod-Manager für DOOM Eternal.
+com.poweriso.PowerISO	Ein All-in-One-CD/DVD/Blu-Ray-Tool
+com.protonvpn.www	Vertrauenswürdige und benutzerfreundliche VPN-App für Linux
+com.prusa3d.PrusaSlicer	Erhalten Sie perfekte 3D-Drucke!
+com.pypyrev.linuxdcpp	Ein File-Sharing-Client für das Direct Connect-Netzwerk
+com.q3rally.Q3Rally	Survival-Rennspiel
+com.qq.QQ	Online-Instant-Messaging-Dienst
+com.qq.QQmusic	Online-Musik-Streaming-Dienst
+com.quexten.Goldwarden	Ein Bitwarden-kompatibler Desktop-Client
+com.quixel.Bridge	Die perfekte Brücke zwischen Megascans und Ihren Lieblingstools
+com.qzandronum.Q-Zandronum	Ein Zandronum 3.0-Fork mit verbessertem Netcode, konfigurierbarer Bewegung und vielen kleinen Optimierungen
+com.rabbit_company.passky	Passky ist ein einfacher, moderner, leichter, quelloffener und sicherer Passwort-Manager.
+com.rafaelmardojai.Blanket	Höre dir unterschiedliche Klänge an
+com.rafaelmardojai.SharePreview	Testen Sie Social-Media-Karten lokal
+com.rafaelmardojai.WebfontKitGenerator	Einfaches Erstellen von @font-face Paketen
+com.raggesilver.BlackBox	Ein wunderschönes GTK 4-Terminal
+com.ranfdev.Geopard	Ein Gemini-Browser
+com.ranfdev.Lobjur	Ein einfacher lobste.rs-Client
+com.ranfdev.Notify	Erhalten Sie Benachrichtigungen von ntfy.sh.
+com.rawtherapee.RawTherapee	Ein fortschrittliches Rohfoto-Entwicklungsprogramm
+com.realm667.Wolfenstein_Blade_of_Agony	Storygetriebenes FPS, inspiriert von Shootern aus dem Zweiten Weltkrieg aus den 90er und frühen 2000er Jahren
+com.redis.RedisInsight	Entwickler-GUI für Redis, von Redis.
+com.remnantsoftheprecursors.ROTP	Eine ausgefeilte Modernisierung des ursprünglichen Master of Orion-Strategiespiels von 1993.
+com.retrodev.blastem	Ein Sega Mega Drive/Genesis- und Master-System-Emulator
+com.revolutionarygamesstudio.ThriveLauncher	Ein Evolutionssimulationsspiel. Übernehmen Sie die Kontrolle über Ihre Spezies in der Umgebung und bearbeiten Sie Ihre Spezies als Ganzes. Konkurrieren Sie mit anderen sich entwickelnden Arten um Ressourcen auf einem fremden Planeten.
+com.riverbankcomputing.PyQt.BaseApp	Gemeinsame Plattform für Anwendungen, die PyQt verwenden
+com.rocksandpaper.syndic	Berührungsfreundlicher RSS/Atom-Reader
+com.roguetemple.HyperRogue	Nicht-euklidisches grafisches Rogue-like-Spiel
+com.rosegardenmusic.rosegarden	MIDI- und Audio-Sequenzer und Notensatzprogramm
+com.rq3.Reaction	Filmrealistischer Ego-Shooter
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Ein leichter Qt-Audio-Player
+com.scoutshonour.Digital	Ein Computer-Mystery/Romanze, der fünf Minuten in der Zukunft des Jahres 1988 spielt
+com.scoutshonour.dtipbijays	Eine Art spirituelle Fortsetzung von Digital: A Love Story, angesiedelt an einer renommierten Privatschule und in den sozialen Netzwerken des Jahres 2027
+com.seafile.Client	Seafile-Desktop-Client zur Dateisynchronisierung und -freigabe
+com.seal_one.SealOne	Software für hardwarebasierte Signaturgeräte von Seal One
+com.serveftp.officefactoring	App für Factoring, Verbriefung, ESC oder FIDC
+com.sevenkfans.sevenkaa	Mittelalterliches Echtzeit-Strategiespiel
+com.seventhstring.Transcribe	Transkribieren! - Software zum Transkribieren aufgenommener Musik
+com.shatteredpixel.shatteredpixeldungeon	Roguelike-Rollenspiel mit Pixel-Art-Grafiken und viel Abwechslung und Wiederspielbarkeit
+com.sigil_ebook.Sigil	Plattformübergreifender EPUB-E-Book-Editor
+com.sigmyne.crush	Datenreduktion und Bildgebung für ausgewählte astronomische Kameras
+com.simplenote.Simplenote	Der einfachste Weg, Notizen zu machen
+com.sindresorhus.Caprine	Elegante Facebook Messenger-Desktop-App
+com.sireliah.Dragit	Intuitive Dateifreigabe-App für das lokale Netzwerk
+com.skype.Client	Rufen Sie Skype-Benutzer an und senden Sie ihnen Nachrichten, mit Video-Chat-Unterstützung
+com.slack.Slack	Teamkommunikation für das 21. Jahrhundert
+com.sleepfiles.OSCAR	Der Open-Source-CPAP-Analysereporter
+com.slugchess.SlugChess	Schach mit Kriegsnebel und gemischten Offizieren
+com.snes9x.Snes9x	Ein Super Nintendo-Emulator
+com.solvespace.SolveSpace	Ein kostenloses (GPLv3) parametrisches 3D-CAD-Tool
+com.sourcepole.kadas	Kartenanwendung für nicht spezialisierte Benutzer
+com.spacestation14.Launcher	Mehrspieler-Katastrophensimulator
+com.spotify.Client	Online-Musik-Streaming-Dienst
+com.springrts.SpringLobby	Spielen Sie Online-RTS-Spiele mit der Spring-Engine
+com.steamdeckrepo.manager	Installieren Sie Boot-Videos mit der Steam Deck Repo-Website-API auf Ihrem Steam Deck.
+com.steamgriddb.SGDBoop	Wenden Sie SteamGridDB-Assets auf Steam an
+com.steamgriddb.steam-rom-manager	Eine App zum Verwalten von ROMs in Steam
+com.stepmania.StepMania	Rhythmus- und Tanzspiel
+com.stremio.Service	Freiheit zum Streamen
+com.stremio.Stremio	Sehen Sie sich sofort Videos, Filme, Fernsehserien und Fernsehsender an
+com.strlen.TreeSheets	Freiform-Datenorganisator
+com.st.STM32CubeIDE	Integrierte Entwicklungsumgebung für STM32
+com.sublimemerge.App	Sublime Merge ist ein Git-Client von den Machern von Sublime Text
+com.sublimetext.three	Anspruchsvoller Texteditor für Code, Markup und Prosa
+com.sudovanilla.penpot-desktop	Designfreiheit für Teams
+com.supermodel3.Supermodel	Ein Sega Model 3 Arcade-Emulator
+com.sweethome3d.Sweethome3d	Sweet Home 3D-Innenarchitekturanwendung
+com.sweetscape.ZeroOneZeroEditor	Professionelle Text- und Hex-Bearbeitung mit binären Vorlagen
+com.synology.CloudStationBackup	Echtzeit-Backup schützt Sie vor massivem Datenverlust
+com.synology.SynologyAssistant	Tool zur Verwaltung von Synology NAS im lokalen Netzwerk
+com.synology.SynologyDrive	Leistungsstarker privater Cloud-Speicher ohne wiederkehrende Gebühren
+com.syntevo.SmartGit	Erledigen Sie Ihr Commit
+com.syntevo.SmartSynchronize	Verzeichnisse auf intelligente Weise vergleichen
+com.system76.Popsicle	Mehrere USB-Geräte parallel flashen
+com.szibele.e-juice-calc	Kostenloser und einfach zu verwendender E-Liquid-Rechner
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim Desktop-Anwendung
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP-Anwendung
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP-Anwendung
+com.teeworlds.Teeworlds	Online-Multiplayer-Shooter-Spiel
+com.tencent.wemeet	Ein cloudbasiertes HD-Konferenzprodukt, das die über 20-jährige Erfahrung von Tencent in der audiovisuellen Kommunikation nutzt
+com.tercad.fingrom	Plattformunabhängige Finanzbuchhaltungsanwendung
+com.thebrokenrail.MCPIReborn	Spaß mit Blöcken
+com.thewavewarden.Odin2	Odin 2 Synthesizer
+com.thincast.client	Ein kostenloser RDP-Client (Remote Desktop Protocol) für Linux, macOS und Windows
+com.tic80.TIC_80	Fantasy-Computer zum Erstellen, Spielen und Teilen kleiner Spiele
+com.ticktick.TickTick	Ihre wunderbare To-Do- und Aufgabenliste, um alle Dinge zu erledigen und das Leben gut zu organisieren.
+com.todoist.Todoist	„Die derzeit beste To-Do-Listen-App“ – The Verge
+com.toggl.TogglDesktop	Einfache und intuitive Zeiterfassungssoftware
+com.tomjwatson.Emote	Moderner Popup-Emoji-Picker
+com.tonikelope.MegaBasterd	Laden Sie Dateien von MEGA.nz herunter, laden Sie sie hoch oder streamen Sie sie
+com.tracktion.Waveform	Digitale Audio-Workstation für alle Musikschaffenden
+com.transmissionbt.Transmission	Dateien über BitTorrent herunterladen und verteilen
+com.tutanota.Tutanota	Sichere E-Mail, Kalender und Kontakte
+com.tux4kids.tuxmath	TuxMath ist ein Arcade-Spiel, das Kindern hilft, ihre mathematischen Fakten zu üben
+com.tux4kids.tuxtype	Tastatur-Lernspielprogramm mit Tux
+com.tuxpusher.TuxPusher	Ein lustiges Münzschieberspiel mit Tux!
+com.tuxpusher.TuxPusherAF	515 einzigartige Preise + 6 Pinguine
+com.ugetdm.uGet	Download-Manager
+com.ulduzsoft.Birdtray	Benachrichtigung über neue E-Mails in der Taskleiste für Thunderbird
+com.ultimaker.cura	Slicer zur Vorbereitung Ihrer 3D-Druckprojekte
+com.umlet.Umlet	Kostenloses UML-Tool für schnelle UML-Diagramme
+com.unity.UnityHub	Echtzeit-Spiel-Engine
+com.uploadedlobster.peek	Einfacher Bildschirmrekorder mit einer einfach zu bedienenden Oberfläche
+com.usebottles.bottles	Führen Sie die Windows-Software aus
+com.usebruno.Bruno	Schneller und Git-freundlicher API-Client
+com.vagueentertainment.Framed	Digitaler Bilderrahmen für Ihre NFT-Showroom-Kunst und persönliche Arbeit
+com.valvesoftware.Steam	Launcher für den Steam-Softwareverteilungsdienst
+com.valvesoftware.SteamLink	Streamen Sie Spiele von einem anderen Computer mit Steam
+com.varnamproject.Varnam	Geben Sie ganz einfach indische Sprachen ein
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, ein hochkompatibler Gameboy Advance-Emulator
+com.vesc_project.VescTool	VESC® Tool ist der völlig neue und 100 % überarbeitete Ersatz für BLDC-Tool
+com.viber.Viber	Wir verbinden Menschen, egal wer sie sind oder woher sie kommen
+com.vicr123.thebeat	Audio-Abspielgerät; Audio-Player; Musikabspielgerät
+com.viewizard.AstroMenace	Hardcore-3D-Weltraum-Scroll-Shooter mit Raumschiff-Upgrade-Möglichkeiten
+com.virustotal.VirusTotalUploader	Laden Sie Dateien auf virustotal.com hoch
+com.visualstudio.code	Codebearbeitung. Neu definiert.
+com.visualstudio.code-oss	Visual Studio-Code. Codebearbeitung. Neu definiert.
+com.vivaldi.Vivaldi	Ein leistungsstarker, persönlicher und privater Webbrowser
+com.vixalien.decibels	Audiodateien abspielen
+com.vixalien.sticky	Hängen Sie Notizen an Ihren Desktop an
+com.voxdsp.aigeneratedgame	Rette deine Gartenfreunde vor den Geistern!
+com.voxdsp.AstroImpact	Ein Weltraumspiel für mehrere Spieler. Verteidige den Planeten vor den ankommenden Asteroiden!
+com.voxdsp.Borg	Ein tragbarer (SDL) Audio-Synthesizer/Tongenerator, inspiriert vom Korg ER-1
+com.voxdsp.Borg0	Ein tragbarer (SDL) Audio-Synthesizer/Tongenerator ermöglicht es Benutzern, Oszillatoren und Hüllkurven zu zeichnen.
+com.voxdsp.CubeShooter	3D-Shooter im Arcade-Stil
+com.voxdsp.PoryDrive	Ein Autospiel, bei dem du Porygon fangen musst!
+com.voxdsp.SeriousShooter	Von Uncle Sam genehmigtes 3D-FPS
+com.voxdsp.Snowboarder	Ein einfaches 3D-Snowboardspiel
+com.voxdsp.Snowling	Ein Bowling-Glücksspiel
+com.voxdsp.Spaceminer	Ein 3D-Weltraum-Mining-Spiel
+com.voxdsp.Tuxocide	3D-FPS Ein Krieg tobt in der Antarktis ...
+com.voxdsp.TuxScape	Ein mythisches Abenteuer als Tux!
+com.voxdsp.TuxVsDragon	Töte den Red Dragon Tux!
+com.voxdsp.VoxelPaint	Malen Sie in 3D mit Voxeln!
+com.voxdsp.VoxelPaintPro	Malen Sie in 3D mit voll schattierten Voxeln!
+com.vscodium.codium	Codebearbeitung. Neu definiert. Telemetrie weniger.
+com.vysp3r.ProtonPlus	Ein einfacher Manager für Wine- und Proton-basierte Kompatibilitätstools
+com.vzhd1701.gridplayer	Spielen Sie Videos nebeneinander ab
+com.w1hkj.fldigi	Amateurfunk-Soundkartenkommunikation
+com.w1hkj.flrig	Amateurfunk-Rig-Steuerung
+com.whitemagicsoftware.kmcaster	Zeigen Sie Maus- und Tastaturereignisse auf dem Bildschirm an
+com.wickeditor.WickEditor	Ein Tool zum Erstellen von Spielen, Animationen und allem dazwischen!
+com.wings3d.WINGS	Ein fortschrittlicher Unterteilungsmodellierer
+com.wire.WireDesktop	Die sicherste Kollaborationsplattform
+com.wiz.Note	Eine hervorragende PKM-Desktopumgebung (Personal Knowledge Management), basierend auf der Cloud-Nutzung
+com.wps.Office	WPS Office Suite
+com.writerduet.writersolo	Eine umfangreiche Desktop-App zum vollständigen Schreiben eines Drehbuchs oder zum Konvertieren zwischen verschiedenen Drehbuchformaten wie Final Draft FDX oder Fountain
+com.xnview.XnConvert	Verarbeiten Sie Bilder ganz einfach stapelweise und bearbeiten Sie Metadaten
+com.xnview.XnRetro	Erstellen Sie atemberaubende Bilder mit Vintage- oder Soforteffekt
+com.xnview.XnSketch	Verwandeln Sie Ihre Fotos in Cartoon- oder Skizzenbilder
+com.xnview.XnViewMP	Ihre Bilder betrachten und katalogisieren
+com.xunlei.Thunder	Xunlei-Download.迅雷下载.
+com.yacreader.YACReader	Noch ein Comic-Leser
+com.yktoo.ymuse	Einfaches, funktionales und schnelles GTK-Frontend (Client) für Music Player Daemon
+com.ylsoftware.qmmp.Qmmp	Qt-basierter Audio-Player
+com.yubico.yubioath	Grafische Oberfläche zur Anzeige von OATH-Codes mit einem YubiKey
+com.zandronum.Zandronum	Führend im Newschool-Multiplayer-Doom-Online
+com.zerobrane.studio	Leichte Lua-basierte IDE für Lua
+com.zettlr.Zettlr	Ein Markdown-Editor für das 21. Jahrhundert
+com.zhqli.wikit	Ein universelles Wörterbuch
+com.zoho.Notebook	Die schönste Notizen-App auf allen Geräten
+com.zquestclassic.ZQuest	Eine Spiel-Engine zum Erstellen von Spielen, die dem beliebten klassischen Abenteuerspiel ähneln
+cool.ldr.lfy	Übersetzungssoftware für Gnome
+cz.cvut.edu.comparch.qtrvsim	RISC-V-CPU-Simulator für Bildungszwecke
+cz.krupkat.Xpano	Automatisiertes Tool zum Zusammenfügen von Fotos
+cz.zeropage.Formiko	reStructuredText- und MarkDown-Editor und Live-Vorschau
+de._0x539.gobby	Textdateien gemeinsam bearbeiten
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Einfacher Rechner zum Addieren von Stunden und Minuten
+de.akaflieg_freiburg.enroute	Flugnavigation für VFR-Piloten
+de.bforartists.Bforartists	A complete, free and opensource 3D suite
+de.billardgl.Billardgl	Spaßiges 3D-Billard-Spiel
+de.blobbyvolley.BlobbyVolley2	The head-to-head multiplayer volley-ball game.
+de.breitbandmessung.Breitbandmessung	Allows to measure internet speed.
+de.bund.ausweisapp.ausweisapp2	Official authentication app for German ID card and residence permit
+de.create3000.titania	Editiere, stöbere, and navigiere in X3D und VRML Welten
+de.fabrik19.mos-Launcher	Used for developing with the Mobilitysuite
+de.finnik.PassVault	Manage your passwords securely and easily with PassVault
+de.flinkebits.AvaEmailArchivar	Archiving and restoring emails from IMAP mailboxes
+de.gunibert.Hackgregator	Hacker News Reader
+de.haeckerfelix.AudioSharing	Geben Sie die Tonausgabe Ihres Rechners frei
+de.haeckerfelix.Fragments	Ein BitTorrent-Client
+de.haeckerfelix.Shortwave	Internet-Radio hören
+de.halaszovich.PMbrowser	Open, browse and export PM dat files
+de.ifw_dresden.nagstamon	Nagstamon is a status monitor for the desktop.
+de.k_bo.Televido	Zugang zu Livestreams und Mediatheken des ÖRR
+de.klayout.KLayout	Viewer and editor for mask layouts
+de.lernsoftware_filius.Filius	Filius is a network simulator for educational purpose.
+de.linuxguides.RechnungsAssistent	German invoice generator
+de.manuel_kehl.go-for-it	Eine stylische Aufgabenliste mit einem Produktivitäts-Timer
+de.marlam.gencolormap	Farbkartengenerator
+de.marlam.qv	2D-Datenvisualisierer
+de.mediathekview.MediathekView	Zugang zur öffentlich-rechtlichen deutschen TV-Mediathek
+de.nicokimmel.shadowcast-electron	Zeigt den Videostream von ShadowCast von Genki
+de.peterge.combined	Kombiniert! ist ein Block-Puzzlespiel. Ihr Ziel ist es, Blöcke zu verbinden, um höhere Blöcke auf dem Spielfeld zu erhalten.
+de.philippun1.Snoop	Durchsuchen Sie Ihre Dateien
+de.philippun1.turtle	Verwalten Sie Ihre Git-Repositorys
+de.rwth_aachen.ient.RDPlot	RDPlot ist ein Tool zum Zeichnen von Ratenverzerrungskurven
+de.rwth_aachen.ient.YUView	QT-basierter, plattformübergreifender YUV-Player mit einem erweiterten Analyse-Toolset
+de.schmidhuberj.DieBahn	Reisen Sie mit allen Zuginformationen an einem Ort
+de.schmidhuberj.Flare	Chatten Sie mit Ihren Freunden auf Signal
+de.schmidhuberj.tubefeeder	Folgen Sie den Videokünstlern
+de.sesu8642.feudaltactics	Strategiespiel mit unzähligen einzigartigen und herausfordernden Leveln.
+de.shorsh.discord-screenaudio	Ein benutzerdefinierter Discord-Client, der Streaming mit Audio unter Linux unterstützt
+de.syping.gta5view	GTA V-Profil öffnen und bearbeiten
+de.tumexam.cli	Client für TUMexam zur Verwaltung von Studierenden und Prüfungen.
+de.unifreiburg.ellipticcurve	Skizziert elliptische Kurven und ermöglicht das Experimentieren mit ihrem Gruppengesetz
+de.uni_heidelberg.zah.GaiaSky	Open-Source-3D-Universumssimulator für Desktop und VR mit Unterstützung für mehr als eine Milliarde Objekte
+dev.alextren.Spot	Hören Sie Musik auf Spotify
+dev.ares.ares	multi-system console emulation suite
+dev.atoft.Reactions	Simple GIF search.
+dev.aunetx.deezer	Online music streaming service
+dev.bambosh.UnofficialHomestuckCollection	An offline collection of Homestuck and its related works
+dev.boxi.Boxi	A terminal emulator for use with Toolbox
+dev.bragefuglseth.Fretboard	Gitarrengriffe nachschlagen
+dev.bsnes.bsnes	Super Nintendo emulator
+dev.Cogitri.Health	Verfolgen Sie Ihre Fitness-Ziele
+dev.deedles.Trayscale	An unofficial GUI wrapper around the Tailscale CLI.
+dev.edfloreshz.Done	To-Do-Listen neu gedacht
+dev.ensoft.ecode	Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+dev.gbstudio.gb-studio	Ein schneller und einfach zu bedienender Drag-and-Drop-Retrospielentwickler für den Game Boy
+dev.geopjr.Collision	Prüfen Sie die Hashes Ihrer Dateien
+dev.geopjr.Tuba	Browse the Fediverse
+dev.goats.xivlauncher	Launcher & seamless Linux integration for Final Fantasy XIV Online
+dev.hdos.HDOS	High Detail Old School Runescape Client
+dev.jamiethalacker.window_painter	Fill the board with the same colour of paint
+dev.k8slens.OpenLens	The Kubernetes IDE
+dev.krtirtho.Flemozi	Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
+dev.lapce.lapce	Lightning-fast and powerful code editor written in Rust
+dev.lasheen.qr	Ein QR-Code-Scanner/Generator
+dev.levz.TinyImageFinder	Bildfinder mit Vorschau
+dev.linwood.butterfly	Leistungsstarke, minimalistische, plattformübergreifende Open-Source-Notiz-App
+dev.lizardbyte.app.Sunshine	Selbstgehosteter Game-Stream-Host für Moonlight.
+dev.lukebriggs.pepys	Ein unkompliziertes Markdown-Journal
+dev.mrquantumoff.mcmodpackmanager	Verwalten Sie Ihre Modpacks ganz einfach!
+dev.mufeed.Wordbook	Suchen Sie nach Definitionen für jeden englischen Begriff
+dev.paullee.scraterpreter.Scrape	Scraterpreter ist ein Interpreter, der .sb3-Projekte (Scratch) ausführt.
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc ist ein Compiler für Scraterpreter.
+dev.pulsar_edit.Pulsar	Ein von der Community betriebener hyperhackbarer Texteditor
+dev.rzia.minesector	Schickes Minesweeper-basiertes Spiel
+dev.salaniLeo.forecast	Wetter-App für GNOME
+dev.salaniLeo.immagini	Bibliothek und Erstellungstool für AppImage-Apps
+dev.schlaubi.Tonbrett	Begleit-App für Discord Soundboard Bot
+dev.serebit.Waycheck	Zeigt die von einem Wayland-Compositor implementierten Protokolle an
+dev.slimevr.SlimeVR	Eine App zur Erleichterung der Ganzkörperverfolgung in der virtuellen Realität
+dev.stewlab.PortaWar	Willkommen im Krieg der Handhelds!
+dev.storyapps.starc	All-in-One-Schreib-App
+dev.tchx84.Portfolio	Verwalte Dateien von unterwegs
+dev.vencord.Vesktop	Snappier Discord-App mit Vencord
+dev.vieb.Vieb	Von Vim inspirierter Elektronenbrowser
+dev.zelikos.rollit	Würfeln
+de.wger.flutter	Fitness-/Workout-, Ernährungs- und Gewichts-Tracker
+de.willuhn.Jameica	Laufzeit-Umgebung für Java-Anwendungen
+de.wwwtech.ColorMate	Konvertieren Sie CSS-Farben zwischen Notationen
+de.zwarf.picplanner	Planen Sie Ihre nächsten Fotostandorte
+dk.tangramgames.mrrescue	Feuerlöschspiel im Arcade-Stil
+edu.berkeley.BOINC	Tragen Sie Rechenleistung zu Forschungsprojekten in vielen wissenschaftlichen Bereichen bei
+edu.mit.Scratch	Erstellen Sie Geschichten, Spiele und Animationen und teilen Sie sie mit anderen auf der ganzen Welt
+edu.princeton.physics.WSJTX	Betrieb mit schwachem Amateurfunksignal
+edu.stanford.Almond	Der offene virtuelle Assistent
+edu.stanford.protege	Eine funktionsreiche Ontologie-Bearbeitungsumgebung
+engineer.atlas.Nyxt	Der Browser des Hackers
+es.estoes.wallpaperDownloader	Laden Sie Ihre Hintergrundbilder automatisch aus dem Internet herunter, verwalten und ändern Sie sie
+eu.ad5001.LogarithmPlotter	2D-Grafiksoftware mit logarithmischer Skalierung zur Erstellung von Bode-Diagrammen, Folgen und Verteilungsfunktionen
+eu.betterbird.Betterbird	Betterbird ist ein Soft Fork von Mozilla Thunderbird. Einfach besser.
+eu.cichy1173.tabela	Einfache App, die CSV-Inhalte in einer Tabelle anzeigt
+eu.ithz.umftpd	Greifen Sie von einem anderen Gerät aus auf Ihre Dateien zu
+eu.ngdevelopment.tsukitag	Anime-Imageboard-Browser, Aggregator, Downloader, Tagger, Konverter, Sammlungsmanager. Durchsuchen und erstellen Sie Ihre eigenen Sammlungen, konfigurieren Sie Arbeitsbereiche für Bilddownloads mit Vorlagenunterstützung.
+eu.nimmerfort.blackbody	Ein Thermogrammbetrachter
+eu.ototu.Quteqoin	Anwendung zum Lesen der Tribünen
+eu.planete_kraus.Tarot	Spielen Sie eine Partie Tarot gegen die künstliche Intelligenz
+eu.scarpetta.PDFMixTool	Eine Anwendung zum Durchführen allgemeiner Bearbeitungsvorgänge an PDF-Dateien
+eu.skribisto.skribisto	Software zum Schreiben
+eu.stethewwolf.gresistor	Rechner für Widerstandsfarbcodes
+eu.usdx.UltraStarDeluxe	Karaoke-Programm, das Ihre Leistung bewertet
+eu.vcmi.VCMI	Open-Source-Spielengine für Heroes of Might and Magic III
+fi.mooc.tmc.tmc-cli-rust	Eine CLI für den TestMyCode-Programmierzuweisungs-Evaluator.
+fi.skyjake.Lagrange	Ein wunderschöner Zwillingskunde
+fm.cancel.Ripcord	Alternativer Desktop-Chat-Client für Slack (und Discord)
+fm.helio.Workstation	Helio Project Libre Musikkompositionssoftware
+fm.reaper.Reaper	Digitale Audio-Workstation
+fr.dwightstudio.JArmEmu	Einfacher, in Java geschriebener ARMv7-Simulator für Bildungszwecke
+fr.fgrabenstaetter.DigitalAssets	Preise und Statistiken zu Kryptowährungen
+fr.free.brouits.qspeakers	Lautsprecherdesign-Software
+fr.free.Homebank	Kostenlose, einfache und persönliche Buchhaltung für alle
+fr.free.hxc2001.HxCFloppyEmulator	Software- und Hardwarelösung zum Ersetzen der alten Diskette
+fr.free.qccrypt.Qccrypt	QT-basiertes grafisches Frontend für das Ccrypt-Tool
+fr.handbrake.ghb	Video-Transcoder
+fr.henri2h.minestrix	Ein datenschutzorientiertes soziales Medium basierend auf Matrix
+fr.inria.corese.CoreseCommand	Nutzen Sie die Leistungsfähigkeit des Semantic Web
+fr.inria.corese.CoreseGui	Nutzen Sie die Leistungsfähigkeit des Semantic Web
+fr.masson_informatique.WhosWho	Erstellen von PDF-Dokumenten mit Bildern von Personen und deren Namen, auch Who's who, Jahrbuch oder Facebook genannt
+fr.natron.Natron	Open-Source-Video-Compositing-Software
+fr.romainvigier.MetadataCleaner	Metadaten in Dateien anzeigen und löschen
+fr.romainvigier.zap	Klänge von einem Soundboard abspielen
+fr.rubet.rpn	CLI-Rechner für umgekehrte polnische Notation
+fr.sgued.ten_forward	Steuern Sie ein NAT-PMP-Gateway
+fun.vnote.app.VNote	Eine angenehme Plattform zum Notieren
+fyi.zoey.Boop-GTK	Portierung von IvanMathys Boop auf GTK, ein skriptfähiges Scratchpad für Entwickler.
+fyi.zoey.TeX-Match	Finden Sie LaTeX-Symbole durch Skizzieren
+games.zetsubou.AnAdventurersGallantry	In diesem Fantasy-Bildroman erhält der in Ungnade gefallene Ritter in Ausbildung Oren eine zweite Chance im Leben als Abenteurer
+games.zetsubou.HumanityMustPerish	Ein komödiantischer Bildroman über einen als Highschool-Mädchen verkleideten Androiden, der sich darauf vorbereitet, die Menschheit zu zerstören
+games.zetsubou.MaxMassacre	Ein visueller Roman, der in einer Fantasiewelt voller Monster spielt
+games.zetsubou.SablesGrimoireDemo	Visual Novel über Monstermädchen, die in einer Zauberakademie spielt
+games.zetsubou.WanderNoMore	Ein visueller Roman, der die Geschichte eines abtrünnigen Samurai erzählt
+garden.turtle.Jellybean	Behalten Sie den Überblick über wiederauffüllbare Artikel
+ga.rpmtw.rpmlauncher	Ein besserer Minecraft-Launcher, der mehrere Plattformen und viele Funktionen unterstützt, die Sie erkunden können!
+gg.guilded.Guilded	Messaging-, Sprach- und Video-Client
+gg.minion.Minion	Ein AddOn-Manager für The Elder Scrolls Online und World of Warcraft
+gg.tesseract.Tesseract	Ego-Shooter mit kooperativer Kartenbearbeitung im Spiel
+global.worldcoin.worldcoin-core	Getrennt durch Grenzen, vereint durch Technologie
+hu.irl.cameractrls	Kamerasteuerung für Linux
+hu.kramo.Cartridges	Starte alle deine Spiele
+id.sideka.App	Village Governance-Plattform
+il.co.ravkavonline.RavKavOnline	Laden Sie Ihre Rav-Kav-Karte zu Hause auf und reisen Sie bequem
+im.bernard.Funkcio	Zeichnen Sie Funktionen aus Punkten
+im.bernard.Nostalgia	Legen Sie historische GNOME-Hintergründe fest
+im.dino.Dino	Modernes XMPP-Chat-Programm
+im.fluffychat.Fluffychat	Chatten Sie mit Ihren Freunden
+im.gitter.Gitter	Kommunikationsprodukt für Communities und Teams auf GitHub.
+im.kaidan.kaidan	Benutzerfreundliche und moderne Chat-App für jedes Gerät
+im.pidgin.Pidgin	Client für Instant Messaging (Sofortnachrichten)
+im.riot.Riot	Erstellen, teilen, kommunizieren, chatten und telefonieren Sie sicher und stellen Sie eine Verbindung zu anderen Apps her
+im.srain.Srain	Moderner IRC-Client, geschrieben in GTK
+in.bharatkalluri.shortcircuit	Entwickler-Notizblock
+in.bharatkalluri.splash	Legen Sie hochauflösende Desktop-Hintergründe von Unsplash fest!
+in.cinny.Cinny	Noch ein Matrix-Client mit einfacher, eleganter und sicherer Schnittstelle.
+info.beyondallreason.bar	Das von Total Annihilation inspirierte RTS, auf das Sie gewartet haben
+info.bibletime.BibleTime	Bibelstudienprogramm
+info.cemu.Cemu	Nintendo Wii U-Emulator
+info.colobot.Colobot	Kolonisieren Sie mit Bots
+info.febvre.Komikku	Lies deinen Lieblingsmanga
+info.mumble.Mumble	Verschlüsselter VoIP-Client mit geringer Latenz
+info.olasagasti.revelation	Passwortmanager
+info.portfolio_performance.PortfolioPerformance	Analysieren Sie die Performance Ihres gesamten Anlageportfolios
+info.puredata.Pd	Eine grafische Echtzeit-Programmierumgebung für interaktive Live-Computermusik
+info.puredata.Pd-extended	Eine visuelle Open-Source-Programmiersprache für Multimedia
+info.rttr.Return-To-The-Roots	Fanprojekt, das das Spiel Die Siedler 2 neu implementiert
+info.smplayer.SMPlayer	Ein toller Mediaplayer
+info.urbanterror.UrbanTerror	Taktischer Ego-Shooter mit Actionfilm-Elementen
+ink.scribl.Scribl	Erstellen Sie einfache Lehrvideos
+in.p1x.TanksOfFreedom	Indie-rundenbasierte Strategie in isometrischer Pixelkunst
+in.srev.guiscrcpy	Android-Bildschirmspiegelungssoftware
+io.appflowy.AppFlowy	Open-Source-Konzept-Alternative
+io.atom.Atom	Ein hackbarer Texteditor für das 21. Jahrhundert
+io.bassi.Amberol	Spielt Musik ab, und sonst nichts
+io.beekeeperstudio.Studio	Der SQL-Editor und Datenbankmanager Ihrer Träume
+io.blockloader.BlockLoader	Der beste Minecraft-Mod-Manager
+io.botfather.Botfather	Universelles Automatisierungsframework
+io.conduktor.Conduktor	Ein schöner und voll ausgestatteter Desktop-Client für Apache Kafka
+io.crow_translate.CrowTranslate	Ein einfacher und leichter Übersetzer
+io.dbeaver.DBeaverCommunity	Universeller Datenbankmanager
+io.defn.Franz	Ein Desktop-Client für Apache Kafka
+io.edcd.EDMarketConnector	Aktualisiert den EDDN mit Daten aus Ihrem Spiel
+io.emeric.toolblex	Ein Bluetooth Low Energy-Gerätescanner und -analysator
+io.emeric.watchflower	Eine Pflanzenüberwachungsanwendung für Bluetooth Low Energy-Sensoren und -Thermometer wie Xiaomi „Flower Care“ oder Parrot „Flower Power“.
+io.enpass.Enpass	Enpass ist ein Passwort-Manager zum sicheren Speichern und Verwalten Ihrer Passwörter und anderer Anmeldeinformationen.
+io.exodus.Exodus	All-in-One-App zum Sichern, Verwalten und Austauschen von Blockchain-Assets
+io.frama.tractor.carburetor	Die Onion Routing-App
+io.freetubeapp.FreeTube	Eine Open-Source-YouTube-App zum Schutz der Privatsphäre
+io.gdevelop.ide	Schnelle und einfache Spieleerstellung
+io.gdevs.GDLauncher	GDLauncher ist ein einfacher, aber leistungsstarker benutzerdefinierter Minecraft-Launcher mit einem starken Fokus auf die Benutzererfahrung.
+io.github._0xzer0x.qurancompanion	Plattformübergreifender Desktop-Offline-Koran-Leser und -Player
+io.github.aandrew_me.ytdn	Laden Sie Videos und Audios von Hunderten von Websites herunter
+io.github.achetagames.epic_asset_manager	Verwalten Sie Ihre Epic-Assets
+io.github.Adda0.Stardrop	Inoffizieller Fork von Stardrop mit benutzerdefinierten Änderungen
+io.github.adrienverge.PhotoCollage	Grafisches Werkzeug zum Erstellen von Foto-Collagen Poster
+io.github.aerocyber.sitemarker	Ein Open-Source-Lesezeichen-Manager
+io.github.aggalex.Wineglass	Eine GUI für Wine
+io.github.alainm23.planify	Vergessen Sie das Vergessen von Dingen
+io.github.alexkdeveloper.gomoku	Gomoku-Spiel
+io.github.alexkdeveloper.radio	Ein einfaches Radio mit Sendern von der Website radio-browser.info
+io.github.alexkdeveloper.zodiac	Ein einfaches Programm zum Zeichnen von Horoskopen
+io.github.am2r_community_developers.AM2RLauncher	Ein Programm für die Handhabung mit AM2R-Updates und Mods
+io.github.am2r_community_developers.Atomic	Eine Mod-Packaging-Toolchain für AM2R-Mods.
+io.github.amit9838.weather	Schöne und leichte Wetter-App
+io.github.andreibachim.shortcut	Erstellen Sie App-Verknüpfungen
+io.github.Andrettin.Wyrmsun	Strategiespiel basierend auf Geschichte, Mythologie und Fiktion
+io.github.anirbandey1.ChatbotClient	Elektronen-Wrapper für die ChatGPT-Website
+io.github.antimicrox.antimicrox	Grafisches Programm zum Zuordnen von Gamepad-Tasten zu Tastatur, Maus, Skripten und Makros
+io.github.appoutlet.GameOutlet	Finden Sie die besten Preise für PC-Spiele
+io.github.Archeb.opentrace	Ein plattformübergreifender GUI-Wrapper für NextTrace
+io.github.Arisotura.CoinKiller	Ein Level-Editor für NSMB2
+io.github.arunsivaramanneo.GPUViewer	Ein Frontend für glxinfo, vulkaninfo, clinfo und es2_info
+io.github.Bavarder.Bavarder	Plauderei mit einer KI
+io.github.benini.scid	Eine Schachdatenbankanwendung
+io.github.betaflight.BetaflightConfigurator	Plattformübergreifendes Konfigurationstool für das Betaflight-Flugsteuerungssystem
+io.github.bkueng.qMasterPassword	Statusloser Master-Passwort-Manager
+io.github.Bollos00.LibreMines	Ein auf Free/Libre und Open-Source-Software Qt basierendes Minesweeper-Spiel, verfügbar für GNU/Linux-, FreeBSD- und Windows-Systeme.
+io.github.bothlab.pomidaq	Sehen Sie sich Videos von UCLA-Miniskopen an und zeichnen Sie sie auf
+io.github.bothlab.syntalos	Synchronisierte Datenerfassung aus verschiedenen Quellen und flexible Versuchssteuerung
+io.github.brainstormtrooper.facteur	Sendet vorlagenbasierte E-Mails an eine Liste von Empfängern
+io.github.brunoherbelin.Vimix	Video-Live-Mixer
+io.github.btpf.alexandria	Ein minimalistischer eBook-Reader
+io.github.bytezz.IPLookup	Finden Sie Informationen zu einer IP-Adresse
+io.github.carterbox.Electricity_Clock	Ein Nutzungszeitmonitor für Stromtarife
+io.github.cboxdoerfer.FSearch	Ein grafisches Datei-Suchprogramm
+io.github.celluloid_player.Celluloid	Eine GTK-Oberfläche für den Medienspieler mpv
+io.github.cges30901.hmtimer	Ein grafischer Shutdown-Timer
+io.github.chris2511.xca	X-Zertifikat- und Schlüsselverwaltung
+io.github.ciromattia.kcc	Eine App, mit der Sie Ihre PNG-, JPG-, GIF-, CBZ-, CBR- und CB7-Dateien in E-Books im EPUB- oder MOBI-Format umwandeln können
+io.github.cleomenezesjr.Escambo	Testen und entwickeln Sie APIs
+io.github.cloose.CuteMarkEd	Qt-Markdown-Editor
+io.github.cmus.cmus	Konsolen-Musikplayer
+io.github.Cockatrice.cockatrice	Virtueller Tisch für Multiplayer-Kartenspiele
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.ctlcltd.e2se	Editor für Satellitenkanallisten: Enigma2, Neutrino, Dreambox
+io.github.cudatext.CudaText-Qt5	Open-Source- und plattformübergreifender Texteditor
+io.github.cxong.cdogs-sdl	Klassisches Overhead-Run-and-Gun-Spiel
+io.github.dagargo.Elektroid	Sample- und MIDI-Gerätemanager
+io.github.daviddesimone.opencloudsaves	Ein Tool zum Synchronisieren Ihrer gespeicherten Spiele auf Ihren Geräten
+io.github.davidoc26.wallpaper_selector	Lädt Hintergrundbilder herunter und wendet sie an
+io.github.dbchoco.muezzin	Anwendung der islamischen Gebetszeiten
+io.github.dbchoco.Salawat	Anwendung der islamischen Gebetszeiten
+io.github.ddanilov.soundscape	Desktop-Soundscape-Anwendung
+io.github.dfandrich.gpscorrelate	GPS Correlate fügt Bilder EXIF GPS-Standort-Metadaten bei
+io.github.dgsasha.Remembrance	Legen Sie Erinnerungen für sich selbst fest
+io.github.dida_code.OpstaKultura	Spiel, Wissensquiz
+io.github.diegoivan.GaticTacToe	Spielen Sie Tic-Tac-Toe mit Ihren Freunden
+io.github.diegoivanme.flowtime	Verbringen Sie Ihre Zeit mit Bedacht
+io.github.diegoivan.pdf_metadata_editor	Metadaten von PDF-Dokumenten bearbeiten
+io.github.diegopvlk.Dosage	Behalten Sie den Überblick über Ihre Behandlungen
+io.github.dimtpap.coppwr	Low-Level-Steuerungs-GUI für PipeWire
+io.github.divverent.aaaaxy	Ein nichtlinearer 2D-Puzzle-Plattformer, der in unmöglichen Räumen stattfindet.
+io.github.dlippok.photometric-viewer	Öffnet Photometriedateien
+io.github.dman95.SASM	Einfache plattformübergreifende IDE für die Assemblersprachen NASM, MASM, GAS und FASM
+io.github.dosbox-staging	DOS/x86-Emulator mit Schwerpunkt auf Benutzerfreundlichkeit
+io.github.Dretch.MonomerFlatpakExample	Beispielanwendung für Monomer Flatpak.
+io.github.dtsudo.ChessCompStompWithHacks	Besiege die Schach-KI mit Hacks!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Laufen Sie mit gespeicherten Zuständen durch 10 Level!
+io.github.dubstar_04.design	2D-CAD für GNOME
+io.github.dummerle.rare	Eine GUI für Legendär, eine Open-Source-Alternative zu Epic Games
+io.github.dvlv.boxbuddyrs	Ein grafischer Distrobox-Manager
+io.github.dweymouth.supersonic	Ein leichter plattformübergreifender Desktop-Client für Subsonic- und Jellyfin-Musikserver
+io.github.dyegoaurelio.simple-wireplumber-gui	Eine einfache GTK4-GUI für PipeWire
+io.github.ec_.Quake3e.OpenArena	Kostenloser und quelloffener Ego-Shooter
+io.github.eminfedar.vaktisalah-gtk-rs	GTK4-Version von Vakt-i Salah (Gebetszeiten)
+io.github.endless_sky.endless_sky	Weltraumhandels und Kampfsimulator
+io.github.erkin.ponysay	Cowsay-Neuimplementierung für Ponys
+io.github.everestapi.Olympus	Plattformübergreifender Celeste Mod Manager
+io.github.ezQuake	ein moderner QuakeWorld-Client, der sich auf kompetitives Online-Spielen konzentriert
+io.github.f3d_app.f3d	Ein schneller und minimalistischer 3D-Viewer
+io.github.fabiangreffrath.Doom	Grenzenloser Doom-Quellport mit erhöhter Auflösung
+io.github.fabrialberio.pinapp	Erstellen und bearbeiten Sie Anwendungseinträge
+io.github.FailurePoint.RandomNumberFive	Zufallszahlengenerator für den Linux-Desktop!
+io.github.fastrizwaan.WineZGUI	Wine-GUI mit Zenity
+io.github.ferraridamiano.ConverterNOW	Ein einfacher, sofortiger und schneller Einheitenumrechner!
+io.github.Figma_Linux.figma_linux	Webbasiertes Tool für kollaboratives Design
+io.github.fin_ger.OvGUCanteen	Sehen Sie sich das Mensa-Menü der OvGU in einer kleinen GTK-App an
+io.github.fizzyizzy05.binary	Zahlenbasiskonverter
+io.github.fkinoshita.Telegraph	Morse schreiben und entschlüsseln
+io.github.flattool.Warehouse	Verwalten Sie alles rund um Flatpak
+io.github.Fndroid.clash_for_windows	Der grafische Client von Clash, basierend auf Electron.
+io.github.Foldex.AdwSteamGtk	Geben Sie Steam die Adwaita-Behandlung
+io.github.Foldex.r2mod	Risk of Rain 2 Mod Manager
+io.github.foldynl.QLog	Amateurfunk-Logbuch
+io.github.foxxmd.multiscrobbler	Scrobblet Musik aus vielen Quellen für viele Kunden
+io.github.fragglet.sdl_sopwith	Das klassische Doppeldecker-Shoot-Em-Up
+io.github.fralonra.PpdEditor	2D-Papierpuppen-Editor
+io.github.fralonra.WgShadertoy	Ein von Shadertoy inspirierter WGSL-Spielplatz
+io.github.freedoom.FreeDM	Deathmatch-Spiel basierend auf der Doom-Engine
+io.github.freedoom.Phase1	Ego-Shooter basierend auf der Doom-Engine
+io.github.freedoom.Phase2	Ego-Shooter basierend auf der Doom-Engine
+io.github.fsobolev.TimeSwitch	Befehle nach Ablauf der Zeit ausführen lassen
+io.github.gamingdoom.Datcord	Ein Open-Source-Discord-Client, der Firefox verwendet
+io.github.garglk.Gargoyle	Ein interaktiver Fiction-Player
+io.github.gen2brain.cbconvert	Ein Comic-Konverter
+io.github.gerryferdinandus.bittorrent-tracker-editor	Tracker zu Torrent-Dateien hinzufügen oder daraus entfernen.
+io.github.giantpinkrobots.bootqt	Erstellen Sie bootfähige Laufwerke
+io.github.giantpinkrobots.flatsweep	Entfernt nicht mehr benötigte Flatpak-Dateien
+io.github.giantpinkrobots.varia	Laden Sie Dateien schnell und effizient herunter
+io.github.gillesdegottex.FMIT	Free Musical Instrument Tuner (FMIT), ein Werkzeug zum Stimmen von Musikinstrumenten
+io.github.glitterware.Passy	Offline-Passwort-Manager mit plattformübergreifender Synchronisierung
+io.github.GoldenGnu.jEveAssets	jEveAssets ist ein Out-of-Game-Asset-Manager für Eve-Online
+io.github.gopher64.gopher64	Nintendo 64-Emulator
+io.github.gssh_linux.gssh	Eine Python-App, mit der Sie über eine (wirklich) einfache GUI eine Verbindung zu SSH-Servern herstellen können
+io.github.gtkwave.GTKWave	Elektronischer Wellenform-Viewer zum Anzeigen von Simulationsergebnissen
+io.github.guillaumechereau.Goxel	Open-Source-3D-Voxel-Editor
+io.github.hakandundar34coding.mini-system-monitor	Überwachung der CPU-, RAM-, Festplatten- und Netzwerknutzung
+io.github.hakandundar34coding.system-monitoring-center	Multifunktionaler Systemmonitor
+io.github.hakuneko.HakuNeko	Ein plattformübergreifender Downloader für Manga und Anime von verschiedenen Websites
+io.github.helpseeker.Gyre	Ein Downloader für Videos von Coub
+io.github.hermitdemschoenenleben.linien	Spektroskopie-Schleuse
+io.github.Hexchat	IRC-Client
+io.github.hmlendea.geforcenow-electron	Inoffizielle GeForce NOW-Anwendung, geschrieben in Electron
+io.github.hrkfdn.ncspot	Plattformübergreifender ncurses Spotify-Client
+io.github.huderlem.porymap	Ein Karteneditor für die Pokémon-Generation-3-Dekompilierungsprojekte
+io.github.hurricangame.hurrican	Freeware-Sprung- und Schießspiel, erstellt von Poke53280
+io.github.hvdwofl.jExifToolGUI	Einfaches Frontend für das ExifTool
+io.github.hydrusnetwork.hydrus	Organisieren Sie Medien auf dem Desktop
+io.github.hypengw.Qcm	Qt-Client für Netease Cloud Music
+io.github.Icalingua.Icalingua	Ein Linux-Client für QQ und mehr
+io.github.idevecore.CurrencyConverter	Ein einfacher Währungsumrechner, der Google-basierte Daten nutzt
+io.github.igaldino.CoyoteTM	Verwalten Sie Aufgaben wie ein Kojote
+io.github.igorlogius.scr2ppm	Der kleinste X11-Screenshot, auch bekannt als Screenshot-Dienstprogramm
+io.github.ihhub.Fheroes2	fheroes2 ist eine Nachbildung der Spiel-Engine Heroes of Might and Magic II
+io.github.ilius.pyglossary	Ein Tool zum Konvertieren von Wörterbuchdateien, auch Glossaren genannt.
+io.github.ImEditor	Einfaches und vielseitiges Bildbearbeitungsprogramm
+io.github.iSlammedMyKindle.godotGem	Controller-Client zum Emulieren eines Xbox360-Controllers für Windows
+io.github.ja2_stracciatella.JA2-Stracciatella	Eine verbesserte, plattformübergreifende und stabile Jagged Alliance 2-Laufzeit
+io.github.jacalz.rymdport	Schnelle, verschlüsselte Dateiübertragungen
+io.github.JaGoLi.ytdl_gui	Eine benutzerfreundliche, plattformübergreifende grafische Oberfläche für youtube-dl.
+io.github.JakubMelka.Pdf4qt	Open-Source-PDF-Editor
+io.github.janbar.noson	Controller für SONOS
+io.github.java_decompiler.jd-gui	Ein eigenständiges grafisches Dienstprogramm, das Java-Quellen aus CLASS-Dateien anzeigt
+io.github.jean28518.Linux-Assistant	Ein täglicher Linux-Helfer mit leistungsstarker integrierter Suche, Routinen und Prüfungen
+io.github.jeffshee.Hidamari	Video-Hintergrundbild für Linux
+io.github.jhaygood86.mauborgne	2FA OTP-Codegenerator
+io.github.jliljebl.Flowblade	Video-Editor – schnell, präzise, stabil
+io.github.jonmagon.kdiskmark	Festplatten-Benchmark-Tool
+io.github.jorchube.monitorets	Haben Sie die Verwendung der Systemressourcen immer im Blick
+io.github.jordanl2.ModularCalculator	Ein leistungsstarker, skriptfähiger, modularer Rechner für wissenschaftliche, technische oder computergestützte Arbeiten.
+io.github.jotd666.gods-deluxe	Ein Remake des Plattformspiels
+io.github.jtdx_project.JTDX	jtdx (gespaltenes WSJT-X für Amateurfunkkommunikation)
+io.github.julian_hochhaus.LG4X_V2	Python-Paket für XPS-Kurvenanpassungsanalyse
+io.github.kaii_lb.hgui	Eine App für die einfache Offline-Konvertierung zwischen Hijri- und gregorianischen Daten (und umgekehrt)!
+io.github.kalaksi.Lightkeeper	Ein eigenständiges, anpassbares Serververwaltungstool
+io.github.kaschpal.timetable	Ein Kalender/Planer für Lehrer und vielleicht auch Schüler
+io.github.kevinsmia1939.PySimpleCV	Zeichnen Sie das zyklische Voltammogramm und den Batteriezyklus auf
+io.github.KikoPlayProject.KikoPlay	NICHT NUR ein Danmu-Player mit vollem Funktionsumfang
+io.github.koromelodev.mindmate	Inoffizielle Anwendung für ChatGPT
+io.github.kotatogram	Kotatogram Desktop-Messenger
+io.github.ktgw0316.LightZone	Kamera-RAW-Bildprozessor
+io.github.kukuruzka165.materialgram	Inoffizielle Telegram-Desktop-Messaging-App
+io.github.labsquare.CutePeaks	eigenständiger Sanger-Trace-Viewer
+io.github.lainsce.Colorway	Farbpaarungen generieren
+io.github.lainsce.Countdown	Verfolgen Sie Ereignisse, bis sie eintreten oder seitdem sie eingetreten sind
+io.github.lainsce.DotMatrix	Der Kreativitätsspielplatz aus Linien und Kurven
+io.github.lainsce.Emulsion	Deck’ dich mit Farben ein
+io.github.lainsce.Khronos	Erstelle Protokolle über die Zeit, die es braucht um Aufgaben zu erledigen
+io.github.lainsce.Notejot	Notieren Sie Ihre Ideen
+io.github.lainsce.Quilter	Konzentrieren Sie sich auf Ihr Schreiben
+io.github.lemmygtk.lemoa	Gtk-Client für Lemmy
+io.github.leolost2605.gradebook	Behalten Sie Ihre Noten im Auge
+io.github.leonardschardijn.Chirurgien	Binäre Dateiformate verstehen und bearbeiten
+io.github.lethal_guitar.RigelEngine	Eine moderne Neuimplementierung des klassischen DOS-Spiels Duke Nukem II
+io.github.letslearn_app.letslearn	Eine Open-Source-Notizanwendung mit aufgeräumtem Aussehen
+io.github.libvibrant.vibrantLinux	Systemdienstprogramm zum Anpassen der Farbsättigung von X11-Bildschirmen
+io.github.limads.Queries	Eine Workbench zur Interaktion mit relationalen Datenbanken.
+io.github.listen1.Listen1	Einer für alle kostenlose Musik in China
+io.github.loot.loot	Modding-Dienstprogramm für Starfield und einige Elder Scrolls- und Fallout-Spiele
+io.github.lruzicka.Needly	ein in Python geschriebener openQA-Nadeleditor
+io.github.ltiber.Pwall	Durchsuchen Sie Ihre Fotos/Videos
+io.github.lunarequest.NightPDF	PDF-Reader im Dunkelmodus
+io.github.lxndr.gswatcher	Ein einfacher Gameserver-Monitor und ein Verwaltungstool.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA ist ein Doom 3 BFG GPL-Quellport
+io.github.magnush.mhWaveEdit	mhWaveEdit ist ein grafisches Programm zum Bearbeiten von Sounddateien
+io.github.mahmoudbahaa.outlook_for_linux	Inoffizieller Microsoft Outlook-Client für Linux mit Electron
+io.github.mak448a.QTCord	Ein Discord-Kunde
+io.github.MakovWait.Godots	Godot-Game-Engine-Versionsmanager
+io.github.mandruis7.xbox-cloud-gaming-electron	Open-Source-Client für Xbox Cloud Electron
+io.github.manisandro.gImageReader	Ein grafisches (GTK) Frontend für tesseract-ocr
+io.github.markummitchell.Engauge_Digitizer	Konvertieren Sie interaktiv ein Bitmap-Diagramm oder eine Karte in Zahlen
+io.github.martinrotter.rssguard	Einfacher, aber leistungsstarker Newsfeed-Reader
+io.github.martinrotter.rssguardlite	Einfacher, aber leistungsstarker Newsfeed-Reader (kein integrierter Webbrowser)
+io.github.martinrotter.textosaurus	Einfacher plattformübergreifender Texteditor basierend auf Qt und QScintilla
+io.github.maurycyliebner.enve	2D-Animation
+io.github.mgerhardy.vengi.voxedit	Voxel-Editor
+io.github.mideb.digitales_register	Inoffizieller Client für das Digitale Register
+io.github.mightycreak.Diffuse	Werkzeug zum Mischen und Vergleichen von Textdateien
+io.github.mihnea_radulescu.imagefanreloaded	Leichter tab-basierter Bildbetrachter, der die Multi-Core-Verarbeitung unterstützt
+io.github.mimbrero.WhatsAppDesktop	Inoffizieller WhatsApp Web Desktop-Client.
+io.github.mki1967.mki3dgame	Ein einfaches OpenGL-Spiel zur Suche nach Token in 3D-Stufen
+io.github.mmarco94.tambourine	Ein einfacher Musikplayer für Ihre Bibliothek
+io.github.mmstick.FontFinder	Schriftartenbrowser
+io.github.mpobaschnig.Vaults	Bewahren Sie wichtige Dateien sicher auf
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs.[DE] Ein buddhistischer Textleser, der CBETA-APIs verwendet.
+io.github.mrvladus.List	Verwalten Sie Ihre Aufgaben
+io.github.muse_sequencer.Muse	Digitale Audio-Workstation
+io.github.myst6re.makoureactor	Ein Field Editor für Final Fantasy VII
+io.github.naikari.Naikari	2-D-Freiform-Weltraum-Mystery-Spiel
+io.github.najepaliya.kleaner	Ein Bildmetadaten-Reiniger
+io.github.narunlifescience.AlphaPlot	AlphaPlot ist eine kostenlose Anwendung zur wissenschaftlichen Datenanalyse und -visualisierung
+io.github.nate_xyz.Chromatic	Optimieren Sie Ihre Instrumente
+io.github.nate_xyz.Conjure	Verwandeln Sie Bilder auf magische Weise
+io.github.nate_xyz.Paleta	Problemlos Farbpaletten erstellen
+io.github.nate_xyz.Resonance	Harmonisieren Sie Ihr Hörerlebnis
+io.github.nearinfinitybrowser.nearinfinity	Ein Infinity Engine-Ressourcenbrowser und -Editor
+io.github.neil_morrison44.pocket-sync	Eine GUI, um Dinge mit dem Analogue Pocket zu tun
+io.github.NhekoReborn.Nheko	Desktop-Client für das Matrix-Protokoll
+io.github.NickKarpowicz.LightwaveExplorer	Ein effizienter, benutzerfreundlicher Löser für nichtlineare Licht-Materie-Wechselwirkungen
+io.github.nokse22.asciidraw	Zeichnen Sie mit ASCII-Zeichen
+io.github.nokse22.inspector	Informationen zu Ihrem System anzeigen
+io.github.nokse22.minitext	Vergänglicher Notizblock
+io.github.nokse22.teleprompter	Zeigen Sie Lauftext auf Ihrem Bildschirm an
+io.github.nokse22.trivia-quiz	Beantworten Sie endlose Fragen
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	Ein D-Star-Client für PC
+io.github.noxworld_dev.OpenNox	OpenNox ist eine moderne Implementierung einer Nox-Game-Engine
+io.github.nroduit.Weasis	Ein kostenloser/libre/offener medizinischer DICOM-Viewer
+io.github.nuttyartist.notes	Notizen-App. Schreiben Sie Ihre Gedanken auf
+io.github.obiwankennedy.HotShots	Leistungsstarke und einfach zu bedienende Screenshot-Software
+io.github.onionware_github.onionmedia	Kostenloser Medien-Downloader und -Konverter – plattformübergreifend
+io.github.openhv.OpenHV	Open-Source-Pixelart-Sci-Fi-Echtzeitstrategiespiel aus den 90ern
+io.github.OpenToonz	2D-Animation
+io.github.orontee.Argos	Schlankes Frontend für den Mopidy Musikserver
+io.github.paledega.alpine-rootfs	Alpine Linux-Subsystem
+io.github.parnassius.SysDVR-Qt	Streamen Sie Switch-Spiele über USB oder Netzwerk auf Ihren PC
+io.github.pastthepixels.InfiniteShooter	Ein einfacher Shooter, der mit der Godot-Engine erstellt wurde.
+io.github.paulwedeck.settlers-remake	Ein Die Siedler III Remake für Windows, Linux, Mac und Android
+io.github.pd_l2ork.Pd_L2Ork	Eine visuelle Open-Source-Programmiersprache für Multimedia, basierend auf Pure Data
+io.github.peazip.PeaZip	Kostenloses Dateiarchivierungsprogramm zum Öffnen und Extrahieren von RAR-TAR-ZIP-Archiven
+io.github.petitlapin.Li-ri	Kinderspiel, eine Spielzeug-Holzmaschine fahren
+io.github.phastmike.tags	Farbprotokolle basierend auf Tags
+io.github.philipk.boilr	Fügen Sie Ihrer Steam-Bibliothek Nicht-Steam-Spiele hinzu
+io.github.Pithos	Pandora-Radio-Client
+io.github.polypixeldev.Polypass	Ein einfacher, sicherer und benutzerfreundlicher Passwort-Manager
+io.github.pragha_music_player.pragha	Verwalten und hören Sie Ihre Musik
+io.github.prateekmedia.appimagepool	Ein einfacher, moderner AppImageHub-Client.
+io.github.prateekmedia.pstube	Youtube client made using flutter
+io.github.pr_starfighter.starfighter	Space shoot 'em up game.
+io.github.punesemu.puNES	Nintendo Entertaiment System emulator
+io.github.purplehorrorrus.Meridius	Music Player for vk.com
+io.github.pwr_solaar.solaar	Linux manager for Logitech keyboards, mice, and trackpads
+io.github.pyfa_org.Pyfa	Python fitting assistant for EVE: Online
+io.github.Qalculate	Leistungsstarker und einfach zu bedienender Taschenrechner
+io.github.Qalculate.qalculate-qt	Leistungsstarker und einfach zu bedienender Taschenrechner
+io.github.qier222.YesPlayMusic	A High Appearance Third-Party Netease CloudMusic Player
+io.github.qnapi	A software for downloading and automatic matching subtitles to movies
+io.github.qtox.qTox	Powerful Tox chat client that follows the Tox design guidelines.
+io.github.quodlibet.ExFalso	Metadaten in Audiodateien bearbeiten
+io.github.quodlibet.QuodLibet	Anhören, Durchsuchen und Bearbeiten Ihrer Audiosammlung
+io.github.qwersyk.Newelle	Chat bot that controls your computer
+io.github.rafaelfassi.QLogExplorer	Fast log explorer with advanced tools
+io.github.randovania.Randovania	A randomizer platform for a multitude of games
+io.github.Rangi42.polished-map	Edit pokecrystal maps and tilesets
+io.github.Rangi42.polished-map-plusplus	Edit pokecrystal maps and tilesets
+io.github.Rangi42.tilemap-studio	A tilemap editor for Game Boy, Color, Advance, DS, and SNES projects
+io.github.realmazharhussain.GdmSettings	Customize your login screen
+io.github.retgal.Dayon	Fernunterstützung leicht gemacht!
+io.github.retux_game.retux	Action-Plattformer mit dem Linux-Maskottchen Tux in der Hauptrolle
+io.github.rinigus.OSMScoutServer	Kartenserver mit Kacheln, Geocoder und Router
+io.github.rinigus.PureMaps	Karten und Navigation
+io.github.ripose_jp.Memento	Ein MPV-basierter Videoplayer zum Japanischlernen
+io.github.Rirusha.Cassette	Inoffizieller Yandex.Music-Client
+io.github.RobertBeckebans.RBDoom3BFG-GL	Eine Modernisierungsmaßnahme von DOOM-3-BFG
+io.github.rocket.editor	Raketeneditor
+io.github.RodZill4.Material-Maker	Werkzeug zur prozeduralen Texturgenerierung und Netzmalerei
+io.github.sameboy.SameBoy	Game Boy- und Game Boy Color-Emulator
+io.github.santiagocezar.maniatic-launcher	Ein Launcher für die Dekompilierung von Retro Engine (v5)
+io.github.seadve.Breathing	Trainiere deine Atmung
+io.github.seadve.Kooha	Nehme deinen Bildschirm elegant auf
+io.github.seadve.Mousai	Lieder in Sekunden erkennen
+io.github.searchandrescue2.sar2	Rettungshubschrauber-Simulator
+io.github.Sebicodes99.Prt	Eine Python-Socket-App, mit der Sie einem Freund einen Befehl auf Ihrem System ausführen lassen können, ohne Ports zu öffnen oder einen SSH-Server zu verwenden, mit einer einfachen GUI
+io.github.sharkwouter.Minigalaxy	Ein einfacher GOG-Client für Linux
+io.github.sharkwouter.oceanpop	Ein entspannendes 3-Gewinnt-Puzzlespiel mit dem gewissen Etwas
+io.github.shiftey.Desktop	Einfache Zusammenarbeit von Ihrem Desktop aus
+io.github.shiiion.primehack	Dolphin Emu-Gabel für verschiedene Metroid Prime-Mods
+io.github.sigmasd.IRust	Rostersatz
+io.github.sigmasd.stimulator	Halten Sie den Desktop wach
+io.github.signus_game.signus	Rundenbasiertes Strategiespiel
+io.github.sil_car.SqueezeVid	Normalisieren Sie Videos auf eine minimale, projektionskompatible Qualität.
+io.github.simple64.simple64	Nintendo 64-Emulator
+io.github.sithlord48.blackchocobo	Ein Save Editor für Final Fantasy VII
+io.github.slgobinath.SafeEyes	Ein kostenloses und Open-Source-Tool für Linux-Benutzer zur Reduzierung und Vorbeugung von Verletzungen durch wiederholte Belastung (RSI).
+io.github.Snaggly.PS2_Pnacher	Anwenden von Pnaches direkt auf PS2-ISOs.
+io.github.snesrev.Zelda3	Zelda3 ist ein rückentwickelter Klon von Zelda – A Link to the Past
+io.github.Soundux	Ein plattformübergreifender Resonanzboden
+io.github.spacingbat3.webcord	Ein webbasierter Discord- und Fosscord-Client, erstellt mit Electron
+io.github.srb2.rphys	Gameplay-Überarbeitungs-Mod für Sonic Robo Blast 2
+io.github.stella_emu.Stella	Multiplattform-Atari 2600 VCS-Emulator
+io.github.streetpea.Chiaki4deck	Kostenloser und Open-Source-Client für PlayStation Remote Play, modifiziert für Steam Deck
+io.github.Sunderland93.sway-input-config	Eingabegeräte-Konfigurator für Sway
+io.github.swanux.hbud	Einfacher Audio-/Videoplayer und Karaoke-App, geschrieben in Python und GTK4
+io.github.tcobbs.LDView	LDraw-Modellbetrachter
+io.github.tdesktop_x64.TDesktop	Inoffizielle Desktop-Version der Telegram-Messaging-App
+io.github.technic.e2designer	Skin-Editor für Enigma2, geschrieben mit Qt5
+io.github.tfuxu.Halftone	Verleihen Sie Ihren Bildern den Pixel-Art-Stil
+io.github.thaunknown.miru	Miru – Bittorrent-Streaming-Software für Katzen
+io.github.TheThirdOne.rars	RISC-V-Assembler und Laufzeitsimulator
+io.github.thetumultuousunicornofdarkness.cpu-x	Sammelt Informationen zu CPU, Motherboard und mehr
+io.github.TheWisker.Cavasik	Auf CAVA basierender Audio-Visualisierer
+io.github.thiefmd.themegenerator	Generieren Sie Stile mit Stil.
+io.github.tlcfem.suanPan	🧮 Ein Open-Source-Framework für die parallele und heterogene Finite-Elemente-Analyse
+io.github.tntwise.REAL-Video-Enhancer	Kostenloses und Open-Source-Tool zur Videoverbesserung
+io.github.torrent_file_editor.Torrent-file-editor	Bearbeiten und erstellen Sie Torrent-Dateien
+io.github.trackballs.Trackballs	Steuern Sie eine Marmorkugel durch ein Labyrinth
+io.github.tralph3.Steam_Metadata_Editor	Eine benutzerfreundliche GUI, die die Metadaten Ihrer Steam-Apps bearbeitet
+io.github.TransmissionRemoteGtk	Verwalten Sie den Transmission BitTorrent-Client aus der Ferne
+io.github.trevorsandy.LPub3D	LPub3D – Ein LDraw-Bauanleitungseditor
+io.github.trigg.discover_overlay	Ein grafisches Overlay für den Discord-Voice-Chat.
+io.github.troyeguo.koodo-reader	Ein plattformübergreifender E-Book-Reader
+io.github.trytonvanmeer.DungeonJournal	Ein 5e-Charaktermanager
+io.github.TTimo.GtkRadiant	Level-Editor für ID Tech-basierte Spiele, einschließlich der Quake-Serie
+io.github.twanvl.MagicSetEditor2	Ein Programm zum Erstellen benutzerdefinierter Karten
+io.github.unicornyrainbow.secrets	Generieren Sie ganz einfach Passwörter entsprechend Ihren Anforderungen
+io.github.unknownskl.greenlight	Greenlight ist ein Open-Source-Client für xCloud- und Xbox-Home-Streaming
+io.github.unrud.RecentFilter	Schließen Sie Dateien und Ordner von den zuletzt verwendeten Dateien aus
+io.github.vemonet.EmojiMart	Ein moderner Popup-Emoji-Picker für den Desktop, basierend auf der Emoji Mart-Webkomponente.
+io.github.veusz.Veusz	Wissenschaftliches Plotpaket
+io.github.vikdevelop.SaveDesktop	Speichern Sie die aktuelle Konfiguration Ihrer Desktop-Umgebung
+io.github.vinser.burnfix	Versuchen Sie, Bildeinlagerungen und Einbrennen auf dem Bildschirm zu beheben, und suchen Sie nach Bildschirmfehlern
+io.github.vinser.pixyne	Überprüfen Sie schnell Fotoordner, löschen Sie fehlerhafte und ähnliche Aufnahmen sicher und legen Sie die Aufnahmetermine fest
+io.github.voxelcubes.deepqt	Nutzen Sie die Leistungsfähigkeit der DeepL-API mit dieser benutzerfreundlichen Benutzeroberfläche
+io.github.voxelcubes.panelcleaner	Ein KI-gestütztes Tool zum Reinigen von Manga-Panels
+io.github.webcamoid.Webcamoid	Sie können Fotos und Videos mit Ihrer Webcam öffnen
+io.github.weclaw1.ScoreTracker	Anwendung zur Verfolgung der Spielerergebnisse bei Karten- und Brettspielen
+io.github.wereturtle.ghostwriter	Ablenkungsfreier Texteditor für Markdown
+io.github.wh201906.serialtest	Ein plattformübergreifendes Testtool für serielle Schnittstelle, Bluetooth, TCP und UDP
+io.github.wojciech_graj.OrbVis	Ein Echtzeit-Satellitenorbit-Visualizer
+io.github.wxmaxima_developers.wxMaxima	Eine grafische Benutzeroberfläche für Maxima, ein leistungsstarkes Computeralgebrasystem
+io.github.xaos_project.XaoS	Schneller interaktiver fraktaler Zoomer/Morpher in Echtzeit
+io.github.xiaoyifang.goldendict_ng	Erweitertes Wörterbuchsuchprogramm
+io.github.xolatgames.marknpaul	Werde zum Zauberer!
+io.github.xverizex.nem_desktop	Mit Freunden unterhalten.
+io.github.xverizex.RetroSpriteEditor	Pixel-Editor für Retro-Konsolen
+io.github.xyproto.zsnes	Super Nintendo-Emulator
+io.github.yairm210.unciv	Rundenbasiertes Strategiespiel
+io.github.yamanqd.antware	Ein FPS-Spiel.
+io.github.Youda008.DoomRunner	Voreinstellungsorientierter grafischer Launcher von ZDoom und Derivaten
+io.github.zaps166.QMPlay2	Video- und Audioplayer
+io.github.zhrexl.thisweekinmylife	Dies ist ein Planer im Kaban-Stil, in den der Benutzer Karten mit Aufgaben einfügen kann.
+io.github.zyedidia.micro	Ein moderner und intuitiver terminalbasierter Texteditor
+io.gitlab.adhami3310.Converter	Bilder umwandeln und bearbeiten
+io.gitlab.adhami3310.Footage	Polieren Sie Ihre Videos
+io.gitlab.adhami3310.Impression	Bootfähige Laufwerke erstellen
+io.gitlab.azymohliad.WatchMate	Verwalten Sie Ihre PineTime
+io.gitlab.ballz.Ballz	Plattform-/Puzzlespiel, bei dem Sie einen rollenden Ball steuern
+io.gitlab.celleron56.libretile	ein Open-Source-Kachelspiel-Engine-Ding
+io.gitlab.coolreader_ng.crqt-ng	Plattformübergreifender Open-Source-E-Book-Reader
+io.gitlab.cyberphantom52.sudoku_solver	Ein einfacher Sudoku-Sovler
+io.gitlab.daikhan.stable	Spielen Sie Videos/Musik mit Stil ab
+io.gitlab.dev_nis.one-click-backup	Einfaches Programm zum Sichern von Ordnern an einem externen Speicherort durch Kopieren
+io.gitlab.floodlight.Presenter	Kostenloses, kostenloses Open-Source-Präsentations- und Textprogramm
+io.gitlab.Goodvibes	Webradios abspielen
+io.gitlab.gregorni.Calligraphy	Wandeln Sie Ihren Text in ASCII-Banner um
+io.gitlab.gregorni.Letterpress	Erstellen Sie beeindruckende ASCII-Art
+io.gitlab.gwendalj.package-transporter	Übertragen Sie Ihre Anwendungen über Installationen hinweg
+io.gitlab.idevecore.Pomodoro	Pomodoro ist ein produktivitätsorientierter Timer
+io.gitlab.jazztickets.choria	Endlich ein MMORPG, bei dem es ums Schleifen und Hausarbeiten geht.
+io.gitlab.jazztickets.emptyclip	Empty Clip ist ein Top-Down-Shooter-Action-Rollenspiel.
+io.gitlab.jazztickets.irrlamb	3D-Physikspiel, in dem Sie einen blauen Energieball steuern und versuchen, alle leuchtenden Kugeln zu berühren
+io.gitlab.jazztickets.openflap	Ein Spiel, bei dem es darum geht, Bälle durch die Lücken endloser Rohre zu hüpfen
+io.gitlab.leesonwai.Sums	Berechnen Sie mit Postfix-Notation
+io.gitlab.leesonwai.Tactics	Bauen Sie Ihre Fußballaufstellung auf
+io.gitlab.librewolf-community	LibreWolf-Webbrowser
+io.gitlab.news_flash.NewsFlash	Bleiben Sie mit Ihren Feeds auf dem Laufenden
+io.gitlab.o20.word	Open-Source-Klon von MS Word 2019... für Linux
+io.gitlab.osslugaru.Lugaru	Third-Person-Ninja-Kaninchen-Kampfspiel
+io.gitlab.persiangolf.voicegen	Wandeln Sie Text ganz einfach in Sprache um
+io.gitlab.stone_kingdoms.StoneKingdoms	Open-Source-Fan-Remake von Stronghold
+io.gitlab.theevilskeleton.Upscaler	Bilder hochskalieren und verbessern
+io.gitlab.Turtlico	Programmiertool zum Lernen
+io.gitlab.zehkira.Monophony	Streamen Sie Musik von YouTube Music
+io.howl.Editor	Leichter Editor mit tastaturzentrierter, minimalistischer Oberfläche
+io.itch.azagaya.Laigter	Tool zum Generieren von Normal-, Spiegel-, Okklusions- und Parallaxenkarten für 2D-Texturen
+io.itch.doctorm64.skippybot	Skippy ist auf einer epischen Suche, um sein wahres Schicksal herauszufinden.
+io.itch.domestique_baston.domestique_baston	Ein 1-gegen-1-Kampfspiel
+io.itch.drwhut.TabletopClub	Spielen Sie Tabletop-Spiele in einer physikbasierten 3D-Sandbox
+io.itch.itch	Installieren, aktualisieren und spielen Sie Indie-Spiele
+io.itch.keyikedalube_ndang.Type-Off	Ein kurzes 6-minütiges Tipp-Geschwindigkeitsspiel
+io.itch.nordup.TheGates	Reisen Sie in verschiedene Welten, die von Entwicklern auf der ganzen Welt geschaffen wurden!
+io.jamulus.Jamulus	Jamulus. Internet-Jam-Session-Software
+io.jor.bugdom	Rette Bugdom vor den bösen Feuerameisen von Thorax
+io.jor.bugdom2	Spüren Sie die Bully Bee auf und holen Sie sich Ihren Rucksack zurück!
+io.jor.mightymike	Leistungsstarke Action-Rettung in einem verrückt gewordenen Spielzeugladen!
+io.jor.nanosaur	Schicken Sie Dinosauriereier in die Zukunft, bevor ein Meteor die Erde trifft!
+io.jor.nanosaur2	Fliegen Sie einen Pterodaktylus, der mit High-Tech-Waffen beladen ist
+io.jor.ottomatic	Rette die Erde aus den Fängen des Riesengehirns von Planet X
+io.kapsa.drive	Zero Knowledge E2E-verschlüsselter Speicher, kompatibel mit jedem S3-Anbieter
+io.kinvolk.Headlamp	Eine benutzerfreundliche und erweiterbare Web-Benutzeroberfläche für Kubernetes
+io.kopia.KopiaUI	Backup-Lösung
+io.liri.Calculator	Führen Sie arithmetische oder wissenschaftliche Berechnungen durch
+io.liri.Text	Bearbeiten Sie Textdateien
+io.lmms.LMMS	Eine Musikproduktionsanwendung
+io.mango3d.LycheeSlicer	Ein leistungsstarker und vielseitiger Slicer für Harz- und Filament-3D-Drucker
+io.mgba.mGBA	Nintendo Game Boy Advance-Emulator
+io.missioncenter.MissionCenter	Ressourcennutzung überwachen
+io.mpv.Mpv	Ein kostenloser, quelloffener und plattformübergreifender Mediaplayer
+io.mrarm.mcpelauncher	Laden Sie Minecraft Bedrock Edition herunter und spielen Sie es unter GNU/Linux
+io.naox.InnerBreeze	Eine Meditations-App zur Anleitung und Verfolgung Ihrer Wim Hof-Atemübungen
+io.neovim.nvim	Vim-Fork konzentrierte sich auf Erweiterbarkeit und Benutzerfreundlichkeit
+io.openrct2.OpenRCT2	Ein Bau- und Verwaltungssimulationsvideospiel, das die Verwaltung eines Vergnügungsparks simuliert
+io.osdn.simplesok	Einfaches Sokoban-Spiel
+io.otsaloma.gaupol	Editor für textbasierte Untertitel
+io.otsaloma.nfoview	Betrachter für NFO-Dokumente
+io.photoflare.photoflare	Einfacher, aber leistungsstarker plattformübergreifender Bildeditor
+io.podman_desktop.PodmanDesktop	Verwalten Sie Podman und andere Container-Engines über eine einzige Benutzeroberfläche und Taskleiste
+io.poez.Poezio	Poezio ist ein kostenloser Konsolen-XMPP-Client
+io.posidon.Paper	Notizen machen in Markdown
+io.qt.Designer	Erstelle GUIs für Qt-Anwendungen
+io.qt.Linguist	Übersetzungen zu Qt-Programmen hinzufügen
+io.qt.qdbusviewer	Debuggen Sie D-Bus-Anwendungen
+io.qt.QtCreator	Bietet Anwendungsentwicklern eine plattformübergreifende, vollständig integrierte Entwicklungsumgebung (IDE) zum Erstellen von Anwendungen für mehrere Plattformen und Geräte
+io.qt.qtwebengine.BaseApp	Gemeinsame Plattform für Anwendungen, die Qt WebEngine verwenden
+io.sourceforge.chart_geany.chart-geany	Chart Geany ist eine kostenlose plattformübergreifende Softwarelösung für technische Marktanalysen, Diagramme und einen Portfoliomanager
+io.sourceforge.clonekeenplus	Eine Engine, die zum Spielen der Spieleserien Commander Keen und Cosmos the Cosmic Adventure verwendet wird
+io.sourceforge.pentobi	Computer-Gegner für das Brettspiel Blokus
+io.sourceforge.pipewalker.PipeWalker	Verbindungs-Puzzlespiel
+io.sourceforge.Pixelitor	Pixelitor ist ein Open-Source-Bildeditor
+io.sourceforge.pysolfc.PySolFC	Zusammenstellung von Solitärspielen
+io.sourceforge.qoobar.Qoobar	Qoobar ist ein einfacher Tag-Editor für klassische Musik
+io.sourceforge.trigger_rally.TriggerRally	Rasantes Einzelspieler-Rallye-Rennspiel
+io.sourceforge.YSoccer	Fußballspiel im Retro-Stil
+io.sourceforge.zaz	Puzzlespiel, bei dem der Spieler Kugeln in Drillingen anordnen muss.
+io.stoplight.studio	Ampelstudio. Müheloses API-Design.
+io.thp.numptyphysics	Ein auf Buntstiften basierendes Physik-Puzzlespiel
+io.trustable.stpadocumentationtool	Ein systemtheoretisches Prozessanalysetool, das STPA erleichtert und die Dokumentation automatisiert
+io.typora.Typora	Eine minimale Markdown-App zum Lesen und Schreiben
+io.unobserved.espansoGUI	GUI-Schnittstelle für Spanisch
+io.vikunja.Vikunja	Die Open-Source-To-Do-App
+io.wasabiwallet.WasabiWallet	Open-Source-Bitcoin-Wallet für Desktops ohne Verwahrung und Datenschutz, die vertrauenswürdiges CoinJoin implementiert.
+io.wavebox.Wavebox	Die nächste Generation der Web-Desktop-Kommunikation
+io.webtorrent.WebTorrent	Streaming-Torrent-App
+ir.imansalmani.IPlan	Ihr Plan zur Verbesserung Ihres Privatlebens und Ihrer Arbeitsabläufe
+it.cuteworks.pacmanlogviewer	Überprüfen Sie das Pacman-Protokoll
+it.fabiodistasio.AntaresSQL	Ein moderner, schneller und produktivitätsorientierter SQL-Client mit Schwerpunkt auf UX
+it.mijorus.collector	Per Drag & Drop auf die nächste Ebene verschieben
+it.mijorus.gearlever	AppImages verwalten
+it.mijorus.smile	Ein Emoji-Picker
+it.mijorus.whisper	Hören Sie auf Ihr Mikrofon
+jp.yvt.OpenSpades	Open-Source-Voxel-Shooter
+la.ogri.strongbox	Addon-Manager für World of Warcraft
+life.bolls.bolls	Eine Web-App zum Lesen der Bibel, wobei der Schwerpunkt ausschließlich auf dem Wort Gottes liegt. Sola scriptura
+lv.martinsz.millionaire	Beantworten Sie alle Fragen, um 1 Million US-Dollar zu gewinnen.
+md.obsidian.Obsidian	Markdown-basierte Wissensdatenbank
+me.acristoffers.Lachesis	Moirai-Supervisor
+me.ahola.aphototoollibre	Fotoeditor für Linux
+me.broken_by.PdfMetadataEditor	Bearbeiten Sie PDF-Metadaten
+media.emby.EmbyServer	Die offene Medienlösung
+media.emby.EmbyTheater	Die offene Medienlösung
+me.dusansimic.DynamicWallpaper	Dynamischer Wallpaper-Ersteller für Gnome 42
+me.hergert.Schemes	Designstilschemata für GtkSourceView
+me.hyliu.fluentreader	Moderner Desktop-RSS-Reader
+me.iepure.devtoolbox	Entwicklungstools immer zur Hand
+me.iepure.Ticketbooth	Bleiben Sie auf dem laufenden über Ihre liebsten Serien
+me.kozec.syncthingtk	GUI- und Benachrichtigungsbereichssymbol für Syncthing
+me.leucoso.Grock	Zeigt geologische Karten des Vereinigten Königreichs an.
+me.mitya57.ReText	Einfacher Texteditor für Markdown und reStructuredText
+me.njean.shootingpactris	Ein Koop-Retro-Spiel mit Tetris-, Pacman- und Shmup-Gameplay.
+me.orszulak.keyring	Einfach schöner oder wunderschön einfacher OTP-Generator.
+me.ppvan.psequel	Führen Sie Ihre SQL-Abfrage aus
+me.sanchezrodriguez.passes	Verwalten Sie Ihre digitalen Pässe
+me.simakis.dropboxignore	Es geht um die fehlende .dropboxignore-Datei.
+me.timschneeberger.GalaxyBudsClient	Inoffizieller Galaxy Buds Manager für Windows und Linux
+me.timschneeberger.jdsp4linux	Open-Source-Audioeffektprozessor für Pipewire
+ml.mdwalters.EightBall	Treffen Sie Entscheidungen einfach
+ml.mdwalters.Lemonade	Verfolgen Sie die Diskussionen auf Lemmy
+ml.prevete.Daty	Kostenloser Wikidata-Editor.
+mobi.snowball.Snowball	Ein neuartiges Speed-Run-Spiel, das einem Plattform-Loop-/Buzz-Wire-Spiel ähnelt
+moe.clover.mm3d	3D-Modelleditor und Animator für Spiele
+moe.karaokes.mugen	Karaoke-Session-Manager und Spieler
+moe.tundra.Tundra	Aktualisieren Sie Ihre Anime-Listen automatisch
+mx.pwmc.Svgvi	SVG-Viewer und Editor mit XML-Deklarationen
+net._86box._86Box	Ein Emulator für klassische IBM-PC-Klone
+net.agalwood.Motrix	Ein voll ausgestatteter Download-Manager
+net.ankiweb.Anki	Leistungsstarke, intelligente Lernkarten
+net.bartkessels.getit	Senden Sie HTTP-Anfragen an API-Endpunkte
+net.baseart.Glide	Spielen Sie Filme und Audiodateien ab
+net.biniou.LeBiniou	Benutzerfreundliches, leistungsstarkes Musikvisualisierungs-/VJing-Tool
+net.blix.BlueMail	BlueMail E-Mail- und Kalender-App
+net.blockattack.game	Ein rasantes Match-3/Blockfall-Spiel
+net.blockbench.Blockbench	Blockbench – Ein kompakter 3D-Modelleditor
+net.blockout.BlockOutII	Eine kostenlose Adaption des ursprünglichen BlockOut-Spiels
+net.blumia.pineapple-pictures	Bildbetrachter
+net.brinkervii.grapejuice	Ein Launcher für Roblox Player und Roblox Studio
+net.cebix.basilisk	Ein 68k-Macintosh-Emulator
+net.christianbeier.Gromit-MPX	Gromit-MPX ist ein Tool zum Erstellen von Anmerkungen auf dem Bildschirm
+net.christianbeier.MultiVNC	Plattformübergreifender Multicast-fähiger VNC-Viewer
+net.codeindustry.MasterPDFEditor	PDF-Dokumente anzeigen, erstellen, ändern, signieren, scannen, OCR und drucken
+net.corluma.Corluma	Steuern Sie Philips Hues, LIFX, Nanoleafs und Arduinos.
+net.cozic.joplin_desktop	Open-Source-Anwendung für Notizen und Aufgaben
+net.crossfireatlas.crossfire	Roguelike-Mehrbenutzer-Rollenspiel
+net.cubers.assault.AssaultCube	Schneller Arcade-Ego-Shooter
+net.daase.journable	Ein einfaches Bullet Journal
+net.danigm.loop	Eine einfache Audio-Loop-Maschine für GNOME
+net.danigm.timetrack	Eine Zeiterfassung für GNOME
+net.darkradiant.DarkRadiant	3D-Level-Editor für The Dark Mod und Doom 3
+net.davidotek.pupgui2	Installieren Sie Wine- und Proton-basierte Kompatibilitätstools
+net.dengine.Doomsday	Verbesserte Quellportierung von Doom, Heretic und Hexen
+net.devolutions.RDM	Zentralisieren, verwalten und sichern Sie Remote-Verbindungen
+net.displaycal.DisplayCAL	Displaykalibrierung und Profilierung mit Fokus auf Genauigkeit und Vielseitigkeit
+net.drawpile.drawpile	Gemeinsames Zeichnen
+net.epson.epsonscan2	Software für Epson-Scanner und Multifunktionsdrucker
+net.fasterland.converseen	Ein Batch-Bildprozessor
+net.filebot.FileBot	Der ultimative TV- und Film-Renamer
+net.freerct.FreeRCT	Strategiespiel für Themenparks
+net.fsuae.FS-UAE	FS-UAE Amiga-Emulator
+net.gaijin.WarThunder	War Thunder ist das umfassendste kostenlose, plattformübergreifende MMO-Militärspiel.
+net.giuspen.cherrytree	Hierarchisches Notieren
+net.goatattack.goatattack	Multiplayer-Pixel-Art-Shooter-Spiel
+net.gradator.gtkatlantic	Ein Spiel wie Monopoly
+net.granjow.slowmovideo	slowmoVideo ist ein OpenSource-Programm, das aus Ihrem Filmmaterial Zeitlupenvideos erstellt.
+net.gwyddion.Gwyddion	Programm zur Visualisierung und Analyse von SPM-Daten (Rastersondenmikroskopie).
+net.hovancik.Stretchly	Die Pausen-Erinnerungs-App
+net.huitsi.ParallelOverhead	Endloses Läuferspiel
+net.imaginaryinfinity.Squiid	Führen Sie fortgeschrittene algebraische und RPN-Berechnungen durch
+net.jami.Jami	Datenschutzorientierte Sprach-, Video-, Chat- und Konferenzplattform
+net.jammr.jammr	Spielen Sie mit Musikern über das Internet
+net.jenyay.Outwiker	Persönliches Wiki und Gliederung.
+net.kirgroup.confy	Viewer für Konferenzpläne
+net.krafting.Playlifin	Synchronisieren Sie YouTube-Wiedergabelisten mit Jellyfin
+net.krafting.PlaylifinVoyager	Übertragen Sie Wiedergabelisten zu/von Jellyfin
+net.krafting.PleasureDVR	DVR für die Chaturbate-Website
+net.kubux.Muehle	Spielen Sie eine Partie Nine Men's Morris.
+net.kuribo64.melonDS	Nintendo DS- und DSi-Emulator
+net.kvirc.KVIrc	KVIrc ist ein kostenloser portabler IRC-Client
+net.launchpad.Gnuclad	Cladogramm-Baumgenerator
+net.line72.campcounselor	Bandcamp.com Wunschliste-Manager
+net.longturn.freeciv21	Freeciv21 – Freeciv für das 21. Jahrhundert
+net.lugsole.bible_gui	Bibel-App, die mehrere Übersetzungen und Sprachen unterstützt
+net.lutris.Lutris	Die Plattform zur Archivierung von Videospielen
+net.mancubus.SLADE	Es ist ein Doom-Editor
+net.mediaarea.AVIMetaEdit	Einbetten, Validieren und Exportieren der Metadaten von AVI-Dateien
+net.mediaarea.BWFMetaEdit	Einbetten, Validieren und Exportieren von BWF-Dateimetadaten
+net.mediaarea.DVAnalyzer	Analysieren Sie DV-Streams und melden Sie Fehler
+net.mediaarea.MediaConch	Implementierungsprüfer, Richtlinienprüfer, Reporter und Fixer
+net.mediaarea.MediaInfo	Bequeme einheitliche Anzeige der relevantesten technischen Daten und Tag-Daten für Video- und Audiodateien
+net.mediaarea.MOVMetaEdit	Betten Sie Universal Ad ID-Metadaten in MOV- oder MP4-Dateien ein und bearbeiten Sie sie
+net.mediaarea.QCTools	Qualitätskontrolltools für die Videokonservierung
+net.meijn.onvifviewer	Netzwerkkameras mittels ONVIF-Protokoll ansehen und steuern
+net.meshlab.MeshLab	Kostenlose und Open-Source-Verarbeitung und Bearbeitung von 3D-Dreiecksnetzen
+net.minetest.Minetest	Mehrspieler-Sandkastenspiel mit unendlichen Blockwelten
+net.mkiol.SpeechNote	Notizen machen, lesen und übersetzen mit Offline-Speech-to-Text, Text-to-Speech und maschineller Übersetzung
+net.mullvad.MullvadBrowser	Befreien Sie das Internet von Massenüberwachung
+net.natesales.Aviator	Ihr Video-Copilot: AV1/OPUS Video-Encoder
+net.nokyan.Resources	Systemressourcen und Prozesse überwachen
+net.olofson.KoboDeluxe	2D-Scrolling-Shooter für Dritte
+net.openra.OpenRA	Neuinterpretation früher Westwood-Echtzeitstrategiespiele
+net.oz9aec.Gpredict	Echtzeit-Satellitenverfolgungs- und Umlaufbahnvorhersageprogramm
+net.pcsx2.PCSX2	PlayStation 2-Emulator
+net.peercoin.peercoin-qt	Peercoin, eine grüne Kryptowährung für eine nachhaltige Zukunft.
+net.pioneerspacesim.Pioneer	Ein Spiel voller einsamer Weltraumabenteuer
+net.pistegamez.PekkaKana2	Jump'n'Run-Spiel im Geiste alter klassischer Plattformspiele
+net.poedit.Poedit	Einfacher Übersetzungseditor
+net.puddletag.puddletag	Ein leistungsstarker ID3-Tag-Editor
+net.purrdata.PurrData	Eine visuelle Open-Source-Programmiersprache für Multimedia, basierend auf Pure Data
+net.qsl.QSSTV	Programm zum Empfangen und Senden von SSTV und HAMDRM
+net.redeclipse.RedEclipse	Ego-Shooter mit agilem Gameplay und integriertem Editor
+net.retrodeck.retrodeck	RetroDECK bietet eine Umgebung zum Katalogisieren und Spielen Ihrer Retro-Spiele direkt auf Ihrem Steam Deck
+net.rpcs3.RPCS3	Quelloffener Sony PlayStation 3-Emulator
+net.rpdev.OpenTodoList	Todo-Liste und Notizanwendung
+net.runelite.RuneLite	RuneLite OSRS-Client
+net.sapples.LiveCaptions	Live-Untertitel für den Desktop
+net.scribus.Scribus	Open-Source-Seitenlayout und Desktop Publishing (DTP)
+net.seamly.seamly2d	Schnittmuster-Design-Software
+net.sf.fuse_emulator	Sinclair ZX Spectrum Emulator
+net.sf.metronomek	Trivial wirkendes Metronom mit natürlichen Klängen und raffinierten Möglichkeiten
+net.sf.nootka	Anwendung zum Erlernen der klassischen Partiturnotation
+net.sf.VICE	Vielseitiger Commodore-Emulator
+net.shrew.ike.qikea	Anwendung zum Verwalten von Remote-Site-Konfigurationen
+net.sonic_pi.SonicPi	Ein codebasiertes Tool zur Musikerstellung und -aufführung
+net.sonobus.SonoBus	Kostenloses und Open-Source-Netzwerk-Audio-Streaming
+net.sourceforge.artha.Artha	Der offene Thesaurus
+net.sourceforge.atanks	Rundenbasiertes Artillerie-Strategiespiel
+net.sourceforge.audmes.audmes	Audiomesssystem
+net.sourceforge.btanks	Ein unterhaltsames Scrollspiel mit Kampfpanzern
+net.sourceforge.Chessx	Kostenlose Schachdatenbank
+net.sourceforge.chromium-bsu	Rasanter Weltraum-Shooter im Arcade-Stil mit Top-Scrolling
+net.sourceforge.dmidiplayer	Drumstick-Multiplattform-MIDI-Dateiplayer
+net.sourceforge.DuneLegacy	Eine moderne Neuimplementierung von Dune II
+net.sourceforge.efaxgtk	Faxen mit Linux/Unix
+net.sourceforge.electrip.Electrip	Steuere deine Modellbahn mit dem Gamepad!
+net.sourceforge.ExtremeTuxRacer	Hochgeschwindigkeits-Arktis-Rennspiel basierend auf Tux Racer
+net.sourceforge.Fillets	Puzzlespiel mit 70 Levels
+net.sourceforge.fretsonfire	Frets on Fire ist ein Spiel mit musikalischem Geschick und schnellen Fingern. Ziel des Spiels ist es, möglichst genau Gitarre mit der Tastatur zu spielen.
+net.sourceforge.fspclient	FTP-ähnliche Schnittstelle für FSP
+net.sourceforge.GrandOrgue	Pfeifenorgelsimulator
+net.sourceforge.Hugin	Ein Panorama-Fotohefter und mehr
+net.sourceforge.jpdftweak.jPdfTweak	Schweizer Taschenmesser für PDF-Dateien
+net.sourceforge.Kino	Nichtlinearer Kino DV-Videoeditor für die GNU/Linux- und BSD-Plattformen
+net.sourceforge.Klavaro	Ein Tutor für Touch-Schreiben
+net.sourceforge.kmetronome	Drumstick-MIDI-Metronom basierend auf dem ALSA-Sequenzer
+net.sourceforge.kmidimon	Drumstick MIDI Monitor ist ein MIDI-Monitor für Linux mit ALSA-Sequenzer
+net.sourceforge.lgames.LBreakoutHD	Arkanoid/Breakout ähnliches Spiel
+net.sourceforge.lgames.LGeneral	Rundenbasierte Strategiespiel-Engine (wie Panzer General)
+net.sourceforge.lgames.LPairs2	Klassisches Memory-Spiel
+net.sourceforge.lgames.LTris	Geschicklichkeitsspiel mit fallenden Blöcken
+net.sourceforge.Lifeograph	Digitales Tagebuch und Notizen machen
+net.sourceforge.liferea	RSS-Feed-Reader
+net.sourceforge.mars-game	2D-Weltraum-Shooter mit tollen visuellen Effekten
+net.sourceforge.mcomix	Comic- und Allzweck-Bildbetrachter
+net.sourceforge.molsketch	Editor für 2D-Molekülstrukturen
+net.sourceforge.OpenLieroX	Side-Scrolling-Shooter, in dem Sie Würmer steuern, die mit einer Reihe von Waffen bewaffnet sind
+net.sourceforge.osmo	Persönlicher Organisator
+net.sourceforge.paulstretch	Dies ist ein Programm zur extremen Klangdehnung (z. B. 50x) und zum Anwenden von Spezialeffekten durch spektrale Glättung der Klänge.
+net.sourceforge.pdfchain	PDF Chain ist eine grafische Benutzeroberfläche für das PDF Toolkit (PDFtk)
+net.sourceforge.Pdfedit	PDF-Editor mit der Möglichkeit, den Baum der Roh-PDF-Objekte zu durchsuchen/bearbeiten
+net.sourceforge.projectM	Musikvisualisierer, der 3D-beschleunigtes iteratives bildbasiertes Rendering verwendet
+net.sourceforge.qtpfsgui.LuminanceHDR	Erstellen Sie HDR-Bilder
+net.sourceforge.QtSpim	Ein eigenständiger Simulator, der MIPS32-Programme ausführt
+net.sourceforge.quakespasm.Quakespasm	Eine moderne Portierung der ursprünglichen Quake-Engine
+net.sourceforge.Ri-li	Kinderspiel, eine Spielzeug-Holzlokomotive fahren
+net.sourceforge.roccat.roccat-tools	Anwendungen zum Konfigurieren von Roccat-Geräten.
+net.sourceforge.scidavis	Anwendung zur wissenschaftlichen Datenanalyse und Visualisierung
+net.sourceforge.SDL-Ball	Brick-Breaking-Spiel mit hübscher Grafik
+net.sourceforge.squirrel_sql	SQuirreL SQL Client ist eine GUI, mit der Sie die Struktur einer JDBC-kompatiblen Datenbank anzeigen, die Daten in Tabellen durchsuchen, SQL-Befehle ausgeben usw. können. Unterstützt MySQL, PostgreSQL, MariaDB und SQLite.
+net.sourceforge.Teo	Thomson TO8D-Emulator
+net.sourceforge.tomatoes.IHaveNoTomatoes	Spiel zum Zertrümmern von Tomaten
+net.sourceforge.torcs	Der offene Rennwagensimulator
+net.sourceforge.TuxFootball	Ein großartiges 2D-Fußballspiel (manchmal auch Football genannt).
+net.sourceforge.uhexen2.uhexen2	Ein modernisierter Quellhafen von Hexen II
+net.sourceforge.VMPK	Virtuelle MIDI-Klaviertastatur: ein MIDI-Ereignisgenerator und -empfänger
+net.sourceforge.wavbreaker	GUI-Tool zum Teilen von WAV-, MP2- und MP3-Dateien
+net.sourceforge.wxEDID	Lesen und Bearbeiten von EDID-Dateien (Extended Display Identification Data).
+net.stabyourself.nottetris2	Physikbasiertes Tetris
+net.studio08.xbplay	Remote-Play von Ihrer Konsole oder xCloud
+net.supertuxkart.SuperTuxKart	Ein Open-Source 3D-Kart-Rennspiel
+net.tedomum.CapBattleship	Schlachtschiffspiel mit Piratenthema
+net.unvanquished.Unvanquished	Rasantes Ego-Strategiespiel
+net.veloren.airshipper	Airshipper ist der offizielle Launcher für Veloren.
+net.veloren.veloren	Veloren ist ein in Rust geschriebenes Mehrspieler-Voxel-RPG. Es wurde von Spielen wie Cube World, The Legend of Zelda: Breath of the Wild, Dwarf Fortress und Minecraft inspiriert.
+net.warsow.Warsow	Rasanter 3D-Ego-Shooter
+net.waterfox.waterfox	Ein leichter, kostenloser Open-Source-Webbrowser, der für das moderne Web entwickelt wurde.
+net.werwolv.ImHex	Ein Hex-Editor für Reverse Engineers und Programmierer
+network.bisq.Bisq	Ein dezentrales Bitcoin-Austauschnetzwerk.
+network.koesling.shm-modbus	Eine Sammlung von Tools zur Simulation eines Modbus TCP/RTU-Clients
+network.loki.Session	Privater Messenger
+net.worldofpadman.WoP	Unglaublich sorgfältig gestalteter und farbenfroher Freeware-Spaß-Shooter für junge und junggebliebene Menschen
+net.wz2100.wz2100	Befehlige die Truppen des Projektes in dem Kampf die Welt wieder aufzubauen.
+net.xm1math.Texmaker	Latex-Editor
+net.xmind.XMind	Mindmapping und Brainstorming
+net.xmind.XMind8	Erstaunliches Brainstorming- und Mindmapping-Tool.
+net.zgcoder.skycheckers	Sprenge Feinde von einer Bühne
+nl.brixit.powersupply	Debugger für das Linux-Power-Subsystem
+nl.brixit.wiremapper	Linux-Client für den Pockethernet-Netzwerktester
+nl.g4d.Girens	Sehen Sie sich Ihre Plex-Inhalte an
+nl.hjdskes.gcolor3	Wählen Sie Farben vom Farbrad oder dem Bildschirm
+nl.lostboys.rollemup	Klassisches Flipperspiel aus den späten 90ern.
+nl.openoffice.bluefish	Texteditor mit vielen Web- und Softwareentwicklungs-Extras
+nl.sarine.gpx-viewer	Ein einfacher GPX-Viewer
+nl.v0yd.Capsule	Medikamenten-Tracker
+no.mifi.losslesscut	Sparen Sie Platz, indem Sie Video- und Audiodateien schnell und verlustfrei zuschneiden
+nz.mega.MEGAsync	Einfache automatische Synchronisierung zwischen Ihren Computern und Ihrem MEGA Cloud Drive.
+one.ablaze.floorp	Floorp-Browser
+one.alynx.FlipClock	Ein von SDL2 unterstützter Flip-Clock-Bildschirmschoner.
+one.flipperzero.qFlipper	Grafische Desktop-Anwendung zum Aktualisieren der Flipper Zero-Firmware über den PC
+one.jiri.easydict-gtk	Der erste Open-Source-Übersetzer, der auch mit Wörterbuchdaten vollständig offen ist.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	ATHN-Browser für Gnome
+org._2006Scape.Launcher	2006Scape ist ein kostenloser Runescape 2006-Emulationsserver
+org._2009scape.Launcher	Launcher für Runescape 2009-Emulationsserver
+org.adishatz.syncpasswd	Passwörter aktualisieren
+org.alienarena.alienarena	Ultraschnelles Arena-FPS
+org.aliflang.lang	Alif (ألف), arabische Programmiersprache
+org.altaqwaa.Altaqwaa	Koran, Adhkar und Gebetszeiten
+org.americanmonk.TipitakaPaliReader	Dies ist eine App, mit der Sie die Texte des Theravāda-Buddhismus Tipitaka Pāḷi lesen und mühelos Definitionen erhalten können
+org.apache.directory.studio	Eine vollständige Verzeichnis-Tooling-Plattform
+org.apache.jmeter	Anwendung für Lasttests und Leistungsmessung
+org.apache.netbeans	NetBeans – Apache Java IDE. Passt die Teile zusammen
+org.ardour.Ardour	Digitale Audio-Workstation
+org.armagetronad.ArmagetronAdvanced	3D-Lightcycle-Spiel
+org.arrl.trustedqsl	Validierungstool für Amateurfunkkontakte
+org.artsoft.rocksndiamonds	Edelsteinsammel-Puzzlespiel
+org.asc_hq.ASC	Rundenbasiertes Strategiespiel
+org.atheme.audacious	Leichter Audioplayer
+org.audacityteam.Audacity	Audacity ist die weltweit beliebteste Audiobearbeitungs- und Aufnahme-App
+org.audiveris.audiveris	Anwendung zur optischen Musikerkennung (OMR).
+org.avidemux.Avidemux	Mehrzweck-Software zur Videobearbeitung und -verarbeitung
+org.b3log.siyuan	Ein datenschutzorientiertes persönliches Wissensmanagementsystem, das feinkörnige Referenzen auf Blockebene und Markdown WYSIWYG unterstützt
+org.beeref.BeeRef	Ein einfacher Referenzbildbetrachter
+org.bino3d.bino	3D-Videoplayer
+org.bionus.Grabber	Sehr anpassbarer Imageboard-/Booru-Downloader mit leistungsstarken Funktionen zur Dateibenennung
+org.bitbucket.mystery_keeper.VapourSynthEditor	Editor für VapourSynth-Skripte
+org.bitcoincore.bitcoin-qt	Vollständige Validierung von Bitcoin-Peer-to-Peer-Netzwerkknoten, Wallet und GUI
+org.bitfighter.Bitfighter	Multiplayer-Vektorgrafik-Weltraumspiel
+org.blackcoin.blackcoin-more	Echte dezentrale digitale Währung
+org.blackfennec.app	Erweiterbare halbstrukturierte Datenbearbeitungsumgebung
+org.bleachbit.BleachBit	Bereinigt Dateien, um Speicherplatz freizugeben und die Privatsphäre zu wahren
+org.blender.Blender	Kostenlose und Open-Source-3D-Erstellungssuite
+org.bluej.BlueJ	Java-IDE für Einsteiger
+org.bluesabre.MenuLibre	Ein fortschrittlicher FreeDesktop.org-kompatibler Menüeditor
+org.briarproject.Briar	Sicheres Messaging, überall
+org.btchd.btchd-qt	Stellen Sie eine Verbindung zum BitcoinHD P2P-Netzwerk her
+org.buhocms.BuhoCMS	Ein lokales CMS für statische Site-Generatoren
+org.bunkus.mkvtoolnix-gui	Werkzeuge zum Erzeugen und Bearbeiten von Matroska-Dateien
+org.bzdev.CVRDecode	Decoder für kalifornische digitale COVID-19-Impfstoffaufzeichnungen
+org.bzflag.BZFlag	Ein 3D-Ego-Panzerkampfspiel
+org.caione.GScope	GTK-Schnittstelle zu cscope
+org.chocolate_doom.ChocolateDoom	Konservativer Doom Source Port
+org.chromium.Chromium	Der Webbrowser aus dem Chromium-Projekt
+org.citra_emu.citra	Nintendo 3DS-Emulator
+org.claws_mail.Claws-Mail	Claws Mail ist ein E-Mail-Client (und Newsreader), der auf GTK+ basiert
+org.clementine_player.Clementine	Spielt Musikdateien und Internetradio ab
+org.cloudcompare.CloudCompare	Software zur 3D-Punktwolken- und Netzverarbeitung
+org.cockpit_project.CockpitClient	Verbinden Sie sich über SSH mit Servern mit Cockpit
+org.codeberg.dimkard.glossaico	Anwendung zum Sprachenlernen
+org.codeblocks.codeblocks	IDE für C, C++ und Fortran
+org.contourterminal.Contour	Contour ist ein moderner und tatsächlich schneller, modaler, virtueller Terminalemulator für den täglichen Gebrauch
+org.coolero.Coolero	Coolero ist ein Programm zur Überwachung und Steuerung Ihrer Kühlgeräte
+org.cryptomator.Cryptomator	Plattformübergreifendes, clientseitiges Verschlüsselungstool, optimiert für Cloud-Speicher
+org.cubocore.CoreAction	Eine Seitenleiste mit einigen praktischen Gadgets
+org.cubocore.CoreArchiver	Ein einfaches Dienstprogramm zum Komprimieren/Extrahieren von Dateien
+org.cubocore.CoreFM	Ein einfacher, leichter und benutzerfreundlicher Dateimanager
+org.cubocore.CoreHunt	Ein benutzerfreundliches, schnelles Tool zur Dateisuche
+org.cubocore.CoreImage	Ein einfacher, leichter und benutzerfreundlicher Bildbetrachter
+org.cubocore.CoreInfo	Ein einfacher Metadaten-Viewer für Dateien
+org.cubocore.CoreKeyboard	Eine einfache virtuelle Tastatur mit Wortvorschlägen
+org.cubocore.CorePad	Ein einfacher, leichter, aber leistungsstarker Texteditor
+org.cubocore.CorePaint	Ein einfaches Malwerkzeug
+org.cubocore.CorePDF	Ein einfacher, leichter PDF-Viewer
+org.cubocore.CoreRenamer	Ein einfacher, leichter Batchdatei-Umbenenner
+org.cubocore.CoreShot	Ein einfaches, leichtes Dienstprogramm zur Bildschirmaufnahme für X11
+org.cubocore.CoreStats	Ein einfacher, leichter Systemressourcen-Viewer
+org.cubocore.CoreTime	Ein zeitbezogener Task-Manager
+org.cvfosammmm.Porto	Bearbeiten Sie Jupyter-Notizbücher auf dem Desktop
+org.cvfosammmm.Setzer	LaTeX-Editor mit vielen nützlichen Funktionen
+org.cznic.Datovka	Eine kostenlose grafische Benutzeroberfläche für Datenboxen
+org.d3cod3.Mosaic	Eine auf OpenFrameworks basierende Visual Patching Creative-Coding-Plattform
+org.darkdimension.rue	Ein Kartenspiel über Schlussfolgerungen, Liebe und Bedauern.
+org.darktable.Darktable	Organisiere und entwickle Bilder von Digitalkameras
+org.dash.electrum.electrum_dash	Leichter Dash-Client
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+org.debian.TuxPuck	3D-Shufflepuck-Pong-Spiel
+org.deidentifier.arx	ARX-Datenanonymisierungstool
+org.deluge_torrent.deluge	Ein voll ausgestatteter BitTorrent-Client
+org.denemo.Denemo	Erstellen Sie Musikpartituren
+org.desmume.DeSmuME	Nintendo DS-Emulator
+org.develz.Crawl	Roguelike-Dungeon-Erkundungsspiel
+org.dhewm3.Dhewm3	dhewm 3 ist ein Doom 3 GPL-Quellport
+org.diasurgical.DevilutionX	Diablo/Hellfire-Quellport für moderne Betriebssysteme
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce-Emulator
+org.duckstation.DuckStation	PlayStation-Emulator
+org.dupot.beatmatchtopass	Schlage sie alle
+org.dupot.littleadventure	RPG Pixel Art kleines Spiel
+org.dust3d.dust3d	Ein schnelles 3D-Modellierungstool
+org.easycoding.TunedSwitcher	Einfaches Dienstprogramm zur Manipulation des Tuned-Dienstes
+org.eclipse.iot.fourdiac.Ide	Eine OpenSource IEC 61499-kompatible SPS-IDE
+org.eclipse.Java	Die wesentlichen Tools für jeden Java-Entwickler, einschließlich einer Java-IDE, eines Git-Clients, eines XML-Editors, einer Maven- und Gradle-Integration
+org.eclipse.Javascript	Die wesentlichen Tools für jeden JavaScript-Entwickler, einschließlich Unterstützung für JavaScript, TypeScript, HTML, CSS, XML, Yaml und Markdown-Sprachen
+org.eclipse.sumo	Eine mikroskopische Verkehrssimulation
+org.electrum.electrum	Leichter Bitcoin-Client
+org.emilien.Password	Starkes Passwort für maximale Sicherheit
+org.emilien.SpaceLaunch	Wann steigt die nächste Rakete in den Himmel?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(s)-Testtool
+org.endlessos.Key	Kuratiertes Lernen jederzeit und überall
+org.enjoyingfoss.FOSStriangulator	Ein Tool zum Erstellen triangulierter Illustrationen aus Fotos
+org.entangle_photo.Manager	Kamera-Fernsteuerung und Aufnahme
+org.equeim.Tremotesf	Remote-GUI für den Transmission BitTorrent-Client
+org.eu.encom.spectral	IM-Client für das Matrix-Protokoll
+org.eu.getcatalyst.Catalyst	Ein leichter und benutzerorientierter Webbrowser, der von Electron unterstützt wird
+org.eu.wabarc.wayback	Ein selbst gehostetes Toolkit zum Archivieren von Webseiten im Internet Archive, archive.today, IPFS und lokalen Dateisystemen
+org.exaile.Exaile	Audiodateien und -streams wiedergeben, verwalten und Tags bearbeiten
+org.exbin.BinEd	Binär-/Hex-Editor
+org.expresslrs.ExpressLRSConfigurator	Plattformübergreifendes Konfigurationstool für die ExpressLRS-Firmware
+org.eyecreate.qiflora	Mobilfreundliche Anwendung zur Überwachung von Pflanzen mit Mi Flora-Geräten.
+org.eyecreate.vehiclevoyage	Verfolgen Sie den Wartungsverlauf des Fahrzeugs.
+org.famistudio.FamiStudio	FamiStudio NES-Musikeditor
+org.fcitx.Fcitx5	Eingabemethode
+org.fdroid.Repomaker	Erstellen Sie ganz einfach F-Droid-Repos
+org.featherwallet.Feather	Monero-Desktop-Wallet
+org.fedoraproject.MediaWriter	Ein Werkzeug, um einen Live-USB-Datenträger mit einer Ausgabe von Fedora zu erzeugen
+org.ferdium.Ferdium	Messenger für den Desktop
+org.filezillaproject.Filezilla	Schneller und zuverlässiger FTP-Client
+org.filmulator.Filmulator	Eine GUI-Adaption von Filmulator, einem Filmemulator mit allen positiven und keinen negativen Aspekten
+org.firestormviewer.FirestormViewer	Client für den Zugriff auf virtuelle 3D-Welten
+org.fkoehler.KTailctl	Eine GUI für das Tailscale-Mesh-Netzwerk
+org.flameshot.Flameshot	Leistungsstarke und einfach zu bedienende Screenshot-Software
+org.flarerpg.Flare	2D-Action-Rollenspiel
+org.flathub.flatpak-external-data-checker	Ein Tool zur Überprüfung, ob die in Flatpak-Manifesten verwendeten externen Daten noch aktuell sind
+org.flatpak.qtdemo	Flatpak-Entwicklerdemo
+org.flightgear.FlightGear	Ein kostenloser und hochentwickelter Flugsimulator
+org.flozz.calcleaner	Ein einfaches grafisches Tool zum Löschen alter Ereignisse aus CalDAV-Kalendern
+org.flozz.yoga-image-optimizer	Konvertieren und optimieren Sie JPEG-, PNG- und WebP-Bilder
+org.flycast.Flycast	Sega Dreamcast-, Naomi- und Atomiswave-Emulator
+org.fontforge.FontForge	Ein Font-Editor
+org.freac.freac	Audiokonverter und CD-Ripper
+org.free_astro.siril	Programm zur (Vor-)Verarbeitung astronomischer Bilder
+org.freecadweb.FreeCAD	Ein parametrischer Open-Source-3D-CAD-Modellierer
+org.freeciv.gtk322	Gtk+-3.22-basierter Client für das Freeciv-Spiel
+org.freeciv.qt	Qt-basierter Client für das Freeciv-Spiel
+org.freecol.FreeCol	FreeCol ist ein rundenbasiertes Strategiespiel.
+org.freedesktop.adriconf	Erweiterter DRI-Konfigurator
+org.freedesktop.appstream.cli	Ein Dienstprogramm zum Arbeiten mit AppStream-Metadaten
+org.freedesktop.appstream.generator	Ein schneller AppStream-Metadatengenerator
+org.freedesktop.appstream-glib	Validierung und Tools für AppStream-Dateien
+org.freedesktop.Bustle	Zeichnen Sie Sequenzdiagramme der D-Bus-Aktivität
+org.freedesktop.dabrain34.GstPipelineStudio	Zeichnen Sie Ihre eigene GStreamer-Pipeline ...
+org.freedesktop.dabrain34.squared	Versuchen Sie, das Quadrat mit Zahlen zu füllen
+org.freedesktop.fwupd	Aktualisieren Sie die Gerätefirmware unter Linux
+org.freedesktop.GstDebugViewer	Untersuchen Sie die GStreamer-Debug-Protokollinformationen
+org.freedesktop.Piper	Konfigurationsprogramm für Gaming-Mäuse
+org.freedesktop.Tuhi	Dienstprogramm zum Herunterladen von Zeichnungen aus der Wacom Ink-Gerätereihe
+org.freedownloadmanager.Manager	FDM ist ein leistungsstarker moderner Download-Beschleuniger und Organizer.
+org.freefilesync.FreeFileSync	Visueller Ordnervergleich und Synchronisierung
+org.freeorion.FreeOrion	Rundenbasiertes Computerspiel „Weltraumimperium und galaktische Eroberung“ (4X).
+org.freeplane.App	Mind Mapping, Wissensmanagement, Projektmanagement. Entwickeln, organisieren und kommunizieren Sie Ihre Ideen und Ihr Wissen auf die effektivste Weise
+org.frescobaldi.Frescobaldi	Musikredakteur von LilyPond
+org.fritzing.Fritzing	Elektronisches Designtool
+org.frozen_bubble.frozen-bubble	Ein süchtig machendes Spiel über gefrorene Blasen
+org.gabmus.gfeeds	Nachrichtenleser für GNOME
+org.gabmus.giara	Eine Anwendung für Reddit
+org.gabmus.hydrapaper	Hintergrundbild-Manager mit Unterstützung für mehrere Bildschirme
+org.gabmus.notorious	Tastaturzentrierte Notizen
+org.gabmus.swatch	Farbpalettenverwaltung
+org.gabmus.unifydmin	GNOME-App zur einfachen Steuerung mehrerer heterogener Server
+org.gabmus.whatip	Infos über Ihre IP
+org.gahshomar.Gahshomar	Ein persischer/Jalali/Farsi-Kalender
+org.gajim.Gajim	Ein vollwertiger XMPP-Chat-Client
+org.gaphor.Gaphor	Simple UML and SysML modeling tool
+org.geany.Geany	A fast and lightweight IDE
+org.geeqie.Geeqie	Ein leichtgewichtiger Bildbetrachter
+org.genivi.DLTViewer	Diagnostic Log and Trace viewing program
+org.geogebra.GeoGebra	Dynamic mathematics software
+org.gephi.Gephi	The Open Graph Viz Platform
+org.getmonero.Monero	Monero: the secure, private, untraceable cryptocurrency
+org.getoutline.OutlineClient	Access to the free and open Internet
+org.getoutline.OutlineManager	Set up your Outline Servers on the cloud and manage who has access to the server
+org.getzola.zola	A fast static site generator in a single binary with everything built-in
+org.ghidra_sre.Ghidra	Ghidra Software Reverse Engineering Suite
+org.gimp.GIMP	Bilder erstellen und Fotografien bearbeiten
+org.gmusicbrowser.gmusicbrowser	Jukebox for large collection of music
+org.gna.Warmux	A 2D game where funny characters launch funny weapons
+org.gnode.NixView	Viewer for nix datafiles
+org.gnome.Aisleriot	Viele verschiedene Solitaire-Spiele spielen
+org.gnome.atomix	Moleküle aus einzelnen Atomen bauen
+org.gnome.baobab	Ordnergrößen und freien Festplattenplatz analysieren
+org.gnome.Boxes	Virtualisierung einfach gemacht
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	Eine integrierte Entwicklungsumgebung für GNOME
+org.gnome.Calculator	Arithmetische, wissenschaftliche und finanztechnische Berechnungen durchführen
+org.gnome.Calendar	Kalender für GNOME
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.Characters	Zeichentabelle-Anwendung
+org.gnome.Cheese	Ein Programm, um Bilder und Videos mit einer Webcam aufzunehmen und lustige graphische Effekte hinzuzufügen
+org.gnome.Chess	Das klassische 2-Spieler-Brettspiel Schach spielen
+org.gnome.clocks	Behalten Sie die Zeit im Auge
+org.gnome.ColorViewer	Installierte Farbprofile überprüfen und vergleichen
+org.gnome.Connections	Andere entfernte Bildschirme ansehen und nutzen
+org.gnome.Contacts	Ihre Kontakte verwalten
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	Schützen Sie sich vor Datenverlust
+org.gnome.design.AppIconPreview	Ein Programm, um Anwendungssymbole zu gestalten
+org.gnome.design.Contrast	Kontrast zwischen zwei Farben vergleichen
+org.gnome.design.Emblem	Erzeugen Sie Projekt-Avatare
+org.gnome.design.IconLibrary	Stilisierte Symbole für Ihre Anwendungen
+org.gnome.design.Lorem	Platzhaltertext generieren
+org.gnome.design.Palette	Werkzeug für Farbpalette
+org.gnome.design.SymbolicPreview	Symbolik leicht gemacht
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	Ein Entwicklerwerkzeug zum Durchsuchen der API-Dokumentation
+org.gnome.dspy	Ein D-Bus-Erkunder für GNOME
+org.gnome.EasyTAG	Metadaten von Audio-Datei bearbeiten
+org.gnome.eog	Bilder betrachten und drehen
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Im Internet surfen
+org.gnome.Evince	Dokumentenbetrachter für gängige Dokumentformate
+org.gnome.Evolution	Ihre E-Mails, Kontakte und Terminplanung verwalten
+org.gnome.Extensions	Ihre GNOME-Erweiterungen verwalten
+org.gnome.FileRoller	Öffnen, Erstellen und Verändern komprimierter Archivdateien
+org.gnome.Firmware	Firmware auf Geräten installieren
+org.gnome.five-or-more	Farbige Kugeln durch Formieren von Linien aus dem Spielbrett entfernen
+org.gnome.FontManager	Eine einfache Anwendung zur Verwaltung von Schriftarten für Gtk+ Desktop-Umgebungen
+org.gnome.font-viewer	Schriftarten Ihres Systems betrachten
+org.gnome.Four-in-a-row	Im Wettkampf Reihen gleicher Farben anordnen
+org.gnome.Fractal	Matrix-Gruppenkommunikations-Anwendung
+org.gnome.frogr	Ein Flickr-Uploader für GNOME
+org.gnome.gbrainy	gbrainy is a game to train memory, arithmetical, verbal and logical skills.
+org.gnome.Geary	E-Mails senden und empfangen
+org.gnome.gedit	Texteditor
+org.gnome.Genius	Genius is a general purpose calculator program
+org.gnome.GHex	Inhalte von Dateien untersuchen und bearbeiten
+org.gnome.gitg	Eine grafische Oberfläche für git
+org.gnome.gitlab.bazylevnik0.Convolution	Maze escaping game
+org.gnome.gitlab.Cowsay	Cowsay, a state of the art Cowsay generator using GNOME conventions
+org.gnome.gitlab.dqpb.GMetronome	Ein praktischer Taktmesser für Komponisten und Musiker
+org.gnome.gitlab.ilhooq.Bookup	Simplify your note-taking with Markdown syntax
+org.gnome.gitlab.johannesjh.favagtk	Do your finances using fava and beancount
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.gitlab.somas.Apostrophe	Markdown mit Stil bearbeiten
+org.gnome.gitlab.YaLTeR.Identity	Bilder und Videos vergleichen
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Videos schnell trimmen
+org.gnome.glabels-3	Erstellen von Etiketten, Visitenkarten und Medien-Covern
+org.gnome.Glade	Erstellen oder Öffnen von grafischen Oberflächen für GTK-Anwendungen
+org.gnome.Gnote	Eine einfache Notizzettel-Anwendung
+org.gnome.GTG	Persönlicher Aufgaben- und TODO-Listen-Organisator
+org.gnome.gThumb	Ihre Bilder betrachten und katalogisieren
+org.gnome.Gtranslator	Anwendungen und Bibliotheken übersetzen und an lokale Gegebenheiten anpassen
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Das Hitori-Puzzle spielen
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Verschieben Sie Blöcke, um das Puzzle zu lösen
+org.gnome.LightsOff	Schalten Sie alle Lichter aus
+org.gnome.Logs	Detaillierte Ereignisprotokolle des Systems ansehen
+org.gnome.Lollypop	Spiele und organisiere deine Musiksammlung
+org.gnome.Loupe	Bilder betrachten
+org.gnome.Mahjongg	Finden Sie übereinstimmende Kacheln und leeren Sie das Brett
+org.gnome.Maps	Orte in der ganzen Welt finden
+org.gnome.meld	Vergleichen und Zusammenführen von Dateien
+org.gnome.Mines	Versteckte Minen aus einem Minenfeld räumen
+org.gnome.moserial	Serielles Terminal
+org.gnome.Music	Geben Sie Ihre Musik wieder und verwalten Sie Ihre Sammlung
+org.gnome.NautilusPreviewer	Verschiedene Arten von Dateien schnell ansehen
+org.gnome.NetworkDisplays	Den Desktop auf netzwerkfähigen Bildschirmen anzeigen
+org.gnome.Nibbles	Einen Wurm in einem Labyrinth herumführen
+org.gnome.Notes	Notizen für GNOME
+org.gnome.OCRFeeder	Die gesamte OCR-Suite
+org.gnome.OfficeRunner	Schließen Sie den Laptop-Deckel und rennen Sie los
+org.gnome.Photos	In GNOME auf Ihre Fotos zugreifen, diese verwalten und freigeben
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Hören Sie Ihre Lieblingssendungen
+org.gnome.Polari	Mit anderen Leuten über IRC kommunizieren
+org.gnome.PowerStats	Energiesparfunktionen überwachen
+org.gnome.Quadrapassel	Fallende Blöcke zusammenfügen
+org.gnome.Recipes	GNOME kocht gerne
+org.gnome.Reversi	Einen Wettstreit um die Brettherrschaft in einer klassischen oder umgekehrten Variante von Reversi führen
+org.gnome.Rhythmbox3	Ihre Musiksammlung wiedergeben und organisieren
+org.gnome.Robots	Meiden Sie die Roboter und lassen Sie sie ineinanderkrachen
+org.gnome.seahorse.Application	Verwalten Sie Ihre Passwörter und Schlüssel
+org.gnome.Shotwell	Digitaler Foto-Organisator
+org.gnome.SimpleScan	Eine digitale Kopie Ihrer Fotos und Dokumente erstellen
+org.gnome.Snapshot	Bilder und Videos aufnehmen
+org.gnome.Solanum	Arbeits- und Pausenzeit ausgleichen
+org.gnome.SoundJuicer	CD-Ausleser mit einer übersichtlichen Oberfläche und einfachen Einstellungen
+org.gnome.SoundRecorder	Ein einfacher, moderner Tonaufzeichner für GNOME
+org.gnome.Sudoku	Testen Sie Ihre Logik-Fähigkeiten bei diesem Zahlen-Kreuzworträtsel
+org.gnome.SwellFoop	Den Bildschirm durch Entfernen von Gruppen farbiger und geformter Kacheln leeren
+org.gnome.Tali	Rollen Sie die Würfel und erzielen Sie Punkte
+org.gnome.Taquin	Verschieben Sie Kacheln an ihren richtigen Ort
+org.gnome.Tau	Ein GTK-Frontend für den xi Texteditor
+org.gnome.Tetravex	Ordnen Sie Kacheln neu an, um ein Quadrat zu bilden
+org.gnome.TextEditor	Textdateien bearbeiten
+org.gnome.Todo	Verwalten Sie Ihre Aufgaben
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Videos wiedergeben
+org.gnome.TwentyFortyEight	Erlangen Sie die 2048-Kachel
+org.gnome.Weather	Wetterberichte und -vorhersagen anzeigen
+org.gnome.World.Citations	Verwalten Sie Ihre Bibliografie
+org.gnome.World.Iotas	Einfach Notizen machen
+org.gnome.World.PikaBackup	Bewahren Sie Ihre Daten sicher auf
+org.gnome.World.Secrets	Verwalten Sie Ihre Passwörter
+org.gnucash.GnuCash	Finanzverwaltung für Privatanwender und Kleinbetrieben
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	Eine Tabellenkalkulation mit hoher Genauigkeit
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnu.pspp	GNU PSPP ist ein Programm zur statistischen Analyse von Stichproben
+org.godotengine.Godot	Godot game engine editor
+org.godotengine.Godot3	Godot game engine editor
+org.godotengine.Godot3Sharp	Godot game engine editor
+org.godotengine.GodotSharp	Godot game engine editor
+org.goldcoinproject.goldcoin-qt	Discover the Gold Standard of Digital Currency.
+org.goldendict.GoldenDict	Dictionary lookup program
+org.gottcode.Connectagram	Entschlüsselte Wörter in Mustern anordnen
+org.gottcode.CuteMaze	Suchen Sie Ziele in einem Labyrinth
+org.gottcode.FocusWriter	Vollbild-Textverarbeitungsprogramm
+org.gottcode.Gottet	Räum das Spielfeld von fallenden Blöcken
+org.gottcode.Hexalate	Drehen Sie Kreise, um Farben in Übereinstimmung zu bringen
+org.gottcode.Kapow	Verfolgen Sie Ihre Arbeitszeiten an Projekten
+org.gottcode.NovProg	Ein grafisches Programm zum Wörter zählen
+org.gottcode.Peg-E	Sprung zu Heringen, um sie zu beseitigen
+org.gottcode.Simsu	Geben Sie Zahlen ein, um das Rätsel zu lösen
+org.gottcode.Tanglet	Einzelspielervariante von Boggle
+org.gottcode.Tetzle	Puzzlespiel mit Tetromino-Puzzleteilen
+org.gpodder.gpodder	Media aggregator and podcast client
+org.gpodder.gpodder-adaptive	Medienaggregator und Podcast-Client für Mobilgeräte und Desktops
+org.gramps_project.Gramps	Verwaltet genealogische Informationen, organisiert genealogische Forschung und Analyse
+org.greenfoot.Greenfoot	Grünfuß
+org.grisbi.Grisbi	Persönlicher Finanzmanager
+org.groestlcoin.electrum-grs	Leichter Groestlcoin-Client
+org.groestlcoin.groestlcoin-qt	Vollständige Validierung des Peer-to-Peer-Netzwerkknotens, der Wallet und der GUI von Groestlcoin
+org.gtaf.quran	Studieren Sie den Koran durch Wort-für-Wort-Analyse, farbiges Tajweed, Tafsir und Audio
+org.gtimelog.GTimeLog	Behalten Sie unauffällig den Überblick über Ihre Zeit
+org.gtkhash.gtkhash	Berechnet Message Digest oder Prüfsummen
+org.guerinoni.qTsConverter	Ein einfaches Tool zum Konvertieren von QT-Übersetzungsdateien (TS) in ein anderes Format (XLSX/CSV) und umgekehrt.
+org.guitarix.Guitarix	virtuelle vielseitige Verstärkung für Jack/Linux
+org.gustavoperedo.FontDownloader	Installieren Sie Schriftarten aus Online-Quellen
+org.hdfgroup.HDFView	Durchsuchen und bearbeiten Sie HDF-Dateien
+org.hedgewars.Hedgewars	Lustiges zugbasiertes Artilleriespiel mit kämpfenden Igeln!
+org.hikounomizu.HikouNoMizu	Plattformbasiertes Kampfspiel im Anime-Stil
+org.hlwd.sonofman	Bibel in mehreren Sprachen, kostenlos, offline, ohne Werbung, in Englisch, Französisch, Italienisch, Spanisch, Portugiesisch für Terminal.
+org.homelinuxserver.vance.biblereader	Lies das Wort
+org.horizon_eda.HorizonEDA	Ein kostenloses EDA-Paket
+org.hydrogenmusic.Hydrogen	Der moderne Schlagzeugcomputer
+org.icculus.tennix	Multiplayer-Tennisspiel
+org.imitationpickles.barbie	Hilf Barbie, dem Seepferdchen, auf Blasen zum Mond zu schweben
+org.inkscape.Inkscape	Lasteditor
+org.ioquake3.ioquake3	Kostenlose und quake 3-basierte Open-Source-Engine
+org.jabref.jabref	Grafische Java-Anwendung zur Verwaltung von BibTeX- und Biblatex-Datenbanken (.bib).
+org.jacktrip.JackTrip	Verbinde dich mit anderen Musikern und spiele mit ihnen
+org.jamovi.jamovi	Statistische Tabellenkalkulation in Echtzeit
+org.jaspstats.JASP	Standardmäßige statistische Analysen, sowohl klassische als auch bayesianische
+org.jdownloader.JDownloader	Laden Sie das Verwaltungstool herunter
+org.jellyfin.JellyfinServer	Das Free Software Media System
+org.jflap.JFLAP	Prüfung formaler Sprachen
+org.jitsi.jitsi-meet	Jitsi Meet – Sichere, einfache und skalierbare Videokonferenzen
+org.jreleaser.cli	Geben Sie Projekte schnell und einfach mit JReleaser frei
+org.js.nuclear.Nuclear	Ein elektronenbasierter Musikplayer
+org.jupyter.JupyterLab	JupyterLab-Desktopanwendung, basierend auf Electron
+org.karapulse.Karapulse	Karaoke-Player mit integriertem Web-Remote-Client
+org.kde.akregator	Ein Nachrichtensammler
+org.kde.alligator	Nachrichtenbetrachter für Mobilgeräte
+org.kde.angelfish	Webbrowser für mobile Geräte
+org.kde.arianna	EBook-Lesegerät
+org.kde.ark	Archivprogramm
+org.kde.artikulate	Artikulate-Aussprachetrainer
+org.kde.atlantik	Monopoly®-ähnliches Brettspiel
+org.kde.audiotube	Konvergentes YouTube-Musikprogramm
+org.kde.blinken	Spiel zum Gedächtnistraining
+org.kde.bomber	Fliegerbomben-Spiel
+org.kde.bovo	Fünf-Gewinnt-Brettspiel
+org.kde.cantor	Eine KDE-Oberfläche für mathematische Software
+org.kde.choqok	Micro-Blogging-Programm
+org.kde.digikam	Fotoverwaltung
+org.kde.dolphin	Dateiverwaltung
+org.kde.elisa	Schöner, unkomplizierter Medienspieler mit Online-Radio-Unterstützung
+org.kde.falkon	Webbrowser
+org.kde.filelight	Festplattenbelegung anzeigen und ungenutzte Dateien löschen
+org.kde.francis	Behalten Sie Ihre Zeit im Auge
+org.kde.gcompris	Lernspiel mit vielen Aktivitäten für Kinder von 2 bis 10 Jahren
+org.kde.granatier	Bomberman-Klon
+org.kde.gwenview	Bildbetrachter
+org.kde.haruna	Open-Source-Medienspieler auf Basis von Qt/QML und libmpv
+org.kde.Ikona	Ikona is a design companion to help you design icons
+org.kde.index	Verwalten Sie Ihre Dateien
+org.kde.isoimagewriter	ISO-Abbild auf ein USB-Speichermedium schreiben
+org.kde.itinerary	Digitaler Reiseassistent
+org.kde.juk	Audio-Wiedergabe
+org.kde.kaffeine	Multimediawiedergabe
+org.kde.kalgebra	Graphenrechner
+org.kde.kalk	Ein leistungsfähiger Rechner
+org.kde.kalzium	Periodensystem der Elemente
+org.kde.kamoso	Mit Kamoso können Sie mit Ihrer Webcam Bilder und Videos aufnehmen
+org.kde.kanagram	Spielerisches Sortieren von Buchstaben
+org.kde.kapman	Pac-Man-Klone
+org.kde.kasts	Podcast-Anwendung
+org.kde.katomic	„Sokoban“-Spiel
+org.kde.kbibtex	BibTeX-Editor von KDE zum Bearbeiten von Bibliografien mit LaTeX
+org.kde.kblackbox	„Blackbox“-Spiel
+org.kde.kblocks	„Tetris“-Spiel
+org.kde.kbounce	KBounce ist ein Arcade- und Rätselspiel für einen Spieler
+org.kde.kbreakout	KBreakOut ist ein Breakout-ähnliches Spiel von KDE
+org.kde.kbruch	Bruchrechnen üben
+org.kde.kcachegrind	Profiler-Oberfläche
+org.kde.kcalc	Wissenschaftlicher Taschenrechner
+org.kde.kclock	Erinnerungen und Zeitgeber einstellen, eine Stoppuhr verwenden und Weltzeituhren verwalten
+org.kde.kcolorchooser	Farbauswahl und Farbpaletten-Editor
+org.kde.kdenlive	Video-Editor
+org.kde.kdevelop	Eine leistungsfähige integrierte Entwicklungsumgebung (IDE) für C/C++ und andere Programmiersprachen, die durch Module erweitert werden kann.
+org.kde.kdiamond	KDiamond, ein Drei-Gewinnt-Spiel von KDE
+org.kde.kdiff3	Programm zum Vergleichen und Zusammenführen von Dateien und Ordnern
+org.kde.keysmith	Zwei-Faktor-Code-Generator für Plasma Mobile und die Plasma-Arbeitsfläche
+org.kde.kfind	Dateien/Ordner suchen
+org.kde.kfourinline	Vier Gewinnt ist ein Strategiespiel von KDE
+org.kde.kgeography	Erdkunde-Lernprogramm
+org.kde.kgeotag	Anwendung zum Geotaggen von Fotos
+org.kde.kget	Download-Verwaltung
+org.kde.kgoldrunner	Gold suchen, Feinden entkommen und Rätsel lösen
+org.kde.kgraphviewer	Ein Anzeigeprogramm für Graphviz-Dot-Diagramme
+org.kde.khangman	Buchstabierspiel
+org.kde.kid3	Metadaten von Audio-Dateien bearbeiten
+org.kde.kig	Interaktive Geometrie
+org.kde.kigo	„Go“-Brettspiel
+org.kde.kile	TeX-/LaTeX-Editor
+org.kde.killbots	Killermaschinen überlisten, um zu gewinnen
+org.kde.kimagemapeditor	Editor für HTML-Bildkarten (Imagemaps)
+org.kde.kiriki	„Kniffel“-Würfelspiel
+org.kde.kiten	Referenz- und Studienprogramm für Japanisch
+org.kde.kjumpingcube	Eroberungsspiel
+org.kde.kleopatra	Zertifikatsverwaltung und einheitliche Oberfläche für Kryptografie
+org.kde.klettres	Lerne das Alphabet
+org.kde.klickety	Klickety ist ein Spiel, das „Clickomania“ nachempfunden ist
+org.kde.klines	Kugeln entfernen
+org.kde.kmahjongg	Mahjong-Spiel
+org.kde.kmines	„Minesweeper“-Spiel
+org.kde.kmplayer	Oberfläche für MPlayer
+org.kde.kmplot	Mathematischer Funktionsplotter
+org.kde.kmymoney	Persönliche Finanzenverwaltung auf der Grundlage doppelte Buchführung
+org.kde.knavalbattle	„Schiffe versenken“-Spiel
+org.kde.knetwalk	KNetWalk, ein Spiel für Systemadministratoren
+org.kde.knights	Schachspiel
+org.kde.koko	Bildergalerie
+org.kde.kolf	Minigolf
+org.kde.kollision	Ein einfaches Ausweich-Ballspiel
+org.kde.kolourpaint	Mal- und Zeichenprogramm
+org.kde.kommit	Git-Programm für KDE
+org.kde.kompare	Oberfläche für Diff und Patch
+org.kde.kongress	KDE-Konferenzbegleitanwendung
+org.kde.konquest	Galaktisches Strategiespiel
+org.kde.konsole	Terminal
+org.kde.kontact	Verwalten Sie alle Ihre E-Mails. Kalender, Kontakte und mehr in einem einzigen Fenster
+org.kde.kontrast	Eine Anwendung zur Kontrastüberprüfung von Farben
+org.kde.konversation	IRC-Programm
+org.kde.kpat	Solitär-Kartenspiel
+org.kde.kphotoalbum	KDE-Bildverwaltungssoftware
+org.kde.krdc	Verbindung mit RDP oder VNC zu einem anderen Rechner
+org.kde.krename	Leistungsfähiges Programm zum Umbenennen in einer Stapelverarbeitung
+org.kde.kreversi	„Reversi“-Brettspiel
+org.kde.krita	Digitales Malen, kreative Freiheit
+org.kde.kronometer	Zeitmesser
+org.kde.kruler	Bildschirmlineal
+org.kde.ksirk	Welteroberungsspiel
+org.kde.ksnakeduel	Tron-ähnliches Spiel
+org.kde.ksquares	Käsekästchen-Spiel
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	Elektronisches Planetarium
+org.kde.ksudoku	Vervollständigen Sie ein Zahlenrätsel mit Zahlen von eins bis neun
+org.kde.kteatime	Teekocher
+org.kde.ktimetracker	Persönliche Zeiterfassung
+org.kde.ktorrent	BitTorrent-Programm
+org.kde.ktouch	Schreibmaschinenkurs
+org.kde.ktrip	Navigation für öffentliche Verkehrsmittel
+org.kde.ktuberling	Ein einfaches Aufbauspiel für Kinder und Erwachsene
+org.kde.kturtle	Programmierumgebung für den Unterricht
+org.kde.kubrick	3D-Spiel wie „Rubiks Würfel“
+org.kde.kuiviewer	Betrachter für UI-Dateien des Qt Designer
+org.kde.kwalletmanager5	Dienstprogramm zur Passwortverwaltung
+org.kde.kweather	Echtzeit-Wettervorschau und weitere Informationen anzeigen
+org.kde.kwordquiz	Karteikartentrainer
+org.kde.kwrite	Texteditor
+org.kde.kxstitch	Ein Kreuzstich-Musterersteller
+org.kde.labplot2	Interaktive Datenvisualisierung und -analyse
+org.kde.lokalize	Computergestütztes Übersetzungssystem
+org.kde.lskat	Deutsches Kartenspiel Skat für zwei Spieler
+org.kde.marble	Virtueller Globus
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	Musik-Lernprogramm
+org.kde.neochat	Ein Programm für Matrix, das dezentrale Kommunikationsprotokoll
+org.kde.okteta	Hex-Editor
+org.kde.okular	Dokumentenbetrachter
+org.kde.palapeli	Bilderpuzzle
+org.kde.parley	Vokabeltrainer
+org.kde.peruse	Anzeigeprogramm für Comic-Book
+org.kde.picmi	Rätselspiel auf der Grundlage von Zahlenlogik
+org.kde.pix	Bildergalerie
+org.kde.plasmatube	YouTube-Videos ansehen
+org.kde.qmlkonsole	Mobile Terminal-Anwendung
+org.kde.rocs	Rocs-Graphentheorie
+org.kde.ruqola	Rocket-Chat-Programm
+org.kde.skanpage	Anwendung zum Scannen mehrseitiger Dokumente
+org.kde.skrooge	Einfache Buchführung für den privaten Gebrauch
+org.kde.subtitlecomposer	Editor für Video-Untertitel mit einfachen und erweiterten Bearbeitungsfunktionen
+org.kde.SymbolEditor	Ein Kreuzstich-Symboleditor
+org.kde.tellico	Sammlungsverwaltung
+org.kde.telly-skout	A convergent Kirigami TV guide
+org.kde.tokodon	Ein Mastodon-Client
+org.kde.umbrello	UML-Modeller
+org.kde.vvave	Wiedergabe Ihrer Musik-Sammlung
+org.kde.yakuake	Aufklapp-Terminal
+org.keepassxc.KeePassXC	Von der Community entwickelter Port der Windows-Anwendung „KeePass Password Safe“
+org.KekikAkademi.BTKSorgu	Ist die Zielwebsite in der Türkei zugänglich? (BTK)
+org.KekikAkademi.eFatura	E-Rechnungs-Nutzungsanfrage von der Steuer- oder TR-Identitätsnummer
+org.kekikakademi.ntvHaber	Aktuelle Nachrichten auf Türkisch von NTV.com.tr
+org.kicad.KiCad	Eine EDA-Suite für Schaltplan- und Leiterplattendesign
+org.kiwix.desktop	Offline-Inhalte anzeigen
+org.kosmospredanie.Yakblt	Ein einfaches Kugel-Ausweichspiel
+org.kryogenix.hushboard	Schalten Sie Ihr Mikrofon stumm, während Sie tippen
+org.kryogenix.Pick	Ein Farbwähler
+org.kryogenix.utm_no	Entfernen Sie Tracking-Parameter von kopierten URLs
+org.ksnip.ksnip	Plattformübergreifendes Screenshot-Tool mit Anmerkungsfunktionen
+org.lamport.tla.toolbox	TLA+ Toolbox ist eine IDE (integrierte Entwicklungsumgebung) für die TLA+-Tools
+org.laptop.TurtleArtActivity	Eine vom Logo inspirierte Schildkröte, die mit zusammensteckbaren visuellen Programmierblöcken farbenfrohe Bilder zeichnet
+org.learningequality.Kolibri	Offline-Plattform für Bildungstechnologie
+org.leocad.LeoCAD	Entwerfen Sie virtuelle Modelle, die Sie mit LEGO-Steinen bauen können
+org.librecad.librecad	2D-Computergestütztes Design (CAD)
+org.librehunt.Organizer	Ein Dienstprogramm zum Organisieren Ihrer Dateien in übersichtlichen Kategorien
+org.libreoffice.LibreOffice	Die LibreOffice-Produktivitätssuite
+org.librepcb.LibrePCB	Design-Schaltpläne und Leiterplatten
+org.libretrainsim.Libre-TrainSim	Kostenloser Zugsimulator für alle
+org.libretro.RetroArch	Frontend für Emulatoren, Game Engines und Mediaplayer
+org.libsdl.Maelstrom	Hochwertiger Asteroiden-Klon
+org.libvips.vipsdisp	Bildbetrachter
+org.linux_hardware.hw-probe	Überprüfen Sie die Funktionsfähigkeit der Computerhardware und finden Sie Treiber
+org.linuxshowplayer.LinuxShowPlayer	Queue-Player für Bühnenproduktionen
+org.localsend.localsend_app	Teilen Sie Dateien mit Geräten in der Nähe
+org.love2d.love2d	LÖVE ist ein fantastisches 2D-Spielframework für Lua.
+org.lyx.LyX	Der Dokumentenprozessor
+org.mamedev.MAME	MAME ist ein vielseitiges Emulationsframework.
+org.manaplus.ManaPlus	Erweiterter Client für The Mana World und ähnliche Server
+org.mapeditor.Tiled	Leveleditor für allgemeine Zwecke
+org.mattbas.Glaxnimate	Vektoranimationseditor
+org.mattdm.icebreaker	Ein süchtig machendes Action-Puzzlespiel mit hüpfenden Pinguinen
+org.mavlink.qgroundcontrol	UAS-Bodenkontrollstation
+org.megaglest.MegaGlest	Echtzeit-Strategiespiel (RTS)
+org.megamek.MegaMek	Kämpfe mit riesigen Robotern, Panzern und/oder Infanterie auf einer hexbasierten Karte.
+org.mersenne.mprime	Kostenlose Mersenne Prime-Suchsoftware
+org.metal3d.scoreboard	Eine einfache Anzeigetafel zum Zählen der Punkte für jedes Spiel
+org.mfek.MFEKglif	Glypheneditor für das Modular Font Editor K-Projekt
+org.midori_browser.Midori	Ein schneller und leichter Webbrowser
+org.milkytracker.MilkyTracker	Von Fast Tracker II inspirierter Musik-Tracker
+org.mixxx.Mixxx	Alles, was Sie zum Aufführen von Live-DJ-Mixen benötigen
+org.mmass.mMass	Open-Source-Massenspektrometrie-Tool
+org.mobsya.ThymioSuite	Einfacher Zugriff auf die Programmierschnittstellen von Thymio
+org.moneymanagerex.MMEX	Finanzen organisieren und den Cashflow verfolgen
+org.mosh.mosh	Die mobile Shell
+org.mozilla.firefox	Schneller, privater und sicherer Webbrowser
+org.mozilla.Thunderbird	Thunderbird ist ein kostenloser Open-Source-Client für E-Mail, Newsfeed, Chat und Kalender
+org.mpdevil.mpdevil	Ein einfacher Musikbrowser für MPD
+org.msweet.htmldoc	HTML-Konvertierungssoftware
+org.munadi.Munadi	Einfache Athan-App
+org.musescore.MuseScore	Erstellen, spielen und drucken Sie wunderschöne Noten
+org.musicbrainz.Picard	MusicBrainz Musik-Tagger
+org.mypaint.MyPaint	Malprogramm für digitale Künstler
+org.naev.Naev	2D-Action- und RPG-Weltraumhandels- und Kampfspiel
+org.nanuc.Axolotl	Axolotl ist ein plattformübergreifender Signal-Client
+org.netsurf_browser.NetSurf	kleiner Webbrowser mit CSS-Unterstützung
+org.neverball.Neverball	Führe einen rollenden Ball geschickt durch viele raffinierte 3D-Levels
+org.nickvision.cavalier	Visualisieren Sie Audio mit CAVA
+org.nickvision.money	Verwalte deine persönlichen Finanzen
+org.nickvision.tagger	Tagge deine Musik
+org.nickvision.tubeconverter	Web-Video und Audio herunterladen
+org.nicotine_plus.Nicotine	Grafischer Client für das Soulseek Netzwerk
+org.nmap.Zenmap	Eine plattformübergreifende Benutzeroberfläche für den Nmap Security Scanner
+org.nomacs.ImageLounge	nomacs ist ein kostenloser Open-Source-Bildbetrachter
+org.nongnu.enigma	Puzzlespiel
+org.nongnu.gsequencer.gsequencer	Erweiterter Gtk+-Sequenzer
+org.nongnu.Xlog	Protokollierungsprogramm für Amateurfunker
+org.nsnam.NetAnim	NetAnim ist ein Offline-Animator für NS-3
+org.nuspell.Nuspell	Rechtschreibprüfung
+org.octave.Octave	Interaktive Programmierumgebung für numerische Berechnungen
+org.olivevideoeditor.Olive	Nichtlinearer Videoeditor
+org.omegat.OmegaT	Ein einfacher Open-Source-Translation-Memory-Manager und CAT-Tool
+org.onionshare.OnionShare	Teilen Sie Dateien sicher und anonym, hosten Sie Websites und chatten Sie mit Freunden
+org.onlyoffice.desktopeditors	Office-Produktivitätssuite
+org.openandroidinstaller.OpenAndroidInstaller	Macht die Installation alternativer Android-Distributionen angenehm und einfach
+org.openchemistry.Avogadro2	Kostenloser und Open-Source-Molekulareditor
+org.openclonk.OpenClonk	Multiplayer-Actionspiel, in dem Sie kleine und flinke Humanoiden steuern
+org.opencpn.OpenCPN	Eine übersichtliche Kartenplotter- und Navigationssoftware
+org.openfodder.OpenFodder	Eine Open-Source-Portierung des DOS-Strategiespiels Cannon Fodder.
+org.openhantek.OpenHantek6022	DSO-Software für Hantek USB-Digitalsignaloszilloskope 6022BE/BL
+org.openjkdf2.OpenJKDF2	Eine plattformübergreifende Reimplementierung von „Jedi Knight: Dark Forces II“
+org.openkj.OpenKJ	Professionelle Karaoke-Hosting-Software
+org.openmsx.openMSX	Emulieren Sie alle Aspekte des MSX mit hoher Genauigkeit
+org.openmw.OpenMW	Neuimplementierung von The Elder Scrolls III: Morrowind
+org.opennumismat.OpenNumismat	Münzsammelsoftware zum Organisieren und Verwalten Ihres eigenen Katalogs
+org.openrgb.OpenRGB	Open-Source-RGB-Beleuchtungssteuerung, die nicht von Herstellersoftware abhängt.
+org.openscad.OpenSCAD	Der solide 3D-CAD-Modellierer von Programmers
+org.openscopeproject.TrguiNG	Remote-GUI für den Transmission-Torrent-Daemon
+org.openshot.OpenShot	Ein benutzerfreundlicher, schnell zu erlernender und überraschend leistungsstarker Videoeditor
+org.openstreetmap.josm	Java OpenStreetMap-Editor
+org.opensurge2d.OpenSurge	Ein unterhaltsamer 2D-Retro-Plattformer, inspiriert von Sonic-Spielen und einem Spieleerstellungssystem
+org.opentransactions.metier	Blockchain-Wallet mit mehreren Währungen und Open-Transactions-Client
+org.openttd.OpenTTD	Open-Source-Simulationsspiel basierend auf Transport Tycoon Deluxe
+org.otfried.Ipe	Der erweiterbare IPE-Zeichnungseditor
+org.pairinteraction.Pairinteraction	Ein Rydberg-Interaktionsrechner
+org.paraview.ParaView	Datenanalyse und Visualisierung
+org.parlatype.Parlatype	Medienspieler für Sprachtranskription
+org.pegasus_frontend.Pegasus	Plattformübergreifendes, anpassbares grafisches Frontend zum Starten von Emulatoren
+org.pencil2d.Pencil2D	2D-Animationssoftware, die Bitmap- und Vektorgrafiken unterstützt
+org.phoenicis.playonlinux	Windows-Software unter Linux installieren und starten
+org.photoqt.PhotoQt	Bilder ansehen und verwalten
+org.pipewire.Helvum	Patchbay für PipeWire
+org.pitivi.Pitivi	Erstellen und bearbeiten Sie Ihre eigenen Filme
+org.pjbroad.EternallandsClient	Eternal Lands ist ein kostenlos spielbares, grafisches MMORPG
+org.plomgrading.PlomClient	Bewertungs-/Benotungs-Client für das Online-Bewertungssystem Plom
+org.polymc.PolyMC	Ein benutzerdefinierter Launcher für Minecraft, mit dem Sie problemlos mehrere Installationen von Minecraft gleichzeitig verwalten können
+org.ppsspp.PPSSPP	Ein PlayStation Portable-Emulator
+org.prismlauncher.PrismLauncher	Ein benutzerdefinierter Launcher für Minecraft, mit dem Sie problemlos mehrere Installationen von Minecraft gleichzeitig verwalten können
+org.processing.processingide	Open-Source-Software-Prototyping-Plattform
+org.profex_xrd.Profex	Open Source XRD und Rietveld Refinement
+org.pulseaudio.pavucontrol	Passen Sie die Lautstärke von Hardwaregeräten und Anwendungen an
+org.purei.Play	Ein Playstation 2-Emulator
+org.pydpainter.PyDPainter	Ein verwendbares Pixel-Art-Malprogramm, geschrieben in Python
+org.pymol.PyMOL	Molekulare Visualisierung und Raytracing
+org.pyzo.pyzo	Eine Python-IDE, die auf Einfachheit und Interaktivität abzielt
+org.qbittorrent.qBittorrent	Ein Open-Source-Bittorrent-Client
+org.qelectrotech.QElectroTech	Zeichenprogramm für Schaltpläne
+org.qgis.qgis	Ein kostenloses Open-Source-Geographisches-Informationssystem
+org.qownnotes.QOwnNotes	Notizblock für Nur-Text-Dateien mit Markdown-Unterstützung und Nextcloud-/owncloud-Integration
+org.quassel_irc.QuasselClient	Moderner verteilter IRC-Client
+org.quetoo.Quetoo	Ein kostenloser Ego-Shooter für Mac, PC und Linux
+org.qutebrowser.qutebrowser	Ein tastaturgesteuerter Webbrowser
+org.qxmledit.QXmlEdit	XML-Editor
+org.raceintospace.Raceintospace	Ein Spiel, das das Weltraumrennen der 1960er Jahre noch einmal erleben lässt
+org.racket_lang.Racket	Die sprachorientierte Programmiersprache
+org.radare.iaito	Eine Qt- und C++-GUI für das Radare2-Reverse-Engineering-Framework
+org.raspberrypi.rpi-imager	Raspberry Pi-Imaging-Dienstprogramm
+org.remmina.Remmina	Remotedesktop-Client
+org.rncbc.qpwgraph	Eine PipeWire Graph Qt-GUI-Schnittstelle
+org.rncbc.qsynth	Eine Fluidsynth-Qt-GUI-Schnittstelle
+org.rncbc.qtractor	Ein Audio/MIDI-Mehrspursequenzer
+org.robocode.Robocode	Bauen Sie das Beste – zerstören Sie den Rest!
+org.rolisteam.rolisteam	Client-Begleiter zum Roliteam-Server
+org.ryujinx.Ryujinx	Ein Nintendo Switch-Emulator
+org.sabnzbd.sabnzbd	Kostenloser und einfacher binärer Newsreader
+org.sauerbraten.Sauerbraten	Kostenloser Multiplayer- und Einzelspieler-Ego-Shooter, der Nachfolger des Cube FPS
+org.scantailor.ScanTailor	Interaktives Nachbearbeitungstool für gescannte Seiten
+org.scilab.Scilab	Wissenschaftliches Softwarepaket für numerische Berechnungen
+org.scintilla.SciTE	Ein SCIntilla-basierter Texteditor
+org.scummvm.ScummVM	Dolmetscher für zahlreiche Adventure-Spiele und RPGs
+org.sdrangel.SDRangel	Softwaredefiniertes TX- und RX-Radio
+org.seul.crimson	Ein rundenbasiertes taktisches Kriegsspiel
+org.shadered.SHADERed	Tool zum Erstellen und Testen von HLSL- und GLSL-Shadern
+org.shadowsocks.qt5client	Ein nativer und plattformübergreifender Shadowsocks-GUI-Client mit erweiterten Funktionen.
+org.shotcut.Shotcut	Videobearbeiter
+org.signal.Signal	Privater Messenger
+org.sigxcpu.Livi	Ein einfacher GTK4-basierter Videoplayer für Mobiltelefone
+org.sil.Bloom	Entwicklung von Lese- und Schreibmaterialien für Sprachgemeinschaften
+org.sil.FieldWorks	Sprach- und Kulturdatenmanagement
+org.skytemple.Randomizer	Zufallsgenerator für Pokémon Mystery Dungeon Explorers of Sky
+org.skytemple.SkyTemple	ROM-Editor für Pokémon Mystery Dungeon Explorers of Sky
+org.soapui.SoapUI	SoapUI OS ist eine Funktionstestlösung für APIs und Webdienste
+org.solarus_games.solarus.Launcher	Durchsuchen und spielen Sie Ihre Solarus-Questsammlung.
+org.sonic3air.Sonic3AIR	Ein von Fans erstelltes Breitbild-Remaster von Sonic 3 & Knuckles.
+org.soundconverter.SoundConverter	Konvertieren Sie Audiodateien
+org.sparkleshare.SparkleShare	Magic selbst gehostete Git-Dateisynchronisierung
+org.speedcrunch.SpeedCrunch	Ein hochpräziser wissenschaftlicher Taschenrechner
+org.speed_dreams.SpeedDreams	Speed Dreams ist ein plattformübergreifendes 3D-Open-Source-Motorsportsimulations- und Rennspiel
+org.sqlitebrowser.sqlitebrowser	DB Browser für SQLite ist ein einfacher GUI-Editor für SQLite-Datenbanken
+org.squeakland.Etoys	Programmieren lernen durch zeichnen
+org.squey.Squey	Erkunden Sie Ihre Daten
+org.squidowl.halloy	In Rust geschriebener IRC-Client
+org.srb2.SRB2	Ein 3D-Sonic the Hedgehog-Fanspiel, das auf einer modifizierten Version von Doom Legacy basiert
+org.srb2.SRB2Kart	Ein Kart-Renn-Mod, der auf dem 3D-Sonic the Hedgehog-Fanspiel Sonic Robo Blast 2 basiert
+org.srb2.SRB2Kart-galaxy	Modifiziertes SRB2Kart mit vielen benutzerdefinierten Funktionen
+org.srb2.SRB2Kart-galaxy_azerty	Modifiziertes SRB2Kart, das viele benutzerdefinierte Funktionen mit einem azerty-französischen Tastaturlayout hinzufügt
+org.srb2.SRB2Kart-Saturn	Modifiziertes SRB2Kart mit vielen benutzerdefinierten Funktionen
+org.srb2.SRB2Persona	Ein von Persona inspirierter Mod, der auf dem 3D-Sonic the Hedgehog-Fanspiel Sonic Robo Blast 2 basiert
+org.standardnotes.standardnotes	Ein einfacher und privater Ort für Ihre Notizen, Gedanken und Ihr Lebenswerk
+org.stellarium.Stellarium	Das Planetarium für den Schreibtisch
+org.stochas.Stochas	Stochas-Sequenzer
+org.strawberrymusicplayer.strawberry	Ein Musikplayer und Sammlungsorganisator
+org.subsurface_divelog.Subsurface	Tauchcomputerdaten verwalten und anzeigen
+org.subtitld.Subtitld	Subtitld ist eine Software zum Erstellen und Bearbeiten von Untertiteln
+org.sugarlabs.AbacusActivity	Ein Werkzeug für einfache arithmetische Berechnungen
+org.sugarlabs.Chart	Erstellen Sie Ihre Diagramme
+org.sugarlabs.Chess	Ein süßes Schachspiel
+org.sugarlabs.ColorDeducto	Ein Spiel, das auf logischer Induktion basiert
+org.sugarlabs.Dimensions	Ein Mustervergleichsspiel
+org.sugarlabs.Finance	Lernen Sie die Grundlagen der Finanzplanung
+org.sugarlabs.FotoToon	Erstelle deinen eigenen Comic
+org.sugarlabs.FractionBounce	Ein Spiel über Brüche
+org.sugarlabs.ImplodeActivity	Lasse gleichfarbige Blöcke implodieren, bis sie alle verschwunden sind
+org.sugarlabs.Maze	Ein einfaches Labyrinthspiel
+org.sugarlabs.Measure	Oszilloskopprogramm zur Visualisierung von Mikrofoneingaben
+org.sugarlabs.Memorize	Finden Sie passende Paare
+org.sugarlabs.MusicBlocks	Eine Sammlung von Werkzeugen zur spielerischen Erkundung grundlegender musikalischer Konzepte.
+org.sugarlabs.MusicKeyboard	Spielen Sie Musik mit dieser Klaviertastatur
+org.sugarlabs.Paint	Ein süßes Malwerkzeug
+org.sugarlabs.Physics	Beweisen Sie, dass Sir Isaac Newton Recht hat
+org.sugarlabs.Pippy	Sprechen Sie mit Ihrem Computer in Python
+org.sugarlabs.Pukllanapac	Ein Schiebepuzzlespiel
+org.sugarlabs.ReadETexts	Lesen Sie Tausende kostenlose E-Books
+org.sugarlabs.Sliderule	Ein mechanischer Rechner
+org.sugarlabs.SolarSystem	Erfahren Sie mehr über die Planeten
+org.sugarlabs.Speak	Ein animiertes Gesicht, das alles sagt, was Sie eingeben
+org.sugarlabs.StoryActivity	Eine Geschichte erzählen
+org.sugarlabs.SwiftFeet	Stehen Sie auf und tanzen Sie!
+org.sugarlabs.TurtlePondActivity	Umzingeln Sie die Schildkröte, bevor sie vom Bildschirm verschwindet
+org.sugarlabs.Words	Ein mehrsprachiges Offline-Wörterbuch
+org.supertuxproject.SuperTux	Ein Jump-and-Run-Spiel mit dem Pinguin Tux in der Hauptrolle
+org.surge_synth_team.surge-xt	Surge XT Synthesizer Standalone
+org.synfig.SynfigStudio	Erstellen und bearbeiten Sie 2D-Animationen und Kompositionen
+org.syphon.Syphon	Chatten Sie mit intakter Privatsphäre und Freiheit
+org.tabos.maxcontrol	Kontrollsoftware für die Max! Gerätefamilie.
+org.tabos.roger	Journal, Fax-Software und Anrufmonitor für AVM FRITZ!Box oder kompatibel
+org.tabos.saldo	Überprüfen Sie Ihre Bankkonten
+org.tabos.twofun	Touchbasiertes Reaktionsspiel für 2 Spieler
+org.taisei_project.Taisei	Bullet-Hell-Shoot-’em-up-Spiel im Tōhō-Universum
+org.telegram.desktop	Schnell. Sicher. Kraftvoll.
+org.telesculptor.TeleSculptor	Photogrammetrie mit Schwerpunkt auf Luftaufnahmen
+org.tenacityaudio.Tenacity	Audiodateien aufnehmen und bearbeiten
+org.texstudio.TeXstudio	LaTeX-Editor
+org.thentrythis.Samplebrain	Eine benutzerdefinierte Sample-Mashing-App, entwickelt von Aphex Twin
+org.thonny.Thonny	Python-IDE für Anfänger
+org.tigervnc.vncviewer	Stellen Sie eine Verbindung zum VNC-Server her und zeigen Sie den Remote-Desktop an
+org.tildearrow.furnace	Open-Source-Chiptune-Tracker
+org.tomviz.Tomviz	Kostenlose und quelloffene tomografische Visualisierung nanoskaliger Materialien
+org.tordini.flavio.Minitube	YouTube-App
+org.torproject.torbrowser-launcher	Ein Programm, das Ihnen hilft, das Tor-Browser-Bundle herunterzuladen, auf dem neuesten Stand zu halten und auszuführen
+org.tribler.Tribler	Auf dem Weg, Bittorrent anonym zu machen und es unmöglich zu machen, es abzuschalten.
+org.tropy.Tropy	Entdecken Sie Ihre Forschungsfotos
+org.tryton.Tryton-68	Client für die Tryton Application Platform
+org.tryton.Tryton-70	Client für die Tryton Application Platform
+org.tug.texworks	Eine einfache Umgebung zum Bearbeiten, Setzen und Darstellen von TeX-Dokumenten
+org.turbowarp.TurboWarp	Eine Scratch-Modifikation mit einem Compiler zur schnelleren Ausführung von Projekten, einem Dunkelmodus, einer Reihe von Add-ons und mehr
+org.tuxemon.Tuxemon	Tuxemon ist ein kostenloses Open-Source-Rollenspiel zur Bekämpfung von Monstern.
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon-Emulator
+org.tuxfamily.StuntRally	Rennspiel mit Rallye-Fahrstil
+org.tuxfamily.XMoto	2D-Motocross-Plattformspiel
+org.tuxpaint.Tuxpaint	Ein Malprogramm für Kinder
+org.tvbrowser.TVBrowser	Ein kostenloses EPG
+org.twinery.Twine	Twine ist ein Open-Source-Tool zum Erzählen interaktiver, nichtlinearer Geschichten
+org.ultimatepp.TheIDE	IDE für das plattformübergreifende U++-App-Entwicklungsframework
+org.unitystation.StationHub	Launcher für das Open-Source-Spiel Unitystation
+org.unknown_horizons.UnknownHorizons	Open-Source-Wirtschaftssimulationsspiel in Echtzeit
+org.upnproutercontrol.UPnPRouterControl	Ein einfaches Programm, das UPnP-kompatible Router verwaltet
+org.upscayl.Upscayl	Kostenloser und Open-Source-KI-Bild-Upscaler
+org.v1993.NXDumpClient	Client zum Dumpen über USB mit nxdumptool
+org.verapdf.veraPDF	veraPDF ist ein Dateiformat-Validator für den PDF/A-Archivierungsstandard
+org.vergecurrency.verge-qt	VergeCurrency, eine sichere und benutzerfreundliche digitale Währung.
+org.vertcoin.vertcoin-qt	Vollständige Validierung des Peer-to-Peer-Netzwerkknotens, der Wallet und der GUI von Vertcoin
+org.videolan.VLC	VLC Media Player, der Open-Source-Multimedia-Player
+org.viking.Viking	GPS-Dateneditor und -analysator
+org.vim.Vim	Der allgegenwärtige Texteditor
+org.vinegarhq.Vinegar	Ein funktionsreicher kleiner und schneller Bootstrapper für Roblox
+org.virt_manager.virt-viewer	Greifen Sie auf entfernte virtuelle Maschinen zu
+org.virtualxt.VirtualXT	Turbo PC/XT-Emulator
+org.wesnoth.Wesnoth	Ein rundbasierendes Strategiespiel mit Fantasy-Thematik
+org.wezfurlong.wezterm	Ein GPU-beschleunigter plattformübergreifender Terminalemulator und Multiplexer
+org.wfview.wfview	Open-Source-Schnittstelle für Icom-Transceiver
+org.widelands.Widelands	Echtzeitbasiertes Aufbau-Strategiespiel
+org.winehq.Wine	Führen Sie Windows-Anwendungen unter Linux, BSD, Solaris und Mac OS X aus
+org.wireshark.Wireshark	Wireshark ist der weltweit führende Protokollanalysator
+org.worldpossible.ScriptLauncher	Ein Tool zum Ausführen von Shell-Skripten mit Root-Rechten
+org.wxhexeditor.wxHexEditor	Advanced large file hex editor
+org.xfce.mousepad	Mousepad ist ein einfacher Texteditor für die Xfce-Desktopumgebung
+org.xfce.ristretto	Schneller und leichtgewichtiger Bildbetrachter
+org.xiphos.Xiphos	Bible Study Guide
+org.xnec2c.Xnec2c	A multi-threaded EM tool based on NEC2 to model antenna radiation patterns
+org.xonotic.Xonotic	Deathmatch- und Mehrspieler-orientierter Ego-Shooter
+org.x.Warpinator	Dateien über das Netzwerk senden und empfangen
+org.yamagi.YamagiQ2	Yamagi Quake II is an alternative client for id Software's Quake II
+org.yuzu_emu.yuzu	Nintendo Switch emulator
+org.zaproxy.ZAP	The Zed Attack Proxy (ZAP) is a popular free security tool.
+org.zdoom.GZDoom	Classic first-person-shooter engine for all classical Id games
+org.zealdocs.Zeal	Documentation browser
+org.zim_wiki.Zim	Write notes in a desktop wiki
+org.zirael.bkchem.BKChem	Molecule drawing program
+org.zotero.Zotero	Collect, organize, cite, and share research
+org.zrythm.Zrythm	Digital audio workstation
+org.zulip.Zulip	Zulip Desktop Client for Linux
+page.codeberg.DrRac27.Karoto	A shopping list app for Linux mobile
+page.codeberg.Imaginer.Imaginer	Imagine with AI
+page.codeberg.JakobDev.CCLite	A ComputerCraft Emulator
+page.codeberg.JakobDev.jdAnimatedImageEditor	Ein einfaches Programm zum erstellen von animierten Bildern
+page.codeberg.JakobDev.jdAppStreamEdit	Ein grafisches Programm zum erstellen und bearbeiten von AppStream Dateien
+page.codeberg.JakobDev.jdDBusDebugger	Ein fortgeschrittener D-Bus-Debugger
+page.codeberg.JakobDev.jdDesktopEntryEdit	Ein grafisches Programm zum erstellen und bearbeiten von Desktopeinträgen
+page.codeberg.JakobDev.jdDiff	Ein grafisches Programm zum betrachten von Dateiunterschieden
+page.codeberg.JakobDev.jdEolConverter	Ändert das Zeilenende von allen Dateien in einem Verzeichnis
+page.codeberg.JakobDev.jdFlatpakSnapshot	Ein Programm um Snapshots von Flatpak Apps zu erstellen
+page.codeberg.JakobDev.jdMinecraftLauncher	Ein Minecraft Launcher im klassischen Stil
+page.codeberg.JakobDev.jdMrpackInstaller	Modrinth Modpacks installieren
+page.codeberg.JakobDev.jdNBTExplorer	Ein Editor für Minecraft NBT Dateien
+page.codeberg.JakobDev.jdPixelUpscaler	Bilder per Pixel hochskalieren
+page.codeberg.JakobDev.jdProcessFileWatcher	Mühelose Überwachung und Anzeige des Dateizugriffs in Echtzeit für jeden Prozess
+page.codeberg.JakobDev.jdReplace	jdReplace sucht und ersetzt einen Text in allen Dateien eines Ordners
+page.codeberg.JakobDev.jdSimpleAutostart	Autostart Einträge bearbeiten
+page.codeberg.JakobDev.jdTextEdit	Ein funktionsreicher Texteditor
+page.codeberg.lazyt.ubpm	Blutdruckdaten verwalten
+page.codeberg.libre_menu_editor.LibreMenuEditor	Das Menü bearbeiten
+page.codeberg.papojari.Find_Billy	A pixel art 2d platformer game.
+page.codeberg.Qwel.egui_picross	A basic game of picross, nonogram, griddler
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita Game themed around a dog
+page.codeberg.tpikonen.geobug	Überprüfen Sie Ihren Standort und speichern Sie ihn in einem GPX-Track
+page.codeberg.tpikonen.satellite	Überprüfen Sie Ihren GPS-Empfang und speichern Sie Ihre Tracks
+page.codeberg.yeldham.Librerama	Eine freie hektische Arkadensammlung von Minispielen
+party.supertux.supertuxparty	Ein Partyspiel mit FLOSS-Maskottchen
+pl.art.lach.slawek.V2BlankBrowser	Webbrowser, der keinen Junk-Bildschirm anzeigt
+pl.nieto.fityk	Nichtlineare Kurvenanpassung und Datenanalyse
+pl.youkai.lanchat	LAN-Chat und Dateiübertragung
+pl.youkai.nscan	Netzwerkscanner.
+pm.mirko.Atoms	Chroot und Container verwalten.
+pro.vpup.vpuppr	VTuber-Anwendung erstellt mit Godot 3.4
+radio.k0swe.Kel_Agent	Ein Amateurfunk-Webagent
+re.chiaki.Chiaki	Kostenloser und Open-Source-Client für PlayStation Remote Play
+re.rizin.cutter	Kostenlose und Open-Source-Reverse-Engineering-Plattform, unterstützt von Rizin und Qt
+re.sonny.Commit	Commit Nachrichteneditor
+re.sonny.Junction	Programm wählen
+re.sonny.OhMySVG	Reduzieren Sie die Größe von SVGs
+re.sonny.Playhouse	Spielplatz für HTML/CSS/JavaScript
+re.sonny.Retro	Eine anpassbare digitale Retro-Segmentuhr
+re.sonny.Tangram	Browser für angepinnte Tabs
+re.sonny.Workbench	Lernen Sie und erstellen Sie Prototypen mit GNOME-Technologien
+rest.insomnia.Insomnia	Open-Source-API-Client und Designplattform für GraphQL, REST und gRPC.
+rocks.koreader.KOReader	Ein Dokumentbetrachter für DjVu, PDF, EPUB und mehr
+ro.fxdata.taskmonitor.viewer	Visualisieren Sie TaskMonitor-Daten
+ro.go.hmlendea.DL-Desktop	Inoffizieller Desktop-Client für die Sprachlern-App Duolingo
+ro.go.hmlendea.SokoGrump	Sokoban-ähnliches Logikspiel mit der Grumpy Cat
+ro.hume.cosmin.ShoppingList	Eine Einkaufslistenanwendung für GNU/Linux-Mobilgeräte
+ru.proninyaroslav.libretrack	Private, plattformübergreifende Paketverfolgungs-App
+ru.sview.sView	Stereoskopischer Mediaplayer
+ru.yandex.Browser	Der Webbrowser von Yandex
+sa.sy.bluerecorder	Ein einfacher Bildschirmrekorder für den Linux-Desktop. Unterstützt Wayland und Xorg
+se.cendio.tlclient	Der Linux-Remotedesktopserver basiert auf Open-Source-Technologie
+se.emijoh.mpw	Berechnen Sie das Passwort einer Website, wenn Sie es benötigen.
+se.manyver.Manyverse	dezentrales soziales Netzwerk
+se.sjoerd.GIScan	Lesen und analysieren Sie GISAXS-Daten, die im CBF-Format gespeichert sind
+se.sjoerd.Graphs	Daten grafisch darstellen und manipulieren
+sh.cider.Cider	Ein Open-Source- und Community-orientierter Apple Music-Client
+sh.fhs.KatawaShoujoReEngineered	Eine moderne Version des klassischen visuellen Romans im Bishoujo-Stil
+sh.ppy.osu	Ein kostenloses Rhythmus-Spiel. Rhythmus ist nur einen *Klick* entfernt!
+sh.xaviers.Opentapes	Hören Sie sich Hip-Hop-Mixtapes an
+si.tano.Vremenar	Zeigen Sie Wetterbedingungen und -vorhersagen schnell und einfach auf einer Karte an
+site.someones.Lonewolf	Organisieren und verfolgen Sie Ihre Aufgaben einfach und flexibel
+sm.puri.Chatty	Messaging-Anwendung für Mobilgeräte und Desktops
+social.whalebird.WhalebirdDesktop	Whalebird ist ein Mastodon-, Pleroma- und Misskey-Client für den Desktop
+so.libdb.gtkcord4	GTK4 Discord-Client in Go
+so.onekey.Wallet	All-in-One-Krypto-Wallet.
+space.fips.Fips	OpenGL-basierter FITS-Bildbetrachter
+space.nouspiro.tenmon	FITS/XISF-Bildbetrachter, Konverter, Index und Suche
+studio.kx.carla	Audio-Plugin-Host
+tech.feliciano.pocket-casts	Online-Podcast-Player
+tk.deat.Jazz2Resurrection	Eine Neuimplementierung von Jazz Jackrabbit 2
+tr.gov.uyap.Editor	UYAP Document Editor ist eine Anwendung zum Anzeigen und Erstellen von UDF-Dokumenten im UYAP-System.
+tv.kodi.Kodi	Ultimatives Unterhaltungszentrum
+tv.plex.PlexDesktop	Plex-Client für Desktop-Computer
+tv.plex.PlexHTPC	Plex HTPC-Client für den großen Bildschirm
+tw.ddnet.ddnet	Der härteste Koop-2D-Plattformer aller Zeiten
+ua.org.brezblock.q4wine	Werkzeug zur Verwaltung der Wine-Anwendungen und -Präfixe
+uk.co._69_studios.kublit	Brandneues Original-Puzzlespiel von 69 Studios
+uk.co.electronstudio.ComicReaderUltimate	Ein eigensinniger CBZ-Zuschauer
+uk.co.mangobrain.Infector	Spielen Sie das klassische Brettspiel Ataxx für zwei bis vier Spieler
+uk.co.parallelrealities.games.edgar	2D-Abenteuerplattformspiel
+uk.co.powdertoy.tpt	Physik-Sandbox-Spiel
+uk.et1.big-finish-downloader	Eine GTK-App zum Herunterladen Ihrer Big Finish-Sammlung
+uk.jnthn.backgammony	Ein Backgammon-Frontend mit Multiplayer-Unterstützung
+uk.me.doof.Lander	Arcade-Spiel im Lunar Lander-Stil.
+uk.org.greenend.chiark.sgtatham.putty	SSH-, Telnet- und Rlogin-Client
+uk.org.greenend.chiark.sgtatham.puzzles	Puzzle-Spielesammlung
+uk.org.zint.zint-qt	Barcode-Generator
+us.ihmc.cmap.CmapTools	Ermöglicht Benutzern das Erstellen und Teilen von Konzeptkarten.
+us.zoom.Zoom	Videokonferenzen, Webkonferenzen, Webinare, Bildschirmfreigabe
+vet.rsc.OpenRSC.Launcher	Launcher für Open RuneScape Classic-Server
+vn.hoabinh.quan.CoBang	QR-Code-Scanner für Linux-Desktop
+website.i2pd.i2pd	Unsichtbares Internet
+work.openpaper.Paperwork	Persönlicher Dokumentenmanager
+ws.openarena.OpenArena	Kostenloser und quelloffener Ego-Shooter
+xyz.aguno.CubeTimer	Wie ein StackMat, aber für Linux
+xyz.armcord.ArmCord	ArmCord ist ein benutzerdefinierter Client, der Ihr Discord-Erlebnis verbessert und gleichzeitig alles leichtgewichtig hält.
+xyz.audiostellar.AudioStellar	KI-gestützter experimenteller Probenehmer
+xyz.eclipium.Hieroctive	Ein lustiges Memory-Spiel zum Erlernen von Hieroglyphen!
+xyz.eclipium.TetraSwap	Ein einfaches, aber herausforderndes futuristisches Puzzlespiel!
+xyz.hyperplay.HyperPlay	Web3-Game-Launcher aus der Zukunft. Nehmen Sie Ihr Portemonnaie, Ihre NFTs, Token und Erfolge in jedes Spiel mit.
+xyz.ketok.Speedtest	Messen Sie die Geschwindigkeit Ihrer Internetverbindung
+xyz.kusma.aurora	Aurora von Excess
+xyz.ljoonal.neospeeps	Eine leichte Anwendung, die NeosVR-Peeps und -Sitzungen auflistet
+xyz.mx_moment.moment	Anpassbarer und über die Tastatur bedienbarer Matrix-Client
+xyz.rescribe.rescribe	Hochwertige OCR für Bilder, PDFs und Google Books.
+xyz.safeworlds.hiit	Zeitschaltuhr für hochintensives Intervalltraining
+xyz.safeworlds.midiconn	Virtueller MIDI-Hub
+xyz.slothlife.Jogger	Fitness-Tracker
+xyz.splashmapper.Splash	Video-Mapping-Software
+xyz.stuerz.BilligSweeper	Ein billiger Klon von Minesweeper
+xyz.tytanium.DoorKnocker	Überprüft die Verfügbarkeit von Portalen
+xyz.woxel.Woxel	Open-Source-3D-Voxel-Editor ähnlich wie Minecraft
+xyz.xclicker.xclicker	Schneller GUI-Autoclicker für x11-Linux-Desktops
+xyz.z3ntu.razergenie	Konfigurieren und steuern Sie Ihre Razer-Geräte

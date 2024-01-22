@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	비밀번호 관리자: 모든 플랫폼과 장치에서 비밀번호를 안전하게 유지하세요.
+app.bbsync.BlackboardSync	Blackboard Learn 콘텐츠를 장치에 다운로드하세요.
+app.bluebubbles.BlueBubbles	Linux용 BlueBubbles 클라이언트
+app.cantara.Cantara	교회, 소규모 그룹 또는 노래방 파티에서 노래를 발표하기 위한 간단하고 가볍지만 강력한 프로그램입니다.
+app.drey.Biblioteca	GNOME용 문서 뷰어
+app.drey.Blurble	단어 추측 게임
+app.drey.Damask	인터넷 소스에서 자동으로 배경 화면 이미지 설정
+app.drey.Dialect	언어 간 번역
+app.drey.EarTag	오디오 파일 태그 편집
+app.drey.Elastic	스프링 애니메이션 디자인
+app.drey.KeyRack	앱 비밀 보기 및 편집
+app.drey.MultiplicationPuzzle	수학 미스터리를 풀어보세요
+app.drey.Warp	안전한 파일 전송
+app.feeddeck.feeddeck	RSS 및 소셜 미디어 피드 팔로우
+app.getclipboard.Clipboard	언제 어디서나 무엇이든 잘라내기, 복사하기, 붙여넣기
+app.getspace.Space	플래시카드의 간격 반복
+app.gummi.gummi	간단한 LaTeX 편집기
+app.kaiteki.Kaiteki	언제 어디서나 모든 것을 위한 편안한 SNS 클라이언트
+app.lith.Lith	WeeChat 릴레이 클라이언트
+app.midterm.MidtermDesktop	공부를 위한 무료 메모 앱입니다.
+app.moosync.moosync	맞춤형 음악 플레이어
+app.organicmaps.desktop	여행자, 관광객, 등산객, 운전자, 자전거 타는 사람을 위한 무료 오프라인 지도 앱
+app.rednotebook.RedNotebook	그래픽 일기 및 저널
+app.riftshare.RiftShare	쉽고 안전하며 무료로 파일을 공유할 수 있습니다. 매직 웜홀을 이용한 크로스 플랫폼 파일 공유
+app.vup.Vup	통합 미디어 서버를 갖춘 오픈 소스 종단 간 암호화 클라우드 스토리지 앱
+app.xemu.xemu	기존 Xbox 에뮬레이터
+app.ytmdesktop.ytmdesktop	YouTube Music용 무료 크로스 플랫폼 데스크톱 플레이어
+app.ywallet.Ywallet	Ycash와 Zcash를 위한 가벼운 지갑
+ar.com.pilas_engine.App	Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida
+ar.com.softwareperonista.Rockarrolla	주크박스 같은 뮤직 플레이어
+ar.com.tuxguitar.TuxGuitar	TuxGuitar는 무료 오픈 소스 태블러처 편집기입니다.
+ar.xjuan.Cambalache	GTK 사용자 인터페이스 생성
+art.taunoerik.tauno-monitor	간단한 독립형 직렬 포트 모니터.
+art.taunoerik.tauno-serial-plotter	Arduino 및 기타 유사한 장치를 위한 간단한 직렬 플로터입니다.
+at.priv.toastfreeware.ConfClerk	ConfClerk는 회의 일정을 오프라인으로 확인할 수 있는 애플리케이션입니다.
+at.ssh_mitm.server	SSH-MITM - SSH 감사가 단순해졌습니다.
+at.vintagestory.VintageStory	황야 생존 샌드박스 게임
+au.edu.uq.esys.escript	esys-escript는 유한요소법을 사용하여 수학적 모델을 구현하기 위한 Python 모듈입니다.
+br.app.pw3270.terminal	TN3270 호스트에 액세스
+br.com.gualandi.Xjump	최신 그래픽 시스템을 위한 점프 게임
+br.gov.cti.invesalius	3D 의료 영상 재구성 소프트웨어
+br.gov.fazenda.receita.irpf2022	브라질에 세금을 신고하세요
+br.gov.fazenda.receita.irpf2023	브라질에 세금을 신고하세요
+ca._0ldsk00l.Nestopia	Nintendo Entertainment System 에뮬레이터
+ca.desrt.dconf-editor	dconf 데이터베이스를 편집하는 그래픽 도구
+ca.hamaluik.Timecop	귀하의 개인 정보를 존중하고 너무 화려하지 않게 작업을 완료하는 시간 추적 앱
+ca.littlesvr.asunder	Asunder는 그래픽 오디오 CD 리퍼 및 인코더입니다.
+ca.parallel_launcher.ParallelLauncher	최신 N64 에뮬레이터
+ca.uwaterloo.Raven	유역 수문학 시뮬레이션을 위한 모델링 프레임워크
+cafe.avery.Delfin	Jellyfin에서 영화 및 TV 프로그램 스트리밍
+camp.nook.nookdesktop	Nook은 정시에 동물의 숲 시간별 테마를 재생하는 애플리케이션입니다.
+cat.xtec.clic.JClic	학교 학생과 교육자를 위한 교육 활동 및 게임
+cc.arduino.IDE2	오픈 소스 전자 프로토타이핑 플랫폼
+cc.arduino.arduinoide	오픈 소스 전자 프로토타이핑 플랫폼
+cc.craftos_pc.CraftOS-PC	고급 ComputerCraft 에뮬레이터
+cc.craftos_pc.CraftOS-PC-Accelerated	고급 ComputerCraft 에뮬레이터
+cc.nift.nsm	동적 및 정적 사이트 생성기
+cc.retroshare.retroshare-gui	모두를 위한 안전한 커뮤니케이션
+cern.root.ROOT	데이터 분석 프레임워크
+ch.imatt.ClipQR	화면과 카메라에서 QR 코드를 스캔하세요.
+ch.openboard.OpenBoard	학교 및 대학을 위한 대화형 화이트보드
+ch.protonmail.protonmail-bridge	메일이 컴퓨터에 들어오고 나갈 때 메일을 원활하게 암호화하고 해독합니다.
+ch.protonmail.protonmail-import-export-app	안전한 ProtonMail 받은 편지함으로 이메일을 가져오거나 Import-Export 앱을 사용하여 오프라인 백업을 만드세요.
+ch.theologeek.Manuskript	작가를 위한 오픈 소스 도구
+ch.threema.threema-web-desktop	데스크톱용 Threema는 스위스에서 호스팅 및 개발된 개인 정보 보호 중심의 엔드투엔드 암호화 모바일 메신저인 Threema의 데스크톱 클라이언트입니다. 비공식 패키지.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Minecraft를 플레이하고 나만의 세계를 만들어보세요!
+ch.x29a.playitslowly	다른 속도로 음악 재생
+chat.delta.desktop	Delta Chat 이메일 기반 메신저
+chat.quadrix.Quadrix	Matrix 프로토콜을 위한 최소한의 간단한 다중 플랫폼 채팅 클라이언트
+chat.revolt.RevoltDesktop	Revolt 데스크톱 앱
+chat.rocket.RocketChat	오픈소스 팀 커뮤니케이션
+chat.schildi.desktop	SchildiChat은 보다 전통적인 인스턴트 메시징 경험을 갖춘 Element 기반의 Matrix 클라이언트입니다.
+chat.tandem.Client	원격 팀을 위한 가상 사무실
+cn.lceda.LCEDAPro	더 쉽고 강력한 온라인 PCB 설계 도구
+cn.navclub.ldbfx	시각적 데이터베이스 관리 도구
+cn.ottercorp.xivlaunchercn	Final Fantasy XIV Online(중국 버전)을 위한 런처 및 원활한 Linux 통합
+cn.xfangfang.wiliwili	컨트롤러 사용자를 위해 특별히 설계된 타사 Bilibili 클라이언트
+co.headsetapp.headset	헤드폰. YouTube에서 음악을 발견하고 수집하세요.
+co.luoja.Telyn	파라메트릭 재봉 패턴을 위한 시각적 편집기
+codes.loers.Karlender	일정 관리
+codes.loers.Punchclock	작업 시간을 추적하세요.
+codes.merritt.FeelingFinder	빠르고 아름다운 이모티콘 선택기
+codes.merritt.Nyrna	게임 및 애플리케이션 일시 중단
+codes.merritt.adventurelist	모든 장치에 동기화되는 할 일 목록
+codes.merritt.bargain	쇼핑할 때 쉽게 품목을 비교해보세요
+codes.nora.gDiceRoller	가능한 모든 조합으로 다양한 모양과 크기의 주사위를 굴립니다.
+com.abagames.noiz2sa	열광적인 추상 슈팅 게임
+com.abagames.rRootage	자동 생성된 거대 전함을 처치하세요.
+com.abisource.AbiWord	워드 프로세서
+com.adamcake.Bolt	오픈 소스 타사 Jagex 실행 프로그램
+com.adilhanney.ricochlime	만족스러운 몬스터 슈터
+com.adilhanney.saber	필기용으로 제작된 메모 앱
+com.adilhanney.super_nonogram	절차적으로 생성된 노노그램 퍼즐을 무제한으로 풀어보세요!
+com.adilhanney.timing	1초 미만의 타이밍 간격을 식별하는 방법 알아보기
+com.adobe.Flash-Player-Projector	Adobe Flash를 사용하여 제작된 콘텐츠용 플레이어
+com.adobe.Reader	PDF 뷰어
+com.adrienplazas.Metronome	템포를 유지하세요
+com.agatanawrot.karambola	이 짧은 손으로 그린 포인트 앤 클릭 퍼즐 모험에서 어두운 생각의 힘으로부터 감정적인 과일 친구들을 구출하려는 Karambola의 여정을 도와주세요.
+com.agateau.PixelWheels	Pixel Wheels는 복고풍 하향식 경주 게임입니다.
+com.agateau.nanonote	최소한의 메모 작성 응용 프로그램입니다.
+com.airtame.Client	Airtame은 무선 스트리밍 솔루션입니다.
+com.albiononline.AlbionOnline	MMORPG 오픈 중세 판타지 게임
+com.alientrap.nexuiz-classic	멀티플레이어 1인칭 슈팅 게임
+com.alovoa.alovoa-electron	오픈 소스 온라인 데이트 애플리케이션
+com.amazon.Workspaces	언제 어디서나 어떤 기기에서든 데스크탑에 액세스하세요
+com.ampl.ide	AMPL 사용자를 위한 간단하고 직관적인 향상된 모델링 인터페이스
+com.anydesk.Anydesk	원격으로 컴퓨터에 연결
+com.arteeh.Flasher	ST-Link로 PineTime 스마트워치를 플래싱하기 위한 간단한 앱
+com.arviceblot.eso-addon-manager	The Elder Scrolls Online의 크로스 플랫폼 비공식 애드온 관리자입니다.
+com.atlauncher.ATLauncher	다양한 모드팩을 통합하여 쉽고 빠르게 모드팩을 다운로드하고 설치할 수 있는 Minecraft용 런처입니다.
+com.authy.Authy	Twilio Authy 2단계 인증 데스크톱 애플리케이션
+com.avocode.Avocode	모든 디자인을 핸드오프하고 검사합니다.
+com.axosoft.GitKraken	리포지토리 관리, 인앱 코드 편집 및 문제 추적을 위해.
+com.baidu.NetDisk	Baidu Netdisk 데스크톱 클라이언트
+com.bambulab.BambuStudio	완벽한 3D 프린트를 얻으세요!
+com.basemark.BasemarkGPU	GPU 성능 평가 도구
+com.behringer.XAirEdit	Behringer XR 믹서 사용자 인터페이스
+com.belmoussaoui.Authenticator	인증받은 코드 생성
+com.belmoussaoui.Decoder	QR 코드를 검색하고
+com.belmoussaoui.Obfuscate	개인정보 검열
+com.belmoussaoui.ReadItLater	웹 기사 저장 및 읽기
+com.belmoussaoui.ashpd.demo	포털을 가지고 놀아보세요
+com.belmoussaoui.snowglobe	DBus를 통해 QEMU를 사용하는 가상화 뷰어
+com.biglybt.BiglyBT	기능이 가득한 오픈 소스, 광고 없는 비트토렌트 클라이언트
+com.bitwarden.desktop	모든 장치를 위한 안전한 무료 비밀번호 관리자
+com.bitwig.BitwigStudio	현대음악 제작 및 공연
+com.bixense.PasswordCalculator	단일 비밀에서 각 별칭에 대한 강력한 비밀번호를 계산하세요.
+com.bjareholt.johan.SimpleDiary	간단하고 가벼운 일기 앱
+com.bktus.gpgfrontend	OpenPGP 암호화 도구
+com.bladecoder.adventure-editor	클래식 포인트 앤 클릭 어드벤처 게임 엔진 및 편집기
+com.blitterstudio.amiberry	Linux용 Amiga 에뮬레이터
+com.blockstream.Green	간단하고 안전한 비트코인 및 Liquid Network 지갑
+com.borgbase.Vorta	백업 클라이언트
+com.boxy_svg.BoxySVG	확장 가능한 벡터 그래픽 편집기
+com.brave.Browser	Brave의 웹 브라우저
+com.brosix.Brosix	올인원 보안 인스턴트 메신저
+com.budgetwithbuckets.Buckets	빠르고 간단한 개인 가족 예산 앱
+com.calibre_ebook.calibre	모든 전자책 요구 사항을 충족하는 원스톱 솔루션
+com.carpeludum.KegaFusion	Sega 8 및 16비트 콘솔용 에뮬레이터
+com.cassidyjames.butler	홈어시스턴트의 동반자
+com.cassidyjames.plausible	Google Analytics에 대한 간단하고 개인정보 보호적인 대안
+com.cburch.Logisim	Logisim은 논리 회로 설계 및 시뮬레이션을 위한 그래픽 도구입니다.
+com.chatterino.chatterino	twitch.tv용 채팅 클라이언트
+com.chez.GrafX2	256색 드로잉에 특화된 비트맵 페인트 프로그램
+com.chmouel.gnomeNextMeetingApplet	패널에 다음 이벤트 표시
+com.chowdsp.BYOD	BYOD: 나만의 왜곡 가져오기, 독립형
+com.chroniclogic.Zatikon	적의 성을 정복하는 체스풍 판타지 게임
+com.clarahobbs.chessclock	보드 위 체스의 시간 게임
+com.claudiocambra.brickbuster	재미있고 중독성이 강한 벽돌 깨기 게임입니다!
+com.cocoatech.deckr	Deckr Chrome 플러그인과 함께 사용되는 데스크톱 앱
+com.codemouse92.timecard	시간을 아름답게 추적하세요.
+com.coeck_studios.Dinonuggys-Journey	픽셀 아트 2D 플랫폼 게임입니다.
+com.corsixth.corsixth	테마병원 오픈소스 클론
+com.cuperino.qprompt	모든 비디오 제작자를 위한 개인용 텔레프롬프터 소프트웨어
+com.daidouji.oneko	데스크탑의 마우스 포인터 장난감을 따라가는 고양이
+com.darhon.drfinance	개인 계정을 관리하세요
+com.darhon.syncbackup	드라이브 백업 및 미러링
+com.dec05eba.gpu_screen_recorder	Linux용 섀도우플레이 같은 스크린 레코더입니다. 가장 빠른 Linux용 화면 녹화기
+com.dhsdevelopments.Climaxima	Maxima CAS용 프런트엔드
+com.diffingo.fwbackups	기능이 풍부하고 사용자 친화적인 백업 프로그램
+com.discordapp.Discord	메시징, 음성 및 영상 클라이언트
+com.diy_fever.DIYLayoutCreator	PCB, vero-board, point-to-point, perf-board 및 기타 배선 다이어그램을 지원하는 회로 레이아웃 설계 도구
+com.djoffe.gnukem	복고풍 스타일의 2D 스크롤 플랫폼 슈팅 게임
+com.dosbox.DOSBox	사운드와 그래픽이 포함된 x86/DOS 에뮬레이터
+com.dosbox_x.DOSBox-X	사운드와 그래픽이 포함된 x86/DOS 에뮬레이터
+com.doycho.euterpe.gtk	Euterpe 미디어 서버용 미디어 플레이어 클라이언트.
+com.dreamsourcelab.DSView	모두를 위한 오픈 소스 다기능 기기
+com.dropbox.Client	어느 컴퓨터에서나 파일에 액세스
+com.eduke32.EDuke32	EDuke32는 멋진 무료 홈브류 게임 엔진입니다.
+com.ekonomikas.merkato	투자 추적
+com.elsevier.MendeleyDesktop	Mendeley는 무료 참고자료 관리자이자 학술 소셜 네트워크입니다.
+com.eminfedar.vaktisalah	크로스 플랫폼 기도 시간 애플리케이션
+com.emqx.MQTTX	우아한 크로스 플랫폼 MQTT 5.0 데스크탑 클라이언트
+com.endlessm.photos	좋아하는 사진을 모두 쉽게 편집하고 공유하세요.
+com.endlessnetwork.MidnightmareTeddy	총을 쏘고 살아남으세요
+com.endlessnetwork.aqueducts	세상을 구하기 위해 해킹하는 몰입형 퍼즐 어드벤처 게임입니다!
+com.endlessnetwork.dragonsapprentice	퍼즐 해결 던전 크롤링 게임과 같은 RPG 등!
+com.endlessnetwork.fablemaker	이전과는 전혀 다른 이솝 우화의 세계로 들어가보세요! 몰입도 높고 교육적인 이 앱에서 문자, 텍스트, 사운드를 맞춤 설정하고 코드를 해킹할 수 있는 대화형 스토리를 만나보세요.
+com.endlessnetwork.frogsquash	반전이 있는 중독성 있는 교차로 게임
+com.endlessnetwork.missilemath	비행기 비행 슈팅 게임
+com.endlessnetwork.passage	이 횡스크롤 액션 어드벤처 슈팅 게임을 통해 해킹하세요
+com.endlessnetwork.tankwarriors	운전, 사격, 폭발 및 프로그래밍이 모두 하나의 게임에 포함되어 있습니다.
+com.endlessnetwork.whitehouse	CSS의 마법을 사용하여 숨겨진 개체와 단서를 드러내는 독특한 색상과 빛으로 세상을 해킹하세요.
+com.enjoyingfoss.Parlera	친구들이 설명하고 추측하는 파티 게임입니다. 혹은 그 반대로도
+com.enjoyingfoss.feeel	개인정보를 존중하는 간단한 홈 트레이닝/운동 앱
+com.epicgames.ut2004	1인칭 아레나 슈터
+com.epicgames.ut99	1인칭 아레나 슈터
+com.etlegacy.ETLegacy	ET: Legacy는 GPLv3 조건에 따라 2010년에 출시된 Wolfenstein: Enemy Territory의 코드를 기반으로 하는 오픈 소스 프로젝트입니다.
+com.expidusos.calculator	ExpidusOS 계산기
+com.expidusos.file_manager	ExpidusOS 파일 관리자
+com.feaneron.Boatswain	Elgato 스트림 데크 제어
+com.felipekinoshita.Kana	일본어 문자 배우기
+com.felipekinoshita.Wildcard	정규식 테스트
+com.fightcade.Fightcade	온라인으로 아케이드 게임을 즐겨보세요.
+com.flashforge.FlashPrint	FlashForge 3D 프린터용 슬라이서
+com.frac_tion.teleport	로컬 네트워크를 통해 파일 공유
+com.freerdp.FreeRDP	Linux용 FreeRDP(원격 데스크톱 프로토콜) 클라이언트
+com.frogatto.Frogatto	구식 2D 플랫폼 게임
+com.fyralabs.SkiffDesktop	개인정보 보호를 최우선으로 하는 엔드투엔드 암호화 이메일
+com.gamestarmechanic.gamestarmechanic	비디오 게임 디자인을 배우세요
+com.geekbench.Geekbench6	크로스 플랫폼 시스템 벤치마크
+com.georgefb.mangareader	로컬 파일용 만화 리더
+com.georgefb.quickaccess	폴더 및 사용자 정의 명령에 빠르게 액세스할 수 있는 전역 메뉴입니다.
+com.getmailspring.Mailspring	직장의 사람과 팀을 위한 최고의 이메일 앱
+com.getpostman.Postman	API 구축 및 사용을 위한 플랫폼
+com.ghostery.browser	Ghostery의 완전한 비공개 브라우징 경험
+com.giadamusic.Giada	하드코어 루프 머신
+com.gigitux.youp	왓츠앱
+com.gitfiend.GitFiend	인간을 위해 설계된 Git 클라이언트
+com.github.ADBeveridge.Raider	파일을 안전하게 삭제하세요
+com.github.Alcaro.Flips	IPS 및 BPS 파일용 패치 프로그램
+com.github.AlizaMedicalImaging.AlizaMS	DICOM 뷰어
+com.github.AmatCoder.mednaffe	mednafen 에뮬레이터용 프런트엔드(GUI)(포함)
+com.github.Anuken.Mindustry	Mindustry: 샌드박스 타워 방어 게임
+com.github.Bleuzen.FFaudioConverter	일괄 오디오 변환기 및 효과 프로세서
+com.github.Darazaki.Spedread	GTK 속독 소프트웨어: 스피드러너처럼 읽으세요!
+com.github.Eloston.UngoogledChromium	Google 웹 서비스 종속성을 제거하기 위한 가벼운 접근 방식
+com.github.Flacon	Flacon은 전체 음악 앨범이 포함된 하나의 큰 오디오 파일에서 개별 트랙을 추출하여 별도의 오디오 파일로 저장합니다.
+com.github.GradienceTeam.Gradience	Adwaita의 구성을 쉽게 변경합니다
+com.github.HypatiaProject.hypatia	흥미로운 주제에 대한 맥락과 정보를 제공하는 연구 도우미 도구입니다.
+com.github.IsmaelMartinez.teams_for_linux	Electron을 사용하는 Linux용 비공식 Microsoft Teams 클라이언트
+com.github.JannikHv.Gydl	YouTube와 같은 사이트에서 콘텐츠 다운로드
+com.github.Johnn3y.Forklift	비디오 및 오디오 다운로드 애플리케이션
+com.github.KRTirtho.Spotube	🎧 Premium이 필요하지 않고 Electron을 사용하지 않는 오픈 소스 Spotify 클라이언트! 데스크톱과 모바일 모두에서 사용 가능합니다!
+com.github.LongSoft.UEFITool	UEFI 펌웨어 이미지 뷰어 및 편집기
+com.github.Matoking.protontricks	Proton 지원 게임에 대한 winetricks 작업을 수행하는 간단한 래퍼
+com.github.Murmele.Gittyup	소스 코드 기록을 이해하고 관리하는 데 도움이 되도록 설계된 그래픽 Git 클라이언트
+com.github.Murmele.scram	확률적 위험 분석을 위한 명령줄 및 그래픽 도구
+com.github.PintaProject.Pinta	이미지 편집 및 디지털 방식으로 페인팅
+com.github.PopoutApps.popout3d	일반 카메라로 촬영한 사진으로 3D 이미지를 생성합니다.
+com.github.Qv2ray	Qv2ray는 Qt로 작성된 크로스 플랫폼 v2ray 그래픽 프런트엔드입니다.
+com.github.Rosalie241.RMG	C++ 및 Qt로 작성된 사용하기 쉬운 크로스 플랫폼 mupen64plus 프런트 엔드
+com.github.Xenoveritas.abuse	다크 2D 횡스크롤 플랫폼 게임
+com.github._0negal.Viper	Viper는 Northstar의 런처이자 업데이트 프로그램이며 그 이상은 아닙니다.
+com.github._4lex4.ScanTailor-Advanced	스캔한 페이지를 위한 대화형 후처리 도구
+com.github.afrantzis.Bless	Gtk# 16진수 편집기
+com.github.aharotias2.parapara	라이브러리가 없는 이미지 뷰어
+com.github.ahrm.sioyek	연구 논문 및 기술 서적을 읽을 수 있도록 설계된 PDF 뷰어
+com.github.alainm23.byte	음악을 재발견하세요
+com.github.alainm23.planner	다시는 잊어버릴까 봐 걱정하지 마세요
+com.github.alecaddd.sequeler	친숙한 SQL 클라이언트
+com.github.alexhuntley.Plots	간단한 그래프 그리기
+com.github.alexkdeveloper.astronum	간단한 점성술 및 수비학 계산을 위한 프로그램
+com.github.alexkdeveloper.desktop-files-creator	GNU/Linux에서 데스크탑 파일을 생성하기 위한 간단한 앱
+com.github.alexkdeveloper.dice	간단한 주사위 게임
+com.github.alexkdeveloper.dwxmlcreator	간단한 동적 배경화면 생성기
+com.github.alexkdeveloper.easter	가톨릭 부활절 날짜 계산하기
+com.github.alexkdeveloper.forgetpass	웹사이트를 위한 간단한 비밀번호 생성기
+com.github.alexkdeveloper.goldsearch	금을 찾아야하는 게임
+com.github.alexkdeveloper.notepad	텍스트 메모를 쉽게 만들 수 있습니다.
+com.github.alexkdeveloper.recorder	간단한 오디오 레코더
+com.github.alexkdeveloper.relaxator	편안한 소리를 들으며 휴식을 취하세요
+com.github.alexkdeveloper.somafm	somafm.com 웹사이트에서 제공되는 방송국이 내장된 간단한 라디오
+com.github.alexkdeveloper.sudoku	스도쿠 게임
+com.github.amikha1lov.RecApp	GTK로 작성된 Linux용 사용자 친화적인 오픈 소스 스크린캐스터
+com.github.appadeia.Taigo	Taigo는 데스크탑을 위한 가상 애완동물입니다
+com.github.arminstraub.krop	PDF 파일을 자르는 도구
+com.github.arshubham.cipher	텍스트 인코딩 및 디코딩
+com.github.arshubham.gitignore	.gitignore 다양한 언어에 대한 참조
+com.github.artemanufrij.graphui	그래프 시각화
+com.github.artemanufrij.playmymusic	로컬 음악 파일, 온라인 라디오 및 오디오 CD를 듣기 위한 음악 플레이어
+com.github.artemanufrij.playmyvideos	로컬 비디오 파일을 시청하기 위한 비디오 플레이어
+com.github.artemanufrij.regextester	정규식 테스트를 위한 간단한 앱
+com.github.avojak.paint-spill	색깔을 채우는 퍼즐 게임
+com.github.avojak.warble	단어 추측 게임
+com.github.babluboy.bookworm	집중형 eBook 리더
+com.github.bajoja.indicator-kdeconnect	KDE Connect용 AppIndicator
+com.github.bcedu.valasimplehttpserver	동일한 네트워크에 있는 모든 장치에서 파일에 액세스
+com.github.bcedu.vgrive	Linux용 자동 동기화 기능을 갖춘 Google 드라이브 클라이언트
+com.github.benpocalypse.Huely	당신의 공간을 색칠해보세요
+com.github.birros.WebArchives	웹 아카이브 뷰어
+com.github.bjaraujo.Bombermaaan	아케이드 게임
+com.github.bluesabre.darkbar	원하는 대로 애플리케이션 제목 표시줄을 어둡게 합니다.
+com.github.buddhi1980.mandelbulber2	무료 오픈 소스 3D 도형 생성기
+com.github.bvschaik.julius	Julius는 Caesar III를 오픈 소스로 다시 구현한 것입니다.
+com.github.calo001.fondo	가장 아름다운 배경화면을 찾아보세요
+com.github.calo001.luna	놀라운 달력 위젯
+com.github.carlos157oliveira.Calculus	미분 및 적분 계산
+com.github.cassidyjames.clairvoyant	질문하고 정신적 답변을 얻으세요
+com.github.cassidyjames.dippi	DPI 및 종횡비와 같은 디스플레이 정보 계산
+com.github.cfcurtis.pdfstitcher	PDF Stitcher는 PDF 재봉 패턴의 선 속성을 함께 연결하고 수정하는 유틸리티입니다.
+com.github.childishgiant.mixer	앱 볼륨 변경
+com.github.chipmuenk.pyfda	Python 필터 설계 분석 도구
+com.github.christianrauch.Jahresarbeit-2003	연결된 사각형의 가장 큰 면적 찾기
+com.github.corna.Vivado	하드웨어 개발을 위한 Xilinx Design Suite
+com.github.coslyk.MoonPlayer	YouTube, Youku 등의 온라인 비디오를 재생하고 다운로드하기 위한 비디오 플레이어입니다.
+com.github.cubitect.cubiomes-viewer	효율적인 Minecraft 시드 찾기 및 지도 뷰어입니다.
+com.github.d4nj1.tlpui	TLP 구성 파일을 쉽게 변경하는 GTK-UI.
+com.github.dahenson.agenda	작업 완료
+com.github.dail8859.NotepadNext	크로스 플랫폼, Notepad++ 재구현
+com.github.dariasteam.cowsrevenge	인디 플랫폼 게임 픽셀 아트 게임
+com.github.dawidd6.checksumo	지정된 해시에 대해 지정된 파일을 확인합니다.
+com.github.debauchee.barrier	장벽 - 로컬 네트워크를 통해 마우스 및 키보드 공유
+com.github.devalien.workspaces	항상 출근 준비를 하세요.
+com.github.dimkr.gplaces	터미널 기반 Gemini 클라이언트
+com.github.donadigo.appeditor	애플리케이션 메뉴 편집
+com.github.dynobo.normcap	화면 어디에서나 텍스트 추출
+com.github.edenalencar.identifications	QA팀과 개발자를 위한 도구입니다.
+com.github.elth0r0.iqpuzzle	기분을 전환시키는 I.Q. 도전적인 펜토미노 퍼즐
+com.github.emmanueltouzery.cigale	과거 활동을 검토하세요.
+com.github.emmanueltouzery.hotwire	Hotwire를 사용하면 몇 가지 인기 있는 프로토콜의 네트워크 트래픽을 간단한 방법으로 연구할 수 있습니다.
+com.github.emmanueltouzery.projectpad	Projectpad를 사용하면 소프트웨어 개발자 또는 시스템 관리자로서 처리해야 하는 비밀 자격 증명 및 서버 정보를 관리할 수 있습니다.
+com.github.eneshecan.WhatsAppForLinux	Linux용 비공식 WhatsApp 데스크탑 애플리케이션
+com.github.fabiocolacio.marker	그놈 데스크탑을 편집할 때 마크다운 편집기입니다.
+com.github.finefindus.eyedropper	색상 선택 및 서식 지정
+com.github.flxzt.rnote	스케치 및 손글씨 메모 작성하기
+com.github.fontmatrix.Fontmatrix	글꼴 관리 애플리케이션
+com.github.fries1234.ncsa-mosaic	NSCA 모자이크 웹 브라우저
+com.github.gabutakut.gabutdm	간단하고 빠른 다운로드 관리자
+com.github.geigi.cozy	오디오북 듣기
+com.github.giacomogroppi.writernote-qt	Writernote는 오디오를 녹음하여 메모를 하고, 나중에 텍스트로 번역하고, 지능적인 방식으로 들을 수 있는 멀티 플랫폼 애플리케이션입니다.
+com.github.gijsgoudzwaard.image-optimizer	단순 무손실 이미지 압축
+com.github.git_cola.git-cola	세련되고 강력한 Git GUI
+com.github.gmg137.netease-cloud-music-gtk	Rust + GTK 기반 Netease 클라우드 음악 플레이어
+com.github.gpuvis.Gpuvis	GPU 추적 시각화 도구
+com.github.gyunaev.spivak	노래방 플레이어
+com.github.hluk.copyq	고급 클립보드 관리자
+com.github.hopsan.Hopsan	유체 동력 및 메카트로닉스 시스템을 위한 모델링 및 시뮬레이션 도구
+com.github.horaciodrs.tradesim	Linux 트레이딩 시뮬레이터
+com.github.hugolabe.Wike	Wikipedia 기사 검색 및 읽기
+com.github.huluti.Coulr	색상을 즐기고 행복을 느껴보세요!
+com.github.huluti.Curtail	사용자의 이미지를 압축합니다
+com.github.ilai_deutel.kibi	Rust로 작성된 1024줄 이하의 코드로 구성된 텍스트 편집기
+com.github.inercia.k3x	k3d를 사용한 로컬 Kubernetes 클러스터 관리자
+com.github.iortcw.iortcw	Return to Castle Wolfenstein용 게임 엔진
+com.github.iwalton3.jellyfin-media-player	Jellyfin 미디어 서버용 데스크톱 클라이언트
+com.github.iwalton3.jellyfin-mpv-shim	Jellyfin Media Server용 Cast 전용 클라이언트
+com.github.jeromerobert.pdfarranger	PDF를 합치기, 자격을 부여하기, 회전시키거나 선택하기
+com.github.jkotra.eovpn	OpenVPN 구성 관리자
+com.github.jkotra.unlockr	PDF 비밀번호 제거기
+com.github.jmlich.geotagging	사진을 찍은 장소를 찾으려면
+com.github.jms55.Sandbox	모래 시뮬레이션 게임
+com.github.johnfactotum.Foliate	스타일리시하게 전자책 읽기
+com.github.johnfactotum.QuickLookup	빨리 단어를 찾아보세요
+com.github.joseexposito.touche	멀티터치 제스처
+com.github.jpakkane.glyphtracer	글자 이미지를 글꼴로 변환
+com.github.junrrein.PDFSlicer	PDF 문서의 페이지를 추출, 병합, 회전 및 재정렬하는 간단한 도구입니다.
+com.github.juzzlin.DustRacing2D	레벨 편집기가 포함된 전통적인 하향식 자동차 경주 게임
+com.github.k4zmu2a.spacecadetpinball	우주 생도 핀볼용 게임 엔진
+com.github.kagami.boram	크로스 플랫폼 그래픽 WebM 변환기.
+com.github.kalibari.audok	무료 오픈 소스 음악 플레이어
+com.github.keriew.augustus	Augustus는 게임 플레이를 변경하여 Caesar III를 오픈 소스로 다시 구현한 것입니다.
+com.github.kmwallio.thiefmd	훔칠 가치가 있는 마크다운 편집기.
+com.github.labyrinth_team.labyrinth	가벼운 마인드 매핑 도구
+com.github.lachhebo.Gabtag	오디오 태깅 도구
+com.github.libresprite.LibreSprite	애니메이션 스프라이트 편집기 및 픽셀 아트 도구
+com.github.liferooter.textpieces	임의의 웹사이트를 사용하지 않고 텍스트를 변환하세요
+com.github.louis77.tuner	인터넷 라디오 방송국을 검색하고 청취하세요.
+com.github.lxgr_linux.pokete	게임과 같은 터미널 기반 포켓몬
+com.github.makhber.Makhber	과학 데이터의 시각화 및 분석
+com.github.maoschanz.DynamicWallpaperEditor	GNOME 데스크탑용 XML 동적 배경화면(배경 슬라이드쇼) 생성 또는 편집
+com.github.maoschanz.drawing	스크린샷 또는 밈 편집
+com.github.marhkb.Pods	Podman 컨테이너를 추적하세요.
+com.github.marinm.songrec	Rust로 작성된 Linux용 오픈 소스 비공식 Shazam 클라이언트입니다.
+com.github.marktext.marktext	차세대 마크다운 편집기
+com.github.matfantinel.moneta	데스크탑에서 실제 통화의 환율을 모니터링하세요
+com.github.matfantinel.reminduck	사랑스럽고 짜증나는 방식으로 당신의 물건을 기억하십시오.
+com.github.mdh34.hackup	데스크톱에서 해커 뉴스 읽기
+com.github.mdh34.quickdocs	개발자 문서를 빠르게 읽으세요
+com.github.mgropp.PdfJumbler	PDF 파일의 페이지를 재정렬, 병합, 삭제 및 회전하는 간단한 도구
+com.github.miguelmota.Cointop	암호화폐 추적을 위한 터미널 기반 애플리케이션
+com.github.mikacousin.olc	조명 쇼를 제어하세요
+com.github.mtkennerly.ludusavi	PC 비디오 게임 저장 데이터 백업
+com.github.muriloventuroso.easyssh	SSH 연결 관리자
+com.github.muriloventuroso.givemelyrics	당신의 노래를 부르는 가사
+com.github.muriloventuroso.pdftricks	PDF 파일을 위한 요령
+com.github.naaando.lyrics	노래를 부르는 아름다운 방법
+com.github.needleandthread.vocal	최신 무료 데스크탑을 위한 훌륭한 팟캐스트 클라이언트
+com.github.neithern.g4music	음악을 우아하게 연주하세요
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x 변환기 ncnn 버전
+com.github.nrittsti.NTag	NTag는 일상 생활 사용 사례에 초점을 맞춘 크로스 플랫폼 그래픽 태그 편집기입니다.
+com.github.ojubaorg.Othman	전자 꾸란 브라우저
+com.github.opentyrian.OpenTyrian	DOS 슈팅 게임 Tyrian의 오픈 소스 포트입니다.
+com.github.optyfr.JRomManager	Mame 및 Retrogaming Rom 관리자
+com.github.paolostivanin.OTPClient	내장된 암호화로 TOTP 및 HOTP 토큰을 관리하기 위한 GTK+ 애플리케이션입니다.
+com.github.petebuffon.yafc	YAFC는 Factorio 계산기, 플래너 및 분석기입니다. YAFC의 주요 목표는 심하게 수정된 게임에 대처하는 것입니다.
+com.github.phase1geo.minder	아이디어를 생성, 개발 및 시각화
+com.github.philip_scott.notes-up	새 노트북
+com.github.philip_scott.spice-up	간단하고 아름다운 프레젠테이션 만들기
+com.github.polymeilex.neothesia	GPU 가속 미디 비주얼라이저
+com.github.powertab.powertabeditor	기타 악보 보기 및 편집
+com.github.qarmin.czkawka	중복 항목, 빈 폴더, 유사한 이미지, 손상된 파일 등을 찾는 다기능 앱입니다.
+com.github.qarmin.szyszka	Rust로 작성된 간단하지만 강력한 파일 이름 변경 프로그램
+com.github.quaternion	Matrix 네트워크용 Qt 기반 클라이언트
+com.github.rafostar.Clapper	단순하고 현대적인 그놈 미디어 플레이어
+com.github.raibtoffoletto.litteris	펜팔 서신 정리
+com.github.rajsolai.response	웹페이지의 반응성을 테스트하세요
+com.github.rajsolai.textsnatcher	드래그만으로 텍스트 캡처
+com.github.ransome1.sleek	Linux, 무료 및 오픈 소스(FOSS)용 todo.txt 구문을 기반으로 하는 할일 관리자
+com.github.reds.LogisimEvolution	디지털 로직 디자이너 및 시뮬레이터
+com.github.reduz.ChibiTracker	ChibiTracker는 휴대용 IT(Impulse Tracker) 복제품입니다.
+com.github.rhyme_player.rhyme	음악의 집.
+com.github.rkoesters.xkcd-gtk	xkcd 읽기: 로맨스, 풍자, 수학, 언어가 담긴 웹툰
+com.github.robertsanseries.ciano	멀티미디어 파일 변환기
+com.github.rogercrocker.badabib	BibTeX 항목 보기 및 편집
+com.github.ryanakca.slingshot	중력을 이용한 2D 공간 슈팅 게임
+com.github.ryonakano.konbucase	텍스트의 대소문자 변환
+com.github.ryonakano.pinit	즐겨찾는 휴대용 앱의 바로가기를 앱 실행기에 고정하세요.
+com.github.ryonakano.reco	나중에 내용을 기억할 수 있도록 대화를 녹음하세요.
+com.github.sakya.corechess	체스 엔진을 위한 오픈 소스 체스 GUI
+com.github.scrivanolabs.scrivano	타이핑보다 손글씨를 선호하는 사람들을 위한 메모 작성 애플리케이션입니다.
+com.github.sdv43.whaler	도커 컨테이너 관리
+com.github.shonumi.gbe-plus	Game Boy(Color, Advance) 에뮬레이터
+com.github.sixpounder.GameOfLife	Conway의 인생 게임을 플레이해보세요
+com.github.skullernet.q2pro	향상된 Quake 2 클라이언트
+com.github.skylot.jadx	Dex에서 Java 디컴파일러로
+com.github.subhadeepjasu.pebbles	고급 계산을 쉽게 수행
+com.github.suzie97.communique	플랫폼 간 동기화 기능이 있는 RSS 리더
+com.github.taiko2k.avvie	아바타나 배경화면용 이미지 자르기
+com.github.taiko2k.tauonmb	스타일 있게 음악을 연주하세요
+com.github.tchx84.Flatseal	Flatpak 권한 관리
+com.github.tenderowl.frog	이미지에서 텍스트 추출
+com.github.tenderowl.norka	지속적인 텍스트 편집기
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto는 간단한 방법으로 텍스트를 암호화하고 해독할 수 있는 크로스 플랫폼 애플리케이션입니다.
+com.github.theCalcaholic.StreamDeck	Steam에 스트리밍 웹 서비스 추가
+com.github.theironrobin.siglo	PineTime을 PinePhone과 동기화하세요
+com.github.themix_project.Oomox	아이콘, xrdb 및 GTK 테마 사용자 정의
+com.github.tmewett.BrogueCE	Brogue: Community Edition - 많은 사랑을 받는 미니멀리스트 로그라이크 게임의 커뮤니티 주도 포크
+com.github.treagod.spectator	REST API를 편안하게 테스트해보세요!
+com.github.unrud.RemoteTouchpad	스마트폰에서 마우스 및 키보드 제어
+com.github.unrud.VideoDownloader	유튜브, 또는 다양한 웹사이트에서 동영상을 다운받으세요.
+com.github.unrud.djpdf	스캔한 문서에서 검색 가능한 작은 PDF 만들기
+com.github.utsushi.Utsushi	Epson용 이미지 수집 유틸리티
+com.github.varnholt.dynablaster_revenge	게임 Dynablaster의 리메이크
+com.github.vikdevelop.photopea_app	Adobe Photoshop 사용자를 위한 무료 대안
+com.github.vikdevelop.timer	간단한 카운트다운 타이머
+com.github.vkohaupt.vokoscreenNG	사용하기 쉬운 스크린캐스트 생성기
+com.github.vladimiry.ElectronMail	ProtonMail용 비공식 데스크톱 클라이언트
+com.github.weclaw1.ImageRoll	기본 이미지 조작 도구가 포함된 이미지 뷰어
+com.github.wwmm.easyeffects	PipeWire 응용 프로그램을 위한 오디오 효과
+com.github.wwmm.pulseeffects	PulseAudio 애플리케이션을 위한 오디오 효과
+com.github.xournalpp.xournalpp	손으로 메모를 작성하세요
+com.github.yucefsourani.albasheer-electronic-quran-browser	전자 꾸란 브라우저
+com.github.z.Cumulonimbus	간단하고 아름다운 팟캐스트 앱
+com.github.zadam.trilium	개인 지식 기반 구축
+com.github.zocker_160.SyncThingy	SyncThingy = 합성 + 간단한 트레이 표시기
+com.github.ztefn.haguichi	Hamachi용 그래픽 프런트엔드
+com.gitlab.ColinDuquesnoy.MellowPlayer	데스크탑을 위한 클라우드 음악 통합
+com.gitlab.Murmele.UDPLogger	UDPLogger는 UDP 데이터의 경량 고성능 로거입니다. 추가로 데이터를 플롯으로 시각화할 수 있습니다.
+com.gitlab.adnan338.Invoicer	결제 송장 만들기
+com.gitlab.adnan338.Nixwriter	부팅 가능한 Linux 이미지 만들기
+com.gitlab.azymohliad.Qwertone	당신의 PC를 악기로 바꿔드립니다
+com.gitlab.bitseater.meteo	데이터와 지도를 통해 다음 시간과 날짜에 대한 예측을 알아보세요.
+com.gitlab.coringao.JAG	모든 목표 조각을 깨뜨려야 하는 아케이드 및 퍼즐 2D 게임
+com.gitlab.coringao.cavestory-nx	향수를 불러일으키는 사이드 액션 어드벤처 게임
+com.gitlab.cutecom.cutecom	그래픽 직렬 터미널
+com.gitlab.davem.ClamTk	사용하기 쉬운 Clam Antivirus(ClamAV)용 그래픽 사용자 인터페이스
+com.gitlab.guillermop.MasterKey	비밀번호 관리자 애플리케이션
+com.gitlab.j0chn.nextcloud_password_client	데스크탑에서 Nextcloud 비밀번호를 관리하세요
+com.gitlab.kendellfab.restscope	D와 GtkD로 구축된 간단한 http/rest 테스트 도구입니다.
+com.gitlab.librebob.Athenaeum	Steam의 자유로운 대체품
+com.gitlab.maevemi.publictransport	독일 대중교통 앱(현재)
+com.gitlab.tipp10.tipp10	터치 타이핑 교사
+com.gluonhq.SceneBuilder	Scene Builder는 JavaFX 사용자 인터페이스의 드래그 앤 드롭 디자인을 허용하는 오픈 소스 도구입니다.
+com.google.AndroidStudio	Google의 Android 플랫폼을 위한 통합 개발 환경
+com.google.Chrome	Google의 웹 브라우저
+com.google.ChromeDev	Google의 웹 브라우저
+com.google.EarthPro	3D 행성 뷰어
+com.googleplaymusicdesktopplayer.GPMDP	Google Play 뮤직을 독립형 데스크톱 앱으로 실행
+com.grangerhub.Tremulous	외계인 대 인간, 실시간 전략 요소가 포함된 1인칭 슈팅 게임
+com.hack_computer.Clubhouse	아이들이 코딩 방법을 배울 수 있는 곳
+com.hack_computer.OperatingSystemApp	시스템을 사용하면 컴퓨터를 계속 작동시키는 마법의 일부가 될 수 있습니다!
+com.hack_computer.Sidetrack	구덩이와 로봇의 미로를 탈출하세요!
+com.hamrick.VueScan	6000개 이상의 스캐너를 위한 스캐닝 소프트웨어
+com.helix_editor.Helix	포스트모던 텍스트 편집기
+com.her01n.BatteryInfo	시스템 배터리에 대한 정보를 표시합니다.
+com.heroicgameslauncher.hgl	오픈 소스 Epic Games, GOG 및 Amazon Prime Games Launcher.
+com.hostbuf.FinalShell	FinalShell SSH 도구
+com.howlingmoonsoftware.CrayonBall	빠르게 진행되는 매치 4 퍼즐 게임
+com.hunterwittenborn.Celeste	클라우드 파일 동기화
+com.icanblink.blink	SIP 클라이언트 깜박임
+com.icons8.Lunacy	AI 도구와 내장 그래픽으로 흐름을 유지하는 무료 디자인 소프트웨어
+com.identicalsoftware.anagramarama	뒤죽박죽된 글자로 단어 만들기
+com.inform7.IDE	인터랙티브 소설 쓰기
+com.inklestudios.Inky	Inkle의 마크업 언어로 대화형 내러티브 작성
+com.inochi2d.inochi-creator	Inochi2D 인형을 생성하고 편집하는 도구
+com.interversehq.qView	실용적이고 최소한의 이미지 뷰어
+com.inventwithpython.flippy	고전 보드 게임 Reversi의 복제품
+com.invoiceninja.InvoiceNinja	송장 생성, 결제 수락, 비용 추적 및 작업 시간 확인
+com.irccloud.desktop	현대적이고 항상 연결된 IRC 클라이언트 서비스
+com.itextpdf.RUPS	iText RUPS는 PDF 구조를 보는 도구입니다
+com.itopia.client	RDP(원격 데스크톱 프로토콜) 서버용 클라이언트
+com.jagex.RuneScape	무료로 즐길 수 있는 판타지 MMORPG
+com.jaquadro.NBTExplorer	모든 Minecraft NBT 데이터 소스를 위한 그래픽 NBT 편집기
+com.jetbrains.CLion	C 및 C++용 크로스 플랫폼 IDE
+com.jetbrains.DataGrip	데이터베이스 및 SQL을 위한 IntelliJ 기반 IDE
+com.jetbrains.GoLand	유능하고 인체공학적인 Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	유능하고 인체공학적인 Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	엔터프라이즈, 웹 및 모바일 개발을 위한 유능하고 인체공학적인 Java IDE
+com.jetbrains.PhpStorm	전문 개발을 위한 PHP IDE
+com.jetbrains.PyCharm-Community	가장 지능적인 Python IDE
+com.jetbrains.PyCharm-Professional	가장 지능적인 Python IDE
+com.jetbrains.Rider	빠르고 강력한 크로스 플랫폼 .NET IDE
+com.jetbrains.RubyMine	Ruby 2.x 및 Rails 6.x, Sinatra, React, Angular, Puppet, Docker 등에 대한 최고 수준의 지원을 누려보세요.
+com.jetbrains.WebStorm	가장 똑똑한 JavaScript IDE
+com.jetpackduba.Gitnuro	다중 플랫폼 Git 클라이언트
+com.jgraph.drawio.desktop	다이어그램 만들기 및 공유
+com.jonathankang.Weibird	네이티브 GTK+ Weibo 클라이언트
+com.jpexs.decompiler.flash	SWF 파일 디컴파일 및 편집
+com.js8call.JS8Call	아마추어 무선 운영자에게 키보드 메시징에 약한 신호 키보드를 제공하는 JS8 디지털 모드를 사용하는 소프트웨어
+com.katawa_shoujo.KatawaShoujo	미소녀 스타일의 비주얼 노벨
+com.kavilgroup.gelectrical	배전망 설계 및 분석
+com.kavilgroup.gestimator	토목 견적 소프트웨어
+com.kolor.AutopanoPro	Kolor가 만든 전문 이미지 스티칭 소프트웨어
+com.kristianduske.TrenchBroom	Quake 기반 게임용 레벨 편집기
+com.ktechpit.colorwall	최고의 데스크탑 배경화면 애플리케이션
+com.ktechpit.orion	Linux 데스크탑을 위한 완벽한 토렌트 클라이언트 및 스트리머
+com.ktechpit.torrhunt	토렌트 검색 엔진
+com.ktechpit.ultimate-media-downloader	Linux용 온라인 비디오 및 오디오 다운로더, 1300개 이상의 웹사이트 지원
+com.ktechpit.whatsie	Linux 데스크탑용 Qt Whatsapp 웹 클라이언트
+com.ktechpit.wonderwall	배경화면 관리자
+com.lakoliu.Furtherance	추적되지 않고 시간을 추적하세요
+com.leinardi.gkraken	Linux에서 NZXT Kraken X 펌프의 냉각을 제어할 수 있습니다.
+com.leinardi.gst	다양한 하드웨어 구성 요소에 스트레스를 주고 모니터링하도록 설계된 시스템 유틸리티
+com.leinardi.gwe	정보 제공, 팬 제어, NVIDIA 카드 오버클러킹을 위해 설계된 시스템 유틸리티
+com.leinardi.gx52	Logitech X52 및 X52 Pro H.O.T.A.S용 LED 및 MFD 제어 기능을 제공합니다.
+com.lettier.movie-monad	Haskell로 제작된 사용하기 쉬운 무료 비디오 플레이어
+com.librumreader.librum	현대적인 전자책 리더이자 도서관 관리자
+com.lixgame.Lix	퍼즐, 편집기, 멀티플레이어 기능을 갖춘 레밍스 스타일의 게임
+com.locomalito.abbayedesmorts	어두운 역사의 흐름을 그린 구식 비디오 게임
+com.logseq.Logseq	개인 지식 기반을 구성하고 공유하기 위한 로컬 우선, 비선형, 아웃라이너 노트북
+com.lunarclient.LunarClient	Minecraft의 모든 최신 버전을 위한 모드팩입니다!
+com.makemkv.MakeMKV	DVD 및 블루레이를 MKV로 변환하는 변환기 및 네트워크 스트리머
+com.maplerain.telsis_translator_flutter	Violet Evergarden 시리즈에 사용된 Telsis 언어를 번역하는 앱
+com.mardojai.DiccionarioLengua	부스카 팔라브라스 엔 엘 DLE
+com.mardojai.ForgeSparks	Git 위조 알림 받기
+com.mastermindzh.tidal-hifi	Hi-Fi(High 및 Max)를 지원하는 웹 버전의 listening.tidal.com
+com.mattermost.Desktop	개발자 협업을 위한 오픈 소스 플랫폼
+com.mattjakeman.ExtensionManager	그놈 셸 확장 검색, 설치 및 관리
+com.meetfranz.Franz	데스크톱용 메신저
+com.microsoft.AzureStorageExplorer	Azure 클라우드 스토리지 리소스를 관리하는 그래픽 도구
+com.microsoft.Edge	새로운 Microsoft Edge 웹 브라우저를 소개합니다. 더욱 기대되는 시간입니다. 더 많은 프라이버시. 더 많은 제어. 더 많은 생산성. 더 많은 가치.
+com.microsoft.EdgeDev	새로운 Microsoft Edge 웹 브라우저를 소개합니다. 더욱 기대되는 시간입니다. 더 많은 프라이버시. 더 많은 제어. 더 많은 생산성. 더 많은 가치.
+com.milesalan.mepo	빠르고 간단하며 해킹 가능한 Linux용 OSM 맵 뷰어
+com.moddb.TotalChaos	포트 오아시스(Fort Oasis)로 알려진 외딴 섬을 배경으로 한 서바이벌 호러
+com.moddb.TotalChaosRetro	포트 오아시스(Fort Oasis)로 알려진 외딴 섬을 배경으로 한 서바이벌 호러
+com.mojang.Minecraft	가장 인기 있는 비디오 게임 중 하나에서 나만의 세계를 만들어 보세요.
+com.mongodb.Compass	몽고DB GUI
+com.moonlight_stream.Moonlight	Sunshine 또는 GeForce Experience를 실행하는 다른 PC에서 게임 및 기타 애플리케이션을 스트리밍하세요.
+com.mousepawmedia.omission	믿을 수 없을만큼 간단한 단어 퍼즐입니다.
+com.mudeprolinux.whakarere	GTK4 Whatsapp 클라이언트
+com.musixmatch.Musixmatch	어디에서나 가사를 즐겨보세요
+com.napster.napster-bigscreen-electron	휴대형용 Napster
+com.neatdecisions.Detwinner	중복 파일 및 유사한 이미지 찾기 및 제거
+com.netease.CloudMusic	Netease가 개발한 인기 온라인 음악 플레이어
+com.nextcloud.desktopclient.nextcloud	Nextcloud 데스크탑 동기화 클라이언트
+com.nitrokey.nitrokey-app	Nitrokey 장치 관리
+com.nordpass.NordPass	사이버 보안 전문가가 제공하는 사용하기 쉬운 비밀번호 관리자입니다.
+com.notepadqq.Notepadqq	고급 텍스트 편집기
+com.notesnook.Notesnook	Evernote를 대체하는 완전 오픈 소스 및 엔드투엔드 암호화 노트
+com.obsproject.Studio	라이브 스트리밍 및 비디오 녹화 소프트웨어
+com.okta.developer.CLI	Okta CLI는 Okta를 시작하는 가장 쉬운 방법입니다!
+com.openwall.John	존 더 리퍼 점보 비밀번호 크래커
+com.opera.Opera	Opera의 웹 브라우저
+com.oppzippy.OpenSCQ30	Soundcore Q30 헤드폰의 제어 설정
+com.orama_interactive.Pixelorama	애니메이션을 지원하는 2D 스프라이트 편집기
+com.outerwildsmods.owmods_gui	Outer Wilds 모드를 설치하고 실행하기 위한 사용하기 쉬운 앱
+com.ownrwallet.wallet	가상 화폐를 보내고, 받고, 인출하고, 교환하고 구매하세요. 귀하만이 액세스 및 자산을 제어할 수 있습니다.
+com.ozmartians.VidCutter	미디어 커터 + 조이너
+com.parallax.PropellerIDE	Parallax Propeller 플랫폼용 코드를 개발, 컴파일 및 업로드합니다.
+com.parsecgaming.parsec	간단하고 지연 시간이 짧은 게임 스트리밍
+com.pikatorrent.PikaTorrent	현대적이고 단순하며 연결된 전기 BitTorrent 앱 ⚡
+com.pinegrow.Pinegrow	전문가를 위한 시각적 웹 편집기
+com.play0ad.zeroad	고대 전쟁의 실시간 전략 게임
+com.playonlinux.PlayOnLinux4	와인용 그래픽 프런트엔드
+com.plexamp.Plexamp	Plexamp - 오디오 애호가, 큐레이터, 힙스터를 위한 아름다운 Plex 음악 플레이어
+com.pojtinger.felicitas.Multiplex	친구들과 토렌트 시청하기
+com.pokemmo.PokeMMO	PokeMMO는 무료로 MMORPG를 플레이할 수 있는 게임입니다. 레벨을 올리고 새로운 몬스터를 발견하면서 성장하는 커뮤니티에 참여하세요.
+com.polyphone_soundfonts.polyphone	자신만의 악기를 만들어 좋아하는 음악을 연주해보세요
+com.powerball253.eternalmodmanager	DOOM Eternal용 크로스 플랫폼 모드 관리자.
+com.poweriso.PowerISO	올인원 CD/DVD/블루레이 도구
+com.protonvpn.www	신뢰할 수 있고 사용하기 쉬운 Linux용 VPN 앱
+com.prusa3d.PrusaSlicer	완벽한 3D 프린트를 얻으세요!
+com.pypyrev.linuxdcpp	Direct Connect 네트워크용 파일 공유 클라이언트
+com.q3rally.Q3Rally	서바이벌 레이싱 게임
+com.qq.QQ	온라인 인스턴트 메시징 서비스
+com.qq.QQmusic	온라인 음악 스트리밍 서비스
+com.quexten.Goldwarden	Bitwarden 호환 데스크톱 클라이언트
+com.quixel.Bridge	Megascan과 즐겨 사용하는 도구 사이의 완벽한 연결
+com.qzandronum.Q-Zandronum	개선된 넷코드, 구성 가능한 움직임 및 많은 작은 조정 기능을 갖춘 Zandronum 3.0 포크
+com.rabbit_company.passky	Passky는 간단하고 현대적이며 가볍고 안전한 오픈 소스 비밀번호 관리자입니다.
+com.rafaelmardojai.Blanket	그런 소리를 하고 계시나요?
+com.rafaelmardojai.SharePreview	로컬에서 소셜 미디어 카드 테스트
+com.rafaelmardojai.WebfontKitGenerator	@font-face 키트를 쉽게 생성하세요
+com.raggesilver.BlackBox	아름다운 GTK 4 터미널
+com.ranfdev.Geopard	제미니 브라우저
+com.ranfdev.Lobjur	간단한 lobste.rs 클라이언트
+com.ranfdev.Notify	ntfy.sh에서 알림을 받습니다.
+com.rawtherapee.RawTherapee	고급 RAW 사진 현상 프로그램
+com.realm667.Wolfenstein_Blade_of_Agony	90년대와 2000년대 초반의 2차 세계 대전 슈팅 게임에서 영감을 받은 스토리 중심 FPS
+com.redis.RedisInsight	Redis가 제작한 Redis용 개발자 GUI.
+com.remnantsoftheprecursors.ROTP	1993년에 나온 오리지널 Master of Orion Strategy 게임을 세련되게 현대화했습니다.
+com.retrodev.blastem	Sega Mega Drive/Genesis 및 마스터 시스템 에뮬레이터
+com.revolutionarygamesstudio.ThriveLauncher	진화 시뮬레이션 게임. 환경에서 당신의 종을 통제하고 당신의 종을 전체적으로 편집하십시오. 외계 행성에서 자원을 두고 진화하는 다른 종들과 경쟁하세요.
+com.riverbankcomputing.PyQt.BaseApp	PyQt를 사용하는 애플리케이션을 위한 공유 플랫폼
+com.rocksandpaper.syndic	터치 친화적인 RSS/Atom 리더
+com.roguetemple.HyperRogue	비유클리드 그래픽 로그라이크 게임
+com.rosegardenmusic.rosegarden	MIDI, 오디오 시퀀서, 표기법 편집기
+com.rq3.Reaction	영화 리얼리즘 1인칭 슈팅 게임
+com.rtosta.zapzap	WhatsApp 메신저
+com.sayonara_player.Sayonara	가벼운 Qt 오디오 플레이어
+com.scoutshonour.Digital	1988년 5분 미래를 배경으로 한 컴퓨터 미스터리/로맨스
+com.scoutshonour.dtipbijays	2027년 명문 사립 고등학교와 소셜 네트워크를 배경으로 한 디지털: 러브 스토리(Digital: A Love Story)의 일종의 영적 속편입니다.
+com.seafile.Client	Seafile 파일 동기화 및 데스크톱 클라이언트 공유
+com.seal_one.SealOne	Seal One 하드웨어 기반 서명 장치용 소프트웨어
+com.serveftp.officefactoring	팩토링, 증권화, ESC 또는 FIDC용 앱
+com.sevenkfans.sevenkaa	중세 실시간 전략 게임
+com.seventhstring.Transcribe	고쳐 쓰다! - 녹음된 음악을 복사하는 데 도움이 되는 소프트웨어
+com.shatteredpixel.shatteredpixeldungeon	픽셀 아트 그래픽과 다양한 다양성 및 재생성을 갖춘 로그라이크 RPG
+com.sigil_ebook.Sigil	다중 플랫폼 EPUB 전자책 편집기
+com.sigmyne.crush	일부 천문 카메라를 위한 데이터 축소 및 이미징
+com.simplenote.Simplenote	메모를 유지하는 가장 간단한 방법
+com.sindresorhus.Caprine	우아한 Facebook 메신저 데스크톱 앱
+com.sireliah.Dragit	로컬 네트워크를 위한 직관적인 파일 공유 앱
+com.skype.Client	영상 채팅 지원으로 Skype 사용자에게 전화 및 메시지 보내기
+com.slack.Slack	21세기를 위한 팀 커뮤니케이션
+com.sleepfiles.OSCAR	오픈 소스 CPAP 분석 리포터
+com.slugchess.SlugChess	Fog-of-War와 섞인 장교가 있는 체스
+com.snes9x.Snes9x	슈퍼 닌텐도 에뮬레이터
+com.solvespace.SolveSpace	무료(GPLv3) 파라메트릭 3D CAD 도구
+com.sourcepole.kadas	비전문 사용자를 위한 매핑 애플리케이션
+com.spacestation14.Launcher	멀티플레이어 재난 시뮬레이터
+com.spotify.Client	온라인 음악 스트리밍 서비스
+com.springrts.SpringLobby	Spring 엔진으로 온라인 RTS 게임을 플레이하세요
+com.st.STM32CubeIDE	STM32용 통합 개발 환경
+com.steamdeckrepo.manager	Steam Deck Repo 웹사이트 API를 사용하여 Steam Deck에 부팅 비디오를 설치하세요.
+com.steamgriddb.SGDBoop	SteamGridDB 자산을 Steam에 적용
+com.steamgriddb.steam-rom-manager	Steam에서 ROM을 관리하는 앱
+com.stepmania.StepMania	리듬 앤 댄스 게임
+com.stremio.Service	스트리밍의 자유
+com.stremio.Stremio	비디오, 영화, TV 시리즈 및 TV 채널을 즉시 시청하세요.
+com.strlen.TreeSheets	자유 형식 데이터 구성자
+com.sublimemerge.App	Sublime Merge는 Sublime Text 제작자가 만든 Git 클라이언트입니다.
+com.sublimetext.three	코드, 마크업, 산문을 위한 정교한 텍스트 편집기
+com.sudovanilla.penpot-desktop	팀을 위한 디자인의 자유
+com.supermodel3.Supermodel	Sega Model 3 아케이드 에뮬레이터
+com.sweethome3d.Sweethome3d	스위트 홈 3D 인테리어 디자인 애플리케이션
+com.sweetscape.ZeroOneZeroEditor	바이너리 템플릿을 사용한 전문적인 텍스트 및 16진수 편집
+com.synology.CloudStationBackup	대규모 데이터 손실을 방지하는 실시간 백업
+com.synology.SynologyAssistant	로컬 네트워크에서 Synology NAS를 관리하기 위한 도구
+com.synology.SynologyDrive	반복되는 비용이 없는 강력한 프라이빗 클라우드 스토리지
+com.syntevo.SmartGit	커밋을 완료하세요
+com.syntevo.SmartSynchronize	스마트 방식으로 디렉토리 비교
+com.system76.Popsicle	여러 USB 장치를 병렬로 플래시
+com.szibele.e-juice-calc	무료이며 사용하기 쉬운 E-Juice 계산기
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim 데스크탑 애플리케이션
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP 애플리케이션
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP 애플리케이션
+com.teeworlds.Teeworlds	온라인 멀티플레이어 슈팅 게임
+com.tencent.wemeet	Tencent의 20년 이상의 시청각 커뮤니케이션 경험을 활용한 클라우드 기반 HD 회의 제품
+com.tercad.fingrom	플랫폼에 구애받지 않는 재무회계 애플리케이션
+com.thebrokenrail.MCPIReborn	블록과 함께하는 즐거움
+com.thewavewarden.Odin2	오딘 2 신디사이저
+com.thincast.client	Linux, macOS 및 Windows용 무료 RDP(원격 데스크톱 프로토콜) 클라이언트
+com.tic80.TIC_80	작은 게임을 만들고, 플레이하고, 공유할 수 있는 판타지 컴퓨터
+com.ticktick.TickTick	모든 일을 완료하고 삶을 체계적으로 정리할 수 있는 멋진 할 일 및 작업 목록입니다.
+com.todoist.Todoist	“현재 최고의 할 일 목록 앱” - The Verge
+com.toggl.TogglDesktop	간단하고 직관적인 시간 추적 소프트웨어
+com.tomjwatson.Emote	최신 팝업 이모티콘 선택기
+com.tonikelope.MegaBasterd	MEGA.nz에서 파일 다운로드, 업로드 또는 스트리밍
+com.tracktion.Waveform	모든 음악 제작자를 위한 디지털 오디오 워크스테이션
+com.transmissionbt.Transmission	비트렌트를 이용하여 파일을 다운로드 및 공유합니다.
+com.tutanota.Tutanota	이메일, 캘린더, 연락처 보안
+com.tux4kids.tuxmath	TuxMath는 아이들이 수학 사실을 연습하는 데 도움이 되는 아케이드 게임입니다.
+com.tux4kids.tuxtype	Tux가 주연을 맡은 교육용 타이핑 교사 게임
+com.tuxpusher.TuxPusher	Tux가 등장하는 재미있는 동전 푸셔 게임!
+com.tuxpusher.TuxPusherAF	515개의 독특한 상품 + 6마리의 펭귄
+com.ugetdm.uGet	다운로드 관리자
+com.ulduzsoft.Birdtray	Thunderbird에 대한 시스템 트레이 새 메일 알림
+com.ultimaker.cura	3D 프린팅 프로젝트를 준비하는 슬라이서
+com.umlet.Umlet	빠른 UML 다이어그램을 위한 무료 UML 도구
+com.unity.UnityHub	실시간 게임 엔진
+com.uploadedlobster.peek	사용하기 쉬운 인터페이스를 갖춘 간단한 화면 녹화기
+com.usebottles.bottles	Windows 소프트웨어 실행
+com.usebruno.Bruno	빠르고 Git 친화적인 API 클라이언트
+com.vagueentertainment.Framed	NFT쇼룸 아트 및 개인 작업을 위한 디지털 액자
+com.valvesoftware.Steam	Steam 소프트웨어 배포 서비스용 런처
+com.valvesoftware.SteamLink	Steam을 사용하여 다른 컴퓨터에서 게임을 스트리밍하세요.
+com.varnamproject.Varnam	인도어를 쉽게 입력하세요
+com.vba_m.visualboyadvance-m	호환성이 뛰어난 Gameboy Advance 에뮬레이터인 VisualBoyAdvance-M
+com.vesc_project.VescTool	VESC® 도구는 BLDC 도구를 완전히 새롭게 100% 개정한 대체 도구입니다.
+com.viber.Viber	우리는 사람들이 누구인지, 어디서 왔는지에 관계없이 사람들을 연결합니다.
+com.vicr123.thebeat	오디오 플레이어
+com.viewizard.AstroMenace	우주선 업그레이드가 가능한 하드코어 3D 우주 스크롤 슈터
+com.virustotal.VirusTotalUploader	virustotal.com에 파일 업로드
+com.visualstudio.code	코드 편집. 재정의되었습니다.
+com.visualstudio.code-oss	비주얼 스튜디오 코드. 코드 편집. 재정의되었습니다.
+com.vivaldi.Vivaldi	강력하고 개인적인 개인용 웹 브라우저
+com.vixalien.decibels	오디오 파일 재생
+com.vixalien.sticky	데스크탑에 메모 고정
+com.voxdsp.AstroImpact	멀티플레이어 우주 게임으로 다가오는 소행성으로부터 지구를 지켜보세요!
+com.voxdsp.Borg	Korg ER-1에서 영감을 받은 휴대용(SDL) 오디오 신디사이저/톤 제너레이터
+com.voxdsp.Borg0	휴대용(SDL) 오디오 신디사이저/톤 생성기를 사용하면 사용자가 오실레이터와 엔벨로프를 그릴 수 있습니다.
+com.voxdsp.CubeShooter	3D 아케이드 스타일 슈터
+com.voxdsp.PoryDrive	폴리곤을 잡아야 하는 자동차 게임!
+com.voxdsp.SeriousShooter	엉클샘이 인정한 3D FPS
+com.voxdsp.Snowboarder	3D 간단한 스노우보드 게임
+com.voxdsp.Snowling	행운의 볼링 게임
+com.voxdsp.Spaceminer	3D 공간 마이닝 게임
+com.voxdsp.TuxScape	Tux와 함께하는 신화적인 모험!
+com.voxdsp.TuxVsDragon	레드 드래곤 턱스를 처치하세요!
+com.voxdsp.Tuxocide	남극에서 벌어지는 3D FPS 전쟁…
+com.voxdsp.VoxelPaint	복셀을 사용하여 3D로 페인팅하세요!
+com.voxdsp.VoxelPaintPro	단색 음영 복셀을 사용하여 3D로 페인팅합니다!
+com.voxdsp.aigeneratedgame	유령으로부터 정원 친구들을 구해주세요!
+com.vscodium.codium	코드 편집. 재정의되었습니다. 원격 측정이 적습니다.
+com.vysp3r.ProtonPlus	간단한 Wine 및 Proton 기반 호환성 도구 관리자
+com.vzhd1701.gridplayer	비디오를 나란히 재생
+com.w1hkj.fldigi	아마추어 무선 사운드 카드 통신
+com.w1hkj.flrig	아마추어 무선 장비 제어
+com.whitemagicsoftware.kmcaster	화면에 마우스 및 키보드 이벤트 표시
+com.wickeditor.WickEditor	게임, 애니메이션 및 그 사이의 모든 것을 만들기 위한 도구입니다!
+com.wings3d.WINGS	고급 세분화 모델러
+com.wire.WireDesktop	가장 안전한 협업 플랫폼
+com.wiz.Note	클라우드 활용 기반의 우수한 PKM(개인지식관리) 데스크탑 환경
+com.wps.Office	WPS 오피스 스위트
+com.writerduet.writersolo	각본을 완전히 작성하거나 최종 초안 fdx 또는 분수와 같은 다양한 각본 형식 간 변환을 위한 광범위한 데스크탑 앱
+com.xnview.XnConvert	손쉽게 이미지 일괄 처리 및 메타데이터 편집
+com.xnview.XnRetro	빈티지 효과 또는 즉각적인 효과로 멋진 이미지 만들기
+com.xnview.XnSketch	사진을 만화나 스케치 이미지로 변환하세요.
+com.xnview.XnViewMP	그림을 보고 관리하세요 하세요
+com.xunlei.Thunder	슌레이 다운로드.迅雷下载.
+com.yacreader.YACReader	또 다른 만화 독자
+com.yktoo.ymuse	Music Player Daemon을 위한 쉽고 기능적이며 빠른 GTK 프런트엔드(클라이언트)
+com.ylsoftware.qmmp.Qmmp	Qt 기반 멀티미디어 플레이어
+com.yubico.yubioath	YubiKey로 OATH 코드를 표시하기 위한 그래픽 인터페이스
+com.zandronum.Zandronum	새로운 학교 멀티플레이어 Doom 온라인을 선도하세요
+com.zerobrane.studio	Lua용 경량 Lua 기반 IDE
+com.zettlr.Zettlr	21세기를 위한 마크다운 편집기
+com.zhqli.wikit	만능사전
+com.zoho.Notebook	모든 기기에 걸쳐 가장 아름다운 메모 작성 앱
+com.zquestclassic.ZQuest	인기 있는 고전 어드벤처 게임과 유사한 게임을 만들기 위한 게임 엔진
+community.pathofbuilding.PathOfBuilding	Path of Building(커뮤니티) - Path of Exile을 위한 강력한 빌드 플래너
+cool.ldr.lfy	gnome용 번역 소프트웨어
+cz.cvut.edu.comparch.qtrvsim	교육용 RISC-V CPU 시뮬레이터
+cz.krupkat.Xpano	자동 사진 스티칭 도구
+cz.zeropage.Formiko	reStructuredText 및 MarkDown 편집기와 라이브 미리보기
+de._0x539.gobby	공동으로 텍스트 파일 편집
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	시간과 분을 추가하는 간단한 계산기
+de.akaflieg_freiburg.enroute	VFR 조종사를 위한 비행 내비게이션 앱
+de.bforartists.Bforartists	완전한 무료 오픈소스 3D 제품군
+de.billardgl.Billardgl	재미있는 3D 당구 게임
+de.blobbyvolley.BlobbyVolley2	일대일 멀티플레이어 배구 게임입니다.
+de.breitbandmessung.Breitbandmessung	인터넷 속도를 측정할 수 있습니다.
+de.bund.ausweisapp.ausweisapp2	독일 신분증 및 거주 허가증 공식 인증 앱
+de.create3000.titania	X3D 및 VRML 세계에서 편집, 보기 및 탐색
+de.fabrik19.mos-Launcher	Mobilitysuite를 사용한 개발에 사용됩니다.
+de.finnik.PassVault	PassVault로 비밀번호를 안전하고 쉽게 관리하세요
+de.flinkebits.AvaEmailArchivar	IMAP 사서함에서 이메일 보관 및 복원
+de.gunibert.Hackgregator	해커 뉴스 리더
+de.haeckerfelix.AudioSharing	컴퓨터 오디오 공유
+de.haeckerfelix.Fragments	비트렌트 클라이언트
+de.haeckerfelix.Shortwave	인터넷 라디오를 들어보세요
+de.halaszovich.PMbrowser	PM dat 파일 열기, 탐색 및 내보내기
+de.ifw_dresden.nagstamon	Nagstamon은 데스크탑의 상태 모니터입니다.
+de.k_bo.Televido	독일어 공영 TV 이용
+de.klayout.KLayout	마스크 레이아웃용 뷰어 및 편집기
+de.lernsoftware_filius.Filius	Filius는 교육 목적의 네트워크 시뮬레이터입니다.
+de.linuxguides.RechnungsAssistent	독일 송장 생성기
+de.manuel_kehl.go-for-it	생산성을 높일 수 있는 관리와 함게 하는 간지나는 업무 목록
+de.marlam.gencolormap	컬러 맵 생성기
+de.marlam.qv	2D 데이터 시각화 장치
+de.mediathekview.MediathekView	독일 공영 TV Mediathek 이용
+de.nicokimmel.shadowcast-electron	Genki의 ShadowCast 비디오 스트림을 표시합니다.
+de.peterge.combined	결합! 블록 퍼즐 게임이다. 당신의 목표는 블록을 연결하여 보드에서 더 높은 블록을 얻는 것입니다.
+de.philippun1.Snoop	당신의 파일을 스누핑하세요
+de.philippun1.turtle	Git 저장소를 관리하세요
+de.rwth_aachen.ient.RDPlot	RDPlot은 비율 왜곡 곡선을 그리는 도구입니다.
+de.rwth_aachen.ient.YUView	고급 분석 도구 세트를 갖춘 QT 기반 크로스 플랫폼 YUV 플레이어
+de.schmidhuberj.DieBahn	모든 기차 정보를 한곳에 담아 여행하세요
+de.schmidhuberj.Flare	Signal에서 친구들과 채팅하세요
+de.schmidhuberj.tubefeeder	동영상 제작자 팔로우
+de.sesu8642.feudaltactics	독특하고 도전적인 레벨이 셀 수 없이 많은 전략 게임입니다.
+de.shorsh.discord-screenaudio	Linux에서 오디오 스트리밍을 지원하는 사용자 정의 불일치 클라이언트
+de.syping.gta5view	GTA V 프로필을 편집하는 방법
+de.tumexam.cli	학생과 시험을 관리하는 TUMexam 클라이언트입니다.
+de.uni_heidelberg.zah.GaiaSky	10억 개가 넘는 개체를 지원하는 데스크톱 및 VR용 오픈 소스 3D 우주 시뮬레이터
+de.unifreiburg.ellipticcurve	타원 곡선을 스케치하고 그룹 법칙을 실험할 수 있습니다.
+de.wger.flutter	피트니스/운동, 영양 및 체중 추적기
+de.willuhn.Jameica	OSGI와 유사한 애플리케이션 플랫폼
+de.wwwtech.ColorMate	표기법 간 CSS 색상 변환
+de.zwarf.picplanner	다음 사진 촬영 장소를 계획하세요
+dev.Cogitri.Health	피트니스 목표를 추적하세요
+dev.alextren.Spot	Spotify에서 음악 듣기
+dev.ares.ares	다중 시스템 콘솔 에뮬레이션 제품군
+dev.atoft.Reactions	간단한 GIF 검색.
+dev.aunetx.deezer	온라인 음악 스트리밍 서비스
+dev.bambosh.UnofficialHomestuckCollection	홈스턱 및 관련 작품의 오프라인 컬렉션
+dev.boxi.Boxi	Toolbox와 함께 사용할 수 있는 터미널 에뮬레이터
+dev.bragefuglseth.Fretboard	기타 코드를 찾아보세요
+dev.bsnes.bsnes	슈퍼 닌텐도 에뮬레이터
+dev.deedles.Trayscale	Tailscale CLI에 대한 비공식 GUI 래퍼입니다.
+dev.edfloreshz.Done	새롭게 디자인된 할 일 목록
+dev.ensoft.ecode	응답성과 성능에 중점을 두고 최신 하드웨어용으로 설계된 경량 다중 플랫폼 코드 편집기입니다.
+dev.gbstudio.gb-studio	빠르고 사용하기 쉬운 Game Boy용 드래그 앤 드롭 복고풍 게임 제작기
+dev.geopjr.Collision	파일의 해시를 확인하세요
+dev.geopjr.Tuba	연합우주탐색보기
+dev.goats.xivlauncher	Final Fantasy XIV Online을 위한 런처 및 원활한 Linux 통합
+dev.hdos.HDOS	높은 세부 사항 구식 Runescape 클라이언트
+dev.jamiethalacker.window_painter	같은 색의 페인트로 보드를 채우세요
+dev.k8slens.OpenLens	쿠버네티스 IDE
+dev.krtirtho.Flemozi	Linux🐧, Windows🪟 및 macOS🍎용 고급⚡ 이모티콘 선택기😀
+dev.lapce.lapce	Rust로 작성된 매우 빠르고 강력한 코드 편집기
+dev.lasheen.qr	QR 코드 스캐너/생성기
+dev.levz.TinyImageFinder	미리보기 기능이 있는 이미지 파인더
+dev.linwood.butterfly	강력하고 미니멀한 크로스 플랫폼 오픈소스 메모 작성 앱
+dev.lizardbyte.app.Sunshine	Moonlight의 자체 호스팅 게임 스트림 호스트입니다.
+dev.lukebriggs.pepys	간단한 마크다운 저널
+dev.mrquantumoff.mcmodpackmanager	모드팩을 쉽게 관리하세요!
+dev.mufeed.Wordbook	모든 영어 용어에 대한 정의 검색
+dev.paullee.scraterpreter.Scrape	Scraterpreter는 .sb3(스크래치) 프로젝트를 실행하는 인터프리터입니다.
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc는 Scraterpreter용 컴파일러입니다.
+dev.pulsar_edit.Pulsar	커뮤니티가 주도하는 하이퍼 해킹 가능한 텍스트 편집기
+dev.rzia.minesector	Snazzy 지뢰찾기 기반 게임
+dev.salaniLeo.forecast	그놈용 날씨 앱
+dev.salaniLeo.immagini	AppImage 앱용 라이브러리 및 생성 도구
+dev.schlaubi.Tonbrett	Discord Soundboard Bot용 도우미 앱
+dev.serebit.Waycheck	Wayland 합성기에 의해 구현된 프로토콜을 표시합니다.
+dev.slimevr.SlimeVR	가상 현실에서 전신 추적을 촉진하는 앱
+dev.stewlab.PortaWar	휴대용 전쟁에 오신 것을 환영합니다!
+dev.storyapps.starc	올인원 글쓰기 앱
+dev.tchx84.Portfolio	이동 중에도 파일 관리
+dev.vencord.Vesktop	Vencord를 사용한 Snappier Discord 앱
+dev.vieb.Vieb	Vim에서 영감을 받은 전자 브라우저
+dev.zelikos.rollit	주사위를 굴려
+dk.tangramgames.mrrescue	아케이드 스타일의 소방 게임
+edu.berkeley.BOINC	다양한 과학 분야의 연구를 수행하는 프로젝트에 컴퓨팅 성능을 제공합니다.
+edu.mit.Scratch	스토리, 게임, 애니메이션을 만들고 전 세계 사람들과 공유하세요.
+edu.princeton.physics.WSJTX	아마추어 무선 신호가 약함
+edu.stanford.Almond	개방형 가상 도우미
+edu.stanford.protege	기능이 풍부한 온톨로지 편집 환경
+engineer.atlas.Nyxt	해커의 브라우저
+es.estoes.wallpaperDownloader	인터넷에서 배경화면을 자동으로 다운로드, 관리 및 변경하세요.
+eu.ad5001.LogarithmPlotter	보드 플롯, 시퀀스 및 분포 함수를 만드는 2D 로그 스케일 플로터 소프트웨어
+eu.betterbird.Betterbird	Betterbird는 Mozilla Thunderbird의 소프트 포크입니다. 단순히 더 좋습니다.
+eu.cichy1173.tabela	테이블에 CSV 콘텐츠를 표시하는 간단한 앱
+eu.ithz.umftpd	다른 장치에서 파일에 액세스
+eu.ngdevelopment.tsukitag	애니메이션 이미지보드 브라우저, 수집기, 다운로더, 태거, 변환기, 컬렉션 관리자. 자신만의 컬렉션을 탐색 및 생성하고, 템플릿 지원을 통해 이미지 다운로드를 위한 작업 공간을 구성하세요.
+eu.nimmerfort.blackbody	온도 기록 뷰어
+eu.ototu.Quteqoin	응용 프로그램은 lire les tribunes를 부어
+eu.planete_kraus.Tarot	인공지능과 타로 게임을 해보세요
+eu.scarpetta.PDFMixTool	PDF 파일에 대한 일반적인 편집 작업을 수행하는 응용 프로그램
+eu.skribisto.skribisto	글쓰기를 위한 소프트웨어
+eu.stethewwolf.gresistor	저항기 색상 코드 계산기
+eu.usdx.UltraStarDeluxe	당신의 연주를 평가해주는 노래방 프로그램
+eu.vcmi.VCMI	Heroes of Might and Magic III용 오픈 소스 게임 엔진
+fi.mooc.tmc.tmc-cli-rust	TestMyCode 프로그래밍 할당 평가기를 위한 CLI입니다.
+fi.skyjake.Lagrange	아름다운 쌍둥이자리 클라이언트
+fm.cancel.Ripcord	Slack(및 Discord)용 대체 데스크톱 채팅 클라이언트
+fm.helio.Workstation	Helio Project libre 음악 작곡 소프트웨어
+fm.reaper.Reaper	디지털 오디오 워크스테이션
+fr.dwightstudio.JArmEmu	교육 목적으로 Java로 작성된 간단한 ARMv7 시뮬레이터
+fr.fgrabenstaetter.DigitalAssets	암호화폐 가격 및 통계
+fr.free.Homebank	누구나 쉽게 이용할 수 있는 무료 개인회계
+fr.free.brouits.qspeakers	스피커 설계 소프트웨어
+fr.free.hxc2001.HxCFloppyEmulator	오래된 플로피 디스크를 대체하는 소프트웨어 및 하드웨어 솔루션
+fr.free.qccrypt.Qccrypt	ccrypt 도구용 QT 기반 그래픽 프런트엔드
+fr.handbrake.ghb	비디오 트랜스코더
+fr.henri2h.minestrix	Matrix 기반의 개인 정보 보호 중심 소셜 미디어
+fr.inria.corese.CoreseCommand	시맨틱 웹의 힘을 활용하세요
+fr.inria.corese.CoreseGui	시맨틱 웹의 힘을 활용하세요
+fr.masson_informatique.WhosWho	인물 사진과 해당 이름이 포함된 PDF 문서(누가 누구인지, 연감 또는 페이스북이라고도 함)를 만듭니다.
+fr.natron.Natron	오픈 소스 비디오 합성 소프트웨어
+fr.romainvigier.MetadataCleaner	파일의 데이터를 보고 정리합니다
+fr.romainvigier.zap	사운드보드에서 사운드 재생
+fr.rubet.rpn	역 폴란드 표기법 CLI 계산기
+fr.sgued.ten_forward	NAT-PMP 게이트웨이 제어
+fun.vnote.app.VNote	즐거운 메모 플랫폼
+fyi.zoey.Boop-GTK	IvanMathy의 Boop을 개발자를 위한 스크립트 가능한 스크래치패드인 GTK로 포팅합니다.
+fyi.zoey.TeX-Match	스케치하여 LaTeX 기호 찾기
+ga.rpmtw.rpmlauncher	다양한 플랫폼과 탐색할 수 있는 다양한 기능을 지원하는 더 나은 Minecraft 런처입니다!
+games.zetsubou.AnAdventurersGallantry	불명예스러운 훈련 중인 기사 오렌이 이 판타지 비주얼 노벨에서 모험가로서 인생의 두 번째 기회를 얻습니다.
+games.zetsubou.HumanityMustPerish	여고생 복장을 한 안드로이드가 인류를 파괴할 준비를 하는 과정을 그린 코미디 비주얼 노벨입니다.
+games.zetsubou.MaxMassacre	괴물이 가득한 판타지 세계를 배경으로 한 비주얼 노벨
+games.zetsubou.SablesGrimoireDemo	마법학원을 배경으로 하는 몬스터걸 비주얼 노벨
+games.zetsubou.WanderNoMore	불량 사무라이의 이야기를 담은 비주얼 노벨
+garden.turtle.Jellybean	재입고 가능한 품목 수 유지
+gg.guilded.Guilded	메시징, 음성 및 비디오 클라이언트
+gg.minion.Minion	The Elder Scrolls Online 및 World of Warcraft의 애드온 관리자
+gg.tesseract.Tesseract	협력적인 게임 내 지도 편집이 가능한 1인칭 슈팅 게임
+global.worldcoin.worldcoin-core	국경으로 분리되고 기술로 하나가 됨
+hu.irl.cameractrls	Linux용 카메라 컨트롤
+hu.kramo.Cartridges	모든 게임을 실행합니다
+id.sideka.App	마을 거버넌스 플랫폼
+il.co.ravkavonline.RavKavOnline	집에서 Rav-Kav 카드를 충전하고 편안하게 여행하세요
+im.bernard.Funkcio	점에서 함수 그리기
+im.bernard.Nostalgia	역사적인 그놈 배경화면 설정
+im.dino.Dino	현대 XMPP 도입 클라이언트
+im.fluffychat.Fluffychat	친구와 채팅
+im.gitter.Gitter	GitHub의 커뮤니티 및 팀을 위한 커뮤니케이션 제품입니다.
+im.kaidan.kaidan	모든 기기에서 사용할 수 있는 사용자 친화적인 최신 채팅 앱
+im.pidgin.Pidgin	인스턴트 메시징 클라이언트
+im.riot.Riot	안전하게 생성, 공유, 통신, 채팅, 통화하고 다른 앱과 연결하세요
+im.srain.Srain	GTK로 작성된 최신 IRC 클라이언트
+in.bharatkalluri.shortcircuit	개발자 스크래치패드
+in.bharatkalluri.splash	Unsplash에서 고해상도 데스크탑 배경을 설정하세요!
+in.cinny.Cinny	간단하고 우아하며 안전한 인터페이스를 갖춘 또 다른 Matrix 클라이언트입니다.
+in.p1x.TanksOfFreedom	아이소메트릭 픽셀 아트의 인디 턴 기반 전략
+in.srev.guiscrcpy	Android 화면 미러링 소프트웨어
+info.beyondallreason.bar	당신이 기다려온 Total Annihilation에서 영감을 받은 RTS
+info.bibletime.BibleTime	성경 공부 프로그램
+info.cemu.Cemu	닌텐도 Wii U 에뮬레이터
+info.colobot.Colobot	봇으로 식민지화
+info.febvre.Komikku	좋아하는 만화를 읽어보세요
+info.mumble.Mumble	대기 시간이 짧은 암호화된 VoIP 클라이언트
+info.olasagasti.revelation	비밀번호 관리자
+info.portfolio_performance.PortfolioPerformance	투자 포트폴리오의 성과 추적
+info.puredata.Pd	라이브 인터랙티브 컴퓨터 음악을 위한 실시간 그래픽 프로그래밍 환경
+info.puredata.Pd-extended	멀티미디어를 위한 오픈 소스 시각적 프로그래밍 언어
+info.rttr.Return-To-The-Roots	The Settlers 2 게임을 재구현하는 팬 프로젝트
+info.smplayer.SMPlayer	훌륭한 미디어 플레이어
+info.urbanterror.UrbanTerror	액션 영화 요소가 포함된 전술적 1인칭 슈팅 게임
+ink.scribl.Scribl	간단한 교육용 비디오 만들기
+io.appflowy.AppFlowy	오픈 소스 개념의 대안
+io.atom.Atom	21세기를 위한 해킹 가능한 텍스트 편집기
+io.bassi.Amberol	음악을 연주하며, 다른 동작은 하지 않습니다.
+io.beekeeperstudio.Studio	당신이 꿈꾸는 SQL 편집기 및 데이터베이스 관리자
+io.blockloader.BlockLoader	최고의 Minecraft 모드 관리자
+io.botfather.Botfather	범용 자동화 프레임워크
+io.conduktor.Conduktor	Apache Kafka를 위한 아름답고 모든 기능을 갖춘 데스크톱 클라이언트
+io.crow_translate.CrowTranslate	간단하고 가벼운 번역기
+io.dbeaver.DBeaverCommunity	유니버설 데이터베이스 관리자
+io.defn.Franz	Apache Kafka용 데스크톱 클라이언트
+io.edcd.EDMarketConnector	게임 데이터로 EDDN을 업데이트합니다.
+io.emeric.toolblex	Bluetooth Low Energy 장치 스캐너 및 분석기
+io.emeric.watchflower	Xiaomi 'Flower Care' 또는 Parrot 'Flower Power'와 같은 Bluetooth 저에너지 센서 및 온도계를 위한 식물 모니터링 애플리케이션
+io.enpass.Enpass	Enpass는 비밀번호 및 기타 자격 증명을 안전하게 저장하고 관리하는 비밀번호 관리자입니다.
+io.exodus.Exodus	블록체인 자산을 보호, 관리 및 교환할 수 있는 올인원 앱
+io.frama.tractor.carburetor	양파 라우팅 앱
+io.freetubeapp.FreeTube	개인 정보 보호를 위한 오픈 소스 YouTube 앱
+io.gdevelop.ide	빠르고 쉬운 게임 제작
+io.gdevs.GDLauncher	GDLauncher는 사용자 경험에 중점을 둔 간단하면서도 강력한 Minecraft 맞춤형 런처입니다.
+io.github.Adda0.Stardrop	사용자 정의 변경 사항이 포함된 Stardrop의 비공식 포크
+io.github.Andrettin.Wyrmsun	역사, 신화, 허구를 바탕으로 한 전략 게임
+io.github.Archeb.opentrace	NextTrace용 크로스 플랫폼 GUI 래퍼
+io.github.Arisotura.CoinKiller	NSMB2용 레벨 편집기
+io.github.Bavarder.Bavarder	AI와 잡담
+io.github.Bollos00.LibreMines	GNU/Linux, FreeBSD 및 Windows 시스템에서 사용할 수 있는 무료/Libre 및 오픈 소스 소프트웨어 Qt 기반 지뢰 찾기 게임입니다.
+io.github.Cockatrice.cockatrice	멀티플레이어 카드 게임을 위한 가상 테이블탑
+io.github.Dretch.MonomerFlatpakExample	단량체 Flatpak 예시 적용.
+io.github.FailurePoint.RandomNumberFive	Linux 데스크탑용 난수 생성기!
+io.github.Figma_Linux.figma_linux	웹 기반 협업 설계 도구
+io.github.Fndroid.clash_for_windows	Electron을 기반으로 하는 Clash의 그래픽 클라이언트입니다.
+io.github.Foldex.AdwSteamGtk	Steam에 Adwaita 치료를 제공하세요
+io.github.Foldex.r2mod	Risk of Rain 2 모드 관리자
+io.github.GoldenGnu.jEveAssets	jEveAssets는 Eve-Online의 게임 외 자산 관리자입니다.
+io.github.Hexchat	IRC 클라이언트
+io.github.Icalingua.Icalingua	QQ 등을 위한 Linux 클라이언트
+io.github.ImEditor	간단하고 다양한 이미지 편집기
+io.github.JaGoLi.ytdl_gui	youtube-dl을 위한 사용하기 쉬운 크로스 플랫폼 그래픽 인터페이스입니다.
+io.github.JakubMelka.Pdf4qt	오픈 소스 PDF 편집기
+io.github.KikoPlayProject.KikoPlay	모든 기능을 갖춘 단무 플레이어일 뿐만 아니라
+io.github.MakovWait.Godots	Godot 게임 엔진 버전 관리자
+io.github.NhekoReborn.Nheko	Matrix 프로토콜용 데스크톱 클라이언트
+io.github.NickKarpowicz.LightwaveExplorer	비선형 경량 물질 상호 작용을 위한 효율적이고 사용자 친화적인 솔버
+io.github.OpenToonz	2D 애니메이션
+io.github.Pithos	판도라 라디오 클라이언트
+io.github.Qalculate	강력하고 사용하기 쉬운 계산기
+io.github.Qalculate.qalculate-qt	강력하고 사용하기 쉬운 계산기
+io.github.Rangi42.polished-map	포켓크리스탈 지도 및 타일셋 편집
+io.github.Rangi42.polished-map-plusplus	포켓크리스탈 지도 및 타일셋 편집
+io.github.Rangi42.tilemap-studio	Game Boy, Color, Advance, DS 및 SNES 프로젝트용 타일맵 편집기
+io.github.Rirusha.Cassette	비공식 Yandex.Music 클라이언트
+io.github.RobertBeckebans.RBDoom3BFG-GL	DOOM-3-BFG의 현대화 노력
+io.github.RodZill4.Material-Maker	절차적 텍스처 생성 및 메시 페인팅 도구
+io.github.Sebicodes99.Prt	간단한 GUI를 사용하여 포트를 열거나 SSH 서버를 사용하지 않고도 친구가 시스템에서 명령을 실행할 수 있게 해주는 Python 소켓 앱
+io.github.Snaggly.PS2_Pnacher	Pnache를 PS2 ISO에 직접 적용합니다.
+io.github.Soundux	크로스 플랫폼 사운드보드
+io.github.Sunderland93.sway-input-config	Sway용 입력 장치 구성자
+io.github.TTimo.GtkRadiant	Quake 시리즈를 포함한 ID Tech 기반 게임용 레벨 편집기
+io.github.TheThirdOne.rars	RISC-V 어셈블러 및 런타임 시뮬레이터
+io.github.TheWisker.Cavasik	CAVA 기반 오디오 시각화 장치
+io.github.TransmissionRemoteGtk	Transmission BitTorrent 클라이언트를 원격으로 관리합니다.
+io.github.Youda008.DoomRunner	ZDoom 및 파생 상품의 사전 설정 기반 그래픽 실행기
+io.github._0xzer0x.qurancompanion	크로스 플랫폼 데스크탑 오프라인 꾸란 리더 및 플레이어
+io.github.aandrew_me.ytdn	수백 개의 사이트에서 비디오 및 오디오 다운로드
+io.github.achetagames.epic_asset_manager	Epic 자산을 관리하세요
+io.github.adrienverge.PhotoCollage	사진 콜라주 포스터를 만드는 그래픽 도구
+io.github.aerocyber.sitemarker	오픈 소스 북마크 관리자
+io.github.aggalex.Wineglass	와인을 위한 GUI
+io.github.alainm23.planify	잊어버린 일은 잊어라
+io.github.alexkdeveloper.gomoku	오모쿠 게임
+io.github.alexkdeveloper.radio	웹사이트 radio-browser.info의 방송국이 포함된 간단한 라디오
+io.github.alexkdeveloper.zodiac	운세를 그리는 간단한 프로그램
+io.github.am2r_community_developers.AM2RLauncher	AM2R 업데이트 및 모드를 처리하기 위한 프런트 엔드
+io.github.am2r_community_developers.Atomic	AM2R 모드용 모드 패키징 툴체인입니다.
+io.github.amit9838.weather	아름답고 가벼운 날씨 앱
+io.github.andreibachim.shortcut	앱 바로가기 만들기
+io.github.anirbandey1.ChatbotClient	ChatGPT 웹사이트용 전자 래퍼
+io.github.antimicrox.antimicrox	게임패드 버튼을 키보드, 마우스, 스크립트 및 매크로에 매핑하는 데 사용되는 그래픽 프로그램
+io.github.appoutlet.GameOutlet	PC 게임 최저가 찾기
+io.github.arunsivaramanneo.GPUViewer	glxinfo, vulkaninfo, clinfo 및 es2_info에 대한 프런트 엔드
+io.github.benini.scid	체스 데이터베이스 애플리케이션
+io.github.betaflight.BetaflightConfigurator	Betaflight 비행 제어 시스템용 크로스플랫폼 구성 도구
+io.github.bkueng.qMasterPassword	상태 비저장 마스터 비밀번호 관리자
+io.github.bothlab.pomidaq	UCLA Miniscope에서 비디오 보기 및 녹화
+io.github.bothlab.syntalos	다양한 소스로부터 동기화된 데이터 수집 및 유연한 실험 제어
+io.github.brainstormtrooper.facteur	템플릿 기반 이메일을 수신자 목록으로 보냅니다.
+io.github.brunoherbelin.Vimix	비디오 라이브 믹서
+io.github.btpf.alexandria	최소한의 eBook 리더
+io.github.bytezz.IPLookup	IP 주소에 대한 정보 찾기
+io.github.carterbox.Electricity_Clock	전기 요금에 대한 사용 시간 모니터
+io.github.cboxdoerfer.FSearch	전문 파일 검색 프로그램
+io.github.celluloid_player.Celluloid	mpv 용 GTK + 앞머리
+io.github.cges30901.hmtimer	그래픽 종료 타이머
+io.github.chris2511.xca	X 인증서 및 키 관리
+io.github.ciromattia.kcc	PNG, JPG, GIF, CBZ, CBR 및 CB7 파일을 EPUB 또는 MOBI 형식의 전자책으로 변환할 수 있는 앱
+io.github.cleomenezesjr.Escambo	API 테스트 및 개발
+io.github.cloose.CuteMarkEd	Qt 마크다운 편집기
+io.github.cmus.cmus	콘솔 뮤직 플레이어
+io.github.congard.qnvsm	엔비디아 시스템 모니터 Qt
+io.github.ctlcltd.e2se	위성 채널 목록 편집기: Enigma2, Neutrino, dreambox
+io.github.cudatext.CudaText-Qt5	오픈 소스 및 크로스 플랫폼 텍스트 편집기
+io.github.cxong.cdogs-sdl	클래식 오버헤드 런앤건 게임
+io.github.dagargo.Elektroid	샘플 및 MIDI 장치 관리자
+io.github.daviddesimone.opencloudsaves	여러 기기에서 저장 게임을 동기화하는 데 사용되는 도구
+io.github.davidoc26.wallpaper_selector	배경화면 다운로드 및 적용
+io.github.dbchoco.Salawat	이슬람 기도 시간 적용
+io.github.dbchoco.muezzin	이슬람 기도 시간 적용
+io.github.ddanilov.soundscape	데스크탑 사운드스케이프 애플리케이션
+io.github.dfandrich.gpscorrelate	GPS Correlate는 EXIF GPS 위치 태그를 이미지에 첨부합니다.
+io.github.dgsasha.Remembrance	자신을 위한 알림 설정
+io.github.dida_code.OpstaKultura	게임, 지식퀴즈
+io.github.diegoivan.GaticTacToe	친구들과 함께 Tic-tac-toe 게임을 즐겨보세요
+io.github.diegoivan.pdf_metadata_editor	PDF 문서 메타데이터 편집
+io.github.diegoivanme.flowtime	현명하게 시간을 보내세요
+io.github.diegopvlk.Dosage	치료 과정을 추적하세요
+io.github.dimtpap.coppwr	PipeWire용 저수준 제어 GUI
+io.github.divverent.aaaaxy	불가능한 공간에서 펼쳐지는 비선형 퍼즐 플랫폼 게임
+io.github.dlippok.photometric-viewer	측광 파일 보기
+io.github.dman95.SASM	NASM, MASM, GAS 및 FASM 어셈블리 언어를 위한 간단한 크로스 플랫폼 IDE
+io.github.dosbox-staging	사용 편의성에 중점을 둔 DOS/x86 에뮬레이터
+io.github.dtsudo.ChessCompStompWithHacks	핵을 사용하여 체스 AI를 물리치세요!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	저장 상태를 사용하여 10개 레벨을 빠르게 통과하세요!
+io.github.dubstar_04.design	그놈용 2D CAD
+io.github.dummerle.rare	전설적인 GUI, 오픈 소스 Epic Games 대안
+io.github.dvlv.boxbuddyrs	그래픽 Distrobox 관리자
+io.github.dweymouth.supersonic	Subsonic 및 Jellyfin 음악 서버를 위한 경량 크로스 플랫폼 데스크톱 클라이언트
+io.github.dyegoaurelio.simple-wireplumber-gui	PipeWire용 간단한 GTK4 GUI
+io.github.ec_.Quake3e.OpenArena	무료 오픈 소스 1인칭 슈팅 게임
+io.github.eminfedar.vaktisalah-gtk-rs	Vakt-i Salah의 GTK4 버전(기도 시간)
+io.github.endless_sky.endless_sky	우주 탐험 및 전투 게임
+io.github.erkin.ponysay	조랑말을 위한 Cowsay 재구현
+io.github.everestapi.Olympus	크로스 플랫폼 Celeste Mod Manager
+io.github.ezQuake	경쟁적인 온라인 플레이에 초점을 맞춘 최신 QuakeWorld 클라이언트
+io.github.f3d_app.f3d	빠르고 미니멀한 3D 뷰어
+io.github.fabiangreffrath.Doom	한계를 제거한 향상된 해상도 Doom 소스 포트
+io.github.fabrialberio.pinapp	애플리케이션 바로가기 생성 및 편집
+io.github.fastrizwaan.WineZGUI	Zenity를 사용한 와인 GUI
+io.github.ferraridamiano.ConverterNOW	간단하고 즉각적이며 빠른 단위 변환기!
+io.github.fin_ger.OvGUCanteen	작은 GTK 앱에서 OvGU Mensa 메뉴 보기
+io.github.fizzyizzy05.binary	숫자 변환기
+io.github.fkinoshita.Telegraph	모스 쓰기 및 디코딩
+io.github.flattool.Warehouse	Flatpak의 모든 것을 관리하세요
+io.github.foldynl.QLog	아마추어 무선 일지
+io.github.foxxmd.multiscrobbler	다양한 소스에서 많은 클라이언트로 음악을 스크러블합니다.
+io.github.fragglet.sdl_sopwith	클래식 복엽기 슈팅 게임
+io.github.fralonra.PpdEditor	2D 종이 인형 편집기
+io.github.fralonra.WgShadertoy	Shadertoy에서 영감을 받은 WGSL 놀이터
+io.github.freedoom.FreeDM	Doom 엔진을 기반으로 한 데스매치 게임
+io.github.freedoom.Phase1	Doom 엔진을 기반으로 한 1인칭 슈팅 게임
+io.github.freedoom.Phase2	Doom 엔진을 기반으로 한 1인칭 슈팅 게임
+io.github.fsobolev.TimeSwitch	타이머 후에 실행되도록 작업 설정
+io.github.gamingdoom.Datcord	Firefox를 사용하는 오픈 소스 Discord 클라이언트
+io.github.garglk.Gargoyle	인터랙티브 픽션 플레이어
+io.github.gen2brain.cbconvert	만화책 변환기
+io.github.gerryferdinandus.bittorrent-tracker-editor	토렌트 파일에서 추적기를 추가하거나 제거합니다.
+io.github.giantpinkrobots.bootqt	부팅 가능한 드라이브 만들기
+io.github.giantpinkrobots.flatsweep	플랫팩 남은 세제
+io.github.giantpinkrobots.varia	빠르고 효율적으로 파일 다운로드
+io.github.gillesdegottex.FMIT	악기 조율 도구인 무료 악기 튜너(FMIT)
+io.github.glitterware.Passy	플랫폼 간 동기화 기능을 갖춘 오프라인 비밀번호 관리자
+io.github.gopher64.gopher64	닌텐도 64 에뮬레이터
+io.github.gssh_linux.gssh	(정말로) 간단한 GUI에서 SSH 서버에 연결할 수 있게 해주는 Python 앱
+io.github.gtkwave.GTKWave	시뮬레이션 결과를 보기 위한 전자 파형 뷰어
+io.github.guillaumechereau.Goxel	오픈 소스 3D 복셀 편집기
+io.github.hakandundar34coding.mini-system-monitor	CPU, RAM, 디스크, 네트워크 사용량 모니터링
+io.github.hakandundar34coding.system-monitoring-center	다기능 시스템 모니터
+io.github.hakuneko.HakuNeko	다양한 웹사이트의 만화 및 애니메이션을 위한 크로스 플랫폼 다운로더
+io.github.helpseeker.Gyre	Coub의 비디오 다운로더
+io.github.hermitdemschoenenleben.linien	분광학 잠금
+io.github.hmlendea.geforcenow-electron	Electron으로 작성된 비공식 GeForce NOW 애플리케이션
+io.github.hrkfdn.ncspot	크로스 플랫폼이 Spotify 클라이언트를 ncurses
+io.github.huderlem.porymap	포켓몬 3세대 디컴파일 프로젝트를 위한 맵 에디터
+io.github.hurricangame.hurrican	Poke53280이 만든 프리웨어 점프 앤 슈팅 게임
+io.github.hvdwofl.jExifToolGUI	ExifTool을 위한 간단한 프런트엔드
+io.github.hydrusnetwork.hydrus	데스크탑에서 미디어 정리
+io.github.hypengw.Qcm	Netease 클라우드 음악용 Qt 클라이언트
+io.github.iSlammedMyKindle.godotGem	Windows용 xbox360 컨트롤러를 에뮬레이트하는 컨트롤러 클라이언트
+io.github.idevecore.CurrencyConverter	Google 기반 데이터를 활용한 간단한 환율 계산기
+io.github.igaldino.CoyoteTM	코요테와 같은 작업 관리
+io.github.igorlogius.scr2ppm	가장 작은 X11 화면 캡처라고도 합니다. 스크린샷 유틸리티
+io.github.ihhub.Fheroes2	fheroes2는 Heroes of Might and Magic II 게임 엔진을 재현한 것입니다.
+io.github.ilius.pyglossary	용어집이라고도 불리는 사전 파일을 변환하는 도구입니다.
+io.github.ja2_stracciatella.JA2-Stracciatella	향상된 크로스 플랫폼의 안정적인 Jagged Alliance 2 런타임
+io.github.jacalz.rymdport	빠르고 암호화된 파일 전송
+io.github.janbar.noson	SONOS용 컨트롤러
+io.github.java_decompiler.jd-gui	CLASS 파일의 Java 소스를 표시하는 독립형 그래픽 유틸리티
+io.github.jean28518.Linux-Assistant	강력한 통합 검색, 루틴 및 검사 기능을 갖춘 일일 Linux 도우미
+io.github.jeffshee.Hidamari	Linux용 비디오 배경화면
+io.github.jhaygood86.mauborgne	2FA OTP 코드 생성기
+io.github.jliljebl.Flowblade	비디오 편집기 - 빠르고 정확하며 안정적입니다.
+io.github.jonmagon.kdiskmark	디스크 벤치마크 도구
+io.github.jorchube.monitorets	항상 시스템 리소스 사용량을 한눈에 확인하세요
+io.github.jordanl2.ModularCalculator	과학, 엔지니어링 또는 컴퓨팅 작업을 목표로 하는 강력하고 스크립트 가능한 모듈형 계산기입니다.
+io.github.jotd666.gods-deluxe	플랫폼 게임의 리메이크
+io.github.jtdx_project.JTDX	jtdx(아마추어 무선 통신을 위해 분기된 WSJT-X)
+io.github.julian_hochhaus.LG4X_V2	XPS 곡선 피팅 분석을 위한 Python 패키지
+io.github.kaii_lb.hgui	회교식 날짜와 그레고리오식 날짜(또는 그 반대)를 오프라인으로 쉽게 변환할 수 있도록 만들어진 앱입니다!
+io.github.kalaksi.Lightkeeper	독립형, 사용자 정의 가능한 서버 관리 도구
+io.github.kaschpal.timetable	교사와 학생을 위한 캘린더/플래너
+io.github.kevinsmia1939.PySimpleCV	순환 전압전류 그래프 및 배터리 사이클링 플롯
+io.github.koromelodev.mindmate	ChatGPT를 위한 비공식 애플리케이션
+io.github.kotatogram	Kotatogram 데스크탑 메신저
+io.github.ktgw0316.LightZone	카메라 RAW 이미지 프로세서
+io.github.kukuruzka165.materialgram	비공식 텔레그램 데스크톱 메시징 앱
+io.github.labsquare.CutePeaks	독립형 Sanger 추적 뷰어
+io.github.lainsce.Colorway	색상 쌍 생성
+io.github.lainsce.Countdown	이벤트가 발생할 때까지 또는 발생한 이후 추적
+io.github.lainsce.DotMatrix	선과 곡선의 창의력 놀이터
+io.github.lainsce.Emulsion	색상을 비축하세요
+io.github.lainsce.Khronos	작업을 수행하는 데 걸린 시간을 기록하세요.
+io.github.lainsce.Notejot	당신의 아이디어를 적어보세요
+io.github.lainsce.Quilter	글쓰기에 집중하세요
+io.github.lemmygtk.lemoa	Lemmy용 Gtk 클라이언트
+io.github.leolost2605.gradebook	성적을 추적하세요
+io.github.leonardschardijn.Chirurgien	바이너리 파일 형식 이해 및 조작
+io.github.lethal_guitar.RigelEngine	고전 DOS 게임 Duke Nukem II를 현대적으로 재구현했습니다.
+io.github.letslearn_app.letslearn	깔끔한 디자인의 오픈소스 노트 애플리케이션
+io.github.libvibrant.vibrantLinux	X11 화면의 채도를 조정하는 시스템 유틸리티
+io.github.limads.Queries	관계형 데이터베이스와 상호 작용하는 워크벤치입니다.
+io.github.listen1.Listen1	중국의 모든 무료 음악을 위한 하나의 앱
+io.github.loot.loot	Starfield 및 일부 Elder Scrolls 및 Fallout 게임용 모딩 유틸리티
+io.github.lruzicka.Needly	Python으로 작성된 openQA 니들 편집기
+io.github.ltiber.Pwall	사진/비디오 찾아보기
+io.github.lunarequest.NightPDF	다크 모드 PDF 리더
+io.github.lxndr.gswatcher	간단한 게임 서버 모니터 및 관리 도구입니다.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA는 Doom 3 BFG GPL 소스 포트입니다.
+io.github.magnush.mhWaveEdit	mhWaveEdit은 사운드 파일을 편집하기 위한 그래픽 프로그램입니다.
+io.github.mahmoudbahaa.outlook_for_linux	Electron을 사용하는 Linux용 비공식 Microsoft Outlook 클라이언트
+io.github.mak448a.QTCord	디스코드 클라이언트
+io.github.mandruis7.xbox-cloud-gaming-electron	오픈 소스 Xbox Cloud Electron 클라이언트
+io.github.manisandro.gImageReader	tesseract-ocr에 대한 그래픽(gtk) 프런트엔드
+io.github.markummitchell.Engauge_Digitizer	비트맵 그래프 또는 지도를 숫자로 대화식으로 변환
+io.github.martinrotter.rssguard	간단하면서도 강력한 뉴스피드 리더
+io.github.martinrotter.rssguardlite	간단하면서도 강력한 뉴스피드 리더(내장 웹 브라우저 없음)
+io.github.martinrotter.textosaurus	Qt 및 QScintilla 기반의 간단한 크로스 플랫폼 텍스트 편집기
+io.github.maurycyliebner.enve	2D 애니메이션
+io.github.mgerhardy.vengi.voxedit	복셀 편집기
+io.github.mideb.digitales_register	디지털 등록을 위한 Inoffizieeller 클라이언트
+io.github.mightycreak.Diffuse	텍스트 파일을 입력하고 비교하기 위한 도구
+io.github.mihnea_radulescu.imagefanreloaded	멀티 코어 처리를 지원하는 경량 탭 기반 이미지 뷰어
+io.github.mimbrero.WhatsAppDesktop	비공식 WhatsApp 웹 데스크톱 클라이언트.
+io.github.mki1967.mki3dgame	3D 스테이지에서 토큰을 검색하는 간단한 OpenGL 게임
+io.github.mmarco94.tambourine	도서관을 위한 간단한 음악 플레이어
+io.github.mmstick.FontFinder	글꼴 브라우저
+io.github.mpobaschnig.Vaults	중요한 파일을 안전하게 보관하세요
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] CBETA API를 사용하는 불교 경전 리더입니다.
+io.github.mrvladus.List	작업 관리
+io.github.muse_sequencer.Muse	디지털 오디오 워크스테이션
+io.github.myst6re.makoureactor	Final Fantasy VII의 현장 편집자
+io.github.naikari.Naikari	2차원 자유형 공간 미스터리 게임
+io.github.najepaliya.kleaner	이미지 메타데이터 클리너
+io.github.narunlifescience.AlphaPlot	AlphaPlot은 과학적인 데이터 분석 및 시각화를 위한 무료 애플리케이션입니다.
+io.github.nate_xyz.Chromatic	악기를 미세 조정하세요
+io.github.nate_xyz.Conjure	마술처럼 이미지를 변형하세요
+io.github.nate_xyz.Paleta	쉽게 색상 팔레트 생성
+io.github.nate_xyz.Resonance	청취 경험을 조화시키세요
+io.github.nearinfinitybrowser.nearinfinity	Infinity 엔진 리소스 브라우저 및 편집기
+io.github.neil_morrison44.pocket-sync	Analogue Pocket으로 작업을 수행하는 GUI
+io.github.nokse22.asciidraw	ASCII 문자를 사용하여 그리기
+io.github.nokse22.inspector	시스템에 대한 정보 보기
+io.github.nokse22.minitext	임시 스크래치 패드
+io.github.nokse22.teleprompter	화면에 스크롤 텍스트 표시
+io.github.nokse22.trivia-quiz	끝없는 질문에 답하다
+io.github.nokse22.ultimate-tic-tac-toe	(틱택토)²
+io.github.nostar.DroidStar	PC용 D-Star 클라이언트
+io.github.noxworld_dev.OpenNox	OpenNox는 Nox 게임 엔진을 현대적으로 구현한 것입니다.
+io.github.nroduit.Weasis	무료/자유로운/개방형 의료 DICOM 뷰어
+io.github.nuttyartist.notes	메모 작성 앱. 당신의 생각을 적어보세요
+io.github.obiwankennedy.HotShots	강력하고 사용하기 쉬운 스크린샷 소프트웨어
+io.github.onionware_github.onionmedia	무료 미디어 다운로더 및 변환기 - 크로스 플랫폼
+io.github.openhv.OpenHV	오픈 소스 90년대 Pixelart 공상과학 실시간 전략 게임
+io.github.orontee.Argos	Mopody 뮤직 서버를 위한 경량 프런트엔드
+io.github.paledega.alpine-rootfs	알파인 리눅스 하위 시스템
+io.github.parnassius.SysDVR-Qt	USB 또는 네트워크를 통해 게임 스위치를 PC로 스트리밍하세요
+io.github.pastthepixels.InfiniteShooter	Godot 엔진으로 제작된 단순한 슈팅 게임입니다.
+io.github.paulwedeck.settlers-remake	Windows, Linux, Mac 및 Android용 The Settlers III 리메이크
+io.github.pd_l2ork.Pd_L2Ork	Pure Data를 기반으로 한 멀티미디어용 오픈 소스 시각적 프로그래밍 언어
+io.github.peazip.PeaZip	무료 파일 아카이버 유틸리티, RAR TAR ZIP 아카이브 열기, 추출
+io.github.petitlapin.Li-ri	어린이 게임, 장난감 나무 엔진 운전
+io.github.phastmike.tags	태그 기반 컬러 로그
+io.github.philipk.boilr	Steam 라이브러리에 Steam이 아닌 게임 추가
+io.github.polypixeldev.Polypass	간단하고 안전하며 사용하기 쉬운 비밀번호 관리자
+io.github.pr_starfighter.starfighter	우주 슈팅 게임.
+io.github.pragha_music_player.pragha	음악 관리 및 듣기
+io.github.prateekmedia.appimagepool	간단하고 현대적인 AppImageHub 클라이언트.
+io.github.prateekmedia.pstube	Flutter를 사용하여 만든 YouTube 클라이언트
+io.github.punesemu.puNES	닌텐도 엔터테인먼트 시스템 에뮬레이터
+io.github.purplehorrorrus.Meridius	vk.com용 뮤직 플레이어
+io.github.pwr_solaar.solaar	Logitech 키보드, 마우스 및 트랙패드용 Linux 관리자
+io.github.pyfa_org.Pyfa	EVE용 Python 피팅 도우미: 온라인
+io.github.qier222.YesPlayMusic	뛰어난 외관의 타사 Netease CloudMusic 플레이어
+io.github.qnapi	영화 자막을 다운로드하고 자동으로 일치시키는 소프트웨어
+io.github.qtox.qTox	Tox 디자인 지침을 따르는 강력한 Tox 채팅 클라이언트입니다.
+io.github.quodlibet.ExFalso	오디오 파일 태그 편집
+io.github.quodlibet.QuodLibet	듣기, 검색 및 오디오 목록 편집
+io.github.qwersyk.Newelle	당신의 컴퓨터를 제어하는 챗봇
+io.github.rafaelfassi.QLogExplorer	고급 도구를 갖춘 빠른 로그 탐색기
+io.github.randovania.Randovania	다양한 게임을 위한 무작위 플랫폼
+io.github.realmazharhussain.GdmSettings	로그인 화면을 사용자 정의
+io.github.retgal.Dayon	원격 지원이 쉬워졌습니다!
+io.github.retux_game.retux	Linux 마스코트 Tux가 주연을 맡은 액션 플랫폼 게임
+io.github.rinigus.OSMScoutServer	타일, 지오코더, 라우터를 제공하는 지도 서버
+io.github.rinigus.PureMaps	지도 및 내비게이션
+io.github.ripose_jp.Memento	일본어 공부를 위한 mpv 기반 비디오 플레이어
+io.github.rocket.editor	로켓 편집자
+io.github.sameboy.SameBoy	게임보이와 게임보이 컬러 에뮬레이터
+io.github.santiagocezar.maniatic-launcher	Retro Engine(v5) 디컴파일용 런처
+io.github.seadve.Breathing	휴식과 명상
+io.github.seadve.Kooha	화면을 우아하게 정리해보세요
+io.github.seadve.Mousai	몇 개의 안에 있는 노래를 식별합니다.
+io.github.searchandrescue2.sar2	구조 헬리콥터 시뮬레이터
+io.github.sharkwouter.Minigalaxy	Linux용 간단한 GOG 클라이언트
+io.github.sharkwouter.oceanpop	반전이 있는 편안한 매치 3 퍼즐 게임
+io.github.shiftey.Desktop	데스크탑에서 간편하게 협업하세요
+io.github.shiiion.primehack	다양한 Metroid Prime 모드용 Dolphin Emu 포크
+io.github.sigmasd.IRust	러스트 담당자
+io.github.sigmasd.stimulator	데스크탑을 깨어있게 유지
+io.github.signus_game.signus	턴제 전략 게임
+io.github.sil_car.SqueezeVid	비디오를 최소한의 프로젝션 호환 품질로 표준화합니다.
+io.github.simple64.simple64	닌텐도 64 에뮬레이터
+io.github.sithlord48.blackchocobo	Final Fantasy VII의 저장 편집기
+io.github.slgobinath.SafeEyes	반복성 긴장 장애(RSI)를 줄이고 예방하기 위한 Linux 사용자를 위한 무료 오픈 소스 도구입니다.
+io.github.snesrev.Zelda3	Zelda3는 Zelda의 역엔지니어링 복제품입니다 - 과거로의 연결
+io.github.spacingbat3.webcord	Electron으로 만든 웹 기반 Discord 및 Fosscord 클라이언트
+io.github.srb2.rphys	Sonic Robo Blast 2의 게임플레이 점검 모드
+io.github.stella_emu.Stella	다중 플랫폼 Atari 2600 VCS 에뮬레이터
+io.github.streetpea.Chiaki4deck	Steam Deck용으로 수정된 PlayStation Remote Play용 무료 오픈 소스 클라이언트
+io.github.swanux.hbud	Python 및 GTK4로 작성된 간단한 오디오/비디오 플레이어 및 노래방 앱
+io.github.tcobbs.LDView	LDraw 모델 뷰어
+io.github.tdesktop_x64.TDesktop	텔레그램 메시징 앱의 비공식 데스크톱 버전
+io.github.technic.e2designer	Qt5로 작성된 enigma2용 스킨 편집기
+io.github.tfuxu.Halftone	이미지에 픽셀 아트 같은 스타일을 부여하세요.
+io.github.thaunknown.miru	Miru - 고양이를 위한 Bittorrent 스트리밍 소프트웨어
+io.github.thetumultuousunicornofdarkness.cpu-x	CPU, 마더보드 등에 대한 정보를 수집합니다.
+io.github.thiefmd.themegenerator	스타일을 사용하여 스타일을 생성합니다.
+io.github.tlcfem.suanPan	🧮 오픈 소스, 병렬 및 이종 유한 요소 분석 프레임워크
+io.github.tntwise.REAL-Video-Enhancer	무료 오픈 소스 비디오 향상 도구
+io.github.torrent_file_editor.Torrent-file-editor	.torrent 파일 편집 및 생성
+io.github.trackballs.Trackballs	미로를 통해 대리석 공을 조종
+io.github.tralph3.Steam_Metadata_Editor	Steam 앱의 메타데이터를 편집하는 사용하기 쉬운 GUI
+io.github.trevorsandy.LPub3D	LPub3D - LDraw 빌딩 지침 편집기
+io.github.trigg.discover_overlay	Discord 음성 채팅을 위한 그래픽 오버레이입니다.
+io.github.troyeguo.koodo-reader	크로스 플랫폼 전자책 리더
+io.github.trytonvanmeer.DungeonJournal	5e 캐릭터 관리자
+io.github.twanvl.MagicSetEditor2	맞춤형 카드를 만드는 데 사용되는 프로그램
+io.github.unicornyrainbow.secrets	필요에 따라 비밀번호를 쉽게 생성하세요
+io.github.unknownskl.greenlight	Greenlight는 xCloud 및 Xbox 홈 스트리밍을 위한 오픈 소스 클라이언트입니다.
+io.github.unrud.RecentFilter	최근에 사용한 파일에서 파일 및 폴더 제외
+io.github.vemonet.EmojiMart	Emoji Mart 웹 구성 요소를 기반으로 하는 데스크탑용 최신 팝업 이모티콘 선택기입니다.
+io.github.veusz.Veusz	과학적인 플로팅 패키지
+io.github.vikdevelop.SaveDesktop	데스크탑 환경의 현재 구성을 저장합니다.
+io.github.vinser.burnfix	화면 이미지 잔상 문제를 해결하고 번인(burn in)을 시도하고 화면 결함을 찾아보세요.
+io.github.vinser.pixyne	사진 폴더를 빠르게 검토하고, 불량하거나 유사한 사진을 안전하게 삭제하고, 촬영 날짜를 수정하세요.
+io.github.voxelcubes.deepqt	이 친숙한 사용자 인터페이스로 DeepL API의 강력한 기능을 활용하세요
+io.github.voxelcubes.panelcleaner	만화 패널을 청소하는 AI 기반 도구
+io.github.webcamoid.Webcamoid	선별로 사진과 기록 비디오를 촬영
+io.github.weclaw1.ScoreTracker	카드 및 보드 게임에서 플레이어 점수를 추적하는 애플리케이션
+io.github.wereturtle.ghostwriter	방해 없는 Markdown용 텍스트 편집기
+io.github.wh201906.serialtest	직렬 포트, Bluetooth, TCP 및 UDP를 위한 크로스 플랫폼 테스트 도구
+io.github.wojciech_graj.OrbVis	실시간 위성 궤도 시각화 장치
+io.github.wxmaxima_developers.wxMaxima	강력한 컴퓨터 대수학 시스템인 Maxima를 위한 그래픽 사용자 인터페이스
+io.github.xaos_project.XaoS	빠른 대화형 실시간 프랙탈 줌머/모퍼
+io.github.xiaoyifang.goldendict_ng	고급 사전 조회 프로그램
+io.github.xolatgames.marknpaul	마법사가 되어보세요!
+io.github.xverizex.RetroSpriteEditor	레트로 콘솔용 픽셀 편집기
+io.github.xverizex.nem_desktop	친구와 대화.
+io.github.xyproto.zsnes	슈퍼 닌텐도 에뮬레이터
+io.github.yairm210.unciv	턴제 전략 게임
+io.github.yamanqd.antware	FPS 게임.
+io.github.zaps166.QMPlay2	비디오 및 오디오 플레이어
+io.github.zhrexl.thisweekinmylife	이것은 사용자가 작업과 함께 카드를 삽입할 수 있는 카반 스타일 플래너입니다.
+io.github.zyedidia.micro	현대적이고 직관적인 터미널 기반 텍스트 편집기
+io.gitlab.Goodvibes	웹 라디오 재생
+io.gitlab.Turtlico	학습을 위한 프로그래밍 도구
+io.gitlab.adhami3310.Converter	이미지 변환 및 조작
+io.gitlab.adhami3310.Footage	비디오를 다듬으세요
+io.gitlab.adhami3310.Impression	부팅 가능한 드라이브 만들기
+io.gitlab.azymohliad.WatchMate	PineTime을 관리하세요
+io.gitlab.ballz.Ballz	굴러가는 공을 조종하는 플랫폼/퍼즐 게임
+io.gitlab.celleron56.libretile	오픈소스 타일 게임 엔진 같은 것
+io.gitlab.coolreader_ng.crqt-ng	크로스 플랫폼 오픈 소스 전자책 리더
+io.gitlab.cyberphantom52.sudoku_solver	간단한 스도쿠 소블러
+io.gitlab.daikhan.stable	스타일 있게 비디오/음악을 재생하세요
+io.gitlab.dev_nis.one-click-backup	폴더를 복사하여 외부 위치에 백업하는 간단한 프로그램
+io.gitlab.floodlight.Presenter	무료, 자유, 오픈 소스 프리젠테이션 및 가사 프로그램
+io.gitlab.gregorni.Calligraphy	텍스트를 ASCII 배너로 변환
+io.gitlab.gregorni.Letterpress	아름다운 ASCII 아트 만들기
+io.gitlab.gwendalj.package-transporter	설치 간 애플리케이션 전송
+io.gitlab.idevecore.Pomodoro	Pomodoro는 생산성 중심의 타이머입니다
+io.gitlab.jazztickets.choria	마지막으로, 열심히 일하고 집안일을 하는 MMORPG입니다.
+io.gitlab.jazztickets.emptyclip	엠프티 클립(Empty Clip)은 탑다운 슈팅 액션 RPG입니다.
+io.gitlab.jazztickets.irrlamb	빛나는 모든 구체를 터치하기 위해 파란색 에너지 공을 제어하는 3D 물리 게임
+io.gitlab.jazztickets.openflap	끝이 보이지 않는 파이프 사이로 공을 튕겨내는 게임
+io.gitlab.leesonwai.Sums	후위 표기법으로 계산
+io.gitlab.leesonwai.Tactics	축구 라인업 구축
+io.gitlab.librewolf-community	LibreWolf 웹 브라우저
+io.gitlab.news_flash.NewsFlash	피드를 계속 확인하세요
+io.gitlab.o20.word	Linux용 오픈 소스 MS Word 2019 복제...
+io.gitlab.osslugaru.Lugaru	3인칭 닌자 토끼 격투 게임
+io.gitlab.persiangolf.voicegen	텍스트를 음성으로 쉽게 변환
+io.gitlab.stone_kingdoms.StoneKingdoms	오픈 소스 Stronghold 팬 리메이크
+io.gitlab.theevilskeleton.Upscaler	이미지 향상 및 향상
+io.gitlab.zehkira.Monophony	YouTube Music에서 음악 스트리밍
+io.howl.Editor	키보드 중심의 최소한의 인터페이스를 갖춘 경량 편집기
+io.itch.azagaya.Laigter	2D 텍스처에 대한 일반, 반사, 폐색 및 시차 맵을 생성하는 도구
+io.itch.doctorm64.skippybot	Skippy는 자신의 진정한 운명을 밝히기 위해 장대한 탐구를 진행하고 있습니다.
+io.itch.domestique_baston.domestique_baston	1대1 격투 게임
+io.itch.drwhut.TabletopClub	물리 기반 3D 샌드박스에서 테이블탑 게임을 즐겨보세요
+io.itch.itch	인디 게임 설치, 업데이트 및 플레이
+io.itch.keyikedalube_ndang.Type-Off	6분의 짧은 타이핑 속도 게임
+io.itch.nordup.TheGates	전 세계 개발자들이 만들어가는 다양한 세계로 여행을 떠나보세요!
+io.jamulus.Jamulus	자물루스. 인터넷 잼 세션 소프트웨어
+io.jor.bugdom	Thorax의 사악한 Fire Ant로부터 Bugdom을 구하세요.
+io.jor.bugdom2	Bully Bee를 추적하고 배낭을 되찾으세요!
+io.jor.mightymike	미친 장난감 가게에서 강력한 액션 구출!
+io.jor.nanosaur	운석이 지구에 떨어지기 전에 공룡 알을 미래로 보내세요!
+io.jor.nanosaur2	첨단 무기를 탑재한 익룡을 조종하세요
+io.jor.ottomatic	Planet X의 거대 두뇌의 손아귀에서 지구를 구하세요
+io.kapsa.drive	모든 S3 공급자와 호환되는 Zero Knowledge E2E 암호화 스토리지
+io.kinvolk.Headlamp	사용하기 쉽고 확장 가능한 Kubernetes용 웹 UI
+io.kopia.KopiaUI	백업 솔루션
+io.liri.Calculator	산술 또는 과학 계산 수행
+io.liri.Text	텍스트 파일 편집
+io.lmms.LMMS	음악 제작 애플리케이션
+io.mango3d.LycheeSlicer	레진 및 필라멘트 3D 프린터용 강력하고 다재다능한 슬라이서
+io.mgba.mGBA	닌텐도 게임보이 어드밴스 에뮬레이터
+io.missioncenter.MissionCenter	시스템을 이용할 수 있도록 하겠습니다.
+io.mpv.Mpv	무료 오픈 소스 크로스 플랫폼 미디어 플레이어
+io.mrarm.mcpelauncher	GNU/Linux에서 Minecraft Bedrock 에디션을 다운로드하고 플레이하세요
+io.naox.InnerBreeze	Wim Hof 호흡 수련을 안내하고 추적하는 명상 앱
+io.neovim.nvim	확장성과 사용성에 중점을 둔 Vim-fork
+io.openrct2.OpenRCT2	놀이공원 관리를 시뮬레이션하는 건설 및 관리 시뮬레이션 비디오 게임
+io.osdn.simplesok	간단한 소코반 게임
+io.otsaloma.gaupol	텍스트 기반 자막 편집기
+io.otsaloma.nfoview	NFO 파일용 뷰어
+io.photoflare.photoflare	간단하지만 강력한 크로스 플랫폼 이미지 편집기
+io.podman_desktop.PodmanDesktop	단일 UI 및 트레이에서 Podman 및 기타 컨테이너 엔진 관리
+io.poez.Poezio	Poezio는 무료 콘솔 XMPP 클라이언트입니다
+io.posidon.Paper	노트 작성 프로그램
+io.qt.Designer	Qt 애플리케이션용 GUI 디자인
+io.qt.Linguist	Qt 애플리케이션에 번역 추가
+io.qt.QtCreator	애플리케이션 개발자가 여러 플랫폼 및 장치용 애플리케이션을 만들 수 있도록 크로스 플랫폼의 완전한 통합 개발 환경(IDE)을 제공합니다.
+io.qt.qdbusviewer	D-Bus 애플리케이션 디버그
+io.qt.qtwebengine.BaseApp	Qt WebEngine을 사용하는 애플리케이션을 위한 공유 플랫폼
+io.sourceforge.Pixelitor	Pixelitor는 오픈 소스 이미지 편집기입니다
+io.sourceforge.YSoccer	레트로 스타일의 축구 게임
+io.sourceforge.chart_geany.chart-geany	Chart Geany는 시장 기술 분석, 차트 작성 및 포트폴리오 관리자를 위한 무료 크로스 플랫폼 소프트웨어 솔루션입니다.
+io.sourceforge.clonekeenplus	Commander Keen과 Cosmos the Cosmic Adventure 게임 시리즈를 플레이하는 데 사용되는 엔진
+io.sourceforge.pentobi	보드 게임 Blokus의 컴퓨터 상대
+io.sourceforge.pipewalker.PipeWalker	연결 퍼즐 게임
+io.sourceforge.pysolfc.PySolFC	솔리테어 게임 편집
+io.sourceforge.qoobar.Qoobar	Qoobar는 클래식 음악을 위한 간단한 태그 편집기입니다.
+io.sourceforge.trigger_rally.TriggerRally	빠르게 진행되는 싱글 플레이어 랠리 레이싱 게임
+io.sourceforge.zaz	플레이어가 세 개의 공을 배열해야 하는 퍼즐 게임입니다.
+io.stoplight.studio	신호등 스튜디오. 손쉬운 API 디자인.
+io.thp.numptyphysics	크레용 그림 기반의 물리 퍼즐 게임
+io.trustable.stpadocumentationtool	STPA를 용이하게 하고 문서화를 자동화하는 시스템 이론 프로세스 분석 도구
+io.typora.Typora	최소한의 Markdown 읽기 및 쓰기 앱
+io.unobserved.espansoGUI	espanso용 GUI 인터페이스
+io.vikunja.Vikunja	오픈소스 할일 앱
+io.wasabiwallet.WasabiWallet	무신뢰 CoinJoin을 구현하는 오픈 소스, 비구금, 개인 정보 보호 중심 데스크탑용 비트코인 지갑입니다.
+io.wavebox.Wavebox	차세대 웹-데스크톱 통신
+io.webtorrent.WebTorrent	스트리밍 토렌트 앱
+ir.imansalmani.IPlan	개인 생활과 업무 흐름을 개선하기 위한 계획
+it.cuteworks.pacmanlogviewer	팩맨 로그 검사
+it.fabiodistasio.AntaresSQL	UX에 중점을 둔 현대적이고 빠르며 생산성 중심의 SQL 클라이언트
+it.mijorus.collector	다음 레벨로 드래그 앤 드롭
+it.mijorus.gearlever	AppImage 관리
+it.mijorus.smile	이모티콘 선택기
+it.mijorus.whisper	마이크를 들어보세요
+jp.yvt.OpenSpades	오픈 소스 복셀 슈터
+la.ogri.strongbox	월드 오브 워크래프트 애드온 관리자
+life.bolls.bolls	오직 하나님의 말씀에만 중점을 두고 성경을 읽을 수 있는 웹앱입니다. 솔라 스크립투라(Sola scriptura)
+lv.martinsz.millionaire	모든 질문에 답하고 100만 달러를 획득하세요.
+md.obsidian.Obsidian	마크다운 기반 지식 베이스
+me.acristoffers.Lachesis	모이라이 감독자
+me.ahola.aphototoollibre	Linux용 사진 편집기
+me.broken_by.PdfMetadataEditor	PDF 메타데이터 편집
+me.dusansimic.DynamicWallpaper	Gnome 42용 동적 배경화면 생성기
+me.hergert.Schemes	GtkSourceView의 디자인 스타일 구성표
+me.hyliu.fluentreader	최신 데스크탑 RSS 리더
+me.iepure.Ticketbooth	좋아하는 프로그램을 추적하세요
+me.iepure.devtoolbox	손쉽게 이용할 수 있는 개발 도구
+me.kozec.syncthingtk	동기화를 위한 GUI 및 알림 영역 아이콘
+me.leucoso.Grock	영국의 지질 지도를 표시합니다.
+me.mitya57.ReText	Markdown 및 reStructuredText를 위한 간단한 텍스트 편집기
+me.njean.shootingpactris	테트리스, 팩맨, shmup 게임플레이를 갖춘 협동형 복고풍 게임입니다.
+me.orszulak.keyring	단순히 아름답거나 아름답게 간단한 OTP 생성기입니다.
+me.ppvan.psequel	SQL 쿼리 실행
+me.sanchezrodriguez.passes	디지털 패스 관리
+me.simakis.dropboxignore	누락된 .dropboxignore 파일에 관한 것입니다.
+me.timschneeberger.GalaxyBudsClient	Windows 및 Linux용 비공식 Galaxy Buds Manager
+me.timschneeberger.jdsp4linux	Pipewire용 오픈 소스 오디오 효과 프로세서
+media.emby.EmbyServer	오픈미디어 솔루션
+media.emby.EmbyTheater	오픈미디어 솔루션
+ml.mdwalters.EightBall	쉽게 결정을 내리세요
+ml.mdwalters.Lemonade	Lemmy에 대한 토론을 따르십시오.
+ml.prevete.Daty	무료 위키데이터 편집기.
+mobi.snowball.Snowball	플랫폼 루프/버즈 와이어 게임과 유사한 새로운 속도 달리기 게임
+moe.clover.mm3d	게임용 3D 모델 편집기 및 애니메이터
+moe.karaokes.mugen	노래방 세션 관리자 및 플레이어
+moe.tundra.Tundra	애니메이션 목록을 자동으로 업데이트하세요
+mx.pwmc.Svgvi	XML 선언을 사용하는 SVG 뷰어 및 편집기
+net._86box._86Box	클래식 IBM PC 클론을 위한 에뮬레이터
+net.agalwood.Motrix	모든 기능을 갖춘 다운로드 관리자
+net.ankiweb.Anki	강력하고 지능적인 플래시 카드
+net.bartkessels.getit	API 엔드포인트에 HTTP 요청 보내기
+net.baseart.Glide	영화 및 오디오 파일 재생
+net.biniou.LeBiniou	사용자 친화적이고 강력한 음악 시각화 / VJing 도구
+net.blix.BlueMail	BlueMail 이메일 및 캘린더 앱
+net.blockattack.game	빠르게 진행되는 매치 3/블록폴 게임
+net.blockbench.Blockbench	Blockbench - 박스형 3D 모델 편집기
+net.blockout.BlockOutII	오리지널 BlockOut 게임을 무료로 적용한 게임
+net.blumia.pineapple-pictures	이미지 뷰어
+net.brinkervii.grapejuice	Roblox Player 및 Roblox Studio용 런처
+net.cebix.basilisk	68k 매킨토시 에뮬레이터
+net.christianbeier.Gromit-MPX	Gromit-MPX는 화면에 주석을 추가하는 도구입니다.
+net.christianbeier.MultiVNC	크로스 플랫폼 멀티캐스트 지원 VNC 뷰어
+net.codeindustry.MasterPDFEditor	PDF 문서 보기, 생성, 수정, 서명, 스캔, OCR 및 인쇄
+net.corluma.Corluma	Philip의 Hues, LIFX, Nanoleafs 및 Arduino를 제어하세요.
+net.cozic.joplin_desktop	오픈 소스 메모 작성 및 할 일 애플리케이션
+net.crossfireatlas.crossfire	로그라이크 다중 사용자 RPG
+net.cubers.assault.AssaultCube	빠른 아케이드 1인칭 슈팅 게임
+net.daase.journable	간단한 불렛저널
+net.danigm.loop	그놈을 위한 간단한 오디오 루프 기계
+net.danigm.timetrack	GNOME의 타임트랙
+net.darkradiant.DarkRadiant	The Dark Mod 및 Doom 3용 3D 레벨 편집기
+net.davidotek.pupgui2	Wine 및 Proton 기반 호환성 도구 설치
+net.dengine.Doomsday	Doom, Heretic 및 Hexen의 향상된 소스 포트
+net.devolutions.RDM	원격 연결의 중앙 집중화, 관리 및 보안
+net.displaycal.DisplayCAL	정확성과 다양성에 초점을 맞춘 디스플레이 보정 및 프로파일링
+net.drawpile.drawpile	공동 그림
+net.epson.epsonscan2	Epson 스캐너 및 다기능 프린터용 소프트웨어
+net.fasterland.converseen	배치 이미지 프로세서
+net.filebot.FileBot	최고의 TV 및 영화 이름 바꾸기
+net.freerct.FreeRCT	테마파크 전략 게임
+net.fsuae.FS-UAE	FS-UAE 아미가 에뮬레이터
+net.gaijin.WarThunder	War Thunder는 가장 포괄적인 무료 플레이, 크로스 플랫폼, MMO 군사 게임입니다.
+net.giuspen.cherrytree	계층적 메모 작성
+net.goatattack.goatattack	멀티플레이어 픽셀 아트 슈팅 게임
+net.gradator.gtkatlantic	모노폴리 같은 게임
+net.granjow.slowmovideo	SlowmoVideo는 영상에서 슬로우 모션 비디오를 생성하는 OpenSource 프로그램입니다.
+net.gwyddion.Gwyddion	SPM(Scanning Probe Microscopy) 데이터 시각화 및 분석을 위한 프로그램
+net.hovancik.Stretchly	휴식 시간 알림 앱
+net.huitsi.ParallelOverhead	끝없는 러너 게임
+net.imaginaryinfinity.Squiid	고급 대수 및 RPN 계산 수행
+net.jami.Jami	개인정보 보호를 지향하는 음성, 영상, 채팅, 회의 플랫폼
+net.jammr.jammr	인터넷을 통해 음악가들과 함께 연주하세요
+net.jenyay.Outwiker	개인 위키 및 아웃라이너.
+net.kirgroup.confy	컨퍼런스 일정 뷰어
+net.krafting.Playlifin	YouTube 재생목록을 Jellyfin에 동기화하세요
+net.krafting.PlaylifinVoyager	Jellyfin으로/에서 재생목록 전송
+net.krafting.PleasureDVR	Chaturbate 웹사이트용 DVR
+net.kubux.Muehle	Nine Men's Morris 게임을 플레이하세요.
+net.kuribo64.melonDS	Nintendo DS 및 DSi 에뮬레이터
+net.kvirc.KVIrc	KVIrc는 무료 휴대용 IRC 클라이언트입니다.
+net.launchpad.Gnuclad	Cladogram 트리 생성기
+net.line72.campcounselor	Bandcamp.com 위시리스트 관리자
+net.longturn.freeciv21	Freeciv21 - 21세기를 위한 Freeciv
+net.lugsole.bible_gui	다양한 번역과 언어를 지원하는 성경 앱
+net.lutris.Lutris	비디오 게임 보존 플랫폼
+net.mancubus.SLADE	둠 에디터입니다
+net.mediaarea.AVIMetaEdit	AVI 파일 메타데이터 포함, 검증 및 내보내기
+net.mediaarea.BWFMetaEdit	BWF 파일 메타데이터 포함, 검증 및 내보내기
+net.mediaarea.DVAnalyzer	DV 스트림 분석 및 오류 보고
+net.mediaarea.MOVMetaEdit	MOV 또는 MP4 파일에 범용 광고 ID 메타데이터 삽입 및 편집
+net.mediaarea.MediaConch	구현체커, 정책체커, 리포터, 픽스
+net.mediaarea.MediaInfo	비디오 및 오디오 파일에 대해 가장 관련성이 높은 기술 및 태그 데이터를 편리하게 통합하여 표시합니다.
+net.mediaarea.QCTools	비디오 보존을 위한 품질 관리 도구
+net.meijn.onvifviewer	ONVIF 프로토콜을 사용하여 네트워크 카메라 보기 및 제어
+net.meshlab.MeshLab	무료 오픈 소스 처리 및 3D 삼각형 메시 편집
+net.minetest.Minetest	멀티플레이어 무한 세계 블록 샌드박스 게임
+net.mkiol.SpeechNote	오프라인 음성 텍스트 변환, 텍스트 음성 변환 및 기계 번역을 사용하여 메모 작성, 읽기 및 번역
+net.mullvad.MullvadBrowser	대량 감시로부터 인터넷을 해방하세요
+net.natesales.Aviator	귀하의 비디오 부조종사: AV1/OPUS 비디오 인코더
+net.nokyan.Resources	시스템 리소스 및 프로세스 모니터링
+net.olofson.KoboDeluxe	3인칭 스크롤 2D 슈팅 게임
+net.openra.OpenRA	초기 Westwood 실시간 전략 게임의 재해석
+net.oz9aec.Gpredict	실시간 위성 추적 및 궤도 예측 프로그램
+net.pcsx2.PCSX2	PlayStation 2 에뮬레이터
+net.peercoin.peercoin-qt	지속가능한 미래를 위한 녹색 암호화폐 Peercoin.
+net.pioneerspacesim.Pioneer	외로운 우주 모험 게임
+net.pistegamez.PekkaKana2	오래된 클래식 플랫폼 게임의 정신으로 만들어진 점프 앤 런 게임
+net.poedit.Poedit	간단한 번역 편집기
+net.puddletag.puddletag	강력한 ID3 태그 편집기
+net.purrdata.PurrData	Pure Data를 기반으로 한 멀티미디어용 오픈 소스 시각적 프로그래밍 언어
+net.qsl.QSSTV	SSTV 및 HAMDRM 수신 및 전송 프로그램
+net.redeclipse.RedEclipse	민첩한 게임플레이와 내장 편집기를 갖춘 1인칭 슈팅 게임
+net.retrodeck.retrodeck	RetroDECK은 Steam Deck에서 직접 복고풍 게임을 분류하고 플레이할 수 있는 환경을 제공합니다.
+net.rpcs3.RPCS3	오픈 소스 Sony PlayStation 3 에뮬레이터
+net.rpdev.OpenTodoList	할 일 목록 및 메모 작성 응용 프로그램
+net.runelite.RuneLite	RuneLite OSRS 클라이언트
+net.sapples.LiveCaptions	데스크탑용 라이브 캡션
+net.scribus.Scribus	오픈 소스 페이지 레이아웃 및 전자 출판(DTP)
+net.seamly.seamly2d	재봉 패턴 디자인 소프트웨어
+net.sf.VICE	다목적 제독 에뮬레이터
+net.sf.fuse_emulator	Sinclair ZX 스펙트럼 에뮬레이터
+net.sf.metronomek	자연스러운 소리와 정교한 가능성을 지닌 사소해 보이는 메트로놈
+net.sf.nootka	클래식 악보 표기법을 배우는 응용 프로그램
+net.shrew.ike.qikea	원격 사이트 구성을 관리하는 애플리케이션
+net.sonic_pi.SonicPi	코드 기반 음악 제작 및 연주 도구
+net.sonobus.SonoBus	무료 오픈 소스 네트워크 오디오 스트리밍
+net.sourceforge.Chessx	무료 체스 데이터베이스
+net.sourceforge.DuneLegacy	현대적인 Dune II 재구현
+net.sourceforge.ExtremeTuxRacer	Tux Racer를 기반으로 한 고속 북극 레이싱 게임
+net.sourceforge.Fillets	70개 레벨의 퍼즐 게임
+net.sourceforge.GrandOrgue	파이프 오르간 시뮬레이터
+net.sourceforge.Hugin	파노라마 사진 스티처 등
+net.sourceforge.Kino	GNU/Linux 및 BSD 플랫폼용 Kino DV 비선형 비디오 편집기
+net.sourceforge.Klavaro	터치 타이핑 튜터
+net.sourceforge.Lifeograph	디지털 일기 및 메모 작성
+net.sourceforge.OpenLieroX	다양한 무기로 무장한 웜을 조종하는 횡스크롤 슈팅 게임
+net.sourceforge.Pdfedit	원시 PDF 개체 트리를 탐색/편집할 수 있는 PDF 편집기
+net.sourceforge.QtSpim	MIPS32 프로그램을 실행하는 독립형 시뮬레이터
+net.sourceforge.Ri-li	어린이 게임, 장난감 나무 엔진 운전
+net.sourceforge.SDL-Ball	예쁜 그래픽이 돋보이는 벽돌 깨기 게임
+net.sourceforge.Teo	Thomson TO8D 에뮬레이터
+net.sourceforge.TuxFootball	훌륭한 2D 축구(때때로 축구라고도 함) 게임
+net.sourceforge.VMPK	가상 MIDI 피아노 키보드: MIDI 이벤트 생성기 및 수신기
+net.sourceforge.artha.Artha	오픈 시소러스
+net.sourceforge.atanks	턴제 포병 전략 게임
+net.sourceforge.audmes.audmes	오디오 측정 시스템
+net.sourceforge.btanks	전투 탱크를 이용한 재미있는 스크롤 게임
+net.sourceforge.chromium-bsu	빠른 속도의 아케이드 스타일 탑 스크롤 우주 슈팅 게임
+net.sourceforge.dmidiplayer	드럼스틱 멀티플랫폼 MIDI 파일 플레이어
+net.sourceforge.efaxgtk	Linux/Unix로 팩스 보내기
+net.sourceforge.electrip.Electrip	게임패드를 사용하여 모형 철도를 조종해보세요!
+net.sourceforge.fretsonfire	Frets on Fire는 음악적 기술과 빠른 손가락의 게임입니다. 게임의 목적은 키보드로 기타를 최대한 정확하게 연주하는 것입니다.
+net.sourceforge.fspclient	FSP를 위한 FTP와 유사한 인터페이스
+net.sourceforge.jpdftweak.jPdfTweak	PDF 파일용 스위스 군용 칼
+net.sourceforge.kmetronome	ALSA 시퀀서를 기반으로 한 드럼스틱 MIDI 메트로놈
+net.sourceforge.kmidimon	Drumstick MIDI Monitor는 ALSA 시퀀서를 사용하는 Linux용 MIDI 모니터입니다.
+net.sourceforge.lgames.LBreakoutHD	Arkanoid / Breakout 유사 게임
+net.sourceforge.lgames.LGeneral	턴 기반 전략 게임 엔진(예: Panzer General)
+net.sourceforge.lgames.LPairs2	고전적인 메모리 게임
+net.sourceforge.lgames.LTris	떨어지는 블록을 이용한 스킬 게임
+net.sourceforge.liferea	RSS 피드 리더
+net.sourceforge.mars-game	놀라운 시각 효과를 갖춘 2D 우주 슈팅 게임
+net.sourceforge.mcomix	만화 및 범용 이미지 뷰어
+net.sourceforge.molsketch	2D 분자 구조 편집기
+net.sourceforge.osmo	개인 주최자
+net.sourceforge.paulstretch	이것은 극단적인 사운드 스트레칭(예: 50x)과 사운드의 스펙트럼 평탄화를 통한 특수 효과 적용을 위한 프로그램입니다.
+net.sourceforge.pdfchain	PDF Chain은 PDF Toolkit(PDFtk)용 그래픽 사용자 인터페이스입니다.
+net.sourceforge.projectM	3D 가속 반복 이미지 기반 렌더링을 사용하는 음악 시각화 장치
+net.sourceforge.qtpfsgui.LuminanceHDR	HDR 이미지 만들기
+net.sourceforge.quakespasm.Quakespasm	원래 Quake 엔진의 현대적인 포트
+net.sourceforge.roccat.roccat-tools	Roccat 장치를 구성하는 응용 프로그램입니다.
+net.sourceforge.scidavis	과학적 데이터 분석 및 시각화를 위한 응용
+net.sourceforge.squirrel_sql	SQuirreL SQL 클라이언트는 JDBC 호환 데이터베이스의 구조를 보고, 테이블의 데이터를 찾아보고, SQL 명령을 실행하는 등의 작업을 수행할 수 있는 GUI입니다. MySQL, PostgreSQL, MariaDB 및 SQLite를 지원합니다.
+net.sourceforge.tomatoes.IHaveNoTomatoes	토마토 스매싱 게임
+net.sourceforge.torcs	오픈 레이싱 카 시뮬레이터
+net.sourceforge.uhexen2.uhexen2	Hexen II의 현대화된 소스 포트
+net.sourceforge.wavbreaker	WAV, MP2 및 MP3 파일을 분할하는 GUI 도구
+net.sourceforge.wxEDID	확장 디스플레이 식별 데이터(EDID) 파일 읽기 및 편집
+net.stabyourself.nottetris2	물리 기반 테트리스
+net.studio08.xbplay	콘솔이나 xCloud에서 원격 플레이
+net.supertuxkart.SuperTuxKart	3D 오픈 소스 카트 레이싱 게임
+net.tedomum.CapBattleship	해적을 테마로 한 전함 게임
+net.unvanquished.Unvanquished	빠른 진행의 1인칭 전략 게임
+net.veloren.airshipper	Airshipper는 Veloren의 공식 런처입니다.
+net.veloren.veloren	Veloren은 Rust로 작성된 멀티플레이어 복셀 RPG입니다. Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress 및 Minecraft와 같은 게임에서 영감을 받았습니다.
+net.warsow.Warsow	빠르게 진행되는 3D 1인칭 슈팅 게임
+net.waterfox.waterfox	최신 웹용으로 제작된 경량의 무료 오픈 소스 웹 브라우저입니다.
+net.werwolv.ImHex	리버스 엔지니어와 프로그래머를 위한 16진수 편집기
+net.worldofpadman.WoP	젊고 마음이 젊은 사람들을 위한 놀랍도록 세심하게 디자인되고 다채로운 프리웨어 재미있는 슈팅 게임입니다.
+net.wz2100.wz2100	세계를 재건하기 위한 전투에서 프로젝트의 군대를 지휘하세요.
+net.xm1math.Texmaker	라텍스 편집기
+net.xmind.XMind	마인드 매핑 및 브레인스토밍
+net.xmind.XMind8	놀라운 브레인스토밍 및 마인드 매핑 도구입니다.
+net.zgcoder.skycheckers	무대에서 적을 날려버리세요
+network.bisq.Bisq	분산형 비트코인 교환 네트워크.
+network.koesling.shm-modbus	Modbus TCP/RTU 클라이언트를 시뮬레이션하는 도구 모음
+network.loki.Session	개인 메신저
+nl.brixit.powersupply	Linux 전원 하위 시스템 디버거
+nl.brixit.wiremapper	Pockethernet 네트워크 테스터용 Linux 클라이언트
+nl.g4d.Girens	Plex 콘텐츠 시청
+nl.hjdskes.gcolor3	선택기나 화면에서 색상을 선택하세요.
+nl.lostboys.rollemup	90년대 후반의 고전 핀볼 게임.
+nl.openoffice.bluefish	다양한 웹 및 소프트웨어 개발 추가 기능이 포함된 텍스트 편집기
+nl.sarine.gpx-viewer	간단한 gpx 뷰어
+nl.v0yd.Capsule	약물 추적기
+no.mifi.losslesscut	비디오 및 오디오 파일을 빠르고 손실 없이 다듬어 공간을 절약하세요.
+nz.mega.MEGAsync	컴퓨터와 MEGA Cloud Drive 간의 손쉬운 자동 동기화.
+one.ablaze.floorp	플로어프 브라우저
+one.alynx.FlipClock	SDL2에서 지원하는 플립 시계 화면 보호기입니다.
+one.flipperzero.qFlipper	PC를 통해 Flipper Zero 펌웨어를 업데이트하기 위한 그래픽 데스크톱 애플리케이션
+one.jiri.easydict-gtk	사전 데이터에도 완전히 공개된 최초의 오픈 소스 번역기입니다.
+one.mixin.messenger	믹스인 메신저
+online.athn.browser.gnome	gnome용 ATHN 브라우저
+org.DolphinEmu.dolphin-emu	GameCube/Wii/Triforce 에뮬레이터
+org.KekikAkademi.BTKSorgu	대상 웹사이트에 터키에서 액세스할 수 있나요? (BTK)
+org.KekikAkademi.eFatura	세금 또는 TR 식별번호를 통한 전자세금계산서 사용조회
+org._2006Scape.Launcher	2006Scape는 무료 Runescape 2006 에뮬레이션 서버입니다.
+org._2009scape.Launcher	Runescape 2009 에뮬레이션 서버용 실행기
+org.adishatz.syncpasswd	비밀번호 업데이트
+org.alienarena.alienarena	초고속 진행 경기장 FPS
+org.aliflang.lang	Alif(alia), 아랍어 프로그래밍 언어
+org.altaqwaa.Altaqwaa	꾸란, 아드카르, 기도 시간
+org.americanmonk.TipitakaPaliReader	이 앱은 Theravāda 불교 삼장(Tipitaka Pāḷi) 경전을 읽고 쉽게 정의를 얻을 수 있는 앱입니다.
+org.apache.directory.studio	완전한 디렉토리 도구 플랫폼
+org.apache.jmeter	부하 테스트 및 성능 측정 애플리케이션
+org.apache.netbeans	NetBeans - Apache Java IDE. 조각을 함께 맞춥니다
+org.ardour.Ardour	디지털 오디오 워크스테이션
+org.armagetronad.ArmagetronAdvanced	3D 라이트사이클 게임
+org.arrl.trustedqsl	Ham Radio Contact 검증 도구
+org.artsoft.rocksndiamonds	보석 모으기 퍼즐 게임
+org.asc_hq.ASC	턴제 전략 게임
+org.atheme.audacious	경량 오디오 플레이어
+org.audacityteam.Audacity	Audacity는 세계에서 가장 인기 있는 오디오 편집 및 녹음 앱입니다.
+org.audiveris.audiveris	광학음악인식(OMR) 애플리케이션
+org.avidemux.Avidemux	다목적 비디오 편집 및 처리 소프트웨어
+org.b3log.siyuan	개인 정보 보호를 최우선으로 하는 개인 지식 관리 시스템, 세분화된 블록 수준 참조 및 Markdown WYSIWYG 지원
+org.beeref.BeeRef	간단한 참조 이미지 뷰어
+org.bino3d.bino	3D 비디오 플레이어
+org.bionus.Grabber	강력한 파일 이름 지정 기능을 갖춘 매우 사용자 정의 가능한 이미지보드/부루 다운로더
+org.bitbucket.mystery_keeper.VapourSynthEditor	VapourSynth 스크립트용 편집기
+org.bitcoincore.bitcoin-qt	비트코인 P2P 네트워크 노드, 지갑 및 GUI를 완전히 검증합니다.
+org.bitfighter.Bitfighter	멀티플레이어 벡터 그래픽 공간 게임
+org.blackcoin.blackcoin-more	진정한 분산형 디지털 화폐
+org.blackfennec.app	확장 가능한 반구조적 데이터 편집 환경
+org.bleachbit.BleachBit	디스크 공간을 확보하고 개인정보를 보호하기 위해 파일을 정리합니다.
+org.blender.Blender	무료 오픈 소스 3D 생성 제품군
+org.bluej.BlueJ	초보자를 위한 Java IDE
+org.bluesabre.MenuLibre	고급 FreeDesktop.org 호환 메뉴 편집기
+org.briarproject.Briar	어디서나 안전한 메시징
+org.btchd.btchd-qt	BitcoinHD P2P 네트워크에 연결
+org.buhocms.BuhoCMS	정적 사이트 생성기를 위한 로컬 CMS
+org.bunkus.mkvtoolnix-gui	Matroska 파일 생성기 및 도구
+org.bzdev.CVRDecode	캘리포니아 디지털 코로나19 백신 기록용 디코더
+org.bzflag.BZFlag	3D 1인칭 탱크 전투 게임
+org.caione.GScope	cscope에 대한 GTK 인터페이스
+org.chocolate_doom.ChocolateDoom	보수적인 Doom 소스 포트
+org.chromium.Chromium	Chromium 프로젝트의 웹 브라우저
+org.citra_emu.citra	닌텐도 3DS 에뮬레이터
+org.claws_mail.Claws-Mail	Claws Mail은 GTK+를 기반으로 하는 이메일 클라이언트(및 뉴스 리더)입니다.
+org.clementine_player.Clementine	음악 파일 및 인터넷 라디오 재생
+org.cloudcompare.CloudCompare	3D 포인트 클라우드 및 메시 처리 소프트웨어
+org.cockpit_project.CockpitClient	Cockpit을 사용하여 SSH를 통해 서버에 연결
+org.codeberg.dimkard.glossaico	언어 학습 애플리케이션
+org.codeblocks.codeblocks	C, C++ 및 Fortran용 IDE
+org.contourterminal.Contour	Contour는 일상적으로 사용하기 위한 현대적이고 실제로 빠른 모달 가상 터미널 에뮬레이터입니다.
+org.coolero.Coolero	Coolero는 냉각 장치를 모니터링하고 제어하는 프로그램입니다.
+org.cryptomator.Cryptomator	클라우드 스토리지에 최적화된 다중 플랫폼 클라이언트 측 암호화 도구
+org.cubocore.CoreAction	몇 가지 편리한 장치가 있는 사이드 바
+org.cubocore.CoreArchiver	간단한 파일 압축/추출 유틸리티
+org.cubocore.CoreFM	간단하고 가볍고 사용하기 쉬운 파일 관리자
+org.cubocore.CoreHunt	사용하기 쉬운 빠른 파일 검색 도구
+org.cubocore.CoreImage	간단하고 가볍고 사용하기 쉬운 이미지 뷰어
+org.cubocore.CoreInfo	파일을 위한 간단한 메타데이터 뷰어
+org.cubocore.CoreKeyboard	단어 제안 기능이 있는 간단한 가상 키보드
+org.cubocore.CorePDF	간단하고 가벼운 PDF 뷰어
+org.cubocore.CorePad	간단하고 가볍지만 강력한 텍스트 편집기
+org.cubocore.CorePaint	간단한 그림 도구
+org.cubocore.CoreRenamer	간단한 경량 배치 파일 이름 바꾸기
+org.cubocore.CoreShot	X11을 위한 간단한 경량 화면 캡처 유틸리티
+org.cubocore.CoreStats	간단한 경량 시스템 리소스 뷰어
+org.cubocore.CoreTime	시간 관련 작업 관리자
+org.cvfosammmm.Porto	데스크탑에서 Jupyter Notebook 편집
+org.cvfosammmm.Setzer	단순하면서도 모든 기능을 갖춘 LaTeX 편집기
+org.cznic.Datovka	데이터 상자를 위한 무료 그래픽 사용자 인터페이스
+org.d3cod3.Mosaic	오픈프레임웍스 기반의 비주얼 패칭 크리에이티브 코딩 플랫폼
+org.darkdimension.rue	추리, 사랑, 후회에 관한 카드 게임입니다.
+org.darktable.Darktable	디지털 카메라의 이미지 구성 및 개발
+org.dash.electrum.electrum_dash	경량 대시 클라이언트
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP 교환 게이트웨이
+org.debian.TuxPuck	3D 셔플퍽 탁구 게임
+org.deidentifier.arx	ARX 데이터 익명화 도구
+org.deluge_torrent.deluge	모든 기능을 갖춘 BitTorrent 클라이언트
+org.denemo.Denemo	악보 만들기
+org.desmume.DeSmuME	닌텐도 DS 에뮬레이터
+org.develz.Crawl	로그라이크 던전 탐험 게임
+org.dhewm3.Dhewm3	dhewm 3은 Doom 3 GPL 소스 포트입니다.
+org.diasurgical.DevilutionX	최신 운영 체제용 Diablo/Hellfire 소스 포트
+org.duckstation.DuckStation	플레이스테이션 에뮬레이터
+org.dupot.beatmatchtopass	그들 모두를 이길
+org.dupot.littleadventure	롤플레잉 픽셀 아트 작은 게임
+org.dust3d.dust3d	빠른 3D 모델링 도구
+org.easycoding.TunedSwitcher	Tuned 서비스를 조작하는 간단한 유틸리티
+org.eclipse.Java	Java IDE, Git 클라이언트, XML 편집기, Maven 및 Gradle 통합을 포함한 모든 Java 개발자를 위한 필수 도구
+org.eclipse.Javascript	JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown 언어 지원을 포함한 모든 JavaScript 개발자를 위한 필수 도구
+org.eclipse.iot.fourdiac.Ide	OpenSource IEC 61499 호환 PLC IDE
+org.eclipse.sumo	미세한 교통 시뮬레이션
+org.electrum.electrum	경량 비트코인 클라이언트
+org.emilien.Password	최대의 보안을 위한 강력한 비밀번호
+org.emilien.SpaceLaunch	다음 로켓은 언제 하늘로 날아오를 것인가?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(s) 테스트 도구
+org.endlessos.Key	언제 어디서나 선별된 학습
+org.enjoyingfoss.FOSStriangulator	사진에서 삼각형 일러스트레이션을 만드는 도구
+org.entangle_photo.Manager	테더링된 카메라 제어 및 캡처
+org.equeim.Tremotesf	전송 BitTorrent 클라이언트용 원격 GUI
+org.eu.encom.spectral	매트릭스 프로토콜용 IM 클라이언트
+org.eu.getcatalyst.Catalyst	Electron이 제공하는 가볍고 사용자 중심의 웹 브라우저
+org.eu.wabarc.wayback	웹페이지를 Internet Archive, archive.today, IPFS 및 로컬 파일 시스템에 보관하기 위한 자체 호스팅 툴킷
+org.exaile.Exaile	오디오 컬렉션을 듣고, 탐색하고, 관리하세요.
+org.exbin.BinEd	바이너리/16진수 편집기
+org.expresslrs.ExpressLRSConfigurator	ExpressLRS 펌웨어용 크로스 플랫폼 구성 도구
+org.eyecreate.qiflora	Mi Flora 장치를 사용하여 식물을 모니터링하는 모바일 친화적인 애플리케이션입니다.
+org.eyecreate.vehiclevoyage	차량 서비스 내역을 추적합니다.
+org.famistudio.FamiStudio	FamiStudio NES 음악 편집기
+org.fcitx.Fcitx5	입력기
+org.fdroid.Repomaker	F-Droid 저장소를 쉽게 생성하세요
+org.featherwallet.Feather	모네로 데스크탑 지갑
+org.fedoraproject.MediaWriter	페도라 배포판을 만들어 USB 드라이브를 생성하는 도구
+org.ferdium.Ferdium	데스크톱용 메신저
+org.filezillaproject.Filezilla	빠르고 안정적인 FTP 클라이언트
+org.filmulator.Filmulator	모든 긍정적인 요소를 포함하고 부정적인 요소는 전혀 없는 영화 에뮬레이터인 Filmulator의 GUI 적용
+org.firestormviewer.FirestormViewer	3D 가상 세계에 액세스하기 위한 클라이언트
+org.fkoehler.KTailctl	Tailscale 메시 네트워크용 GUI
+org.flameshot.Flameshot	강력하고 사용하기 쉬운 스크린샷 소프트웨어
+org.flarerpg.Flare	2D 액션 롤플레잉 게임
+org.flathub.flatpak-external-data-checker	Flatpak 매니페스트에 사용된 외부 데이터가 여전히 최신인지 확인하는 도구
+org.flatpak.qtdemo	Flatpak 개발자 데모
+org.flightgear.FlightGear	무료이며 고도로 정교한 비행 시뮬레이터
+org.flozz.calcleaner	CalDAV 달력에서 오래된 이벤트를 제거하는 간단한 그래픽 도구
+org.flozz.yoga-image-optimizer	JPEG, PNG 및 WebP 이미지 변환 및 최적화
+org.flycast.Flycast	Sega Dreamcast, Naomi 및 Atomiswave 에뮬레이터
+org.fontforge.FontForge	편집편집기 개요
+org.freac.freac	오디오 변환기 및 CD 리퍼
+org.free_astro.siril	천문영상 (전)처리 프로그램
+org.freecadweb.FreeCAD	오픈 소스 파라메트릭 3D CAD 모델러
+org.freeciv.gtk322	Freeciv 게임용 Gtk+-3.22 기반 클라이언트
+org.freeciv.qt	Freeciv 게임용 Qt 기반 클라이언트
+org.freecol.FreeCol	FreeCol은 턴제 전략 게임입니다.
+org.freedesktop.Bustle	D-Bus 활동의 시퀀스 다이어그램 그리기
+org.freedesktop.GstDebugViewer	GStreamer 디버그 로그 정보 검사
+org.freedesktop.Piper	게임용 마우스 구성 유틸리티
+org.freedesktop.Tuhi	Wacom Ink 제품군에서 도면을 다운로드하는 유틸리티
+org.freedesktop.adriconf	고급 DRI 구성기
+org.freedesktop.appstream-glib	AppStream 파일 검증 및 도구
+org.freedesktop.appstream.cli	AppStream 데이터 관리자 작업용
+org.freedesktop.appstream.generator	빠른 AppStream 메타데이터 생성기
+org.freedesktop.dabrain34.GstPipelineStudio	자신만의 GStreamer 파이프라인을 그려보세요...
+org.freedesktop.dabrain34.squared	사각형을 숫자로 채워보세요
+org.freedesktop.fwupd	Linux에서 장치 펌웨어 업데이트
+org.freedownloadmanager.Manager	FDM은 강력한 최신 다운로드 가속기 및 구성 도구입니다.
+org.freefilesync.FreeFileSync	시각적 폴더 비교 및 동기화
+org.freeorion.FreeOrion	턴제 우주 제국과 은하계 정복(4X) 컴퓨터 게임
+org.freeplane.App	마인드 매핑, 지식 관리, 프로젝트 관리. 가장 효과적인 방법으로 아이디어와 지식을 개발, 구성 및 전달합니다.
+org.frescobaldi.Frescobaldi	LilyPond 음악 편집자
+org.fritzing.Fritzing	전자 설계 도구
+org.frozen_bubble.frozen-bubble	얼어붙은 거품에 대한 중독성 게임
+org.gabmus.gfeeds	그놈을 대표하는 뉴스 리더
+org.gabmus.giara	Reddit용 앱
+org.gabmus.hydrapaper	다중 모니터를 지원하는 배경화면 관리자
+org.gabmus.notorious	키보드 중심 노트
+org.gabmus.swatch	색상 팔레트 관리자
+org.gabmus.unifydmin	여러 이기종 서버를 쉽게 제어할 수 있는 GNOME 앱
+org.gabmus.whatip	IP 정보
+org.gahshomar.Gahshomar	페르시아/잘랄리/페르시 달력
+org.gajim.Gajim	모든 기능을 갖춘 XMPP 채팅 클라이언트
+org.gaphor.Gaphor	간단한 UML 및 SysML 모델링 도구
+org.geany.Geany	빠르고 가벼운 IDE
+org.geeqie.Geeqie	가벼운 이미지 뷰어
+org.genivi.DLTViewer	진단 로그 및 추적 보기 프로그램
+org.geogebra.GeoGebra	동적 수학 소프트웨어
+org.gephi.Gephi	오픈 그래프 시각화 플랫폼
+org.getmonero.Monero	모네로: 안전하고, 비공개이며, 추적할 수 없는 암호화폐
+org.getoutline.OutlineClient	자유롭고 개방된 인터넷에 대한 접근
+org.getoutline.OutlineManager	클라우드에 아웃라인 서버를 설정하고 서버에 액세스할 수 있는 사용자를 관리하세요.
+org.getzola.zola	모든 기능이 내장된 단일 바이너리로 구성된 빠른 정적 사이트 생성기
+org.ghidra_sre.Ghidra	Ghidra 소프트웨어 리버스 엔지니어링 제품군
+org.gimp.GIMP	이미지를 편집하여 사진을 편집합니다
+org.gmusicbrowser.gmusicbrowser	대규모 음악 컬렉션을 위한 주크박스
+org.gna.Warmux	재미있는 캐릭터가 재미있는 무기를 발사하는 2D 게임
+org.gnode.NixView	nix 데이터파일용 뷰어
+org.gnome.Aisleriot	공격 솔리테어 게임을 플레이합니다
+org.gnome.Boxes	새롭게 기능을 쉽게 활용하게 되었습니다.
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	그놈 통합 개발 환경
+org.gnome.Calculator	일반 연산, 과학, 재무용 계산을 합니다
+org.gnome.Calendar	그놈용 달력 메모
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.Characters	문자 표 프로그램
+org.gnome.Cheese	웹카메라에서 사진과 비디오를 찍고, 재미있는 그래픽 효과를 사용할 수도 있습니다
+org.gnome.Chess	전통적인 2인 체스 보드 게임을 플레이합니다
+org.gnome.ColorViewer	설치한 시스템 색 프로파일 점검 및 비교
+org.gnome.Connections	다른 데스크톱을 보거나 사용합니다
+org.gnome.Contacts	연락처를 관리합니다
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	데이터 손실을 막아줍니다
+org.gnome.Devhelp	API 문서를 보고 검색하는 개발자 도구
+org.gnome.EasyTAG	소리 파일 메타데이터를 편집합니다
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	웹을 탐색합니다
+org.gnome.Evince	많이 사용하는 문서 형식에 대한 문서 보기 프로그램
+org.gnome.Evolution	전자메일, 연락처, 일정을 관리합니다
+org.gnome.Extensions	그놈 확장을 관리합니다
+org.gnome.FileRoller	압축 파일을 열고, 수정하고, 만듭니다
+org.gnome.Firmware	Install firmware on devices
+org.gnome.FontManager	A simple font management application for Gtk+ Desktop Environments
+org.gnome.Four-in-a-row	같은 색을 한 줄로 놓아야 이기는 게임
+org.gnome.Fractal	Matrix group messaging app
+org.gnome.GHex	바이너리 파일을 살펴보고 편집합니다
+org.gnome.GTG	Personal tasks and TODO-list items organizer
+org.gnome.Geary	Send and receive email
+org.gnome.Genius	Genius is a general purpose calculator program
+org.gnome.Glade	GTK+ 프로그램의 사용자 인터페이스 디자인을 열거나 새로 만듭니다
+org.gnome.Gnote	A simple note-taking application
+org.gnome.Gtranslator	프로그램과 라이브러리를 변역하고 지역화합니다
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	히토리 퍼즐 게임을 플레이합니다
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	블록을 밀어서 퍼즐을 풉니다
+org.gnome.LightsOff	모든 불을 끄십시오
+org.gnome.Logs	시스템의 자세한 이벤트 기록을 봅니다
+org.gnome.Lollypop	음악 컬랙션 재생하고 정리하기
+org.gnome.Loupe	그림을 봅니다
+org.gnome.Mahjongg	타일을 맞춰서 게임판을 비우십시오
+org.gnome.Maps	전세계의 장소를 찾아봅니다
+org.gnome.Mines	지뢰밭에서 숨겨진 지뢰를 제거합니다
+org.gnome.Music	음악 모음을 재생하고 정리합니다
+org.gnome.NautilusPreviewer	여러가지 종류의 파일을 빠르게 보는 기능을 제공합니다
+org.gnome.NetworkDisplays	Stream the desktop to Wi-Fi Display capable devices
+org.gnome.Nibbles	벌레를 조종해 미로를 통과합니다
+org.gnome.Notes	그놈용 메모
+org.gnome.OCRFeeder	The complete OCR suite
+org.gnome.OfficeRunner	Close your laptop lid and start running
+org.gnome.Photos	그놈에서 사진에 접근하고, 정리하고, 공유합니다
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	원하는 팟캐스트를 듣기를 보여줍니다
+org.gnome.Polari	IRC에서 여러 사람과 대화합니다
+org.gnome.PowerStats	전원 관리 관찰
+org.gnome.Quadrapassel	떨어지는 블록을 맞춥니다
+org.gnome.Recipes	그놈은 요리를 좋아해요 :)
+org.gnome.Reversi	고전 리버시 게임 또는 반전 변형 방식으로 플레이하여 게임판을 정복합니다
+org.gnome.Rhythmbox3	음악 모음을 재생하고 정리합니다
+org.gnome.Robots	로봇을 피해 서로 부딪혀 부서지도록 합니다
+org.gnome.Shotwell	Digital photo organizer
+org.gnome.SimpleScan	사진과 문서의 디지털 복사본 만들기
+org.gnome.Snapshot	사진 및 영상을 촬영합니다
+org.gnome.Solanum	업무 시간과 휴식 시간 균형을 맞춥니다
+org.gnome.SoundJuicer	깔끔한 인터페이스와 간단한 설정의 CD 리핑 프로그램
+org.gnome.SoundRecorder	간단하면서 현대적인 그놈 데스크톱 녹음기
+org.gnome.Sudoku	이 숫자 퍼즐에서 논리 실력을 시험해보세요
+org.gnome.SwellFoop	같은 색이나 모양의 타일을 제거해 나가면서 화면을 청소합니다
+org.gnome.Tali	주사위를 굴려 점수를 얻으세요
+org.gnome.Taquin	타일을 밀어서 올바른 위치에 놓습니다
+org.gnome.Tau	GTK frontend for the xi text editor
+org.gnome.Tetravex	타일 위치를 바꿔 사각형을 맞춥니다
+org.gnome.TextEditor	텍스트 파일 편집
+org.gnome.Todo	Manage your tasks
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	동영상을 재생합니다
+org.gnome.TwentyFortyEight	2048 타일을 만드세요
+org.gnome.Weather	날씨와 일기 예보 보기
+org.gnome.World.Citations	Manage your bibliography
+org.gnome.World.Iotas	Simple note taking
+org.gnome.World.PikaBackup	데이터를 안전하게 보호합니다
+org.gnome.World.Secrets	암호 정보를 관리합니다
+org.gnome.atomix	Build molecules out of single atoms
+org.gnome.baobab	폴더 용량과 디스크의 빈 공간을 검사합니다
+org.gnome.clocks	현재 시간을 꾸준히 나타냅니다
+org.gnome.design.AppIconPreview	프로그램 아이콘 디자인 도구
+org.gnome.design.Contrast	두 색상의 보색 여부를 확인합니다
+org.gnome.design.Emblem	Generate project avatars
+org.gnome.design.IconLibrary	앱에 활용할 심볼릭 아이콘
+org.gnome.design.Lorem	입력 자리 문구를 만듭니다
+org.gnome.design.Palette	색 팔레트 도구
+org.gnome.design.SymbolicPreview	심볼 아이콘을 쉽게 만듭니다
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.dspy	그놈용 D-Bus 탐색기
+org.gnome.eog	이미지 살펴보기 및 회전
+org.gnome.five-or-more	색색의 공을 제거해 한 줄로 만듭니다
+org.gnome.font-viewer	시스템에 설치된 글꼴을 봅니다
+org.gnome.frogr	A flickr uploader for GNOME
+org.gnome.gThumb	그림을 보고 관리도 하세요
+org.gnome.gbrainy	gbrainy is a game to train memory, arithmetical, verbal and logical skills.
+org.gnome.gedit	텍스트 편집기
+org.gnome.gitg	git 그래픽 사용자 인터페이스
+org.gnome.gitlab.Cowsay	Cowsay, a state of the art Cowsay generator using GNOME conventions
+org.gnome.gitlab.YaLTeR.Identity	Compare images and videos
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Trim videos quickly
+org.gnome.gitlab.bazylevnik0.Convolution	Maze escaping game
+org.gnome.gitlab.dqpb.GMetronome	A tempo measurement tool for composers and musicians
+org.gnome.gitlab.ilhooq.Bookup	Simplify your note-taking with Markdown syntax
+org.gnome.gitlab.johannesjh.favagtk	Do your finances using fava and beancount
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.gitlab.somas.Apostrophe	Edit Markdown in style
+org.gnome.glabels-3	라벨, 명함 그리고 미디어 커버 만들기
+org.gnome.meld	Compare and merge your files
+org.gnome.moserial	Serial terminal
+org.gnome.seahorse.Application	암호 및 암호화 키를 관리합니다
+org.gnu.emacs	An extensible text editor
+org.gnu.pspp	GNU PSPP is a program for statistical analysis of sampled data
+org.gnucash.GnuCash	재정, 계정 및 투자 관리
+org.gnumeric.Gnumeric	고정밀 스프레드시트 프로그램
+org.gnunet.Messenger	GNUnet의 메신저 서비스를 위한 GTK 기반 GUI입니다.
+org.gnupg.GPA	GnuPG에 대한 그래픽 프런트엔드
+org.godotengine.Godot	Godot 게임 엔진 편집기
+org.godotengine.Godot3	Godot 게임 엔진 편집기
+org.godotengine.Godot3Sharp	Godot 게임 엔진 편집기
+org.godotengine.GodotSharp	Godot 게임 엔진 편집기
+org.goldcoinproject.goldcoin-qt	디지털 화폐의 골드 스탠다드를 알아보세요.
+org.goldendict.GoldenDict	사전 조회 프로그램
+org.gottcode.Connectagram	패턴에 배치된 단어를 해독하세요
+org.gottcode.CuteMaze	미로에서 목표물 찾기
+org.gottcode.FocusWriter	풀스크린 프로세스 프로세서
+org.gottcode.Gottet	브릭이 떨어져 판을 도와드립니다
+org.gottcode.Hexalate	원을 돌려 색상을 일치시키세요.
+org.gottcode.Kapow	프로젝트에 소요된 시간을 추적하세요.
+org.gottcode.NovProg	단어수 그래프 프로그램
+org.gottcode.Peg-E	그들을 제거하기 위해 말뚝을 점프
+org.gottcode.Simsu	퍼즐을 풀기 위해 숫자를 입력하세요
+org.gottcode.Tanglet	Boggle의 싱글 플레이어 변형
+org.gottcode.Tetzle	테트로미노 조각으로 만든 직소 퍼즐
+org.gpodder.gpodder	미디어 수집기 및 팟캐스트 클라이언트
+org.gpodder.gpodder-adaptive	모바일과 데스크톱 모두를 위한 미디어 애그리게이터 및 팟캐스트 클라이언트
+org.gramps_project.Gramps	계보정보 관리, 계보 연구 및 분석 수행
+org.greenfoot.Greenfoot	그린풋
+org.grisbi.Grisbi	개인 재정 관리자
+org.groestlcoin.electrum-grs	경량 그로에슬코인 클라이언트
+org.groestlcoin.groestlcoin-qt	Groestlcoin P2P 네트워크 노드, 지갑 및 GUI를 완전히 검증합니다.
+org.gtaf.quran	단어 분석, 컬러 Tajweed, Tafsir 및 오디오를 통해 꾸란을 공부하세요
+org.gtimelog.GTimeLog	눈에 띄지 않게 시간을 추적하세요
+org.gtkhash.gtkhash	메시지 다이제스트 또는 체크섬 계산
+org.guerinoni.qTsConverter	qt 번역 파일(ts)을 다른 형식(xlsx/csv)으로 또는 그 반대로 변환하는 간단한 도구입니다.
+org.guitarix.Guitarix	Jack/Linux용 가상 다목적 증폭
+org.gustavoperedo.FontDownloader	온라인 소스에서 글꼴 설치
+org.hdfgroup.HDFView	HDF 파일 탐색 및 편집
+org.hedgewars.Hedgewars	고슴도치와 싸우는 재미있는 턴제 포병 게임!
+org.hikounomizu.HikouNoMizu	플랫폼 기반의 애니메이션 스타일 격투 게임
+org.hlwd.sonofman	성경 다국어, 무료, 오프라인, 광고 없음, 터미널용 영어, 프랑스어, 이탈리아어, 스페인어, 포르투갈어.
+org.homelinuxserver.vance.biblereader	말씀을 읽어라
+org.horizon_eda.HorizonEDA	무료 EDA 패키지
+org.hydrogenmusic.Hydrogen	고급 드럼 머신
+org.icculus.tennix	멀티플레이어 테니스 게임
+org.imitationpickles.barbie	바비가 해마를 도와 비눗방울을 타고 달까지 가도록 도와주세요.
+org.inkscape.Inkscape	벡터 그래픽 편집기
+org.ioquake3.ioquake3	무료 오픈 소스 Quake 3 기반 엔진
+org.jabref.jabref	BibTeX 및 biblatex(.bib) 데이터베이스를 관리하기 위한 그래픽 Java 애플리케이션
+org.jacktrip.JackTrip	다른 음악가들과 연결하고 연주하세요
+org.jamovi.jamovi	실시간 통계 스프레드시트
+org.jaspstats.JASP	고전적 및 베이지안 표준 통계 분석
+org.jdownloader.JDownloader	관리 도구 다운로드
+org.jellyfin.JellyfinServer	자유 소프트웨어 미디어 시스템
+org.jflap.JFLAP	공식 언어 테스트
+org.jitsi.jitsi-meet	Jitsi Meet - 안전하고 간단하며 확장 가능한 화상 회의
+org.jreleaser.cli	JReleaser를 사용하여 빠르고 쉽게 프로젝트 출시
+org.js.nuclear.Nuclear	전자 기반 음악 플레이어
+org.jupyter.JupyterLab	Electron을 기반으로 하는 JupyterLab 데스크톱 애플리케이션
+org.karapulse.Karapulse	웹 원격 클라이언트가 내장된 가라오케 플레이어
+org.kde.Ikona	Ikona는 아이콘 디자인을 도와주는 디자인 동반자입니다.
+org.kde.SymbolEditor	크로스 스티치 기호 편집기
+org.kde.akregator	뉴스 피드 리더
+org.kde.alligator	모바일 장치용 피드 리더
+org.kde.angelfish	모바일 장치용 웹 브라우저
+org.kde.arianna	전자책 리더
+org.kde.ark	압축 도구
+org.kde.artikulate	Artikulate 발음 타이머
+org.kde.atlantik	Monopoly® 형태 보드 게임
+org.kde.audiotube	올인원 YouTube Music 클라이언트
+org.kde.blinken	기억력 향상 게임
+org.kde.bomber	아케이드 폭격 게임
+org.kde.bovo	오목 게임
+org.kde.cantor	KDE 수학 소프트웨어 프론트엔드
+org.kde.choqok	마이크로블로그 클라이언트
+org.kde.digikam	사진 관리 프로그램
+org.kde.dolphin	파일 관리자
+org.kde.elisa	온라인 라디오를 지원하는 아름다운 음악 재생기
+org.kde.falkon	웹 브라우저
+org.kde.filelight	디스크 사용 통계를 보고 사용하지 않는 파일 삭제
+org.kde.francis	시간 추적
+org.kde.gcompris	2-10세 어린이용 다양한 활동이 있는 교육용 게임
+org.kde.granatier	Bomberman 클론
+org.kde.gwenview	그림 뷰어
+org.kde.haruna	Qt/QML과 libmpv를 사용하는 오픈 소스 미디어 재생기
+org.kde.index	내 파일 관리
+org.kde.isoimagewriter	ISO 이미지를 USB 메모리에 기록합니다
+org.kde.itinerary	디지털 여행 도우미
+org.kde.juk	음악 재생기
+org.kde.kaffeine	멀티미디어 재생기
+org.kde.kalgebra	그래핑 계산기
+org.kde.kalk	다기능 계산기
+org.kde.kalzium	원소 주기율표
+org.kde.kamoso	웹캠으로 사진을 찍거나 동영상 녹화하기
+org.kde.kanagram	글자 순서 게임
+org.kde.kapman	팩맨 클론
+org.kde.kasts	팟캐스트 앱
+org.kde.katomic	소코반 같은 전략 게임
+org.kde.kbibtex	LaTeX에서 사용하는 서지 정보를 편집하는 KDE의 BibTeX 편집기
+org.kde.kblackbox	블랙박스 논리 게임
+org.kde.kblocks	떨어지는 블록 게임
+org.kde.kbounce	KBounce는 퍼즐 요소가 혼합된 단일 플레이어 아케이드 게임입니다
+org.kde.kbreakout	KBreakOut은 KDE의 벽돌 깨기 게임입니다
+org.kde.kbruch	분수 연습
+org.kde.kcachegrind	프로파일러 프론트엔드
+org.kde.kcalc	공학용 계산기
+org.kde.kclock	알람과 타이머 설정, 초시계 사용, 세계 시간 관리
+org.kde.kcolorchooser	색상 선택 및 팔레트 편집기
+org.kde.kdenlive	동영상 편집기
+org.kde.kdevelop	C/C++ 및 기타 프로그래밍 언어용 기능적이고 확장 가능한 IDE
+org.kde.kdiamond	KDiamond는 KDE의 돌 세 개 맞추기 게임입니다
+org.kde.kdiff3	파일과 폴더 비교 및 병합 도구
+org.kde.keysmith	Plasma 모바일과 데스크톱용 2단계 인증 코드 생성기
+org.kde.kfind	파일/폴더 찾기
+org.kde.kfourinline	KFourInLine은 KDE의 한 줄에 네 개 보드 게임입니다
+org.kde.kgeography	Geography learning tool
+org.kde.kgeotag	사진 지오태그 프로그램
+org.kde.kget	다운로드 관리자
+org.kde.kgoldrunner	금을 캐고, 적을 피하고, 퍼즐을 풀기
+org.kde.kgraphviewer	A Graphviz DOT graph viewer
+org.kde.khangman	행맨 게임
+org.kde.kid3	오디오 파일 메타데이터 편집
+org.kde.kig	인터랙티브 기하학
+org.kde.kigo	바둑 게임
+org.kde.kile	TeX/LaTeX 편집기
+org.kde.killbots	킬러 로봇을 뛰어넘어서 이기십시오
+org.kde.kimagemapeditor	HTML 이미지 맵 편집기
+org.kde.kiriki	야찌형 주사위 게임
+org.kde.kiten	일본어 참조 및 학습 도구
+org.kde.kjumpingcube	땅따먹기 게임
+org.kde.kleopatra	인증서 관리자와 통합된 암호화 GUI
+org.kde.klettres	알파벳 익히기
+org.kde.klickety	Klickety는 Clickomania 게임의 파생형입니다
+org.kde.klines	전략 게임
+org.kde.kmahjongg	마작 카드 게임
+org.kde.kmines	지뢰찾기 게임
+org.kde.kmplayer	KDE MPlayer 인터페이스
+org.kde.kmplot	수학 함수 플로터
+org.kde.kmymoney	복식 부기를 지원하는 개인 재무 관리자
+org.kde.knavalbattle	전함 침몰 게임
+org.kde.knetwalk	KNetWalk는 시스템 관리자 대상 게임입니다
+org.kde.knights	체스 게임
+org.kde.koko	이미지 갤러리
+org.kde.kolf	모형 골프
+org.kde.kollision	캐주얼 공 게임
+org.kde.kolourpaint	그리기 프로그램
+org.kde.kommit	Git GUI client
+org.kde.kompare	Diff/Patch 프론트엔드
+org.kde.kongress	KDE 콘퍼런스 도우미 앱
+org.kde.konquest	은하 전략 게임
+org.kde.konsole	터미널
+org.kde.kontact	이메일, 달력, 연락처와 같은 개인 정보를 한 곳에서 처리하기
+org.kde.kontrast	색 대비 검사기
+org.kde.konversation	IRC 클라이언트
+org.kde.kpat	솔리테어 카드 게임
+org.kde.kphotoalbum	KDE 사진 관리 소프트웨어
+org.kde.krdc	다른 컴퓨터에 RDP나 VNC로 연결
+org.kde.krename	강력한 일괄 이름 바꾸기 도구
+org.kde.kreversi	리버시 보드 게임
+org.kde.krita	디지털 페인팅, 자유로운 창의성
+org.kde.kronometer	크로노미터
+org.kde.kruler	화면 자
+org.kde.ksirk	우주 정복 전략 게임
+org.kde.ksnakeduel	트론 게임
+org.kde.ksquares	점을 연결해서 사각형 만들기
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	데스크톱 별자리판
+org.kde.ksudoku	1부터 9까지 숫자를 채워 넣는 수학 퍼즐 게임
+org.kde.kteatime	차 요리 도구
+org.kde.ktimetracker	개인 시간 추적기
+org.kde.ktorrent	비트토렌트 클라이언트
+org.kde.ktouch	타자 연습 도우미
+org.kde.ktrip	대중 교통 탐색기
+org.kde.ktuberling	어린이와 어른 모두가 좋아하는 그림 그리기 게임
+org.kde.kturtle	교육 프로그래밍 개발 환경
+org.kde.kubrick	루빅스 큐브 기반 3D 게임
+org.kde.kuiviewer	Qt Designer UI 파일 뷰어
+org.kde.kwalletmanager5	지갑 관리 도구
+org.kde.kweather	실시간 일기 예보와 기타 정보 표시
+org.kde.kwordquiz	플래시 카드 트레이너
+org.kde.kwrite	텍스트 편집기
+org.kde.kxstitch	십자수 패턴 생성기
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	컴퓨터 보조 번역 시스템
+org.kde.lskat	2인용 독일식 카드 게임 스카트
+org.kde.marble	가상 지구본
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	음악 교육 소프트웨어
+org.kde.neochat	Matrix, 분산 대화 프로토콜 클라이언트
+org.kde.okteta	16진수 편집기
+org.kde.okular	문서 뷰어
+org.kde.palapeli	조각 퍼즐 게임
+org.kde.parley	어휘 연습 도구
+org.kde.peruse	만화책 뷰어
+org.kde.picmi	숫자 논리 기반 퍼즐 게임
+org.kde.pix	그림 갤러리
+org.kde.plasmatube	YouTube 동영상 보기
+org.kde.qmlkonsole	모바일 터미널 앱
+org.kde.rocs	Rocs 그래프 이론
+org.kde.ruqola	Rocket Chat 클라이언트
+org.kde.skanpage	여러 쪽 문서 스캔 앱
+org.kde.skrooge	가정용 단식 부기 가계부
+org.kde.subtitlecomposer	기본 및 고급 자막 편집 기능이 있는 동영상 자막 편집기
+org.kde.tellico	소장품 관리 도구
+org.kde.telly-skout	올인원 Kirigami TV 가이드
+org.kde.tokodon	마스토돈 클라이언트
+org.kde.umbrello	UML 모델러
+org.kde.vvave	내 음악 모음집 재생
+org.kde.yakuake	위에서 내려오는 터미널
+org.keepassxc.KeePassXC	Community-driven port of the Windows application “KeePass Password Safe”
+org.kekikakademi.ntvHaber	Breaking News in Turkish from NTV.com.tr
+org.kicad.KiCad	회로도 및 회로 기판 설계를 위한 EDA 제품군
+org.kiwix.desktop	View offline content
+org.kosmospredanie.Yakblt	A simple bullet-dodging game
+org.kryogenix.Pick	A colour picker
+org.kryogenix.hushboard	Mute your mic while you’re typing
+org.kryogenix.utm_no	Remove tracking parameters from copied URLs
+org.ksnip.ksnip	Cross-Platform Screenshot tool with annotation features
+org.lamport.tla.toolbox	TLA+ Toolbox is an IDE (integrated development environment) for the TLA+ tools
+org.laptop.TurtleArtActivity	A Logo-inspired turtle that draws colorful pictures with snap-together visual programming blocks
+org.learningequality.Kolibri	Offline education technology platform
+org.leocad.LeoCAD	Design virtual models you can build with LEGO bricks
+org.librecad.librecad	2D Computer Aided Design (CAD)
+org.librehunt.Organizer	파일을 깔끔한 카테고리로 정리하는 유틸리티
+org.libreoffice.LibreOffice	LibreOffice 생산성 제품군
+org.librepcb.LibrePCB	설계 회로도 및 PCB
+org.libretrainsim.Libre-TrainSim	모두를 위한 무료 기차 시뮬레이터
+org.libretro.RetroArch	에뮬레이터, 게임 엔진, 미디어 플레이어용 프런트엔드
+org.libsdl.Maelstrom	고품질 소행성 클론
+org.libvips.vipsdisp	이미지 뷰어
+org.linux_hardware.hw-probe	컴퓨터 하드웨어의 작동성을 확인하고 드라이버를 찾으세요.
+org.linuxshowplayer.LinuxShowPlayer	무대 제작을 위해 설계된 큐 플레이어
+org.localsend.localsend_app	주변 장치에 파일 공유
+org.love2d.love2d	LÖVE는 Lua를 위한 멋진 2D 게임 프레임워크입니다.
+org.lyx.LyX	문서 처리기
+org.mamedev.MAME	MAME는 다목적 에뮬레이션 프레임워크입니다.
+org.manaplus.ManaPlus	The Mana World 및 유사한 서버에 대한 확장 클라이언트
+org.mapeditor.Tiled	범용 맵 편집기
+org.mattbas.Glaxnimate	벡터 애니메이션 편집기
+org.mattdm.icebreaker	통통 튀는 펭귄이 등장하는 중독성 있는 액션 퍼즐 게임
+org.mavlink.qgroundcontrol	UAS 지상 관제소
+org.megaglest.MegaGlest	실시간 전략 게임(RTS)
+org.megamek.MegaMek	육각형 기반 지도에서 거대한 로봇, 탱크 및/또는 보병을 사용하여 전투를 벌이세요.
+org.mersenne.mprime	무료 Mersenne Prime 검색 소프트웨어
+org.metal3d.scoreboard	모든 게임의 점수를 계산하는 간단한 점수판
+org.mfek.MFEKglif	Modular Font Editor K 프로젝트용 글리프 편집기
+org.midori_browser.Midori	빠르고 가벼운 웹 브라우저
+org.milkytracker.MilkyTracker	Fast Tracker II에서 영감을 받은 음악 추적기
+org.mixxx.Mixxx	라이브 DJ 믹스를 수행하는 데 필요한 모든 것
+org.mmass.mMass	오픈 소스 질량 분석 도구
+org.mobsya.ThymioSuite	Thymio의 프로그래밍 인터페이스에 쉽게 액세스
+org.moneymanagerex.MMEX	이와 같은 구성 및 현금을 추적하는 경우
+org.mosh.mosh	모바일 셸
+org.mozilla.Thunderbird	Thunderbird는 무료 오픈 소스 이메일, 뉴스피드, 채팅 및 캘린더 클라이언트입니다.
+org.mozilla.firefox	빠르고, 개인정보 보호 및 안전한 웹 브라우저
+org.mpdevil.mpdevil	MPD를 위한 간단한 음악 브라우저
+org.msweet.htmldoc	HTML 변환 소프트웨어
+org.munadi.Munadi	간단한 Athan 앱
+org.musescore.MuseScore	아름다운 악보를 만들고, 연주하고, 인쇄하세요.
+org.musicbrainz.Picard	MusicBrainz의 음악 태거
+org.mypaint.MyPaint	디지털 아티스트를 위한 페인팅 프로그램
+org.naev.Naev	2D 액션/RPG 공간거래 전투게임
+org.nanuc.Axolotl	Axolotl은 크로스플랫폼 Signal 클라이언트입니다.
+org.netsurf_browser.NetSurf	CSS를 지원하는 작은 웹 브라우저
+org.neverball.Neverball	다양한 매끄러운 3D 레벨을 통해 롤링 볼을 능숙하게 안내하세요
+org.nickvision.cavalier	CAVA로 오디오 시각화
+org.nickvision.money	개인 재정 관리
+org.nickvision.tagger	음악에 태그를 지정하세요
+org.nickvision.tubeconverter	웹 비디오 및 오디오 다운로드
+org.nicotine_plus.Nicotine	Soulseek 네트워크용 그래픽 클라이언트
+org.nmap.Zenmap	Nmap 보안 스캐너용 크로스 플랫폼 GUI
+org.nomacs.ImageLounge	nomacs는 무료 오픈 소스 이미지 뷰어입니다
+org.nongnu.Xlog	아마추어 무선 운영자를 위한 로깅 프로그램
+org.nongnu.enigma	퍼즐 게임
+org.nongnu.gsequencer.gsequencer	고급 Gtk+ 시퀀서
+org.nsnam.NetAnim	NetAnim은 ns-3용 오프라인 애니메이터입니다.
+org.nuspell.Nuspell	맞춤법 검사기
+org.octave.Octave	수치 계산을 위한 대화형 프로그래밍 환경
+org.olivevideoeditor.Olive	비선형 비디오 편집기
+org.omegat.OmegaT	간단한 오픈 소스 번역 메모리 관리자 및 CAT 도구
+org.onionshare.OnionShare	안전하게 익명으로 파일을 공유하고, 웹사이트를 호스팅하고, 친구와 채팅하세요.
+org.onlyoffice.desktopeditors	사무실 생산성 제품군
+org.openandroidinstaller.OpenAndroidInstaller	대체 Android 배포판을 쉽고 간편하게 설치할 수 있습니다.
+org.openchemistry.Avogadro2	무료 오픈 소스 분자 편집기
+org.openclonk.OpenClonk	작고 민첩한 휴머노이드를 조종하는 멀티플레이어 액션 게임
+org.opencpn.OpenCPN	간결한 차트 플로터 및 탐색 소프트웨어
+org.openfodder.OpenFodder	DOS 전략 게임 Cannon Fodder의 오픈 소스 포트입니다.
+org.openhantek.OpenHantek6022	Hantek USB 디지털 신호 오실로스코프 6022BE/BL용 DSO 소프트웨어
+org.openjkdf2.OpenJKDF2	"Jedi Knight: Dark Forces II"의 크로스 플랫폼 재구현
+org.openkj.OpenKJ	전문 노래방 호스팅 소프트웨어
+org.openmsx.openMSX	높은 정확도로 MSX의 모든 측면을 에뮬레이션
+org.openmw.OpenMW	Elder Scrolls III: Morrowind의 재구현
+org.opennumismat.OpenNumismat	자신만의 카탈로그를 구성하고 관리하기 위한 코인 수집 소프트웨어
+org.openrgb.OpenRGB	제조업체 소프트웨어에 의존하지 않는 오픈 소스 RGB 조명 제어입니다.
+org.openscad.OpenSCAD	프로그래머 솔리드 3D CAD 모델러
+org.openscopeproject.TrguiNG	전송 토렌트 데몬용 원격 GUI
+org.openshot.OpenShot	사용하기 쉽고, 배우기 빠르며, 놀랍도록 강력한 비디오 편집기
+org.openstreetmap.josm	Java OpenStreetMap 편집기
+org.opensurge2d.OpenSurge	Sonic 게임과 게임 제작 시스템에서 영감을 받은 재미있는 2D 복고풍 플랫폼 게임
+org.opentransactions.metier	다중 통화 블록체인 지갑 및 Open-Transactions 클라이언트
+org.openttd.OpenTTD	Transport Tycoon Deluxe를 기반으로 한 오픈 소스 시뮬레이션 게임
+org.otfried.Ipe	Ipe 확장 가능한 도면 편집기
+org.pairinteraction.Pairinteraction	Rydberg 상호작용 계산기
+org.paraview.ParaView	데이터 분석 및 시각화
+org.parlatype.Parlatype	음성 전사를 위한 미디어 플레이어
+org.pegasus_frontend.Pegasus	크로스 플랫폼, 에뮬레이터 실행을 위한 사용자 정의 가능한 그래픽 프런트엔드
+org.pencil2d.Pencil2D	비트맵 및 벡터 그래픽을 지원하는 2D 애니메이션 소프트웨어
+org.phoenicis.playonlinux	Linux에 Windows 소프트웨어 설치 및 실행
+org.photoqt.PhotoQt	이미지 보기 및 관리
+org.pipewire.Helvum	PipeWire용 패치베이
+org.pitivi.Pitivi	동영상 제작 및 편집
+org.pjbroad.EternallandsClient	Eternal Lands는 무료로 플레이할 수 있는 그래픽 MMORPG입니다.
+org.plomgrading.PlomClient	Plom 온라인 등급 시스템용 등급/채점 클라이언트
+org.polymc.PolyMC	여러 개의 Minecraft 설치를 한 번에 쉽게 관리할 수 있는 Minecraft용 사용자 정의 런처
+org.ppsspp.PPSSPP	PlayStation Portable 에뮬레이터
+org.prismlauncher.PrismLauncher	여러 개의 Minecraft 설치를 한 번에 쉽게 관리할 수 있는 Minecraft용 사용자 정의 런처
+org.processing.processingide	오픈 소스 소프트웨어 프로토타이핑 플랫폼
+org.profex_xrd.Profex	오픈 소스 XRD 및 Rietveld 개선
+org.pulseaudio.pavucontrol	하드웨어 장치 및 응용 프로그램의 볼륨 수준 조정
+org.purei.Play	플레이스테이션 2 에뮬레이터
+org.pydpainter.PyDPainter	Python으로 작성된 사용 가능한 픽셀 아트 페인트 프로그램
+org.pymol.PyMOL	분자 시각화 및 광선 추적
+org.pyzo.pyzo	단순성과 상호작용성을 목표로 하는 Python IDE
+org.qbittorrent.qBittorrent	오픈 소스 Bittorrent 클라이언트
+org.qelectrotech.QElectroTech	전기 다이어그램 편집기
+org.qgis.qgis	자유오픈소스 지리정보시스템
+org.qownnotes.QOwnNotes	Markdown 지원 및 Nextcloud/ownCloud 통합을 갖춘 일반 텍스트 파일 메모장
+org.quassel_irc.QuasselClient	최신 분산 IRC 클라이언트
+org.quetoo.Quetoo	Mac, PC, Linux용 무료 1인칭 슈팅 게임
+org.qutebrowser.qutebrowser	키보드 기반 웹 브라우저
+org.qxmledit.QXmlEdit	XML 편집기
+org.raceintospace.Raceintospace	1960년대 우주 경쟁을 재현하는 게임
+org.racket_lang.Racket	언어 지향 프로그래밍 언어
+org.radare.iaito	Radare2 리버스 엔지니어링 프레임워크용 Qt 및 C++ GUI
+org.raspberrypi.rpi-imager	Raspberry Pi 이미징 유틸리티
+org.remmina.Remmina	원격 데스크톱 클라이언트
+org.rncbc.qpwgraph	PipeWire 그래프 Qt GUI 인터페이스
+org.rncbc.qsynth	Fluidynth Qt GUI 인터페이스
+org.rncbc.qtractor	오디오/MIDI 멀티트랙 시퀀서
+org.robocode.Robocode	최고의 것을 만들고 나머지는 파괴하세요!
+org.rolisteam.rolisteam	Rolistteam 서버의 클라이언트 동반자
+org.ryujinx.Ryujinx	Nintendo Switch 에뮬레이터
+org.sabnzbd.sabnzbd	무료이고 쉬운 바이너리 뉴스리더
+org.sauerbraten.Sauerbraten	Cube FPS의 후속작인 무료 멀티플레이어 및 싱글플레이어 1인칭 슈팅 게임
+org.scantailor.ScanTailor	스캔한 페이지를 위한 대화형 후처리 도구
+org.scilab.Scilab	수치 계산을 위한 과학 소프트웨어 패키지
+org.scintilla.SciTE	SCIntilla 기반 텍스트 편집기
+org.scummvm.ScummVM	여러 가지 게임과 RPG를 제공합니다.
+org.sdrangel.SDRangel	TX 및 RX 소프트웨어 정의 라디오
+org.seul.crimson	턴제 전술 전쟁 게임
+org.shadered.SHADERed	HLSL 및 GLSL 셰이더 생성 및 테스트를 위한 도구
+org.shadowsocks.qt5client	고급 기능을 갖춘 기본 및 크로스 플랫폼 Shadowsocks GUI 클라이언트입니다.
+org.shotcut.Shotcut	동영상 편집기
+org.signal.Signal	개인 메신저
+org.sigxcpu.Livi	휴대폰용 간단한 GTK4 기반 비디오 플레이어
+org.sil.Bloom	언어 공동체를 위한 문해력 자료 개발
+org.sil.FieldWorks	언어 및 문화 데이터 관리
+org.skytemple.Randomizer	Pokémon Mystery Dungeon Explorers of Sky용 랜덤마이저
+org.skytemple.SkyTemple	Pokémon Mystery Dungeon Explorers of Sky용 ROM 편집기
+org.soapui.SoapUI	SoapUI OS는 API 및 웹 서비스를 위한 기능 테스트 솔루션입니다.
+org.solarus_games.solarus.Launcher	Solarus 퀘스트 컬렉션을 찾아보고 플레이해 보세요.
+org.sonic3air.Sonic3AIR	팬들이 제작한 Sonic 3 & Knuckles의 와이드스크린 리마스터입니다.
+org.soundconverter.SoundConverter	오디오 파일 변환
+org.sparkleshare.SparkleShare	Magic 자체 호스팅 Git 파일 동기화
+org.speed_dreams.SpeedDreams	Speed Dreams는 3D 크로스 플랫폼, 오픈 소스 모터스포츠 시뮬레이션 및 레이싱 게임입니다.
+org.speedcrunch.SpeedCrunch	고정밀 공학용 계산기
+org.sqlitebrowser.sqlitebrowser	SQLite용 DB 브라우저는 SQLite 데이터베이스를 위한 가벼운 GUI 편집기입니다.
+org.squeakland.Etoys	시각적 프로그래밍으로 배우기
+org.squey.Squey	데이터 탐색
+org.squidowl.halloy	Rust로 작성된 IRC 클라이언트
+org.srb2.SRB2	Doom Legacy의 수정된 버전을 기반으로 한 3D Sonic the Hedgehog 팬게임
+org.srb2.SRB2Kart	3D Sonic the Hedgehog 팬게임 Sonic Robo Blast 2를 기반으로 한 카트 레이싱 모드
+org.srb2.SRB2Kart-Saturn	많은 사용자 정의 기능을 추가하는 Modded SRB2Kart
+org.srb2.SRB2Kart-galaxy	많은 사용자 정의 기능을 추가하는 Modded SRB2Kart
+org.srb2.SRB2Kart-galaxy_azerty	Azerty 프랑스어 키보드 레이아웃으로 많은 사용자 정의 기능을 추가하는 Modded SRB2Kart
+org.srb2.SRB2Persona	3D Sonic the Hedgehog 팬 게임 Sonic Robo Blast 2를 기반으로 한 페르소나에서 영감을 받은 모드입니다.
+org.standardnotes.standardnotes	메모, 생각, 인생 작업을 위한 간단하고 개인적인 공간입니다.
+org.stellarium.Stellarium	방치형 네타리움
+org.stochas.Stochas	스토카스 시퀀서
+org.strawberrymusicplayer.strawberry	음악 플레이어 및 컬렉션 구성자
+org.subsurface_divelog.Subsurface	다이브 컴퓨터 데이터 관리 및 표시
+org.subtitld.Subtitld	Subtitld는 자막을 만들고 편집하는 소프트웨어입니다
+org.sugarlabs.AbacusActivity	간단한 산술 계산을 위한 도구
+org.sugarlabs.Chart	차트 만들기
+org.sugarlabs.Chess	달콤한 체스 게임
+org.sugarlabs.ColorDeducto	논리적 귀납법을 기반으로 한 게임
+org.sugarlabs.Dimensions	패턴 맞추기 게임
+org.sugarlabs.Finance	재무 계획 기초 알아보기
+org.sugarlabs.FotoToon	나만의 만화 만들기
+org.sugarlabs.FractionBounce	분수에 관한 게임
+org.sugarlabs.ImplodeActivity	같은 색상의 블록이 모두 사라질 때까지 폭발시킵니다.
+org.sugarlabs.Maze	간단한 미로 게임
+org.sugarlabs.Measure	마이크 입력을 시각화하기 위한 오실로스코프 프로그램
+org.sugarlabs.Memorize	일치하는 쌍 찾기
+org.sugarlabs.MusicBlocks	기본적인 음악 개념을 재미있는 방식으로 탐구하기 위한 도구 모음입니다.
+org.sugarlabs.MusicKeyboard	이 피아노 키보드로 음악을 연주하세요
+org.sugarlabs.Paint	달콤한 그림 도구
+org.sugarlabs.Physics	아이작 뉴턴 경이 옳았다는 것을 증명하세요
+org.sugarlabs.Pippy	Python으로 컴퓨터와 대화
+org.sugarlabs.Pukllanapac	슬라이딩 퍼즐 게임
+org.sugarlabs.ReadETexts	수천 권의 무료 전자책 읽기
+org.sugarlabs.Sliderule	기계식 계산기
+org.sugarlabs.SolarSystem	행성에 대해 알아보기
+org.sugarlabs.Speak	입력하는 내용을 말하는 애니메이션 얼굴
+org.sugarlabs.StoryActivity	이야기를하다
+org.sugarlabs.SwiftFeet	일어서서 춤을 춰보세요!
+org.sugarlabs.TurtlePondActivity	화면이 종료되기 전에 거북이를 둘러싸세요.
+org.sugarlabs.Words	다국어 오프라인 사전
+org.supertuxproject.SuperTux	펭귄 턱스가 주연을 맡은 점프 앤 런 게임
+org.surge_synth_team.surge-xt	서지 XT 신디사이저 독립형
+org.synfig.SynfigStudio	2D 애니메이션 및 컴포지션 생성 및 편집
+org.syphon.Syphon	개인 정보 보호와 자유를 그대로 유지하면서 채팅하세요
+org.tabos.maxcontrol	Max용 제어 소프트웨어! 장치
+org.tabos.roger	AVM FRITZ!Box 또는 호환용 저널, 팩스 소프트웨어 및 통화 모니터
+org.tabos.saldo	은행 계좌를 확인하세요
+org.tabos.twofun	2인용 터치 기반 반응 게임입니다.
+org.taisei_project.Taisei	Tōhō 세계관을 배경으로 한 총알 지옥 슈팅 게임
+org.telegram.desktop	빠른. 안전한. 강한.
+org.telesculptor.TeleSculptor	항공영상을 중심으로 설계된 사진 측량
+org.tenacityaudio.Tenacity	오디오 파일 녹음 및 편집
+org.texstudio.TeXstudio	LaTeX 편집기
+org.thentrythis.Samplebrain	Aphex Twin이 디자인한 맞춤형 샘플 매싱 앱
+org.thonny.Thonny	초보자를 위한 Python IDE
+org.tigervnc.vncviewer	VNC 서버에 연결하고 원격 데스크톱 표시
+org.tildearrow.furnace	오픈 소스 칩튠 추적기
+org.tomviz.Tomviz	나노크기 물질의 무료 오픈 소스 단층 시각화 시각화
+org.tordini.flavio.Minitube	유튜브 앱
+org.torproject.torbrowser-launcher	Tor 브라우저 번들을 다운로드하고, 업데이트하고, 실행하는 데 도움이 되는 프로그램
+org.tribler.Tribler	Bittorrent를 익명으로 만들고 종료할 수 없도록 만드는 것입니다.
+org.tropy.Tropy	연구 사진 탐색
+org.tryton.Tryton-68	Tryton 애플리케이션 플랫폼용 클라이언트
+org.tryton.Tryton-70	Tryton 애플리케이션 플랫폼용 클라이언트
+org.tug.texworks	TeX 문서를 편집, 조판, 미리보기할 수 있는 디스플레이 환경
+org.turbowarp.TurboWarp	프로젝트를 더 빠르게 실행하기 위한 컴파일러가 포함된 스크래치 모드, 다크 모드, 다양한 애드온 등
+org.tuxemon.Tuxemon	Tuxemon은 무료 오픈 소스 괴물 싸움 RPG입니다.
+org.tuxfamily.StuntRally	랠리 스타일의 운전을 선보이는 레이싱 게임
+org.tuxfamily.XMoto	2D 모토크로스 플랫폼 게임
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon 에뮬레이터
+org.tuxpaint.Tuxpaint	어린이를 위한 교육 프로그램
+org.tvbrowser.TVBrowser	무료 EPG
+org.twinery.Twine	Twine은 대화형, 비선형 스토리를 전달하기 위한 오픈 소스 도구입니다.
+org.ultimatepp.TheIDE	크로스 플랫폼 U++ 앱 개발 프레임워크용 IDE
+org.unitystation.StationHub	오픈 소스 게임 Unitystation용 런처
+org.unknown_horizons.UnknownHorizons	오픈 소스 실시간 경제 시뮬레이션 게임
+org.upnproutercontrol.UPnPRouterControl	UPnP 호환 라우터를 관리하는 간단한 프로그램
+org.upscayl.Upscayl	무료 오픈 소스 AI 이미지 업스케일러
+org.v1993.NXDumpClient	nxdumptool을 사용하여 USB를 통해 덤프하기 위한 클라이언트
+org.verapdf.veraPDF	veraPDF는 PDF/A 보관 표준을 위한 파일 형식 유효성 검사기입니다.
+org.vergecurrency.verge-qt	VergeCurrency는 안전하고 사용자 친화적인 디지털 통화입니다.
+org.vertcoin.vertcoin-qt	Vertcoin P2P 네트워크 노드, 지갑 및 GUI를 완전히 검증합니다.
+org.videolan.VLC	오픈 소스 멀티미디어 플레이어인 VLC 미디어 플레이어
+org.viking.Viking	GPS 데이터 편집기 및 분석기
+org.vim.Vim	유비쿼터스 텍스트 편집기
+org.vinegarhq.Vinegar	기능이 가득한 Roblox용 작고 빠른 부트스트래퍼
+org.virt_manager.virt-viewer	원격 접근 가상 머신
+org.virtualxt.VirtualXT	터보 PC/XT 에뮬레이터
+org.wesnoth.Wesnoth	하이 판타지 테마의 턴제 전략 게임
+org.wezfurlong.wezterm	GPU 가속 크로스 플랫폼 터미널 에뮬레이터 및 멀티플렉서
+org.wfview.wfview	Icom 송수신기를 위한 오픈 소스 인터페이스
+org.widelands.Widelands	미래건설 전략
+org.winehq.Wine	Linux, BSD, Solaris 및 Mac OS X에서 Windows 애플리케이션 실행
+org.wireshark.Wireshark	Wireshark는 세계 최고의 프로토콜 분석기입니다.
+org.worldpossible.ScriptLauncher	루트 권한으로 쉘 스크립트를 실행하기 위한 도구
+org.wxhexeditor.wxHexEditor	Advanced large file hex editor
+org.x.Warpinator	네트워크를 통해 파일 보내기 및 받기
+org.xfce.mousepad	마우스패드는 xfce 데스트톱 환경용 단순 텍스트 편집기입니다.
+org.xfce.ristretto	빠르고 가벼운 그림 보기 프로그램
+org.xiphos.Xiphos	Bible Study Guide
+org.xnec2c.Xnec2c	A multi-threaded EM tool based on NEC2 to model antenna radiation patterns
+org.xonotic.Xonotic	Multiplayer, deathmatch oriented first person shooter
+org.yamagi.YamagiQ2	Yamagi Quake II is an alternative client for id Software's Quake II
+org.yuzu_emu.yuzu	Nintendo Switch emulator
+org.zaproxy.ZAP	The Zed Attack Proxy (ZAP) is a popular free security tool.
+org.zdoom.GZDoom	Classic first-person-shooter engine for all classical Id games
+org.zealdocs.Zeal	Documentation browser
+org.zim_wiki.Zim	Write notes in a desktop wiki
+org.zirael.bkchem.BKChem	Molecule drawing program
+org.zotero.Zotero	Collect, organize, cite, and share research
+org.zrythm.Zrythm	Digital audio workstation
+org.zulip.Zulip	Zulip Desktop Client for Linux
+page.codeberg.DrRac27.Karoto	A shopping list app for Linux mobile
+page.codeberg.Imaginer.Imaginer	Imagine with AI
+page.codeberg.JakobDev.CCLite	A ComputerCraft Emulator
+page.codeberg.JakobDev.jdAnimatedImageEditor	애니메이션 이미지를 만들기 위한 간단한 프로그램
+page.codeberg.JakobDev.jdAppStreamEdit	AppStream 파일을 생성하고 편집하는 그래픽 프로그램
+page.codeberg.JakobDev.jdDBusDebugger	고급 D-Bus 디버거
+page.codeberg.JakobDev.jdDesktopEntryEdit	데스크탑 항목을 생성하고 편집하는 그래픽 프로그램
+page.codeberg.JakobDev.jdDiff	그래픽 크로스 플랫폼 차이 뷰어
+page.codeberg.JakobDev.jdEolConverter	디렉토리에 있는 모든 파일의 EOL(End of Line)을 변환합니다.
+page.codeberg.JakobDev.jdFlatpakSnapshot	Flatpak 앱의 스냅샷을 생성하는 프로그램
+page.codeberg.JakobDev.jdMinecraftLauncher	고전적인 스타일의 Minecraft 런처
+page.codeberg.JakobDev.jdMrpackInstaller	Modrinth 모드팩 설치
+page.codeberg.JakobDev.jdNBTExplorer	Minecraft NBT 파일용 편집기
+page.codeberg.JakobDev.jdPixelUpscaler	픽셀당 고급 이미지
+page.codeberg.JakobDev.jdProcessFileWatcher	모든 프로세스에 대한 실시간 파일 액세스를 손쉽게 모니터링하고 표시합니다.
+page.codeberg.JakobDev.jdReplace	jdReplace를 사용하면 디렉토리의 모든 파일에서 텍스트를 바꿀 수 있습니다
+page.codeberg.JakobDev.jdSimpleAutostart	자동 시작 항목 편집
+page.codeberg.JakobDev.jdTextEdit	고급 텍스트 편집기
+page.codeberg.Qwel.egui_picross	피크로스, 노노그램, 그리들러의 기본 게임입니다.
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita 개를 테마로 한 게임
+page.codeberg.lazyt.ubpm	혈압 데이터 관리
+page.codeberg.libre_menu_editor.LibreMenuEditor	메뉴 사용자 정의
+page.codeberg.papojari.Find_Billy	픽셀 아트 2D 플랫폼 게임입니다.
+page.codeberg.tpikonen.geobug	위치를 확인하고 GPX 트랙에 저장하세요.
+page.codeberg.tpikonen.satellite	GPS 수신을 확인하고 트랙을 저장하세요.
+page.codeberg.yeldham.Librerama	무료/자유롭게 빠르게 진행되는 아케이드 미니 게임 컬렉션
+party.supertux.supertuxparty	FLOSS 마스코트가 등장하는 파티 게임
+pl.art.lach.slawek.V2BlankBrowser	정크 화면을 표시하지 않는 웹 브라우저
+pl.nieto.fityk	비선형 곡선 피팅 및 데이터 분석
+pl.youkai.lanchat	LAN 채팅 및 파일 전송
+pl.youkai.nscan	네트워크 스캐너.
+pm.mirko.Atoms	Chroot 및 컨테이너를 관리합니다.
+pro.vpup.vpuppr	Godot 3.4로 제작된 VTuber 애플리케이션
+radio.k0swe.Kel_Agent	아마추어 무선 웹 에이전트
+re.chiaki.Chiaki	PlayStation Remote Play용 무료 오픈 소스 클라이언트
+re.rizin.cutter	Rizin과 Qt가 제공하는 무료 오픈 소스 리버스 엔지니어링 플랫폼
+re.sonny.Commit	커밋거래사 편집자
+re.sonny.Junction	애플리케이션 선택기
+re.sonny.OhMySVG	SVG 크기 줄이기
+re.sonny.Playhouse	HTML/CSS/자바스크립트용 플레이그라운드
+re.sonny.Retro	맞춤형 복고풍 디지털 세그먼트 시계
+re.sonny.Tangram	고정된 탭을 위한 브라우저
+re.sonny.Workbench	GNOME 기술로 학습하고 프로토타입하기
+rest.insomnia.Insomnia	GraphQL, REST 및 gRPC용 오픈 소스 API 클라이언트 및 디자인 플랫폼.
+ro.fxdata.taskmonitor.viewer	TaskMonitor 데이터 시각화
+ro.go.hmlendea.DL-Desktop	언어 학습 앱 듀오링고(Duolingo)의 비공식 데스크톱 클라이언트
+ro.go.hmlendea.SokoGrump	심술쟁이 고양이가 등장하는 소코반 스타일의 논리 게임
+ro.hume.cosmin.ShoppingList	GNU/Linux 모바일 장치용 쇼핑 목록 애플리케이션
+rocks.koreader.KOReader	DjVu, PDF, EPUB 등을 위한 문서 뷰어
+ru.proninyaroslav.libretrack	비공개 크로스 플랫폼 패키지 추적 앱
+ru.sview.sView	입체 미디어 플레이어
+ru.yandex.Browser	Yandex의 웹 브라우저
+sa.sy.bluerecorder	Linux 데스크탑을 위한 간단한 화면 녹화기입니다. Wayland 및 Xorg 지원
+se.cendio.tlclient	오픈 소스 기술을 기반으로 구축된 Linux 원격 데스크톱 서버
+se.emijoh.mpw	필요할 때 사이트의 비밀번호를 계산하세요.
+se.manyver.Manyverse	분산형 소셜 네트워크
+se.sjoerd.GIScan	cbf 형식으로 저장된 GISAXS 데이터 읽기 및 분석
+se.sjoerd.Graphs	데이터 플롯 및 조작
+sh.cider.Cider	오픈 소스 및 커뮤니티 지향 Apple Music 클라이언트
+sh.fhs.KatawaShoujoReEngineered	고전 미소녀 스타일 비주얼 노벨의 현대판
+sh.ppy.osu	무료로 승리할 수 있는 리듬 게임입니다. 리듬은 *클릭* 한 번으로 가능합니다!
+sh.xaviers.Opentapes	힙합 믹스테이프 듣기
+si.tano.Vremenar	빠르고 간단한 방법으로 기상 상황과 일기예보를 지도에 표시하세요.
+site.someones.Lonewolf	쉽고 유연하게 작업을 구성하고 추적하세요.
+sm.puri.Chatty	모바일 및 데스크탑용 메시징 애플리케이션
+so.libdb.gtkcord4	Go의 GTK4 Discord 클라이언트
+so.onekey.Wallet	올인원 암호화폐 지갑.
+social.whalebird.WhalebirdDesktop	Whalebird는 데스크톱용 Mastodon, Pleroma 및 Misskey 클라이언트입니다.
+space.fips.Fips	OpenGL 기반 FITS 이미지 뷰어
+space.nouspiro.tenmon	FITS/XISF 이미지 뷰어, 변환기, 색인 및 검색
+studio.kx.carla	오디오 플러그인 호스트
+tech.feliciano.pocket-casts	온라인 팟캐스트 플레이어
+tk.deat.Jazz2Resurrection	Jazz Jackrabbit 2의 재구현
+tr.gov.uyap.Editor	UYAP 문서 편집기는 UYAP 시스템에서 UDF 문서를 표시하고 생성하는 애플리케이션입니다.
+tv.kodi.Kodi	최고의 엔터테인먼트 센터
+tv.plex.PlexDesktop	데스크톱 컴퓨터용 Plex 클라이언트
+tv.plex.PlexHTPC	대형 화면용 Plex HTPC 클라이언트
+tw.ddnet.ddnet	역대 가장 어려운 협동 2D 플랫폼 게임
+ua.org.brezblock.q4wine	Wine 애플리케이션 및 접두사 관리용 유틸리티
+uk.co._69_studios.kublit	69 Studios의 새로운 오리지널 퍼즐 게임
+uk.co.electronstudio.ComicReaderUltimate	독선적인 CBZ 뷰어
+uk.co.mangobrain.Infector	클래식 2~4인용 보드 게임 Ataxx를 즐겨보세요.
+uk.co.parallelrealities.games.edgar	2D 어드벤처 플랫폼 게임
+uk.co.powdertoy.tpt	물리학 샌드박스 게임
+uk.et1.big-finish-downloader	Big Finish 컬렉션을 다운로드할 수 있는 GTK 앱
+uk.jnthn.backgammony	멀티플레이어를 지원하는 주사위 놀이 프론트엔드
+uk.me.doof.Lander	달 착륙선 스타일의 아케이드 게임.
+uk.org.greenend.chiark.sgtatham.putty	SSH, Telnet 및 Rlogin 클라이언트
+uk.org.greenend.chiark.sgtatham.puzzles	퍼즐 게임 컬렉션
+uk.org.zint.zint-qt	바코드 생성기
+us.ihmc.cmap.CmapTools	사용자가 개념 맵을 만들고 공유할 수 있습니다.
+us.zoom.Zoom	화상 회의, 웹 회의, 웹 세미나, 화면 공유
+vet.rsc.OpenRSC.Launcher	Open RuneScape Classic 서버용 실행기
+vn.hoabinh.quan.CoBang	Linux 데스크탑용 QR 코드 스캐너
+website.i2pd.i2pd	보이지 않는 인터넷
+work.openpaper.Paperwork	개인문서관리자
+ws.openarena.OpenArena	무료 오픈 소스 1인칭 슈팅 게임
+xyz.aguno.CubeTimer	StackMat과 비슷하지만 Linux용
+xyz.armcord.ArmCord	ArmCord는 모든 것을 가볍게 유지하면서 Discord 경험을 향상시키도록 설계된 맞춤형 클라이언트입니다.
+xyz.audiostellar.AudioStellar	AI 기반 실험용 샘플러
+xyz.eclipium.Hieroctive	상형문자를 배울 수 있는 재미있는 기억력 게임!
+xyz.eclipium.TetraSwap	간단하지만 도전적인 미래형 퍼즐 게임!
+xyz.hyperplay.HyperPlay	미래에서 온 Web3 게임 런처. 모든 게임에 지갑, NFT, 토큰 및 업적을 휴대하세요.
+xyz.ketok.Speedtest	인터넷 연결 속도를 측정하세요
+xyz.kusma.aurora	초과로 인한 오로라
+xyz.ljoonal.neospeeps	NeosVR의 친구들과 세션을 나열하는 경량 애플리케이션
+xyz.mx_moment.moment	사용자 정의 가능하고 키보드로 작동 가능한 Matrix 클라이언트
+xyz.rescribe.rescribe	이미지, PDF, Google Books를 위한 고품질 OCR입니다.
+xyz.safeworlds.hiit	고강도 인터벌 트레이닝을 위한 타이머 시계
+xyz.safeworlds.midiconn	가상 MIDI 허브
+xyz.slothlife.Jogger	피트니스 트래커
+xyz.splashmapper.Splash	비디오 매핑 소프트웨어
+xyz.stuerz.BilligSweeper	지뢰 찾기의 저렴한 복제품
+xyz.tytanium.DoorKnocker	포털 가용성 확인
+xyz.woxel.Woxel	Minecraft와 유사한 오픈 소스 3D 복셀 편집기
+xyz.xclicker.xclicker	x11 Linux 데스크탑을 위한 빠른 GUI 자동 클릭커
+xyz.z3ntu.razergenie	Razer 장치 구성 및 제어

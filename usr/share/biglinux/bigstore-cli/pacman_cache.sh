@@ -29,7 +29,6 @@
 #  Now, it's about creating code that is so harmonious and well-structured
 #  that it stands out for its own beauty.
 
-
 # Load config file
 . /usr/share/biglinux/bigstore-cli/config.sh
 
@@ -169,7 +168,13 @@ if [[ "$DisableTranslate" == "false" ]]; then
         # Append the package info to the output string
         # The separator variable is used to add a comma and newline after each package info
         # out separator have lot of \ because need scape the "
-        out = out separator "{\"p\":\"" package "\",\"d\":\"" description_to_use "\",\"v\":\"" version "\",\"i\":\"" installed "\",\"iver\":\"" iver "\",\"r\":\"" repo "\"}";
+        out = out separator     "{\"p\":\""package\
+                                "\",\"d\":\""description_to_use\
+                                "\",\"v\":\""version\
+                                "\",\"i\":\""installed\
+                                "\",\"iver\":\""iver\
+                                "\",\"r\":\""repo\
+                                "\"}";
         separator = ",\n";
     }
 
@@ -213,7 +218,12 @@ else
 
         # Add a closing bracket to the output string, to close the JSON array
         # We add an empty object at the end, because is faster than remove the last comma
-        out = out separator "{\"p\":\"" package "\",\"d\":\"" description_to_use "\",\"v\":\"" version "\",\"i\":\"" installed "\",\"iver\":\"" iver "\",\"r\":\"" repo "\"}";
+        out = out separator "{\"p\":\""package\
+                            "\",\"d\":\""description_to_use\
+                            "\",\"v\":\""version\
+                            "\",\"i\":\""installed\
+                            "\",\"iver\":\""iver\
+                            "\",\"r\":\""repo"\"}";
         separator = ",\n";
     }
 

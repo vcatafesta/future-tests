@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Manager de parole: păstrați-vă parolele în siguranță pe toate platformele și dispozitivele
+app.bbsync.BlackboardSync	Descărcați conținutul Blackboard Learn pe dispozitivul dvs
+app.bluebubbles.BlueBubbles	Client BlueBubbles pentru Linux
+app.cantara.Cantara	Un program simplu, ușor, dar puternic pentru prezentarea cântecelor în biserici, grupuri mici sau la petreceri de karaoke.
+app.drey.Biblioteca	Vizualizator de documentație pentru GNOME
+app.drey.Blurble	Joc de ghicire a cuvintelor
+app.drey.Damask	Setați automat imaginile de fundal din surse de Internet
+app.drey.Dialect	Traduceți între limbi
+app.drey.EarTag	Editați etichetele fișierelor audio
+app.drey.Elastic	Proiectați animații de primăvară
+app.drey.KeyRack	Vizualizați și editați secretele aplicației
+app.drey.MultiplicationPuzzle	Rezolvați un mister matematic
+app.drey.Warp	Transfer de fișiere rapid și sigur
+app.feeddeck.feeddeck	Urmăriți-vă fluxurile RSS și Social Media
+app.getclipboard.Clipboard	Tăiați, copiați și lipiți orice, oricând și oriunde
+app.getspace.Space	Repetiție la distanță pentru Flashcards
+app.gummi.gummi	Editorul simplu LaTeX
+app.kaiteki.Kaiteki	Clientul SNS confortabil pentru orice, oriunde
+app.lith.Lith	Client WeeChat Relay
+app.midterm.MidtermDesktop	O aplicație gratuită pentru luarea de note pentru a studia.
+app.moosync.moosync	Player muzical personalizabil
+app.organicmaps.desktop	O aplicație gratuită pentru hărți offline pentru călători, turiști, drumeți, șoferi și bicicliști
+app.rednotebook.RedNotebook	Jurnal grafic și jurnal
+app.riftshare.RiftShare	Partajare de fișiere ușoară, sigură și gratuită. Partajarea de fișiere pe mai multe platforme folosind gaura de vierme magică
+app.vup.Vup	Aplicație de stocare în cloud criptată de la capăt la capăt cu sursă deschisă, cu server media integrat
+app.xemu.xemu	Emulator Xbox original
+app.ytmdesktop.ytmdesktop	Player gratuit pentru desktop multiplatform pentru YouTube Music
+app.ywallet.Ywallet	Portofel ușor pentru Ycash și Zcash
+ar.com.pilas_engine.App	Pilas Engine este o unealtă pentru a construi videojuegos de manera sencilla și divertida
+ar.com.softwareperonista.Rockarrolla	Un player muzical asemănător unui tonomat
+ar.com.tuxguitar.TuxGuitar	TuxGuitar este un editor de tablaturi gratuit și open-source.
+art.taunoerik.tauno-monitor	Monitor simplu autonom pentru portul serial.
+art.taunoerik.tauno-serial-plotter	Plotter serial simplu pentru Arduino și alte dispozitive similare.
+ar.xjuan.Cambalache	Creați interfețe de utilizator GTK
+at.priv.toastfreeware.ConfClerk	ConfClerk este o aplicație care face programele conferințelor disponibile offline
+at.ssh_mitm.server	SSH-MITM - audituri ssh simplificate
+at.vintagestory.VintageStory	Joc sandbox de supraviețuire în sălbăticie
+au.edu.uq.esys.escript	esys-escript este un modul python pentru implementarea modelelor matematice folosind metoda elementelor finite
+br.app.pw3270.terminal	Accesați gazdele TN3270
+br.com.gualandi.Xjump	Un joc de sărituri pentru sisteme grafice moderne
+br.gov.cti.invesalius	Software de reconstrucție imagistică medicală 3D
+br.gov.fazenda.receita.irpf2022	Depuneți taxele în Brazilia
+br.gov.fazenda.receita.irpf2023	Depuneți taxele în Brazilia
+ca._0ldsk00l.Nestopia	Un emulator Nintendo Entertainment System
+ca.desrt.dconf-editor	Un utilitar grafic pentru editarea bazei de date dconf
+cafe.avery.Delfin	Redați în flux filme și emisiuni TV de la Jellyfin
+ca.hamaluik.Timecop	O aplicație de urmărire a timpului care vă respectă confidențialitatea și își face treaba fără a deveni prea elegant
+ca.littlesvr.asunder	Asunder este un ripper și codificator grafic de CD audio
+camp.nook.nookdesktop	Nook este o aplicație care redă teme pe oră Animal Crossing pe oră.
+ca.parallel_launcher.ParallelLauncher	Emulator N64 modern
+cat.xtec.clic.JClic	Activitati si jocuri educative pentru elevi si educatori
+ca.uwaterloo.Raven	Cadru de modelare pentru simularea hidrologiei bazinelor hidrografice
+cc.arduino.arduinoide	Platformă de prototipare electronică open-source
+cc.arduino.IDE2	Platformă de prototipare electronică open-source
+cc.craftos_pc.CraftOS-PC	Emulator avansat ComputerCraft
+cc.craftos_pc.CraftOS-PC-Accelerated	Emulator avansat ComputerCraft
+cc.nift.nsm	Generator de site dinamic și static
+cc.retroshare.retroshare-gui	Comunicare sigură pentru toată lumea
+cern.root.ROOT	Cadrul de analiză a datelor
+chat.delta.desktop	Mesagerie prin e-mail Delta Chat
+chat.quadrix.Quadrix	Client de chat minim, simplu, multiplatform pentru protocolul Matrix
+chat.revolt.RevoltDesktop	Aplicația desktop Revolt
+chat.rocket.RocketChat	Comunicarea echipei open source
+chat.schildi.desktop	SchildiChat este un client Matrix bazat pe Element cu o experiență de mesagerie instantanee mai tradițională.
+chat.tandem.Client	Birou virtual pentru echipe la distanță
+ch.imatt.ClipQR	Scanați codurile QR pe ecran și de pe cameră.
+ch.openboard.OpenBoard	Tablă interactivă pentru școli și universități
+ch.protonmail.protonmail-bridge	Criptează și decriptează perfect e-mailurile tale pe măsură ce intră și ies din computer
+ch.protonmail.protonmail-import-export-app	Importați e-mailuri în căsuța dvs. de e-mail securizată ProtonMail sau faceți copii de rezervă offline cu aplicația Import-Export.
+ch.theologeek.Manuskript	Un instrument open-source pentru scriitori
+ch.threema.threema-web-desktop	Threema pentru desktop este un client desktop pentru Threema, un messenger mobil criptat end-to-end axat pe confidențialitate găzduit și dezvoltat în Elveția. PACHET NEOFICIAL.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Joacă Minecraft și creează-ți propria lume!
+ch.x29a.playitslowly	Redați muzică la o viteză diferită
+cn.lceda.LCEDAPro	Un instrument online de proiectare PCB mai ușor și puternic
+cn.navclub.ldbfx	Instrument vizual de gestionare a bazelor de date
+cn.ottercorp.xivlaunchercn	Lansator și integrare Linux perfectă pentru Final Fantasy XIV Online (versiunea pentru China)
+cn.xfangfang.wiliwili	Un client Bilibili terță parte conceput special pentru utilizatorii de controler
+codes.loers.Karlender	Gestionează-ți programul
+codes.loers.Punchclock	Urmăriți timpul pentru sarcinile dvs.
+codes.merritt.adventurelist	Lista de activități care se sincronizează cu toate dispozitivele dvs
+codes.merritt.bargain	Comparați cu ușurință articolele când faceți cumpărături
+codes.merritt.FeelingFinder	Un selector de emoji rapid și frumos
+codes.merritt.Nyrna	Suspendați jocuri și aplicații
+codes.nora.gDiceRoller	Lansați zaruri de multe forme și dimensiuni diferite în toate combinațiile posibile.
+co.headsetapp.headset	Căști. Descoperiți și colectați muzică pe YouTube.
+co.luoja.Telyn	Editor vizual pentru modele de cusut parametrice
+com.abagames.noiz2sa	Un shooter abstract frenetic
+com.abagames.rRootage	Învinge navele de luptă uriașe create automat.
+com.abisource.AbiWord	Un procesor de text
+com.adamcake.Bolt	Lansator Jagex terț cu sursă deschisă
+com.adilhanney.ricochlime	Un împușcător de monștri satisfăcător
+com.adilhanney.saber	Aplicația de note construită pentru scris de mână
+com.adilhanney.super_nonogram	Rezolvați nelimitate puzzle-uri nonogram generate procedural!
+com.adilhanney.timing	Învață să identifici intervalele de timp sub secunde
+com.adobe.Flash-Player-Projector	Player pentru conținut creat folosind Adobe Flash
+com.adobe.Reader	Vizualizator PDF
+com.adrienplazas.Metronome	Păstrează ritmul
+com.agatanawrot.karambola	Ajută-l pe Karambola în încercarea lui de a-și salva prietenii emoționali din poporul fructelor din puterea gândurilor întunecate în această scurtă aventură de puzzle desenată manual cu punct și clic.
+com.agateau.nanonote	O aplicație minimalistă pentru luarea de note.
+com.agateau.PixelWheels	Pixel Wheels este un joc retro de curse de sus în jos.
+com.airtame.Client	Airtame este o soluție de streaming wireless
+com.albiononline.AlbionOnline	MMORPG deschis joc fantezie medieval
+com.alientrap.nexuiz-classic	Un shooter multiplayer la persoana întâi
+com.alovoa.alovoa-electron	Aplicație de întâlniri online open-source
+com.amazon.Workspaces	Accesați-vă desktopul oriunde, oricând, de pe orice dispozitiv
+com.ampl.ide	O interfață de modelare îmbunătățită simplă și simplă pentru utilizatorii AMPL
+com.anydesk.Anydesk	Conectați-vă la un computer de la distanță
+com.arteeh.Flasher	O aplicație simplă pentru intermiterea ceasului inteligent PineTime cu un ST-Link
+com.arviceblot.eso-addon-manager	Un manager de suplimente neoficial multiplatformă pentru The Elder Scrolls Online.
+com.atlauncher.ATLauncher	Un lansator pentru Minecraft care integrează mai multe modpack-uri diferite pentru a vă permite să descărcați și să instalați modpack-uri ușor și rapid.
+com.authy.Authy	Aplicație desktop de autentificare Twilio Authy cu doi factori
+com.avocode.Avocode	Predați și inspectați orice design
+com.axosoft.GitKraken	Pentru gestionarea repo, editarea codului în aplicație și urmărirea problemelor.
+com.baidu.NetDisk	Client desktop Baidu Netdisk
+com.bambulab.BambuStudio	Obțineți printuri 3D perfecte!
+com.basemark.BasemarkGPU	Instrument de evaluare a performanței GPU
+com.behringer.XAirEdit	Interfață de utilizator pentru mixere Behringer XR
+com.belmoussaoui.ashpd.demo	Joacă-te cu portaluri
+com.belmoussaoui.Authenticator	Generează coduri cu doi factori
+com.belmoussaoui.Decoder	Scanează și generează coduri QR
+com.belmoussaoui.Obfuscate	Cenzurează informațiile private
+com.belmoussaoui.ReadItLater	Salvați și citiți articole web
+com.belmoussaoui.snowglobe	Vizualizator de virtualizare folosind QEMU peste DBus
+com.biglybt.BiglyBT	Caracteristici complete, open source, fără reclame, client bittorrent
+com.bitwarden.desktop	Un manager de parole sigur și gratuit pentru toate dispozitivele dvs
+com.bitwig.BitwigStudio	Productie si interpretare muzicala moderna
+com.bixense.PasswordCalculator	Calculați parole puternice pentru fiecare alias din secretul dvs
+com.bjareholt.johan.SimpleDiary	Aplicație de jurnal simplă și ușoară
+com.bktus.gpgfrontend	Un instrument de criptare OpenPGP
+com.bladecoder.adventure-editor	Motor și editor clasic de jocuri de aventură „point and click”.
+com.blitterstudio.amiberry	Un emulator Amiga pentru Linux
+com.blockstream.Green	Un portofel simplu și sigur pentru Bitcoin și Liquid Network
+com.borgbase.Vorta	Client de rezervă
+com.boxy_svg.BoxySVG	Editor de grafică vectorială scalabil
+com.brave.Browser	Browserul web de la Brave
+com.brosix.Brosix	Un mesager instantaneu all-in-one, sigur
+com.budgetwithbuckets.Buckets	Aplicație rapidă, simplă și privată pentru bugetul familiei
+com.calibre_ebook.calibre	Soluția unică pentru toate nevoile dvs. de e-book
+com.carpeludum.KegaFusion	Un emulator pentru consolele Sega pe 8 și 16 biți
+com.cassidyjames.butler	Companion pentru Home Assistant
+com.cassidyjames.plausible	Alternativă simplă și prietenoasă cu confidențialitatea la Google Analytics
+com.cburch.Logisim	Logisim un instrument grafic pentru proiectarea și simularea circuitelor logice
+com.chatterino.chatterino	Client de chat pentru twitch.tv
+com.chez.GrafX2	Un program de pictură bitmap specializat în desen cu 256 de culori
+com.chmouel.gnomeNextMeetingApplet	Afișați următoarele evenimente în panoul dvs
+com.chowdsp.BYOD	BYOD: Aduceți-vă propria distorsiune, independentă
+com.chroniclogic.Zatikon	Joc de șah, fantezie, de cucerire a castelului inamicului
+com.clarahobbs.chessclock	Jocurile de timp de șah peste masă
+com.claudiocambra.brickbuster	Un joc de spargere cărămizi, distractiv și captivant!
+com.cocoatech.deckr	Aplicație desktop utilizată cu pluginul Deckr Chrome
+com.codemouse92.timecard	Urmăriți frumos timpul.
+com.coeck_studios.Dinonuggys-Journey	Un joc de platformă 2d pixel art.
+com.corsixth.corsixth	Clona open source a Theme Hospital
+com.cuperino.qprompt	Software de teleprompter personal pentru toți creatorii de videoclipuri
+com.daidouji.oneko	pisicuță care urmărește jucăria cu indicatorul mouse-ului pe desktop
+com.darhon.drfinance	Gestionați-vă conturile personale
+com.darhon.syncbackup	Faceți backup și oglindiți unitățile dvs
+com.dec05eba.gpu_screen_recorder	Un înregistrator de ecran asemănător jocului de umbre pentru Linux. Cel mai rapid înregistrator de ecran pentru Linux
+com.dhsdevelopments.Climaxima	Frontend pentru Maxima CAS
+com.diffingo.fwbackups	Un program de backup bogat în funcții, ușor de utilizat
+com.discordapp.Discord	Client de mesagerie, voce și video
+com.diy_fever.DIYLayoutCreator	Instrument de proiectare a layout-ului circuitului care acceptă diagrame de cablare PCB, vero-board, punct-la-punct, perf-board și chitară
+com.djoffe.gnukem	Sistem de tragere cu platformă cu defilare 2D în stil retro
+com.dosbox.DOSBox	Emulator x86/DOS cu sunet și grafică
+com.dosbox_x.DOSBox-X	Emulator x86/DOS cu sunet și grafică
+com.doycho.euterpe.gtk	Client media player pentru serverul media Euterpe.
+com.dreamsourcelab.DSView	Un instrument multifuncțional open source pentru toată lumea
+com.dropbox.Client	Acceseaza fisierele tale de pe orice computer
+com.eduke32.EDuke32	EDuke32 este un motor minunat de joc homebrew gratuit
+com.ekonomikas.merkato	Urmăriți investițiile dvs
+com.elsevier.MendeleyDesktop	Mendeley este un manager de referință gratuit și o rețea socială academică
+com.eminfedar.vaktisalah	o aplicație Multi-Platform Prayer Times
+com.emqx.MQTTX	Un elegant client desktop MQTT 5.0 multiplatformă
+com.endlessm.photos	Editeaza usor si impartaseste pozele tale favorite
+com.endlessnetwork.aqueducts	Un joc de aventură cu puzzle captivant în care îți faci drumul spre a salva ziua!
+com.endlessnetwork.dragonsapprentice	Un joc de rol de tip RPG, cum ar fi rezolvarea puzzle-urilor, jocul de crawling în temniță și multe altele!
+com.endlessnetwork.fablemaker	Intră ca niciodată în lumea fabulelor lui Esop! Povești interactive în care puteți personaliza personaje, texte și sunete, piratând codul său în această aplicație captivantă și educativă.
+com.endlessnetwork.frogsquash	Un joc captivant de drumuri încrucișate cu o întorsătură
+com.endlessnetwork.MidnightmareTeddy	Trage și supraviețuiește
+com.endlessnetwork.missilemath	Un joc de împușcături cu avionul care zboară
+com.endlessnetwork.passage	Căutați-vă drum prin acest joc de acțiune și aventură cu derulare laterală
+com.endlessnetwork.tankwarriors	Conducere, împușcături, explozii și programare - toate într-un singur joc
+com.endlessnetwork.whitehouse	Folosind magia CSS, pirata-ți lumea într-o explozie unică de culoare și lumină care dezvăluie obiecte și indicii ascunse.
+com.enjoyingfoss.feeel	O aplicație simplă de antrenament/exercițiu acasă care vă respectă confidențialitatea
+com.enjoyingfoss.Parlera	Un joc de petrecere în care prietenii tăi descriu și ghiciți; sau vice versa
+com.epicgames.ut2004	Shooter în arena la persoana întâi
+com.epicgames.ut99	Shooter în arena la persoana întâi
+com.etlegacy.ETLegacy	ET: Legacy este un proiect open source bazat pe codul Wolfenstein: Enemy Territory, care a fost lansat în 2010 în condițiile GPLv3.
+com.expidusos.calculator	Calculator ExpidusOS
+com.expidusos.file_manager	Manager de fișiere ExpidusOS
+com.feaneron.Boatswain	Controlați punțile de stream Elgato
+com.felipekinoshita.Kana	Învață caractere japoneze
+com.felipekinoshita.Wildcard	Testează-ți expresiile regulate
+com.fightcade.Fightcade	Joacă jocuri arcade online.
+com.flashforge.FlashPrint	Slicer pentru imprimantele 3D FlashForge
+com.frac_tion.teleport	Partajați fișiere prin rețeaua locală
+com.freerdp.FreeRDP	Client FreeRDP (Remote Desktop Protocol) pentru Linux
+com.frogatto.Frogatto	Un joc de platformă 2D vechi
+com.fyralabs.SkiffDesktop	E-mail criptat de la capăt la capăt la confidențialitate
+com.gamestarmechanic.gamestarmechanic	Învață să proiectezi jocuri video
+com.geekbench.Geekbench6	Sistem de referință pe mai multe platforme
+com.georgefb.mangareader	Manga Reader pentru fișiere locale
+com.georgefb.quickaccess	Un meniu global care vă oferă acces rapid la dosare și comenzi personalizate.
+com.getmailspring.Mailspring	Cea mai bună aplicație de e-mail pentru oameni și echipe de la locul de muncă
+com.getpostman.Postman	Platformă pentru construirea și utilizarea API-urilor
+com.ghostery.browser	O experiență de navigare complet privată de la Ghostery
+com.giadamusic.Giada	Mașina ta de buclă hardcore
+com.gigitux.youp	Whatsapp
+com.gitfiend.GitFiend	Un client Git conceput pentru oameni
+com.github._0negal.Viper	Viper este un lansator și un program de actualizare pentru Northstar și nu mult mai mult decât atât.
+com.github._4lex4.ScanTailor-Advanced	Instrument interactiv de post-procesare pentru paginile scanate
+com.github.ADBeveridge.Raider	Ștergeți în siguranță fișierele dvs
+com.github.afrantzis.Bless	Gtk# Hex Editor
+com.github.aharotias2.parapara	Un vizualizator de imagini fără bibliotecă
+com.github.ahrm.sioyek	Vizualizator PDF conceput pentru citirea lucrărilor de cercetare și a cărților tehnice
+com.github.alainm23.byte	Redescoperă-ți muzica
+com.github.alainm23.planner	Nu-ți face griji niciodată că vei uita lucrurile din nou
+com.github.Alcaro.Flips	Un patcher pentru fișiere IPS și BPS
+com.github.alecaddd.sequeler	Client SQL prietenos
+com.github.alexhuntley.Plots	Trasare grafică simplă
+com.github.alexkdeveloper.astronum	Program pentru calcule astrologice și numerologice simple
+com.github.alexkdeveloper.desktop-files-creator	Aplicație simplă pentru crearea fișierelor desktop pe GNU/Linux
+com.github.alexkdeveloper.dice	Un simplu joc de zaruri
+com.github.alexkdeveloper.dwxmlcreator	Creator de imagini de fundal dinamic simplu
+com.github.alexkdeveloper.easter	Calculați data Paștelui catolic
+com.github.alexkdeveloper.forgetpass	Generator simplu de parole pentru site-uri web
+com.github.alexkdeveloper.goldsearch	Un joc în care trebuie să cauți aur
+com.github.alexkdeveloper.notepad	Ușor de creat note text
+com.github.alexkdeveloper.recorder	Recorder audio simplu
+com.github.alexkdeveloper.relaxator	Relaxați-vă la sunete liniștitoare
+com.github.alexkdeveloper.somafm	Un radio simplu cu posturi încorporate de pe site-ul web somafm.com
+com.github.alexkdeveloper.sudoku	Joc Sudoku
+com.github.AlizaMedicalImaging.AlizaMS	Un vizualizator DICOM
+com.github.AmatCoder.mednaffe	Un front-end (GUI) pentru emulator mednafen (inclus)
+com.github.amikha1lov.RecApp	Screencaster open source ușor de utilizat pentru Linux, scris în GTK
+com.github.Anuken.Mindustry	Mindustry: Un joc de apărare a turnului cu nisip
+com.github.appadeia.Taigo	Taigo este un animal de companie virtual pentru desktopul tău
+com.github.arminstraub.krop	Un instrument pentru decuparea fișierelor PDF
+com.github.arshubham.cipher	Codificați și decodați textul
+com.github.arshubham.gitignore	Referință .gitignore pentru diverse limbi
+com.github.artemanufrij.graphui	Vizualizare grafică
+com.github.artemanufrij.playmymusic	Un player de muzică pentru a asculta fișiere muzicale locale, radiouri online și CD-uri audio
+com.github.artemanufrij.playmyvideos	Un player video pentru vizionarea fișierelor video locale
+com.github.artemanufrij.regextester	O aplicație simplă pentru testarea expresiilor regulate
+com.github.avojak.paint-spill	Jocul de puzzle care umple culoarea
+com.github.avojak.warble	Jocul de ghicire a cuvintelor
+com.github.babluboy.bookworm	Un cititor de cărți electronice concentrat
+com.github.bajoja.indicator-kdeconnect	AppIndicator pentru KDE Connect
+com.github.bcedu.valasimplehttpserver	Accesați fișierele de pe orice dispozitiv din aceeași rețea
+com.github.bcedu.vgrive	Client Google Drive cu sincronizare automată pentru Linux
+com.github.benpocalypse.Huely	Colorează-ți spațiul
+com.github.birros.WebArchives	Un vizualizator de arhive web
+com.github.bjaraujo.Bombermaaan	Joc arcade
+com.github.Bleuzen.FFaudioConverter	Convertor audio lot și procesor de efecte
+com.github.bluesabre.darkbar	Întunecați barele de titlu ale aplicației în funcție de preferințele dvs
+com.github.buddhi1980.mandelbulber2	Generator de fractali 3D gratuit și open source
+com.github.bvschaik.julius	Julius este o reimplementare open source a lui Caesar III
+com.github.calo001.fondo	Găsiți cele mai frumoase imagini de fundal
+com.github.calo001.luna	Un widget de calendar uimitor
+com.github.carlos157oliveira.Calculus	Calculați derivate și integrale
+com.github.cassidyjames.clairvoyant	Pune întrebări, obține răspunsuri psihice
+com.github.cassidyjames.dippi	Calculați informațiile afișate, cum ar fi DPI și raportul de aspect
+com.github.cfcurtis.pdfstitcher	PDF Stitcher este un utilitar pentru a îmbina și a modifica proprietățile liniilor modelelor de cusut PDF
+com.github.childishgiant.mixer	Schimbați volumul aplicațiilor
+com.github.chipmuenk.pyfda	Instrument de analiză a designului filtrului Python
+com.github.christianrauch.Jahresarbeit-2003	Găsiți cea mai mare suprafață de pătrate conectate
+com.github.corna.Vivado	Xilinx Design Suite pentru dezvoltare hardware
+com.github.coslyk.MoonPlayer	Player video pentru redarea și descărcarea videoclipurilor online de pe YouTube, Youku etc.
+com.github.cubitect.cubiomes-viewer	Un instrument de căutare eficient de semințe Minecraft și vizualizator de hărți.
+com.github.d4nj1.tlpui	GTK-UI pentru a schimba cu ușurință fișierele de configurare TLP.
+com.github.dahenson.agenda	Faceți lucrurile
+com.github.dail8859.NotepadNext	O reimplementare multiplatformă a Notepad++
+com.github.Darazaki.Spedread	Software de citire rapidă GTK: Citește ca un speedrunner!
+com.github.dariasteam.cowsrevenge	Joc Indie Platformer Pixel Art
+com.github.dawidd6.checksumo	Verificați fișierul specificat față de hash dat
+com.github.debauchee.barrier	Barieră - Partajați mouse-ul și tastatura prin rețeaua locală
+com.github.devalien.workspaces	Fii mereu gata de muncă
+com.github.dimkr.gplaces	Un client Gemini bazat pe terminal
+com.github.donadigo.appeditor	Editați meniul aplicației
+com.github.dynobo.normcap	Extrageți text de oriunde pe ecran
+com.github.edenalencar.identifications	Este un instrument pentru echipa QA și dezvoltatori
+com.github.Eloston.UngoogledChromium	O abordare ușoară pentru eliminarea dependenței de serviciul web Google
+com.github.elth0r0.iqpuzzle	Un I.Q distrator. puzzle pentomino provocator
+com.github.emmanueltouzery.cigale	Examinați-vă activitatea din trecut
+com.github.emmanueltouzery.hotwire	Hotwire vă permite să studiați traficul de rețea al câtorva protocoale populare într-un mod simplu
+com.github.emmanueltouzery.projectpad	Projectpad vă permite să gestionați acreditările secrete și informațiile serverului pe care trebuie să le gestionați ca dezvoltator de software sau administrator de sistem.
+com.github.eneshecan.WhatsAppForLinux	O aplicație desktop neoficială WhatsApp pentru Linux
+com.github.fabiocolacio.marker	Editor puternic de markdown pentru desktopul GNOME.
+com.github.finefindus.eyedropper	Alegeți și formatați culorile
+com.github.Flacon	Flacon extrage melodii individuale dintr-un fișier audio mare care conține întregul album de muzică și le salvează ca fișiere audio separate
+com.github.flxzt.rnote	Schițați și luați note scrise de mână
+com.github.fontmatrix.Fontmatrix	Aplicație de gestionare a fonturilor
+com.github.fries1234.ncsa-mosaic	Browserul web NSCA Mosaic
+com.github.gabutakut.gabutdm	Manager de descărcare simplu și rapid
+com.github.geigi.cozy	Ascultă cărți audio
+com.github.giacomogroppi.writernote-qt	Writernote este o aplicație multiplatformă care vă permite să luați note prin înregistrarea audio, să îl traduceți ulterior în text și să îl ascultați într-un mod inteligent.
+com.github.gijsgoudzwaard.image-optimizer	Compresie simplă de imagine fără pierderi
+com.github.git_cola.git-cola	GUI Git elegant și puternic
+com.github.gmg137.netease-cloud-music-gtk	Netease cloud music player bazat pe Rust + GTK
+com.github.gpuvis.Gpuvis	Un GPU Trace Visualizer
+com.github.GradienceTeam.Gradience	Modificați cu ușurință aspectul aplicațiilor Adwaita
+com.github.gyunaev.spivak	Player karaoke
+com.github.hluk.copyq	Manager avansat de clipboard
+com.github.hopsan.Hopsan	Un instrument de modelare și simulare pentru sisteme de fluide și sisteme mecatronice
+com.github.horaciodrs.tradesim	Simulatorul de tranzacționare Linux
+com.github.hugolabe.Wike	Căutați și citiți articole Wikipedia
+com.github.huluti.Coulr	Bucurați-vă de culori și simțiți-vă fericit!
+com.github.huluti.Curtail	Comprimați-vă imaginile
+com.github.HypatiaProject.hypatia	Un instrument de ajutor de cercetare care oferă context și informații despre subiecte interesante.
+com.github.ilai_deutel.kibi	Un editor de text în ≤1024 de linii de cod, scris în Rust
+com.github.inercia.k3x	Manager pentru clustere Kubernetes locale cu k3d
+com.github.iortcw.iortcw	Motor de joc pentru Return to Castle Wolfenstein
+com.github.IsmaelMartinez.teams_for_linux	Client Microsoft Teams neoficial pentru Linux folosind Electron
+com.github.iwalton3.jellyfin-media-player	Client desktop pentru serverul media Jellyfin
+com.github.iwalton3.jellyfin-mpv-shim	Client doar pentru difuzare pentru Jellyfin Media Server
+com.github.JannikHv.Gydl	Descărcați conținut de pe site-uri precum YouTube
+com.github.jeromerobert.pdfarranger	Îmbinarea, rearanjarea, împărțirea, rotirea și decuparea PDF-urilor
+com.github.jkotra.eovpn	Manager de configurare OpenVPN
+com.github.jkotra.unlockr	Eliminator de parole PDF
+com.github.jmlich.geotagging	Pentru a găsi locul în care ați făcut fotografia
+com.github.jms55.Sandbox	Un joc de simulare a nisipului
+com.github.johnfactotum.Foliate	Citiți cărți electronice cu stil
+com.github.johnfactotum.QuickLookup	Căutați repede cuvintele
+com.github.Johnn3y.Forklift	Aplicație de descărcare video și audio
+com.github.joseexposito.touche	Gesturi multi-touch
+com.github.jpakkane.glyphtracer	Convertiți imagini cu litere într-un font
+com.github.junrrein.PDFSlicer	Un instrument simplu pentru extragerea, îmbinarea, rotirea și reordonarea paginilor documentelor PDF
+com.github.juzzlin.DustRacing2D	Joc tradițional de curse de mașini de sus în jos, inclusiv un editor de nivel
+com.github.k4zmu2a.spacecadetpinball	Motor de joc pentru Space Cadet Pinball
+com.github.kagami.boram	Convertor grafic WebM multiplatformă.
+com.github.kalibari.audok	Un player de muzică gratuit, open source
+com.github.keriew.augustus	Augustus este o reimplementare open source a lui Caesar III cu modificări ale gameplay-ului
+com.github.kmwallio.thiefmd	Editorul de reduceri care merită furat.
+com.github.KRTirtho.Spotube	🎧 Client Spotify open source care nu necesită Premium și nici nu folosește Electron! Disponibil atât pentru desktop, cât și pentru mobil!
+com.github.labyrinth_team.labyrinth	Un instrument ușor de cartografiere a minții
+com.github.lachhebo.Gabtag	Un instrument de etichetare audio
+com.github.libresprite.LibreSprite	Editor de sprite animate și instrument de pixel art
+com.github.liferooter.textpieces	Transformați textul fără a utiliza site-uri web aleatorii
+com.github.LongSoft.UEFITool	Vizualizator și editor de imagini firmware UEFI
+com.github.louis77.tuner	Descoperiți și ascultați posturi de radio pe internet
+com.github.lxgr_linux.pokete	Un joc de tip Pokemon bazat pe terminal
+com.github.makhber.Makhber	Vizualizarea și analiza datelor științifice
+com.github.maoschanz.drawing	Editați capturi de ecran sau meme-uri
+com.github.maoschanz.DynamicWallpaperEditor	Creați sau editați imagini de fundal dinamice XML (prezentări de fundal) pentru desktopul GNOME
+com.github.marhkb.Pods	Se ține evidența containerelor podman
+com.github.marinm.songrec	Un client Shazam neoficial, open-source pentru Linux, scris în Rust.
+com.github.marktext.marktext	Editor de reducere de generație următoare
+com.github.matfantinel.moneta	Monitorizați cursurile de schimb ale monedelor reale pe desktop
+com.github.matfantinel.reminduck	Amintește-ți lucrurile într-un mod adorabil de enervant.
+com.github.Matoking.protontricks	Un înveliș simplu care face trucuri de vin pentru jocurile activate cu Proton
+com.github.mdh34.hackup	Citiți știrile Hacker de pe desktop
+com.github.mdh34.quickdocs	Citiți rapid documentele pentru dezvoltatori
+com.github.mgropp.PdfJumbler	Instrument simplu de rearanjare, îmbinare, ștergere și rotire a paginilor din fișierele PDF
+com.github.miguelmota.Cointop	Aplicație bazată pe terminal pentru urmărirea criptomonedelor
+com.github.mikacousin.olc	Controlează-ți spectacolele de iluminat
+com.github.mtkennerly.ludusavi	Faceți o copie de rezervă a datelor de salvare a jocurilor video pe computer
+com.github.muriloventuroso.easyssh	Manager conexiune SSH
+com.github.muriloventuroso.givemelyrics	Versuri pentru melodiile tale
+com.github.muriloventuroso.pdftricks	Trucuri pentru fișiere PDF
+com.github.Murmele.Gittyup	Client grafic Git conceput pentru a vă ajuta să înțelegeți și să gestionați istoricul codului sursă
+com.github.Murmele.scram	Linie de comandă și instrument grafic pentru analiza riscului probabilistic
+com.github.naaando.lyrics	Modul frumos de a-ți cânta melodiile
+com.github.needleandthread.vocal	Un mare client de podcast pentru desktop-ul gratuit modern
+com.github.neithern.g4music	Redă-ți muzica elegant
+com.github.nihui.waifu2x-ncnn-vulkan	Waifu2x convertor versiunea ncnn
+com.github.nrittsti.NTag	NTag este un editor grafic de etichete multiplatformă axat pe cazurile de utilizare din viața de zi cu zi.
+com.github.ojubaorg.Othman	Browser electronic Coran
+com.github.opentyrian.OpenTyrian	Un port open-source al shoot-em-up-ului DOS Tyrian.
+com.github.optyfr.JRomManager	Un manager de rom Mame și Retrogaming
+com.github.paolostivanin.OTPClient	Aplicație GTK+ pentru gestionarea jetoanelor TOTP și HOTP cu criptare încorporată.
+com.github.petebuffon.yafc	YAFC este un calculator, planificator și analizor Factorio. Scopul principal al YAFC este de a face față jocurilor puternic modificate.
+com.github.phase1geo.minder	Creați, dezvoltați și vizualizați-vă ideile
+com.github.philip_scott.notes-up	Noul tău caiet
+com.github.philip_scott.spice-up	Creați prezentări simple și frumoase
+com.github.PintaProject.Pinta	Editați imagini și pictați digital
+com.github.polymeilex.neothesia	Vizualizator midi accelerat GPU
+com.github.PopoutApps.popout3d	Creează imagini 3D din fotografiile realizate cu o cameră obișnuită.
+com.github.powertab.powertabeditor	Vizualizați și editați tablatura de chitară
+com.github.qarmin.czkawka	Aplicație multifuncțională pentru a găsi duplicate, foldere goale, imagini similare, fișiere sparte etc.
+com.github.qarmin.szyszka	Redenumitor de fișiere simplu, dar puternic, scris în Rust
+com.github.quaternion	Client bazat pe Qt pentru rețelele Matrix
+com.github.Qv2ray	Qv2ray este un frontend grafic v2ray multiplatformă scris în Qt.
+com.github.rafostar.Clapper	Player media GNOME simplu și modern
+com.github.raibtoffoletto.litteris	Corespondență organizată
+com.github.rajsolai.response	Testați capacitatea de răspuns a paginii dvs. web
+com.github.rajsolai.textsnatcher	Strângeți text doar cu o glisare
+com.github.ransome1.sleek	todo manager bazat pe sintaxa todo.txt pentru Linux, gratuit și open-source (FOSS)
+com.github.reds.LogisimEvolution	Designer și simulator de logică digitală
+com.github.reduz.ChibiTracker	ChibiTracker este o clonă IT (Impulse Tracker) portabilă
+com.github.rhyme_player.rhyme	Casa muzicii tale.
+com.github.rkoesters.xkcd-gtk	Citiți xkcd: un webcomic despre romantism, sarcasm, matematică și limbaj
+com.github.robertsanseries.ciano	Un convertor de fișiere multimedia
+com.github.rogercrocker.badabib	Vizualizați și editați intrările BibTeX
+com.github.Rosalie241.RMG	Un front-end mupen64plus ușor de utilizat și multiplatform, scris în C++ și Qt
+com.github.ryanakca.slingshot	Joc de fotografiere în spațiu 2D cu gravitație
+com.github.ryonakano.konbucase	Convertiți majuscule și minuscule în text
+com.github.ryonakano.pinit	Fixați comenzile rapide pentru aplicațiile portabile preferate în lansatorul de aplicații
+com.github.ryonakano.reco	Înregistrați discuțiile pentru a vă aminti conținutul mai târziu
+com.github.sakya.corechess	GUI de șah cu sursă deschisă pentru motoarele de șah
+com.github.scrivanolabs.scrivano	O aplicație de luare a notițelor pentru cei care preferă scrisul de mână în loc să scrie.
+com.github.sdv43.whaler	Managementul containerelor Docker
+com.github.shonumi.gbe-plus	Un emulator Game Boy (Color, Advance).
+com.github.sixpounder.GameOfLife	Joacă Conway's Game of Life
+com.github.skullernet.q2pro	Client Quake 2 îmbunătățit
+com.github.skylot.jadx	Decompilator Dex la Java
+com.github.subhadeepjasu.pebbles	Efectuați cu ușurință calcule avansate
+com.github.suzie97.communique	Cititor RSS cu sincronizare multiplatformă
+com.github.taiko2k.avvie	Decupați imaginile pentru avatare sau imagini de fundal
+com.github.taiko2k.tauonmb	Redați muzica cu stil
+com.github.tchx84.Flatseal	Gestionați permisiunile Flatpak
+com.github.tenderowl.frog	Extrageți text din imagini
+com.github.tenderowl.norka	Editor de text continuu
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto este o aplicație multiplatformă care vă permite să criptați și să decriptați texte într-un mod simplu.
+com.github.theCalcaholic.StreamDeck	Adăugați servicii web de streaming la Steam
+com.github.theironrobin.siglo	Sincronizați PineTime cu PinePhone
+com.github.themix_project.Oomox	personalizați pictogramele, temele xrdb și GTK
+com.github.tmewett.BrogueCE	Brogue: Community Edition - o furcă lideră a comunității a mult iubitului joc minimalist roguelike
+com.github.treagod.spectator	Testați-vă confortabil API-urile REST!
+com.github.unrud.djpdf	Creați fișiere PDF mici, care pot fi căutate, din documente scanate
+com.github.unrud.RemoteTouchpad	Controlați mouse-ul și tastatura de pe un smartphone
+com.github.unrud.VideoDownloader	Descărcați videoclipuri de pe site-uri web precum YouTube și multe altele
+com.github.utsushi.Utsushi	Utilități de achiziție de imagini pentru Epson
+com.github.varnholt.dynablaster_revenge	Remake al jocului Dynablaster
+com.github.vikdevelop.photopea_app	Alternativă gratuită pentru utilizatorii Adobe Photoshop
+com.github.vikdevelop.timer	Cronometru simplu cu numărătoare inversă
+com.github.vkohaupt.vokoscreenNG	Creator de screencast ușor de utilizat
+com.github.vladimiry.ElectronMail	Client desktop neoficial pentru ProtonMail
+com.github.weclaw1.ImageRoll	Vizualizator de imagini cu instrumente de bază de manipulare a imaginii
+com.github.wwmm.easyeffects	Efecte audio pentru aplicațiile PipeWire
+com.github.wwmm.pulseeffects	Efecte audio pentru aplicațiile PulseAudio
+com.github.Xenoveritas.abuse	Joc de platformă întunecat 2D cu defilare laterală
+com.github.xournalpp.xournalpp	Luați note scrise de mână
+com.github.yucefsourani.albasheer-electronic-quran-browser	Browser electronic Coran
+com.github.zadam.trilium	Construiește-ți baza de cunoștințe personală
+com.github.z.Cumulonimbus	O aplicație de podcast simplă și frumoasă
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + indicator simplu de tavă
+com.github.ztefn.haguichi	O interfață grafică pentru Hamachi
+com.gitlab.adnan338.Invoicer	Creați-vă facturile de plată
+com.gitlab.adnan338.Nixwriter	Creați imagini Linux bootabile
+com.gitlab.azymohliad.Qwertone	Transformă computerul într-un instrument muzical
+com.gitlab.bitseater.meteo	Cunoașteți prognoza următoarelor ore și zile cu date și hărți
+com.gitlab.ColinDuquesnoy.MellowPlayer	Integrarea muzicii în cloud pentru desktopul dvs
+com.gitlab.coringao.cavestory-nx	Un joc de aventură nostalgic cu acțiune secundară
+com.gitlab.coringao.JAG	Joc Arcade și Puzzle 2D în care trebuie să spargi toate piesele țintă
+com.gitlab.cutecom.cutecom	Terminal serial grafic
+com.gitlab.davem.ClamTk	Interfață grafică ușor de utilizat pentru Clam Antivirus (ClamAV)
+com.gitlab.guillermop.MasterKey	O aplicație de gestionare a parolelor
+com.gitlab.j0chn.nextcloud_password_client	Gestionați-vă parolele Nextcloud pe desktop
+com.gitlab.kendellfab.restscope	Un instrument simplu de testare http/rest construit cu D și GtkD.
+com.gitlab.librebob.Athenaeum	Un înlocuitor gratuit pentru Steam
+com.gitlab.maevemi.publictransport	aplicație de transport public (în prezent) pentru Germania
+com.gitlab.Murmele.UDPLogger	UDLogger este un Logger ușor de înaltă performanță de date UDP. Datele suplimentare pot fi vizualizate pe diagrame.
+com.gitlab.tipp10.tipp10	Atingeți Tutor de tastare
+com.gluonhq.SceneBuilder	Scene Builder este un instrument open source care permite proiectarea prin glisare și plasare a interfețelor de utilizator JavaFX.
+com.google.AndroidStudio	Mediu de dezvoltare integrat pentru platforma Android Google
+com.google.Chrome	Browserul web de la Google
+com.google.ChromeDev	Browserul web de la Google
+com.google.EarthPro	Vizualizator de planete 3D
+com.googleplaymusicdesktopplayer.GPMDP	Rulați Muzică Google Play ca o aplicație desktop autonomă
+com.grangerhub.Tremulous	Aliens vs Humans, joc de împușcături la prima persoană cu elemente de strategie în timp real
+com.hack_computer.Clubhouse	Destinația pentru ca copiii să învețe cum să codifice
+com.hack_computer.OperatingSystemApp	Sistemul vă permite să fiți parte din magia care vă ține computerul în funcțiune!
+com.hack_computer.Sidetrack	Scăpați din labirintul de gropi și roboți!
+com.hamrick.VueScan	Software de scanare pentru peste 6000 de scanere
+com.helix_editor.Helix	Un editor de text post-modern
+com.her01n.BatteryInfo	Afișează informații despre bateria sistemului.
+com.heroicgameslauncher.hgl	O sursă deschisă Epic Games, GOG și Amazon Prime Games Launcher.
+com.hostbuf.FinalShell	Instrumente ssh FinalShell
+com.howlingmoonsoftware.CrayonBall	Un joc de puzzle în ritm rapid de tip meci-4
+com.hunterwittenborn.Celeste	Sincronizați fișierele cloud
+com.icanblink.blink	Clienți client SIP
+com.icons8.Lunacy	Software de design gratuit care vă menține fluxul cu instrumente AI și grafică încorporată
+com.identicalsoftware.anagramarama	Faceți cuvinte dintr-un amestec de litere
+com.inform7.IDE	Scrie ficțiune interactivă
+com.inklestudios.Inky	Scrieți o narațiune interactivă în limbajul de marcare al lui Inkle
+com.inochi2d.inochi-creator	Instrument pentru a crea și edita marionete Inochi2D
+com.interversehq.qView	Vizualizator de imagini practic și minim
+com.inventwithpython.flippy	O clonă a jocului clasic de masă Reversi
+com.invoiceninja.InvoiceNinja	Creați facturi, acceptați plăți, urmăriți cheltuielile și sarcinile de timp
+com.irccloud.desktop	Serviciu pentru clienți IRC modern, mereu conectat
+com.itextpdf.RUPS	iText RUPS este un instrument de vizualizare a structurii PDF
+com.itopia.client	Un client pentru servere RDP (Remote Desktop Protocol).
+com.jagex.RuneScape	Un MMORPG fantasy free-to-play
+com.jaquadro.NBTExplorer	Un editor grafic NBT pentru toate sursele de date Minecraft NBT
+com.jetbrains.CLion	Un IDE multiplatformă pentru C și C++
+com.jetbrains.DataGrip	IDE bazat pe IntelliJ pentru baze de date și SQL
+com.jetbrains.GoLand	Go IDE capabil și ergonomic
+com.jetbrains.IntelliJ-IDEA-Community	IDE Java capabil și ergonomic
+com.jetbrains.IntelliJ-IDEA-Ultimate	IDE Java capabil și ergonomic pentru dezvoltarea întreprinderilor, web și mobile
+com.jetbrains.PhpStorm	PHP IDE pentru dezvoltare profesională
+com.jetbrains.PyCharm-Community	Cel mai inteligent IDE Python
+com.jetbrains.PyCharm-Professional	Cel mai inteligent IDE Python
+com.jetbrains.Rider	Rapid și puternic, .NET IDE multiplatform
+com.jetbrains.RubyMine	Bucurați-vă de suport de primă clasă pentru Ruby 2.x și Rails 6.x, Sinatra, React, Angular, Puppet, Docker și multe altele
+com.jetbrains.WebStorm	Cel mai inteligent IDE JavaScript
+com.jetpackduba.Gitnuro	Client Git multiplatform
+com.jgraph.drawio.desktop	Creați și partajați diagrame
+com.jonathankang.Weibird	Client nativ GTK+ Weibo
+com.jpexs.decompiler.flash	Decompilați și editați fișierele SWF
+com.js8call.JS8Call	Software care utilizează modul digital JS8 care oferă mesaje de la tastatură cu semnal slab către tastatură operatorilor de radio amatori
+com.katawa_shoujo.KatawaShoujo	Un roman vizual în stil bishoujo
+com.kavilgroup.gelectrical	Proiectare si analiza retelei electrice de distributie
+com.kavilgroup.gestimator	Software de estimare civilă
+com.kolor.AutopanoPro	Software profesional de cusut imagini realizat de Kolor
+com.kristianduske.TrenchBroom	Editor de nivel pentru jocurile bazate pe Quake
+com.ktechpit.colorwall	Ultima aplicație de fundal pentru desktop
+com.ktechpit.orion	Client torrent complet și streamer pentru desktop Linux
+com.ktechpit.torrhunt	Motor de căutare torrent
+com.ktechpit.ultimate-media-downloader	Descărcător online de videoclipuri și audio pentru Linux, suport pentru peste 1300 de site-uri web
+com.ktechpit.whatsie	Qt Whatsapp Web Client pentru desktop Linux
+com.ktechpit.wonderwall	Manager de fundal
+com.lakoliu.Furtherance	Urmăriți-vă timpul fără a fi urmărit
+com.leinardi.gkraken	Vă permite să controlați răcirea unei pompe NZXT Kraken X de la Linux.
+com.leinardi.gst	Utilitar de sistem conceput pentru a solicita și monitoriza diferite componente hardware
+com.leinardi.gwe	Utilitar de sistem conceput pentru a furniza informații, controla ventilatoarele și overclockează cardul dvs. NVIDIA
+com.leinardi.gx52	Oferă controlul LED-urilor și MFD pentru Logitech X52 și X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Un player video gratuit și simplu de utilizat, creat cu Haskell
+com.librumreader.librum	Un cititor modern de cărți electronice și un manager de bibliotecă
+com.lixgame.Lix	Joc asemănător lemmings cu puzzle-uri, editor, multiplayer
+com.locomalito.abbayedesmorts	Un joc video învechit pentru o trecere întunecată a istoriei
+com.logseq.Logseq	Un caiet local, neliniar, cu contur pentru organizarea și partajarea bazei tale de cunoștințe personale
+com.lunarclient.LunarClient	Un modpack pentru toate versiunile moderne de Minecraft!
+com.makemkv.MakeMKV	Convertor DVD și Blu-ray în MKV și streamer de rețea
+com.maplerain.telsis_translator_flutter	Aplicație care se traduce în și din limba Telsis folosită în seria Violet Evergarden
+com.mardojai.DiccionarioLengua	Căutați cuvinte în DLE
+com.mardojai.ForgeSparks	Obțineți notificări Git Forges
+com.mastermindzh.tidal-hifi	Versiunea web a listen.tidal.com cu suport Hi-Fi (High și Max).
+com.mattermost.Desktop	O platformă open source pentru colaborarea dezvoltatorilor
+com.mattjakeman.ExtensionManager	Răsfoiți, instalați și gestionați extensiile Shell GNOME
+com.meetfranz.Franz	Messenger pentru desktop
+com.microsoft.AzureStorageExplorer	Instrument grafic pentru gestionarea resurselor de stocare în cloud Azure
+com.microsoft.Edge	Vă prezentăm noul browser web Microsoft Edge. E timpul să te aștepți la mai mult. Mai multă intimitate. Mai mult control. Mai multă productivitate. Mai multă valoare.
+com.microsoft.EdgeDev	Vă prezentăm noul browser web Microsoft Edge. E timpul să te aștepți la mai mult. Mai multă intimitate. Mai mult control. Mai multă productivitate. Mai multă valoare.
+com.milesalan.mepo	Vizualizator de hărți OSM rapid, simplu și hackabil pentru Linux
+com.moddb.TotalChaos	Survival horror plasat pe o insulă îndepărtată, cunoscută sub numele de Fort Oasis
+com.moddb.TotalChaosRetro	Survival horror plasat pe o insulă îndepărtată, cunoscută sub numele de Fort Oasis
+com.mojang.Minecraft	Creeaza-ti propria lume in unul dintre cele mai populare jocuri video
+com.mongodb.Compass	GUI MongoDB
+com.moonlight_stream.Moonlight	Transmiteți în flux jocuri și alte aplicații de pe un alt PC care rulează Sunshine sau GeForce Experience
+com.mousepawmedia.omission	Un puzzle de cuvinte înșelător de simplu.
+com.mudeprolinux.whakarere	Client Whatsapp GTK4
+community.pathofbuilding.PathOfBuilding	Path of Building (Community) - Un puternic planificator de construcție pentru Path of Exile
+com.musixmatch.Musixmatch	Bucurați-vă de versurile peste tot
+com.napster.napster-bigscreen-electron	Napster pentru portabil
+com.neatdecisions.Detwinner	Găsiți și eliminați fișierele duplicate și imagini similare
+com.netease.CloudMusic	Un popular player de muzică online dezvoltat de Netease
+com.nextcloud.desktopclient.nextcloud	Client de sincronizare desktop Nextcloud
+com.nitrokey.nitrokey-app	Gestionați-vă dispozitivele Nitrokey
+com.nordpass.NordPass	Un manager de parole ușor de utilizat, oferit de experții în securitate cibernetică.
+com.notepadqq.Notepadqq	Un editor de text avansat
+com.notesnook.Notesnook	O alternativă la Evernote, complet open source și criptată end-to-end
+com.obsproject.Studio	Streaming live și software de înregistrare video
+com.okta.developer.CLI	Okta CLI este cel mai simplu mod de a începe cu Okta!
+com.openwall.John	John the Ripper Jumbo spargere parole
+com.opera.Opera	Browserul web de la Opera
+com.oppzippy.OpenSCQ30	Controlați setările căștilor Soundcore Q30
+com.orama_interactive.Pixelorama	Editor de sprite 2D cu suport pentru animație
+com.outerwildsmods.owmods_gui	O aplicație ușor de utilizat pentru instalarea și rularea modurilor Outer Wilds
+com.ownrwallet.wallet	Trimiteți, primiți, retrageți, schimbați și cumpărați monede virtuale. Numai tu controlezi accesul și activele
+com.ozmartians.VidCutter	Cutter Media + Tamplarie
+com.parallax.PropellerIDE	Dezvoltați, compilați și încărcați cod pentru platforma Parallax Propeller.
+com.parsecgaming.parsec	Streaming de jocuri simplu, cu latență scăzută
+com.pikatorrent.PikaTorrent	O aplicație BitTorrent modernă, simplă, conectată și electrică ⚡
+com.pinegrow.Pinegrow	Editor vizual web pentru profesioniști
+com.play0ad.zeroad	Joc de strategie în timp real al războiului antic
+com.playonlinux.PlayOnLinux4	Front-end grafic pentru Wine
+com.plexamp.Plexamp	Plexamp - Un frumos player de muzică Plex pentru audiofili, curatori și hipsteri
+com.pojtinger.felicitas.Multiplex	Urmărește torrente cu prietenii tăi
+com.pokemmo.PokeMMO	PokeMMO este un mmorpg gratuit, alăturați-vă unei comunități în creștere pe măsură ce treceți la nivel și descoperiți noi monștri
+com.polyphone_soundfonts.polyphone	Creează-ți propriile instrumente pentru a reda muzica ta preferată
+com.powerball253.eternalmodmanager	Manager de mod multiplatform pentru DOOM Eternal.
+com.poweriso.PowerISO	Un instrument all-in-one CD/DVD/Blu-Ray
+com.protonvpn.www	Aplicație VPN de încredere și ușor de utilizat pentru Linux
+com.prusa3d.PrusaSlicer	Obțineți printuri 3D perfecte!
+com.pypyrev.linuxdcpp	Un client de partajare a fișierelor pentru rețeaua Direct Connect
+com.q3rally.Q3Rally	Joc de curse de supraviețuire
+com.qq.QQ	Serviciu online de mesagerie instantanee
+com.qq.QQmusic	Serviciu de streaming muzical online
+com.quexten.Goldwarden	Un client desktop compatibil Bitwarden
+com.quixel.Bridge	Puntea perfectă între Megascan-uri și instrumentele tale preferate
+com.qzandronum.Q-Zandronum	O furcă Zandronum 3.0 cu cod net îmbunătățit, mișcare configurabilă și multe mici modificări
+com.rabbit_company.passky	Passky este un manager de parole simplu, modern, ușor, open-source și sigur.
+com.rafaelmardojai.Blanket	Ascultați sunete diferite
+com.rafaelmardojai.SharePreview	Testați cardurile de rețele sociale la nivel local
+com.rafaelmardojai.WebfontKitGenerator	Creați cu ușurință kituri @font-face
+com.raggesilver.BlackBox	Un frumos terminal GTK 4
+com.ranfdev.Geopard	Un browser Gemeni
+com.ranfdev.Lobjur	Un simplu client lobste.rs
+com.ranfdev.Notify	Primiți notificări de la ntfy.sh.
+com.rawtherapee.RawTherapee	Un program avansat de dezvoltare a fotografiilor brute
+com.realm667.Wolfenstein_Blade_of_Agony	FPS bazat pe povești, inspirat de shooterii din Al Doilea Război Mondial din anii 90 și începutul anilor 2000
+com.redis.RedisInsight	GUI pentru dezvoltatori pentru Redis, de Redis.
+com.remnantsoftheprecursors.ROTP	O modernizare rafinată a jocului original de strategie Master of Orion din 1993.
+com.retrodev.blastem	Un emulator Sega Mega Drive/Genesis și Master System
+com.revolutionarygamesstudio.ThriveLauncher	Un joc de simulare a evoluției. Preia controlul asupra speciei tale în mediu și editează-ți specia în ansamblu. Concurează cu alte specii în evoluție pentru resurse pe o planetă extraterestră.
+com.riverbankcomputing.PyQt.BaseApp	Platformă partajată pentru aplicațiile care utilizează PyQt
+com.rocksandpaper.syndic	Cititor RSS/Atom prietenos cu atingerea
+com.roguetemple.HyperRogue	Joc grafic non-euclidian de tip rogue
+com.rosegardenmusic.rosegarden	Sequencer MIDI și Audio și Editor de notație
+com.rq3.Reaction	Film cu realism la persoana întâi
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Un player audio Qt ușor
+com.scoutshonour.Digital	Un mister/un romantism pe computer a plasat cinci minute în viitorul anului 1988
+com.scoutshonour.dtipbijays	Un fel de continuare spirituală a lui Digital: A Love Story, plasat într-un liceu privat prestigios și pe rețelele de socializare din 2027
+com.seafile.Client	Sincronizarea fișierelor Seafile și partajarea clientului desktop
+com.seal_one.SealOne	Software pentru dispozitivele de semnătură bazate pe hardware Seal One
+com.serveftp.officefactoring	Aplicație pentru factoring, securitizare, ESC sau FIDC
+com.sevenkfans.sevenkaa	Joc de strategie medievală în timp real
+com.seventhstring.Transcribe	Transcrie! - software care ajută la transcrierea muzicii înregistrate
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG, cu grafică pixel art și multă varietate și rejuabilitate
+com.sigil_ebook.Sigil	Editor de cărți electronice EPUB multiplatformă
+com.sigmyne.crush	Reducerea datelor și imagistica pentru anumite camere astronomice
+com.simplenote.Simplenote	Cel mai simplu mod de a ține notițe
+com.sindresorhus.Caprine	Aplicație desktop elegantă Facebook Messenger
+com.sireliah.Dragit	Aplicație intuitivă de partajare a fișierelor pentru rețeaua locală
+com.skype.Client	Apelați și trimiteți mesaje utilizatorilor Skype, cu suport pentru chat video
+com.slack.Slack	Comunicarea în echipă pentru secolul 21
+com.sleepfiles.OSCAR	Reporterul de analiză CPAP cu sursă deschisă
+com.slugchess.SlugChess	Șah cu ceață de război și ofițeri amestecați
+com.snes9x.Snes9x	Un emulator Super Nintendo
+com.solvespace.SolveSpace	Un instrument CAD 3d parametric gratuit (GPLv3).
+com.sourcepole.kadas	Aplicație de cartografiere pentru utilizatori nespecializați
+com.spacestation14.Launcher	Simulator de dezastre multiplayer
+com.spotify.Client	Serviciu de streaming muzical online
+com.springrts.SpringLobby	Joacă jocuri RTS online cu motorul Spring
+com.steamdeckrepo.manager	Instalați videoclipuri de pornire pe Steam Deck folosind API-ul site-ului web Steam Deck Repo.
+com.steamgriddb.SGDBoop	Aplicați activele SteamGridDB la Steam
+com.steamgriddb.steam-rom-manager	O aplicație pentru gestionarea ROM-urilor în Steam
+com.stepmania.StepMania	Joc de ritm și dans
+com.stremio.Service	Libertatea de a transmite în flux
+com.stremio.Stremio	Vizionați instantaneu videoclipuri, filme, seriale și canale TV
+com.strlen.TreeSheets	Organizator de date în formă liberă
+com.st.STM32CubeIDE	Mediu de dezvoltare integrat pentru STM32
+com.sublimemerge.App	Sublime Merge este un client Git, de la creatorii Sublime Text
+com.sublimetext.three	Editor de text sofisticat pentru cod, markup și proză
+com.sudovanilla.penpot-desktop	Libertate de proiectare pentru echipe
+com.supermodel3.Supermodel	Un emulator Sega Model 3 Arcade
+com.sweethome3d.Sweethome3d	Aplicație de design interior 3D Sweet Home
+com.sweetscape.ZeroOneZeroEditor	Editare profesională de text și hexadecimal cu șabloane binare
+com.synology.CloudStationBackup	Backup în timp real, salvându-vă de la pierderea masivă de date
+com.synology.SynologyAssistant	Instrument pentru gestionarea Synology NAS în rețeaua locală
+com.synology.SynologyDrive	Stocare puternică în cloud privată, fără taxe recurente
+com.syntevo.SmartGit	Termină-ți angajamentul
+com.syntevo.SmartSynchronize	Compararea directoarelor în mod inteligent
+com.system76.Popsicle	Flashiți mai multe dispozitive USB în paralel
+com.szibele.e-juice-calc	Calculator E-Juice gratuit și simplu de utilizat
+com.tdameritrade.ThinkOrSwim	Aplicația ThinkOrSwim Desktop
+com.teamspeak.TeamSpeak	Aplicația TeamSpeak5 VoIP
+com.teamspeak.TeamSpeak3	Aplicația TeamSpeak VoIP
+com.teeworlds.Teeworlds	Joc online multiplayer shooter
+com.tencent.wemeet	Un produs de conferințe HD bazat pe cloud, care profită de cei peste 20 de ani de experiență a Tencent în comunicații audiovizuale
+com.tercad.fingrom	Aplicație de contabilitate financiară independentă de platformă
+com.thebrokenrail.MCPIReborn	Distracție cu blocuri
+com.thewavewarden.Odin2	Sintetizator Odin 2
+com.thincast.client	Un client gratuit RDP (Remote Desktop Protocol) pentru Linux, macOS și Windows
+com.tic80.TIC_80	Computer fantezie pentru a crea, juca și partaja jocuri mici
+com.ticktick.TickTick	Lista ta minunată de activități și sarcini pentru a face toate lucrurile și pentru a avea viața bine organizată.
+com.todoist.Todoist	„Cea mai bună aplicație pentru lista de activități în acest moment” - The Verge
+com.toggl.TogglDesktop	Software simplu și intuitiv de urmărire a timpului
+com.tomjwatson.Emote	Selector modern de emoji pop-up
+com.tonikelope.MegaBasterd	Descărcați, încărcați sau transmiteți în flux fișiere de pe MEGA.nz
+com.tracktion.Waveform	Stație de lucru audio digitală pentru toți creatorii de muzică
+com.transmissionbt.Transmission	Descarcă și partajează fișierele prin BitTorrent
+com.tutanota.Tutanota	E-mail, calendar și contacte securizate
+com.tux4kids.tuxmath	TuxMath este un joc arcade care îi ajută pe copii să-și exerseze matematica
+com.tux4kids.tuxtype	Joc educațional de dactilografiere cu Tux
+com.tuxpusher.TuxPusher	Un joc distractiv de împingere a monedelor cu Tux!
+com.tuxpusher.TuxPusherAF	515 premii unice + 6 pinguini
+com.ugetdm.uGet	Administrator de descărcări
+com.ulduzsoft.Birdtray	Notificare de e-mail noi din bara de sistem pentru Thunderbird
+com.ultimaker.cura	Slicer pentru a vă pregăti proiectele de imprimare 3D
+com.umlet.Umlet	Instrument UML gratuit pentru diagrame UML rapide
+com.unity.UnityHub	Motor de joc în timp real
+com.uploadedlobster.peek	Înregistrator de ecran simplu, cu o interfață ușor de utilizat
+com.usebottles.bottles	Folosește programe pentru Windows
+com.usebruno.Bruno	Client API rapid și prietenos cu Git
+com.vagueentertainment.Framed	Rama foto digitală pentru arta și munca personală din NFTshowroom
+com.valvesoftware.Steam	Lansator pentru serviciul de distribuție a software-ului Steam
+com.valvesoftware.SteamLink	Transmiteți jocuri de pe alt computer cu Steam
+com.varnamproject.Varnam	Tastați cu ușurință limbi indice
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, un emulator Gameboy Advance cu compatibilitate ridicată
+com.vesc_project.VescTool	Instrumentul VESC® este înlocuitorul complet nou și 100% revizuit pentru BLDC-Tool
+com.viber.Viber	Conectăm oamenii, indiferent cine sunt sau de unde sunt
+com.vicr123.thebeat	Casetofon
+com.viewizard.AstroMenace	Spațial de derulare 3D hardcore cu posibilități de upgrade pentru nave spațiale
+com.virustotal.VirusTotalUploader	Încărcați fișiere pe virustotal.com
+com.visualstudio.code	Editarea codului. Redefinit.
+com.visualstudio.code-oss	Codul Visual Studio. Editarea codului. Redefinit.
+com.vivaldi.Vivaldi	Un browser web puternic, personal și privat
+com.vixalien.decibels	Redați fișiere audio
+com.vixalien.sticky	Fixați notele pe desktop
+com.voxdsp.aigeneratedgame	Salvează-ți prietenii din grădină de fantome!
+com.voxdsp.AstroImpact	Un joc spațial multiplayer, apără planeta de asteroizii care vin!
+com.voxdsp.Borg	Un sintetizator audio portabil (SDL) / generator de tonuri inspirat de Korg ER-1
+com.voxdsp.Borg0	Un sintetizator audio/generator de tonuri portabil (SDL) permite utilizatorilor să deseneze oscilatoare și plicuri.
+com.voxdsp.CubeShooter	shooter în stil arcade 3D
+com.voxdsp.PoryDrive	Un joc de mașini în care trebuie să-l prinzi pe Porygon!
+com.voxdsp.SeriousShooter	FPS 3D aprobat de unchiul Sam
+com.voxdsp.Snowboarder	Un joc simplu de snowboarding 3D
+com.voxdsp.Snowling	Un joc de bowling de noroc
+com.voxdsp.Spaceminer	Un joc de minerit spațial 3D
+com.voxdsp.Tuxocide	FPS 3D se declanșează un război în Antarctica...
+com.voxdsp.TuxScape	O aventură mitică ca Tux!
+com.voxdsp.TuxVsDragon	Ucide Dragonul Roșu Tux!
+com.voxdsp.VoxelPaint	Pictează în 3D folosind voxeli!
+com.voxdsp.VoxelPaintPro	Pictează în 3D utilizând voxeli umbriți solid!
+com.vscodium.codium	Editarea codului. Redefinit. Telemetrie mai puțin.
+com.vysp3r.ProtonPlus	Un simplu manager de instrumente de compatibilitate bazat pe vin și protoni
+com.vzhd1701.gridplayer	Redați videoclipuri una lângă alta
+com.w1hkj.fldigi	Comunicații cu placă de sunet radioamator
+com.w1hkj.flrig	Controlul platformei radio amatori
+com.whitemagicsoftware.kmcaster	Afișează evenimentele de la mouse și tastatură pe ecran
+com.wickeditor.WickEditor	Un instrument pentru crearea de jocuri, animații și tot ce este între ele!
+com.wings3d.WINGS	Un modelator avansat de subdiviziune
+com.wire.WireDesktop	Cea mai sigură platformă de colaborare
+com.wiz.Note	Un mediu desktop excelent PKM (gestionarea cunoștințelor personale) bazat pe utilizarea cloud
+com.wps.Office	Suita Office WPS
+com.writerduet.writersolo	O aplicație desktop extinsă pentru scrierea completă a unui scenariu sau convertirea între diferite formate de scenariu, cum ar fi versiunea finală fdx sau fântână
+com.xnview.XnConvert	Procesați cu ușurință imagini în loturi și editați metadate
+com.xnview.XnRetro	Creați imagini uimitoare cu efect vintage sau instantaneu
+com.xnview.XnSketch	Transformă-ți fotografiile în desene animate sau schițe
+com.xnview.XnViewMP	Vizualizează și organizează imagini
+com.xunlei.Thunder	Xunlei descărcare.迅雷下载。
+com.yacreader.YACReader	Încă un cititor de benzi desenate
+com.yktoo.ymuse	Front-end GTK ușor, funcțional și rapid (client) pentru Music Player Daemon
+com.ylsoftware.qmmp.Qmmp	Player multimedia bazat pe Qt
+com.yubico.yubioath	Interfață grafică pentru afișarea codurilor OATH cu o YubiKey
+com.zandronum.Zandronum	Deschid drumul în mod online Doom multiplayer newschool
+com.zerobrane.studio	IDE ușor bazat pe Lua pentru Lua
+com.zettlr.Zettlr	Un editor Markdown pentru secolul 21
+com.zhqli.wikit	Un dicționar universal
+com.zoho.Notebook	Cea mai frumoasă aplicație de luare de note pe dispozitive
+com.zquestclassic.ZQuest	Un motor de joc pentru crearea de jocuri similare cu popularul joc clasic de aventură
+cool.ldr.lfy	Software de traducere pentru gnome
+cz.cvut.edu.comparch.qtrvsim	Simulator CPU RISC-V pentru scopuri educaționale
+cz.krupkat.Xpano	Instrument automat de împletire a fotografiilor
+cz.zeropage.Formiko	Editor reStructuredText și MarkDown și previzualizare live
+de._0x539.gobby	Editați fișierele text în colaborare
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Calculator simplu pentru a adăuga ore și minute
+de.akaflieg_freiburg.enroute	O aplicație de navigație de zbor pentru piloții VFR
+de.bforartists.Bforartists	O suită 3D completă, gratuită și opensource
+de.billardgl.Billardgl	Jocuri de biliard 3D
+de.blobbyvolley.BlobbyVolley2	Jocul de volei multiplayer cap la cap.
+de.breitbandmessung.Breitbandmessung	Permite măsurarea vitezei internetului.
+de.bund.ausweisapp.ausweisapp2	Aplicație oficială de autentificare pentru cartea de identitate germană și permisul de ședere
+de.create3000.titania	Editați, vizualizați și navigați în lumi X3D și VRML
+de.fabrik19.mos-Launcher	Folosit pentru dezvoltarea cu Mobilitysuite
+de.finnik.PassVault	Gestionați-vă parolele în siguranță și ușor cu PassVault
+de.flinkebits.AvaEmailArchivar	Arhivarea și restaurarea e-mailurilor din cutiile poștale IMAP
+de.gunibert.Hackgregator	Hacker News Reader
+de.haeckerfelix.AudioSharing	Partajați sunetul computerului dvs
+de.haeckerfelix.Fragments	Un client BitTorrent
+de.haeckerfelix.Shortwave	Ascultați la stația de radio prin internet
+de.halaszovich.PMbrowser	Deschideți, răsfoiți și exportați fișierele PM dat
+de.ifw_dresden.nagstamon	Nagstamon este un monitor de stare pentru desktop.
+de.k_bo.Televido	Accesați televiziunea publică în limba germană
+de.klayout.KLayout	Vizualizator și editor pentru machete de măști
+de.lernsoftware_filius.Filius	Filius este un simulator de rețea cu scop educațional.
+de.linuxguides.RechnungsAssistent	generator de facturi german
+de.manuel_kehl.go-for-it	O listă elegantă de activități cu cronometru de productivitate încorporat
+de.marlam.gencolormap	Generator de hărți de culoare
+de.marlam.qv	Vizualizator de date 2D
+de.mediathekview.MediathekView	Acces la Mediathek TV publică germană
+de.nicokimmel.shadowcast-electron	Afișează fluxul video ShadowCast de Genki
+de.peterge.combined	Combinat! este un joc de puzzle bloc. Scopul tău este să conectezi blocuri pentru a obține blocuri mai înalte pe tablă.
+de.philippun1.Snoop	Căutați fișierele dvs
+de.philippun1.turtle	Gestionați-vă depozitele git
+de.rwth_aachen.ient.RDPlot	RDPlot este un instrument pentru trasarea curbelor de distorsiune a ratei
+de.rwth_aachen.ient.YUView	Player YUV multiplatform bazat pe QT, cu un set de instrumente analitice avansate
+de.schmidhuberj.DieBahn	Călătorește cu toate informațiile despre tren într-un singur loc
+de.schmidhuberj.Flare	Discutați cu prietenii dvs. pe Signal
+de.schmidhuberj.tubefeeder	Urmărește creatorii de videoclipuri
+de.sesu8642.feudaltactics	Joc de strategie cu nenumărate niveluri unice și provocatoare.
+de.shorsh.discord-screenaudio	Un client Discord personalizat care acceptă streaming cu audio pe Linux
+de.syping.gta5view	Deschideți și editați profilurile GTA V
+de.tumexam.cli	Client pentru TUMexam pentru a gestiona studenții și examenele.
+de.unifreiburg.ellipticcurve	Schiță curbe eliptice și permite să experimenteze cu legea lor de grup
+de.uni_heidelberg.zah.GaiaSky	Simulator de univers 3D Open Source pentru desktop și VR cu suport pentru mai mult de un miliard de obiecte
+dev.alextren.Spot	Ascultă muzică pe Spotify
+dev.ares.ares	suită de emulare console multi-sistem
+dev.atoft.Reactions	Căutare simplă GIF.
+dev.aunetx.deezer	Serviciu de streaming muzical online
+dev.bambosh.UnofficialHomestuckCollection	O colecție offline de Homestuck și lucrările conexe
+dev.boxi.Boxi	Un emulator de terminal pentru utilizare cu Toolbox
+dev.bragefuglseth.Fretboard	Căutați acorduri de chitară
+dev.bsnes.bsnes	Emulator Super Nintendo
+dev.Cogitri.Health	Urmăriți-vă obiectivele de fitness
+dev.deedles.Trayscale	Un înveliș neoficial GUI în jurul CLI Tailscale.
+dev.edfloreshz.Done	Liste de sarcini reimaginate
+dev.ensoft.ecode	Editor de cod ușor multiplatform, conceput pentru hardware-ul modern, cu accent pe receptivitate și performanță.
+dev.gbstudio.gb-studio	Un creator de jocuri retro rapid și ușor de utilizat prin glisare și plasare pentru Game Boy
+dev.geopjr.Collision	Verificați hashurile pentru fișierele dvs
+dev.geopjr.Tuba	Răsfoiți Fediverse
+dev.goats.xivlauncher	Lansator și integrare Linux perfectă pentru Final Fantasy XIV Online
+dev.hdos.HDOS	High Detail Old School Runescape Client
+dev.jamiethalacker.window_painter	Umpleți tabla cu aceeași culoare de vopsea
+dev.k8slens.OpenLens	IDE-ul Kubernetes
+dev.krtirtho.Flemozi	Advanced⚡ Emoji Picker😀 pentru Linux🐧, Windows🪟 și macOS🍎
+dev.lapce.lapce	Editor de cod rapid și puternic, scris în Rust
+dev.lasheen.qr	Un scanner/generator de coduri QR
+dev.levz.TinyImageFinder	Căutare de imagini cu previzualizare
+dev.linwood.butterfly	Aplicație de luare de note puternică, minimalistă, multiplatformă, opensource
+dev.lizardbyte.app.Sunshine	Gazdă de flux de jocuri auto-găzduită pentru Moonlight.
+dev.lukebriggs.pepys	Un jurnal de reduceri simplu
+dev.mrquantumoff.mcmodpackmanager	Gestionați-vă modpack-urile cu ușurință!
+dev.mufeed.Wordbook	Căutați definiții pentru orice termen englezesc
+dev.paullee.scraterpreter.Scrape	Scraterpreter este un interpret care rulează proiecte .sb3 (Scratch).
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc este un compilator pentru Scraterpreter.
+dev.pulsar_edit.Pulsar	Un editor de text Hyper-Hackable condus de comunitate
+dev.rzia.minesector	Joc Snazzy bazat pe Minesweeper
+dev.salaniLeo.forecast	Aplicație meteo pentru GNOME
+dev.salaniLeo.immagini	Bibliotecă și instrument de creare pentru aplicațiile AppImage
+dev.schlaubi.Tonbrett	Aplicație însoțitoare pentru Discord Soundboard Bot
+dev.serebit.Waycheck	Afișează protocoalele implementate de un compozitor Wayland
+dev.slimevr.SlimeVR	O aplicație pentru facilitarea urmăririi întregului corp în realitate virtuală
+dev.stewlab.PortaWar	Bine ați venit în războiul handheld-urilor!
+dev.storyapps.starc	Aplicație de scriere All-in-One
+dev.tchx84.Portfolio	Gestionați fișierele din mers
+dev.vencord.Vesktop	Aplicația Snappier Discord cu Vencord
+dev.vieb.Vieb	Browser Electron inspirat de Vim
+dev.zelikos.rollit	Dă cu zarul
+de.wger.flutter	Monitor de fitness/antrenament, nutriție și greutate
+de.willuhn.Jameica	Aplicație-Platformă similară cu OSGI
+de.wwwtech.ColorMate	Convertiți culorile CSS între notații
+de.zwarf.picplanner	Planifică-ți următoarele locații pentru fotografii
+dk.tangramgames.mrrescue	Joc de stingere a incendiilor în stil arcade
+edu.berkeley.BOINC	Contribuiți cu putere de calcul la proiecte de cercetare în multe domenii științifice
+edu.mit.Scratch	Creați povești, jocuri și animații, partajați cu alții din întreaga lume
+edu.princeton.physics.WSJTX	Funcționare cu semnal slab radioamator
+edu.stanford.Almond	Asistentul virtual deschis
+edu.stanford.protege	Un mediu de editare ontologie bogat în caracteristici
+engineer.atlas.Nyxt	Browserul hackerului
+es.estoes.wallpaperDownloader	Descărcați, gestionați și schimbați imaginile de fundal automat de pe Internet
+eu.ad5001.LogarithmPlotter	Software de plotter 2D la scară logaritmică pentru a realiza diagrame Bode, secvențe și funcții de distribuție
+eu.betterbird.Betterbird	Betterbird este o furcă moale a Mozilla Thunderbird. Pur și simplu mai bine.
+eu.cichy1173.tabela	Aplicație simplă care arată conținut CSV în tabel
+eu.ithz.umftpd	Accesați fișierele dvs. de pe alt dispozitiv
+eu.ngdevelopment.tsukitag	Browser pentru imagini anime, agregator, descărcare, etichetare, convertor, manager de colecții. Răsfoiți și creați-vă propriile colecții, configurați spații de lucru pentru descărcarea imaginilor cu suport pentru șabloane.
+eu.nimmerfort.blackbody	Un vizualizator de termograme
+eu.ototu.Quteqoin	Application pour lire les tribunes
+eu.planete_kraus.Tarot	Joacă un joc de Tarot împotriva inteligenței artificiale
+eu.scarpetta.PDFMixTool	O aplicație pentru a efectua operațiuni obișnuite de editare a fișierelor PDF
+eu.skribisto.skribisto	Software pentru scriere
+eu.stethewwolf.gresistor	Calculator de coduri de culoare pentru rezistoare
+eu.usdx.UltraStarDeluxe	Program de karaoke care vă evaluează performanța
+eu.vcmi.VCMI	Motor de joc open-source pentru Heroes of Might and Magic III
+fi.mooc.tmc.tmc-cli-rust	Un CLI pentru evaluatorul de atribuire de programare TestMyCode.
+fi.skyjake.Lagrange	Un client frumos Gemeni
+fm.cancel.Ripcord	Client alternativ de chat desktop pentru Slack (și Discord)
+fm.helio.Workstation	Helio Project software gratuit de compoziție muzicală
+fm.reaper.Reaper	Stație de lucru audio digitală
+fr.dwightstudio.JArmEmu	Simulator simplu ARMv7 scris în Java, destinat scopului educațional
+fr.fgrabenstaetter.DigitalAssets	Prețurile și statisticile criptomonedelor
+fr.free.brouits.qspeakers	Software de proiectare a difuzoarelor
+fr.free.Homebank	Contabilitate gratuită, ușoară, personală, pentru toată lumea
+fr.free.hxc2001.HxCFloppyEmulator	Soluție software și hardware pentru a înlocui vechea dischetă
+fr.free.qccrypt.Qccrypt	Interfață grafică bazată pe QT pentru instrumentul ccrypt
+fr.handbrake.ghb	Transcoder video
+fr.henri2h.minestrix	O rețea socială axată pe confidențialitate bazată pe Matrix
+fr.inria.corese.CoreseCommand	Deblocați puterea Web-ului semantic
+fr.inria.corese.CoreseGui	Deblocați puterea Web-ului semantic
+fr.masson_informatique.WhosWho	Creați documente PDF cu imagini ale persoanelor și numele corespunzător, numit și cine este cine, anuar sau facebook
+fr.natron.Natron	Software de compoziție video open-source
+fr.romainvigier.MetadataCleaner	Vizualizează și curăță metadatele din fișiere
+fr.romainvigier.zap	Redați sunete de pe o placă de sunet
+fr.rubet.rpn	Calculator CLI cu notație poloneză inversă
+fr.sgued.ten_forward	Controlați un gateway NAT-PMP
+fun.vnote.app.VNote	O platformă plăcută de luare a notelor
+fyi.zoey.Boop-GTK	Portul lui IvanMathy's Boop la GTK, un scratchpad scriptabil pentru dezvoltatori.
+fyi.zoey.TeX-Match	Găsiți simboluri LaTeX schițând
+games.zetsubou.AnAdventurersGallantry	Oren, cavaler în curs de dizgrație, are o a doua șansă la viață ca aventurier în acest roman vizual fantastic.
+games.zetsubou.HumanityMustPerish	Un roman vizual comic despre un android îmbrăcat ca o fată de liceu în timp ce se pregătește să distrugă umanitatea
+games.zetsubou.MaxMassacre	Un roman vizual plasat într-o lume fantastică plină de monștri
+games.zetsubou.SablesGrimoireDemo	Roman vizual de fata monstru care are loc într-o academie de magie
+games.zetsubou.WanderNoMore	Un roman vizual care spune povestea unui samurai necinstiți
+garden.turtle.Jellybean	Păstrați un număr de articole care se pot stoca
+ga.rpmtw.rpmlauncher	Un lansator Minecraft mai bun, care acceptă mai multe platforme și multe funcționalități pe care să le explorați!
+gg.guilded.Guilded	Client de mesagerie, voce și video
+gg.minion.Minion	Un manager de suplimente pentru The Elder Scrolls Online și World of Warcraft
+gg.tesseract.Tesseract	Shooter la persoana întâi cu editare cooperativă a hărților în joc
+global.worldcoin.worldcoin-core	Despărțiți de granițe, Uniți de tehnologie
+hu.irl.cameractrls	Comenzile camerei pentru Linux
+hu.kramo.Cartridges	Lansați toate jocurile dvs
+id.sideka.App	Platforma de guvernare a satului
+il.co.ravkavonline.RavKavOnline	Încărcați-vă cardul Rav-Kav acasă și călătoriți confortabil
+im.bernard.Funkcio	Desenați funcții din puncte
+im.bernard.Nostalgia	Setați imagini de fundal GNOME istorice
+im.dino.Dino	Client XMPP de discuții moderne
+im.fluffychat.Fluffychat	Discutați cu prietenii dvs
+im.gitter.Gitter	Produs de comunicare pentru comunități și echipe pe GitHub.
+im.kaidan.kaidan	Aplicație de chat ușor de utilizat și modernă pentru fiecare dispozitiv
+im.pidgin.Pidgin	Client mesagerie instantă
+im.riot.Riot	Creați, partajați, comunicați, discutați și apelați în siguranță și conectați-vă cu alte aplicații
+im.srain.Srain	Client IRC modern scris în GTK
+in.bharatkalluri.shortcircuit	Scratchpad pentru dezvoltatori
+in.bharatkalluri.splash	Setați fundaluri desktop de înaltă rezoluție din Unsplash!
+in.cinny.Cinny	Încă un client Matrix cu interfață simplă, elegantă și sigură.
+info.beyondallreason.bar	RTS-ul inspirat de anihilare totală pe care îl așteptați
+info.bibletime.BibleTime	Program de studiu biblic
+info.cemu.Cemu	Emulator Nintendo Wii U
+info.colobot.Colobot	Colonizează cu roboți
+info.febvre.Komikku	Citește-ți manga preferată
+info.mumble.Mumble	Client VoIP criptat cu latență scăzută
+info.olasagasti.revelation	Manager de parole
+info.portfolio_performance.PortfolioPerformance	Urmăriți performanța unui portofoliu de investiții
+info.puredata.Pd	Un mediu de programare grafică în timp real pentru muzică interactivă live pe computer
+info.puredata.Pd-extended	Un limbaj de programare vizuală open source pentru multimedia
+info.rttr.Return-To-The-Roots	Proiect de fan care reimplementează jocul The Settlers 2
+info.smplayer.SMPlayer	Un player media grozav
+info.urbanterror.UrbanTerror	Shooter tactic la persoana întâi cu elemente de film de acțiune
+ink.scribl.Scribl	Creați videoclipuri simple cu instrucțiuni
+in.p1x.TanksOfFreedom	Strategie indie pe rând în pixel art izometric
+in.srev.guiscrcpy	Software de oglindire a ecranului Android
+io.appflowy.AppFlowy	Open Source Notion Alternative
+io.atom.Atom	Un editor de text hackabil pentru secolul 21
+io.bassi.Amberol	Redă muzică și nimic altceva
+io.beekeeperstudio.Studio	Editorul SQL și Managerul bazei de date al viselor tale
+io.blockloader.BlockLoader	Cel mai bun manager de mod Minecraft
+io.botfather.Botfather	Cadru universal de automatizare
+io.conduktor.Conduktor	Un client desktop frumos și complet pentru Apache Kafka
+io.crow_translate.CrowTranslate	Un traducător simplu și ușor
+io.dbeaver.DBeaverCommunity	Universal Database Manager
+io.defn.Franz	Un client desktop pentru Apache Kafka
+io.edcd.EDMarketConnector	Actualizează EDDN-ul cu date din jocul tău
+io.emeric.toolblex	Un scanner și analizor pentru dispozitive Bluetooth Low Energy
+io.emeric.watchflower	O aplicație de monitorizare a plantelor pentru senzori și termometre Bluetooth Low Energy precum Xiaomi „Flower Care” sau Parrot „Flower Power”
+io.enpass.Enpass	Enpass este un manager de parole pentru a stoca și gestiona în siguranță parolele și alte acreditări.
+io.exodus.Exodus	Aplicație all-in-one pentru a securiza, gestiona și face schimb de active blockchain
+io.frama.tractor.carburetor	Aplicația Onion Routing
+io.freetubeapp.FreeTube	O aplicație YouTube cu sursă deschisă pentru confidențialitate
+io.gdevelop.ide	Creare de jocuri rapidă și ușoară
+io.gdevs.GDLauncher	GDLauncher este un lansator personalizat Minecraft simplu, dar puternic, cu un accent puternic pe experiența utilizatorului.
+io.github._0xzer0x.qurancompanion	Cititor și player offline pentru desktop pe mai multe platforme
+io.github.aandrew_me.ytdn	Descărcați videoclipuri și audio de pe sute de site-uri
+io.github.achetagames.epic_asset_manager	Gestionați-vă activele Epic
+io.github.Adda0.Stardrop	Furcătură neoficială a Stardrop cu modificări personalizate
+io.github.adrienverge.PhotoCollage	Instrument grafic pentru a face postere de colaj foto
+io.github.aerocyber.sitemarker	Un manager de marcaje open source
+io.github.aggalex.Wineglass	O interfață grafică pentru vin
+io.github.alainm23.planify	Uitați să uitați lucruri
+io.github.alexkdeveloper.gomoku	Jocul Gomoku
+io.github.alexkdeveloper.radio	Un radio simplu cu posturi de pe site-ul radio-browser.info
+io.github.alexkdeveloper.zodiac	Un program simplu pentru trasarea horoscoapelor
+io.github.am2r_community_developers.AM2RLauncher	Un front-end pentru a face față actualizărilor și modurilor AM2R
+io.github.am2r_community_developers.Atomic	Un lanț de instrumente pentru ambalarea modurilor pentru modurile AM2R.
+io.github.amit9838.weather	Aplicație meteo frumoasă și ușoară
+io.github.andreibachim.shortcut	Faceți comenzi rapide pentru aplicații
+io.github.Andrettin.Wyrmsun	Joc de strategie bazat pe istorie, mitologie și ficțiune
+io.github.anirbandey1.ChatbotClient	Înveliș electronic pentru site-ul web ChatGPT
+io.github.antimicrox.antimicrox	Program grafic folosit pentru a mapa butoanele gamepad-ului la tastatură, mouse, scripturi și macrocomenzi
+io.github.appoutlet.GameOutlet	Găsiți cele mai bune prețuri la jocuri pentru PC
+io.github.Archeb.opentrace	Un wrapper GUI multiplatform pentru NextTrace
+io.github.Arisotura.CoinKiller	Un editor de nivel pentru NSMB2
+io.github.arunsivaramanneo.GPUViewer	Un front-end pentru glxinfo, vulkaninfo, clinfo și es2_info
+io.github.Bavarder.Bavarder	Chit-chat cu un AI
+io.github.benini.scid	O aplicație de bază de date de șah
+io.github.betaflight.BetaflightConfigurator	Instrument de configurare multiplatformă pentru sistemul de control al zborului Betaflight
+io.github.bkueng.qMasterPassword	Manager de parole master apatrid
+io.github.Bollos00.LibreMines	Un joc Minesweeper, gratuit/Libre și cu sursă deschisă, bazat pe Qt, disponibil pentru sistemele GNU/Linux, FreeBSD și Windows.
+io.github.bothlab.pomidaq	Vizualizați și înregistrați videoclipuri de la UCLA Miniscopes
+io.github.bothlab.syntalos	Achiziție sincronizată de date din diverse surse și control flexibil al experimentului
+io.github.brainstormtrooper.facteur	Trimite e-mailuri bazate pe șablon către o listă de destinatari
+io.github.brunoherbelin.Vimix	Mixer video live
+io.github.btpf.alexandria	Un cititor de cărți electronice minimalist
+io.github.bytezz.IPLookup	Găsiți informații despre o adresă IP
+io.github.carterbox.Electricity_Clock	Un monitor al timpului de utilizare pentru tarifele de energie electrică
+io.github.cboxdoerfer.FSearch	O aplicație grafică de căutare a fișierelor
+io.github.celluloid_player.Celluloid	Interfață GTK+ pentru mpv
+io.github.cges30901.hmtimer	Un temporizator grafic de oprire
+io.github.chris2511.xca	Gestionarea certificatelor și a cheilor X
+io.github.ciromattia.kcc	O aplicație care vă permite să vă transformați fișierele PNG, JPG, GIF, CBZ, CBR și CB7 în cărți electronice în format EPUB sau MOBI
+io.github.cleomenezesjr.Escambo	Testați și dezvoltați API-uri
+io.github.cloose.CuteMarkEd	Qt Markdown Editor
+io.github.cmus.cmus	Consolă music player
+io.github.Cockatrice.cockatrice	Masa virtuală pentru jocuri de cărți multiplayer
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.ctlcltd.e2se	Editor de liste de canale prin satelit: Enigma2, Neutrino, Dreambox
+io.github.cudatext.CudaText-Qt5	Editor de text cu sursă deschisă și multiplatformă
+io.github.cxong.cdogs-sdl	Joc clasic de alergare și armă deasupra capului
+io.github.dagargo.Elektroid	Manager de dispozitive de mostre și MIDI
+io.github.daviddesimone.opencloudsaves	Un instrument folosit pentru sincronizarea jocurilor salvate pe dispozitivele dvs
+io.github.davidoc26.wallpaper_selector	Descărcă și aplică imagini de fundal
+io.github.dbchoco.muezzin	Aplicație pentru orele de rugăciune islamică
+io.github.dbchoco.Salawat	Aplicație pentru orele de rugăciune islamică
+io.github.ddanilov.soundscape	Aplicație desktop soundscape
+io.github.dfandrich.gpscorrelate	GPS Correlate atașează imaginilor etichete EXIF de locație GPS
+io.github.dgsasha.Remembrance	Setați mementouri pentru dvs
+io.github.dida_code.OpstaKultura	Joc, test de cunoștințe
+io.github.diegoivan.GaticTacToe	Joacă Tic-tac-toe cu prietenii tăi
+io.github.diegoivanme.flowtime	Petrece-ți timpul cu înțelepciune
+io.github.diegoivan.pdf_metadata_editor	Editați metadatele documentului PDF
+io.github.diegopvlk.Dosage	Urmăriți tratamentele dvs
+io.github.dimtpap.coppwr	GUI de control la nivel scăzut pentru PipeWire
+io.github.divverent.aaaaxy	Un joc de platforme puzzle neliniar care are loc în spații imposibile
+io.github.dlippok.photometric-viewer	Vizualizați fișiere fotometrice
+io.github.dman95.SASM	IDE simplu multiplatformă pentru limbaje de asamblare NASM, MASM, GAS și FASM
+io.github.dosbox-staging	Emulator DOS/x86 care se concentrează pe ușurința în utilizare
+io.github.Dretch.MonomerFlatpakExample	Exemplu de aplicație monomer Flatpak.
+io.github.dtsudo.ChessCompStompWithHacks	Învinge AI-ul de șah folosind hack-uri!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Fă-ți drum rapid prin 10 niveluri folosind stările de salvare!
+io.github.dubstar_04.design	CAD 2D pentru GNOME
+io.github.dummerle.rare	O GUI pentru legendara, o alternativă open source Epic Games
+io.github.dvlv.boxbuddyrs	Un manager grafic Distrobox
+io.github.dweymouth.supersonic	Un client desktop multiplatform ușor pentru serverele muzicale Subsonic și Jellyfin
+io.github.dyegoaurelio.simple-wireplumber-gui	Un simplu GUI GTK4 pentru PipeWire
+io.github.ec_.Quake3e.OpenArena	Shooter gratuit și open source la persoana întâi
+io.github.eminfedar.vaktisalah-gtk-rs	Versiunea GTK4 a lui Vakt-i Salah (Orele de rugăciune)
+io.github.endless_sky.endless_sky	Joc de explorare și luptă spațială
+io.github.erkin.ponysay	reimplementare cowsay pentru ponei
+io.github.everestapi.Olympus	Celeste Mod Manager multiplatformă
+io.github.ezQuake	un client modern QuakeWorld axat pe joc online competitiv
+io.github.f3d_app.f3d	Un vizualizator 3D rapid și minimalist
+io.github.fabiangreffrath.Doom	Port sursă Doom cu rezoluție îmbunătățită pentru eliminarea limitelor
+io.github.fabrialberio.pinapp	Creați și editați comenzi rapide pentru aplicații
+io.github.FailurePoint.RandomNumberFive	Generator de numere aleatorii pentru desktopul Linux!
+io.github.fastrizwaan.WineZGUI	Wine GUI folosind Zenity
+io.github.ferraridamiano.ConverterNOW	Un convertor de unități simplu, imediat și rapid!
+io.github.Figma_Linux.figma_linux	Instrument de design colaborativ bazat pe web
+io.github.fin_ger.OvGUCanteen	Vizualizați meniul OvGU Mensa într-o mică aplicație GTK
+io.github.fizzyizzy05.binary	Convertor de bază numerică
+io.github.fkinoshita.Telegraph	Scrieți și decodificați morse
+io.github.flattool.Warehouse	Gestionați toate lucrurile Flatpak
+io.github.Fndroid.clash_for_windows	Clientul grafic al Clash, bazat pe Electron.
+io.github.Foldex.AdwSteamGtk	Oferă Steam tratamentul Adwaita
+io.github.Foldex.r2mod	Risk of Rain 2 Mod Manager
+io.github.foldynl.QLog	Jurnal de bord radioamator
+io.github.foxxmd.multiscrobbler	Scrobbles muzica din mai multe surse către mulți clienți
+io.github.fragglet.sdl_sopwith	Clasicul biplan shoot-em-up
+io.github.fralonra.PpdEditor	Editor de păpuși de hârtie 2D
+io.github.fralonra.WgShadertoy	Un loc de joacă WGSL inspirat de Shadertoy
+io.github.freedoom.FreeDM	Joc Deathmatch bazat pe motorul Doom
+io.github.freedoom.Phase1	Un shooter la persoana întâi bazat pe motorul Doom
+io.github.freedoom.Phase2	Un shooter la persoana întâi bazat pe motorul Doom
+io.github.fsobolev.TimeSwitch	Setați o sarcină să ruleze după un temporizator
+io.github.gamingdoom.Datcord	Un client Discord cu sursă deschisă care utilizează Firefox
+io.github.garglk.Gargoyle	Un jucător interactiv de ficțiune
+io.github.gen2brain.cbconvert	Un convertor de benzi desenate
+io.github.gerryferdinandus.bittorrent-tracker-editor	Adăugați sau eliminați trackerul din fișierele torrent.
+io.github.giantpinkrobots.bootqt	Creați unități de pornire
+io.github.giantpinkrobots.flatsweep	Detergentul rezidual Flatpak
+io.github.giantpinkrobots.varia	Descărcați fișiere rapid și eficient
+io.github.gillesdegottex.FMIT	Free Musical Instrument Tuner (FMIT), un instrument pentru acordarea instrumentelor muzicale
+io.github.glitterware.Passy	Manager de parole offline cu sincronizare multiplatformă
+io.github.GoldenGnu.jEveAssets	jEveAssets este un manager de active în afara jocului pentru Eve-Online
+io.github.gopher64.gopher64	Emulator Nintendo 64
+io.github.gssh_linux.gssh	O aplicație Python care vă permite să vă conectați la servere ssh dintr-o interfață (cu adevărat) simplă
+io.github.gtkwave.GTKWave	Vizualizator electronic de forme de undă pentru vizualizarea rezultatelor simulării
+io.github.guillaumechereau.Goxel	Editor voxel 3D Open Source
+io.github.hakandundar34coding.mini-system-monitor	Monitorizarea CPU, RAM, disc, utilizare rețelei
+io.github.hakandundar34coding.system-monitoring-center	Monitor de sistem cu funcții multiple
+io.github.hakuneko.HakuNeko	Un program de descărcare multiplatformă pentru manga și anime de pe diverse site-uri web
+io.github.helpseeker.Gyre	Un program de descărcare pentru videoclipuri de la Coub
+io.github.hermitdemschoenenleben.linien	Blocare spectroscopie
+io.github.Hexchat	Client IRC
+io.github.hmlendea.geforcenow-electron	Aplicație neoficială GeForce NOW scrisă în Electron
+io.github.hrkfdn.ncspot	Clientul Spotify ncurses multi-platformă
+io.github.huderlem.porymap	Un editor de hărți pentru proiectele de decompilare Pokémon generația 3
+io.github.hurricangame.hurrican	Joc gratuit de săriți și trageți creat de Poke53280
+io.github.hvdwofl.jExifToolGUI	Interfață simplă pentru ExifTool
+io.github.hydrusnetwork.hydrus	Organizați media pe desktop
+io.github.hypengw.Qcm	Client Qt pentru muzica cloud netease
+io.github.Icalingua.Icalingua	Un client Linux pentru QQ și multe altele
+io.github.idevecore.CurrencyConverter	Un simplu convertor valutar care utilizează date bazate pe Google
+io.github.igaldino.CoyoteTM	Gestionați sarcinile ca un coiot
+io.github.igorlogius.scr2ppm	Cea mai mică captură de ecran X11 aka. utilitarul de captură de ecran
+io.github.ihhub.Fheroes2	fheroes2 este o recreare a motorului de joc Heroes of Might and Magic II
+io.github.ilius.pyglossary	Un instrument pentru convertirea fișierelor de dicționar și glosare.
+io.github.ImEditor	Editor de imagini simplu și versatil
+io.github.iSlammedMyKindle.godotGem	Controller client pentru a emula un controler xbox360 pentru Windows
+io.github.ja2_stracciatella.JA2-Stracciatella	Un timp de rulare îmbunătățit, multiplatformă, stabil pentru Jagged Alliance 2
+io.github.jacalz.rymdport	Transferuri rapide de fișiere criptate
+io.github.JaGoLi.ytdl_gui	O interfață grafică multiplatformă simplă de utilizat pentru youtube-dl.
+io.github.JakubMelka.Pdf4qt	Editor PDF cu sursă deschisă
+io.github.janbar.noson	Controler pentru SONOS
+io.github.java_decompiler.jd-gui	Un utilitar grafic autonom care afișează surse Java din fișierele CLASS
+io.github.jean28518.Linux-Assistant	Un asistent linux zilnic cu căutare, rutine și verificări puternice integrate
+io.github.jeffshee.Hidamari	Imagine de fundal video pentru Linux
+io.github.jhaygood86.mauborgne	Generator de cod OTP 2FA
+io.github.jliljebl.Flowblade	Editor video - rapid, precis, stabil
+io.github.jonmagon.kdiskmark	Instrument de referință pentru disc
+io.github.jorchube.monitorets	Priviți întotdeauna dintr-o privire utilizarea resurselor sistemului
+io.github.jordanl2.ModularCalculator	Un calculator puternic, scriptabil și modular, destinat activităților științifice, de inginerie sau de calcul.
+io.github.jotd666.gods-deluxe	Un remake al jocului cu platforme
+io.github.jtdx_project.JTDX	jtdx (WSJT-X bifurcat pentru comunicații radio amatori)
+io.github.julian_hochhaus.LG4X_V2	Pachet Python pentru analiza potrivirii curbei XPS
+io.github.kaii_lb.hgui	O aplicație creată pentru o conversie ușoară și offline între datele Hijri și gregoriene (și invers)!
+io.github.kalaksi.Lightkeeper	Un instrument de gestionare a serverului autonom, personalizabil
+io.github.kaschpal.timetable	Un calendar/planificator pentru profesori și poate studenți
+io.github.kevinsmia1939.PySimpleCV	Graficul voltamograma ciclică și ciclul bateriei
+io.github.KikoPlayProject.KikoPlay	NU NUMAI un jucător Danmu cu funcții complete
+io.github.koromelodev.mindmate	Aplicație neoficială pentru ChatGPT
+io.github.kotatogram	Kotatogram Desktop messenger
+io.github.ktgw0316.LightZone	Procesor de imagine RAW pentru cameră
+io.github.kukuruzka165.materialgram	Aplicație neoficială de mesagerie Telegram Desktop
+io.github.labsquare.CutePeaks	vizualizator de urme Sanger autonom
+io.github.lainsce.Colorway	Generați perechi de culori
+io.github.lainsce.Countdown	Urmăriți evenimentele până când se întâmplă sau de când s-au întâmplat
+io.github.lainsce.DotMatrix	Locul de joacă al creativității de linii și curbe
+io.github.lainsce.Emulsion	Aprovizionați cu culori
+io.github.lainsce.Khronos	Înregistrați timpul necesar pentru îndeplinirea sarcinilor
+io.github.lainsce.Notejot	Notează-ți ideile
+io.github.lainsce.Quilter	Concentrează-te pe scrisul tău
+io.github.lemmygtk.lemoa	Client Gtk pentru Lemmy
+io.github.leolost2605.gradebook	Urmăriți notele dvs
+io.github.leonardschardijn.Chirurgien	Înțelegeți și manipulați formatele de fișiere binare
+io.github.lethal_guitar.RigelEngine	O reimplementare modernă a jocului clasic DOS Duke Nukem II
+io.github.letslearn_app.letslearn	O aplicație de note opensource cu aspect ordonat
+io.github.libvibrant.vibrantLinux	Utilitar de sistem pentru ajustarea saturației culorii ecranelor X11
+io.github.limads.Queries	Un banc de lucru pentru a interacționa cu bazele de date relaționale.
+io.github.listen1.Listen1	Unul pentru toată muzica gratuită în China
+io.github.loot.loot	Utilitar de modificare pentru Starfield și unele jocuri Elder Scrolls și Fallout
+io.github.lruzicka.Needly	un editor de ac openQA scris în Python
+io.github.ltiber.Pwall	răsfoiește-ți fotografiile/videoclipurile
+io.github.lunarequest.NightPDF	Cititor PDF în modul întunecat
+io.github.lxndr.gswatcher	Un simplu monitor de server de joc și un instrument administrativ.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA este un port sursă GPL Doom 3 BFG
+io.github.magnush.mhWaveEdit	mhWaveEdit este un program grafic pentru editarea fișierelor de sunet
+io.github.mahmoudbahaa.outlook_for_linux	Client Microsoft Outlook neoficial pentru Linux folosind Electron
+io.github.mak448a.QTCord	Un client Discord
+io.github.MakovWait.Godots	Manager de versiune a motorului de joc Godot
+io.github.mandruis7.xbox-cloud-gaming-electron	Client Xbox Cloud Electron cu sursă deschisă
+io.github.manisandro.gImageReader	O interfață grafică (gtk) pentru tesseract-ocr
+io.github.markummitchell.Engauge_Digitizer	convertiți în mod interactiv un grafic bitmap sau o hartă în numere
+io.github.martinrotter.rssguard	Cititor de știri simplu, dar puternic
+io.github.martinrotter.rssguardlite	Cititor de știri simplu, dar puternic (fără browser web încorporat)
+io.github.martinrotter.textosaurus	Editor simplu de text multiplatform bazat pe Qt și QScintilla
+io.github.maurycyliebner.enve	animație 2D
+io.github.mgerhardy.vengi.voxedit	editor voxel
+io.github.mideb.digitales_register	Inoffizieller Client für das Digitale Register
+io.github.mightycreak.Diffuse	Instrument grafic pentru îmbinarea și compararea fișierelor text
+io.github.mihnea_radulescu.imagefanreloaded	Vizualizator de imagini ușor bazat pe file, care acceptă procesarea multi-core
+io.github.mimbrero.WhatsAppDesktop	Client WhatsApp Web Desktop neoficial.
+io.github.mki1967.mki3dgame	Un simplu joc OpenGL de căutare a jetoanelor în etape 3D
+io.github.mmarco94.tambourine	Un simplu player de muzică pentru biblioteca dvs
+io.github.mmstick.FontFinder	Browser de fonturi
+io.github.mpobaschnig.Vaults	Păstrați fișierele importante în siguranță
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 API CBETA。[EN] Un cititor de text budist care folosește API-uri CBETA.
+io.github.mrvladus.List	Gestionați-vă sarcinile
+io.github.muse_sequencer.Muse	Stație de lucru audio digitală
+io.github.myst6re.makoureactor	Un editor de teren pentru Final Fantasy VII
+io.github.naikari.Naikari	Joc de mister spațial 2-D cu formă liberă
+io.github.najepaliya.kleaner	Un instrument de curățare a metadatelor de imagine
+io.github.narunlifescience.AlphaPlot	AlphaPlot este o aplicație gratuită pentru analiza și vizualizarea datelor științifice
+io.github.nate_xyz.Chromatic	Reglați-vă instrumentele
+io.github.nate_xyz.Conjure	Transformă magic imaginile
+io.github.nate_xyz.Paleta	Generați palete de culori cu ușurință
+io.github.nate_xyz.Resonance	Armonizează-ți experiența de ascultare
+io.github.nearinfinitybrowser.nearinfinity	Un browser și editor de resurse Infinity Engine
+io.github.neil_morrison44.pocket-sync	O GUI pentru a face lucruri cu Analogue Pocket
+io.github.NhekoReborn.Nheko	Client desktop pentru protocolul Matrix
+io.github.NickKarpowicz.LightwaveExplorer	Un solutor eficient, ușor de utilizat pentru interacțiunea neliniară lumină-materie
+io.github.nokse22.asciidraw	Desenați folosind caractere ASCII
+io.github.nokse22.inspector	Vizualizați informații despre sistemul dvs
+io.github.nokse22.minitext	Scratchpad efemer
+io.github.nokse22.teleprompter	Afișează textul derulant pe ecran
+io.github.nokse22.trivia-quiz	Răspunde la întrebări nesfârșite
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	Un client D-Star pentru PC
+io.github.noxworld_dev.OpenNox	OpenNox este o implementare modernă a unui motor de joc Nox
+io.github.nroduit.Weasis	Un vizualizator DICOM medical gratuit/libre/deschis
+io.github.nuttyartist.notes	Aplicație pentru luarea de note. Notează-ți gândurile
+io.github.obiwankennedy.HotShots	Software de captură de ecran puternic și simplu de utilizat
+io.github.onionware_github.onionmedia	Free Media Downloader and Converter - Cross Platform
+io.github.openhv.OpenHV	Joc de strategie în timp real Pixelart Sci-Fi din anii 90 cu sursă deschisă
+io.github.OpenToonz	animație 2D
+io.github.orontee.Argos	Front-end ușor pentru serverul de muzică Mopidy
+io.github.paledega.alpine-rootfs	Subsistemul alpin linux
+io.github.parnassius.SysDVR-Qt	Transmiteți în flux jocuri Switch pe computer prin USB sau rețea
+io.github.pastthepixels.InfiniteShooter	Un shooter simplist realizat cu motorul Godot.
+io.github.paulwedeck.settlers-remake	Remake of The Settlers III pentru Windows, Linux, Mac și Android
+io.github.pd_l2ork.Pd_L2Ork	Un limbaj de programare vizuală open source pentru multimedia, bazat pe Pure Data
+io.github.peazip.PeaZip	Utilitar gratuit de arhivare a fișierelor, deschideți, extrageți arhive RAR TAR ZIP
+io.github.petitlapin.Li-ri	Joc pentru copii, conduceți un motor din lemn de jucărie
+io.github.phastmike.tags	Jurnalele de culoare bazate pe etichete
+io.github.philipk.boilr	Adăugați jocuri non-steam în biblioteca dvs. Steam
+io.github.Pithos	Client radio Pandora
+io.github.polypixeldev.Polypass	Un manager de parole simplu, sigur și ușor de utilizat
+io.github.pragha_music_player.pragha	Gestionați-vă și ascultați-vă muzica
+io.github.prateekmedia.appimagepool	Un client AppImageHub simplu și modern.
+io.github.prateekmedia.pstube	Client Youtube realizat folosind flutter
+io.github.pr_starfighter.starfighter	Joc împușcă-i în spațiu.
+io.github.punesemu.puNES	Emulator Nintendo Entertaiment System
+io.github.purplehorrorrus.Meridius	Music Player pentru vk.com
+io.github.pwr_solaar.solaar	Manager Linux pentru tastaturi, mouse-uri și trackpad-uri Logitech
+io.github.pyfa_org.Pyfa	Asistent de montare Python pentru EVE: Online
+io.github.Qalculate	Calculator puternic și ușor de utilizat
+io.github.Qalculate.qalculate-qt	Calculator puternic și ușor de utilizat
+io.github.qier222.YesPlayMusic	Un player Netease CloudMusic de la terți cu aspect ridicat
+io.github.qnapi	Un software pentru descărcarea și potrivirea automată a subtitrarilor la filme
+io.github.qtox.qTox	Client puternic de chat Tox care urmează liniile directoare de proiectare Tox.
+io.github.quodlibet.ExFalso	Editare etichete fișiere audio
+io.github.quodlibet.QuodLibet	Ascultaţi, editaţi sau cautaţi în propria colecţie audio
+io.github.qwersyk.Newelle	Chat bot care vă controlează computerul
+io.github.rafaelfassi.QLogExplorer	Explorator rapid de jurnal cu instrumente avansate
+io.github.randovania.Randovania	O platformă de randomizare pentru o multitudine de jocuri
+io.github.Rangi42.polished-map	Editați hărțile și seturile de tile pokecrystal
+io.github.Rangi42.polished-map-plusplus	Editați hărțile și seturile de tile pokecrystal
+io.github.Rangi42.tilemap-studio	Un editor de tilemap pentru proiecte Game Boy, Color, Advance, DS și SNES
+io.github.realmazharhussain.GdmSettings	Personalizați-vă ecranul de conectare
+io.github.retgal.Dayon	Asistență de la distanță simplă!
+io.github.retux_game.retux	Platformă de acțiune cu mascota Linux, Tux
+io.github.rinigus.OSMScoutServer	Server de hărți care oferă plăci, geocoder și router
+io.github.rinigus.PureMaps	Hărți și navigație
+io.github.ripose_jp.Memento	Un player video bazat pe mpv pentru studiul japoneză
+io.github.Rirusha.Cassette	Client neoficial Yandex.Music
+io.github.RobertBeckebans.RBDoom3BFG-GL	Un efort de modernizare a DOOM-3-BFG
+io.github.rocket.editor	Editor de rachete
+io.github.RodZill4.Material-Maker	Generare procedurală de texturi și instrument de vopsire a plaselor
+io.github.sameboy.SameBoy	Emulator Game Boy și Game Boy Color
+io.github.santiagocezar.maniatic-launcher	Un lansator pentru decompilarea Retro Engine (v5)
+io.github.seadve.Breathing	Relaxează-te și meditează
+io.github.seadve.Kooha	Înregistrați-vă elegant ecranul
+io.github.seadve.Mousai	Identifică melodiile în secunde
+io.github.searchandrescue2.sar2	Simulator de elicopter de salvare
+io.github.Sebicodes99.Prt	O aplicație Python Socket pentru a permite unui prieten să execute o comandă pe sistemul dvs. fără a deschide porturi sau a utiliza un server ssh, toate, cu o interfață grafică simplă
+io.github.sharkwouter.Minigalaxy	Un simplu client GOG pentru Linux
+io.github.sharkwouter.oceanpop	Un joc de puzzle relaxant de tip meci 3, cu o întorsătură
+io.github.shiftey.Desktop	Colaborare simplă de pe desktop
+io.github.shiiion.primehack	Furcă Dolphin Emu pentru diverse moduri Metroid Prime
+io.github.sigmasd.IRust	Rugina Repl
+io.github.sigmasd.stimulator	Țineți desktopul treaz
+io.github.signus_game.signus	Joc de strategie pe rând
+io.github.sil_car.SqueezeVid	Normalizați videoclipurile la o calitate minimă, compatibilă cu proiecția.
+io.github.simple64.simple64	Emulator Nintendo 64
+io.github.sithlord48.blackchocobo	Un editor de salvare pentru Final Fantasy VII
+io.github.slgobinath.SafeEyes	Un instrument gratuit și cu sursă deschisă pentru utilizatorii Linux pentru a reduce și a preveni vătămările de tulpină repetitivă (RSI).
+io.github.Snaggly.PS2_Pnacher	Aplicarea Pnaches-urilor direct pe ISO-urile PS2.
+io.github.snesrev.Zelda3	Zelda3 este o clonă de inginerie inversă a lui Zelda - A Link to the Past
+io.github.Soundux	O placă de sunet multiplatformă
+io.github.spacingbat3.webcord	Un client Discord și Fosscord bazat pe web realizat cu Electron
+io.github.srb2.rphys	Mod de revizuire a gameplay-ului pentru Sonic Robo Blast 2
+io.github.stella_emu.Stella	Emulator Atari 2600 VCS multiplatform
+io.github.streetpea.Chiaki4deck	Client gratuit și Open Source pentru PlayStation Remote Play modificat pentru Steam Deck
+io.github.Sunderland93.sway-input-config	Configurator dispozitiv de intrare pentru Sway
+io.github.swanux.hbud	Player audio/video simplu și aplicație karaoke scrisă în Python și GTK4
+io.github.tcobbs.LDView	Vizualizator model LDraw
+io.github.tdesktop_x64.TDesktop	Versiunea desktop neoficială a aplicației de mesagerie Telegram
+io.github.technic.e2designer	Editor de skin pentru enigma2 scris cu Qt5
+io.github.tfuxu.Halftone	Oferă imaginilor tale acel stil de pixel art
+io.github.thaunknown.miru	Miru - software de streaming Bittorrent pentru pisici
+io.github.TheThirdOne.rars	Asamblator RISC-V și simulator de rulare
+io.github.thetumultuousunicornofdarkness.cpu-x	Adună informații despre CPU, placa de bază și multe altele
+io.github.TheWisker.Cavasik	Vizualizator audio bazat pe CAVA
+io.github.thiefmd.themegenerator	Generați stiluri cu stil.
+io.github.tlcfem.suanPan	🧮 Un cadru de analiză cu sursă deschisă, paralelă și eterogenă cu elemente finite
+io.github.tntwise.REAL-Video-Enhancer	Instrument de îmbunătățire video gratuit și cu sursă deschisă
+io.github.torrent_file_editor.Torrent-file-editor	Editați și creați fișiere .torrent
+io.github.trackballs.Trackballs	Dirijați o minge de marmură printr-un labirint
+io.github.tralph3.Steam_Metadata_Editor	O interfață grafică ușor de utilizat care editează metadatele aplicațiilor dvs. Steam
+io.github.TransmissionRemoteGtk	Gestionați de la distanță clientul Transmission BitTorrent
+io.github.trevorsandy.LPub3D	LPub3D - Un editor de instrucțiuni de construcție LDraw
+io.github.trigg.discover_overlay	O suprapunere grafică pentru chatul vocal Discord.
+io.github.troyeguo.koodo-reader	Un cititor de cărți electronice multiplatformă
+io.github.trytonvanmeer.DungeonJournal	Un manager de caractere 5e
+io.github.TTimo.GtkRadiant	Editor de nivel pentru jocuri bazate pe ID Tech, inclusiv seria Quake
+io.github.twanvl.MagicSetEditor2	Un program folosit pentru a face carduri personalizate
+io.github.unicornyrainbow.secrets	Generați cu ușurință parole în funcție de nevoile dvs
+io.github.unknownskl.greenlight	Greenlight este un client open-source pentru streaming acasă xCloud și Xbox
+io.github.unrud.RecentFilter	Excludeți fișierele și folderele din fișierele utilizate recent
+io.github.vemonet.EmojiMart	Un selector modern de emoji pop-up pentru desktop, bazat pe componenta web Emoji Mart.
+io.github.veusz.Veusz	Pachet de complot științific
+io.github.vikdevelop.SaveDesktop	Salvați configurația curentă a mediului desktop
+io.github.vinser.burnfix	Încercați să remediați reținerea imaginilor de pe ecran și să ardeți, căutați defecte ale ecranului
+io.github.vinser.pixyne	Examinați rapid dosarele cu fotografii, ștergeți în siguranță fotografiile proaste și similare, fixați datele de fotografiere
+io.github.voxelcubes.deepqt	Valorificați puterea API-ului DeepL cu această interfață prietenoasă cu utilizatorul
+io.github.voxelcubes.panelcleaner	Un instrument alimentat de AI pentru a curăța panourile manga
+io.github.webcamoid.Webcamoid	Faceți fotografii și înregistrați videoclipuri cu camera web
+io.github.weclaw1.ScoreTracker	Aplicație pentru urmărirea scorurilor jucătorilor în jocurile de cărți și de societate
+io.github.wereturtle.ghostwriter	Editor de text fără distracție pentru Markdown
+io.github.wh201906.serialtest	Un instrument de testare multiplatformă pentru portul serial, Bluetooth, TCP și UDP
+io.github.wojciech_graj.OrbVis	Un vizualizator de orbită prin satelit în timp real
+io.github.wxmaxima_developers.wxMaxima	O interfață grafică cu utilizatorul pentru Maxima, un puternic sistem de algebră computerizată
+io.github.xaos_project.XaoS	Zoomer/morpher fractal interactiv rapid în timp real
+io.github.xiaoyifang.goldendict_ng	Program avansat de căutare a dicționarului
+io.github.xolatgames.marknpaul	Deveniți Vrăjitorul!
+io.github.xverizex.nem_desktop	Discutați cu prietenii.
+io.github.xverizex.RetroSpriteEditor	Editor de pixeli pentru console retro
+io.github.xyproto.zsnes	Emulator Super Nintendo
+io.github.yairm210.unciv	Joc de strategie pe rând
+io.github.yamanqd.antware	Un joc FPS.
+io.github.Youda008.DoomRunner	Lansator grafic orientat spre presetare pentru ZDoom și derivate
+io.github.zaps166.QMPlay2	Player video și audio
+io.github.zhrexl.thisweekinmylife	Acesta este un planificator în stil kaban, în care utilizatorul poate introduce carduri cu sarcini.
+io.github.zyedidia.micro	Un editor de text modern și intuitiv bazat pe terminal
+io.gitlab.adhami3310.Converter	Convertiți și manipulați imagini
+io.gitlab.adhami3310.Footage	Lustruiește-ți videoclipurile
+io.gitlab.adhami3310.Impression	Creați unități de pornire
+io.gitlab.azymohliad.WatchMate	Gestionați-vă PineTime
+io.gitlab.ballz.Ballz	Joc platformă/puzzle în care controlezi o minge care rulează
+io.gitlab.celleron56.libretile	un motor de joc cu țiglă opensource
+io.gitlab.coolreader_ng.crqt-ng	Cititor de cărți electronice cu sursă deschisă multiplatformă
+io.gitlab.cyberphantom52.sudoku_solver	Un simplu Sudoku Sovler
+io.gitlab.daikhan.stable	Redați videoclipuri/muzică cu stil
+io.gitlab.dev_nis.one-click-backup	Program simplu de copiere a folderelor într-o locație externă prin copierea acestora
+io.gitlab.floodlight.Presenter	Program gratuit de prezentare și versuri cu sursă deschisă
+io.gitlab.Goodvibes	Redați radiouri web
+io.gitlab.gregorni.Calligraphy	Transformă-ți textul în bannere ASCII
+io.gitlab.gregorni.Letterpress	Creați artă ASCII frumoasă
+io.gitlab.gwendalj.package-transporter	Transferați aplicațiile dvs. peste instalații
+io.gitlab.idevecore.Pomodoro	Pomodoro este un cronometru axat pe productivitate
+io.gitlab.jazztickets.choria	În sfârșit, un MMORPG care se referă la șlefuire și a face treburi.
+io.gitlab.jazztickets.emptyclip	Empty Clip este un RPG de acțiune de tip shooter de sus în jos.
+io.gitlab.jazztickets.irrlamb	Joc de fizică 3D în care controlezi o minge albastră de energie în încercarea de a atinge toate globurile strălucitoare
+io.gitlab.jazztickets.openflap	Un joc despre săritul mingilor prin goluri ale țevilor fără sfârșit
+io.gitlab.leesonwai.Sums	Calculați cu notație postfixă
+io.gitlab.leesonwai.Tactics	Construiește-ți formația de fotbal
+io.gitlab.librewolf-community	Browser Web LibreWolf
+io.gitlab.news_flash.NewsFlash	Țineți pasul cu fluxurile dvs
+io.gitlab.o20.word	Clona MS Word 2019 cu sursă deschisă... pentru Linux
+io.gitlab.osslugaru.Lugaru	Joc de lupte cu iepuri ninja la persoana a treia
+io.gitlab.persiangolf.voicegen	Convertiți cu ușurință textul în vorbire
+io.gitlab.stone_kingdoms.StoneKingdoms	Remake pentru fani Stronghold cu sursă deschisă
+io.gitlab.theevilskeleton.Upscaler	Îmbunătățiți și îmbunătățiți imaginile
+io.gitlab.Turtlico	Instrument de programare pentru învățare
+io.gitlab.zehkira.Monophony	Redați în flux muzică de pe YouTube Music
+io.howl.Editor	Editor ușor cu interfață minimalistă centrată pe tastatură
+io.itch.azagaya.Laigter	Instrument pentru a genera hărți normale, speculare, de ocluzie și paralaxă pentru texturi 2D
+io.itch.doctorm64.skippybot	Skippy se află într-o căutare epică pentru a-și dezvălui adevăratul destin.
+io.itch.domestique_baston.domestique_baston	Un joc de luptă 1 împotriva 1
+io.itch.drwhut.TabletopClub	Joacă jocuri de masă într-un sandbox 3D bazat pe fizică
+io.itch.itch	Instalați, actualizați și jucați jocuri indie
+io.itch.keyikedalube_ndang.Type-Off	Un scurt joc de viteză de tastare de 6 minute
+io.itch.nordup.TheGates	Călătorește în diferite lumi create de dezvoltatori din întreaga lume!
+io.jamulus.Jamulus	Jamulus. Software-ul Internet Jam Session
+io.jor.bugdom	Salvează-l pe Bugdom de furnicile de foc malefice ale lui Thorax
+io.jor.bugdom2	Găsește-ți Bully Bee și ia-ți rucsacul înapoi!
+io.jor.mightymike	Salvare cu acțiune de mare putere într-un magazin de jucării înnebunit!
+io.jor.nanosaur	Trimite ouă de dinozaur în viitor înainte ca un meteor să lovească Pământul!
+io.jor.nanosaur2	Zboară un pterodactil care este încărcat cu arme de înaltă tehnologie
+io.jor.ottomatic	Salvați Pământul din ghearele creierului uriaș de pe Planeta X
+io.kapsa.drive	Stocare criptată Zero Knowledge E2E compatibilă cu orice furnizor S3
+io.kinvolk.Headlamp	O interfață web ușor de utilizat și extensibilă pentru Kubernetes
+io.kopia.KopiaUI	Soluție de rezervă
+io.liri.Calculator	Efectuați calcule aritmetice sau științifice
+io.liri.Text	Editați fișierele text
+io.lmms.LMMS	O aplicație de producție muzicală
+io.mango3d.LycheeSlicer	Un dispozitiv de tăiat puternic și versatil pentru imprimante 3D cu rășină și filament
+io.mgba.mGBA	Emulator Nintendo Game Boy Advance
+io.missioncenter.MissionCenter	Monitorizarea utilizării resurselor de sistem
+io.mpv.Mpv	Un player media gratuit, open source și multi-platformă
+io.mrarm.mcpelauncher	Descărcați și jucați Minecraft Bedrock Edition pe GNU/Linux
+io.naox.InnerBreeze	O aplicație de meditație pentru a vă ghida și urmări practica de respirație Wim Hof
+io.neovim.nvim	Vim-furk axat pe extensibilitate și utilizare
+io.openrct2.OpenRCT2	Un joc video de simulare a construcției și managementului care simulează managementul parcurilor de distracție
+io.osdn.simplesok	Joc simplu sokoban
+io.otsaloma.gaupol	Editor pentru subtitrări pe bază de text
+io.otsaloma.nfoview	Vizualizare fișiere NFO
+io.photoflare.photoflare	Simplu, dar puternic Editor de imagini multiplatform
+io.podman_desktop.PodmanDesktop	Gestionați Podman și alte motoare de containere dintr-o singură interfață și tavă
+io.poez.Poezio	Poezio este un client XMPP gratuit pentru consolă
+io.posidon.Paper	Luați notițe în Markdown
+io.qt.Designer	Proiectați GUI pentru aplicații Qt
+io.qt.Linguist	Adăugați traduceri în aplicațiile Qt
+io.qt.qdbusviewer	Depanați aplicațiile D-Bus
+io.qt.QtCreator	Oferă un mediu de dezvoltare integrat complet (IDE) multiplatformă pentru dezvoltatorii de aplicații pentru a crea aplicații pentru mai multe platforme și dispozitive
+io.qt.qtwebengine.BaseApp	Platformă partajată pentru aplicațiile care utilizează Qt WebEngine
+io.sourceforge.chart_geany.chart-geany	Chart Geany este o soluție software gratuită încrucișată pentru analiza tehnică a pieței, diagrame și un manager de portofoliu
+io.sourceforge.clonekeenplus	Un Engine folosit pentru a juca seria de jocuri Commander Keen și Cosmos the Cosmic Adventure
+io.sourceforge.pentobi	Adversar pe computer pentru jocul de masă Blokus
+io.sourceforge.pipewalker.PipeWalker	Joc de puzzle de conexiune
+io.sourceforge.Pixelitor	Pixelitor este un editor de imagini open source
+io.sourceforge.pysolfc.PySolFC	Compilare de jocuri Solitaire
+io.sourceforge.qoobar.Qoobar	Qoobar este un editor simplu de etichete pentru muzică clasică
+io.sourceforge.trigger_rally.TriggerRally	Joc rapid de curse de miting pentru un singur jucător
+io.sourceforge.YSoccer	Joc de fotbal în stil retro
+io.sourceforge.zaz	Joc de puzzle în care jucătorul trebuie să aranjeze bilele în tripleți.
+io.stoplight.studio	Stoplight Studio. Design API fără efort.
+io.thp.numptyphysics	Un joc de puzzle de fizică bazat pe desen cu creioane
+io.trustable.stpadocumentationtool	Un instrument de analiză teoretică a proceselor de sistem - care facilitează STPA și automatizează documentarea
+io.typora.Typora	O aplicație minimă de citire și scriere Markdown
+io.unobserved.espansoGUI	Interfață GUI pentru espanso
+io.vikunja.Vikunja	Aplicația open-source pentru activități
+io.wasabiwallet.WasabiWallet	Portofel Bitcoin cu sursă deschisă, fără custodie, axat pe confidențialitate pentru desktop, care implementează CoinJoin fără încredere.
+io.wavebox.Wavebox	Următoarea generație de comunicare web-desktop
+io.webtorrent.WebTorrent	Aplicație torrent de streaming
+ir.imansalmani.IPlan	Planul tău pentru îmbunătățirea vieții personale și a fluxului de lucru
+it.cuteworks.pacmanlogviewer	Inspectați jurnalul Pacman
+it.fabiodistasio.AntaresSQL	Un client SQL modern, rapid și bazat pe productivitate, cu accent pe UX
+it.mijorus.collector	Trageți și plasați la nivelul următor
+it.mijorus.gearlever	Gestionați AppImages
+it.mijorus.smile	Un selector de emoji
+it.mijorus.whisper	Ascultă-ți microfonul
+jp.yvt.OpenSpades	shooter voxel open source
+la.ogri.strongbox	Manager de suplimente pentru World of Warcraft
+life.bolls.bolls	O aplicație web pentru citirea Bibliei cu accent total doar pe Cuvântul lui Dumnezeu. Sola scriptura
+lv.martinsz.millionaire	Răspunde la toate întrebările pentru a câștiga 1 milion de dolari.
+md.obsidian.Obsidian	Baza de cunoștințe bazată pe Markdown
+me.acristoffers.Lachesis	supraveghetor Moirai
+me.ahola.aphototoollibre	Editor foto pentru Linux
+me.broken_by.PdfMetadataEditor	Editați metadatele PDF
+media.emby.EmbyServer	Soluția media deschisă
+media.emby.EmbyTheater	Soluția media deschisă
+me.dusansimic.DynamicWallpaper	Creator dinamic de imagini de fundal pentru Gnome 42
+me.hergert.Schemes	Scheme de stil de proiectare pentru GtkSourceView
+me.hyliu.fluentreader	Cititor RSS de desktop modern
+me.iepure.devtoolbox	Instrumente de dezvoltare la îndemână
+me.iepure.Ticketbooth	Urmăriți emisiunile preferate
+me.kozec.syncthingtk	GUI și pictograma zonei de notificare pentru Sincronizare
+me.leucoso.Grock	Afișează hărți geologice ale Regatului Unit.
+me.mitya57.ReText	Editor de text simplu pentru Markdown și reStructuredText
+me.njean.shootingpactris	Un joc retro coop cu joc Tetris, Pacman și shmup.
+me.orszulak.keyring	Pur și simplu frumos sau frumos simplu generator OTP.
+me.ppvan.psequel	Rulați interogarea SQL
+me.sanchezrodriguez.passes	Gestionați-vă permisele digitale
+me.simakis.dropboxignore	Totul este despre fișierul .dropboxignore lipsă.
+me.timschneeberger.GalaxyBudsClient	Manager neoficial Galaxy Buds pentru Windows și Linux
+me.timschneeberger.jdsp4linux	Procesor de efecte audio open source pentru Pipewire
+ml.mdwalters.EightBall	Luați decizii cu ușurință
+ml.mdwalters.Lemonade	Urmărește discuțiile despre Lemmy
+ml.prevete.Daty	Editor gratuit de Wikidata.
+mobi.snowball.Snowball	Un nou joc de alergare cu viteză asemănător unui joc cu buclă de platformă/buzz wire
+moe.clover.mm3d	Editor de modele 3D și animator pentru jocuri
+moe.karaokes.mugen	Manager și jucător de sesiune de karaoke
+moe.tundra.Tundra	Actualizați automat listele de anime
+mx.pwmc.Svgvi	Vizualizator și editor SVG folosind declarații XML
+net._86box._86Box	Un emulator pentru clonele clasice de PC IBM
+net.agalwood.Motrix	Un manager de descărcări cu funcții complete
+net.ankiweb.Anki	Carduri flash puternice și inteligente
+net.bartkessels.getit	Trimiteți solicitări HTTP către punctele finale API
+net.baseart.Glide	Redați filme și fișiere audio
+net.biniou.LeBiniou	Ușor de utilizat, instrument puternic de vizualizare a muzicii / VJing
+net.blix.BlueMail	Aplicația de e-mail și calendar BlueMail
+net.blockattack.game	Un joc cu ritm rapid meci-3/blockfall
+net.blockbench.Blockbench	Blockbench - Un editor de modele 3D boxy
+net.blockout.BlockOutII	O adaptare gratuită a jocului original BlockOut
+net.blumia.pineapple-pictures	Vizualizator de imagini
+net.brinkervii.grapejuice	Un lansator pentru Roblox Player și Roblox Studio
+net.cebix.basilisk	Un emulator Macintosh de 68k
+net.christianbeier.Gromit-MPX	Gromit-MPX este un instrument pentru a face adnotări pe ecran
+net.christianbeier.MultiVNC	Vizualizator VNC multiplatformă cu multicast
+net.codeindustry.MasterPDFEditor	Vizualizați, creați, modificați, semnați, scanați, OCR și imprimați documente PDF
+net.corluma.Corluma	Controlați Philip's Hues, LIFX, Nanoleafs și Arduinos.
+net.cozic.joplin_desktop	aplicație open source pentru luarea de note și pentru activități
+net.crossfireatlas.crossfire	Roguelike RPG multi-utilizator
+net.cubers.assault.AssaultCube	Arcade rapid shooter la persoana întâi
+net.daase.journable	Un jurnal simplu
+net.danigm.loop	O buclă audio simplă pentru GNOME
+net.danigm.timetrack	O cronometrare pentru GNOME
+net.darkradiant.DarkRadiant	Editor de nivel 3D pentru The Dark Mod și Doom 3
+net.davidotek.pupgui2	Instalați instrumente de compatibilitate bazate pe Wine și Proton
+net.dengine.Doomsday	Port sursă îmbunătățit pentru Doom, Heretic și Hexen
+net.devolutions.RDM	Centralizează, gestionează și securizează conexiunile de la distanță
+net.displaycal.DisplayCAL	Calibrarea și profilarea afișajului cu accent pe precizie și versatilitate
+net.drawpile.drawpile	Desen colaborativ
+net.epson.epsonscan2	Software pentru scanere și imprimantă multifuncțională Epson
+net.fasterland.converseen	Un procesor de imagine lot
+net.filebot.FileBot	Cel mai bun nume pentru TV și filme
+net.freerct.FreeRCT	Joc de strategie pentru parc tematic
+net.fsuae.FS-UAE	Emulator FS-UAE Amiga
+net.gaijin.WarThunder	War Thunder este cel mai cuprinzător joc militar MMO free-to-play, multi-platformă.
+net.giuspen.cherrytree	Luarea de note ierarhice
+net.goatattack.goatattack	Joc Multiplayer Pixel Art Shooter
+net.gradator.gtkatlantic	Un joc ca Monopoly
+net.granjow.slowmovideo	slowmoVideo este un program OpenSource care creează videoclipuri cu încetinitorul din filmările dvs.
+net.gwyddion.Gwyddion	Program pentru vizualizarea și analiza datelor SPM (scanning probe microscopy).
+net.hovancik.Stretchly	Aplicația de memento a pauzei
+net.huitsi.ParallelOverhead	Joc de alergători fără sfârșit
+net.imaginaryinfinity.Squiid	Efectuați calcule algebrice și RPN avansate
+net.jami.Jami	Platformă de voce, video, chat și conferință orientată spre confidențialitate
+net.jammr.jammr	Joacă-te cu muzicieni pe internet
+net.jenyay.Outwiker	Wiki personal și outliner.
+net.kirgroup.confy	Vizualizator de programe de conferințe
+net.krafting.Playlifin	Sincronizați listele de redare YouTube cu Jellyfin
+net.krafting.PlaylifinVoyager	Transferați liste de redare către/de la Jellyfin
+net.krafting.PleasureDVR	DVR pentru site-ul Chaturbate
+net.kubux.Muehle	Joacă un joc de Nine Men's Morris.
+net.kuribo64.melonDS	Emulator Nintendo DS și DSi
+net.kvirc.KVIrc	KVIrc este un client IRC portabil gratuit
+net.launchpad.Gnuclad	Generator de arbore de cladogramă
+net.line72.campcounselor	Managerul listei de dorințe Bandcamp.com
+net.longturn.freeciv21	Freeciv21 - Freeciv pentru secolul 21
+net.lugsole.bible_gui	Aplicație biblică care acceptă mai multe traduceri și limbi
+net.lutris.Lutris	Platformă de conservare a jocurilor video
+net.mancubus.SLADE	Este un editor Doom
+net.mediaarea.AVIMetaEdit	Încorporați, validați și exportați metadatele fișierelor AVI
+net.mediaarea.BWFMetaEdit	Încorporați, validați și exportați metadatele fișierelor BWF
+net.mediaarea.DVAnalyzer	Analizați fluxurile DV și raportați erorile
+net.mediaarea.MediaConch	Verificator de implementare, verificator de politici, reporter și reparator
+net.mediaarea.MediaInfo	Afișare convenabilă unificată a celor mai relevante date tehnice și etichete pentru fișierele video și audio
+net.mediaarea.MOVMetaEdit	Încorporați și editați metadatele Universal Ad ID în fișiere MOV sau MP4
+net.mediaarea.QCTools	Instrumente de control al calității pentru conservarea videoclipurilor
+net.meijn.onvifviewer	Vizualizați și controlați camerele de rețea folosind protocolul ONVIF
+net.meshlab.MeshLab	Procesare și editare gratuită și open source a rețelelor triunghiulare 3D
+net.minetest.Minetest	Joc multiplayer cu blocuri din lume infinită
+net.mkiol.SpeechNote	Luarea de notițe, citirea și traducerea cu vorbire offline în text, text în vorbire și traducere automată
+net.mullvad.MullvadBrowser	Eliberați internetul de supravegherea în masă
+net.natesales.Aviator	Copilotul dvs. video: AV1/OPUS Video Encoder
+net.nokyan.Resources	Monitorizați-vă resursele și procesele sistemului
+net.olofson.KoboDeluxe	A treia persoană care derulează shooter 2D
+net.openra.OpenRA	Reimaginarea primelor jocuri de strategie în timp real Westwood
+net.oz9aec.Gpredict	Program de urmărire prin satelit și de predicție a orbitei în timp real
+net.pcsx2.PCSX2	Emulator PlayStation 2
+net.peercoin.peercoin-qt	Peercoin, o cripto verde pentru un viitor durabil.
+net.pioneerspacesim.Pioneer	Un joc de aventură în spațiu singuratic
+net.pistegamez.PekkaKana2	Joc Jump 'n Run creat în spiritul vechilor platforme clasice
+net.poedit.Poedit	Editor simplu de traducere
+net.puddletag.puddletag	Un editor puternic de etichete ID3
+net.purrdata.PurrData	Un limbaj de programare vizuală open source pentru multimedia, bazat pe Pure Data
+net.qsl.QSSTV	Program pentru recepția și transmiterea SSTV și HAMDRM
+net.redeclipse.RedEclipse	Shooter la persoana întâi cu un joc agil și editor încorporat
+net.retrodeck.retrodeck	RetroDECK aduce un mediu de catalog și de a juca jocurile retro direct pe Steam Deck
+net.rpcs3.RPCS3	Emulator Sony PlayStation 3 open source
+net.rpdev.OpenTodoList	Lista de activități și aplicație pentru luarea de note
+net.runelite.RuneLite	Client RuneLite OSRS
+net.sapples.LiveCaptions	Subtitrări live pentru desktop
+net.scribus.Scribus	Aspect de pagină cu sursă deschisă și Publicare desktop (DTP)
+net.seamly.seamly2d	Software de proiectare a modelelor de cusut
+net.sf.fuse_emulator	Emulator Sinclair ZX Spectrum
+net.sf.metronomek	Metronom cu aspect banal, cu sunete naturale și posibilități sofisticate
+net.sf.nootka	Aplicație pentru a învăța notația clasică de scor
+net.sf.VICE	Emulator versatil Commodore
+net.shrew.ike.qikea	Aplicație pentru gestionarea configurațiilor site-ului la distanță
+net.sonic_pi.SonicPi	Un instrument de creație și performanță muzicală bazat pe cod
+net.sonobus.SonoBus	Streaming audio în rețea gratuit și open source
+net.sourceforge.artha.Artha	Tezaurul deschis
+net.sourceforge.atanks	Joc de strategie de artilerie pe rând
+net.sourceforge.audmes.audmes	Sistem de măsurare audio
+net.sourceforge.btanks	Un joc de defilare plin de distracție cu tancuri de luptă
+net.sourceforge.Chessx	Baza de date de șah gratuit
+net.sourceforge.chromium-bsu	Un shooter spațial cu ritm rapid, în stil arcade, cu derulare superioară
+net.sourceforge.dmidiplayer	Drumstick Multiplatform MIDI File Player
+net.sourceforge.DuneLegacy	O reimplementare modernă a Dune II
+net.sourceforge.efaxgtk	Trimiterea de faxuri cu Linux/Unix
+net.sourceforge.electrip.Electrip	Controlează-ți modelul feroviar folosind gamepad-uri!
+net.sourceforge.ExtremeTuxRacer	Joc de curse arctice de mare viteză bazat pe Tux Racer
+net.sourceforge.Fillets	Joc de puzzle cu 70 de nivele
+net.sourceforge.fretsonfire	Frets on Fire este un joc de îndemânare muzicală și degete rapide. Scopul jocului este de a cânta la chitară cu tastatura cât mai precis posibil.
+net.sourceforge.fspclient	Interfață asemănătoare FTP pentru FSP
+net.sourceforge.GrandOrgue	Simulator de orgă
+net.sourceforge.Hugin	Un dispozitiv de cusut foto panoramic și multe altele
+net.sourceforge.jpdftweak.jPdfTweak	Cuțit elvețian pentru fișiere PDF
+net.sourceforge.Kino	Editor video neliniar Kino DV pentru platformele GNU/Linux și BSD
+net.sourceforge.Klavaro	Un tutore de tastare la atingere
+net.sourceforge.kmetronome	Drumstick MIDI Metronome bazat pe ALSA Sequencer
+net.sourceforge.kmidimon	Drumstick MIDI Monitor este un monitor MIDI pentru Linux folosind secvențiatorul ALSA
+net.sourceforge.lgames.LBreakoutHD	Joc Arkanoid / Breakout alike
+net.sourceforge.lgames.LGeneral	Motor de joc de strategie pe rând (cum ar fi Panzer General)
+net.sourceforge.lgames.LPairs2	Joc clasic de memorie
+net.sourceforge.lgames.LTris	Joc de îndemânare cu blocuri care cad
+net.sourceforge.Lifeograph	Jurnal digital și luare de note
+net.sourceforge.liferea	Cititor de flux RSS
+net.sourceforge.mars-game	Shooter spațial 2D cu efecte vizuale extraordinare
+net.sourceforge.mcomix	Vizualizator de imagini comice și de uz general
+net.sourceforge.molsketch	Editor de structuri moleculare 2D
+net.sourceforge.OpenLieroX	Shooter cu derulare laterală în care controlezi viermi înarmați cu o serie de arme
+net.sourceforge.osmo	Organizator personal
+net.sourceforge.paulstretch	Acesta este un program pentru întinderea extremă a sunetului (cum ar fi 50x) și pentru aplicarea efectelor speciale prin netezirea spectrală a sunetelor.
+net.sourceforge.pdfchain	PDF Chain este o interfață grafică de utilizator pentru PDF Toolkit (PDFtk)
+net.sourceforge.Pdfedit	Editor PDF cu capacitatea de a răsfoi/edita arborele de obiecte pdf brute
+net.sourceforge.projectM	Vizualizator de muzică care utilizează redarea iterativă accelerată bazată pe imagini 3D
+net.sourceforge.qtpfsgui.LuminanceHDR	Creați imagini HDR
+net.sourceforge.QtSpim	Un simulator autonom care rulează programe MIPS32
+net.sourceforge.quakespasm.Quakespasm	Un port modern al motorului Quake original
+net.sourceforge.Ri-li	Joc pentru copii, conduceți un motor din lemn de jucărie
+net.sourceforge.roccat.roccat-tools	Aplicații pentru configurarea dispozitivelor Roccat.
+net.sourceforge.scidavis	Aplicație pentru analiza și vizualizarea datelor științifice
+net.sourceforge.SDL-Ball	Joc de spargere cărămizi cu o grafică frumoasă
+net.sourceforge.squirrel_sql	SQuirreL SQL Client este o interfață grafică care vă permite să vizualizați structura unei baze de date compatibile cu JDBC, să răsfoiți datele din tabele, să emiteți comenzi SQL etc. Acceptă MySQL, PostgreSQL, MariaDB și SQLite.
+net.sourceforge.Teo	Emulator Thomson TO8D
+net.sourceforge.tomatoes.IHaveNoTomatoes	Joc de zdrobire de roșii
+net.sourceforge.torcs	Simulatorul de mașini de curse deschise
+net.sourceforge.TuxFootball	Un joc grozav de fotbal 2D (numit uneori fotbal).
+net.sourceforge.uhexen2.uhexen2	Un port sursă modernizat Hexen II
+net.sourceforge.VMPK	Virtual MIDI Piano Keyboard: un generator și receptor de evenimente MIDI
+net.sourceforge.wavbreaker	Instrument GUI pentru a împărți fișierele WAV, MP2 și MP3
+net.sourceforge.wxEDID	Citiți și editați fișierele EDID (Extended Display Identification Data).
+net.stabyourself.nottetris2	Tetris bazat pe fizică
+net.studio08.xbplay	Redare la distanță de pe consolă sau xCloud
+net.supertuxkart.SuperTuxKart	Un joc de curse de kart 3D open-source
+net.tedomum.CapBattleship	Joc Battleship, cu o temă de pirați
+net.unvanquished.Unvanquished	Joc de strategie rapid la persoana întâi
+net.veloren.airshipper	Airshipper este lansatorul oficial pentru Veloren.
+net.veloren.veloren	Veloren este un RPG voxel multiplayer scris în Rust. Este inspirat din jocuri precum Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress și Minecraft.
+net.warsow.Warsow	Un shooter 3D la persoana întâi cu ritm rapid
+net.waterfox.waterfox	Un browser web ușor, gratuit și open source, creat pentru web-ul modern.
+net.werwolv.ImHex	Un editor hexadecimal pentru ingineri inversi și programatori
+network.bisq.Bisq	O rețea descentralizată de schimb de bitcoin.
+network.koesling.shm-modbus	O colecție de instrumente pentru a simula un client modbus TCP/RTU
+network.loki.Session	Mesager privat
+net.worldofpadman.WoP	Un shooter gratuit, incredibil de atent proiectat și colorat, pentru tineri și tineri la inimă
+net.wz2100.wz2100	Comandă forțele Proiectului într-o luptă pentru a reconstrui lumea.
+net.xm1math.Texmaker	Editor de latex
+net.xmind.XMind	Hartă mentală și brainstorming
+net.xmind.XMind8	Instrument uimitor de brainstorming și de cartografiere a minții.
+net.zgcoder.skycheckers	Scoateți inamicii de pe scenă
+nl.brixit.powersupply	Depanator subsistem de alimentare Linux
+nl.brixit.wiremapper	Client Linux pentru testerul de rețea Pocketthernet
+nl.g4d.Girens	Urmăriți conținutul dvs. Plex
+nl.hjdskes.gcolor3	Alegeți culori din selector sau de pe ecran
+nl.lostboys.rollemup	Joc clasic de pinball de la sfârșitul anilor 90.
+nl.openoffice.bluefish	Editor de text cu multe programe suplimentare pentru dezvoltare web și software
+nl.sarine.gpx-viewer	Un simplu vizualizator gpx
+nl.v0yd.Capsule	Tracker de medicamente
+no.mifi.losslesscut	Economisiți spațiu prin tăierea rapidă și fără pierderi a fișierelor video și audio
+nz.mega.MEGAsync	Sincronizare automată ușoară între computerele dvs. și MEGA Cloud Drive.
+one.ablaze.floorp	Browser Floorp
+one.alynx.FlipClock	Un screensaver flip clock acceptat de SDL2.
+one.flipperzero.qFlipper	Aplicație grafică desktop pentru actualizarea firmware-ului Flipper Zero prin PC
+one.jiri.easydict-gtk	Primul traducător open source care este complet deschis și cu date din dicționar.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	Browser ATHN pentru gnome
+org._2006Scape.Launcher	2006Scape este un server gratuit de emulare Runescape 2006
+org._2009scape.Launcher	Lansator pentru serverele de emulare Runescape 2009
+org.adishatz.syncpasswd	Actualizați parolele
+org.alienarena.alienarena	FPS arenă cu ritm ultra rapid
+org.aliflang.lang	Alif(ألف), limbaj de programare arab
+org.altaqwaa.Altaqwaa	Coran, adhkar și orele de rugăciune
+org.americanmonk.TipitakaPaliReader	Aceasta este o aplicație pentru a citi textele budiste Theravāda Tipitaka Pāḷi și pentru a obține definiții fără efort
+org.apache.directory.studio	O platformă completă de instrumente pentru directoare
+org.apache.jmeter	Aplicație de testare a sarcinii și măsurare a performanței
+org.apache.netbeans	NetBeans - Apache Java IDE. Se potrivește pieselor împreună
+org.ardour.Ardour	Stație de lucru audio digitală
+org.armagetronad.ArmagetronAdvanced	Joc Lightcycle 3D
+org.arrl.trustedqsl	Instrument de validare a contactului radio Ham
+org.artsoft.rocksndiamonds	Joc de puzzle cu colectarea de pietre prețioase
+org.asc_hq.ASC	Joc de strategie pe rând
+org.atheme.audacious	Player audio ușor
+org.audacityteam.Audacity	Audacity este cea mai populară aplicație de editare și înregistrare audio din lume
+org.audiveris.audiveris	Aplicație de recunoaștere optică a muzicii (OMR).
+org.avidemux.Avidemux	Software multifuncțional de editare și procesare video
+org.b3log.siyuan	Un sistem de gestionare a cunoștințelor personale care pune în primul rând confidențialitatea, acceptă referințe detaliate la nivel de bloc și Markdown WYSIWYG
+org.beeref.BeeRef	Un simplu vizualizator de imagini de referință
+org.bino3d.bino	Player video 3D
+org.bionus.Grabber	Descărcător de imagini/booru foarte personalizabil, cu funcții puternice de denumire a fișierelor
+org.bitbucket.mystery_keeper.VapourSynthEditor	Editor pentru scripturi VapourSynth
+org.bitcoincore.bitcoin-qt	Validarea completă a nodului de rețea peer-to-peer Bitcoin, portofelul și interfața grafică
+org.bitfighter.Bitfighter	joc spațial cu grafică vectorială multiplayer
+org.blackcoin.blackcoin-more	Adevărata monedă digitală descentralizată
+org.blackfennec.app	Mediu extensibil de editare a datelor semi-structurate
+org.bleachbit.BleachBit	Curăță fișierele pentru a elibera spațiu pe disc și pentru a menține confidențialitatea
+org.blender.Blender	Suită de creație 3D gratuită și open source
+org.bluej.BlueJ	IDE Java pentru începători
+org.bluesabre.MenuLibre	Un editor de meniu avansat compatibil cu FreeDesktop.org
+org.briarproject.Briar	Mesaje sigure, oriunde
+org.btchd.btchd-qt	Conectați-vă la rețeaua BitcoinHD P2P
+org.buhocms.BuhoCMS	Un CMS local pentru generatoare de site statice
+org.bunkus.mkvtoolnix-gui	Creator și instrumente de fișiere Matroska
+org.bzdev.CVRDecode	Decodor pentru înregistrările digitale ale vaccinurilor COVID-19 din California
+org.bzflag.BZFlag	Un joc 3D de luptă cu tancuri la persoana întâi
+org.caione.GScope	Interfață GTK către cscope
+org.chocolate_doom.ChocolateDoom	Port sursă conservator Doom
+org.chromium.Chromium	Browserul web din proiectul Chromium
+org.citra_emu.citra	Emulator Nintendo 3DS
+org.claws_mail.Claws-Mail	Claws Mail este un client de e-mail (și cititor de știri), bazat pe GTK+
+org.clementine_player.Clementine	Redă fișiere muzicale și radio pe internet
+org.cloudcompare.CloudCompare	Software de procesare a norilor de puncte 3D și a rețelelor
+org.cockpit_project.CockpitClient	Conectați-vă prin ssh la servere cu Cockpit
+org.codeberg.dimkard.glossaico	Aplicație de învățare a limbilor străine
+org.codeblocks.codeblocks	IDE pentru C, C++ și Fortran
+org.contourterminal.Contour	Contour este un emulator de terminal virtual modern și de fapt rapid, modal, pentru utilizarea de zi cu zi
+org.coolero.Coolero	Coolero este un program de monitorizare și control al dispozitivelor de răcire
+org.cryptomator.Cryptomator	Instrument de criptare pe partea clientului multiplatformă, optimizat pentru stocarea în cloud
+org.cubocore.CoreAction	O bară laterală cu câteva gadget-uri la îndemână
+org.cubocore.CoreArchiver	Un simplu utilitar de comprimare/extragere a fișierelor
+org.cubocore.CoreFM	Un simplu manager de fișiere ușor de utilizat
+org.cubocore.CoreHunt	Un instrument rapid de căutare a fișierelor ușor de utilizat
+org.cubocore.CoreImage	Un vizualizator de imagini simplu, ușor, ușor de utilizat
+org.cubocore.CoreInfo	Un simplu vizualizator de metadate pentru fișiere
+org.cubocore.CoreKeyboard	O tastatură virtuală simplă cu sugestii de cuvinte
+org.cubocore.CorePad	Un editor de text simplu, ușor, dar puternic
+org.cubocore.CorePaint	Un instrument simplu de pictat
+org.cubocore.CorePDF	Un simplu vizualizator PDF ușor
+org.cubocore.CoreRenamer	Un simplu și ușor de redenumit fișiere batch
+org.cubocore.CoreShot	Un utilitar simplu de captură de ecran pentru X11
+org.cubocore.CoreStats	Un simplu vizualizator de resurse de sistem ușor
+org.cubocore.CoreTime	Un manager de sarcini legat de timp
+org.cvfosammmm.Porto	Editați notebook-uri Jupyter pe desktop
+org.cvfosammmm.Setzer	Editor LaTeX simplu, dar cu funcții complete
+org.cznic.Datovka	O interfață grafică gratuită pentru casetele de date
+org.d3cod3.Mosaic	O platformă de codare creativă de corecție vizuală bazată pe openFrameworks
+org.darkdimension.rue	Un joc de cărți despre deducție, dragoste și regret.
+org.darktable.Darktable	Organizați și dezvoltați imagini de la camerele digitale
+org.dash.electrum.electrum_dash	Client Lightweight Dash
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+org.debian.TuxPuck	Joc 3D Shufflepuck Pong
+org.deidentifier.arx	Instrumentul de anonimizare a datelor ARX
+org.deluge_torrent.deluge	Un client BitTorrent cu funcții complete
+org.denemo.Denemo	Creați partituri muzicale
+org.desmume.DeSmuME	Emulator Nintendo DS
+org.develz.Crawl	Joc de explorare a temnitelor Roguelike
+org.dhewm3.Dhewm3	dhewm 3 este un port sursă GPL Doom 3
+org.diasurgical.DevilutionX	Port sursă Diablo/Hellfire pentru sistemele de operare moderne
+org.DolphinEmu.dolphin-emu	Emulator GameCube / Wii / Triforce
+org.duckstation.DuckStation	Emulator PlayStation
+org.dupot.beatmatchtopass	Bate-le pe toate
+org.dupot.littleadventure	Micul joc RPG Pixel Art
+org.dust3d.dust3d	Un instrument rapid de modelare 3D
+org.easycoding.TunedSwitcher	Utilitate simplă pentru a manipula serviciul Tuned
+org.eclipse.iot.fourdiac.Ide	Un PLC IDE compatibil OpenSource IEC 61499
+org.eclipse.Java	Instrumentele esențiale pentru orice dezvoltator Java, inclusiv un IDE Java, un client Git, Editor XML, integrare Maven și Gradle
+org.eclipse.Javascript	Instrumentele esențiale pentru orice dezvoltator JavaScript, incluzând limbajele JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown.
+org.eclipse.sumo	O simulare microscopică a traficului
+org.electrum.electrum	Client Bitcoin ușor
+org.emilien.Password	Parolă puternică pentru securitate maximă
+org.emilien.SpaceLaunch	Când va urca următoarea rachetă spre cer?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, instrument de testare HTTP(e).
+org.endlessos.Key	Învățare organizată oricând și oriunde
+org.enjoyingfoss.FOSStriangulator	Un instrument pentru realizarea ilustrațiilor triangulate din fotografii
+org.entangle_photo.Manager	Controlul și capturarea camerei conectate
+org.equeim.Tremotesf	GUI de la distanță pentru clientul BitTorrent de transmisie
+org.eu.encom.spectral	Client IM pentru protocolul Matrix
+org.eu.getcatalyst.Catalyst	Un browser web ușor și orientat spre utilizator, alimentat de Electron
+org.eu.wabarc.wayback	Un set de instrumente auto-găzduit pentru arhivarea paginilor web în Internet Archive, archive.today, IPFS și sisteme de fișiere locale
+org.exaile.Exaile	Ascultați, răsfoiți sau editați-vă colecția de muzică
+org.exbin.BinEd	Editor binar/hexadecimal
+org.expresslrs.ExpressLRSConfigurator	Instrument de configurare multiplatformă pentru firmware-ul ExpressLRS
+org.eyecreate.qiflora	Aplicație mobilă prietenoasă pentru monitorizarea plantelor folosind dispozitivele Mi Flora.
+org.eyecreate.vehiclevoyage	Urmăriți istoricul service-ului vehiculului.
+org.famistudio.FamiStudio	Editor de muzică FamiStudio NES
+org.fcitx.Fcitx5	Metoda de introducere
+org.fdroid.Repomaker	Creați repoziții F-Droid cu ușurință
+org.featherwallet.Feather	Portofel pentru desktop Monero
+org.fedoraproject.MediaWriter	Un instrument pentru a crea o unitate USB live cu o ediție de Fedora
+org.ferdium.Ferdium	Messenger pentru desktop
+org.filezillaproject.Filezilla	Client FTP rapid și de încredere
+org.filmulator.Filmulator	O adaptare GUI a Filmulator, un emulator de film cu toate aspectele pozitive și niciunul dintre negative
+org.firestormviewer.FirestormViewer	Client pentru accesarea lumi virtuale 3D
+org.fkoehler.KTailctl	O interfață grafică pentru rețeaua de plasă Tailscale
+org.flameshot.Flameshot	Software de captură de ecran puternic și simplu de utilizat
+org.flarerpg.Flare	Joc de rol de acțiune 2D
+org.flathub.flatpak-external-data-checker	Un instrument pentru a verifica dacă datele externe utilizate în manifestele Flatpak sunt încă actualizate
+org.flatpak.qtdemo	Flatpak Developer Demo
+org.flightgear.FlightGear	Un simulator de zbor gratuit și extrem de sofisticat
+org.flozz.calcleaner	Un instrument grafic simplu pentru a elimina evenimentele vechi din calendarele CalDAV
+org.flozz.yoga-image-optimizer	Convertiți și optimizați imaginile JPEG, PNG și WebP
+org.flycast.Flycast	Sega Dreamcast, emulator Naomi și Atomiswave
+org.fontforge.FontForge	Un editor de font contur
+org.freac.freac	Convertor audio și CD ripper
+org.free_astro.siril	Program de (pre)procesare a imaginii astronomice
+org.freecadweb.FreeCAD	Un modelator CAD parametric 3D open source
+org.freeciv.gtk322	Client bazat pe Gtk+-3.22 pentru jocul Freeciv
+org.freeciv.qt	Client bazat pe Qt pentru jocul Freeciv
+org.freecol.FreeCol	FreeCol un joc de strategie pe rând.
+org.freedesktop.adriconf	Configurator DRI avansat
+org.freedesktop.appstream.cli	O utilitate pentru a lucra cu date meta AppStream
+org.freedesktop.appstream.generator	Un generator rapid de metadate AppStream
+org.freedesktop.appstream-glib	Instrumente de validare a fișierelor AppStream
+org.freedesktop.Bustle	Desenați diagrame de secvență ale activității D-Bus
+org.freedesktop.dabrain34.GstPipelineStudio	Desenați-vă propria conductă GStreamer...
+org.freedesktop.dabrain34.squared	Încercați să umpleți pătratul cu numere
+org.freedesktop.fwupd	Actualizați firmware-ul dispozitivului pe Linux
+org.freedesktop.GstDebugViewer	Examinați informațiile din jurnalul de depanare GStreamer
+org.freedesktop.Piper	Utilitar de configurare a mouse-ului pentru jocuri
+org.freedesktop.Tuhi	Utilitar pentru descărcarea desenelor din gama de dispozitive Wacom Ink
+org.freedownloadmanager.Manager	FDM este un accelerator și organizator de descărcare modern puternic.
+org.freefilesync.FreeFileSync	Compararea vizuală a folderelor și sincronizarea
+org.freeorion.FreeOrion	Joc de calculator Imperiu spațial și cucerire galactică pe rând (4X).
+org.freeplane.App	Hartă mentală, Managementul cunoștințelor, Managementul proiectelor. Dezvoltați, organizați și comunicați-vă ideile și cunoștințele în cel mai eficient mod
+org.frescobaldi.Frescobaldi	Editor de muzică LilyPond
+org.fritzing.Fritzing	Instrument de proiectare electronică
+org.frozen_bubble.frozen-bubble	Un joc captivant despre bule înghețate
+org.gabmus.gfeeds	Cititor de știri pentru GNOME
+org.gabmus.giara	O aplicație pentru Reddit
+org.gabmus.hydrapaper	Manager de fundal cu suport pentru mai multe monitoare
+org.gabmus.notorious	Note centrate pe tastatură
+org.gabmus.swatch	Manager paleta de culori
+org.gabmus.unifydmin	Aplicația GNOME pentru controlul mai multor servere eterogene cu ușurință
+org.gabmus.whatip	Informații despre IP-ul tău
+org.gahshomar.Gahshomar	Un calendar persan/Jalali/Farsi
+org.gajim.Gajim	Client de chat XMPP complet echipat cu funcții complete
+org.gaphor.Gaphor	Simple UML and SysML modeling tool
+org.geany.Geany	A fast and lightweight IDE
+org.geeqie.Geeqie	A lightweight image viewer
+org.genivi.DLTViewer	Diagnostic Log and Trace viewing program
+org.geogebra.GeoGebra	Dynamic mathematics software
+org.gephi.Gephi	The Open Graph Viz Platform
+org.getmonero.Monero	Monero: the secure, private, untraceable cryptocurrency
+org.getoutline.OutlineClient	Access to the free and open Internet
+org.getoutline.OutlineManager	Set up your Outline Servers on the cloud and manage who has access to the server
+org.getzola.zola	A fast static site generator in a single binary with everything built-in
+org.ghidra_sre.Ghidra	Ghidra Software Reverse Engineering Suite
+org.gimp.GIMP	Creează imagini și editează fotografii
+org.gmusicbrowser.gmusicbrowser	Jukebox for large collection of music
+org.gna.Warmux	A 2D game where funny characters launch funny weapons
+org.gnode.NixView	Viewer for nix datafiles
+org.gnome.Aisleriot	Joacă multe alte jocuri solitaire
+org.gnome.atomix	Construiește molecule din atomi individual
+org.gnome.baobab	Verifică dimensiunea dosarului și spațiul disponibil pe disc
+org.gnome.Boxes	Virtualizare simplificată
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	Un IDE pentru GNOME
+org.gnome.Calculator	Efectuează calcule aritmetice, științifice și financiare
+org.gnome.Calendar	Calendar pentru GNOME
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.Characters	Aplicație cu tabel de caractere
+org.gnome.Cheese	Faceți poze și filme cu camera web, folosind efect grafice nostime
+org.gnome.Chess	Joacă clasicul joc de șah de doi jucători
+org.gnome.clocks	Ține evidența timpului
+org.gnome.ColorViewer	Verifică și compară profilurile de culoare instalate
+org.gnome.Connections	Vizualizați și utilizați alte desktop-uri
+org.gnome.Contacts	Manage your contacts
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	Protejați-vă de pierderile de date
+org.gnome.design.AppIconPreview	Unealta pentru proiectarea iconițelor de aplicații
+org.gnome.design.Contrast	Verifică contrastul între două culori
+org.gnome.design.Emblem	Generate project avatars
+org.gnome.design.IconLibrary	Iconițe simbolice pentru aplicațiile dumneavoastre
+org.gnome.design.Lorem	Generează text substituent
+org.gnome.design.Palette	Unealtă paletă de culori
+org.gnome.design.SymbolicPreview	Simbolice făcute ușor
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	O unealtă de dezvoltator pentru navigarea și căutarea în documentație API
+org.gnome.dspy	A D-Bus explorer for GNOME
+org.gnome.EasyTAG	Edit audio file metadata
+org.gnome.eog	Navighează și rotește imagini
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Navigare Internet
+org.gnome.Evince	Vizualizator de documente pentru formatele populare
+org.gnome.Evolution	Administrează email-urile, contactele și întâlnirile
+org.gnome.Extensions	Administrați Exensiile GNOME
+org.gnome.FileRoller	Deschide, modifică și creează fișiere arhivă comprimate
+org.gnome.Firmware	Install firmware on devices
+org.gnome.five-or-more	Elimină bilele colorate de pe tablă formând linii
+org.gnome.FontManager	O aplicație simplă de gestionare a fonturilor pentru Mediile Desktop Gtk +
+org.gnome.font-viewer	Vizualizați fonturile instalate pe sistemul dumneavoastră
+org.gnome.Four-in-a-row	Creați linii de aceeași culoare pentru a câștiga
+org.gnome.Fractal	Aplicație de mesagerie de grup Matrix
+org.gnome.frogr	Un încărcător flickr pentru GNOME
+org.gnome.gbrainy	gbrainy is a game to train memory, arithmetical, verbal and logical skills.
+org.gnome.Geary	Trimite și primește emailuri
+org.gnome.gedit	Text editor
+org.gnome.Genius	Genius is a general purpose calculator program
+org.gnome.GHex	Inspectează și editează fișiere binare
+org.gnome.gitg	Interfață grafică pentru utilizator pentru git
+org.gnome.gitlab.bazylevnik0.Convolution	Maze escaping game
+org.gnome.gitlab.Cowsay	Cowsay, a state of the art Cowsay generator using GNOME conventions
+org.gnome.gitlab.dqpb.GMetronome	A tempo measurement tool for composers and musicians
+org.gnome.gitlab.ilhooq.Bookup	Simplify your note-taking with Markdown syntax
+org.gnome.gitlab.johannesjh.favagtk	Do your finances using fava and beancount
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.gitlab.somas.Apostrophe	Edit Markdown in style
+org.gnome.gitlab.YaLTeR.Identity	Compare images and videos
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Decupați rapid videoclipurile
+org.gnome.glabels-3	Crează etichete, cărți de vizită și coperți media.
+org.gnome.Glade	Creeați sau deschideți design-uri de interfețe cu utilizatorul pentru aplicații GTK+
+org.gnome.Gnote	O aplicație simplă pentru luat notițe
+org.gnome.GTG	Personal tasks and TODO-list items organizer
+org.gnome.gThumb	Vizualizează și organizează imagini
+org.gnome.Gtranslator	Tradu și localizează aplicații și biblioteci
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Joacă jocul de puzzle Hitori
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Glisați blocurile pentru a rezolva jocul
+org.gnome.LightsOff	Opriți toate luminile
+org.gnome.Logs	Vizualizați jurnale de evenimente detaliate ale sistemului
+org.gnome.Lollypop	Play and organize your music collection
+org.gnome.Loupe	Vizualizează imaginile
+org.gnome.Mahjongg	Potrivește piese și curăță tabla
+org.gnome.Maps	Găsește locații din întreaga lume
+org.gnome.meld	Comparați-vă și combinati-vă fișierele
+org.gnome.Mines	Găsește minele de pe un câmp minat
+org.gnome.moserial	Terminal serial
+org.gnome.Music	Redă și organizează colecția dumneavoastră de muzică
+org.gnome.NautilusPreviewer	Oferă o facilitate de a vizualiza rapid tipuri diferite de fișiere
+org.gnome.NetworkDisplays	Streaming a desktopului la dispozitivele capabile de afișaj Wi-Fi
+org.gnome.Nibbles	Ghidează o râmă printr-un labirint
+org.gnome.Notes	Note pentru GNOME
+org.gnome.OCRFeeder	Suită OCR completă
+org.gnome.OfficeRunner	Închideți capacul de laptop și începeți să alergați
+org.gnome.Photos	Accesați, organizați și partajați fotografii în GNOME
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Listen to your favorite shows
+org.gnome.Polari	Conversați cu oameni pe IRC
+org.gnome.PowerStats	Examinează administrarea consumului
+org.gnome.Quadrapassel	Potrivește blocuri care cad
+org.gnome.Recipes	GNOME loves to cook
+org.gnome.Reversi	Dominați tabla de joc într-o versiune clasică de Reversi, sau jucați varianta inversată
+org.gnome.Rhythmbox3	Redă și organizează colecția dumneavoastră de piese
+org.gnome.Robots	Evitați roboții și determinați-i să intre în coliziune unii cu alții
+org.gnome.seahorse.Application	Administează parolele și cheile de criptare
+org.gnome.Shotwell	Organizator de fotografii digitale
+org.gnome.SimpleScan	Face o copie digitală a fotografiilor și documentelor
+org.gnome.Snapshot	Ia poze și video-uri
+org.gnome.Solanum	Balansați timpul de lucru și pauzele
+org.gnome.SoundJuicer	Ripper de CD cu o interfață curată și preferințe simple
+org.gnome.SoundRecorder	Un înregistrator de sunet simplu și modern, pentru GNOME
+org.gnome.Sudoku	Testați-vă abilitățile de logică în acest puzzle grilă cu numere
+org.gnome.SwellFoop	Curățați ecranul eliminând grupuri de bile colorate și mozaicuri cu forme
+org.gnome.Tali	Aruncă zarurile și câștigă puncte
+org.gnome.Taquin	Glisați dalele la locurile lor corecte
+org.gnome.Tau	Interfață GTK pentru editorul de text xi
+org.gnome.Tetravex	Reordonează dalele pentru a se potrivi unui pătrat
+org.gnome.TextEditor	Editează fișiere text
+org.gnome.Todo	Manage your tasks
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Redă filme
+org.gnome.TwentyFortyEight	Obțineți dala 2048
+org.gnome.Weather	Afișează prognoza și condițiile meteorologice
+org.gnome.World.Citations	Manage your bibliography
+org.gnome.World.Iotas	Simple note taking
+org.gnome.World.PikaBackup	Keep your data safe
+org.gnome.World.Secrets	Administrați-vă parolele
+org.gnucash.GnuCash	Administrează-ți finanțele, conturile și investițiile
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	A High-Precision Spreadsheet Program
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnu.pspp	GNU PSPP is a program for statistical analysis of sampled data
+org.godotengine.Godot	Godot game engine editor
+org.godotengine.Godot3	Godot game engine editor
+org.godotengine.Godot3Sharp	Godot game engine editor
+org.godotengine.GodotSharp	Godot game engine editor
+org.goldcoinproject.goldcoin-qt	Discover the Gold Standard of Digital Currency.
+org.goldendict.GoldenDict	Dictionary lookup program
+org.gottcode.Connectagram	Ordonaţi cuvinte plasate în tipare
+org.gottcode.CuteMaze	Căutaţi ţintele într-un labirint
+org.gottcode.FocusWriter	Procesor de text pe tot ecranul
+org.gottcode.Gottet	Curăţaţi tabela de piesele căzătoare
+org.gottcode.Hexalate	Rotiţi cercurile pentru potrivirea culorilor
+org.gottcode.Kapow	Ţineţi evidenţa timpului petrecut pe proiecte
+org.gottcode.NovProg	Program contorizare grafică a cuvintelor
+org.gottcode.Peg-E	Sari peste pioni pentru a-i eliminna
+org.gottcode.Simsu	Completaţi cu numere pentru a rezolva puzzle-uri
+org.gottcode.Tanglet	Variantă de joc Boggle într-un singur jucător
+org.gottcode.Tetzle	Joc puzzle cu piese teromino
+org.gpodder.gpodder	Media aggregator and podcast client
+org.gpodder.gpodder-adaptive	Agregator media și client de podcast pentru mobil și desktop deopotrivă
+org.gramps_project.Gramps	Gestionați informațiile genealogice, efectuați cercetări și analize genealogice
+org.greenfoot.Greenfoot	Greenfoot
+org.grisbi.Grisbi	Manager de finante personale
+org.groestlcoin.electrum-grs	Client Groestlcoin ușor
+org.groestlcoin.groestlcoin-qt	Validarea completă a nodului de rețea peer-to-peer Groestlcoin, a portofelului și a GUI
+org.gtaf.quran	Studiați Coranul prin analiza cuvânt cu cuvânt, Tajweed colorat, Tafsir și audio
+org.gtimelog.GTimeLog	Țineți evidența timpului dvs
+org.gtkhash.gtkhash	Calculați rezumatele mesajelor sau sumele de verificare
+org.guerinoni.qTsConverter	Un instrument simplu pentru a converti fișierul de traducere qt (ts) în alt format (xlsx / csv) și invers.
+org.guitarix.Guitarix	amplificare virtuală versatilă pentru Jack/Linux
+org.gustavoperedo.FontDownloader	Instalați fonturi din surse online
+org.hdfgroup.HDFView	Răsfoiți și editați fișiere HDF
+org.hedgewars.Hedgewars	Joc amuzant de artilerie pe rând, cu arici care luptă!
+org.hikounomizu.HikouNoMizu	Joc de luptă bazat pe platformă, în stil anime
+org.hlwd.sonofman	Biblia în mai multe limbi, gratuit, offline, fără publicitate, în engleză, franceză, italiană, spaniolă, portugheză pentru Terminal.
+org.homelinuxserver.vance.biblereader	Citiți Cuvântul
+org.horizon_eda.HorizonEDA	Un pachet EDA gratuit
+org.hydrogenmusic.Hydrogen	Aparatul de tobe avansat
+org.icculus.tennix	Joc de tenis multiplayer
+org.imitationpickles.barbie	Ajută-l pe Barbie căluțul de mare să plutească pe bule către lună
+org.inkscape.Inkscape	Editor de grafică vectorială
+org.ioquake3.ioquake3	Motor gratuit și open-source bazat pe Quake 3
+org.jabref.jabref	Aplicație grafică Java pentru gestionarea bazelor de date BibTeX și biblatex (.bib).
+org.jacktrip.JackTrip	Conectează-te și joacă-te cu alți muzicieni
+org.jamovi.jamovi	Foaie de calcul statistică în timp real
+org.jaspstats.JASP	Analize statistice standard, atât clasice, cât și bayesiene
+org.jdownloader.JDownloader	Descărcați instrumentul de gestionare
+org.jellyfin.JellyfinServer	Sistemul media cu software liber
+org.jflap.JFLAP	Testarea limbilor formale
+org.jitsi.jitsi-meet	Jitsi Meet - Conferințe video sigure, simple și scalabile
+org.jreleaser.cli	Lansați proiecte rapid și ușor cu JReleaser
+org.js.nuclear.Nuclear	Un player muzical bazat pe electroni
+org.jupyter.JupyterLab	Aplicație desktop JupyterLab, bazată pe Electron
+org.karapulse.Karapulse	Player karaoke cu client web la distanță încorporat
+org.kde.akregator	Un cititor de știri
+org.kde.alligator	Cititor de fluxuri pentru dispozitive mobile
+org.kde.angelfish	Browser web pentru dispozitive mobile
+org.kde.arianna	Cititor de cărți electronice
+org.kde.ark	Utilitar de arhivare
+org.kde.artikulate	Artikulate Pronunciation Trainer
+org.kde.atlantik	Jocuri de table ca Monopoly®
+org.kde.audiotube	Client convergent de muzică pentru YouTube
+org.kde.blinken	Joc de îmbunătățire a memoriei
+org.kde.bomber	Arcade Bombing Game
+org.kde.bovo	Five in a row board game
+org.kde.cantor	KDE Frontend to Mathematical Software
+org.kde.choqok	Micro-blogging client
+org.kde.digikam	Photo Management Program
+org.kde.dolphin	Gestionar de fișiere
+org.kde.elisa	Lector de muzică frumos și simplu, cu suport pentru radio online
+org.kde.falkon	Web Browser
+org.kde.filelight	Show disk usage and delete unused files
+org.kde.francis	Track your time
+org.kde.gcompris	Joc educațional cu activități multiple pentru copii între 2 și 10 ani
+org.kde.granatier	Bomberman clone
+org.kde.gwenview	Vizualizor de imagini
+org.kde.haruna	Open source media player built with Qt/QML and libmpv
+org.kde.Ikona	Ikona is a design companion to help you design icons
+org.kde.index	Gestionați-vă fișierele
+org.kde.isoimagewriter	Scrie o imagine ISO pe disc USB
+org.kde.itinerary	Digital travel assistant
+org.kde.juk	Lector audio
+org.kde.kaffeine	Multimedia Player
+org.kde.kalgebra	Graph Calculator
+org.kde.kalk	Calculator cu multe funcții
+org.kde.kalzium	Periodic Table of Elements
+org.kde.kamoso	Folosiți-vă camera web pentru a face poze și filmulețe
+org.kde.kanagram	Letter Order Game
+org.kde.kapman	Pac-Man Clone
+org.kde.kasts	Podcast application
+org.kde.katomic	Sokoban-like Logic Game
+org.kde.kbibtex	BibTeX editor by KDE to edit bibliographies used with LaTeX
+org.kde.kblackbox	Blackbox Logic Game
+org.kde.kblocks	Joc de blocuri căsătoare
+org.kde.kbounce	KBounce is a single player arcade game with the elements of puzzle
+org.kde.kbreakout	KBreakOut is a Breakout-like game by KDE
+org.kde.kbruch	Exercise Fractions
+org.kde.kcachegrind	Profiler Frontend
+org.kde.kcalc	Calculator științific
+org.kde.kclock	Pune alarme și cronometre, folosește temporizatorul și gestionează ceasuri de pe glob
+org.kde.kcolorchooser	Selector de culori și redactor de palete
+org.kde.kdenlive	Video Editor
+org.kde.kdevelop	Featureful, plugin-extensible IDE for C/C++ and other programming languages
+org.kde.kdiamond	KDiamond e un joc KDE de trei-în-linie
+org.kde.kdiff3	A file and folder comparison and merge tool
+org.kde.keysmith	Generator de coduri cu doi factori pentru Plasma Mobile și Desktop
+org.kde.kfind	Găsește fișiere/dosare
+org.kde.kfourinline	KFourInLine is a four-in-a-row game by KDE
+org.kde.kgeography	Geography learning tool
+org.kde.kgeotag	Photo geotagging program
+org.kde.kget	Download Manager
+org.kde.kgoldrunner	Hunt Gold, Dodge Enemies and Solve Puzzles
+org.kde.kgraphviewer	A Graphviz DOT graph viewer
+org.kde.khangman	Hangman Game
+org.kde.kid3	Edit audio file metadata
+org.kde.kig	Interactive Geometry
+org.kde.kigo	Go Board Game
+org.kde.kile	TeX/LaTeX Editor
+org.kde.killbots	Outsmart the killer robots to win
+org.kde.kimagemapeditor	Editor de hărți de imagini HTML
+org.kde.kiriki	Joc de zaruri asemănător lui Yahtzee
+org.kde.kiten	Instrument japonez de referință și studiu
+org.kde.kjumpingcube	Joc de capturare a teritoriului
+org.kde.kleopatra	Certificate Manager și Unified Crypto GUI
+org.kde.klettres	Învață Alfabetul
+org.kde.klickety	Klickety este o adaptare a jocului clickomania
+org.kde.klines	Joc tactic
+org.kde.kmahjongg	Pasențe Mahjong
+org.kde.kmines	Un joc ca Detectorul de mine
+org.kde.kmplayer	Interfață pentru MPlayer de la KDE
+org.kde.kmplot	Plotter de funcții matematice
+org.kde.kmymoney	Manager de finanțe personale bazat pe contabilitate în partidă dublă
+org.kde.knavalbattle	Joc Nava de luptă
+org.kde.knetwalk	KNetWalk este un joc pentru administratorii de sistem
+org.kde.knights	Joc de sah
+org.kde.koko	Galerie de imagini
+org.kde.kolf	Golf în miniatură
+org.kde.kollision	Joc cu mingi de ocazie
+org.kde.kolourpaint	Programul de vopsea
+org.kde.kommit	Client GUI Git
+org.kde.kompare	Diff/Patch Frontend
+org.kde.kongress	Aplicația însoțitoare a conferinței KDE
+org.kde.konquest	Joc de strategie galactică
+org.kde.konsole	Terminal
+org.kde.kontact	Gestionați toate e-mailurile, calendarele, contactele și multe altele într-o singură fereastră
+org.kde.kontrast	Un verificator de contrast de culoare
+org.kde.konversation	Client IRC
+org.kde.kpat	Joc de cărți Solitaire
+org.kde.kphotoalbum	Software de gestionare a imaginilor KDE
+org.kde.krdc	Conectați-vă la alt calculator prin RDP sau VNC
+org.kde.krename	Program puternic de redenumire în serie
+org.kde.kreversi	Joc de table Reversi
+org.kde.krita	Pictură digitală, libertate creativă
+org.kde.kronometer	Cronometru
+org.kde.kruler	Riglă de ecran
+org.kde.ksirk	Joc de strategie World Domination
+org.kde.ksnakeduel	Joc asemănător Tron
+org.kde.ksquares	Conectați punctele pentru a crea pătrate
+org.kde.kst	Vizualizarea și analiza interactivă a datelor
+org.kde.kstars	Desktop Planetarium
+org.kde.ksudoku	Completează un puzzle numeric cu numere de la unu la nouă
+org.kde.kteatime	Ceainic
+org.kde.ktimetracker	Personal Time Tracker
+org.kde.ktorrent	BitTorrent Client
+org.kde.ktouch	Touch Typing Tutor
+org.kde.ktrip	Public transport navigator
+org.kde.ktuberling	A simple constructor game suitable for children and adults alike
+org.kde.kturtle	Mediu de programare educațional
+org.kde.kubrick	3-D Game based on Rubik's Cube
+org.kde.kuiviewer	Vizualizator de fișiere Qt Designer UI
+org.kde.kwalletmanager5	Utilitar de gestionat portofele
+org.kde.kweather	View real-time weather forecasts and other information
+org.kde.kwordquiz	Flash Card Trainer
+org.kde.kwrite	Redactor de text
+org.kde.kxstitch	A cross stitch pattern creator
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	Sistem de traducere asistată de calculator
+org.kde.lskat	German card game Skat for two players
+org.kde.marble	Virtual Globe
+org.kde.massif-visualizer	Un vizualizator pentru fișierele de date Valgrind Massif
+org.kde.minuet	Program de educație muzicală
+org.kde.neochat	Un client pentru matrix, protocolul de comunicare descentralizat
+org.kde.okteta	Redactor hexazecimal
+org.kde.okular	Vizualizor de documente
+org.kde.palapeli	Joc Jigsaw Puzzle
+org.kde.parley	Instructor de vocabular
+org.kde.peruse	Cititor de benzi desenate
+org.kde.picmi	Joc de puzzle bazat pe logica numerelor
+org.kde.pix	Galerie de imagini
+org.kde.plasmatube	Vizualizează filmulețe YouTube
+org.kde.qmlkonsole	Aplicație mobilă de terminal
+org.kde.rocs	Teoria grafurilor Rocs
+org.kde.ruqola	Client Rocket Chat
+org.kde.skanpage	Aplicație de scanare a documentelor cu mai multe pagini
+org.kde.skrooge	Contabilitate cu o singură intrare pentru uz casnic
+org.kde.subtitlecomposer	Editor de subtitrări video care acceptă operațiuni de editare de bază și avansate
+org.kde.SymbolEditor	Un editor de simboluri cu punct de cruce
+org.kde.tellico	Manager de colectare
+org.kde.telly-skout	Un ghid TV Kirigami convergent
+org.kde.tokodon	Un client Mastodon
+org.kde.umbrello	UML Modeler
+org.kde.vvave	Redați-vă colecția muzicală
+org.kde.yakuake	Derulant terminal
+org.keepassxc.KeePassXC	Portul controlat de comunitate al aplicației Windows „KeePass Password Safe”
+org.KekikAkademi.BTKSorgu	Este site-ul țintă accesibil în Turcia? (BTK)
+org.KekikAkademi.eFatura	Întrebare de utilizare a facturii electronice de la numărul de identificare fiscală sau TR
+org.kekikakademi.ntvHaber	Știri de ultimă oră în turcă de la NTV.com.tr
+org.kicad.KiCad	O suită EDA pentru proiectarea schematică și a plăcilor de circuite
+org.kiwix.desktop	Vizualizați conținut offline
+org.kosmospredanie.Yakblt	Un simplu joc de evitare a gloanțelor
+org.kryogenix.hushboard	Dezactivează microfonul în timp ce tastezi
+org.kryogenix.Pick	Un selector de culori
+org.kryogenix.utm_no	Eliminați parametrii de urmărire din adresele URL copiate
+org.ksnip.ksnip	Instrument de captură de ecran pe mai multe platforme cu funcții de adnotare
+org.lamport.tla.toolbox	TLA+ Toolbox este un IDE (mediu de dezvoltare integrat) pentru instrumentele TLA+
+org.laptop.TurtleArtActivity	O broască țestoasă inspirată de logo-ul care desenează imagini colorate cu blocuri de programare vizuale care se potrivesc.
+org.learningequality.Kolibri	Platformă tehnologică pentru educație offline
+org.leocad.LeoCAD	Proiectați modele virtuale pe care le puteți construi cu cărămizi LEGO
+org.librecad.librecad	Design 2D asistat de calculator (CAD)
+org.librehunt.Organizer	Un utilitar pentru a vă organiza fișierele în categorii ordonate
+org.libreoffice.LibreOffice	Suita de productivitate LibreOffice
+org.librepcb.LibrePCB	Scheme de proiectare și PCB-uri
+org.libretrainsim.Libre-TrainSim	Simulator de tren gratuit pentru toată lumea
+org.libretro.RetroArch	Frontend pentru emulatori, motoare de jocuri și playere media
+org.libsdl.Maelstrom	Clonă de asteroizi de înaltă calitate
+org.libvips.vipsdisp	Vizualizator de imagini
+org.linux_hardware.hw-probe	Verificați funcționarea hardware-ului computerului și găsiți drivere
+org.linuxshowplayer.LinuxShowPlayer	Cue player conceput pentru producții scenice
+org.localsend.localsend_app	Partajați fișiere pe dispozitivele din apropiere
+org.love2d.love2d	LÖVE este un cadru minunat de joc 2D pentru Lua.
+org.lyx.LyX	Procesorul de documente
+org.mamedev.MAME	MAME este un cadru de emulare multifuncțional.
+org.manaplus.ManaPlus	Client extins pentru The Mana World și servere similare
+org.mapeditor.Tiled	Editor de hărți de uz general
+org.mattbas.Glaxnimate	Editor de animație vectorială
+org.mattdm.icebreaker	Un joc de acțiune-puzzle captivant care implică pinguini care sărită
+org.mavlink.qgroundcontrol	Stație de control la sol UAS
+org.megaglest.MegaGlest	Joc de strategie în timp real (RTS)
+org.megamek.MegaMek	Luptă folosind roboți giganți, tancuri și/sau infanterie pe o hartă bazată pe hex.
+org.mersenne.mprime	Software gratuit de căutare Mersenne Prime
+org.metal3d.scoreboard	Un tablou de scor simplu pentru a număra punctele pentru orice joc
+org.mfek.MFEKglif	Editor de glife pentru proiectul Modular Font Editor K
+org.midori_browser.Midori	Un browser web rapid și ușor
+org.milkytracker.MilkyTracker	Tracker muzical inspirat de Fast Tracker II
+org.mixxx.Mixxx	Tot ce ai nevoie pentru a interpreta mixuri DJ live
+org.mmass.mMass	Instrument de spectrometrie de masă cu sursă deschisă
+org.mobsya.ThymioSuite	Accesarea cu ușurință a interfețelor de programare Thymio
+org.moneymanagerex.MMEX	Organizați finanțele și urmăriți fluxul de numerar
+org.mosh.mosh	Shellul mobil
+org.mozilla.firefox	Browser web rapid, privat și sigur
+org.mozilla.Thunderbird	Thunderbird este un client gratuit și open source de e-mail, flux de știri, chat și calendar
+org.mpdevil.mpdevil	Un simplu browser de muzică pentru MPD
+org.msweet.htmldoc	Software de conversie HTML
+org.munadi.Munadi	Aplicația simplă Athan
+org.musescore.MuseScore	Creați, redați și imprimați partituri frumoase
+org.musicbrainz.Picard	Etichetatorul muzical al MusicBrainz
+org.mypaint.MyPaint	Program de pictură pentru artiști digitali
+org.naev.Naev	Joc de luptă cu tranzacții în spațiu de acțiune/rpg 2D
+org.nanuc.Axolotl	Axolotl este un client Signal crossplatform
+org.netsurf_browser.NetSurf	browser web mic cu suport CSS
+org.neverball.Neverball	Ghidați cu îndemânare o minge care rulează prin multe niveluri 3D slick
+org.nickvision.cavalier	Vizualizați sunetul cu CAVA
+org.nickvision.money	Gestionați-vă finanțele personale
+org.nickvision.tagger	Etichetează-ți muzica
+org.nickvision.tubeconverter	Descărcați videoclipuri web și audio
+org.nicotine_plus.Nicotine	Client grafic pentru rețeaua Soulseek
+org.nmap.Zenmap	O interfață grafică multiplatformă pentru Nmap Security Scanner
+org.nomacs.ImageLounge	nomacs este un vizualizator de imagini gratuit, open source
+org.nongnu.enigma	Joc de puzzle
+org.nongnu.gsequencer.gsequencer	Sequencer avansat Gtk+
+org.nongnu.Xlog	Program de înregistrare pentru radioamatori
+org.nsnam.NetAnim	NetAnim este un animator offline pentru ns-3
+org.nuspell.Nuspell	corector ortografic
+org.octave.Octave	Mediu de programare interactiv pentru calcule numerice
+org.olivevideoeditor.Olive	Editor video neliniar
+org.omegat.OmegaT	Un manager de memorie de traducere simplu, open-source și instrument CAT
+org.onionshare.OnionShare	Partajați în siguranță și anonim fișiere, găzduiți site-uri web și discutați cu prietenii
+org.onlyoffice.desktopeditors	Suita de productivitate pentru birou
+org.openandroidinstaller.OpenAndroidInstaller	Face instalarea distribuțiilor alternative Android plăcută și ușoară
+org.openchemistry.Avogadro2	Editor molecular gratuit și open source
+org.openclonk.OpenClonk	Joc de acțiune multiplayer în care controlezi umanoizi mici și agile
+org.opencpn.OpenCPN	Un chartplotter concis și un software de navigare
+org.openfodder.OpenFodder	Un port open-source al jocului de strategie DOS Cannon Fodder.
+org.openhantek.OpenHantek6022	Software DSO pentru osciloscoapele cu semnal digital USB Hantek 6022BE/BL
+org.openjkdf2.OpenJKDF2	O reimplementare pe mai multe platforme a „Jedi Knight: Dark Forces II”
+org.openkj.OpenKJ	Software profesional de găzduire karaoke
+org.openmsx.openMSX	Emulați toate aspectele MSX cu precizie ridicată
+org.openmw.OpenMW	Reimplementarea The Elder Scrolls III: Morrowind
+org.opennumismat.OpenNumismat	Software de colectare a monedelor pentru organizarea și gestionarea propriului catalog
+org.openrgb.OpenRGB	Controlul luminii RGB cu sursă deschisă care nu depinde de software-ul producătorului.
+org.openscad.OpenSCAD	The Programers Solid 3D CAD Modeler
+org.openscopeproject.TrguiNG	GUI de la distanță pentru daemon torrent Transmission
+org.openshot.OpenShot	Un editor video ușor de utilizat, rapid de învățat și surprinzător de puternic
+org.openstreetmap.josm	Editor Java OpenStreetMap
+org.opensurge2d.OpenSurge	Un joc de platforme retro 2D distractiv inspirat de jocurile Sonic și un sistem de creare a jocurilor
+org.opentransactions.metier	Portofel blockchain multi-valută și client Open-Transactions
+org.openttd.OpenTTD	Joc de simulare open source bazat pe Transport Tycoon Deluxe
+org.otfried.Ipe	Editorul de desene extensibile Ipe
+org.pairinteraction.Pairinteraction	Un calculator de interacțiune Rydberg
+org.paraview.ParaView	Analiza și vizualizarea datelor
+org.parlatype.Parlatype	Media player pentru transcrierea vorbirii
+org.pegasus_frontend.Pegasus	Multiplatformă, interfață grafică personalizabilă pentru lansarea emulatoarelor
+org.pencil2d.Pencil2D	Software de animație 2D care acceptă bitmap și grafică vectorială
+org.phoenicis.playonlinux	Instalați și rulați software-ul Windows pe Linux
+org.photoqt.PhotoQt	Vizualizați și gestionați imaginile
+org.pipewire.Helvum	Patchbay pentru PipeWire
+org.pitivi.Pitivi	crești și editează filmele tale
+org.pjbroad.EternallandsClient	Eternal Lands este un MMORPG grafic gratuit pentru a juca
+org.plomgrading.PlomClient	Client de notare/marcare pentru sistemul de notare online Plom
+org.polymc.PolyMC	Un lansator personalizat pentru Minecraft care vă permite să gestionați cu ușurință mai multe instalări de Minecraft simultan
+org.ppsspp.PPSSPP	Un emulator PlayStation Portable
+org.prismlauncher.PrismLauncher	Un lansator personalizat pentru Minecraft care vă permite să gestionați cu ușurință mai multe instalări de Minecraft simultan
+org.processing.processingide	Platformă de prototipare software open-source
+org.profex_xrd.Profex	Open Source XRD și Rietveld Refinement
+org.pulseaudio.pavucontrol	Reglați nivelul de volum al dispozitivelor și aplicațiilor hardware
+org.purei.Play	Un emulator Playstation 2
+org.pydpainter.PyDPainter	Un program de pictură pixel art utilizabil scris în Python
+org.pymol.PyMOL	Vizualizare moleculară și raytracing
+org.pyzo.pyzo	Un IDE Python care vizează simplitate și interactivitate
+org.qbittorrent.qBittorrent	Un client Bittorrent open-source
+org.qelectrotech.QElectroTech	Editor de diagrame electrice
+org.qgis.qgis	Un Sistem de Informații Geografice gratuit și cu sursă deschisă
+org.qownnotes.QOwnNotes	Bloc de note cu fișiere text simplu cu suport Markdown și integrare Nextcloud / ownCloud
+org.quassel_irc.QuasselClient	Client IRC modern distribuit
+org.quetoo.Quetoo	Un shooter gratuit la prima persoană pentru Mac, PC și Linux
+org.qutebrowser.qutebrowser	Un browser web bazat pe tastatură
+org.qxmledit.QXmlEdit	Editor XML
+org.raceintospace.Raceintospace	Un joc pentru a retrăi cursa spațială a anilor 1960
+org.racket_lang.Racket	Limbajul de programare orientat pe limbaj
+org.radare.iaito	O GUI Qt și C++ pentru cadrul de inginerie inversă radare2
+org.raspberrypi.rpi-imager	Utilitar pentru imagini Raspberry Pi
+org.remmina.Remmina	Client desktop la distanță
+org.rncbc.qpwgraph	O interfață GUI PipeWire Graph Qt
+org.rncbc.qsynth	O interfață GUI Qt fluidsynth
+org.rncbc.qtractor	Un sequencer audio/MIDI multi-track
+org.robocode.Robocode	Construiește ce este mai bun - distruge restul!
+org.rolisteam.rolisteam	Client Companion pentru Rolistem Server
+org.ryujinx.Ryujinx	Un emulator Nintendo Switch
+org.sabnzbd.sabnzbd	Cititor de știri binar gratuit și ușor
+org.sauerbraten.Sauerbraten	Shooter gratuit pentru multiplayer și singleplayer first person, succesorul Cube FPS
+org.scantailor.ScanTailor	Instrument interactiv de post-procesare pentru paginile scanate
+org.scilab.Scilab	Pachet software științific pentru calcule numerice
+org.scintilla.SciTE	Un editor de text bazat pe SCINTilla
+org.scummvm.ScummVM	Interpret pentru numeroase jocuri de aventură și jocuri de rol
+org.sdrangel.SDRangel	Radio definite de software TX & RX
+org.seul.crimson	Un joc de război tactic pe rând
+org.shadered.SHADERed	Instrument pentru crearea și testarea shaderelor HLSL și GLSL
+org.shadowsocks.qt5client	Un client GUI shadowsocks nativ și multiplatform cu funcții avansate.
+org.shotcut.Shotcut	Editor video
+org.signal.Signal	Mesager privat
+org.sigxcpu.Livi	Un simplu player video bazat pe GTK4 pentru telefoane mobile
+org.sil.Bloom	Dezvoltarea materialelor de alfabetizare pentru comunitățile lingvistice
+org.sil.FieldWorks	Managementul datelor lingvistice și culturale
+org.skytemple.Randomizer	Randomizer pentru Pokémon Mystery Dungeon Explorers of Sky
+org.skytemple.SkyTemple	Editor ROM pentru Pokémon Mystery Dungeon Explorers of Sky
+org.soapui.SoapUI	SoapUI OS este o soluție de testare funcțională pentru API-uri și servicii web
+org.solarus_games.solarus.Launcher	Răsfoiește și joacă colecția ta de misiuni Solarus.
+org.sonic3air.Sonic3AIR	O remasterizare pe ecran lat realizată de fani a lui Sonic 3 & Knuckles.
+org.soundconverter.SoundConverter	Convertiți fișiere audio
+org.sparkleshare.SparkleShare	Sincronizarea fișierelor Git găzduită de sine magică
+org.speedcrunch.SpeedCrunch	Un calculator științific de înaltă precizie
+org.speed_dreams.SpeedDreams	Speed Dreams este un joc de curse și simulare de sport cu motor, cu sursă deschisă, multiplatformă 3D
+org.sqlitebrowser.sqlitebrowser	DB Browser pentru SQLite este un editor GUI ușor pentru bazele de date SQLite
+org.squeakland.Etoys	Invata cu programare vizuala
+org.squey.Squey	Explorează-ți datele
+org.squidowl.halloy	Client IRC scris în Rust
+org.srb2.SRB2	Un fangame 3D Sonic the Hedgehog bazat pe o versiune modificată a lui Doom Legacy
+org.srb2.SRB2Kart	Un mod de curse de kart bazat pe jocul de fani 3D Sonic the Hedgehog Sonic Robo Blast 2
+org.srb2.SRB2Kart-galaxy	SRB2Kart modificat adăugând multe caracteristici personalizate
+org.srb2.SRB2Kart-galaxy_azerty	SRB2Kart modificat adăugând multe caracteristici personalizate cu un aspect azerty al tastaturii franceze
+org.srb2.SRB2Kart-Saturn	SRB2Kart modificat adăugând multe caracteristici personalizate
+org.srb2.SRB2Persona	Un mod inspirat de Persona bazat pe jocul de fani 3D Sonic the Hedgehog Sonic Robo Blast 2
+org.standardnotes.standardnotes	Un loc simplu și privat pentru notele, gândurile și munca de viață
+org.stellarium.Stellarium	Planetariu de birou
+org.stochas.Stochas	Sequencer Stochas
+org.strawberrymusicplayer.strawberry	Un player muzical și organizator de colecții
+org.subsurface_divelog.Subsurface	Gestionați și afișați datele computerului de scufundare
+org.subtitld.Subtitld	Subtitld este un software pentru a crea și edita subtitrări
+org.sugarlabs.AbacusActivity	Un instrument pentru calcule aritmetice simple
+org.sugarlabs.Chart	Creați-vă diagramele
+org.sugarlabs.Chess	Un dulce joc de șah
+org.sugarlabs.ColorDeducto	Un joc bazat pe inducția logică
+org.sugarlabs.Dimensions	Un joc de potrivire a modelelor
+org.sugarlabs.Finance	Aflați elementele de bază ale planificării financiare
+org.sugarlabs.FotoToon	Creează-ți propria benzi desenate
+org.sugarlabs.FractionBounce	Un joc despre fracții
+org.sugarlabs.ImplodeActivity	Implod blocuri de aceeași culoare până când toate dispar
+org.sugarlabs.Maze	Un simplu joc de labirint
+org.sugarlabs.Measure	Program de osciloscop pentru vizualizarea intrării microfonului
+org.sugarlabs.Memorize	Găsiți perechi potrivite
+org.sugarlabs.MusicBlocks	O colecție de instrumente pentru a explora concepte muzicale fundamentale într-un mod distractiv.
+org.sugarlabs.MusicKeyboard	Redați muzică cu această tastatură pentru pian
+org.sugarlabs.Paint	Un instrument de pictură dulce
+org.sugarlabs.Physics	Demonstrați că Sir Isaac Newton are dreptate
+org.sugarlabs.Pippy	Vorbește cu computerul tău în Python
+org.sugarlabs.Pukllanapac	Un joc de puzzle cu alunecare
+org.sugarlabs.ReadETexts	Citiți mii de cărți electronice gratuite
+org.sugarlabs.Sliderule	Un calculator mecanic
+org.sugarlabs.SolarSystem	Aflați despre planete
+org.sugarlabs.Speak	O față animată care vorbește orice ai scrie
+org.sugarlabs.StoryActivity	Spune o poveste
+org.sugarlabs.SwiftFeet	Ridicați-vă și dansați!
+org.sugarlabs.TurtlePondActivity	Înconjurați broasca țestoasă înainte ca aceasta să fugă de ecran
+org.sugarlabs.Words	Un dicționar offline multilingv
+org.supertuxproject.SuperTux	Un joc de sărituri și alergare cu Tux pinguinul
+org.surge_synth_team.surge-xt	Sintetizator Surge XT autonom
+org.synfig.SynfigStudio	Creați și editați animații și compoziții 2D
+org.syphon.Syphon	discutați cu intimitatea și libertatea dvs. intacte
+org.tabos.maxcontrol	Software de control pentru Max! dispozitive
+org.tabos.roger	Jurnal, Fax-Software și Call-Monitor pentru AVM FRITZ!Box sau compatibil
+org.tabos.saldo	Verificați-vă conturile bancare
+org.tabos.twofun	Joc de reacție bazat pe atingere pentru doi jucători.
+org.taisei_project.Taisei	Jocul Bullet Hell shoot 'em up situat în universul Tōhō
+org.telegram.desktop	Rapid. Sigur. Puternic.
+org.telesculptor.TeleSculptor	Fotogrammetrie concepută cu accent pe videoclipurile aeriene
+org.tenacityaudio.Tenacity	Înregistrați și editați fișiere audio
+org.texstudio.TeXstudio	Editor LaTeX
+org.thentrythis.Samplebrain	O aplicație personalizată de piure de probă concepută de Aphex Twin
+org.thonny.Thonny	Python IDE pentru începători
+org.tigervnc.vncviewer	Conectați-vă la serverul VNC și afișați desktopul de la distanță
+org.tildearrow.furnace	Tracker chiptune cu sursă deschisă
+org.tomviz.Tomviz	Vizualizare tomografică gratuită și open source a materialelor la scară nanometrică
+org.tordini.flavio.Minitube	aplicația YouTube
+org.torproject.torbrowser-launcher	Un program care vă ajută să descărcați, să fiți actualizat și să rulați Tor Browser Bundle
+org.tribler.Tribler	Pentru a face Bittorrent anonim și imposibil de închidet.
+org.tropy.Tropy	Explorați fotografiile dvs. de cercetare
+org.tryton.Tryton-68	Client pentru platforma de aplicații Tryton
+org.tryton.Tryton-70	Client pentru platforma de aplicații Tryton
+org.tug.texworks	Un mediu simplu pentru editarea, compunerea și previzualizarea documentelor TeX
+org.turbowarp.TurboWarp	Un mod de Scratch cu un compilator pentru a rula proiecte mai rapid, modul întunecat, o grămadă de suplimente și multe altele
+org.tuxemon.Tuxemon	Tuxemon este un RPG gratuit, open source, care luptă cu monștri.
+org.tuxfamily.hatari	Emulator Atari ST/STE/TT/Falcon
+org.tuxfamily.StuntRally	Joc de curse cu stil de condus de raliu
+org.tuxfamily.XMoto	Joc de platforme motocross 2D
+org.tuxpaint.Tuxpaint	Un program de desenat pentru copii
+org.tvbrowser.TVBrowser	Un EPG gratuit
+org.twinery.Twine	Twine este un instrument open-source pentru a spune povești interactive, neliniare
+org.ultimatepp.TheIDE	IDE pentru cadrul de dezvoltare a aplicațiilor U++ multiplatformă
+org.unitystation.StationHub	Lansator pentru jocul open-source Unitystation
+org.unknown_horizons.UnknownHorizons	Joc de simulare economică în timp real cu sursă deschisă
+org.upnproutercontrol.UPnPRouterControl	Un program simplu care gestionează routerele compatibile UPnP
+org.upscayl.Upscayl	Free și Open Source AI Image Upscaler
+org.v1993.NXDumpClient	Client pentru descărcarea prin USB cu nxdumptool
+org.verapdf.veraPDF	veraPDF este un validator de format de fișier pentru standardul de arhivare PDF/A
+org.vergecurrency.verge-qt	VergeCurrency, o monedă digitală sigură și ușor de utilizat.
+org.vertcoin.vertcoin-qt	Validarea completă a nodului de rețea peer-to-peer Vertcoin, a portofelului și a GUI
+org.videolan.VLC	VLC media player, playerul multimedia open-source
+org.viking.Viking	Editor și analizor de date GPS
+org.vim.Vim	Editorul de text omniprezent
+org.vinegarhq.Vinegar	Un bootstrapper mic și rapid plin de funcții pentru Roblox
+org.virt_manager.virt-viewer	Accesați de la distanță mașinile virtuale
+org.virtualxt.VirtualXT	Emulator Turbo PC/XT
+org.wesnoth.Wesnoth	Un joc de strategie pe rând, cu o temă fantastică
+org.wezfurlong.wezterm	Un emulator și multiplexor de terminal multiplatformă accelerat de GPU
+org.wfview.wfview	Interfață Open Source pentru transceiver-uri Icom
+org.widelands.Widelands	Un joc strategic de construire în timp real
+org.winehq.Wine	Rulați aplicații Windows pe Linux, BSD, Solaris și Mac OS X
+org.wireshark.Wireshark	Wireshark este cel mai important analizor de protocol din lume
+org.worldpossible.ScriptLauncher	Un instrument pentru rularea scripturilor shell cu privilegii root
+org.wxhexeditor.wxHexEditor	Editor avansat de fișiere mari hex
+org.xfce.mousepad	Mousepad este un editor de text simplu pentru mediul desktop Xfce
+org.xfce.ristretto	Vizualizator de imagini rapid și ușor
+org.xiphos.Xiphos	Ghid de studiu biblic
+org.xnec2c.Xnec2c	Un instrument EM cu mai multe fire bazat pe NEC2 pentru a modela modelele de radiație ale antenei
+org.xonotic.Xonotic	Multiplayer, împușcător la persoana întâi, orientat pe deathmatch
+org.x.Warpinator	Trimite și primește fișiere prin rețea
+org.yamagi.YamagiQ2	Yamagi Quake II este un client alternativ pentru Quake II de la id Software
+org.yuzu_emu.yuzu	Emulator Nintendo Switch
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) este un instrument de securitate gratuit popular.
+org.zdoom.GZDoom	Motor clasic de împușcături la persoana întâi pentru toate jocurile clasice de identificare
+org.zealdocs.Zeal	Browser de documentație
+org.zim_wiki.Zim	Scrieți note într-un wiki desktop
+org.zirael.bkchem.BKChem	Program de desenare a moleculelor
+org.zotero.Zotero	Colectați, organizați, citați și împărtășiți cercetările
+org.zrythm.Zrythm	Stație de lucru audio digitală
+org.zulip.Zulip	Zulip Desktop Client pentru Linux
+page.codeberg.DrRac27.Karoto	O aplicație pentru lista de cumpărături pentru mobil Linux
+page.codeberg.Imaginer.Imaginer	Imaginați-vă cu AI
+page.codeberg.JakobDev.CCLite	Un emulator ComputerCraft
+page.codeberg.JakobDev.jdAnimatedImageEditor	Un program simplu pentru crearea de imagini animate
+page.codeberg.JakobDev.jdAppStreamEdit	Un program grafic pentru a crea și edita fișiere AppStream
+page.codeberg.JakobDev.jdDBusDebugger	Un depanator D-Bus avansat
+page.codeberg.JakobDev.jdDesktopEntryEdit	Un program grafic pentru a crea și edita intrări pe desktop
+page.codeberg.JakobDev.jdDiff	Un vizualizator de diferențe grafic pe platformă
+page.codeberg.JakobDev.jdEolConverter	Convertește Sfârșitul liniei tuturor fișierelor dintr-un director
+page.codeberg.JakobDev.jdFlatpakSnapshot	Un program pentru a crea instantanee ale aplicațiilor Flatpak
+page.codeberg.JakobDev.jdMinecraftLauncher	Un lansator Minecraft în stil clasic
+page.codeberg.JakobDev.jdMrpackInstaller	Instalați modpack-urile Modrinth
+page.codeberg.JakobDev.jdNBTExplorer	Un editor pentru fișierele Minecraft NBT
+page.codeberg.JakobDev.jdPixelUpscaler	Imagini de lux per pixel
+page.codeberg.JakobDev.jdProcessFileWatcher	Monitorizați și afișați fără efort accesul la fișiere în timp real pentru orice proces
+page.codeberg.JakobDev.jdReplace	Cu jdReplace puteți înlocui un text în toate fișierele unui director
+page.codeberg.JakobDev.jdSimpleAutostart	Editați intrările cu pornire automată
+page.codeberg.JakobDev.jdTextEdit	Un editor de text avansat
+page.codeberg.lazyt.ubpm	Gestionați datele despre tensiunea arterială
+page.codeberg.libre_menu_editor.LibreMenuEditor	Personalizați meniul
+page.codeberg.papojari.Find_Billy	Un joc de platformă 2d pixel art.
+page.codeberg.Qwel.egui_picross	Un joc de bază de picross, nonogram, griddler
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita Joc temat în jurul unui câine
+page.codeberg.tpikonen.geobug	Verificați-vă locația și salvați-o pe o pistă GPX
+page.codeberg.tpikonen.satellite	Verificați recepția GPS și salvați-vă urmele
+page.codeberg.yeldham.Librerama	O colecție de mini-jocuri arcade cu ritm rapid și gratuit
+party.supertux.supertuxparty	Un joc de petrecere cu mascote FLOSS
+pl.art.lach.slawek.V2BlankBrowser	Browser web, care nu junk ecran
+pl.nieto.fityk	Potrivirea curbei neliniare și analiza datelor
+pl.youkai.lanchat	Chat LAN și transfer de fișiere
+pl.youkai.nscan	Scanner de rețea.
+pm.mirko.Atoms	Gestionați Chroot și Containers.
+pro.vpup.vpuppr	Aplicație VTuber realizată cu Godot 3.4
+radio.k0swe.Kel_Agent	Un agent web de radio amator
+re.chiaki.Chiaki	Client gratuit și cu sursă deschisă pentru PlayStation Remote Play
+re.rizin.cutter	Platformă de inginerie inversă gratuită și open source, alimentată de Rizin și Qt
+re.sonny.Commit	Commit editor de mesaje
+re.sonny.Junction	Selector de aplicații
+re.sonny.OhMySVG	Reduceți dimensiunea SVG-urilor
+re.sonny.Playhouse	Loc de joacă pentru HTML/CSS/JavaScript
+re.sonny.Retro	Un ceas cu segment digital retro personalizabil
+re.sonny.Tangram	Browser pentru filele fixate
+re.sonny.Workbench	Învață și prototipează cu tehnologiile GNOME
+rest.insomnia.Insomnia	Client API Open Source și platformă de proiectare pentru GraphQL, REST și gRPC.
+rocks.koreader.KOReader	Un vizualizator de documente pentru DjVu, PDF, EPUB și multe altele
+ro.fxdata.taskmonitor.viewer	Vizualizați datele TaskMonitor
+ro.go.hmlendea.DL-Desktop	Client desktop neoficial pentru aplicația de învățare a limbilor străine Duolingo
+ro.go.hmlendea.SokoGrump	Joc de logică asemănător lui Sokoban cu Pisica Grumpy
+ro.hume.cosmin.ShoppingList	O aplicație pentru lista de cumpărături pentru dispozitivele mobile GNU/Linux
+ru.proninyaroslav.libretrack	Aplicație privată de urmărire a pachetelor multiplatformă
+ru.sview.sView	Media Player stereoscopic
+ru.yandex.Browser	Browserul web de la Yandex
+sa.sy.bluerecorder	Un înregistrator de ecran simplu pentru desktop Linux. Suportă Wayland și Xorg
+se.cendio.tlclient	Serverul de desktop la distanță Linux construit pe tehnologie open source
+se.emijoh.mpw	Calculați parola unui site, când aveți nevoie de ea.
+se.manyver.Manyverse	rețea socială descentralizată
+se.sjoerd.GIScan	Citiți și analizați datele GISAXS stocate în format cbf
+se.sjoerd.Graphs	Trasează și manipulează datele
+sh.cider.Cider	Un client Apple Music cu sursă deschisă și orientat către comunitate
+sh.fhs.KatawaShoujoReEngineered	O versiune modernă a romanului vizual clasic în stil bishoujo
+sh.ppy.osu	Un joc de ritm gratuit pentru a câștiga. Ritmul este la doar un *clic* distanță!
+sh.xaviers.Opentapes	Ascultați mixtape hip-hop
+si.tano.Vremenar	Afișați condițiile meteo și prognoza pe o hartă într-un mod rapid și simplu
+site.someones.Lonewolf	Organizați-vă și urmăriți-vă sarcinile cu ușurință și flexibilitate
+sm.puri.Chatty	Aplicație de mesagerie pentru mobil și computer
+social.whalebird.WhalebirdDesktop	Whalebird este un client Mastodon, Pleroma și Misskey pentru desktop
+so.libdb.gtkcord4	Client GTK4 Discord în Go
+so.onekey.Wallet	Portofel cripto all-in-one.
+space.fips.Fips	Vizualizator de imagini FITS bazat pe OpenGL
+space.nouspiro.tenmon	Vizualizator de imagini FITS/XISF, convertor, indexare și căutare
+studio.kx.carla	Audio Plugin Host
+tech.feliciano.pocket-casts	Player podcast online
+tk.deat.Jazz2Resurrection	O reimplementare a Jazz Jackrabbit 2
+tr.gov.uyap.Editor	UYAP Document Editor este o aplicație pentru afișarea și crearea documentelor UDF în sistemul UYAP.
+tv.kodi.Kodi	Centru de divertisment suprem
+tv.plex.PlexDesktop	Client Plex pentru computere desktop
+tv.plex.PlexHTPC	Client Plex HTPC pentru marele ecran
+tw.ddnet.ddnet	Cel mai greu joc de platforme 2D în cooperare vreodată
+ua.org.brezblock.q4wine	Utilitar pentru aplicații Wine și gestionarea prefixelor
+uk.co._69_studios.kublit	Joc de puzzle original nou-nouț de la 69 Studios
+uk.co.electronstudio.ComicReaderUltimate	Un telespectator CBZ cu opinie
+uk.co.mangobrain.Infector	Joacă clasicul joc de masă pentru doi până la patru jucători Ataxx
+uk.co.parallelrealities.games.edgar	Joc de platformă de aventură 2D
+uk.co.powdertoy.tpt	Joc sandbox de fizică
+uk.et1.big-finish-downloader	O aplicație GTK pentru a descărca colecția Big Finish
+uk.jnthn.backgammony	Un front-end de table cu suport pentru multiplayer
+uk.me.doof.Lander	Joc arcade în stil Lunar Lander.
+uk.org.greenend.chiark.sgtatham.putty	Client SSH, Telnet și Rlogin
+uk.org.greenend.chiark.sgtatham.puzzles	Colecție de jocuri puzzle
+uk.org.zint.zint-qt	Generator de coduri de bare
+us.ihmc.cmap.CmapTools	Permite utilizatorilor să creeze și să partajeze hărți conceptuale.
+us.zoom.Zoom	Conferințe video, conferințe web, seminarii web, partajarea ecranului
+vet.rsc.OpenRSC.Launcher	Lansator pentru serverele Open RuneScape Classic
+vn.hoabinh.quan.CoBang	Scanner de coduri QR pentru desktop Linux
+website.i2pd.i2pd	Internet invizibil
+work.openpaper.Paperwork	Manager personal de documente
+ws.openarena.OpenArena	Shooter gratuit și open source la persoana întâi
+xyz.aguno.CubeTimer	Ca un StackMat, dar pentru Linux
+xyz.armcord.ArmCord	ArmCord este un client personalizat conceput pentru a vă îmbunătăți experiența Discord, menținând în același timp totul ușor.
+xyz.audiostellar.AudioStellar	Prelevator experimental alimentat cu inteligență artificială
+xyz.eclipium.Hieroctive	Un joc amuzant de memorie pentru a învăța hieroglife!
+xyz.eclipium.TetraSwap	Un joc de puzzle futurist simplu, dar provocator!
+xyz.hyperplay.HyperPlay	Lansatorul de jocuri Web3 din viitor. Transportați-vă portofelul, NFT-urile, jetoanele și realizările în fiecare joc.
+xyz.ketok.Speedtest	Măsurați-vă viteza conexiunii la internet
+xyz.kusma.aurora	Aurora prin Exces
+xyz.ljoonal.neospeeps	O aplicație ușoară care listează observațiile și sesiunile NeosVR
+xyz.mx_moment.moment	Client Matrix personalizabil și operabil cu tastatură
+xyz.rescribe.rescribe	OCR de înaltă calitate pentru imagini, PDF-uri și Google Cărți.
+xyz.safeworlds.hiit	Ceas cronometru pentru antrenament cu intervale de intensitate ridicată
+xyz.safeworlds.midiconn	Hub virtual MIDI
+xyz.slothlife.Jogger	Tracker de fitness
+xyz.splashmapper.Splash	Software de cartografiere video
+xyz.stuerz.BilligSweeper	O clonă ieftină de Minesweeper
+xyz.tytanium.DoorKnocker	Verificați disponibilitatea portalurilor
+xyz.woxel.Woxel	Editor voxel 3D open source asemănător cu Minecraft
+xyz.xclicker.xclicker	Autoclicker rapid gui pentru desktop-uri Linux x11
+xyz.z3ntu.razergenie	Configurați și controlați dispozitivele Razer

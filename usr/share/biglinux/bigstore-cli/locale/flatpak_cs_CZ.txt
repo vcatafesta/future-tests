@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Správce hesel: Udržujte svá hesla v bezpečí na všech platformách a zařízeních
+app.bbsync.BlackboardSync	Stáhněte si obsah Blackboard Learn do svého zařízení
+app.bluebubbles.BlueBubbles	Klient BlueBubbles pro Linux
+app.cantara.Cantara	Jednoduchý, lehký, ale výkonný program pro prezentaci písní v kostelech, malých skupinách nebo na karaoke párty.
+app.drey.Biblioteca	Prohlížeč dokumentace pro GNOME
+app.drey.Blurble	Uhodněte tajenku
+app.drey.Damask	Automaticky nastavit obrázky tapety z internetových zdrojů
+app.drey.Dialect	Překlad mezi jazyky
+app.drey.EarTag	Upravte značky zvukových souborů
+app.drey.Elastic	Navrhněte jarní animace
+app.drey.KeyRack	Zobrazení a úprava tajných klíčů aplikace
+app.drey.MultiplicationPuzzle	Vyřešte matematickou záhadu
+app.drey.Warp	Rychlý a bezpečný přenos souborů
+app.feeddeck.feeddeck	Sledujte své RSS a sociální média
+app.getclipboard.Clipboard	Vystřihněte, zkopírujte a vložte cokoli, kdykoli a kdekoli
+app.getspace.Space	Opakování s mezerou pro kartičky
+app.gummi.gummi	Jednoduchý editor LaTeX
+app.kaiteki.Kaiteki	Pohodlný klient SNS pro všechno a všude
+app.lith.Lith	WeeChat Relay Client
+app.midterm.MidtermDesktop	Bezplatná aplikace pro psaní poznámek pro studium.
+app.moosync.moosync	Přizpůsobitelný hudební přehrávač
+app.organicmaps.desktop	Bezplatná aplikace offline map pro cestovatele, turisty, turisty, řidiče a cyklisty
+app.rednotebook.RedNotebook	Grafický deník a deník
+app.riftshare.RiftShare	Snadné, bezpečné, bezplatné sdílení souborů. Sdílení souborů napříč platformami pomocí magické červí díry
+app.vup.Vup	Open source end-to-end šifrovaná aplikace cloudového úložiště s integrovaným mediálním serverem
+app.xemu.xemu	Originální emulátor Xbox
+app.ytmdesktop.ytmdesktop	Bezplatný multiplatformní stolní přehrávač pro YouTube Music
+app.ywallet.Ywallet	Lehká peněženka pro Ycash a Zcash
+ar.com.pilas_engine.App	Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida
+ar.com.softwareperonista.Rockarrolla	Hudební přehrávač podobný jukeboxu
+ar.com.tuxguitar.TuxGuitar	TuxGuitar je bezplatný editor tabulatur s otevřeným zdrojovým kódem.
+art.taunoerik.tauno-monitor	Jednoduchý samostatný monitor sériového portu.
+art.taunoerik.tauno-serial-plotter	Jednoduchý sériový plotr pro Arduino a další podobná zařízení.
+ar.xjuan.Cambalache	Vytvářejte uživatelskou rozhraní GTK
+at.priv.toastfreeware.ConfClerk	ConfClerk je aplikace, která zpřístupňuje plány konferencí offline
+at.ssh_mitm.server	SSH-MITM - jednoduché audity ssh
+at.vintagestory.VintageStory	Sandboxová hra pro přežití v divočině
+au.edu.uq.esys.escript	esys-escript je pythonovský modul pro implementaci matematických modelů pomocí metody konečných prvků
+br.app.pw3270.terminal	Přístup k hostitelům TN3270
+br.com.gualandi.Xjump	Skákačka pro moderní grafické systémy
+br.gov.cti.invesalius	3D lékařský zobrazovací rekonstrukční software
+br.gov.fazenda.receita.irpf2022	Vyplňte své daně v Brazílii
+br.gov.fazenda.receita.irpf2023	Vyplňte své daně v Brazílii
+ca.desrt.dconf-editor	Grafický nástroj pro úpravy databáze dconf
+cafe.avery.Delfin	Streamujte filmy a televizní pořady z Jellyfin
+ca.hamaluik.Timecop	Aplikace pro sledování času, která respektuje vaše soukromí a zvládne práci, aniž by byla příliš fantazijní
+ca.littlesvr.asunder	Asunder je grafický ripper a kodér audio CD
+camp.nook.nookdesktop	Nook je aplikace, která každou hodinu přehrává témata Animal Crossing.
+ca.parallel_launcher.ParallelLauncher	Moderní emulátor N64
+cat.xtec.clic.JClic	Vzdělávací aktivity a hry pro žáky školy a pedagogy
+ca.uwaterloo.Raven	Modelovací rámec pro simulaci hydrologie povodí
+ca._0ldsk00l.Nestopia	Emulátor zábavního systému Nintendo
+cc.arduino.arduinoide	Open-source platforma pro prototypování elektroniky
+cc.arduino.IDE2	Open-source platforma pro prototypování elektroniky
+cc.craftos_pc.CraftOS-PC	Pokročilý emulátor ComputerCraft
+cc.craftos_pc.CraftOS-PC-Accelerated	Pokročilý emulátor ComputerCraft
+cc.nift.nsm	Dynamický a statický generátor stránek
+cc.retroshare.retroshare-gui	Bezpečná komunikace pro každého
+cern.root.ROOT	Data Analysis Framework
+cn.lceda.LCEDAPro	Jednodušší a výkonnější online nástroj pro návrh PCB
+cn.navclub.ldbfx	Vizuální nástroj pro správu databází
+cn.ottercorp.xivlaunchercn	Launcher a bezproblémová integrace Linuxu pro Final Fantasy XIV Online (Čínská verze)
+cn.xfangfang.wiliwili	Klient Bilibili třetí strany navržený speciálně pro uživatele ovladače
+codes.loers.Karlender	Spravujte svůj rozvrh
+codes.loers.Punchclock	Sledujte čas na své úkoly.
+codes.merritt.adventurelist	Seznam úkolů, který se synchronizuje se všemi vašimi zařízeními
+codes.merritt.bargain	Snadno porovnávejte položky při nákupu
+codes.merritt.FeelingFinder	Rychlý a krásný výběr emotikonů
+codes.merritt.Nyrna	Pozastavit hry a aplikace
+codes.nora.gDiceRoller	Hoďte kostkami mnoha různých tvarů a velikostí ve všech možných kombinacích.
+co.headsetapp.headset	Sluchátka. Objevujte a sbírejte hudbu na YouTube.
+co.luoja.Telyn	Vizuální editor pro parametrické šicí vzory
+com.abagames.noiz2sa	Frenetická abstraktní střílečka
+com.abagames.rRootage	Porazte automaticky vytvořené obrovské bitevní lodě.
+com.abisource.AbiWord	Textový procesor
+com.adamcake.Bolt	Spouštěč Jagex třetí strany s otevřeným zdrojovým kódem
+com.adilhanney.ricochlime	Uspokojivá střílečka monster
+com.adilhanney.saber	Aplikace pro poznámky vytvořená pro ruční psaní
+com.adilhanney.super_nonogram	Vyřešte neomezené množství procedurálně generovaných negramových hádanek!
+com.adilhanney.timing	Naučte se identifikovat subsekundové časové intervaly
+com.adobe.Flash-Player-Projector	Přehrávač obsahu vytvořeného pomocí Adobe Flash
+com.adobe.Reader	Prohlížeč PDF
+com.adrienplazas.Metronome	Udržujte tempo
+com.agatanawrot.karambola	Pomozte Karambolovi na jeho cestě za záchranou jeho emocionálních přátel ovocných lidí z moci temných myšlenek v tomto krátkém ručně kresleném logickém dobrodružství typu point-and-click.
+com.agateau.nanonote	Minimalistická aplikace na psaní poznámek.
+com.agateau.PixelWheels	Pixel Wheels je retro závodní hra shora dolů.
+com.airtame.Client	Airtame je řešení bezdrátového streamování
+com.albiononline.AlbionOnline	MMORPG otevřená středověká fantasy hra
+com.alientrap.nexuiz-classic	Multiplayerová střílečka z pohledu první osoby
+com.alovoa.alovoa-electron	Open-source online seznamovací aplikace
+com.amazon.Workspaces	Získejte přístup ke své ploše odkudkoli, kdykoli a z jakéhokoli zařízení
+com.ampl.ide	Jednoduché a přímočaré vylepšené modelovací rozhraní pro uživatele AMPL
+com.anydesk.Anydesk	Vzdáleně se připojit k počítači
+com.arteeh.Flasher	Jednoduchá aplikace pro flashování chytrých hodinek PineTime pomocí ST-Link
+com.arviceblot.eso-addon-manager	Multiplatformní neoficiální správce doplňků pro The Elder Scrolls Online.
+com.atlauncher.ATLauncher	Spouštěč pro Minecraft, který integruje několik různých modpacků, které vám umožní snadno a rychle stahovat a instalovat modpacky.
+com.authy.Authy	Desktopová aplikace s dvoufaktorovou autentizací Twilio Authy
+com.avocode.Avocode	Odevzdejte a zkontrolujte jakýkoli návrh
+com.axosoft.GitKraken	Pro správu repo, úpravy kódu v aplikaci a sledování problémů.
+com.baidu.NetDisk	Desktopový klient Baidu Netdisk
+com.bambulab.BambuStudio	Získejte dokonalé 3D tisky!
+com.basemark.BasemarkGPU	Nástroj pro hodnocení výkonu GPU
+com.behringer.XAirEdit	Uživatelské rozhraní mixérů Behringer XR
+com.belmoussaoui.ashpd.demo	Hrajte si s portály
+com.belmoussaoui.Authenticator	Generujte dvoufaktorové kódy
+com.belmoussaoui.Decoder	Skenujte a generujte QR kódy
+com.belmoussaoui.Obfuscate	Cenzurovat soukromé informace
+com.belmoussaoui.ReadItLater	Ukládejte a čtěte webové články
+com.belmoussaoui.snowglobe	Prohlížeč virtualizace pomocí QEMU přes DBus
+com.biglybt.BiglyBT	Funkcemi naplněný, open source, bez reklam, bittorrent klient
+com.bitwarden.desktop	Bezpečný a bezplatný správce hesel pro všechna vaše zařízení
+com.bitwig.BitwigStudio	Moderní hudební produkce a performance
+com.bixense.PasswordCalculator	Vypočítejte silná hesla pro každý alias z vašeho jediného tajemství
+com.bjareholt.johan.SimpleDiary	Jednoduchá a lehká aplikace pro deník
+com.bktus.gpgfrontend	Krypto nástroj OpenPGP
+com.bladecoder.adventure-editor	Klasický engine a editor adventur typu point and click
+com.blitterstudio.amiberry	Amiga emulátor pro Linux
+com.blockstream.Green	Jednoduchá a bezpečná bitcoinová a tekutá síťová peněženka
+com.borgbase.Vorta	Zálohovací klient
+com.boxy_svg.BoxySVG	Škálovatelný editor vektorové grafiky
+com.brave.Browser	Webový prohlížeč od Brave
+com.brosix.Brosix	Bezpečný instant messenger vše v jednom
+com.budgetwithbuckets.Buckets	Rychlá, jednoduchá a soukromá aplikace pro rodinný rozpočet
+com.calibre_ebook.calibre	Univerzální řešení pro všechny potřeby e-knih
+com.carpeludum.KegaFusion	Emulátor pro konzole Sega 8 a 16bit
+com.cassidyjames.butler	Společník pro domácího asistenta
+com.cassidyjames.plausible	Jednoduchá alternativa Google Analytics šetrná k ochraně osobních údajů
+com.cburch.Logisim	Logisim je grafický nástroj pro navrhování a simulaci logických obvodů
+com.clarahobbs.chessclock	Časové hry šachů přes desku
+com.claudiocambra.brickbuster	Hra na rozbíjení cihel, zábavná a návyková!
+com.cocoatech.deckr	Desktopová aplikace používaná s pluginem Deckr chrome
+com.codemouse92.timecard	Krásně sledujte čas.
+com.coeck_studios.Dinonuggys-Journey	Pixelartová 2D plošinovka.
+com.corsixth.corsixth	Open source klon Theme Hospital
+com.cuperino.qprompt	Osobní teleprompter software pro všechny tvůrce videa
+com.daidouji.oneko	kočička, která sleduje vaši hračku ukazatele myši na ploše
+com.darhon.drfinance	Spravujte své osobní účty
+com.darhon.syncbackup	Zálohujte a zrcadlte své disky
+com.dec05eba.gpu_screen_recorder	Záznamník obrazovky podobný stínové hře pro Linux. Nejrychlejší záznamník obrazovky pro Linux
+com.dhsdevelopments.Climaxima	Frontend pro Maxima CAS
+com.diffingo.fwbackups	Uživatelsky přívětivý zálohovací program s bohatými funkcemi
+com.discordapp.Discord	Klient pro zasílání zpráv, hlas a video
+com.diy_fever.DIYLayoutCreator	Nástroj pro návrh uspořádání obvodů podporující schémata zapojení PCB, vero-board, point-to-point, perf-board a kytara
+com.djoffe.gnukem	2D rolovací plošinová střílečka v retro stylu
+com.dosbox.DOSBox	x86/DOS emulátor se zvukem a grafikou
+com.dosbox_x.DOSBox-X	x86/DOS emulátor se zvukem a grafikou
+com.doycho.euterpe.gtk	Klient Media Player pro mediální server Euterpe.
+com.dreamsourcelab.DSView	Open source multifunkční nástroj pro každého
+com.dropbox.Client	Přistupujte ke svým souborům z libovolného počítače
+com.eduke32.EDuke32	EDuke32 je úžasný bezplatný homebrew herní engine
+com.ekonomikas.merkato	Sledujte své investice
+com.elsevier.MendeleyDesktop	Mendeley je bezplatný referenční manažer a akademická sociální síť
+com.eminfedar.vaktisalah	aplikace Prayer Times pro více platforem
+com.emqx.MQTTX	Elegantní desktopový klient MQTT 5.0 pro více platforem
+com.endlessm.photos	Snadno upravujte a sdílejte všechny své oblíbené fotografie
+com.endlessnetwork.aqueducts	Pohlcující logická dobrodružná hra, kde si prosekáte cestu k záchraně dne!
+com.endlessnetwork.dragonsapprentice	RPG jako hra s řešením hádanek a procházením dungeonu a další!
+com.endlessnetwork.fablemaker	Vstupte do světa Ezopových bajek jako nikdy předtím! Interaktivní příběhy, kde si můžete přizpůsobit postavy, texty a zvuky a nabourat se do jejich kódu v této pohlcující a vzdělávací aplikaci.
+com.endlessnetwork.frogsquash	Návyková hra s křížovými cestami se zvratem
+com.endlessnetwork.MidnightmareTeddy	Střílejte a přežijte
+com.endlessnetwork.missilemath	Střílečka s letadlem
+com.endlessnetwork.passage	Probourejte se touto boční rolovací akční dobrodružnou střílečkou
+com.endlessnetwork.tankwarriors	Řízení, střelba, výbuchy a programování – vše v jedné hře
+com.endlessnetwork.whitehouse	Pomocí kouzla CSS nabourejte svůj svět do jedinečného záblesku barev a světla, který odhalí skryté předměty a stopy.
+com.enjoyingfoss.feeel	Jednoduchá aplikace pro domácí cvičení/cvičení, která respektuje vaše soukromí
+com.enjoyingfoss.Parlera	Společenská hra, kde vaši přátelé popisují a vy hádáte; nebo naopak
+com.epicgames.ut2004	Arénová střílečka z pohledu první osoby
+com.epicgames.ut99	Arénová střílečka z pohledu první osoby
+com.etlegacy.ETLegacy	ET: Legacy je open source projekt založený na kódu Wolfenstein: Enemy Territory, který byl vydán v roce 2010 za podmínek GPLv3.
+com.expidusos.calculator	Kalkulačka ExpidusOS
+com.expidusos.file_manager	Správce souborů ExpidusOS
+com.feaneron.Boatswain	Ovládněte svůj Elgato Stream Deck
+com.felipekinoshita.Kana	Naučte se japonské znaky
+com.felipekinoshita.Wildcard	Otestujte své regulární výrazy
+com.fightcade.Fightcade	Hrajte arkádové hry online.
+com.flashforge.FlashPrint	Slicer pro 3D tiskárny FlashForge
+com.frac_tion.teleport	Sdílejte soubory přes místní síť
+com.freerdp.FreeRDP	FreeRDP (Remote Desktop Protocol) klient pro Linux
+com.frogatto.Frogatto	2D plošinovka ze staré školy
+com.fyralabs.SkiffDesktop	End-to-end šifrovaný e-mail s důrazem na ochranu soukromí
+com.gamestarmechanic.gamestarmechanic	Naučte se navrhovat videohry
+com.geekbench.Geekbench6	Meziplatformní systémový benchmark
+com.georgefb.mangareader	Manga Reader pro místní soubory
+com.georgefb.quickaccess	Globální nabídka umožňující rychlý přístup ke složkám a vlastním příkazům.
+com.getmailspring.Mailspring	Nejlepší e-mailová aplikace pro lidi a týmy v práci
+com.getpostman.Postman	Platforma pro vytváření a používání API
+com.ghostery.browser	Zcela soukromý zážitek z prohlížení od Ghostery
+com.giadamusic.Giada	Váš hardcore smyčkový stroj
+com.gigitux.youp	Whatsapp
+com.gitfiend.GitFiend	Klient Git určený pro lidi
+com.github.ADBeveridge.Raider	Bezpečně vymažte své soubory
+com.github.afrantzis.Bless	Gtk# Hexový editor
+com.github.aharotias2.parapara	Prohlížeč obrázků bez knihovny
+com.github.ahrm.sioyek	Prohlížeč PDF určený pro čtení výzkumných prací a technických knih
+com.github.alainm23.byte	Znovu objevte svou hudbu
+com.github.alainm23.planner	Už se nikdy nebojte, že na věci zapomenete
+com.github.Alcaro.Flips	Patcher pro soubory IPS a BPS
+com.github.alecaddd.sequeler	Přátelský SQL klient
+com.github.alexhuntley.Plots	Jednoduché vykreslení grafu
+com.github.alexkdeveloper.astronum	Program pro jednoduché astrologické a numerologické výpočty
+com.github.alexkdeveloper.desktop-files-creator	Jednoduchá aplikace pro vytváření souborů na ploše na GNU/Linux
+com.github.alexkdeveloper.dice	Jednoduchá hra s kostkami
+com.github.alexkdeveloper.dwxmlcreator	Jednoduchý tvůrce dynamických tapet
+com.github.alexkdeveloper.easter	Výpočet dat Katolických Velikonoc
+com.github.alexkdeveloper.forgetpass	Jednoduchý generátor hesel pro webové stránky
+com.github.alexkdeveloper.goldsearch	Hra, ve které musíte hledat zlato
+com.github.alexkdeveloper.notepad	Snadné vytváření textových poznámek
+com.github.alexkdeveloper.recorder	Jednoduchý zvukový záznamník
+com.github.alexkdeveloper.relaxator	Relaxujte za uklidňujících zvuků
+com.github.alexkdeveloper.somafm	Jednoduché rádio s vestavěnými stanicemi z webu somafm.com
+com.github.alexkdeveloper.sudoku	Hra sudoku
+com.github.AlizaMedicalImaging.AlizaMS	Prohlížeč DICOM
+com.github.AmatCoder.mednaffe	Front-end (GUI) pro emulátor mednafen (součástí balení)
+com.github.amikha1lov.RecApp	Uživatelsky přívětivý open source screencaster pro Linux napsaný v GTK
+com.github.Anuken.Mindustry	Mindustry: Sandbox Tower-defense hra
+com.github.appadeia.Taigo	Taigo je virtuální mazlíček pro váš desktop
+com.github.arminstraub.krop	Nástroj pro oříznutí souborů PDF
+com.github.arshubham.cipher	Kódovat a dekódovat text
+com.github.arshubham.gitignore	odkaz .gitignore pro různé jazyky
+com.github.artemanufrij.graphui	Vizualizace grafu
+com.github.artemanufrij.playmymusic	Hudební přehrávač pro poslech místních hudebních souborů, online rádií a audio CD
+com.github.artemanufrij.playmyvideos	Video přehrávač pro sledování místních video souborů
+com.github.artemanufrij.regextester	Jednoduchá aplikace pro testování regulárních výrazů
+com.github.avojak.paint-spill	Logická hra s barevným plněním
+com.github.avojak.warble	Hra na hádání slov
+com.github.babluboy.bookworm	Pozoruhodná čtečka elektronických knih
+com.github.bajoja.indicator-kdeconnect	AppIndicator pro KDE Connect
+com.github.bcedu.valasimplehttpserver	Přistupujte ke svým souborům z libovolného zařízení ve stejné síti
+com.github.bcedu.vgrive	Klient Disku Google s automatickou synchronizací pro Linux
+com.github.benpocalypse.Huely	Vybarvěte svůj prostor
+com.github.birros.WebArchives	Prohlížeč webových archivů
+com.github.bjaraujo.Bombermaaan	Arkáda
+com.github.Bleuzen.FFaudioConverter	Dávkový audio převodník a efektový procesor
+com.github.bluesabre.darkbar	Ztmavte titulky aplikací podle vašich preferencí
+com.github.buddhi1980.mandelbulber2	Bezplatný a open source generátor 3D fraktálů
+com.github.bvschaik.julius	Julius je open source re-implementace Caesar III
+com.github.calo001.fondo	Najděte ty nejkrásnější tapety
+com.github.calo001.luna	Úžasný widget kalendáře
+com.github.carlos157oliveira.Calculus	Počítejte derivace a integrály
+com.github.cassidyjames.clairvoyant	Položte otázky, získejte veřejné odpovědi
+com.github.cassidyjames.dippi	Vypočítejte informace o displeji, jako je DPI a poměr stran
+com.github.cfcurtis.pdfstitcher	PDF Stitcher je nástroj pro sešívání a úpravu vlastností čar šicích vzorů PDF
+com.github.corna.Vivado	Xilinx Design Suite pro vývoj hardwaru
+com.github.coslyk.MoonPlayer	Video přehrávač pro přehrávání a stahování online videí z YouTube, Youku atd.
+com.github.cubitect.cubiomes-viewer	Efektivní vyhledávač semen Minecraft a prohlížeč map.
+com.github.dahenson.agenda	Dokončit věci
+com.github.dail8859.NotepadNext	Multiplatformní reimplementace Notepad++
+com.github.Darazaki.Spedread	Software GTK pro rychlé čtení: Čtěte ryche
+com.github.dariasteam.cowsrevenge	Nezávislá platformová pixelová umělecká hra
+com.github.dawidd6.checksumo	Ověřte zadaný soubor podle daného hashe
+com.github.debauchee.barrier	Bariéra – Sdílejte myš a klávesnici v místní síti
+com.github.devalien.workspaces	Buďte vždy připraveni k práci
+com.github.dimkr.gplaces	Klient Gemini založený na terminálu
+com.github.donadigo.appeditor	Upravit nabídku aplikace
+com.github.dynobo.normcap	Extrahujte text odkudkoli na obrazovce
+com.github.d4nj1.tlpui	GTK-UI pro snadnou změnu konfiguračních souborů TLP.
+com.github.edenalencar.identifications	Je to nástroj pro tým QA a vývojáře
+com.github.Eloston.UngoogledChromium	Odlehčený přístup k odstranění závislosti na webových službách Google
+com.github.elth0r0.iqpuzzle	Odklonění I.Q. náročná hádanka pentomino
+com.github.emmanueltouzery.cigale	Zkontrolujte svou minulou aktivitu
+com.github.emmanueltouzery.hotwire	Hotwire umožňuje jednoduchým způsobem studovat síťový provoz několika populárních protokolů
+com.github.emmanueltouzery.projectpad	Projectpad umožňuje spravovat tajné přihlašovací údaje a informace o serveru, se kterými musíte pracovat jako vývojář softwaru nebo správce systému.
+com.github.eneshecan.WhatsAppForLinux	Neoficiální desktopová aplikace WhatsApp pro Linux
+com.github.fabiocolacio.marker	Výkonný editor markdown pro plochu GNOME.
+com.github.finefindus.eyedropper	Vyberte a formátujte barvy
+com.github.Flacon	Flacon extrahuje jednotlivé skladby z jednoho velkého zvukového souboru obsahujícího celé album hudby a uloží je jako samostatné zvukové soubory
+com.github.flxzt.rnote	Skicujte a dělejte si ručně psané poznámky
+com.github.fontmatrix.Fontmatrix	Aplikace pro správu písem
+com.github.fries1234.ncsa-mosaic	Webový prohlížeč NSCA Mosaic
+com.github.gabutakut.gabutdm	Jednoduchý a rychlý správce stahování
+com.github.geigi.cozy	Poslouchejte audio knihy
+com.github.giacomogroppi.writernote-qt	Writernote je multiplatformní aplikace, která vám umožňuje dělat si poznámky nahráváním zvuku, později jej překládat do textu a inteligentním způsobem ho poslouchat.
+com.github.gijsgoudzwaard.image-optimizer	Jednoduchá bezztrátová komprese obrazu
+com.github.git_cola.git-cola	Elegantní a výkonné GIT GUI
+com.github.gmg137.netease-cloud-music-gtk	Cloudový hudební přehrávač Netease založený na Rust + GTK
+com.github.gpuvis.Gpuvis	Vizualizér trasování GPU
+com.github.GradienceTeam.Gradience	Změňte vzhled Adwaity snadno
+com.github.gyunaev.spivak	Přehrávač karaoke
+com.github.hluk.copyq	Pokročilý správce schránky
+com.github.hopsan.Hopsan	Modelovací a simulační nástroj pro kapalinové a mechatronické systémy
+com.github.horaciodrs.tradesim	Linuxový obchodní simulátor
+com.github.hugolabe.Wike	Hledejte a čtěte články na Wikipedii
+com.github.huluti.Coulr	Užijte si barvy a buďte šťastní!
+com.github.huluti.Curtail	Komprimujte své obrázky
+com.github.HypatiaProject.hypatia	Pomocný nástroj pro výzkum, který poskytuje kontext a informace o zajímavých tématech.
+com.github.childishgiant.mixer	Změňte hlasitost aplikací
+com.github.chipmuenk.pyfda	Nástroj Python Filter Design Analysis Tool
+com.github.christianrauch.Jahresarbeit-2003	Najděte největší plochu spojených čtverců
+com.github.ilai_deutel.kibi	Textový editor v ≤1024 řádcích kódu, napsaný v Rustu
+com.github.inercia.k3x	Správce pro místní clustery Kubernetes s k3d
+com.github.iortcw.iortcw	Herní engine pro Return to Castle Wolfenstein
+com.github.IsmaelMartinez.teams_for_linux	Neoficiální klient Microsoft Teams pro Linux využívající Electron
+com.github.iwalton3.jellyfin-media-player	Desktopový klient pro mediální server Jellyfin
+com.github.iwalton3.jellyfin-mpv-shim	Klient pouze Cast pro Jellyfin Media Server
+com.github.JannikHv.Gydl	Stahujte obsah ze stránek, jako je YouTube
+com.github.jeromerobert.pdfarranger	Program pro sloučení, přeuspořádání, rozdělení, otočení a oříznutí PDF
+com.github.jkotra.eovpn	Správce konfigurace OpenVPN
+com.github.jkotra.unlockr	Odstraňovač hesel PDF
+com.github.jmlich.geotagging	Chcete-li najít místo, kde jste fotografii pořídili
+com.github.jms55.Sandbox	Simulační hra z písku
+com.github.johnfactotum.Foliate	Čtěte e-knihy stylově
+com.github.johnfactotum.QuickLookup	Rychle vyhledávejte slova
+com.github.Johnn3y.Forklift	Aplikace pro stahování videa a zvuku
+com.github.joseexposito.touche	Vícedotyková gesta
+com.github.jpakkane.glyphtracer	Převeďte obrázky písmen na písmo
+com.github.junrrein.PDFSlicer	Jednoduchý nástroj pro extrahování, sloučení, změna a změna pořadí stránek dokumentů PDF
+com.github.juzzlin.DustRacing2D	Tradiční automobilová závodní hra shora dolů včetně editoru úrovní
+com.github.kagami.boram	Multiplatformní grafický převodník WebM.
+com.github.kalibari.audok	Bezplatný hudební přehrávač s otevřeným zdrojovým kódem
+com.github.keriew.augustus	Augustus je open source re-implementace Caesar III se změnami ve hře
+com.github.kmwallio.thiefmd	Markdown editor, který stojí za to ukrást.
+com.github.KRTirtho.Spotube	🎧 Open source klient Spotify, který nevyžaduje Premium ani nepoužívá Electron! K dispozici pro stolní počítače i mobilní zařízení!
+com.github.k4zmu2a.spacecadetpinball	Herní engine pro Space Cadet Pinball
+com.github.labyrinth_team.labyrinth	Lehký nástroj pro myšlenkové mapy
+com.github.lachhebo.Gabtag	Nástroj pro značkování zvuku
+com.github.libresprite.LibreSprite	Editor animovaných sprite a nástroj pro tvorbu pixelů
+com.github.liferooter.textpieces	Transformujte text bez použití náhodných webových stránek
+com.github.LongSoft.UEFITool	Prohlížeč a editor obrázků firmwaru UEFI
+com.github.louis77.tuner	Objevte a poslouchejte internetové rozhlasové stanice
+com.github.lxgr_linux.pokete	Hra podobná Pokémonům založená na terminálu
+com.github.makhber.Makhber	Vizualizace a analýza vědeckých dat
+com.github.maoschanz.drawing	Upravte snímky obrazovek
+com.github.maoschanz.DynamicWallpaperEditor	Vytvářejte nebo upravujte dynamické tapety XML (slideshow na pozadí) pro pracovní plochu GNOME
+com.github.marhkb.Pods	Sledujte své kontejnery podmanů
+com.github.marinm.songrec	Open source, neoficiální klient Shazam pro Linux, napsaný v Rustu.
+com.github.marktext.marktext	Editor markdown nové generace
+com.github.matfantinel.moneta	Sledujte směnné kurzy skutečných měn na svém počítači
+com.github.matfantinel.reminduck	Zapamatujte si své věci rozkošně otravným způsobem.
+com.github.Matoking.protontricks	Jednoduchý obal, který dělá wintriky pro hry podporující Proton
+com.github.mdh34.hackup	Přečtěte si Hacker News z plochy
+com.github.mdh34.quickdocs	Rychle si přečtěte Developer Docs
+com.github.mgropp.PdfJumbler	Jednoduchý nástroj pro změnu uspořádání, sloučení, odstranění a otočení stránek v souborech PDF
+com.github.miguelmota.Cointop	Aplikace založená na terminálu pro sledování kryptoměn
+com.github.mikacousin.olc	Ovládejte své světelné show
+com.github.mtkennerly.ludusavi	Zálohujte si data pro uložení videohry v počítači
+com.github.muriloventuroso.easyssh	Správa připojení SSH
+com.github.muriloventuroso.givemelyrics	Texty pro vaše písně
+com.github.muriloventuroso.pdftricks	Triky pro soubory PDF
+com.github.Murmele.Gittyup	Grafický klient Git navržený tak, aby vám pomohl porozumět a spravovat historii zdrojového kódu
+com.github.Murmele.scram	Příkazový řádek a grafický nástroj pro pravděpodobnostní analýzu rizik
+com.github.naaando.lyrics	Krásný způsob, jak zpívat své písně
+com.github.needleandthread.vocal	Skvělý podcastový klient pro moderní bezplatný desktop
+com.github.neithern.g4music	Přehrávejte hudbu elegantně
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x převodník verze ncnn
+com.github.nrittsti.NTag	NTag je multiplatformní grafický editor tagů zaměřený na případy každodenního použití.
+com.github.ojubaorg.Othman	Elektronický prohlížeč Koránu
+com.github.opentyrian.OpenTyrian	Port s otevřeným zdrojovým kódem pro DOS střílečku Tyrian.
+com.github.optyfr.JRomManager	Manažer Mame a Retrogaming Rom
+com.github.paolostivanin.OTPClient	GTK+ aplikace pro správu TOTP a HOTP tokenů s vestavěným šifrováním.
+com.github.petebuffon.yafc	YAFC je kalkulačka, plánovač a analyzátor Factorio. Hlavním cílem YAFC je vyrovnat se se silně modifikovanými hrami.
+com.github.phase1geo.minder	Vytvářejte, rozvíjejte a vizualizujte své nápady
+com.github.philip_scott.notes-up	Váš nový notebook
+com.github.philip_scott.spice-up	Vytvářejte jednoduché a krásné prezentace
+com.github.PintaProject.Pinta	Upravujte obrázky a malujte digitálně
+com.github.polymeilex.neothesia	GPU akcelerovaný midi vizualizér
+com.github.PopoutApps.popout3d	Vytváří 3D obrázky z fotografií pořízených běžným fotoaparátem.
+com.github.powertab.powertabeditor	Prohlížejte a upravujte kytarovou tabulaturu
+com.github.qarmin.czkawka	Multifunkční aplikace k nalezení duplikátů, prázdných složek, podobných obrázků, poškozených souborů atd.
+com.github.qarmin.szyszka	Jednoduchý, ale výkonný přejmenovávač souborů, napsaný v Rustu
+com.github.quaternion	Klient založený na Qt pro sítě Matrix
+com.github.Qv2ray	Qv2ray je multiplatformní grafický frontend v2ray napsaný v Qt.
+com.github.rafostar.Clapper	Jednoduchý a moderní přehrávač médií GNOME
+com.github.raibtoffoletto.litteris	Zorganizována korespondence mezi přáteli
+com.github.rajsolai.response	Otestujte odezvu své webové stránky
+com.github.rajsolai.textsnatcher	Uchopte text pouhým přetažením
+com.github.ransome1.sleek	správce úkolů založený na syntaxi todo.txt pro Linux, bezplatný a open-source (FOSS)
+com.github.reds.LogisimEvolution	Návrhář a simulátor digitální logiky
+com.github.reduz.ChibiTracker	ChibiTracker je přenosný klon IT (Impulse Tracker).
+com.github.rhyme_player.rhyme	Domov vaší hudby.
+com.github.rkoesters.xkcd-gtk	Přečtěte si xkcd: webový komiks romantiky, sarkasmu, matematiky a jazyka
+com.github.robertsanseries.ciano	Převaděč multimediálních souborů
+com.github.rogercrocker.badabib	Prohlížejte a upravujte záznamy BibTeXu
+com.github.Rosalie241.RMG	Snadno použitelný a multiplatformní front-end mupen64plus napsaný v C++ & Qt
+com.github.ryanakca.slingshot	2D vesmírná střílečka s gravitací
+com.github.ryonakano.konbucase	Převeďte malá a velká písmena v textu
+com.github.ryonakano.pinit	Vytvořte si zástupce svých oblíbených přenosných aplikací ve spouštěči
+com.github.ryonakano.reco	Nahrajte si rozhovory, abyste si později zapamatovali obsah
+com.github.sakya.corechess	Open source šachové GUI pro šachové motory
+com.github.scrivanolabs.scrivano	Aplikace na psaní poznámek pro ty, kteří dávají přednost ručnímu psaní před psaním.
+com.github.sdv43.whaler	Správa kontejnerů Docker
+com.github.shonumi.gbe-plus	Emulátor Game Boy (Color, Advance).
+com.github.sixpounder.GameOfLife	Zahrajte si Conwayovu hru o život
+com.github.skullernet.q2pro	Klient Enhanced Quake 2
+com.github.skylot.jadx	Dekompilátor Dex na Java
+com.github.subhadeepjasu.pebbles	Snadno provádějte pokročilé výpočty
+com.github.suzie97.communique	RSS čtečka se synchronizací napříč platformami
+com.github.taiko2k.avvie	Ořízněte obrázky pro avatary nebo tapety
+com.github.taiko2k.tauonmb	Hrajte svou hudbu stylově
+com.github.tenderowl.frog	Získávání textu z obrázků
+com.github.tenderowl.norka	Průběžný textový editor
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto je multiplatformní aplikace, která umožňuje jednoduchým způsobem šifrovat a dešifrovat texty.
+com.github.theCalcaholic.StreamDeck	Přidejte streamovací webové služby do Steamu
+com.github.theironrobin.siglo	Synchronizujte PineTime se svým PinePhone
+com.github.themix_project.Oomox	přizpůsobit ikony, xrdb a GTK motivy
+com.github.tchx84.Flatseal	Spravujte oprávnění pro Flatpak
+com.github.tmewett.BrogueCE	Brogue: Community Edition - komunita vedená větev oblíbené minimalistické roguelike hry
+com.github.treagod.spectator	Pohodlně otestujte svá REST API!
+com.github.unrud.djpdf	Vytvářejte malé soubory PDF s možností vyhledávání z naskenovaných dokumentů
+com.github.unrud.RemoteTouchpad	Ovládejte myš a klávesnici ze smartphonu
+com.github.unrud.VideoDownloader	Stahování dalších videí ze stránek jako YouTube a mnoho dalších
+com.github.utsushi.Utsushi	Image acquisition utilities for Epson
+com.github.varnholt.dynablaster_revenge	Remake of the game Dynablaster
+com.github.vikdevelop.photopea_app	Free alternative for Adobe Photoshop users
+com.github.vikdevelop.timer	Simple Countdown Timer
+com.github.vkohaupt.vokoscreenNG	Easy to use screencast creator
+com.github.vladimiry.ElectronMail	Unofficial desktop client for ProtonMail
+com.github.weclaw1.ImageRoll	Image viewer with basic image manipulation tools
+com.github.wwmm.easyeffects	Zvukové efekty pro programy využívající PipeWire
+com.github.wwmm.pulseeffects	Zvukové efekty pro programy využívající PulseAudio
+com.github.Xenoveritas.abuse	Dark 2D side-scrolling platform game
+com.github.xournalpp.xournalpp	Dělejte si rukou psané poznámky
+com.github.yucefsourani.albasheer-electronic-quran-browser	Electronic Quran Browser
+com.github.zadam.trilium	Build your personal knowledge base
+com.github.z.Cumulonimbus	A simple, beautiful podcast app
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + simple tray indicator
+com.github.ztefn.haguichi	Grafické rozhraní pro Hamachi
+com.github._0negal.Viper	Viper is a launcher and updater for Northstar, and not much more than that.
+com.github._4lex4.ScanTailor-Advanced	Interactive post-processing tool for scanned pages
+com.gitlab.adnan338.Invoicer	Create your payment invoices
+com.gitlab.adnan338.Nixwriter	Create bootable Linux images
+com.gitlab.azymohliad.Qwertone	Promění váš počítač v hudební nástroj
+com.gitlab.bitseater.meteo	Znát předpověď na další hodiny a dny s daty a mapami
+com.gitlab.ColinDuquesnoy.MellowPlayer	Integrace cloudové hudby pro váš počítač
+com.gitlab.coringao.cavestory-nx	Nostalgická vedlejší akční adventura
+com.gitlab.coringao.JAG	Arkádová a logická 2D hra, ve které musíte rozbít všechny cílové kousky
+com.gitlab.cutecom.cutecom	Grafický sériový terminál
+com.gitlab.davem.ClamTk	Snadno použitelné grafické uživatelské rozhraní pro Clam Antivirus (ClamAV)
+com.gitlab.guillermop.MasterKey	Aplikace pro správu hesel
+com.gitlab.j0chn.nextcloud_password_client	Spravujte svá hesla Nextcloud na ploše
+com.gitlab.kendellfab.restscope	Jednoduchý http/rest testovací nástroj vytvořený s D a GtkD.
+com.gitlab.librebob.Athenaeum	Bezplatná náhrada za Steam
+com.gitlab.maevemi.publictransport	aplikace veřejné dopravy (aktuálně) pro Německo
+com.gitlab.Murmele.UDPLogger	UDPLogger je lehký vysoce výkonný zapisovač UDP dat. Dodatečně lze data vizualizovat na grafech.
+com.gitlab.tipp10.tipp10	Dotkněte se Tutor psaní
+com.gluonhq.SceneBuilder	Scene Builder je nástroj s otevřeným zdrojovým kódem, který umožňuje drag and drop design uživatelských rozhraní JavaFX.
+com.google.AndroidStudio	Integrované vývojové prostředí pro platformu Android společnosti Google
+com.google.EarthPro	3D prohlížeč planet
+com.google.Chrome	Webový prohlížeč od společnosti Google
+com.google.ChromeDev	Webový prohlížeč od společnosti Google
+com.googleplaymusicdesktopplayer.GPMDP	Spusťte Hudbu Google Play jako samostatnou počítačovou aplikaci
+com.grangerhub.Tremulous	Aliens vs Humans, střílečka z pohledu první osoby s prvky strategie v reálném čase
+com.hack_computer.Clubhouse	Místo, kde se děti naučí kódovat
+com.hack_computer.OperatingSystemApp	Systém vám umožní být součástí kouzla, které udržuje váš počítač v bzučení!
+com.hack_computer.Sidetrack	Unikněte z bludiště jam a robotů!
+com.hamrick.VueScan	Skenovací software pro více než 6000 skenerů
+com.helix_editor.Helix	Postmoderní textový editor
+com.heroicgameslauncher.hgl	Open Source Epic Games, GOG a Amazon Prime Games Launcher.
+com.her01n.BatteryInfo	Zobrazuje informace o systémové baterii.
+com.hostbuf.FinalShell	Nástroje FinalShell ssh
+com.howlingmoonsoftware.CrayonBall	Rychlý zápas-4 hlavolam
+com.hunterwittenborn.Celeste	Synchronizujte své cloudové soubory
+com.chatterino.chatterino	Chatovací klient pro twitch.tv
+com.chez.GrafX2	Bitmapový malířský program specializovaný na kreslení 256 barvami
+com.chmouel.gnomeNextMeetingApplet	Zobrazit další události na panelu
+com.chowdsp.BYOD	BYOD: Přineste si vlastní zkreslení, samostatný
+com.chroniclogic.Zatikon	Šachová fantasy hra o dobývání nepřátelského hradu
+com.icanblink.blink	Blink SIP klient
+com.icons8.Lunacy	Bezplatný návrhářský software, který udržuje váš tok pomocí nástrojů AI a vestavěné grafiky
+com.identicalsoftware.anagramarama	Vytvořte slova ze změti písmen
+com.inform7.IDE	Napište interaktivní fikci
+com.inklestudios.Inky	Napište interaktivní vyprávění ve značkovacím jazyce Inkle
+com.inochi2d.inochi-creator	Nástroj pro vytváření a úpravu loutek Inochi2D
+com.interversehq.qView	Praktický a minimální prohlížeč obrázků
+com.inventwithpython.flippy	Klon klasické deskové hry Reversi
+com.invoiceninja.InvoiceNinja	Vytvářejte faktury, přijímejte platby, sledujte výdaje a časové úkoly
+com.irccloud.desktop	Moderní, vždy připojený IRC klientský servis
+com.itextpdf.RUPS	iText RUPS je nástroj pro zobrazení struktury PDF
+com.itopia.client	Klient pro servery protokolu RDP (Remote Desktop Protocol).
+com.jagex.RuneScape	Free-to-play fantasy MMORPG
+com.jaquadro.NBTExplorer	Grafický editor NBT pro všechny zdroje dat Minecraft NBT
+com.jetbrains.CLion	Multiplatformní IDE pro C a C++
+com.jetbrains.DataGrip	IDE založené na IntelliJ pro databáze a SQL
+com.jetbrains.GoLand	Schopné a ergonomické Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	Schopné a ergonomické Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Schopné a ergonomické Java IDE pro podnikový, webový a mobilní vývoj
+com.jetbrains.PhpStorm	PHP IDE pro profesionální rozvoj
+com.jetbrains.PyCharm-Community	Nejinteligentnější Python IDE
+com.jetbrains.PyCharm-Professional	Nejinteligentnější Python IDE
+com.jetbrains.Rider	Rychlé a výkonné, multiplatformní .NET IDE
+com.jetbrains.RubyMine	Užijte si prvotřídní podporu pro Ruby 2.x a Rails 6.x, Sinatra, React, Angular, Puppet, Docker a další
+com.jetbrains.WebStorm	Nejchytřejší JavaScript IDE
+com.jetpackduba.Gitnuro	Multiplatformní klient Git
+com.jgraph.drawio.desktop	Vytvářejte a sdílejte diagramy
+com.jonathankang.Weibird	Nativní klient GTK+ Weibo
+com.jpexs.decompiler.flash	Dekompilujte a upravujte soubory SWF
+com.js8call.JS8Call	Software využívající digitální režim JS8 poskytující slabé signály z klávesnice na klávesnici pro radioamatérské operátory
+com.katawa_shoujo.KatawaShoujo	Vizuální román ve stylu bishoujo
+com.kavilgroup.gelectrical	Návrh a analýza elektrických rozvodných sítí
+com.kavilgroup.gestimator	Civilní odhadní software
+com.kolor.AutopanoPro	Profesionální software pro sešívání obrázků od společnosti Kolor
+com.kristianduske.TrenchBroom	Editor úrovní pro hry založené na Quake
+com.ktechpit.colorwall	Nejlepší aplikace pro tapety na plochu
+com.ktechpit.orion	Kompletní torrentový klient a streamer pro Linux Desktop
+com.ktechpit.torrhunt	Vyhledávač torrentů
+com.ktechpit.ultimate-media-downloader	Online video a audio downloader pro Linux, podpora více než 1300 webů
+com.ktechpit.whatsie	Qt Whatsapp Web Client pro Linux Desktop
+com.ktechpit.wonderwall	Správce tapet
+com.lakoliu.Furtherance	Sledujte svůj čas, aniž byste byli sledováni
+com.leinardi.gkraken	Umožňuje ovládat chlazení pumpy NZXT Kraken X z Linuxu.
+com.leinardi.gst	Systémový nástroj určený k namáhání a monitorování různých hardwarových komponent
+com.leinardi.gwe	Systémový nástroj určený k poskytování informací, ovládání ventilátorů a přetaktování vaší karty NVIDIA
+com.leinardi.gx52	Poskytuje ovládání LED a MFD pro Logitech X52 a X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Zdarma a snadno použitelný video přehrávač vyrobený pomocí Haskellu
+com.librumreader.librum	Moderní čtečka elektronických knih a správce knihovny
+com.lixgame.Lix	Hra jako Lemmings s hádankami, editorem, multiplayerem
+com.locomalito.abbayedesmorts	Zastaralá videohra pro temný průchod dějin
+com.logseq.Logseq	Lokální nelineární notebook s obrysovým programem pro organizování a sdílení vaší osobní znalostní báze
+com.lunarclient.LunarClient	Modpack pro všechny moderní verze Minecraftu!
+com.makemkv.MakeMKV	Převodník DVD a Blu-ray na MKV a síťový streamer
+com.maplerain.telsis_translator_flutter	Aplikace, která překládá do az jazyka Telsis používaného v sérii Violet Evergarden
+com.mardojai.DiccionarioLengua	Busca palabras en el DLE
+com.mardojai.ForgeSparks	Získejte oznámení Git Forges
+com.mastermindzh.tidal-hifi	Webová verze listen.tidal.com s podporou Hi-Fi (High and Max).
+com.mattermost.Desktop	Open source platforma pro spolupráci vývojářů
+com.mattjakeman.ExtensionManager	Procházejte, instalujte a spravujte rozšíření prostředí GNOME
+com.meetfranz.Franz	Messenger pro plochu
+com.microsoft.AzureStorageExplorer	Grafický nástroj pro správu prostředků cloudového úložiště Azure
+com.microsoft.Edge	Představujeme nový webový prohlížeč Microsoft Edge. Je čas očekávat více. Více soukromí. Více kontroly. Více produktivity. Větší hodnota.
+com.microsoft.EdgeDev	Představujeme nový webový prohlížeč Microsoft Edge. Je čas očekávat více. Více soukromí. Více kontroly. Více produktivity. Větší hodnota.
+com.milesalan.mepo	Rychlý, jednoduchý a hacknutelný prohlížeč map OSM pro Linux
+com.moddb.TotalChaos	Survival horor odehrávající se na odlehlém ostrově známém jako Fort Oasis
+com.moddb.TotalChaosRetro	Survival horor odehrávající se na odlehlém ostrově známém jako Fort Oasis
+com.mojang.Minecraft	Vytvořte si svůj vlastní svět v jedné z nejpopulárnějších videoher
+com.mongodb.Compass	GUI MongoDB
+com.moonlight_stream.Moonlight	Streamujte hry a další aplikace z jiného počítače se systémem Sunshine nebo GeForce Experience
+com.mousepawmedia.omission	Zdánlivě jednoduchá slovní hádanka.
+com.mudeprolinux.whakarere	Klient Whatsapp GTK4
+community.pathofbuilding.PathOfBuilding	Path of Building (Community) – Výkonný plánovač staveb pro Path of Exile
+com.musixmatch.Musixmatch	Užijte si své texty všude
+com.napster.napster-bigscreen-electron	Napster pro váš kapesní počítač
+com.neatdecisions.Detwinner	Najděte a odstraňte duplicitní soubory a podobné obrázky
+com.netease.CloudMusic	Populární online hudební přehrávač vyvinutý společností Netease
+com.nextcloud.desktopclient.nextcloud	Nextcloud desktopový synchronizační klient
+com.nitrokey.nitrokey-app	Spravujte svá zařízení Nitrokey
+com.nordpass.NordPass	Snadno použitelný správce hesel, který vám přinesli odborníci na kybernetickou bezpečnost.
+com.notepadqq.Notepadqq	Pokročilý textový editor
+com.notesnook.Notesnook	Plně open source a end-to-end šifrovaná alternativa k Evernote
+com.obsproject.Studio	Software pro živé vysílání a nahrávání videa
+com.okta.developer.CLI	Okta CLI je nejjednodušší způsob, jak začít s Okta!
+com.openwall.John	John the Ripper Jumbo prolamování hesel
+com.opera.Opera	Webový prohlížeč od Opery
+com.oppzippy.OpenSCQ30	Nastavení ovládání sluchátek Soundcore Q30
+com.orama_interactive.Pixelorama	Editor 2D sprite s podporou animací
+com.outerwildsmods.owmods_gui	Snadno použitelná aplikace pro instalaci a spouštění modů Outer Wilds
+com.ownrwallet.wallet	Odesílejte, přijímejte, vybírejte, vyměňujte a nakupujte virtuální měny. Přístup a aktiva řídíte pouze vy
+com.ozmartians.VidCutter	Řezačka médií + Truhlář
+com.parallax.PropellerIDE	Vyvíjejte, zkompilujte a nahrajte kód pro platformu Parallax Propeller.
+com.parsecgaming.parsec	Jednoduché streamování her s nízkou latencí
+com.pikatorrent.PikaTorrent	Moderní, jednoduchá, propojená a elektrická aplikace BitTorrent ⚡
+com.pinegrow.Pinegrow	Vizuální webový editor pro profesionály
+com.playonlinux.PlayOnLinux4	Grafický front-end pro Wine
+com.play0ad.zeroad	Real-time strategická hra starověké války
+com.plexamp.Plexamp	Plexamp - Krásný hudební přehrávač Plex pro audiofily, kurátory a hipstery
+com.pojtinger.felicitas.Multiplex	Sledujte torrenty se svými přáteli
+com.pokemmo.PokeMMO	PokeMMO je zdarma hratelné MMorpg, připojte se k rostoucí komunitě, jak postupujete o úroveň výš a objevujete nová monstra
+com.polyphone_soundfonts.polyphone	Vytvořte si vlastní nástroje pro hraní vaší oblíbené hudby
+com.powerball253.eternalmodmanager	Správce modů pro více platforem pro DOOM Eternal.
+com.poweriso.PowerISO	Nástroj all-in-one CD/DVD/Blu-Ray
+com.protonvpn.www	Důvěryhodná a snadno použitelná VPN aplikace pro Linux
+com.prusa3d.PrusaSlicer	Získejte dokonalé 3D tisky!
+com.pypyrev.linuxdcpp	A file-sharing client for the Direct Connect network
+com.qq.QQ	Online instant messaging service
+com.qq.QQmusic	Online music streaming service
+com.quexten.Goldwarden	A Bitwarden compatible desktop client
+com.quixel.Bridge	The perfect Bridge between Megascans and your favorite tools
+com.qzandronum.Q-Zandronum	A Zandronum 3.0 fork with improved netcode, configurable movement and many small tweaks
+com.q3rally.Q3Rally	Survival racing game
+com.rabbit_company.passky	Passky is a simple, modern, lightweight, open-source and secure password manager.
+com.rafaelmardojai.Blanket	Poslouchejte různé zvuky
+com.rafaelmardojai.SharePreview	Otestujte karty sociálních sítí lokálně
+com.rafaelmardojai.WebfontKitGenerator	Vytvářejte sady @font-face jednoduše
+com.raggesilver.BlackBox	A beautiful GTK 4 terminal
+com.ranfdev.Geopard	A gemini browser
+com.ranfdev.Lobjur	A simple lobste.rs client
+com.ranfdev.Notify	Receive notifications from ntfy.sh.
+com.rawtherapee.RawTherapee	Program pro konverzi a zpracování digitálních raw fotografií
+com.realm667.Wolfenstein_Blade_of_Agony	Story-driven FPS inspired by WWII shooters from the 90's and early 2000's
+com.redis.RedisInsight	Developer GUI for Redis, by Redis.
+com.remnantsoftheprecursors.ROTP	A polished modernization of the original Master of Orion Strategy game from 1993.
+com.retrodev.blastem	A Sega Mega Drive/Genesis, and Master System emulator
+com.revolutionarygamesstudio.ThriveLauncher	Evoluční simulační hra. Převezměte kontrolu nad svým druhem v prostředí a upravte svůj druh jako celek. Soutěžte s dalšími vyvíjejícími se druhy o zdroje na cizí planetě.
+com.riverbankcomputing.PyQt.BaseApp	Sdílená platforma pro aplikace, které používají PyQt
+com.rocksandpaper.syndic	Dotyková čtečka RSS/Atom
+com.roguetemple.HyperRogue	Neeuklidovská grafická rogue-like hra
+com.rosegardenmusic.rosegarden	MIDI a audio sekvencer a editor notace
+com.rq3.Reaction	Filmový realismus střílečka z pohledu první osoby
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Lehký přehrávač Qt Audio
+com.scoutshonour.Digital	Počítačová záhada/romance odehrávající se pět minut do budoucnosti roku 1988
+com.scoutshonour.dtipbijays	Duchovní pokračování Digital: A Love Story, odehrávající se na prestižní soukromé střední škole a na sociálních sítích roku 2027
+com.seafile.Client	Klient pro synchronizaci a sdílení souborů Seafile
+com.seal_one.SealOne	Software pro hardwarová podpisová zařízení Seal One
+com.serveftp.officefactoring	Aplikace pro faktoring, sekuritizaci, ESC nebo FIDC
+com.sevenkfans.sevenkaa	Středověká strategická hra v reálném čase
+com.seventhstring.Transcribe	Přepsat! - software pro pomoc při přepisu nahrané hudby
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG s pixelovou grafikou a spoustou rozmanitosti a znovuhratelnosti
+com.sigil_ebook.Sigil	Multiplatformní editor elektronických knih EPUB
+com.sigmyne.crush	Redukce dat a zobrazování pro vybrané astronomické kamery
+com.simplenote.Simplenote	Nejjednodušší způsob, jak si ukládat poznámky
+com.sindresorhus.Caprine	Elegantní desktopová aplikace Facebook Messenger
+com.sireliah.Dragit	Intuitivní aplikace pro sdílení souborů pro místní síť
+com.skype.Client	Volejte a posílejte uživatelům skype s podporou videochatu
+com.slack.Slack	Týmová komunikace pro 21. století
+com.sleepfiles.OSCAR	The Open Source CPAP Analysis Reporter
+com.slugchess.SlugChess	Šachy s Fog-of-War a míchanými důstojníky
+com.snes9x.Snes9x	Emulátor Super Nintendo
+com.solvespace.SolveSpace	Bezplatný (GPLv3) parametrický 3D CAD nástroj
+com.sourcepole.kadas	Mapovací aplikace pro nespecializované uživatele
+com.spacestation14.Launcher	Simulátor katastrofy pro více hráčů
+com.spotify.Client	Online služba streamování hudby
+com.springrts.SpringLobby	Hrajte online hry RTS s enginem Spring
+com.steamdeckrepo.manager	Nainstalujte spouštěcí videa na svůj Steam Deck pomocí rozhraní API webu Steam Deck Repo.
+com.steamgriddb.SGDBoop	Použijte aktiva SteamGridDB na Steam
+com.steamgriddb.steam-rom-manager	Aplikace pro správu ROM ve službě Steam
+com.stepmania.StepMania	Rytmická a taneční hra
+com.stremio.Service	Svoboda streamování
+com.stremio.Stremio	Sledujte videa, filmy, televizní seriály a televizní kanály okamžitě
+com.strlen.TreeSheets	Free Form Data Organizer
+com.st.STM32CubeIDE	Integrované vývojové prostředí pro STM32
+com.sublimemerge.App	Sublime Merge je klient Git od tvůrců Sublime Text
+com.sublimetext.three	Sofistikovaný textový editor pro kód, značkování a prózu
+com.sudovanilla.penpot-desktop	Svoboda designu pro týmy
+com.supermodel3.Supermodel	Arkádový emulátor Sega Model 3
+com.sweethome3d.Sweethome3d	Aplikace 3D interiérového designu Sweet Home
+com.sweetscape.ZeroOneZeroEditor	Profesionální úpravy textu a hex s binárními šablonami
+com.synology.CloudStationBackup	Zálohování v reálném čase vás ušetří před masivní ztrátou dat
+com.synology.SynologyAssistant	Nástroj pro správu Synology NAS v místní síti
+com.synology.SynologyDrive	Výkonné soukromé cloudové úložiště bez opakovaných poplatků
+com.syntevo.SmartGit	Udělejte svůj závazek
+com.syntevo.SmartSynchronize	Porovnání adresářů chytrým způsobem
+com.system76.Popsicle	Flash více USB zařízení paralelně
+com.szibele.e-juice-calc	Zdarma a snadno použitelná kalkulačka E-Juice
+com.tdameritrade.ThinkOrSwim	aplikace ThinkOrSwim Desktop
+com.teamspeak.TeamSpeak	VoIP aplikace TeamSpeak5
+com.teamspeak.TeamSpeak3	VoIP aplikace TeamSpeak
+com.teeworlds.Teeworlds	Online střílečka pro více hráčů
+com.tencent.wemeet	Cloudový HD konferenční produkt využívající více než 20 let zkušeností společnosti Tencent v audiovizuální komunikaci
+com.tercad.fingrom	Platformově agnostická aplikace finančního účetnictví
+com.thebrokenrail.MCPIReborn	Zábava s bloky
+com.thewavewarden.Odin2	Syntezátor Odin 2
+com.thincast.client	Bezplatný klient RDP (Remote Desktop Protocol) pro Linux, MacOS a Windows
+com.ticktick.TickTick	Váš úžasný seznam úkolů a úkolů, abyste udělali všechny věci a měli život dobře organizovaný.
+com.tic80.TIC_80	Fantasy počítač pro vytváření, hraní a sdílení malých her
+com.todoist.Todoist	"Nejlepší aplikace pro seznam úkolů právě teď" - The Verge
+com.toggl.TogglDesktop	Jednoduchý a intuitivní software pro sledování času
+com.tomjwatson.Emote	Moderní vyskakovací výběr emodži
+com.tonikelope.MegaBasterd	Stahujte, nahrávejte nebo streamujte soubory z MEGA.nz
+com.tracktion.Waveform	Digitální audio pracovní stanice pro všechny hudební tvůrce
+com.transmissionbt.Transmission	Stahovat a sdílet soubory přes BitTorrent
+com.tutanota.Tutanota	Zabezpečený e-mail, kalendář a kontakty
+com.tuxpusher.TuxPusher	Zábavná hra na zatlačování mincí s Tuxem!
+com.tuxpusher.TuxPusherAF	515 jedinečných cen + 6 tučňáků
+com.tux4kids.tuxmath	TuxMath je arkádová hra, která pomáhá dětem procvičovat si matematická fakta
+com.tux4kids.tuxtype	Vzdělávací hra pro učitele psaní na stroji s Tuxem v hlavní roli
+com.ugetdm.uGet	Správce stahování
+com.ulduzsoft.Birdtray	Upozornění na novou poštu pro Thunderbird na systémové liště
+com.ultimaker.cura	Slicer pro přípravu vašich projektů 3D tisku
+com.umlet.Umlet	Bezplatný nástroj UML pro rychlé diagramy UML
+com.unity.UnityHub	Herní engine v reálném čase
+com.uploadedlobster.peek	Program pro nahrávání dění na obrazovce se snadno použitelným rozhraním
+com.usebottles.bottles	Spuštění softwaru systému Windows
+com.usebruno.Bruno	Rychlý a Git-Friendly API klient
+com.vagueentertainment.Framed	Digitální fotorámeček pro vaši uměleckou a osobní práci v NFTshowroom
+com.valvesoftware.Steam	Spouštěč pro službu distribuce softwaru Steam
+com.valvesoftware.SteamLink	Streamujte hry z jiného počítače pomocí služby Steam
+com.varnamproject.Varnam	Snadno zadejte indické jazyky
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, vysoce kompatibilní emulátor Gameboy Advance
+com.vesc_project.VescTool	VESC® Tool je zcela nová a 100% přepracovaná náhrada za BLDC-Tool
+com.viber.Viber	Spojujeme lidi bez ohledu na to, kdo jsou nebo odkud jsou
+com.vicr123.thebeat	Audio přehrávač
+com.viewizard.AstroMenace	Hardcore 3D vesmírná rolovací střílečka s možností upgradu vesmírné lodi
+com.virustotal.VirusTotalUploader	Nahrajte soubory na virustotal.com
+com.visualstudio.code	Úprava kódu. Předefinováno.
+com.visualstudio.code-oss	Kód Visual Studio. Úprava kódu. Předefinováno.
+com.vivaldi.Vivaldi	Výkonný, osobní a soukromý webový prohlížeč
+com.vixalien.decibels	Přehrávejte zvukové soubory
+com.vixalien.sticky	Připněte poznámky na plochu
+com.voxdsp.aigeneratedgame	Zachraňte své zahradní přátele před duchy!
+com.voxdsp.AstroImpact	Vesmírná hra pro více hráčů, chraňte planetu před přicházejícími asteroidy!
+com.voxdsp.Borg	Přenosný (SDL) audio syntezátor / tónový generátor inspirovaný Korg ER-1
+com.voxdsp.Borg0	Přenosný (SDL) audio syntezátor / tónový generátor umožňuje uživatelům kreslit oscilátory a obálky.
+com.voxdsp.CubeShooter	3D arkádová střílečka
+com.voxdsp.PoryDrive	Automobilová hra, kde musíte chytit Porygona!
+com.voxdsp.SeriousShooter	3D FPS schválené strýčkem Samem
+com.voxdsp.Snowboarder	Jednoduchá 3D snowboardová hra
+com.voxdsp.Snowling	Bowlingová hra o štěstí
+com.voxdsp.Spaceminer	3D hra pro těžbu vesmíru
+com.voxdsp.Tuxocide	3D FPS, ve které zuří válka na Antarktidě...
+com.voxdsp.TuxScape	Mýtické dobrodružství jako Tux!
+com.voxdsp.TuxVsDragon	Zabijte červeného draka Tuxe!
+com.voxdsp.VoxelPaint	Malujte ve 3D pomocí voxelů!
+com.voxdsp.VoxelPaintPro	Malujte ve 3D pomocí plných stínovaných voxelů!
+com.vscodium.codium	Úprava kódu. Předefinováno. Méně telemetrie.
+com.vysp3r.ProtonPlus	Jednoduchý správce nástrojů pro kompatibilitu na bázi Wine a Proton
+com.vzhd1701.gridplayer	Přehrávejte videa vedle sebe
+com.whitemagicsoftware.kmcaster	Zobrazení událostí myši a klávesnice na obrazovce
+com.wickeditor.WickEditor	Nástroj pro vytváření her, animací a všeho mezi tím!
+com.wings3d.WINGS	Pokročilý modelář dělení
+com.wire.WireDesktop	Nejbezpečnější platforma pro spolupráci
+com.wiz.Note	Vynikající desktopové prostředí PKM (personal knowledge management) založené na využití cloudu
+com.wps.Office	WPS Office Suite
+com.writerduet.writersolo	Rozsáhlá desktopová aplikace pro plné psaní scénáře nebo převod mezi různými formáty scénáře, jako je finální návrh fdx nebo fountain
+com.w1hkj.fldigi	Amatérská rádiová komunikace se zvukovou kartou
+com.w1hkj.flrig	Ovládání amatérského rádia
+com.xnview.XnConvert	Snadno dávkové zpracování obrázků a úprava metadat
+com.xnview.XnRetro	Vytvářejte úžasné snímky s vintage nebo okamžitým efektem
+com.xnview.XnSketch	Proměňte své fotografie na kreslené nebo skicované obrázky
+com.xnview.XnViewMP	Prohlížejte si a roztřiďte své obrázky
+com.xunlei.Thunder	Xunlei ke stažení.迅雷下载.
+com.yacreader.YACReader	Další komiksová čtenářka
+com.yktoo.ymuse	Snadný, funkční a rychlý GTK front-end (klient) pro Music Player Daemon
+com.ylsoftware.qmmp.Qmmp	Přehrávač hudby založený na Qt
+com.yubico.yubioath	Grafické rozhraní pro zobrazení OATH kódů pomocí YubiKey
+com.zandronum.Zandronum	Přední cesta v online hře Doom pro více hráčů nové školy
+com.zerobrane.studio	Lehké IDE založené na Lua pro Lua
+com.zettlr.Zettlr	Editor Markdown pro 21. století
+com.zhqli.wikit	Univerzální slovník
+com.zoho.Notebook	Nejkrásnější aplikace na psaní poznámek napříč zařízeními
+com.zquestclassic.ZQuest	Herní engine pro vytváření her podobných populární klasické adventuře
+cool.ldr.lfy	Překladový software pro gnome
+cz.cvut.edu.comparch.qtrvsim	RISC-V CPU simulátor pro vzdělávací účely
+cz.krupkat.Xpano	Nástroj pro automatické sešívání fotografií
+cz.zeropage.Formiko	editor reStructuredText a MarkDown a živý náhled
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Jednoduchá kalkulačka pro sčítání hodin a minut
+de.akaflieg_freiburg.enroute	Letová navigační aplikace pro piloty VFR
+de.bforartists.Bforartists	Kompletní, bezplatná a opensource 3D sada
+de.billardgl.Billardgl	Zábavná 3D kulečníková hra
+de.blobbyvolley.BlobbyVolley2	Vzájemná volejbalová hra pro více hráčů.
+de.breitbandmessung.Breitbandmessung	Umožňuje měřit rychlost internetu.
+de.bund.ausweisapp.ausweisapp2	Oficiální autentizační aplikace pro německý průkaz totožnosti a povolení k pobytu
+de.create3000.titania	Upravujte, prohlížejte a procházejte světy X3D a VRML
+de.fabrik19.mos-Launcher	Používá se pro vývoj pomocí sady Mobilitysuite
+de.finnik.PassVault	Spravujte svá hesla bezpečně a snadno pomocí PassVault
+de.flinkebits.AvaEmailArchivar	Archivace a obnova e-mailů z poštovních schránek IMAP
+de.gunibert.Hackgregator	Hacker News Reader
+de.haeckerfelix.AudioSharing	Sdílejte zvuk svého počítače
+de.haeckerfelix.Fragments	Klient pro BitTorrent
+de.haeckerfelix.Shortwave	Poslouchejte internetové rádio
+de.halaszovich.PMbrowser	Otevřít, procházet a exportovat datové soubory PM
+de.ifw_dresden.nagstamon	Nagstamon je stavový monitor pro pracovní plochu.
+de.k_bo.Televido	Přístup k německé veřejnoprávní televizi
+de.klayout.KLayout	Prohlížeč a editor rozvržení masek
+de.lernsoftware_filius.Filius	Filius je síťový simulátor pro vzdělávací účely.
+de.linuxguides.RechnungsAssistent	Německý generátor faktur
+de.manuel_kehl.go-for-it	Stylový úkolovník se zabudovaným časovačem produktivity
+de.marlam.gencolormap	Generátor barevných map
+de.marlam.qv	2D vizualizér dat
+de.mediathekview.MediathekView	Přístup k veřejnoprávní německé televizi Mediathek
+de.nicokimmel.shadowcast-electron	Zobrazuje videostream ShadowCast od Genki
+de.peterge.combined	Kombinovaný! je bloková logická hra. Vaším cílem je spojovat bloky, abyste získali vyšší bloky na hrací ploše.
+de.philippun1.Snoop	Prohledávejte své soubory
+de.philippun1.turtle	Spravujte své git repozitáře
+de.rwth_aachen.ient.RDPlot	RDPlot je nástroj pro vykreslování křivek zkreslení rychlosti
+de.rwth_aachen.ient.YUView	Multiplatformní přehrávač YUV založený na QT s pokročilou sadou analytických nástrojů
+de.sesu8642.feudaltactics	Strategická hra s nespočtem jedinečných a náročných úrovní.
+de.shorsh.discord-screenaudio	Vlastní discord klient, který podporuje streamování se zvukem na Linuxu
+de.schmidhuberj.DieBahn	Cestujte se všemi informacemi o vlaku na jednom místě
+de.schmidhuberj.Flare	Chatujte se svými přáteli na Signal
+de.schmidhuberj.tubefeeder	Sledujte tvůrce videí
+de.syping.gta5view	Otevírejte a upravujte profily GTA V
+de.tumexam.cli	Klient pro TUMexam pro správu studentů a zkoušek.
+de.unifreiburg.ellipticcurve	Načrtne eliptické křivky a umožní experimentovat s jejich grupovým zákonem
+de.uni_heidelberg.zah.GaiaSky	Open Source simulátor 3D vesmíru pro desktop a VR s podporou více než miliardy objektů
+dev.alextren.Spot	Poslouchejte hudbu na Spotify
+dev.ares.ares	sada emulace vícesystémových konzolí
+dev.atoft.Reactions	Jednoduché vyhledávání GIF.
+dev.aunetx.deezer	Online služba streamování hudby
+dev.bambosh.UnofficialHomestuckCollection	Offline sbírka Homestuck a jeho souvisejících děl
+dev.boxi.Boxi	Emulátor terminálu pro použití s Toolbox
+dev.bragefuglseth.Fretboard	Hledejte kytarové akordy
+dev.bsnes.bsnes	Emulátor Super Nintendo
+dev.Cogitri.Health	Sledujte své kondiční cíle
+dev.deedles.Trayscale	Neoficiální obal GUI kolem Tailscale CLI.
+dev.edfloreshz.Done	Přepracované seznamy úkolů
+dev.ensoft.ecode	Lehký multiplatformní editor kódu určený pro moderní hardware se zaměřením na odezvu a výkon.
+dev.gbstudio.gb-studio	Rychlý a snadno použitelný drag and drop tvůrce retro her pro Game Boy
+dev.geopjr.Collision	Zkontrolujte kontrolní součty vašich souborů
+dev.geopjr.Tuba	Procházet Fediverse
+dev.goats.xivlauncher	Launcher a bezproblémová integrace Linuxu pro Final Fantasy XIV Online
+dev.hdos.HDOS	High Detail Old School Runescape klienta
+dev.jamiethalacker.window_painter	Naplňte desku barvou stejné barvy
+dev.krtirtho.Flemozi	Advanced⚡ Emoji Picker😀 pro Linux🐧, Windows🪟 a macOS🍎
+dev.k8slens.OpenLens	Kubernetes IDE
+dev.lapce.lapce	Bleskově rychlý a výkonný editor kódu napsaný v Rustu
+dev.lasheen.qr	Skener/generátor QR kódů
+dev.levz.TinyImageFinder	Vyhledávač obrázků s náhledem
+dev.linwood.butterfly	Výkonná, minimalistická, multiplatformní, opensource aplikace na psaní poznámek
+dev.lizardbyte.app.Sunshine	Vlastní hostitel herního streamu pro Moonlight.
+dev.lukebriggs.pepys	Přímý žurnál s cennými papíry
+dev.mrquantumoff.mcmodpackmanager	Spravujte své modpacky snadno!
+dev.mufeed.Wordbook	Vyhledat definice pro jakýkoli anglický výraz
+dev.paullee.scraterpreter.Scrape	Scraterpreter je interpret, který spouští projekty .sb3 (Scratch).
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc je kompilátor pro Scraterpreter.
+dev.pulsar_edit.Pulsar	Hyper-Hackable Text Editor vedený komunitou
+dev.rzia.minesector	Snazzy hra založená na hledání min
+dev.salaniLeo.forecast	Aplikace Počasí pro GNOME
+dev.salaniLeo.immagini	Nástroj pro knihovnu a tvorbu pro aplikace AppImage
+dev.serebit.Waycheck	Zobrazuje protokoly implementované skladatelem Wayland
+dev.schlaubi.Tonbrett	Doprovodná aplikace pro Discord Soundboard Bot
+dev.slimevr.SlimeVR	Aplikace pro usnadnění sledování celého těla ve virtuální realitě
+dev.stewlab.PortaWar	Vítejte ve válce handheldů!
+dev.storyapps.starc	Aplikace All-in-One pro psaní
+dev.tchx84.Portfolio	Spravujte soubory na cestách
+dev.vencord.Vesktop	Aplikace Snappier Discord s Vencordem
+dev.vieb.Vieb	Prohlížeč elektronů inspirovaný Vim
+dev.zelikos.rollit	Hoďte kostkou
+de.wger.flutter	Fitness/cvičení, výživa a váha tracker
+de.willuhn.Jameica	Aplikační platforma podobná OSGI
+de.wwwtech.ColorMate	Převod barev CSS mezi zápisy
+de.zwarf.picplanner	Naplánujte si další umístění fotek
+de._0x539.gobby	Upravujte textové soubory společně
+dk.tangramgames.mrrescue	Hasičská arkádová hra
+edu.berkeley.BOINC	Přispějte výpočetním výkonem projektům provádějícím výzkum v mnoha vědeckých oblastech
+edu.mit.Scratch	Vytvářejte příběhy, hry a animace a sdílejte je s ostatními po celém světě
+edu.princeton.physics.WSJTX	Provoz amatérského rádia se slabým signálem
+edu.stanford.Almond	Otevřená virtuální asistentka
+edu.stanford.protege	Prostředí pro úpravy ontologie bohaté na funkce
+engineer.atlas.Nyxt	Hackerův prohlížeč
+es.estoes.wallpaperDownloader	Stahujte, spravujte a měňte své tapety automaticky z internetu
+eu.ad5001.LogarithmPlotter	Software 2D logaritmického plotru pro vytváření Bodeových grafů, sekvencí a distribučních funkcí
+eu.betterbird.Betterbird	Betterbird je soft fork Mozilla Thunderbird. Jednoduše lepší.
+eu.cichy1173.tabela	Jednoduchá aplikace, která zobrazuje obsah CSV v tabulce
+eu.ithz.umftpd	Přístup k souborům z jiného zařízení
+eu.ngdevelopment.tsukitag	Anime imageboard prohlížeč, agregátor, downloader, tagger, konvertor, správce kolekce. Procházejte a vytvářejte své vlastní kolekce, konfigurujte pracovní prostory pro stahování obrázků s podporou šablon.
+eu.nimmerfort.blackbody	Prohlížeč termogramů
+eu.ototu.Quteqoin	Aplikace pour lire les tribunes
+eu.planete_kraus.Tarot	Zahrajte si hru Tarot proti umělé inteligenci
+eu.scarpetta.PDFMixTool	Aplikace pro provádění běžných úprav souborů PDF
+eu.skribisto.skribisto	Software pro psaní
+eu.stethewwolf.gresistor	Kalkulačka barevných kódů rezistorů
+eu.usdx.UltraStarDeluxe	Karaoke program, který vyhodnotí váš výkon
+eu.vcmi.VCMI	Herní engine s otevřeným kódem pro Heroes of Might and Magic III
+fi.mooc.tmc.tmc-cli-rust	CLI pro vyhodnocovací program přiřazení TestMyCode.
+fi.skyjake.Lagrange	Krásný klient Blíženců
+fm.cancel.Ripcord	Alternativní desktopový chatovací klient pro Slack (a Discord)
+fm.helio.Workstation	Software Helio Project pro skládání hudby zdarma
+fm.reaper.Reaper	Digitální audio pracovní stanice
+fr.dwightstudio.JArmEmu	Jednoduchý simulátor ARMv7 napsaný v Javě, určený pro vzdělávací účely
+fr.fgrabenstaetter.DigitalAssets	Ceny a statistiky kryptoměn
+fr.free.brouits.qspeakers	Software pro návrh reproduktorů
+fr.free.Homebank	Zdarma, snadné, osobní účetnictví pro každého
+fr.free.hxc2001.HxCFloppyEmulator	Softwarové a hardwarové řešení pro výměnu staré diskety
+fr.free.qccrypt.Qccrypt	QT založený grafický frontend pro nástroj ccrypt
+fr.handbrake.ghb	Video transkodér
+fr.henri2h.minestrix	Sociální média zaměřená na soukromí založená na Matrixu
+fr.inria.corese.CoreseCommand	Odemkněte sílu sémantického webu
+fr.inria.corese.CoreseGui	Odemkněte sílu sémantického webu
+fr.masson_informatique.WhosWho	Vytvářejte dokumenty PDF s obrázky lidí a odpovídajícím jménem, které se také nazývají kdo je kdo, ročenka nebo facebook
+fr.natron.Natron	Software pro tvorbu videa s otevřeným zdrojovým kódem
+fr.romainvigier.MetadataCleaner	Zobrazit a vyčistit metadata v souboru
+fr.romainvigier.zap	Přehrávejte zvuky ze zvukové desky
+fr.rubet.rpn	Reverzní polská notace CLI kalkulačka
+fr.sgued.ten_forward	Ovládejte bránu NAT-PMP
+fun.vnote.app.VNote	Příjemná platforma na psaní poznámek
+fyi.zoey.Boop-GTK	Port of IvanMathy's Boop to GTK, skriptovatelný zápisník pro vývojáře.
+fyi.zoey.TeX-Match	Najděte symboly LaTeX pomocí skicování
+games.zetsubou.AnAdventurersGallantry	Zneuctěný rytíř ve výcviku Oren dostává druhou šanci na život jako dobrodruh v tomto fantasy vizuálním románu
+games.zetsubou.HumanityMustPerish	Komediální vizuální román o androidce oblečené jako středoškolačka, která se připravuje zničit lidstvo
+games.zetsubou.MaxMassacre	Vizuální román odehrávající se ve fantasy světě plném monster
+games.zetsubou.SablesGrimoireDemo	Vizuální román Monster girl, který se odehrává v kouzelnické akademii
+games.zetsubou.WanderNoMore	Vizuální román vyprávějící příběh zlotřilého samuraje
+garden.turtle.Jellybean	Sledujte počet položek, které je možné doplnit
+ga.rpmtw.rpmlauncher	Lepší Minecraft Launcher, který podporuje více platforem a mnoho funkcí, které můžete prozkoumat!
+gg.guilded.Guilded	Klient pro zasílání zpráv, hlas a video
+gg.minion.Minion	Správce doplňků pro The Elder Scrolls Online a World of Warcraft
+gg.tesseract.Tesseract	Střílečka z pohledu první osoby s kooperativní úpravou mapy ve hře
+global.worldcoin.worldcoin-core	Odděleni hranicemi, spojeni technologií
+hu.irl.cameractrls	Ovládání fotoaparátu pro Linux
+hu.kramo.Cartridges	Spusťte všechny vaše hry
+chat.delta.desktop	Delta Chat e-mailový messenger
+chat.quadrix.Quadrix	Minimální, jednoduchý, multiplatformní chatovací klient pro protokol Matrix
+chat.revolt.RevoltDesktop	Desktopová aplikace Revolt
+chat.rocket.RocketChat	Open Source týmová komunikace
+chat.schildi.desktop	SchildiChat je Matrix klient založený na Elementu s tradičnějším zážitkem pro rychlé zasílání zpráv.
+chat.tandem.Client	Virtuální kancelář pro vzdálené týmy
+ch.imatt.ClipQR	Naskenujte QR kódy na obrazovce a z fotoaparátu.
+ch.openboard.OpenBoard	Interaktivní tabule pro školy a univerzity
+ch.protonmail.protonmail-bridge	Bezproblémově šifruje a dešifruje vaši poštu při vstupu a výstupu z vašeho počítače
+ch.protonmail.protonmail-import-export-app	Importujte e-maily do své zabezpečené schránky ProtonMail nebo provádějte offline zálohy pomocí aplikace Import-Export.
+ch.theologeek.Manuskript	Open source nástroj pro spisovatele
+ch.threema.threema-web-desktop	Threema pro desktop je desktopový klient pro Threema, end-to-end šifrovaný mobilní messenger zaměřený na soukromí hostovaný a vyvinutý ve Švýcarsku. NEOFICIÁLNÍ BALENÍ.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Hrajte Minecraft a vytvořte si svůj vlastní svět!
+ch.x29a.playitslowly	Přehrávejte hudbu jinou rychlostí
+id.sideka.App	Platforma pro správu vesnice
+il.co.ravkavonline.RavKavOnline	Načtěte si kartu Rav-Kav doma a cestujte pohodlně
+im.bernard.Funkcio	Kreslit funkce z bodů
+im.bernard.Nostalgia	Nastavte historické tapety GNOME
+im.dino.Dino	Moderní klient XMPP
+im.fluffychat.Fluffychat	Chatujte se svými přáteli
+im.gitter.Gitter	Komunikační produkt pro komunity a týmy na GitHubu.
+im.kaidan.kaidan	Uživatelsky přívětivý a moderní klient pro rozhovory pro každé zařízení
+im.pidgin.Pidgin	Klient pro rychlé zasílání zpráv
+im.riot.Riot	Vytvářejte, sdílejte, komunikujte, chatujte a volejte bezpečně a přepojujte se s jinými aplikacemi
+im.srain.Srain	Moderní IRC klient napsaný v GTK
+in.bharatkalluri.shortcircuit	Vývojářský zápisník
+in.bharatkalluri.splash	Nastavte pozadí plochy ve vysokém rozlišení z Unsplash!
+in.cinny.Cinny	Další klient Matrix s jednoduchým, elegantním a bezpečným rozhraním.
+info.beyondallreason.bar	Total Annihilation Inspired RTS, na kterou jste čekali
+info.bibletime.BibleTime	Studijní program Bible
+info.cemu.Cemu	Emulátor Nintendo Wii U
+info.colobot.Colobot	Kolonizujte s roboty
+info.febvre.Komikku	Přečtěte si svou oblíbenou mangu
+info.mumble.Mumble	Šifrovaný klient VoIP s nízkou latencí
+info.olasagasti.revelation	Správce hesel
+info.portfolio_performance.PortfolioPerformance	Sledujte výkonnost investičního portfolia
+info.puredata.Pd	Grafické programovací prostředí v reálném čase pro živou interaktivní počítačovou hudbu
+info.puredata.Pd-extended	Open source vizuální programovací jazyk pro multimédia
+info.rttr.Return-To-The-Roots	Fan projekt, který reimplementuje hru The Settlers 2
+info.smplayer.SMPlayer	Skvělý přehrávač médií
+info.urbanterror.UrbanTerror	Taktická střílečka z pohledu první osoby s prvky akčního filmu
+ink.scribl.Scribl	Vytvářejte jednoduchá instruktážní videa
+in.p1x.TanksOfFreedom	Indie tahová strategie v umění izometrických pixelů
+in.srev.guiscrcpy	Software pro zrcadlení obrazovky Android
+io.appflowy.AppFlowy	Open Source pojem alternativa
+io.atom.Atom	Napadnutelný textový editor pro 21. století
+io.bassi.Amberol	Přehrává hudbu, a nic víc
+io.beekeeperstudio.Studio	Editor SQL a správce databáze vašich snů
+io.blockloader.BlockLoader	Nejlepší správce modů Minecraft
+io.botfather.Botfather	Univerzální automatizační rámec
+io.conduktor.Conduktor	Krásný a plně vybavený desktopový klient pro Apache Kafka
+io.crow_translate.CrowTranslate	Jednoduchý a lehký překladač
+io.dbeaver.DBeaverCommunity	Universal Database Manager
+io.defn.Franz	Desktopový klient pro Apache Kafka
+io.edcd.EDMarketConnector	Aktualizuje EDDN daty z vaší hry
+io.emeric.toolblex	Skener a analyzátor zařízení Bluetooth Low Energy
+io.emeric.watchflower	Aplikace pro monitorování rostlin pro Bluetooth Low Energy senzory a teploměry, jako je Xiaomi 'Flower Care' nebo Parrot 'Flower Power'
+io.enpass.Enpass	Enpass je správce hesel pro bezpečné ukládání a správu vašich hesel a dalších přihlašovacích údajů.
+io.exodus.Exodus	All-in-one aplikace pro zabezpečení, správu a výměnu blockchainových aktiv
+io.frama.tractor.carburetor	Aplikace Onion Routing
+io.freetubeapp.FreeTube	Open Source aplikace YouTube pro ochranu soukromí
+io.gdevelop.ide	Rychlá a snadná tvorba her
+io.gdevs.GDLauncher	GDLauncher je jednoduchý, ale výkonný vlastní spouštěč Minecraftu se silným zaměřením na uživatelský zážitek.
+io.github.aandrew_me.ytdn	Stahujte videa a audio ze stovek webů
+io.github.Adda0.Stardrop	Neoficiální fork Stardrop s vlastními změnami
+io.github.adrienverge.PhotoCollage	Grafický nástroj pro vytváření koláží z fotografií
+io.github.aerocyber.sitemarker	Správce záložek s otevřeným zdrojovým kódem
+io.github.aggalex.Wineglass	GUI pro víno
+io.github.achetagames.epic_asset_manager	Spravujte svá díla Epic
+io.github.alainm23.planify	Zapomeňte na zapomínání věcí
+io.github.alexkdeveloper.gomoku	Hra Gomoku
+io.github.alexkdeveloper.radio	Jednoduché rádio se stanicemi z webu radio-browser.info
+io.github.alexkdeveloper.zodiac	Jednoduchý program pro vykreslování horoskopů
+io.github.amit9838.weather	Krásná a lehká aplikace pro počasí
+io.github.am2r_community_developers.AM2RLauncher	Front-end pro řešení aktualizací a modů AM2R
+io.github.am2r_community_developers.Atomic	Nástroj pro balení modů pro AM2R mody.
+io.github.andreibachim.shortcut	Vytvořte zástupce aplikací
+io.github.Andrettin.Wyrmsun	Strategická hra založená na historii, mytologii a fikci
+io.github.anirbandey1.ChatbotClient	Elektronový obal pro web ChatGPT
+io.github.antimicrox.antimicrox	Grafický program používaný k mapování tlačítek gamepadu na klávesnici, myš, skripty a makra
+io.github.appoutlet.GameOutlet	Najděte nejlepší ceny počítačových her
+io.github.Archeb.opentrace	Multiplatformní obal GUI pro NextTrace
+io.github.Arisotura.CoinKiller	Editor úrovní pro NSMB2
+io.github.arunsivaramanneo.GPUViewer	Front-end pro glxinfo, vulkaninfo, clinfo a es2_info
+io.github.Bavarder.Bavarder	Chatujte s AI
+io.github.benini.scid	Šachová databázová aplikace
+io.github.betaflight.BetaflightConfigurator	Crossplatformní konfigurační nástroj pro systém řízení letu Betaflight
+io.github.bkueng.qMasterPassword	Bezstavový správce hlavních hesel
+io.github.Bollos00.LibreMines	Free/Libre a Open Source Software založená na Qt Minesweeper hra dostupná pro GNU/Linux, FreeBSD a systémy Windows.
+io.github.bothlab.pomidaq	Prohlížejte a nahrávejte videa z miniskopů UCLA
+io.github.bothlab.syntalos	Synchronizovaný sběr dat z různých zdrojů a flexibilní řízení experimentů
+io.github.brainstormtrooper.facteur	Odešle e-maily založené na šablonách seznamu příjemců
+io.github.brunoherbelin.Vimix	Živý video mix
+io.github.btpf.alexandria	Minimalistická čtečka elektronických knih
+io.github.bytezz.IPLookup	Najděte informace o IP adrese
+io.github.carterbox.Electricity_Clock	Monitor doby používání pro sazby za elektřinu
+io.github.cboxdoerfer.FSearch	Grafická aplikace pro vyhledávání souborů
+io.github.celluloid_player.Celluloid	GTK+ rozhraní nad mpv
+io.github.cges30901.hmtimer	Grafický časovač vypnutí
+io.github.ciromattia.kcc	Aplikace, která vám umožní transformovat vaše soubory PNG, JPG, GIF, CBZ, CBR a CB7 na e-knihy ve formátu EPUB nebo MOBI
+io.github.cleomenezesjr.Escambo	Testujte a vyvíjejte API
+io.github.cloose.CuteMarkEd	Editor Qt Markdown
+io.github.cmus.cmus	Konzolový hudební přehrávač
+io.github.Cockatrice.cockatrice	Virtuální stolní deska pro karetní hry pro více hráčů
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.ctlcltd.e2se	Editor seznamů satelitních kanálů: Enigma2, Neutrino, dreambox
+io.github.cudatext.CudaText-Qt5	Open source a multiplatformní textový editor
+io.github.cxong.cdogs-sdl	Klasická režijní hra typu run-and-gun
+io.github.dagargo.Elektroid	Správce ukázek a MIDI zařízení
+io.github.daviddesimone.opencloudsaves	Nástroj používaný pro synchronizaci uložených her mezi vašimi zařízeními
+io.github.davidoc26.wallpaper_selector	Stáhne a použije tapety
+io.github.dbchoco.muezzin	Aplikace islámských modlitebních časů
+io.github.dbchoco.Salawat	Aplikace islámských modlitebních časů
+io.github.ddanilov.soundscape	Desktopová aplikace soundscape
+io.github.dfandrich.gpscorrelate	GPS Correlate připojí k obrázkům značky umístění EXIF GPS
+io.github.dgsasha.Remembrance	Nastavte si připomenutí
+io.github.dida_code.OpstaKultura	Hra, vědomostní kvíz
+io.github.diegoivan.GaticTacToe	Zahrajte si piškvorky se svými přáteli
+io.github.diegoivanme.flowtime	Trávit čas moudře
+io.github.diegoivan.pdf_metadata_editor	Upravte metadata dokumentu PDF
+io.github.diegopvlk.Dosage	Mějte přehled o svých léčbách
+io.github.dimtpap.coppwr	Nízkoúrovňové ovládání GUI pro PipeWire
+io.github.divverent.aaaaxy	Nelineární puzzle plošinovka odehrávající se v nemožných prostorech
+io.github.dlippok.photometric-viewer	Zobrazení fotometrických souborů
+io.github.dman95.SASM	Jednoduché multiplatformní IDE pro jazyky assembleru NASM, MASM, GAS a FASM
+io.github.dosbox-staging	Emulátor DOS/x86 se zaměřením na snadné použití
+io.github.Dretch.MonomerFlatpakExample	Příklad aplikace Monomer Flatpak.
+io.github.dtsudo.ChessCompStompWithHacks	Porazte šachovou umělou inteligenci pomocí hacků!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Speedrun si cestu přes 10 úrovní pomocí uložit stavy!
+io.github.dubstar_04.design	2D CAD pro GNOME
+io.github.dummerle.rare	GUI pro legendární, open source alternativu Epic Games
+io.github.dvlv.boxbuddyrs	Správce grafického distroboxu
+io.github.dweymouth.supersonic	Lehký multiplatformní desktopový klient pro hudební servery Subsonic a Jellyfin
+io.github.dyegoaurelio.simple-wireplumber-gui	Jednoduché GTK4 GUI pro PipeWire
+io.github.ec_.Quake3e.OpenArena	Zdarma a open source střílečka z pohledu první osoby
+io.github.eminfedar.vaktisalah-gtk-rs	GTK4 verze Vakt-i Salah (Prayer Times)
+io.github.endless_sky.endless_sky	Průzkum vesmíru a bojová hra
+io.github.erkin.ponysay	reimplementace cowsay pro poníky
+io.github.everestapi.Olympus	Celeste Mod Manager pro více platforem
+io.github.ezQuake	moderní klient QuakeWorld zaměřený na kompetitivní online hru
+io.github.fabiangreffrath.Doom	Zdrojový port Doom s rozšířeným rozlišením omezující odstraňování
+io.github.fabrialberio.pinapp	Vytvářejte a upravujte zástupce aplikací
+io.github.FailurePoint.RandomNumberFive	Generátor náhodných čísel pro desktop Linux!
+io.github.fastrizwaan.WineZGUI	Wine GUI pomocí Zenity
+io.github.ferraridamiano.ConverterNOW	Jednoduchý, okamžitý a rychlý převodník jednotek!
+io.github.Figma_Linux.figma_linux	Webový nástroj pro kolaborativní návrh
+io.github.fin_ger.OvGUCanteen	Prohlédněte si nabídku OvGU Mensa v malé aplikaci GTK
+io.github.fizzyizzy05.binary	Konvertor číselného základu
+io.github.fkinoshita.Telegraph	Pište a dekódujte morseovku
+io.github.flattool.Warehouse	Spravujte všechny věci Flatpak
+io.github.Fndroid.clash_for_windows	Grafický klient Clash, založený na Electronu.
+io.github.Foldex.AdwSteamGtk	Dopřejte Steamu léčbu Adwaita
+io.github.Foldex.r2mod	Risk of Rain 2 Mod Manager
+io.github.foldynl.QLog	Deník radioamatérů
+io.github.foxxmd.multiscrobbler	Scrobbles hudbu z mnoha zdrojů pro mnoho klientů
+io.github.fragglet.sdl_sopwith	Klasická dvouplošná střelba nahoru
+io.github.fralonra.PpdEditor	2D editor papírových panenek
+io.github.fralonra.WgShadertoy	WGSL hřiště inspirované Shadertoy
+io.github.freedoom.FreeDM	Deathmatch hra založená na enginu Doom
+io.github.freedoom.Phase1	Střílečka z pohledu první osoby založená na enginu Doom
+io.github.freedoom.Phase2	Střílečka z pohledu první osoby založená na enginu Doom
+io.github.fsobolev.TimeSwitch	Nastavte úlohu, která se má spustit po uplynutí časovače
+io.github.f3d_app.f3d	Rychlý a minimalistický 3D prohlížeč
+io.github.gamingdoom.Datcord	Open-source klient Discord, který používá Firefox
+io.github.garglk.Gargoyle	Interaktivní přehrávač fikce
+io.github.gen2brain.cbconvert	Převaděč komiksů
+io.github.gerryferdinandus.bittorrent-tracker-editor	Přidejte nebo odeberte sledovač z torrent souborů.
+io.github.giantpinkrobots.bootqt	Vytvořte spouštěcí jednotky
+io.github.giantpinkrobots.flatsweep	Mazání zbylých Flatpak souborů
+io.github.giantpinkrobots.varia	Stahujte soubory rychle a efektivně
+io.github.gillesdegottex.FMIT	Free Musical Instrument Tuner (FMIT), nástroj pro ladění hudebního nástroje
+io.github.glitterware.Passy	Offline správce hesel se synchronizací napříč platformami
+io.github.GoldenGnu.jEveAssets	jEveAssets je správce aktiv mimo hru pro Eve-Online
+io.github.gopher64.gopher64	Emulátor Nintendo 64
+io.github.gssh_linux.gssh	Pythonová aplikace, která vám umožní připojit se k ssh serverům z (opravdu) jednoduchého GUI
+io.github.gtkwave.GTKWave	Elektronický prohlížeč křivek pro prohlížení výsledků simulace
+io.github.guillaumechereau.Goxel	Open Source 3D editor voxelů
+io.github.hakandundar34coding.mini-system-monitor	Monitorování využití CPU, RAM, disku, sítě
+io.github.hakandundar34coding.system-monitoring-center	Multifunkční systémový monitor
+io.github.hakuneko.HakuNeko	Multiplatformní downloader pro manga a anime z různých webů
+io.github.helpseeker.Gyre	Stahovač videí od Couba
+io.github.hermitdemschoenenleben.linien	Zámek spektroskopie
+io.github.Hexchat	IRC klient
+io.github.hmlendea.geforcenow-electron	Neoficiální aplikace GeForce NOW napsaná v Electronu
+io.github.hrkfdn.ncspot	Multiplatformní klient Spotify
+io.github.huderlem.porymap	Editor map pro projekty dekompilace Pokémon generace 3
+io.github.hurricangame.hurrican	Freeware skákačka a střílečka vytvořená Poke53280
+io.github.hvdwofl.jExifToolGUI	Jednoduchý frontend pro ExifTool
+io.github.hydrusnetwork.hydrus	Uspořádejte média na ploše
+io.github.hypengw.Qcm	Qt klient pro cloudovou hudbu netease
+io.github.chris2511.xca	Správa certifikátů a klíčů X
+io.github.Icalingua.Icalingua	Linuxový klient pro QQ a další
+io.github.idevecore.CurrencyConverter	Jednoduchý převodník měn využívající data z Googlu
+io.github.igaldino.CoyoteTM	Zvládejte úkoly jako kojot
+io.github.igorlogius.scr2ppm	Nejmenší snímek obrazovky X11 aka. utilita pro snímky obrazovky
+io.github.ihhub.Fheroes2	fheroes2 je pokračováním herního enginu Heroes of Might and Magic II
+io.github.ilius.pyglossary	Nástroj pro převod souborů slovníků alias glosářů.
+io.github.ImEditor	Jednoduchý a všestranný editor obrázků
+io.github.iSlammedMyKindle.godotGem	Klient řadiče pro emulaci řadiče xbox360 pro Windows
+io.github.jacalz.rymdport	Rychlé, šifrované přenosy souborů
+io.github.JaGoLi.ytdl_gui	Snadno použitelné grafické rozhraní pro více platforem pro youtube-dl.
+io.github.JakubMelka.Pdf4qt	Open Source PDF Editor
+io.github.janbar.noson	Ovladač pro SONOS
+io.github.java_decompiler.jd-gui	Samostatný grafický nástroj, který zobrazuje zdroje Java ze souborů CLASS
+io.github.ja2_stracciatella.JA2-Stracciatella	Vylepšené, víceplatformní, stabilní běhové prostředí Jagged Alliance 2
+io.github.jean28518.Linux-Assistant	Každodenní linuxový pomocník s výkonným integrovaným vyhledáváním, rutinami a kontrolami
+io.github.jeffshee.Hidamari	Video tapety pro linux
+io.github.jhaygood86.mauborgne	Generátor 2FA OTP kódu
+io.github.jliljebl.Flowblade	Video Editor – rychlý, přesný, stabilní
+io.github.jonmagon.kdiskmark	Nástroj pro testování disků
+io.github.jordanl2.ModularCalculator	Výkonná, skriptovatelná, modulární kalkulačka zaměřená na vědeckou, inženýrskou nebo výpočetní práci.
+io.github.jorchube.monitorets	Mějte vždy přehled o využití systémových prostředků
+io.github.jotd666.gods-deluxe	Remake plošinovky
+io.github.jtdx_project.JTDX	jtdx (rozvětvený WSJT-X pro amatérskou rádiovou komunikaci)
+io.github.julian_hochhaus.LG4X_V2	Balíček Python pro analýzu prokládání křivek XPS
+io.github.kaii_lb.hgui	Aplikace vytvořená pro snadnou a offline konverzi mezi daty Hijri a Gregorian (a naopak)!
+io.github.kalaksi.Lightkeeper	Samostatný, přizpůsobitelný nástroj pro správu serveru
+io.github.kaschpal.timetable	Kalendář/plánovač pro učitele a možná i studenty
+io.github.kevinsmia1939.PySimpleCV	Graf Cyklický voltamogram a cyklování baterie
+io.github.KikoPlayProject.KikoPlay	NEJEN Plně vybavený přehrávač Danmu
+io.github.koromelodev.mindmate	Neoficiální aplikace pro ChatGPT
+io.github.kotatogram	Kotatogram Desktop Messenger
+io.github.ktgw0316.LightZone	Fotoaparát RAW obrazový procesor
+io.github.kukuruzka165.materialgram	Neoficiální aplikace pro zasílání zpráv Telegram Desktop
+io.github.labsquare.CutePeaks	samostatný prohlížeč trasování Sangera
+io.github.lainsce.Colorway	Vytvářejte barevné páry
+io.github.lainsce.Countdown	Sledujte události, dokud se nestaly nebo od té doby, co se staly
+io.github.lainsce.DotMatrix	Kreativní hřiště linií a křivek
+io.github.lainsce.Emulsion	Zásobte se barvami
+io.github.lainsce.Khronos	Zaznamenávání času potřebného k provedení úkolů
+io.github.lainsce.Notejot	Zapiš si své nápady
+io.github.lainsce.Quilter	Zaměřte se na psaní
+io.github.lemmygtk.lemoa	Gtk klient pro Lemmyho
+io.github.leolost2605.gradebook	Sledujte své známky
+io.github.leonardschardijn.Chirurgien	Porozumět binárním formátům souborů a manipulovat s nimi
+io.github.lethal_guitar.RigelEngine	Moderní reimplementace klasické DOS hry Duke Nukem II
+io.github.letslearn_app.letslearn	Opensource aplikace pro poznámky s přehledným vzhledem
+io.github.libvibrant.vibrantLinux	Systémový nástroj pro úpravu sytosti barev obrazovek X11
+io.github.limads.Queries	Pracovní plocha pro interakci s relačními databázemi.
+io.github.listen1.Listen1	Jeden pro veškerou hudbu zdarma v Číně
+io.github.loot.loot	Modovací nástroj pro Starfield a některé hry Elder Scrolls a Fallout
+io.github.lruzicka.Needly	openQA editor jehel napsaný v Pythonu
+io.github.ltiber.Pwall	procházet fotografie/videa
+io.github.lunarequest.NightPDF	Prohlížeč PDF v tmavém režimu
+io.github.lxndr.gswatcher	Jednoduchý monitor herního serveru a administrativní nástroj.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA je zdrojový port Doom 3 BFG GPL
+io.github.magnush.mhWaveEdit	mhWaveEdit je grafický program pro úpravu zvukových souborů
+io.github.mahmoudbahaa.outlook_for_linux	Neoficiální klient Microsoft Outlook pro Linux využívající Electron
+io.github.MakovWait.Godots	Správce verzí herního enginu Godot
+io.github.mak448a.QTCord	Klient Discord
+io.github.mandruis7.xbox-cloud-gaming-electron	Open source klient Xbox Cloud Electron
+io.github.manisandro.gImageReader	Grafický (gtk) frontend k tesseract-ocr
+io.github.markummitchell.Engauge_Digitizer	interaktivně převádět bitmapový graf nebo mapu na čísla
+io.github.martinrotter.rssguard	Jednoduchá, ale výkonná čtečka zpráv
+io.github.martinrotter.rssguardlite	Jednoduchá, ale výkonná čtečka zpráv (žádný vestavěný webový prohlížeč)
+io.github.martinrotter.textosaurus	Jednoduchý multiplatformní textový editor založený na Qt a QScintilla
+io.github.maurycyliebner.enve	2D animace
+io.github.mgerhardy.vengi.voxedit	editor voxelů
+io.github.mideb.digitales_register	Inoffizieller Client für das Digitale Register
+io.github.mightycreak.Diffuse	Grafický nástroj pro slučování a porovnávání textových souborů
+io.github.mihnea_radulescu.imagefanreloaded	Lehký prohlížeč obrázků založený na tabulkách, podporující vícejádrové zpracování
+io.github.mimbrero.WhatsAppDesktop	Neoficiální WhatsApp Web Desktop klient.
+io.github.mki1967.mki3dgame	Jednoduchá OpenGL hra na hledání tokenů ve 3D fázích
+io.github.mmarco94.tambourine	Jednoduchý hudební přehrávač do vaší knihovny
+io.github.mmstick.FontFinder	Prohlížeč písem
+io.github.mpobaschnig.Vaults	Uchovávejte důležité soubory v bezpečí
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] Buddhistická čtečka textu využívající CBETA API.
+io.github.mrvladus.List	Spravujte své úkoly
+io.github.muse_sequencer.Muse	Digitální audio pracovní stanice
+io.github.myst6re.makoureactor	Field Editor pro Final Fantasy VII
+io.github.naikari.Naikari	2D vesmírná záhadná hra volného tvaru
+io.github.najepaliya.kleaner	Čistič metadat obrázku
+io.github.narunlifescience.AlphaPlot	AlphaPlot je bezplatná aplikace pro vědeckou analýzu a vizualizaci dat
+io.github.nate_xyz.Conjure	Magicky transformovat obrázky
+io.github.nate_xyz.Chromatic	Dolaďte své nástroje
+io.github.nate_xyz.Paleta	Snadno generujte barevné palety
+io.github.nate_xyz.Resonance	Harmonizujte svůj zážitek z poslechu
+io.github.nearinfinitybrowser.nearinfinity	Prohlížeč a editor zdrojů Infinity Engine
+io.github.neil_morrison44.pocket-sync	GUI pro práci s Analogue Pocket
+io.github.NhekoReborn.Nheko	Desktopový klient pro protokol Matrix
+io.github.NickKarpowicz.LightwaveExplorer	Efektivní, uživatelsky přívětivý řešič pro nelineární interakci světla a hmoty
+io.github.nokse22.asciidraw	Kresli pomocí znaků ASCII
+io.github.nokse22.inspector	Zobrazení informací o vašem systému
+io.github.nokse22.minitext	Pomíjivý zápisník
+io.github.nokse22.teleprompter	Zobrazte na obrazovce rolující text
+io.github.nokse22.trivia-quiz	Odpovídejte na nekonečné otázky
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	Klient D-Star pro PC
+io.github.noxworld_dev.OpenNox	OpenNox je moderní implementace herního enginu Nox
+io.github.nroduit.Weasis	Bezplatný/libre/otevřený lékařský DICOM prohlížeč
+io.github.nuttyartist.notes	Aplikace na psaní poznámek. Zapište si své myšlenky
+io.github.obiwankennedy.HotShots	Výkonný a snadno použitelný software pro snímání obrazovky
+io.github.onionware_github.onionmedia	Free Media Downloader and Converter – Cross Platform
+io.github.openhv.OpenHV	Open Source 90s Pixelart Sci-Fi Real Time Strategy hra
+io.github.OpenToonz	2D animace
+io.github.orontee.Argos	Lehký front-end pro hudební server Mopidy
+io.github.paledega.alpine-rootfs	Alpský linuxový subsystém
+io.github.parnassius.SysDVR-Qt	Stream Přepínejte hry do počítače přes USB nebo síť
+io.github.pastthepixels.InfiniteShooter	Zjednodušená střílečka vyrobená s motorem Godot.
+io.github.paulwedeck.settlers-remake	Remake hry The Settlers III pro Windows, Linux, Mac a Android
+io.github.pd_l2ork.Pd_L2Ork	Open source vizuální programovací jazyk pro multimédia, založený na Pure Data
+io.github.peazip.PeaZip	Bezplatný nástroj pro archivaci souborů, otevřete a rozbalte archivy RAR TAR ZIP
+io.github.petitlapin.Li-ri	Dětská hra, řiďte dřevěný motor na hraní
+io.github.phastmike.tags	Barevné protokoly založené na štítcích
+io.github.philipk.boilr	Přidejte si do své knihovny Steam hry, které nejsou ve službě Steam
+io.github.Pithos	Rádiový klient Pandora
+io.github.polypixeldev.Polypass	Jednoduchý, bezpečný a snadno použitelný správce hesel
+io.github.pragha_music_player.pragha	Spravujte a poslouchejte svou hudbu
+io.github.prateekmedia.appimagepool	Jednoduchý, moderní klient AppImageHub.
+io.github.prateekmedia.pstube	Youtube klient vytvořený pomocí flutteru
+io.github.pr_starfighter.starfighter	Vesmírná hra.
+io.github.punesemu.puNES	Emulátor Nintendo Entertaiment System
+io.github.purplehorrorrus.Meridius	Hudební přehrávač pro vk.com
+io.github.pwr_solaar.solaar	Linuxový manažer pro klávesnice, myši a trackpady Logitech
+io.github.pyfa_org.Pyfa	Python Fiting Assistant pro EVE: Online
+io.github.Qalculate	Výkonná a snadno použitelná kalkulačka
+io.github.Qalculate.qalculate-qt	Výkonná a snadno použitelná kalkulačka
+io.github.qier222.YesPlayMusic	Přehrávač CloudMusic Netease s vysokým vzhledem třetí strany
+io.github.qnapi	Software pro stahování a automatické přiřazování titulků k filmům
+io.github.qtox.qTox	Výkonný chatovací klient Tox, který se řídí pokyny pro návrh Tox.
+io.github.quodlibet.ExFalso	Editovat tagy skladeb
+io.github.quodlibet.QuodLibet	Poslouchejte, procházejte nebo upravujte svou hudební sbírku
+io.github.qwersyk.Newelle	Chatovací robot, který ovládá váš počítač
+io.github.rafaelfassi.QLogExplorer	Rychlý průzkumník protokolů s pokročilými nástroji
+io.github.randovania.Randovania	Randomizační platforma pro velké množství her
+io.github.Rangi42.polished-map	Upravujte pokecrystal mapy a sady dlaždic
+io.github.Rangi42.polished-map-plusplus	Upravujte pokecrystal mapy a sady dlaždic
+io.github.Rangi42.tilemap-studio	Editor dlaždicových map pro projekty Game Boy, Color, Advance, DS a SNES
+io.github.realmazharhussain.GdmSettings	Přizpůsobte zobrazení obrazovky
+io.github.retgal.Dayon	Vzdálená pomoc je snadná!
+io.github.retux_game.retux	Akční plošinovka s maskotem Linuxu Tuxem v hlavní roli
+io.github.rinigus.OSMScoutServer	Mapový server poskytující dlaždice, geokodér a směrovač
+io.github.rinigus.PureMaps	Mapy a navigace
+io.github.ripose_jp.Memento	Video přehrávač založený na mpv pro studium japonštiny
+io.github.Rirusha.Cassette	Neoficiální klient Yandex.Music
+io.github.RobertBeckebans.RBDoom3BFG-GL	Snaha o modernizaci DOOM-3-BFG
+io.github.rocket.editor	Raketový editor
+io.github.RodZill4.Material-Maker	Procedurální generování textury a nástroj pro malování sítě
+io.github.sameboy.SameBoy	Game Boy a emulátor Game Boy Color
+io.github.santiagocezar.maniatic-launcher	Launcher pro dekompilaci Retro Engine (v5)
+io.github.seadve.Breathing	Procvičte si dýchání
+io.github.seadve.Kooha	Elegantně zaznamenejte svou obrazovku
+io.github.seadve.Mousai	Identifikujte skladby během sekund
+io.github.searchandrescue2.sar2	Simulátor záchranného vrtulníku
+io.github.Sebicodes99.Prt	Aplikace python socket, která umožňuje příteli provést příkaz na vašem systému bez otevírání portů nebo použití ssh serveru, s jednoduchým GUI
+io.github.sharkwouter.Minigalaxy	Jednoduchý klient GOG pro Linux
+io.github.sharkwouter.oceanpop	Odpočinková logická hra match 3 se zápletkou
+io.github.shiftey.Desktop	Jednoduchá spolupráce z vašeho počítače
+io.github.shiiion.primehack	Vidlice Dolphin Emu pro různé mody Metroid Prime
+io.github.sigmasd.IRust	Rust Repl
+io.github.sigmasd.stimulator	Udržujte pracovní plochu vzhůru
+io.github.signus_game.signus	Tahová strategická hra
+io.github.sil_car.SqueezeVid	Normalizujte videa na minimální kvalitu kompatibilní s projekcí.
+io.github.simple64.simple64	Emulátor Nintendo 64
+io.github.sithlord48.blackchocobo	Uložit editor pro Final Fantasy VII
+io.github.slgobinath.SafeEyes	Bezplatný nástroj s otevřeným zdrojovým kódem pro uživatele Linuxu ke snížení a prevenci zranění z opakovaného namáhání (RSI).
+io.github.Snaggly.PS2_Pnacher	Použití Pnaches přímo na PS2 ISO.
+io.github.snesrev.Zelda3	Zelda3 je reverzně upravený klon Zeldy - Odkaz na minulost
+io.github.Soundux	Multiplatformní zvuková deska
+io.github.spacingbat3.webcord	Webový klient Discord a Fosscord vytvořený pomocí Electronu
+io.github.srb2.rphys	Mod revize hry pro Sonic Robo Blast 2
+io.github.stella_emu.Stella	Multiplatformní emulátor Atari 2600 VCS
+io.github.streetpea.Chiaki4deck	Zdarma a Open Source klient pro PlayStation Remote Play upravený pro Steam Deck
+io.github.Sunderland93.sway-input-config	Konfigurátor vstupního zařízení pro Sway
+io.github.swanux.hbud	Jednoduchý audio/video přehrávač a karaoke aplikace napsané v Pythonu a GTK4
+io.github.tcobbs.LDView	Prohlížeč modelů LDraw
+io.github.tdesktop_x64.TDesktop	Neoficiální desktopová verze aplikace pro zasílání zpráv Telegram
+io.github.technic.e2designer	Editor vzhledu pro enigma2 napsaný pomocí Qt5
+io.github.tfuxu.Halftone	Dejte svým obrázkům styl připomínající pixel art
+io.github.thaunknown.miru	Miru - Bittorrent streamovací software pro kočky
+io.github.TheThirdOne.rars	RISC-V Assembler a Runtime Simulator
+io.github.thetumultuousunicornofdarkness.cpu-x	Shromažďuje informace o CPU, základní desce a dalších
+io.github.TheWisker.Cavasik	Audiovizualizér založený na CAVA
+io.github.thiefmd.themegenerator	Generujte styly pomocí stylu.
+io.github.tlcfem.suanPan	🧮 Open Source, paralelní a heterogenní rámec analýzy konečných prvků
+io.github.tntwise.REAL-Video-Enhancer	Bezplatný a otevřený nástroj pro vylepšení videa
+io.github.torrent_file_editor.Torrent-file-editor	Upravujte a vytvářejte soubory .torrent
+io.github.trackballs.Trackballs	Veďte mramorovou kouli labyrintem
+io.github.tralph3.Steam_Metadata_Editor	Snadno použitelné GUI, které upravuje metadata vašich aplikací Steam
+io.github.TransmissionRemoteGtk	Vzdáleně spravujte klienta Transmission BitTorrent
+io.github.trevorsandy.LPub3D	LPub3D - editor stavebních pokynů LDraw
+io.github.trigg.discover_overlay	Grafické překrytí pro hlasový chat Discord.
+io.github.troyeguo.koodo-reader	Multiplatformní čtečka elektronických knih
+io.github.trytonvanmeer.DungeonJournal	Správce postav 5e
+io.github.TTimo.GtkRadiant	Editor úrovní pro hry založené na ID Tech včetně série Quake
+io.github.twanvl.MagicSetEditor2	Program používaný k výrobě vlastních karet
+io.github.unicornyrainbow.secrets	Snadno generujte hesla podle svých potřeb
+io.github.unknownskl.greenlight	Greenlight je open-source klient pro domácí streamování xCloud a Xbox
+io.github.unrud.RecentFilter	Vyloučit soubory a složky z naposledy použitých souborů
+io.github.vemonet.EmojiMart	Moderní vyskakovací nástroj pro výběr emodži pro stolní počítače, založený na webové komponentě Emoji Mart.
+io.github.veusz.Veusz	Balíček pro vědecké kreslení
+io.github.vikdevelop.SaveDesktop	Uložte aktuální konfiguraci vašeho desktopového prostředí
+io.github.vinser.burnfix	Zkuste opravit zadržování obrazu na obrazovce a vypálení, hledejte vady obrazovky
+io.github.vinser.pixyne	Rychle prohlédněte složky s fotografiemi, bezpečně odstraňte špatné a podobné záběry, opravte data pořízení
+io.github.voxelcubes.deepqt	Využijte sílu DeepL API s tímto přátelským uživatelským rozhraním
+io.github.voxelcubes.panelcleaner	Nástroj s umělou inteligencí k čištění panelů manga
+io.github.webcamoid.Webcamoid	Fotografujte a nahrávejte videa pomocí webové kamery
+io.github.weclaw1.ScoreTracker	Aplikace pro sledování skóre hráčů v karetních a deskových hrách
+io.github.wereturtle.ghostwriter	Textový editor pro Markdown bez rozptylování
+io.github.wh201906.serialtest	Multiplatformní testovací nástroj pro sériový port, Bluetooth, TCP a UDP
+io.github.wojciech_graj.OrbVis	Satelitní orbitový vizualizér v reálném čase
+io.github.wxmaxima_developers.wxMaxima	Grafické uživatelské rozhraní pro Maxima, výkonný systém počítačové algebry
+io.github.xaos_project.XaoS	Rychlý interaktivní fraktální zoomer/morfer v reálném čase
+io.github.xiaoyifang.goldendict_ng	Pokročilý program pro vyhledávání ve slovníku
+io.github.xolatgames.marknpaul	Staňte se Čarodějem!
+io.github.xverizex.nem_desktop	Povídat si s přáteli.
+io.github.xverizex.RetroSpriteEditor	Pixel Editor pro retro konzole
+io.github.xyproto.zsnes	Emulátor Super Nintendo
+io.github.yairm210.unciv	Tahová strategická hra
+io.github.yamanqd.antware	FPS hra.
+io.github.Youda008.DoomRunner	Přednastavený grafický spouštěč ZDoom a derivátů
+io.github.zaps166.QMPlay2	Video a audio přehrávač
+io.github.zhrexl.thisweekinmylife	Jedná se o plánovač ve stylu kaban, kam může uživatel vkládat karty s úkoly.
+io.github.zyedidia.micro	Moderní a intuitivní terminálový textový editor
+io.github._0xzer0x.qurancompanion	Offline čtečka Koránu pro různé platformy a přehrávač
+io.gitlab.adhami3310.Converter	Převádějte a manipulujte s obrázky
+io.gitlab.adhami3310.Footage	Vyleštěte svá videa
+io.gitlab.adhami3310.Impression	Vytvořte bootovatelné disky
+io.gitlab.azymohliad.WatchMate	Spravujte svůj PineTime
+io.gitlab.ballz.Ballz	Platformová/logická hra, kde ovládáte kutálející se míček
+io.gitlab.celleron56.libretile	věc s opensource dlaždicovým herním enginem
+io.gitlab.coolreader_ng.crqt-ng	Open source čtečka elektronických knih pro více platforem
+io.gitlab.cyberphantom52.sudoku_solver	Jednoduchý sudoku Sovler
+io.gitlab.daikhan.stable	Přehrajte Videa/Hudbu ve stylu
+io.gitlab.dev_nis.one-click-backup	Jednoduchý program pro zálohování složek do externího umístění jejich zkopírováním
+io.gitlab.floodlight.Presenter	Volný, bezplatný program pro prezentace a texty s otevřeným zdrojovým kódem
+io.gitlab.Goodvibes	Přehrát webové rádio
+io.gitlab.gregorni.Calligraphy	Proměňte svůj text na bannery ASCII
+io.gitlab.gregorni.Letterpress	Vytvořte krásné ASCII art
+io.gitlab.gwendalj.package-transporter	Přeneste své aplikace mezi instalacemi
+io.gitlab.idevecore.Pomodoro	Pomodoro je časovač zaměřený na produktivitu
+io.gitlab.jazztickets.emptyclip	Empty Clip je akční RPG se střílečkou shora dolů.
+io.gitlab.jazztickets.choria	Konečně MMORPG, které je celé o drcení a dělání domácích prací.
+io.gitlab.jazztickets.irrlamb	3D fyzikální hra, ve které ovládáte modrou kouli energie ve snaze dotknout se všech zářících koulí
+io.gitlab.jazztickets.openflap	Hra o odrážení míčků mezerami nekonečných trubek
+io.gitlab.leesonwai.Sums	Počítejte s postfixovým zápisem
+io.gitlab.leesonwai.Tactics	Sestavte si svou fotbalovou sestavu
+io.gitlab.librewolf-community	Webový prohlížeč LibreWolf
+io.gitlab.news_flash.NewsFlash	Držte krok se svými zdroji
+io.gitlab.osslugaru.Lugaru	Bojová hra ninja králíka z třetí osoby
+io.gitlab.o20.word	Open Source klon MS Word 2019... pro Linux
+io.gitlab.persiangolf.voicegen	Snadno převeďte text na řeč
+io.gitlab.stone_kingdoms.StoneKingdoms	Remake fanoušků Stronghold s otevřeným zdrojovým kódem
+io.gitlab.theevilskeleton.Upscaler	Upscale a vylepšení obrázků
+io.gitlab.Turtlico	Programovací nástroj pro učení
+io.gitlab.zehkira.Monophony	Streamujte hudbu z YouTube Music
+io.howl.Editor	Odlehčený editor s minimalistickým rozhraním zaměřeným na klávesnici
+io.itch.azagaya.Laigter	Nástroj pro generování normálních, zrcadlových, okluzních a paralaxních map pro 2D textury
+io.itch.doctorm64.skippybot	Skippy se vydává na velkolepou výpravu za odhalením svého skutečného osudu.
+io.itch.domestique_baston.domestique_baston	Bojová hra 1 proti 1
+io.itch.drwhut.TabletopClub	Hrajte stolní hry ve fyzikálním 3D karanténě
+io.itch.itch	Instalujte, aktualizujte a hrajte nezávislé hry
+io.itch.keyikedalube_ndang.Type-Off	Krátká hra s rychlostí psaní na 6 minut
+io.itch.nordup.TheGates	Cestujte do různých světů vytvořených vývojáři z celého světa!
+io.jamulus.Jamulus	Jamulus. Internetový Jam Session software
+io.jor.bugdom	Zachraňte Bugdoma před Thoraxovými zlými ohnivými mravenci
+io.jor.bugdom2	Vystopujte Bully Bee a získejte svůj batoh zpět!
+io.jor.mightymike	Vysoce výkonná akční záchrana v hračkářství se zbláznila!
+io.jor.nanosaur	Pošlete dinosauří vejce do budoucnosti, než na Zemi dopadne meteor!
+io.jor.nanosaur2	Leťte s pterodaktylem, který je nabitý hi-tech zbraněmi
+io.jor.ottomatic	Zachraňte Zemi ze spárů obřího mozku z planety X
+io.kapsa.drive	Zero Knowledge E2E šifrované úložiště kompatibilní s jakýmkoli poskytovatelem S3
+io.kinvolk.Headlamp	Snadno použitelné a rozšiřitelné webové uživatelské rozhraní pro Kubernetes
+io.kopia.KopiaUI	Záložní řešení
+io.liri.Calculator	Provádějte aritmetické nebo vědecké výpočty
+io.liri.Text	Upravte textové soubory
+io.lmms.LMMS	Aplikace pro hudební produkci
+io.mango3d.LycheeSlicer	Výkonný a všestranný kráječ pro pryskyřičné a filamentové 3D tiskárny
+io.mgba.mGBA	Emulátor Nintendo Game Boy Advance
+io.missioncenter.MissionCenter	Sledujte využití zdrojů systému
+io.mpv.Mpv	Bezplatný, open source a multiplatformní přehrávač médií
+io.mrarm.mcpelauncher	Stáhněte si a hrajte Minecraft Bedrock Edition na GNU/Linux
+io.naox.InnerBreeze	Meditační aplikace pro vedení a sledování vaší dechové praxe Wima Hofa
+io.neovim.nvim	Vim-fork se zaměřil na rozšiřitelnost a použitelnost
+io.openrct2.OpenRCT2	Stavební a manažerská simulační videohra, která simuluje správu zábavního parku
+io.osdn.simplesok	Jednoduchá hra sokoban
+io.otsaloma.gaupol	Editor pro textově založené titulky
+io.otsaloma.nfoview	Prohlížeč NFO soubory
+io.photoflare.photoflare	Jednoduchý, ale výkonný editor obrázků mezi platformami
+io.podman_desktop.PodmanDesktop	Spravujte Podman a další kontejnerové motory z jediného uživatelského rozhraní a zásobníku
+io.poez.Poezio	Poezio je bezplatný konzolový XMPP klient
+io.posidon.Paper	Dělejte si poznámky v Markdown
+io.qt.Designer	Navrhujte GUI pro Qt aplikace
+io.qt.Linguist	Přidejte překlady do aplikací Qt
+io.qt.qdbusviewer	Ladění aplikací D-Bus
+io.qt.QtCreator	Poskytuje multiplatformní, kompletní integrované vývojové prostředí (IDE) pro vývojáře aplikací k vytváření aplikací pro různé platformy a zařízení.
+io.qt.qtwebengine.BaseApp	Sdílená platforma pro aplikace, které používají Qt WebEngine
+io.sourceforge.clonekeenplus	Engine používaný k hraní her Commander Keen a Cosmos the Cosmic Adventure
+io.sourceforge.chart_geany.chart-geany	Chart Geany je bezplatné softwarové řešení pro různé platformy pro technickou analýzu trhu, vytváření grafů a správce portfolia
+io.sourceforge.pentobi	Počítačový protivník pro deskovou hru Blokus
+io.sourceforge.pipewalker.PipeWalker	Logická hra pro připojení
+io.sourceforge.Pixelitor	Pixelitor je open source editor obrázků
+io.sourceforge.pysolfc.PySolFC	Kompilace hry solitaire
+io.sourceforge.qoobar.Qoobar	Qoobar je jednoduchý editor tagů pro klasickou hudbu
+io.sourceforge.trigger_rally.TriggerRally	Rychlá rally závodní hra pro jednoho hráče
+io.sourceforge.YSoccer	Fotbalová hra v retro stylu
+io.sourceforge.zaz	Logická hra, kde hráč musí uspořádat koule do trojic.
+io.stoplight.studio	Stoplight Studio. Návrh API bez námahy.
+io.thp.numptyphysics	Fyzikální logická hra založená na kreslení pastelkami
+io.trustable.stpadocumentationtool	Nástroj pro systémovou teoretickou analýzu procesů – který usnadňuje STPA a automatizuje dokumentaci
+io.typora.Typora	Minimální aplikace pro čtení a psaní Markdown
+io.unobserved.espansoGUI	GUI rozhraní pro espanso
+io.vikunja.Vikunja	Aplikace s otevřeným zdrojovým kódem
+io.wasabiwallet.WasabiWallet	Bitcoinová peněženka s otevřeným zdrojovým kódem, která není depozitní a zaměřená na soukromí, pro Desktop, která implementuje důvěryhodný CoinJoin.
+io.wavebox.Wavebox	Nová generace web-desktop komunikace
+io.webtorrent.WebTorrent	Streamovací torrent aplikace
+ir.imansalmani.IPlan	Váš plán na zlepšení osobního a pracovního života
+it.cuteworks.pacmanlogviewer	Prohlédněte si protokol pacmana
+it.fabiodistasio.AntaresSQL	Moderní, rychlý a produktivní SQL klient se zaměřením na UX
+it.mijorus.collector	Drag and Drop do další úrovně
+it.mijorus.gearlever	Správa AppImages
+it.mijorus.smile	Výběr emotikonů
+it.mijorus.whisper	Poslouchejte svůj mikrofon
+jp.yvt.OpenSpades	Open Source voxelová střílečka
+la.ogri.strongbox	Správce doplňků pro World of Warcraft
+life.bolls.bolls	Webová aplikace pro čtení Bible s plným důrazem pouze na Boží slovo. Sola scriptura
+lv.martinsz.millionaire	Odpovězte na všechny otázky a vyhrajte 1 milion dolarů.
+md.obsidian.Obsidian	Znalostní báze založená na markdown
+me.acristoffers.Lachesis	Vedoucí Moirai
+me.ahola.aphototoollibre	Editor fotografií pro linux
+me.broken_by.PdfMetadataEditor	Upravit metadata PDF
+media.emby.EmbyServer	Řešení otevřených médií
+media.emby.EmbyTheater	Řešení otevřených médií
+me.dusansimic.DynamicWallpaper	Vytváření dynamických tapet v GNOME 42
+me.hergert.Schemes	Navrhněte schémata stylů pro GtkSourceView
+me.hyliu.fluentreader	Moderní stolní RSS čtečka
+me.iepure.devtoolbox	Vývojové nástroje na dosah ruky
+me.iepure.Ticketbooth	Sledujte své oblíbené pořady
+me.kozec.syncthingtk	GUI a ikona oznamovací oblasti pro Syncthing
+me.leucoso.Grock	Zobrazuje geologické mapy Spojeného království.
+me.mitya57.ReText	Jednoduchý editor pro Markdown a reStructuredText
+me.njean.shootingpactris	Coop retro hra s hratelností Tetris, Pacman a shmup.
+me.orszulak.keyring	Jednoduše krásný nebo krásně jednoduchý generátor OTP.
+me.ppvan.psequel	Spusťte svůj SQL dotaz
+me.sanchezrodriguez.passes	Spravujte své digitální průkazy
+me.simakis.dropboxignore	Je to všechno o chybějícím souboru .dropboxignore.
+me.timschneeberger.GalaxyBudsClient	Neoficiální správce Galaxy Buds pro Windows a Linux
+me.timschneeberger.jdsp4linux	Open source audio efektový procesor pro Pipewire
+ml.mdwalters.EightBall	Rozhodujte se snadno
+ml.mdwalters.Lemonade	Sledujte diskuze na Lemmy
+ml.prevete.Daty	Zdarma editor Wikidata.
+mobi.snowball.Snowball	Nová rychlost běhu hra podobná platformě smyčka / buzz drát hra
+moe.clover.mm3d	Editor 3D modelů a animátor pro hry
+moe.karaokes.mugen	Správce a hráč karaoke session
+moe.tundra.Tundra	Aktualizujte si seznamy anime automaticky
+mx.pwmc.Svgvi	Prohlížeč a editor SVG využívající deklarace XML
+net.agalwood.Motrix	Plně vybavený správce stahování
+net.ankiweb.Anki	Výkonné, inteligentní flash karty
+net.bartkessels.getit	Odesílejte požadavky HTTP na koncové body API
+net.baseart.Glide	Přehrávejte filmy a zvukové soubory
+net.biniou.LeBiniou	Uživatelsky přívětivý a výkonný nástroj pro vizualizaci hudby / VJing
+net.blix.BlueMail	Aplikace pro e-mail a kalendář BlueMail
+net.blockattack.game	Rychlá hra typu match-3/blockfall
+net.blockbench.Blockbench	Blockbench – hranatý editor 3D modelů
+net.blockout.BlockOutII	Bezplatná adaptace původní hry BlockOut
+net.blumia.pineapple-pictures	Prohlížeč obrázků
+net.brinkervii.grapejuice	Spouštěč pro Roblox Player a Roblox Studio
+net.cebix.basilisk	68k emulátor Macintoshe
+net.codeindustry.MasterPDFEditor	Prohlížejte, vytvářejte, upravujte, podepisujte, skenujte, OCR a tiskněte dokumenty PDF
+net.corluma.Corluma	Ovládejte Philip's Hues, LIFX, Nanoleafs a Arduinos.
+net.cozic.joplin_desktop	open source aplikace pro psaní poznámek a úkolů
+net.crossfireatlas.crossfire	Roguelike RPG pro více uživatelů
+net.cubers.assault.AssaultCube	Rychlá arkádová střílečka z pohledu první osoby
+net.daase.journable	Jednoduchý bullet journal
+net.danigm.loop	Jednoduchý stroj se zvukovou smyčkou pro GNOME
+net.danigm.timetrack	Časová stopa pro GNOME
+net.darkradiant.DarkRadiant	3D editor úrovní pro The Dark Mod a Doom 3
+net.davidotek.pupgui2	Nainstalujte nástroje pro kompatibilitu založené na Wine a Proton
+net.dengine.Doomsday	Vylepšený zdrojový port Doom, Heretic a Hexen
+net.devolutions.RDM	Centralizujte, spravujte a zabezpečte vzdálená připojení
+net.displaycal.DisplayCAL	Kalibrace a profilování displeje se zaměřením na přesnost a všestrannost
+net.drawpile.drawpile	Společné kreslení
+net.epson.epsonscan2	Software pro skenery a multifunkční tiskárny Epson
+net.fasterland.converseen	Dávkový obrazový procesor
+net.filebot.FileBot	Nejlepší TV a Film Renamer
+net.freerct.FreeRCT	Strategická hra zábavního parku
+net.fsuae.FS-UAE	Emulátor FS-UAE Amiga
+net.gaijin.WarThunder	War Thunder je nejkomplexnější free-to-play, multiplatformní MMO vojenská hra.
+net.giuspen.cherrytree	Hierarchické psaní poznámek
+net.goatattack.goatattack	Pixelová umělecká střílečka pro více hráčů
+net.gradator.gtkatlantic	Hra jako Monopoly
+net.granjow.slowmovideo	slowmoVideo je OpenSource program, který z vašich záběrů vytváří zpomalená videa.
+net.gwyddion.Gwyddion	Program pro vizualizaci a analýzu dat SPM (scanning probe microscopy).
+net.hovancik.Stretchly	Aplikace pro připomenutí doby přestávky
+net.huitsi.ParallelOverhead	Nekonečná běžecká hra
+net.christianbeier.Gromit-MPX	Gromit-MPX je nástroj pro vytváření anotací na obrazovce
+net.christianbeier.MultiVNC	Prohlížeč VNC s podporou multiplatformního multicastu
+net.imaginaryinfinity.Squiid	Provádějte pokročilé algebraické výpočty a výpočty RPN
+net.jami.Jami	Platforma pro hlas, video, chat a konference zaměřená na soukromí
+net.jammr.jammr	Hrajte s hudebníky přes internet
+net.jenyay.Outwiker	Osobní wiki a obrysový program.
+net.kirgroup.confy	Prohlížeč plánů konferencí
+net.krafting.Playlifin	Synchronizujte seznamy videí YouTube s Jellyfinem
+net.krafting.PlaylifinVoyager	Přenášejte seznamy skladeb do/z Jellyfin
+net.krafting.PleasureDVR	DVR pro web Chaturbate
+net.kubux.Muehle	Zahrajte si hru Nine Men's Morris.
+net.kuribo64.melonDS	Nintendo DS a emulátor DSi
+net.kvirc.KVIrc	KVIrc je zdarma přenosný IRC klient
+net.launchpad.Gnuclad	Generátor stromu kladogramů
+net.line72.campcounselor	Manažer seznamu přání Bandcamp.com
+net.longturn.freeciv21	Freeciv21 - Freeciv pro 21. století
+net.lugsole.bible_gui	Aplikace Bible, která podporuje více překladů a jazyků
+net.lutris.Lutris	Platforma pro uchování videoher
+net.mancubus.SLADE	Je to editor Doom
+net.mediaarea.AVIMetaEdit	Vkládejte, ověřujte a exportujte metadata souborů AVI
+net.mediaarea.BWFMetaEdit	Vkládejte, ověřujte a exportujte metadata souborů BWF
+net.mediaarea.DVAnalyzer	Analyzujte toky DV a nahlašte chyby
+net.mediaarea.MediaConch	Kontrolor implementace, kontrola zásad, reportér a opravář
+net.mediaarea.MediaInfo	Pohodlné jednotné zobrazení nejdůležitějších technických dat a dat tagů pro video a audio soubory
+net.mediaarea.MOVMetaEdit	Vkládejte a upravujte metadata Universal Ad ID do souborů MOV nebo MP4
+net.mediaarea.QCTools	Nástroje pro kontrolu kvality pro uchování videa
+net.meijn.onvifviewer	Prohlížejte a ovládejte síťové kamery pomocí protokolu ONVIF
+net.meshlab.MeshLab	Bezplatné a open source zpracování a úpravy 3D trojúhelníkových sítí
+net.minetest.Minetest	Multiplayerová sandboxová hra s nekonečným světem
+net.mkiol.SpeechNote	Pořizování poznámek, čtení a překládání pomocí offline převodu řeči na text, převodu textu na řeč a strojového překladu
+net.mullvad.MullvadBrowser	Osvoboďte internet od hromadného sledování
+net.natesales.Aviator	Váš Video Copilot: AV1/OPUS Video Encoder
+net.nokyan.Resources	Sledujte své systémové prostředky a procesy
+net.olofson.KoboDeluxe	Rolovací 2D střílečka pro třetí osobu
+net.openra.OpenRA	Přepracování raných real-time strategických her Westwood
+net.oz9aec.Gpredict	Satelitní sledování v reálném čase a program předpovědi oběžné dráhy
+net.pcsx2.PCSX2	Emulátor PlayStation 2
+net.peercoin.peercoin-qt	Peercoin, zelená kryptoměna pro udržitelnou budoucnost.
+net.pioneerspacesim.Pioneer	Hra o osamělém vesmírném dobrodružství
+net.pistegamez.PekkaKana2	Hra Jump 'n run vyrobená v duchu starých klasických plošinovek
+net.poedit.Poedit	Jednoduchý překladový editor
+net.puddletag.puddletag	Výkonný editor ID3 tagů
+net.purrdata.PurrData	Open source vizuální programovací jazyk pro multimédia, založený na Pure Data
+net.qsl.QSSTV	Program pro příjem a vysílání SSTV a HAMDRM
+net.redeclipse.RedEclipse	Střílečka z pohledu první osoby s agilní hratelností a vestavěným editorem
+net.retrodeck.retrodeck	RetroDECK přináší prostředí pro katalogizaci a hraní vašich retro her přímo na vašem Steam Decku
+net.rpcs3.RPCS3	Open source emulátor Sony PlayStation 3
+net.rpdev.OpenTodoList	Seznam úkolů a aplikace pro psaní poznámek
+net.runelite.RuneLite	Klient RuneLite OSRS
+net.sapples.LiveCaptions	Živé titulky pro plochu
+net.scribus.Scribus	Rozložení stránky s otevřeným zdrojovým kódem a publikování na ploše (DTP)
+net.seamly.seamly2d	Software pro návrh šicího vzoru
+net.sf.fuse_emulator	Emulátor Sinclair ZX Spectrum
+net.sf.metronomek	Triviálně vypadající metronom s přirozenými zvuky a sofistikovanými možnostmi
+net.sf.nootka	Aplikace pro výuku klasické notové osnovy
+net.sf.VICE	Všestranný emulátor Commodore
+net.shrew.ike.qikea	Aplikace pro správu konfigurací vzdáleného webu
+net.sonic_pi.SonicPi	Nástroj pro tvorbu a hraní hudby založený na kódu
+net.sonobus.SonoBus	Bezplatné a open source síťové audio streamování
+net.sourceforge.artha.Artha	Otevřený tezaurus
+net.sourceforge.atanks	Tahová dělostřelecká strategická hra
+net.sourceforge.audmes.audmes	Systém měření zvuku
+net.sourceforge.btanks	Zábavná rolovací hra s bojovými tanky
+net.sourceforge.dmidiplayer	Drumstick Multiplatformní přehrávač souborů MIDI
+net.sourceforge.DuneLegacy	Moderní reimplementace Dune II
+net.sourceforge.efaxgtk	Faxování s Linux/Unix
+net.sourceforge.electrip.Electrip	Ovládejte svůj model železnice pomocí gamepadů!
+net.sourceforge.ExtremeTuxRacer	Vysokorychlostní arktická závodní hra založená na Tux Racer
+net.sourceforge.Fillets	Logická hra se 70 úrovněmi
+net.sourceforge.fretsonfire	Frets on Fire je hra s hudebními dovednostmi a rychlými prsty. Cílem hry je hrát na kytaru pomocí klávesnice co nejpřesněji.
+net.sourceforge.fspclient	FTP rozhraní pro FSP
+net.sourceforge.GrandOrgue	Simulátor varhan
+net.sourceforge.Hugin	Sešívačka panoramatických fotografií a další
+net.sourceforge.Chessx	Šachová databáze zdarma
+net.sourceforge.chromium-bsu	Rychlá vesmírná střílečka v arkádovém stylu
+net.sourceforge.jpdftweak.jPdfTweak	Švýcarský armádní nůž pro soubory PDF
+net.sourceforge.Kino	Kino DV nelineární video editor pro platformy GNU/Linux a BSD
+net.sourceforge.Klavaro	Učitel dotykového psaní
+net.sourceforge.kmetronome	Drumstick MIDI metronom založený na ALSA sekvenceru
+net.sourceforge.kmidimon	Drumstick MIDI Monitor je MIDI monitor pro Linux využívající ALSA sekvencer
+net.sourceforge.lgames.LBreakoutHD	Arkanoid / Breakout podobná hra
+net.sourceforge.lgames.LGeneral	Engine tahové strategie (jako Panzer General)
+net.sourceforge.lgames.LPairs2	Klasické pexeso
+net.sourceforge.lgames.LTris	Dovednostní hra s padajícími bloky
+net.sourceforge.Lifeograph	Digitální diář a psaní poznámek
+net.sourceforge.liferea	čtečka RSS kanálů
+net.sourceforge.mars-game	2D vesmírná střílečka s úžasnými vizuálními efekty
+net.sourceforge.mcomix	Komiksový a obecný prohlížeč obrázků
+net.sourceforge.molsketch	Editor 2D molekulárních struktur
+net.sourceforge.OpenLieroX	Stranová střílečka, kde ovládáte červy vyzbrojené řadou zbraní
+net.sourceforge.osmo	Osobní organizér
+net.sourceforge.paulstretch	Jedná se o program pro extrémní protažení zvuku (např. 50x) a pro aplikaci speciálních efektů spektrálním vyhlazováním zvuků.
+net.sourceforge.Pdfedit	PDF editor se schopností procházet/upravovat strom raw pdf objektů
+net.sourceforge.pdfchain	PDF Chain je grafické uživatelské rozhraní pro PDF Toolkit (PDFtk)
+net.sourceforge.projectM	Hudební vizualizér, který využívá 3D akcelerované iterativní vykreslování založené na obrázku
+net.sourceforge.qtpfsgui.LuminanceHDR	Vytvářejte obrázky HDR
+net.sourceforge.QtSpim	Samostatný simulátor, který spouští programy MIPS32
+net.sourceforge.quakespasm.Quakespasm	Moderní port původního Quake enginu
+net.sourceforge.Ri-li	Dětská hra, řiďte dřevěný motor na hraní
+net.sourceforge.roccat.roccat-tools	Aplikace pro konfiguraci zařízení Roccat.
+net.sourceforge.scidavis	Aplikace pro analýzu a vizualizaci vědeckých dat
+net.sourceforge.SDL-Ball	Hra na lámání cihel s pěknou grafikou
+net.sourceforge.squirrel_sql	SQuirreL SQL Client je grafické uživatelské rozhraní, které vám umožňuje zobrazit strukturu databáze kompatibilní s JDBC, procházet data v tabulkách, zadávat příkazy SQL atd. Podporuje MySQL, PostgreSQL, MariaDB a SQLite.
+net.sourceforge.Teo	Emulátor Thomson TO8D
+net.sourceforge.tomatoes.IHaveNoTomatoes	Hra na rozbíjení rajčat
+net.sourceforge.torcs	Otevřený simulátor závodních aut
+net.sourceforge.TuxFootball	Skvělá 2D fotbalová (někdy nazývaná fotbalová) hra
+net.sourceforge.uhexen2.uhexen2	Modernizovaný zdrojový port Hexen II
+net.sourceforge.VMPK	Virtual MIDI Piano Keyboard: generátor a přijímač MIDI událostí
+net.sourceforge.wavbreaker	GUI nástroj pro rozdělení souborů WAV, MP2 a MP3
+net.sourceforge.wxEDID	Číst a upravovat soubory EDID (Extended Display Identification Data).
+net.stabyourself.nottetris2	Tetris na fyzikální bázi
+net.studio08.xbplay	Vzdálené přehrávání z vaší konzole nebo xCloud
+net.supertuxkart.SuperTuxKart	3D open source závodní hra motokár
+net.tedomum.CapBattleship	Hra bitevní loď s pirátskou tématikou
+net.unvanquished.Unvanquished	Rychlá strategická hra z pohledu první osoby
+net.veloren.airshipper	Airshipper je oficiální odpalovací zařízení pro Veloren.
+net.veloren.veloren	Veloren je multiplayerové voxel RPG napsané v Rustu. Je inspirován hrami jako Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress a Minecraft.
+net.warsow.Warsow	Rychlá 3D střílečka z pohledu první osoby
+net.waterfox.waterfox	Lehký, bezplatný a open source webový prohlížeč vytvořený pro moderní web.
+net.werwolv.ImHex	Hexadecimální editor pro reverzní inženýry a programátory
+network.bisq.Bisq	Decentralizovaná výměnná síť bitcoinů.
+network.koesling.shm-modbus	Sada nástrojů pro simulaci klienta modbus TCP/RTU
+network.loki.Session	Soukromý posel
+net.worldofpadman.WoP	Neuvěřitelně pečlivě navržená a barevná freewarová zábavná střílečka pro mladé a mladé lidi
+net.wz2100.wz2100	Velte silám Projektu v bitvě o obnovu světa.
+net.xmind.XMind	Mind Mapping & Brainstorming
+net.xmind.XMind8	Úžasný nástroj pro brainstorming a myšlenkové mapy.
+net.xm1math.Texmaker	Latexový editor
+net.zgcoder.skycheckers	Odstřelte nepřátele z jeviště
+net._86box._86Box	Emulátor pro klasické klony IBM PC
+nl.brixit.powersupply	Ladicí program napájecího subsystému Linux
+nl.brixit.wiremapper	Linuxový klient pro tester sítě Pockethernet
+nl.g4d.Girens	Sledujte svůj obsah Plex
+nl.hjdskes.gcolor3	Namíchejte si barvu nebo ji stiskněte z obrazovky
+nl.lostboys.rollemup	Klasická hra pinball z konce 90. let.
+nl.openoffice.bluefish	Textový editor s mnoha doplňky pro vývoj webu a softwaru
+nl.sarine.gpx-viewer	Jednoduchý prohlížeč gpx
+nl.v0yd.Capsule	Sledovač léků
+no.mifi.losslesscut	Ušetřete místo rychlým a bezztrátovým ořezáváním video a audio souborů
+nz.mega.MEGAsync	Snadná automatická synchronizace mezi vašimi počítači a vaším MEGA Cloud Drive.
+one.ablaze.floorp	Prohlížeč Floorp
+one.alynx.FlipClock	Spořič obrazovky s překlápěcími hodinami podporovaný SDL2.
+one.flipperzero.qFlipper	Grafická desktopová aplikace pro aktualizaci firmwaru Flipper Zero přes PC
+one.jiri.easydict-gtk	První překladač s otevřeným zdrojovým kódem, který je zcela otevřený i pro data ze slovníku.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	Prohlížeč ATHN pro gnome
+org.adishatz.syncpasswd	Aktualizujte hesla
+org.alienarena.alienarena	Ultra rychlá aréna FPS
+org.aliflang.lang	Alif(ألف), arabský programovací jazyk
+org.altaqwaa.Altaqwaa	Korán, adhkar a modlitební časy
+org.americanmonk.TipitakaPaliReader	Toto je aplikace pro čtení theravádských buddhistických textů Tipitaka Pāḷi a snadné získání definic
+org.apache.directory.studio	Kompletní platforma pro adresářové nástroje
+org.apache.jmeter	Aplikace pro zátěžové testování a měření výkonu
+org.apache.netbeans	NetBeans - Apache Java IDE. Hodí se kusy k sobě
+org.ardour.Ardour	Digitální audio pracovní stanice
+org.armagetronad.ArmagetronAdvanced	3D Lightcycle hra
+org.arrl.trustedqsl	Ham Radio Contact validační nástroje
+org.artsoft.rocksndiamonds	Logická hra sbírání drahokamů
+org.asc_hq.ASC	Tahová strategická hra
+org.atheme.audacious	Lehký audio přehrávač
+org.audacityteam.Audacity	Audacity je světově nejoblíbenější aplikace pro úpravu a nahrávání zvuku
+org.audiveris.audiveris	Aplikace pro optické rozpoznávání hudby (OMR).
+org.avidemux.Avidemux	Víceúčelový software pro úpravu a zpracování videa
+org.beeref.BeeRef	Jednoduchý prohlížeč referenčních obrázků
+org.bino3d.bino	Přehrávač 3D videa
+org.bionus.Grabber	Velmi přizpůsobitelný imageboard/booru downloader s výkonnými funkcemi pro pojmenovávání souborů
+org.bitbucket.mystery_keeper.VapourSynthEditor	Editor skriptů VapourSynth
+org.bitcoincore.bitcoin-qt	Plné ověření bitcoinového síťového uzlu peer-to-peer, peněženky a GUI
+org.bitfighter.Bitfighter	vesmírná hra s vektorovou grafikou pro více hráčů
+org.blackcoin.blackcoin-more	Skutečná decentralizovaná digitální měna
+org.blackfennec.app	Rozšiřitelné prostředí pro úpravu polostrukturovaných dat
+org.bleachbit.BleachBit	Čistí soubory, aby uvolnil místo na disku a zachoval soukromí
+org.blender.Blender	Bezplatná a open source sada pro tvorbu 3D
+org.bluej.BlueJ	Java IDE pro začátečníky
+org.bluesabre.MenuLibre	Pokročilý editor menu vyhovující FreeDesktop.org
+org.briarproject.Briar	Bezpečné zasílání zpráv, ať jste kdekoli
+org.btchd.btchd-qt	Připojte se k BitcoinHD P2P síti
+org.buhocms.BuhoCMS	Lokální CMS pro generátory statických stránek
+org.bunkus.mkvtoolnix-gui	Tvůrce souborů Matroska a nástroje
+org.bzdev.CVRDecode	Dekodér pro kalifornské digitální záznamy vakcíny COVID-19
+org.bzflag.BZFlag	3D tanková bitevní hra z pohledu první osoby
+org.b3log.siyuan	Systém pro správu osobních znalostí na prvním místě, podpora jemnozrnných referencí na úrovni bloků a Markdown WYSIWYG
+org.caione.GScope	GTK rozhraní k cscope
+org.citra_emu.citra	Emulátor Nintendo 3DS
+org.claws_mail.Claws-Mail	Claws Mail je e-mailový klient (a čtečka zpráv) založený na GTK+
+org.clementine_player.Clementine	Přehrává hudební soubory a internetová rádia
+org.cloudcompare.CloudCompare	Software pro zpracování 3D mračna bodů a sítě
+org.cockpit_project.CockpitClient	Připojte se přes ssh k serverům pomocí Cockpit
+org.codeberg.dimkard.glossaico	Aplikace pro výuku jazyků
+org.codeblocks.codeblocks	IDE pro C, C++ a Fortran
+org.contourterminal.Contour	Contour je moderní a vlastně rychlý, modální emulátor virtuálního terminálu pro každodenní použití
+org.coolero.Coolero	Coolero je program pro sledování a ovládání vašich chladicích zařízení
+org.cryptomator.Cryptomator	Multiplatformní šifrovací nástroj na straně klienta optimalizovaný pro cloudová úložiště
+org.cubocore.CoreAction	Postranní lišta s několika praktickými vychytávkami
+org.cubocore.CoreArchiver	Jednoduchý nástroj pro kompresi/extrahování souborů
+org.cubocore.CoreFM	Jednoduchý, lehký a snadno použitelný správce souborů
+org.cubocore.CoreHunt	Snadno použitelný nástroj pro rychlé vyhledávání souborů
+org.cubocore.CoreImage	Jednoduchý lehký prohlížeč obrázků se snadnou obsluhou
+org.cubocore.CoreInfo	Jednoduchý prohlížeč metadat pro soubory
+org.cubocore.CoreKeyboard	Jednoduchá virtuální klávesnice s návrhy slov
+org.cubocore.CorePad	Jednoduchý lehký, ale výkonný textový editor
+org.cubocore.CorePaint	Jednoduchý nástroj pro malování
+org.cubocore.CorePDF	Jednoduchý odlehčený prohlížeč PDF
+org.cubocore.CoreRenamer	Jednoduchý lehký dávkový přejmenovávač souborů
+org.cubocore.CoreShot	A simple lightweight screen capture utility for X11
+org.cubocore.CoreStats	A simple lightweight system resource viewer
+org.cubocore.CoreTime	A time related task manager
+org.cvfosammmm.Porto	Edit Jupyter notebooks on the desktop
+org.cvfosammmm.Setzer	Simple yet full-featured LaTeX editor
+org.cznic.Datovka	Svobodné uživatelské rozhraní pro datové schránky
+org.darkdimension.rue	A card game about deduction, love and regret.
+org.darktable.Darktable	Uspořádejte a vytvářejte snímky z digitálních fotoaparátů
+org.dash.electrum.electrum_dash	Lightweight Dash client
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+org.debian.TuxPuck	3D Shufflepuck Pong Game
+org.deidentifier.arx	ARX Data Anonymization Tool
+org.deluge_torrent.deluge	A fully-featured BitTorrent Client
+org.denemo.Denemo	Vytvořit notové zápisy hudby
+org.desmume.DeSmuME	Nintendo DS emulator
+org.develz.Crawl	Roguelike dungeon exploration game
+org.dhewm3.Dhewm3	dhewm 3 is a Doom 3 GPL source port
+org.diasurgical.DevilutionX	Diablo/Hellfire source port for modern operating systems
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce Emulator
+org.duckstation.DuckStation	PlayStation Emulator
+org.dupot.beatmatchtopass	Porazte je všechny
+org.dupot.littleadventure	RPG Pixel Art malá hra
+org.dust3d.dust3d	Rychlý nástroj pro 3D modelování
+org.d3cod3.Mosaic	Platforma Visual Patching pro kreativní kódování založená na openFrameworks
+org.easycoding.TunedSwitcher	Jednoduchý nástroj pro manipulaci se službou Tuned
+org.eclipse.iot.fourdiac.Ide	PLC IDE kompatibilní s OpenSource IEC 61499
+org.eclipse.Java	Základní nástroje pro každého Java vývojáře, včetně Java IDE, klienta Git, XML Editoru, integrace Maven a Gradle
+org.eclipse.Javascript	Základní nástroje pro každého vývojáře JavaScriptu, včetně podpory jazyků JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown
+org.eclipse.sumo	Mikroskopická simulace dopravy
+org.electrum.electrum	Lehký bitcoinový klient
+org.emilien.Password	Silné heslo pro maximální bezpečnost
+org.emilien.SpaceLaunch	Kdy vzlétne další raketa k nebi?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, testovací nástroj HTTP(s).
+org.endlessos.Key	Kuriózní učení kdykoli a kdekoli
+org.enjoyingfoss.FOSStriangulator	Nástroj pro vytváření triangulovaných ilustrací z fotografií
+org.entangle_photo.Manager	ovládání fotoaparátu a pořizování snímků z počítače.
+org.equeim.Tremotesf	Vzdálené GUI pro přenosového BitTorrent klienta
+org.eu.encom.spectral	IM klient pro protokol Matrix
+org.eu.getcatalyst.Catalyst	Lehký a uživatelsky zaměřený webový prohlížeč poháněný společností Electron
+org.eu.wabarc.wayback	Samoobslužná sada nástrojů pro archivaci webových stránek na Internet Archive, archive.today, IPFS a místní systémy souborů
+org.exaile.Exaile	Poslouchejte, prozkoumávejte nebo spravujte svou sbírku zvuků
+org.exbin.BinEd	Binární/hexadecimální editor
+org.expresslrs.ExpressLRSConfigurator	Nástroj pro konfiguraci mezi platformami pro firmware ExpressLRS
+org.eyecreate.qiflora	Mobilní aplikace pro sledování rostlin pomocí zařízení Mi Flora.
+org.eyecreate.vehiclevoyage	Sledujte servisní historii vozidla.
+org.famistudio.FamiStudio	Hudební editor FamiStudio NES
+org.fcitx.Fcitx5	Vstupní metoda
+org.fdroid.Repomaker	Snadno vytvářejte repozitáře F-Droid
+org.featherwallet.Feather	Stolní peněženka Monero
+org.fedoraproject.MediaWriter	Nástroj pro vytváření živých USB disků s jinou z edicí Fedory
+org.ferdium.Ferdium	Messenger pro plochu
+org.filezillaproject.Filezilla	Rychlý a spolehlivý FTP klient
+org.filmulator.Filmulator	GUI adaptace Filmulatoru, emulátoru filmu se všemi pozitivy a žádnými negativy
+org.firestormviewer.FirestormViewer	Klient pro přístup k 3D virtuálním světům
+org.fkoehler.KTailctl	GUI pro síť Tailscale mesh
+org.flameshot.Flameshot	Výkonný a snadno použitelný software pro snímání obrazovky
+org.flarerpg.Flare	2D akční RPG
+org.flathub.flatpak-external-data-checker	Nástroj pro kontrolu, zda jsou externí data použitá v manifestech Flatpak stále aktuální
+org.flatpak.qtdemo	Flatpak Developer Demo
+org.flightgear.FlightGear	Bezplatný a vysoce sofistikovaný letecký simulátor
+org.flozz.calcleaner	Jednoduchý grafický nástroj pro vymazání starých událostí z kalendářů CalDAV
+org.flozz.yoga-image-optimizer	Převádějte a optimalizujte obrázky JPEG, PNG a WebP
+org.flycast.Flycast	Sega Dreamcast, Naomi a emulátor Atomiswave
+org.fontforge.FontForge	Editor obrysových písem
+org.freac.freac	Audio konvertor a CD ripper
+org.free_astro.siril	Program pro (před)zpracování astronomických snímků
+org.freecadweb.FreeCAD	Open source parametrický 3D CAD modelář
+org.freeciv.gtk322	Klient založený na Gtk+-3.22 pro hru Freeciv
+org.freeciv.qt	Klient založený na Qt pro hru Freeciv
+org.freecol.FreeCol	FreeCol tahová strategická hra.
+org.freedesktop.adriconf	Pokročilý konfigurátor DRI
+org.freedesktop.appstream.cli	Nástroj pro práci s AppStream metadaty
+org.freedesktop.appstream.generator	Rychlý generátor metadat AppStream
+org.freedesktop.appstream-glib	Nástroje pro ověřování souborů AppStream
+org.freedesktop.Bustle	Nakreslete sekvenční diagramy aktivity D-Bus
+org.freedesktop.dabrain34.GstPipelineStudio	Nakreslete si svůj vlastní kanál GStreamer...
+org.freedesktop.dabrain34.squared	Pokuste se vyplnit čtverec čísly
+org.freedesktop.fwupd	Aktualizujte firmware zařízení v systému Linux
+org.freedesktop.GstDebugViewer	Prozkoumejte informace protokolu ladění GStreamer
+org.freedesktop.Piper	Nástroj pro konfiguraci herní myši
+org.freedesktop.Tuhi	Nástroj pro stahování výkresů z řady zařízení Wacom Ink
+org.freedownloadmanager.Manager	FDM je výkonný moderní akcelerátor a organizátor stahování.
+org.freefilesync.FreeFileSync	Vizuální porovnání a synchronizace složek
+org.freeorion.FreeOrion	Tahová počítačová hra vesmírné impérium a galaktické dobytí (4X).
+org.freeplane.App	Mind Mapping, Knowledge Management, Project Management. Rozvíjejte, organizujte a sdělujte své nápady a znalosti tím nejefektivnějším způsobem
+org.frescobaldi.Frescobaldi	Notační editor pro LilyPond
+org.fritzing.Fritzing	Elektronický designový nástroj
+org.frozen_bubble.frozen-bubble	Návyková hra o zmrzlých bublinách
+org.gabmus.gfeeds	Čtečka novinek pro GNOME
+org.gabmus.giara	Aplikace pro Reddit
+org.gabmus.hydrapaper	Správce tapet s podporou více monitorů
+org.gabmus.notorious	Centrální poznámky na klávesnici
+org.gabmus.swatch	Správce palety barev
+org.gabmus.unifydmin	Aplikace GNOME pro snadné ovládání více heterogenních serverů
+org.gabmus.whatip	Informace o vaší IP
+org.gahshomar.Gahshomar	Perský/Jalali/Farsí kalendář
+org.gajim.Gajim	Plně vybaven klientem XMPP
+org.gaphor.Gaphor	Jednoduchý nástroj pro modelování UML a SysML
+org.geany.Geany	Rychlé a lehké IDE
+org.geeqie.Geeqie	Lehký prohlížeč obrázků
+org.genivi.DLTViewer	Diagnostic Log and Trace viewing program
+org.geogebra.GeoGebra	Dynamic mathematics software
+org.gephi.Gephi	The Open Graph Viz Platform
+org.getmonero.Monero	Monero: the secure, private, untraceable cryptocurrency
+org.getoutline.OutlineClient	Access to the free and open Internet
+org.getoutline.OutlineManager	Set up your Outline Servers on the cloud and manage who has access to the server
+org.getzola.zola	A fast static site generator in a single binary with everything built-in
+org.ghidra_sre.Ghidra	Ghidra Software Reverse Engineering Suite
+org.gimp.GIMP	Vytvářejte obrázky a upravujte fotografie
+org.gmusicbrowser.gmusicbrowser	Jukebox for large collection of music
+org.gna.Warmux	A 2D game where funny characters launch funny weapons
+org.gnode.NixView	Viewer for nix datafiles
+org.gnome.Aisleriot	Zahrajte si plno různých solitérových her
+org.gnome.atomix	Sestavte molekuly z jednotlivých atomů
+org.gnome.baobab	Zkontrolovat velikost složek a dostupné místo na disku
+org.gnome.Boxes	Virtualizovat se dá jednoduše
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	IDE pro GNOME
+org.gnome.Calculator	Provádějte aritmetické, vědecké i finanční výpočty
+org.gnome.Calendar	Kalendář pro GNOME
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.clocks	Mějte přehled o čase
+org.gnome.ColorViewer	Prozkoumat a porovnat nainstalované profily barev
+org.gnome.Connections	Zobrazte si a používejte vzdálené plochy
+org.gnome.Contacts	Spravujte vaše kontakty
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	Chraňte se před ztrátou dat
+org.gnome.design.AppIconPreview	Nástroj pro návrh ikon aplikací
+org.gnome.design.Contrast	Zkontrolujte kontrast mezi dvěma barvami
+org.gnome.design.Emblem	Generate project avatars
+org.gnome.design.IconLibrary	Symbolické ikony pro vaši aplikaci
+org.gnome.design.Lorem	Generate placeholder text
+org.gnome.design.Palette	Nástroj pro paletu barev
+org.gnome.design.SymbolicPreview	Symboly snadno a rychle
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	Vývojářský nástroj pro procházení a vyhledávání v dokumentaci API
+org.gnome.dspy	Prohlížeč D-Bus pro GNOME
+org.gnome.EasyTAG	Upravujte si metadata zvukových souborů
+org.gnome.eog	Procházení a otáčení obrázků
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Prohlížejte si webové stránky
+org.gnome.Evince	Prohlížeč dokumentů pro populární formáty dokumentů
+org.gnome.Evolution	Spravujte svůj e-mail, kontakty a rozvrh
+org.gnome.Extensions	Správa vašich rozšíření GNOME
+org.gnome.FileRoller	Otevírejte, upravujte a vytvářejte komprimované archivní soubory
+org.gnome.Firmware	Instalace firmwaru na zařízení
+org.gnome.five-or-more	Odstraňovat barevné koule z hrací desky tvořením úseček
+org.gnome.FontManager	A simple font management application for Gtk+ Desktop Environments
+org.gnome.font-viewer	Zobrazte si fonty ve svém systému
+org.gnome.Four-in-a-row	Soutěžte ve tvorbě úseček ze stejné barvy
+org.gnome.Fractal	Aplikace pro komunikaci ve skupinách Matrix
+org.gnome.frogr	Nahrávání na Flickr pro GNOME
+org.gnome.gbrainy	gbrainy is a game to train memory, arithmetical, verbal and logical skills.
+org.gnome.Geary	Odesílejte a přijímejte e-maily
+org.gnome.gedit	Textový editor
+org.gnome.Genius	Genius is a general purpose calculator program
+org.gnome.GHex	Zkoumejte a upravujte obsah binárních souborů
+org.gnome.gitg	Grafické uživatelské rozhraní pro git
+org.gnome.gitlab.bazylevnik0.Convolution	Maze escaping game
+org.gnome.gitlab.Cowsay	Cowsay, a state of the art Cowsay generator using GNOME conventions
+org.gnome.gitlab.dqpb.GMetronome	A tempo measurement tool for composers and musicians
+org.gnome.gitlab.ilhooq.Bookup	Simplify your note-taking with Markdown syntax
+org.gnome.gitlab.johannesjh.favagtk	Do your finances using fava and beancount
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.gitlab.somas.Apostrophe	Edit Markdown in style
+org.gnome.gitlab.YaLTeR.Identity	Porovnat obrázky a videa
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Bleskurychlý střih videa
+org.gnome.glabels-3	Vytvářejte etikety, vizitky a obaly médií
+org.gnome.Glade	Vytvářejte a otevírejte návrhy uživatelského rozhraní pro aplikace používající GTK+
+org.gnome.Gnote	Jednoduchá aplikace pro psaní poznámek
+org.gnome.GTG	Personal tasks and TODO-list items organizer
+org.gnome.gThumb	Prohlížejte si a roztřiďte své obrázky
+org.gnome.Gtranslator	Překládejte a lokalizujte aplikace a knihovny
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Hrát logickou hru Hitori.
+org.gnome.Characters	Aplikace s mapou znaků
+org.gnome.Cheese	Pořizujte pomocí webové kamery obrázky a videoklipy se zábavnými grafickými efekty
+org.gnome.Chess	Hrát klasickou šachovou hru pro dva hráče
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Vyřešte hlavolam posouváním kamenů
+org.gnome.LightsOff	Zhasněte všechna světla
+org.gnome.Logs	Zobrazte si podrobné záznamy událostí v systému
+org.gnome.Lollypop	Přehrávat a pořádat hudební sbírku
+org.gnome.Loupe	Prohlížejte si obrázky
+org.gnome.Mahjongg	Najděte stejné kameny a vyčistěte tak herní desku
+org.gnome.Maps	Vyhledávejte místa na celém světě
+org.gnome.meld	Porovnává a slučuje soubory
+org.gnome.Mines	Vyčistěte skryté miny z minového pole
+org.gnome.moserial	Sériový terminál
+org.gnome.Music	Přehrávat a organizovat svou hudební sbírku
+org.gnome.NautilusPreviewer	Poskytuje příslušenství pro rychlé náhledy různých druhů souborů
+org.gnome.NetworkDisplays	Vysílejte svoji plochu na zařízení s podporou displejů Wi-Fi
+org.gnome.Nibbles	Proveďte červíka bludištěm
+org.gnome.Notes	Poznámky pro GNOME
+org.gnome.OCRFeeder	Kompletní aplikace pro OCR
+org.gnome.OfficeRunner	Zavřete víko svého notebooku a začněte utíkat
+org.gnome.Photos	Prohlížejte si, roztříďte a sdílejte své fotografie v GNOME
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Poslouchejte své oblíbené pořady
+org.gnome.Polari	Povykládejte si s lidmi na IRC
+org.gnome.PowerStats	Sledovat správu napájení
+org.gnome.Quadrapassel	Skládat padací bloky dohromady
+org.gnome.Recipes	GNOME miluje vaření
+org.gnome.Reversi	Ovládněte hrací desku v klasické verzi hry Reversi nebo si zahrajte ve žravé verzi.
+org.gnome.Rhythmbox3	Přehrávejte si a organizujte svoji hudební sbírku
+org.gnome.Robots	Utíkejte před roboty a nechte je do sebe navzájem narážet
+org.gnome.seahorse.Application	Spravujte svá hesla a šifrovací klíče
+org.gnome.Shotwell	Správa digitálních fotografií
+org.gnome.SimpleScan	Udělejte si digitální kopie svých fotografií a dokumentů
+org.gnome.Snapshot	Pořizujte obrázky a videa
+org.gnome.Solanum	Mějte v rovnováze čas trávený prací a přestávkami
+org.gnome.SoundJuicer	Nástroj pro extrahování CD s přehledným rozhraním a jednoduchým nastavením
+org.gnome.SoundRecorder	Jednoduchá a moderní aplikace pro nahrávání zvuku v GNOME
+org.gnome.Sudoku	Otestujte své logické schopnosti v tomto hlavolamu
+org.gnome.SwellFoop	Vyčisti obrazovku pomocí odstraňování skupin kamenů různých barev a tvarů
+org.gnome.Tali	Vrhněte kostky a získejte za to body
+org.gnome.Taquin	Presuňte díly na jejich správné místo
+org.gnome.Tau	Uživatelské rozhraní GTK pro exitor Xi
+org.gnome.Tetravex	Uspořádejte kameny tak, aby správně vyplnily čtverec
+org.gnome.TextEditor	Prohlížejte si a upravujte textové soubory
+org.gnome.Todo	Manage your tasks
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Přehrávání filmů
+org.gnome.TwentyFortyEight	Získejte kámen 2048
+org.gnome.Weather	Zobrazte si povětrnostní podmínky a předpověď počasí
+org.gnome.World.Citations	Manage your bibliography
+org.gnome.World.Iotas	Simple note taking
+org.gnome.World.PikaBackup	Keep your data safe
+org.gnome.World.Secrets	Spravujte svá hesla
+org.gnucash.GnuCash	Spravovat vaše finance, účty a investice
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	Tabulkový kalkulátor s vysokou přesností výpočtů
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnu.pspp	GNU PSPP is a program for statistical analysis of sampled data
+org.godotengine.Godot	Godot game engine editor
+org.godotengine.GodotSharp	Godot game engine editor
+org.godotengine.Godot3	Godot game engine editor
+org.godotengine.Godot3Sharp	Godot game engine editor
+org.goldcoinproject.goldcoin-qt	Discover the Gold Standard of Digital Currency.
+org.goldendict.GoldenDict	Dictionary lookup program
+org.gottcode.Connectagram	Rozluštěte slova umístěná ve vzorech
+org.gottcode.CuteMaze	Hledání cílů v bludišti
+org.gottcode.FocusWriter	Psaní textu v režimu na celou obrazovku
+org.gottcode.Gottet	Vyprázdněte desku od padajících kostek
+org.gottcode.Hexalate	Otáčejte kruhy tak, aby se barvy shodovaly
+org.gottcode.Kapow	Udržujte si přehled o času stráveném nad projekty
+org.gottcode.NovProg	Wordcount graphing program
+org.gottcode.Peg-E	Jump pegs to eliminate them
+org.gottcode.Simsu	Vyplňte čísla a vyřešte hádanku
+org.gottcode.Tanglet	Varianta hry Boggle pro jednoho hráče
+org.gottcode.Tetzle	Skládanka s díly ve tvaru tetromina
+org.gpodder.gpodder	Media aggregator and podcast client
+org.gpodder.gpodder-adaptive	Media aggregator and podcast client for mobile and desktop alike
+org.gramps_project.Gramps	Spravuje genealogické informace, provádí genealogický výzkum a analýzy
+org.greenfoot.Greenfoot	Greenfoot
+org.grisbi.Grisbi	Personal finances manager
+org.groestlcoin.electrum-grs	Lehký Groestlcoinový klient
+org.groestlcoin.groestlcoin-qt	Plná validace Groestlcoinového peer-to-peer síťového uzlu, peněženky a GUI
+org.gtaf.quran	Studujte Korán pomocí Word by Word Analysis, Barevný Tajweed, Tafsir & Audio
+org.gtimelog.GTimeLog	Nenápadně sledujte svůj čas
+org.gtkhash.gtkhash	Vypočítává digest zpráv nebo kontrolních součty
+org.guerinoni.qTsConverter	Jednoduchý nástroj pro převod qt překladového souboru (ts) do jiného formátu (xlsx / csv) a naopak.
+org.guitarix.Guitarix	virtuální všestranné zesílení pro Jack/Linux
+org.gustavoperedo.FontDownloader	Nainstalujte písma z online zdrojů
+org.hdfgroup.HDFView	Procházejte a upravujte soubory HDF
+org.hedgewars.Hedgewars	Zábavná tahová dělostřelecká hra s bojovými Ježky!
+org.hikounomizu.HikouNoMizu	Platformová bojová hra ve stylu anime
+org.hlwd.sonofman	Bible ve více jazycích, zdarma, offline, bez reklamy, v angličtině, francouzštině, italštině, španělštině, portugalštině pro terminál.
+org.homelinuxserver.vance.biblereader	Přečtěte si Slovo
+org.horizon_eda.HorizonEDA	Bezplatný balíček EDA
+org.hydrogenmusic.Hydrogen	Pokročilý bicí automat
+org.chocolate_doom.ChocolateDoom	Konzervativní port zdroje Doom
+org.chromium.Chromium	Webový prohlížeč z projektu Chromium
+org.icculus.tennix	Tenisová hra pro více hráčů
+org.imitationpickles.barbie	Pomozte barbie mořského koníka vznášet se na bublinách na Měsíc
+org.inkscape.Inkscape	Editor vektorové grafiky
+org.ioquake3.ioquake3	Free and open-source Quake 3 based engine
+org.jabref.jabref	Graphical Java application for managing BibTeX and biblatex (.bib) databases
+org.jacktrip.JackTrip	Connect and play with other musicians
+org.jamovi.jamovi	Real-time statistical spreadsheet
+org.jaspstats.JASP	Standard statistical analyses, both classical and Bayesian
+org.jdownloader.JDownloader	Download management tool
+org.jellyfin.JellyfinServer	The Free Software Media System
+org.jflap.JFLAP	Formal languages testing
+org.jitsi.jitsi-meet	Jitsi Meet - Secure, Simple and Scalable Video Conferences
+org.jreleaser.cli	Release projects quickly and easily with JReleaser
+org.js.nuclear.Nuclear	A electron based music player
+org.jupyter.JupyterLab	JupyterLab desktop application, based on Electron
+org.karapulse.Karapulse	Karaoke player with built-in web remote client
+org.kde.akregator	Čtečka kanálů novinek
+org.kde.alligator	Čtečka kanálů pro mobilní zařízení
+org.kde.angelfish	Webový prohlížeč pro mobilní zařízení
+org.kde.arianna	Čtečka e-knih
+org.kde.ark	Archivační nástroj
+org.kde.artikulate	Artikulate - učitel výslovnosti
+org.kde.atlantik	Monopoly®-like Board Games
+org.kde.audiotube	Convergent YouTube Music client
+org.kde.blinken	Hra k procvičování paměti
+org.kde.bomber	Arkádová bombardovací hra
+org.kde.bovo	Desková hra Pět v řadě
+org.kde.cantor	Uživatelské rozhraní matematického softwaru pro KDE
+org.kde.digikam	Program pro správu fotografií
+org.kde.dolphin	Správce souborů
+org.kde.elisa	Hezký jednoduchý přehrávač hudby s podporou online rádií
+org.kde.falkon	Webový prohlížeč
+org.kde.filelight	Zobrazit využití disku a smazat nepoužívané soubory
+org.kde.francis	Track your time
+org.kde.gcompris	Vzdělávání pomocí spousty aktivit pro děti od 2 do 10 let
+org.kde.granatier	Klon Bombermana
+org.kde.gwenview	Prohlížeč obrázků
+org.kde.haruna	Open source přehrávač médií postavený na Qt/QML a libmpv
+org.kde.choqok	Klient pro mikroblogování
+org.kde.Ikona	Ikona is a design companion to help you design icons
+org.kde.index	Manage your files
+org.kde.isoimagewriter	Zapsat obraz na ISO na disk USB
+org.kde.itinerary	Digitální asistent na cesty
+org.kde.juk	Přehrávač hudby
+org.kde.kaffeine	Přehrávač multimédií
+org.kde.kalgebra	Kalkulačka grafů
+org.kde.kalk	A feature rich calculator
+org.kde.kalzium	Periodická tabulka
+org.kde.kamoso	Používejte svou webkameru k pořizování snímků a videí
+org.kde.kanagram	Hra uspořádání písmen
+org.kde.kapman	Klon Pacmana
+org.kde.kasts	Aplikace pro přehrávání podcastů
+org.kde.katomic	Logická hra jako Sokoban
+org.kde.kbibtex	BibTeX editor by KDE to edit bibliographies used with LaTeX
+org.kde.kblackbox	Logická hra s černou skříňkou
+org.kde.kblocks	Hra s padajícími bloky
+org.kde.kbounce	KBounce is a single player arcade game with the elements of puzzle
+org.kde.kbreakout	KBreakOut is a Breakout-like game by KDE
+org.kde.kbruch	Cvičení se zlomky
+org.kde.kcachegrind	Rozhraní pro profilaci
+org.kde.kcalc	Vědecká kalkulačka
+org.kde.kclock	Set alarms and timers, use a stopwatch, and manage world clocks
+org.kde.kcolorchooser	Výběr barev a editor palety barev
+org.kde.kdenlive	Editor videa
+org.kde.kdevelop	Featureful, plugin-extensible IDE for C/C++ and other programming languages
+org.kde.kdiamond	KDiamond is a three-in-a-row game by KDE
+org.kde.kdiff3	Nástroj pro porovnávání a slučování souborů a složek
+org.kde.keysmith	Two-factor code generator for Plasma Mobile and Desktop
+org.kde.kfind	Najít soubory/složky
+org.kde.kfourinline	KFourInLine is a four-in-a-row game by KDE
+org.kde.kgeography	Geography learning tool
+org.kde.kgeotag	Photo geotagging program
+org.kde.kget	Správce stahování
+org.kde.kgoldrunner	Hunt Gold, Dodge Enemies and Solve Puzzles
+org.kde.kgraphviewer	Prohlížeč bodových grafů Graphviz
+org.kde.khangman	Hra Hangman
+org.kde.kid3	Upravujte metadata souboru hudby
+org.kde.kig	Interaktivní geometrie
+org.kde.kigo	Desková hra Go
+org.kde.kile	Editor pro TeX/LaTeX
+org.kde.killbots	Přechytračte ostatní roboty
+org.kde.kimagemapeditor	Editor HTML map
+org.kde.kiriki	Hra s kostkami podobná Yahtzee
+org.kde.kiten	Japonský referenční a výukový nástroj
+org.kde.kjumpingcube	Territory Capture Game
+org.kde.kleopatra	Správce certifikátů a rozhraní pro šifrování
+org.kde.klettres	Výuka abecedy
+org.kde.klickety	Klickety je adaptace hry clickomania
+org.kde.klines	Taktická hra
+org.kde.kmahjongg	Mahjong solitér
+org.kde.kmines	Hra s minovým polem
+org.kde.kmplayer	Rozhraní pro MPlayer od KDE
+org.kde.kmplot	Matematický souřadnicový zapisovač funkcí
+org.kde.kmymoney	Osobní správce financí pro podvojné účetnictví
+org.kde.knavalbattle	Hra na lodě
+org.kde.knetwalk	KNetWalk is a game for system administrators
+org.kde.knights	Šachy
+org.kde.koko	Galerie obrázků
+org.kde.kolf	Miniaturní golf
+org.kde.kollision	Casual ball game
+org.kde.kolourpaint	Program pro malování
+org.kde.kommit	GUI git klient od KDE
+org.kde.kompare	Rozhraní pro Diff/Patch
+org.kde.kongress	Pomocná aplikace pro konference KDE
+org.kde.konquest	Strategická galaktická hra
+org.kde.konsole	Terminál
+org.kde.kontact	Handle all your emails, calendars, contacts and more within a single window
+org.kde.kontrast	A Color Contrast Checker
+org.kde.konversation	Klient IRC
+org.kde.kpat	Karetní hra Solitaire
+org.kde.kphotoalbum	Software a správu obrázků pro KDE
+org.kde.krdc	Connect with RDP or VNC to another computer
+org.kde.krename	Mocný nástroj pro dávkové přejmenovávání
+org.kde.kreversi	Desková hra Reversi
+org.kde.krita	Digitální malování, svoboda tvorby
+org.kde.kronometer	Chronometr
+org.kde.kruler	Obrazovkové pravítko
+org.kde.ksirk	Strategická hra o světovou nadvládu
+org.kde.ksnakeduel	Hra podobná Tronu
+org.kde.ksquares	Spojte tečky a vytvořte čtverce
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	Planetárium na vaší obrazovce
+org.kde.ksudoku	Vyplňte číselné puzzle čísly od jedné do devíti
+org.kde.kteatime	Vařič čaje
+org.kde.ktimetracker	Personal Time Tracker
+org.kde.ktorrent	Klient pro BitTorrent
+org.kde.ktouch	Výuka psaní na stroji
+org.kde.ktrip	Průvodce veřejnou dopravou
+org.kde.ktuberling	A simple constructor game suitable for children and adults alike
+org.kde.kturtle	Vzdělávací programovací prostředí
+org.kde.kubrick	3D hra založená na Rubikově kostce
+org.kde.kuiviewer	Prohlížeč UI souborů z Qt Designeru
+org.kde.kwalletmanager5	Nástroj pro správu úschovny
+org.kde.kweather	View real-time weather forecasts and other information
+org.kde.kwordquiz	Procvičování slovní zásoby s kartičkami
+org.kde.kwrite	Textový editor
+org.kde.kxstitch	Tvůrce předloh výšivek křížkovým stehem
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	Systém pro překlad pomocí počítače
+org.kde.lskat	Německá karetní hra Skat pro dva hráče
+org.kde.marble	Virtuální glóbus
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	Hudební vzdělávací software
+org.kde.neochat	Klient pro decentralizovaný komunikační protokol matrix
+org.kde.okteta	Hex editor
+org.kde.okular	Prohlížeč dokumentů
+org.kde.palapeli	Hra se skládáním puzzle
+org.kde.parley	Učitel slovní zásoby
+org.kde.peruse	Čtečka komixů
+org.kde.picmi	Hra puzzle založená na číselné logice
+org.kde.pix	Galerie obrázků
+org.kde.plasmatube	Sledujte videa YouTube
+org.kde.qmlkonsole	Mobilní terminálová aplikace
+org.kde.rocs	Teorie grafů Rocs
+org.kde.ruqola	Klient pro Rocket Chat
+org.kde.skanpage	Aplikace pro vícestránkové skenování
+org.kde.skrooge	Single-entry bookkeeping for home use
+org.kde.subtitlecomposer	Video subtitle editor that supports basic and advanced editing operations
+org.kde.SymbolEditor	Editor symbolů pro vyšívání křížkovým stehem
+org.kde.tellico	Správce sbírek
+org.kde.telly-skout	A convergent Kirigami TV guide
+org.kde.tokodon	Klient pro Mastodon
+org.kde.umbrello	UML modelář
+org.kde.vvave	Přehrávejte svou hudební sbírku
+org.kde.yakuake	Vysouvací terminál
+org.keepassxc.KeePassXC	Komunitně řízený port aplikace Windows „KeePass Password Safe“
+org.KekikAkademi.BTKSorgu	Je cílový web dostupný v Turecku? (BTK)
+org.KekikAkademi.eFatura	Dotaz na využití elektronické faktury z daňového nebo TR identifikačního čísla
+org.kekikakademi.ntvHaber	Nejnovější zprávy v turečtině od NTV.com.tr
+org.kicad.KiCad	EDA suite pro schémata a návrh desky plošných spojů
+org.kiwix.desktop	Zobrazit offline obsah
+org.kosmospredanie.Yakblt	Jednoduchá hra na uhýbání kulkám
+org.kryogenix.hushboard	Při psaní ztlumte mikrofon
+org.kryogenix.Pick	Výběr barvy
+org.kryogenix.utm_no	Odstraňte parametry měření ze zkopírovaných adres URL
+org.ksnip.ksnip	Nástroj pro snímky obrazovky napříč platformami s funkcemi anotací
+org.lamport.tla.toolbox	TLA+ Toolbox je IDE (integrované vývojové prostředí) pro nástroje TLA+
+org.laptop.TurtleArtActivity	Želva inspirovaná logem, která kreslí barevné obrázky pomocí vzájemně spojených vizuálních programovacích bloků
+org.learningequality.Kolibri	Offline vzdělávací technologická platforma
+org.leocad.LeoCAD	Navrhněte virtuální modely, které můžete postavit z kostek LEGO
+org.librecad.librecad	2D počítačově podporované navrhování (CAD)
+org.librehunt.Organizer	Nástroj pro uspořádání souborů do úhledných kategorií
+org.libreoffice.LibreOffice	Produktivní sada LibreOffice
+org.librepcb.LibrePCB	Návrhová schémata a DPS
+org.libretrainsim.Libre-TrainSim	Zdarma vlakový simulátor pro každého
+org.libretro.RetroArch	Frontend pro emulátory, herní enginy a přehrávače médií
+org.libsdl.Maelstrom	Vysoce kvalitní klon asteroidů
+org.libvips.vipsdisp	Prohlížeč obrázků
+org.linux_hardware.hw-probe	Zkontrolujte funkčnost hardwaru počítače a najděte ovladače
+org.linuxshowplayer.LinuxShowPlayer	Tágový přehrávač určený pro jevištní produkce
+org.localsend.localsend_app	Sdílejte soubory na okolních zařízeních
+org.love2d.love2d	LÖVE je úžasný 2D herní rámec pro Lua.
+org.lyx.LyX	Zpracovatel dokumentů
+org.mamedev.MAME	MAME je víceúčelový emulační framework.
+org.manaplus.ManaPlus	Rozšířený klient pro The Mana World a podobné servery
+org.mapeditor.Tiled	Univerzální editor map
+org.mattbas.Glaxnimate	Editor vektorových animací
+org.mattdm.icebreaker	Návyková akční logická hra zahrnující poskakující tučňáky
+org.mavlink.qgroundcontrol	Pozemní řídící stanice UAS
+org.megaglest.MegaGlest	Strategická hra v reálném čase (RTS)
+org.megamek.MegaMek	Bojujte pomocí obřích robotů, tanků a/nebo pěchoty na mapě založené na hexu.
+org.mersenne.mprime	Bezplatný vyhledávací software Mersenne Prime
+org.metal3d.scoreboard	Jednoduchá výsledková tabulka pro počítání bodů v jakékoli hře
+org.mfek.MFEKglif	Editor glyfů pro projekt Modular Font Editor K
+org.midori_browser.Midori	Rychlý a lehký webový prohlížeč
+org.milkytracker.MilkyTracker	Hudební tracker inspirovaný Fast Tracker II
+org.mixxx.Mixxx	Vše, co potřebujete k provádění živých DJ mixů
+org.mmass.mMass	Open Source Mass Spectrometry Tool
+org.mobsya.ThymioSuite	Snadný přístup k programovacím rozhraním Thymio
+org.moneymanagerex.MMEX	Uspořádejte finance a sledujte peněžní toky
+org.mosh.mosh	The Mobile Shell
+org.mozilla.firefox	Rychlý, soukromý a bezpečný webový prohlížeč
+org.mozilla.Thunderbird	Thunderbird je bezplatný a otevřený zdrojový e-mailový klient, informační kanál, chat a kalendář
+org.mpdevil.mpdevil	Jednoduchý hudební prohlížeč pro MPD
+org.msweet.htmldoc	Software pro převod HTML
+org.munadi.Munadi	Jednoduchá aplikace Athan
+org.musescore.MuseScore	Vytvářejte, přehrávejte a tiskněte krásné noty
+org.musicbrainz.Picard	MusicBrainz's music tagger
+org.mypaint.MyPaint	Malířský program pro digitální umělce
+org.naev.Naev	2D akční/rpg vesmírná bojová hra
+org.nanuc.Axolotl	Axolotl je multiplatformní klient Signal
+org.netsurf_browser.NetSurf	malý webový prohlížeč s podporou CSS
+org.neverball.Neverball	Obratně veďte valící se míč mnoha úhlednými 3D úrovněmi
+org.nickvision.cavalier	Vizualizace zvuku s CAVA
+org.nickvision.money	Správa osobních financí
+org.nickvision.tagger	Označte svou hudbu
+org.nickvision.tubeconverter	Stahování videa a hudby z webu
+org.nicotine_plus.Nicotine	Grafický klient pro síť Soulseek
+org.nmap.Zenmap	Multiplatformní GUI pro Nmap Security Scanner
+org.nomacs.ImageLounge	nomacs je bezplatný prohlížeč obrázků s otevřeným zdrojovým kódem
+org.nongnu.enigma	Logická hra
+org.nongnu.gsequencer.gsequencer	Pokročilý sekvencer Gtk+
+org.nongnu.Xlog	Logovací program pro amatérské radiooperátory
+org.nsnam.NetAnim	NetAnim je offline animátor pro ns-3
+org.nuspell.Nuspell	kontrola pravopisu
+org.octave.Octave	Interaktivní programovací prostředí pro numerické výpočty
+org.olivevideoeditor.Olive	Nelineární video editor
+org.omegat.OmegaT	Jednoduchý správce překladové paměti s otevřeným zdrojovým kódem a nástroj CAT
+org.onionshare.OnionShare	Bezpečně a anonymně sdílejte soubory, hostujte webové stránky a chatujte s přáteli
+org.onlyoffice.desktopeditors	Sada kancelářské produktivity
+org.openandroidinstaller.OpenAndroidInstaller	Díky tomu je instalace alternativních distribucí Androidu hezká a snadná
+org.openclonk.OpenClonk	Akční hra pro více hráčů, kde ovládáte malé a hbité humanoidy
+org.opencpn.OpenCPN	Stručný Chartplotter a navigační software
+org.openfodder.OpenFodder	Open-source port DOSové strategické hry Cannon Fodder.
+org.openhantek.OpenHantek6022	Software DSO pro digitální signálové osciloskopy Hantek USB 6022BE/BL
+org.openchemistry.Avogadro2	Volný a otevřený molekulární editor
+org.openjkdf2.OpenJKDF2	Multiplatformní reimplementace „Jedi Knight: Dark Forces II“
+org.openkj.OpenKJ	Profesionální karaoke hostingový software
+org.openmsx.openMSX	Emulujte všechny aspekty MSX s vysokou přesností
+org.openmw.OpenMW	Reimplementace The Elder Scrolls III: Morrowind
+org.opennumismat.OpenNumismat	Software pro sbírání mincí pro organizování a správu vlastního katalogu
+org.openrgb.OpenRGB	Open source ovládání RGB osvětlení, které nezávisí na softwaru výrobce.
+org.openscad.OpenSCAD	Programátorský Solid 3D CAD modelář
+org.openscopeproject.TrguiNG	Vzdálené GUI pro Transmission torrent démona
+org.openshot.OpenShot	Snadno použitelný, rychle se učící a překvapivě výkonný video editor
+org.openstreetmap.josm	Java OpenStreetMap Editor
+org.opensurge2d.OpenSurge	Zábavná 2D retro plošinovka inspirovaná hrami Sonic a systémem tvorby her
+org.opentransactions.metier	Víceměnová blockchain peněženka a klient Open-Transactions
+org.openttd.OpenTTD	Simulační hra s otevřeným zdrojovým kódem založená na Transport Tycoon Deluxe
+org.otfried.Ipe	Rozšiřitelný editor kreslení Ipe
+org.pairinteraction.Pairinteraction	Rydbergova interakční kalkulačka
+org.paraview.ParaView	Analýza a vizualizace dat
+org.parlatype.Parlatype	Přehrávač médií pro přepis řeči
+org.pegasus_frontend.Pegasus	Multiplatformní, přizpůsobitelné grafické rozhraní pro spouštění emulátorů
+org.pencil2d.Pencil2D	2D animační software podporující bitmapovou a vektorovou grafiku
+org.phoenicis.playonlinux	Nainstalujte a spusťte software Windows v systému Linux
+org.photoqt.PhotoQt	Zobrazení a správa obrázků
+org.pipewire.Helvum	Patchbay pro PipeWire
+org.pitivi.Pitivi	Vytvářejte a upravujte své vlastní filmy
+org.pjbroad.EternallandsClient	Eternal Lands je zdarma hratelné grafické MMORPG
+org.plomgrading.PlomClient	Klient pro hodnocení/označení pro online systém hodnocení Plom
+org.polymc.PolyMC	Vlastní launcher pro Minecraft, který vám umožní snadno spravovat více instalací Minecraftu najednou
+org.ppsspp.PPSSPP	Emulátor PlayStation Portable
+org.prismlauncher.PrismLauncher	Vlastní launcher pro Minecraft, který vám umožní snadno spravovat více instalací Minecraftu najednou
+org.processing.processingide	Platforma pro prototypování softwaru s otevřeným zdrojovým kódem
+org.profex_xrd.Profex	Open Source XRD a Rietveld Refinement
+org.pulseaudio.pavucontrol	Upravte úroveň hlasitosti hardwarových zařízení a aplikací
+org.purei.Play	Emulátor Playstation 2
+org.pydpainter.PyDPainter	Použitelný program pro malování pixelů napsaný v Pythonu
+org.pymol.PyMOL	Molekulární vizualizace a raytracing
+org.pyzo.pyzo	Python IDE zaměřené na jednoduchost a interaktivitu
+org.qbittorrent.qBittorrent	Klient Bittorrent s otevřeným zdrojovým kódem
+org.qelectrotech.QElectroTech	Editor výkresů elektrických obvodů
+org.qgis.qgis	Bezplatný a Open Source Geografický informační systém
+org.qownnotes.QOwnNotes	Poznámkový blok ve formátu prostého textu s podporou Markdown a integrací Nextcloud / ownCloud
+org.quassel_irc.QuasselClient	Moderní distribuovaný IRC klient
+org.quetoo.Quetoo	Bezplatná střílečka z pohledu první osoby pro Mac, PC a Linux
+org.qutebrowser.qutebrowser	Webový prohlížeč řízený klávesnicí
+org.qxmledit.QXmlEdit	XML editor
+org.raceintospace.Raceintospace	Hra, která znovu prožije vesmírný závod 60. let
+org.racket_lang.Racket	Jazykově orientovaný programovací jazyk
+org.radare.iaito	Qt a C++ GUI pro systém reverzního inženýrství radare2
+org.raspberrypi.rpi-imager	Zobrazovací nástroj Raspberry Pi
+org.remmina.Remmina	Klient vzdálené plochy
+org.rncbc.qpwgraph	Grafické rozhraní PipeWire Qt GUI
+org.rncbc.qsynth	Fluidsynth Qt GUI rozhraní
+org.rncbc.qtractor	Audio/MIDI vícestopý sekvencer
+org.robocode.Robocode	Vybudujte to nejlepší - zničte zbytek!
+org.rolisteam.rolisteam	Doprovod klienta k serveru Rolisteam
+org.ryujinx.Ryujinx	Emulátor Nintendo Switch
+org.sabnzbd.sabnzbd	Zdarma a snadná binární čtečka zpráv
+org.sauerbraten.Sauerbraten	Zdarma multiplayerová a singleplayerová střílečka z pohledu první osoby, nástupce hry Cube FPS
+org.scantailor.ScanTailor	Interaktivní nástroj pro následné zpracování naskenovaných stránek
+org.scilab.Scilab	Vědecký softwarový balík pro numerické výpočty
+org.scintilla.SciTE	Textový editor založený na SCIntilla
+org.scummvm.ScummVM	Tlumočník pro četné dobrodružné hry a hry na hraní rolí
+org.sdrangel.SDRangel	Softwarově definované rádio pro TX & RX
+org.seul.crimson	Tahová taktická válečná hra
+org.shadered.SHADERed	Nástroj pro vytváření a testování HLSL a GLSL shaderů
+org.shadowsocks.qt5client	Nativní a multiplatformní shadowsocks GUI klient s pokročilými funkcemi.
+org.shotcut.Shotcut	Editor videa
+org.signal.Signal	Soukromý posel
+org.sigxcpu.Livi	Jednoduchý video přehrávač založený na GTK4 pro mobilní telefony
+org.sil.Bloom	Vývoj materiálů pro gramotnost pro jazykové komunity
+org.sil.FieldWorks	Správa jazykových a kulturních dat
+org.skytemple.Randomizer	Randomizer pro Pokémon Mystery Dungeon Explorers of Sky
+org.skytemple.SkyTemple	ROM editor pro Pokémon Mystery Dungeon Explorers of Sky
+org.soapui.SoapUI	SoapUI OS je funkční testovací řešení pro API a webové služby
+org.solarus_games.solarus.Launcher	Procházejte a hrajte svou sbírku úkolů Solarus.
+org.sonic3air.Sonic3AIR	Fanouškem vytvořený širokoúhlý remaster hry Sonic 3 & Knuckles.
+org.soundconverter.SoundConverter	Převést zvukové soubory
+org.sparkleshare.SparkleShare	Synchronizace souborů Git s vlastním hostitelem Magic
+org.speedcrunch.SpeedCrunch	Vysoce přesná vědecká kalkulačka
+org.speed_dreams.SpeedDreams	Speed Dreams je 3D multiplatformní, open source simulační a závodní hra pro motorsport
+org.sqlitebrowser.sqlitebrowser	DB Browser pro SQLite je lehký editor GUI pro databáze SQLite
+org.squeakland.Etoys	Učte se s vizuálním programováním
+org.squey.Squey	Prozkoumejte svá data
+org.squidowl.halloy	IRC klient napsaný v Rustu
+org.srb2.SRB2	3D fangame Sonic the Hedgehog založená na upravené verzi Doom Legacy
+org.srb2.SRB2Kart	Motokárový závodní mod založený na 3D fanhře Sonic the Hedgehog Sonic Robo Blast 2
+org.srb2.SRB2Kart-galaxy	Modifikovaný SRB2Kart přidává mnoho vlastních funkcí
+org.srb2.SRB2Kart-galaxy_azerty	Modifikovaný SRB2Kart přidává mnoho vlastních funkcí s azerty francouzským rozložením klávesnice
+org.srb2.SRB2Kart-Saturn	Modifikovaný SRB2Kart přidává mnoho vlastních funkcí
+org.srb2.SRB2Persona	Mod inspirovaný Personou založený na 3D fanhře Sonic the Hedgehog Sonic Robo Blast 2
+org.standardnotes.standardnotes	Jednoduché a soukromé místo pro vaše poznámky, myšlenky a životní práci
+org.stellarium.Stellarium	Planetárium na vaší obrazovce
+org.stochas.Stochas	Sekvencer Stochas
+org.strawberrymusicplayer.strawberry	Hudební přehrávač a organizér sbírky
+org.subsurface_divelog.Subsurface	Správa a zobrazení dat potápěčského počítače
+org.subtitld.Subtitld	Subtitld je software pro vytváření a úpravu titulků
+org.sugarlabs.AbacusActivity	Nástroj pro jednoduché aritmetické výpočty
+org.sugarlabs.ColorDeducto	Hra založená na logické indukci
+org.sugarlabs.Dimensions	Hra na porovnávání vzorů
+org.sugarlabs.Finance	Naučte se základy finančního plánování
+org.sugarlabs.FotoToon	Vytvořte si svůj vlastní komiks
+org.sugarlabs.FractionBounce	Hra o zlomcích
+org.sugarlabs.Chart	Vytvořte si grafy
+org.sugarlabs.Chess	Sladká šachová hra
+org.sugarlabs.ImplodeActivity	Implodujte bloky stejné barvy, dokud nebudou všechny pryč
+org.sugarlabs.Maze	Jednoduchá hra s bludištěm
+org.sugarlabs.Measure	Osciloskopový program pro vizualizaci mikrofonního vstupu
+org.sugarlabs.Memorize	Najděte odpovídající dvojice
+org.sugarlabs.MusicBlocks	Sbírka nástrojů pro objevování základních hudebních konceptů zábavnou formou.
+org.sugarlabs.MusicKeyboard	Přehrávejte hudbu s touto klavírní klávesnicí
+org.sugarlabs.Paint	Sladký malířský nástroj
+org.sugarlabs.Physics	Dokažte, že má Sir Isaac Newton pravdu
+org.sugarlabs.Pippy	Mluvte se svým počítačem v Pythonu
+org.sugarlabs.Pukllanapac	Posuvná logická hra
+org.sugarlabs.ReadETexts	Přečtěte si tisíce e-knih zdarma
+org.sugarlabs.Sliderule	Mechanická kalkulačka
+org.sugarlabs.SolarSystem	Seznamte se s planetami
+org.sugarlabs.Speak	Animovaný obličej, který mluví, cokoli napíšete
+org.sugarlabs.StoryActivity	Řekni příběh
+org.sugarlabs.SwiftFeet	Postavte se na nohy a tancujte!
+org.sugarlabs.TurtlePondActivity	Obklopte želvu dříve, než vyběhne z obrazovky
+org.sugarlabs.Words	Vícejazyčný offline slovník
+org.supertuxproject.SuperTux	Hra na skok a běh s tučňákem Tuxem v hlavní roli
+org.surge_synth_team.surge-xt	Surge XT Synthesizer Standalone
+org.synfig.SynfigStudio	Vytvářejte a upravujte 2D animace a kompozice
+org.syphon.Syphon	chatujte s nedotčeným soukromím a svobodou
+org.tabos.maxcontrol	Ovládací software pro Max! zařízení
+org.tabos.roger	Journal, Fax-Software a Call-Monitor pro AVM FRITZ!Box nebo kompatibilní
+org.tabos.saldo	Zkontrolujte své bankovní účty
+org.tabos.twofun	Dotyková reakční hra pro dva hráče.
+org.taisei_project.Taisei	Hra Bullet hell shoot 'em up odehrávající se ve vesmíru Tōhō
+org.telegram.desktop	Rychle. Zajistit. Silný.
+org.telesculptor.TeleSculptor	Fotogrammetrie navržená se zaměřením na letecké video
+org.tenacityaudio.Tenacity	Nahrávejte a upravujte zvukové soubory
+org.texstudio.TeXstudio	editor LaTeX
+org.thentrythis.Samplebrain	Vlastní ukázková rmutovací aplikace navržená společností Aphex Twin
+org.thonny.Thonny	Python IDE pro začátečníky
+org.tigervnc.vncviewer	Připojte se k serveru VNC a zobrazte vzdálenou plochu
+org.tildearrow.furnace	Open source chiptune tracker
+org.tomviz.Tomviz	Bezplatná a open source tomografická vizualizace materiálů v nanoměřítku
+org.tordini.flavio.Minitube	aplikace YouTube
+org.torproject.torbrowser-launcher	Program, který vám pomůže stáhnout, aktualizovat a spustit Tor Browser Bundle
+org.tribler.Tribler	Směrem k tomu, aby byl Bittorrent anonymní a nebylo možné jej vypnout.
+org.tropy.Tropy	Prozkoumejte své výzkumné fotografie
+org.tryton.Tryton-68	Klient pro aplikační platformu Tryton
+org.tryton.Tryton-70	Klient pro aplikační platformu Tryton
+org.tug.texworks	Jednoduché prostředí pro úpravu, sazbu a náhled TeXových dokumentů
+org.turbowarp.TurboWarp	Mod Scratch s kompilátorem pro rychlejší spouštění projektů, tmavý režim, spousta doplňků a další
+org.tuxemon.Tuxemon	Tuxemon je bezplatné, open source RPG pro boj s příšerami.
+org.tuxfamily.hatari	Emulátor Atari ST/STE/TT/Falcon
+org.tuxfamily.StuntRally	Závodní hra s rally stylem jízdy
+org.tuxfamily.XMoto	2D motokrosová plošinovka
+org.tuxpaint.Tuxpaint	Kreslicí program pro děti
+org.tvbrowser.TVBrowser	EPG zdarma
+org.twinery.Twine	Twine je open-source nástroj pro vyprávění interaktivních, nelineárních příběhů
+org.ultimatepp.TheIDE	IDE pro vývojový rámec aplikací U++ napříč platformami
+org.unitystation.StationHub	Launcher pro open-source hru Unitystation
+org.unknown_horizons.UnknownHorizons	Open Source Ekonomická simulační hra v reálném čase
+org.upnproutercontrol.UPnPRouterControl	Jednoduchý program, který spravuje routery vyhovující UPnP
+org.upscayl.Upscayl	Zdarma a open source AI Image Upscaler
+org.verapdf.veraPDF	veraPDF je validátor formátu souborů pro standard archivace PDF/A
+org.vergecurrency.verge-qt	VergeCurrency, bezpečná a uživatelsky přívětivá digitální měna.
+org.vertcoin.vertcoin-qt	Plné ověření Vertcoinového peer-to-peer síťového uzlu, peněženky a GUI
+org.videolan.VLC	VLC media player, open-source multimediální přehrávač
+org.viking.Viking	Editor a analyzátor dat GPS
+org.vim.Vim	Všudypřítomný textový editor
+org.vinegarhq.Vinegar	Malý a rychlý bootstrapper nabitý funkcemi pro Roblox
+org.virt_manager.virt-viewer	Přístup k virtuálním strojům na dálku
+org.virtualxt.VirtualXT	Turbo PC/XT emulátor
+org.v1993.NXDumpClient	Klient pro dumping přes USB pomocí nxdumptool
+org.wesnoth.Wesnoth	Tahová strategická hra s vysoce fantasy tématem
+org.wezfurlong.wezterm	Multiplatformní terminálový emulátor a multiplexer s akcelerací GPU
+org.wfview.wfview	Open Source rozhraní pro Icom transceivery
+org.widelands.Widelands	Real-time budovatelská strategická hra
+org.winehq.Wine	Spouštějte aplikace Windows v systémech Linux, BSD, Solaris a Mac OS X
+org.wireshark.Wireshark	Wireshark je přední světový analyzátor protokolů
+org.worldpossible.ScriptLauncher	Nástroj pro spouštění skriptů shellu s právy root
+org.wxhexeditor.wxHexEditor	Pokročilý hex editor velkých souborů
+org.xfce.mousepad	Mousepad je jednoduchý textový editor pro desktopové prostředí Xfce
+org.xfce.ristretto	Rychlý a lehký prohlížeč obrázků
+org.xiphos.Xiphos	Průvodce studiem Bible
+org.xnec2c.Xnec2c	Vícevláknový EM nástroj založený na NEC2 pro modelování vyzařovacích diagramů antény
+org.xonotic.Xonotic	Multiplayerová, deathmatch orientovaná střílečka z pohledu první osoby
+org.x.Warpinator	Odesílání a přijímání souborů po síti
+org.yamagi.YamagiQ2	Yamagi Quake II je alternativní klient pro Quake II od id Software
+org.yuzu_emu.yuzu	Emulátor Nintendo Switch
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) je populární bezplatný bezpečnostní nástroj.
+org.zdoom.GZDoom	Klasický střílecí engine z pohledu první osoby pro všechny klasické Id hry
+org.zealdocs.Zeal	Prohlížeč dokumentace
+org.zim_wiki.Zim	Pište poznámky do desktopové wiki
+org.zirael.bkchem.BKChem	Program pro kreslení molekul
+org.zotero.Zotero	Sbírejte, organizujte, citujte a sdílejte výzkum
+org.zrythm.Zrythm	Digitální audio pracovní stanice
+org.zulip.Zulip	Zulip Desktop Client pro Linux
+org._2006Scape.Launcher	2006Scape je bezplatný emulační server Runescape 2006
+org._2009scape.Launcher	Spouštěč pro emulační servery Runescape 2009
+page.codeberg.DrRac27.Karoto	Aplikace nákupního seznamu pro mobilní zařízení se systémem Linux
+page.codeberg.Imaginer.Imaginer	Představte si s AI
+page.codeberg.JakobDev.CCLite	Emulátor ComputerCraft
+page.codeberg.JakobDev.jdAnimatedImageEditor	Jednoduchý program pro vytváření animovaných obrázků
+page.codeberg.JakobDev.jdAppStreamEdit	Grafický program pro vytváření a úpravu souborů AppStream
+page.codeberg.JakobDev.jdDBusDebugger	Pokročilý D-Bus Debugger
+page.codeberg.JakobDev.jdDesktopEntryEdit	Grafický program pro vytváření a úpravu položek na ploše
+page.codeberg.JakobDev.jdDiff	Grafický prohlížeč rozdílů mezi platformami
+page.codeberg.JakobDev.jdEolConverter	Převede konec řádku všech souborů v adresáři
+page.codeberg.JakobDev.jdFlatpakSnapshot	Program pro vytváření snímků aplikací Flatpak
+page.codeberg.JakobDev.jdMinecraftLauncher	Spouštěč Minecraftu v klasickém stylu
+page.codeberg.JakobDev.jdMrpackInstaller	Nainstalujte modpacky Modrinth
+page.codeberg.JakobDev.jdNBTExplorer	Editor pro soubory Minecraft NBT
+page.codeberg.JakobDev.jdPixelUpscaler	Upscale obrázky na pixel
+page.codeberg.JakobDev.jdProcessFileWatcher	Bez námahy monitorujte a zobrazujte přístup k souborům v reálném čase pro jakýkoli proces
+page.codeberg.JakobDev.jdReplace	Pomocí jdReplace můžete nahradit text ve všech souborech adresáře
+page.codeberg.JakobDev.jdSimpleAutostart	Upravte položky automatického spuštění
+page.codeberg.JakobDev.jdTextEdit	Pokročilý textový editor
+page.codeberg.lazyt.ubpm	Správa údajů o krevním tlaku
+page.codeberg.libre_menu_editor.LibreMenuEditor	Přizpůsobte si menu
+page.codeberg.papojari.Find_Billy	Pixelartová 2D plošinovka.
+page.codeberg.Qwel.egui_picross	Základní hra picross, nonogram, griddler
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita Hra s motivem psa
+page.codeberg.tpikonen.geobug	Zkontrolujte svou polohu a uložte ji do stopy GPX
+page.codeberg.tpikonen.satellite	Zkontrolujte příjem GPS a uložte své trasy
+page.codeberg.yeldham.Librerama	Bezplatná rychlá arkádová kolekce miniher
+party.supertux.supertuxparty	Společenská hra s maskoty FLOSS
+pl.art.lach.slawek.V2BlankBrowser	Webový prohlížeč, který nevymaže obrazovku
+pl.nieto.fityk	Nelineární prokládání křivek a analýza dat
+pl.youkai.lanchat	LAN chat a přenos souborů
+pl.youkai.nscan	Síťový skener.
+pm.mirko.Atoms	Spravujte Chroot a kontejnery.
+pro.vpup.vpuppr	Aplikace VTuber vytvořená pomocí Godot 3.4
+radio.k0swe.Kel_Agent	Webový amatérský rozhlasový agent
+re.chiaki.Chiaki	Zdarma a Open Source klient pro PlayStation Remote Play
+re.rizin.cutter	Bezplatná a otevřená platforma zpětného inženýrství založená na Rizin a Qt
+re.sonny.Commit	Redaktor zpráv komise
+re.sonny.Junction	Volba aplikace
+re.sonny.OhMySVG	Zmenšete velikost SVG
+re.sonny.Playhouse	Hřiště pro HTML/CSS/JavaScript
+re.sonny.Retro	Přizpůsobitelné retro digitální segmentové hodiny
+re.sonny.Tangram	Prohlížeč pro vaše připnuté záložky
+re.sonny.Workbench	Učte se a vytvořte prototyp s technologiemi GNOME
+rest.insomnia.Insomnia	Open Source API klient a návrhová platforma pro GraphQL, REST a gRPC.
+rocks.koreader.KOReader	Prohlížeč dokumentů pro DjVu, PDF, EPUB a další
+ro.fxdata.taskmonitor.viewer	Vizualizujte data TaskMonitor
+ro.go.hmlendea.DL-Desktop	Neoficiální desktopový klient pro aplikaci pro výuku jazyků Duolingo
+ro.go.hmlendea.SokoGrump	Logická hra podobná Sokobanu s Grumpy Cat
+ro.hume.cosmin.ShoppingList	Aplikace nákupního seznamu pro mobilní zařízení GNU/Linux
+ru.proninyaroslav.libretrack	Soukromá aplikace pro sledování zásilek napříč platformami
+ru.sview.sView	Stereoskopický přehrávač médií
+ru.yandex.Browser	Webový prohlížeč od Yandex
+sa.sy.bluerecorder	Jednoduchý záznam obrazovky pro desktop Linux. Podporuje Wayland a Xorg
+se.cendio.tlclient	Server vzdálené plochy Linux postavený na technologii open source
+se.emijoh.mpw	Vypočítejte si heslo webu, když ho potřebujete.
+se.manyver.Manyverse	decentralizované sociální sítě
+se.sjoerd.GIScan	Číst a analyzovat data GISAXS uložená ve formátu cbf
+se.sjoerd.Graphs	Vykreslujte a manipulujte s daty
+sh.cider.Cider	Open source a komunitně orientovaný klient Apple Music
+sh.fhs.KatawaShoujoReEngineered	Moderní verze klasického vizuálního románu ve stylu bishoujo
+sh.ppy.osu	Rytmická hra, kterou lze zdarma vyhrát. Rytmus je vzdálen pouze *kliknutím*!
+sh.xaviers.Opentapes	Poslouchejte Hip-Hop mixtapes
+si.tano.Vremenar	Zobrazte počasí a předpověď na mapě rychlým a jednoduchým způsobem
+site.someones.Lonewolf	Uspořádejte a sledujte své úkoly snadno a flexibilně
+sm.puri.Chatty	Komunikační aplikace pro mobilní zařízení a stolní počítače
+social.whalebird.WhalebirdDesktop	Whalebird je klient Mastodon, Pleroma a Misskey pro desktop
+so.libdb.gtkcord4	GTK4 Discord klient v Go
+so.onekey.Wallet	All-in-one kryptopeněženka.
+space.fips.Fips	Prohlížeč obrázků FITS založený na OpenGL
+space.nouspiro.tenmon	FITS/XISF prohlížeč obrázků, konvertor, index a vyhledávání
+studio.kx.carla	Hostitel zvukového pluginu
+tech.feliciano.pocket-casts	Online přehrávač podcastů
+tk.deat.Jazz2Resurrection	Reimplementace Jazz Jackrabbit 2
+tr.gov.uyap.Editor	UYAP Document Editor je aplikace pro zobrazování a vytváření dokumentů UDF v systému UYAP.
+tv.kodi.Kodi	Konečné centrum zábavy
+tv.plex.PlexDesktop	Plex klient pro stolní počítače
+tv.plex.PlexHTPC	Plex HTPC klient pro velkou obrazovku
+tw.ddnet.ddnet	Nejtěžší kooperativní 2D plošinovka všech dob
+ua.org.brezblock.q4wine	Užitečný program pro správu Wine aplikací a prefixů
+uk.co.electronstudio.ComicReaderUltimate	Názorný divák CBZ
+uk.co.mangobrain.Infector	Zahrajte si klasickou deskovou hru Ataxx pro dva až čtyři hráče
+uk.co.parallelrealities.games.edgar	2D dobrodružná plošinovka
+uk.co.powdertoy.tpt	Pískoviště fyziky
+uk.co._69_studios.kublit	Zcela nová originální logická hra od 69 Studios
+uk.et1.big-finish-downloader	Aplikace GTK ke stažení vaší Big Finish Collection
+uk.jnthn.backgammony	Frontend pro backgammon s podporou pro více hráčů
+uk.me.doof.Lander	Arkádová hra ve stylu Lunar Lander.
+uk.org.greenend.chiark.sgtatham.putty	Klient SSH, Telnet a Rlogin
+uk.org.greenend.chiark.sgtatham.puzzles	Kolekce logických her
+uk.org.zint.zint-qt	Generátor čárových kódů
+us.ihmc.cmap.CmapTools	Umožňuje uživatelům vytvářet a sdílet pojmové mapy.
+us.zoom.Zoom	Videokonference, webové konference, webináře, sdílení obrazovky
+vet.rsc.OpenRSC.Launcher	Launcher pro Open RuneScape Classic Servers
+vn.hoabinh.quan.CoBang	Skener QR kódů pro Linux
+website.i2pd.i2pd	Neviditelný internet
+work.openpaper.Paperwork	Správce osobních dokumentů
+ws.openarena.OpenArena	Zdarma a open source střílečka z pohledu první osoby
+xyz.aguno.CubeTimer	Jako StackMat, ale pro Linux
+xyz.armcord.ArmCord	ArmCord je zákaznický klient navržený tak, aby vylepšil váš zážitek z Discordu a zároveň zachoval vše odlehčené.
+xyz.audiostellar.AudioStellar	Experimentální vzorkovač poháněný umělou inteligencí
+xyz.eclipium.Hieroctive	Zábavná pexeso, ve které se naučíte hieroglyfy!
+xyz.eclipium.TetraSwap	Jednoduchá, ale náročná futuristická logická hra!
+xyz.hyperplay.HyperPlay	Web3 spouštěč her z budoucnosti. Noste svou peněženku, NFT, tokeny a úspěchy do každé hry.
+xyz.ketok.Speedtest	Změřte si rychlost připojení k internetu
+xyz.kusma.aurora	Aurora by Excess
+xyz.ljoonal.neospeeps	Odlehčená aplikace, která uvádí přehledy a relace NeosVR
+xyz.mx_moment.moment	Přizpůsobitelný klient Matrix ovladatelný pomocí klávesnice
+xyz.rescribe.rescribe	Vysoce kvalitní OCR pro obrázky, soubory PDF a Knihy Google.
+xyz.safeworlds.hiit	Časovač pro vysoce intenzivní intervalový trénink
+xyz.safeworlds.midiconn	Virtuální MIDI hub
+xyz.slothlife.Jogger	Fitness tracker
+xyz.splashmapper.Splash	Software pro video mapování
+xyz.stuerz.BilligSweeper	Levný klon Hledání min
+xyz.tytanium.DoorKnocker	Ověřte si dostupnost portálů
+xyz.woxel.Woxel	Open Source 3D editor voxelů podobný Minecraftu
+xyz.xclicker.xclicker	Rychlý gui autoclicker pro x11 linuxové desktopy
+xyz.z3ntu.razergenie	Nakonfigurujte a ovládejte svá zařízení Razer

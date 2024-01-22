@@ -1,0 +1,357 @@
+app.authpass.AuthPass	מנהל סיסמאות: שמור על בטיחות הסיסמאות שלך בכל הפלטפורמות והמכשירים
+app.bbsync.BlackboardSync	הורד את תוכן Blackboard Learn למכשיר שלך
+app.moosync.moosync	נגן מוזיקה הניתן להתאמה אישית
+app.rednotebook.RedNotebook	יומן גרפי ויומן
+app.bluebubbles.BlueBubbles	לקוח BlueBubbles עבור לינוקס
+br.gov.cti.invesalius	תוכנה לשחזור הדמיה רפואית תלת מימדית
+ca._0ldsk00l.Nestopia	אמולטור של Nintendo Entertainment System
+app.vup.Vup	אפליקציית אחסון ענן מוצפנת בקוד פתוח מקצה לקצה עם שרת מדיה משולב
+chat.quadrix.Quadrix	לקוח צ\'אט מינימלי, פשוט, מרובה פלטפורמות עבור פרוטוקול Matrix
+chat.tandem.Client	משרד וירטואלי לצוותים מרוחקים
+ca.hamaluik.Timecop	אפליקציית מעקב אחר זמן שמכבדת את הפרטיות שלך ועושה את העבודה מבלי להיות מפוארת מדי
+codes.merritt.adventurelist	רשימת מטלות שמסתנכרנת עם כל המכשירים שלך
+co.headsetapp.headset	אוזניות. גלה ואסוף מוזיקה ב-YouTube.
+ch.protonmail.protonmail-import-export-app	ייבא אימיילים לתיבת הדואר הנכנס המאובטחת של ProtonMail או בצע גיבויים לא מקוונים עם אפליקציית ייבוא-ייצוא.
+com.agateau.PixelWheels	Pixel Wheels הוא משחק מרוץ רטרו מלמעלה למטה.
+com.ampl.ide	ממשק דוגמנות משופר פשוט וישיר עבור משתמשי AMPL
+com.adamcake.Bolt	משגר Jagex של צד שלישי בקוד פתוח
+com.belmoussaoui.Decoder	סריקה ויצירת קודים מסוג QR
+com.bixense.PasswordCalculator	חשב סיסמאות חזקות עבור כל כינוי מתוך הסוד היחיד שלך
+com.avocode.Avocode	מסור ובדוק כל עיצוב
+com.cassidyjames.butler	מלווה עבור עוזר בית
+com.clarahobbs.chessclock	משחקי זמן של שחמט על הלוח
+com.boxy_svg.BoxySVG	עורך גרפיקה וקטורית ניתנת להרחבה
+com.diffingo.fwbackups	תוכנית גיבוי עשירה בתכונות וידידותית למשתמש
+com.eduke32.EDuke32	EDuke32 הוא מנוע משחק ביתי מדהים וחינמי
+com.darhon.drfinance	נהל את החשבונות האישיים שלך
+com.endlessnetwork.missilemath	משחק יריות מעופף במטוס
+com.expidusos.file_manager	מנהל הקבצים של ExpidusOS
+com.endlessnetwork.frogsquash	משחק כבישים צולבים ממכר עם טוויסט
+com.gamestarmechanic.gamestarmechanic	למד לעצב משחקי וידאו
+com.github._4lex4.ScanTailor-Advanced	כלי עיבוד לאחר אינטראקטיבי עבור דפים סרוקים
+com.github.alexhuntley.Plots	מייצר גרפים פשוט
+com.geekbench.Geekbench6	אמת מידה למערכות חוצות פלטפורמות
+com.github.alexkdeveloper.sudoku	משחק סודוקו
+com.github.arshubham.gitignore	הפניה .gitignore לשפות שונות
+com.github.alexkdeveloper.dice	משחק קוביות פשוט
+com.github.bjaraujo.Bombermaaan	משחק ארקייד
+com.github.carlos157oliveira.Calculus	חישוב נגזרות ואינטגרלים
+com.github.avojak.paint-spill	משחק הפאזל ממלא הצבעים
+com.github.dariasteam.cowsrevenge	Indie Platformer Pixel Art משחק
+com.github.dynobo.normcap	חלץ טקסט מכל מקום על המסך
+com.github.corna.Vivado	Xilinx Design Suite לפיתוח חומרה
+com.github.geigi.cozy	האזינו לספרי שמע
+com.github.gpuvis.Gpuvis	Visualizer של GPU Trace
+com.github.finefindus.eyedropper	בחר ועצב צבעים
+com.github.JannikHv.Gydl	הורד תוכן מאתרים כמו יוטיוב
+com.github.jmlich.geotagging	כדי למצוא את המקום בו צילמת את התמונה
+com.github.inercia.k3x	מנהל אשכולות Kubernetes מקומיים עם k3d
+com.github.libresprite.LibreSprite	עורך ספרייט מונפש וכלי אמנות פיקסלים
+com.github.louis77.tuner	גלה והאזן לתחנות רדיו באינטרנט
+com.github.kmwallio.thiefmd	עורך הסימון ששווה לגנוב.
+com.github.muriloventuroso.givemelyrics	מילים לשירים שלך
+com.github.Murmele.Gittyup	לקוח Git גרפי שנועד לעזור לך להבין ולנהל את היסטוריית קוד המקור שלך
+com.github.mikacousin.olc	שליטה במופעי התאורה שלך
+com.github.qarmin.czkawka	אפליקציה רב תפקודית למציאת כפילויות, תיקיות ריקות, תמונות דומות, קבצים שבורים וכו \'.
+com.github.qarmin.szyszka	שינוי שם קבצים פשוט אך רב עוצמה, כתוב ב- Rust
+com.github.PopoutApps.popout3d	יוצר תמונות תלת מימד מתמונות שצולמו במצלמה רגילה.
+com.github.scrivanolabs.scrivano	אפליקציה לרישום הערות למי שמעדיף כתב יד על פני הקלדה.
+com.github.sdv43.whaler	Docker Container Management
+com.github.unrud.RemoteTouchpad	שליטה בעכבר ובמקלדת מסמארטפון
+com.github.sakya.corechess	GUI שחמט בקוד פתוח עבור מנועי שחמט
+com.github.utsushi.Utsushi	כלי עזר לרכישת תמונות עבור Epson
+com.gitlab.azymohliad.Qwertone	הופך את המחשב שלך לכלי נגינה
+com.gitlab.coringao.cavestory-nx	משחק הרפתקאות צדדי נוסטלגי
+com.github.varnholt.dynablaster_revenge	גרסה מחודשת של המשחק Dynablaster
+com.grangerhub.Tremulous	Aliens vs Humans, משחק יריות בגוף ראשון עם אלמנטים של אסטרטגיית זמן אמת
+com.hamrick.VueScan	תוכנת סריקה עבור 6000+ סורקים
+com.gitlab.cutecom.cutecom	מסוף טורי גרפי
+com.irccloud.desktop	שירות לקוחות IRC מודרני, מחובר תמיד
+com.jetbrains.CLion	IDE חוצה פלטפורמות עבור C ו-C++
+com.heroicgameslauncher.hgl	משגר משחקי Epic קוד פתוח, GOG ו-Amazon Prime.
+com.js8call.JS8Call	תוכנה המשתמשת במצב דיגיטלי JS8 המספקת הודעות אות חלש למקלדת למפעילי רדיו חובבים
+com.ktechpit.colorwall	אפליקציית הטפטים האולטימטיביים לשולחן העבודה
+com.jetbrains.IntelliJ-IDEA-Ultimate	Java IDE מסוגל וארגונומי לפיתוח ארגוני, אינטרנט ומובייל
+com.locomalito.abbayedesmorts	משחק וידאו מיושן למעבר אפל בהיסטוריה
+com.mastermindzh.tidal-hifi	גרסת האינטרנט של listen.tidal.com עם תמיכה ב-Hi-Fi (גבוה ומקס).
+com.ktechpit.wonderwall	מנהל טפטים
+com.mousepawmedia.omission	חידת מילים פשוטה להטעיה.
+com.nitrokey.nitrokey-app	נהל את מכשירי Nitrokey שלך
+com.microsoft.EdgeDev	היכרות עם דפדפן האינטרנט החדש של Microsoft Edge. הגיע הזמן לצפות ליותר. יותר פרטיות. יותר שליטה. יותר פרודוקטיביות. יותר ערך.
+com.ozmartians.VidCutter	Media Cutter + Joiner
+com.pokemmo.PokeMMO	PokeMMO הוא משחק mmorpg בחינם, בוא הצטרף לקהילה הולכת וגדלה כשאתה עולה רמה ומגלה מפלצות חדשות
+com.opera.Opera	דפדפן האינטרנט מבית Opera
+com.quixel.Bridge	הגשר המושלם בין Megascans והכלים האהובים עליך
+com.rawtherapee.RawTherapee	תוכנית מתקדמת לפיתוח תמונות גולמיות
+com.qq.QQ	שירות הודעות מיידיות מקוון
+com.rq3.Reaction	סרט ריאליזם בגוף ראשון
+com.sigil_ebook.Sigil	עורך ספרי אלקטרוני EPUB מרובי פלטפורמות
+com.snes9x.Snes9x	אמולטור סופר נינטנדו
+com.rosegardenmusic.rosegarden	MIDI ועורך רצף אודיו וסימונים
+com.strlen.TreeSheets	מארגן נתונים בטופס חופשי
+com.synology.CloudStationBackup	גיבוי בזמן אמת חוסך אותך מאובדן נתונים מאסיבי
+com.sourcepole.kadas	אפליקציית מיפוי למשתמשים שאינם מתמחים
+com.thebrokenrail.MCPIReborn	כיף עם בלוקים
+com.tomjwatson.Emote	בוחר אמוג\'י קופץ מודרני
+com.syntevo.SmartSynchronize	השוואת מדריכים בדרך החכמה
+com.uploadedlobster.peek	תוכנה פשוטה קלת המסך עם ממש משתמש קל לשימוש
+com.varnamproject.Varnam	הקלד בקלות שפות אינדיות
+com.tux4kids.tuxtype	משחק מורה הקלדה חינוכי בכיכובו של Tux
+com.voxdsp.Borg0	סינתיסייזר אודיו נייד (SDL) / מחולל צלילים מאפשר למשתמשים לצייר מתנדים ומעטפות.
+com.voxdsp.Snowling	משחק באולינג של מזל
+com.visualstudio.code-oss	Visual Studio Code. עריכת קוד. מוגדר מחדש.
+com.wiz.Note	סביבת שולחן עבודה מצוינת PKM (ניהול ידע אישי) המבוססת על שימוש בענן
+com.xnview.XnRetro	צור תמונות מדהימות עם אפקט וינטג\' או מיידי
+com.w1hkj.fldigi	תקשורת כרטיס קול חובב רדיו
+cz.zeropage.Formiko	עורך reStructuredText ו-MarkDown ותצוגה מקדימה חיה
+de.akaflieg_freiburg.enroute	אפליקציית ניווט בטיסה לטייסי VFR
+com.zoho.Notebook	האפליקציה היפה ביותר לרישום הערות במכשירים שונים
+de.lernsoftware_filius.Filius	Filius הוא סימולטור רשת למטרות חינוכיות.
+de.manuel_kehl.go-for-it	רשימת מטלות סטיילנת עם מתזמן מובנה
+de.halaszovich.PMbrowser	פתח, עיין וייצא קבצי PM dat
+dev.alextren.Spot	האזינו למוזיקה בספוטיפיי
+dev.ares.ares	חבילת הדמיית קונסולות מרובות מערכות
+de.tumexam.cli	לקוח ל-TUMexam לניהול תלמידים ומבחנים.
+dev.lasheen.qr	סורק/מחולל קוד QR
+dev.levz.TinyImageFinder	Image Finder עם תצוגה מקדימה
+dev.krtirtho.Flemozi	מתקדם⚡ Emoji Picker😀 עבור Linux🐧, Windows🪟 ו-macOS🍎
+dev.vieb.Vieb	דפדפן אלקטרוני בהשראת Vim
+de.wger.flutter	גשש כושר/אימון, תזונה ומשקל
+eu.ototu.Quteqoin	יישום pour lire les tribunes
+dev.zelikos.rollit	לגלגל את הקוביות
+eu.skribisto.skribisto	תוכנה לכתיבה
+fr.inria.corese.CoreseCommand	פתח את הכוח של הרשת הסמנטית
+fr.romainvigier.MetadataCleaner	הצג ונקה מטא נתונים בקבצים
+eu.stethewwolf.gresistor	מחשבון קודי צבע נגד
+gg.tesseract.Tesseract	יריות מגוף ראשון עם עריכת מפות משותפת במשחק
+il.co.ravkavonline.RavKavOnline	טען את כרטיס הרב-קו שלך בבית וטייל בנוחות
+fr.rubet.rpn	מחשבון CLI הפוך פולני
+info.cemu.Cemu	אמולטור Nintendo Wii U
+info.puredata.Pd	סביבת תכנות גרפית בזמן אמת עבור מוזיקת מחשב אינטראקטיבית חיה
+im.dino.Dino	לקוח צ\'אט XMPP מודרני
+io.conduktor.Conduktor	לקוח שולחן עבודה יפהפה ומלא תכונות עבור Apache Kafka
+io.enpass.Enpass	Enpass הוא מנהל סיסמאות לאחסון וניהול מאובטח של הסיסמאות שלך ואישורים אחרים.
+info.urbanterror.UrbanTerror	יריות מגוף ראשון טקטי עם אלמנטים של סרטי פעולה
+io.github.alainm23.planify	תשכחי לשכוח דברים
+io.github.Andrettin.Wyrmsun	משחק אסטרטגיה המבוסס על היסטוריה, מיתולוגיה ובדיה
+io.gdevs.GDLauncher	GDLauncher הוא משגר מותאם אישית פשוט אך חזק של Minecraft עם התמקדות חזקה בחוויית המשתמש.
+io.github.bothlab.pomidaq	הצג והקלט סרטוני וידאו מ-UCLA Miniscopes
+io.github.cges30901.hmtimer	טיימר כיבוי גרפי
+io.github.arunsivaramanneo.GPUViewer	חזית ל-glxinfo, vulkaninfo, clinfo ו-es2_info
+io.github.dagargo.Elektroid	מנהל התקני מדגם ו-MIDI
+io.github.diegoivanme.flowtime	הקדישו את זמנכם בחוכמה
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	הרץ במהירות דרך 10 רמות באמצעות מצבי שמירה!
+io.github.ezQuake	לקוח QuakeWorld מודרני המתמקד במשחק מקוון תחרותי
+io.github.Dretch.MonomerFlatpakExample	יישום מונומר Flatpak לדוגמה.
+io.github.fizzyizzy05.binary	ממיר בסיס מספרים
+io.github.freedoom.Phase1	יריות מגוף ראשון המבוסס על מנוע Doom
+io.github.giantpinkrobots.flatsweep	מנקה שאריות של Flatpak
+io.github.fkinoshita.Telegraph	כתוב ופענח מורס
+io.github.hermitdemschoenenleben.linien	מנעול ספקטרוסקופיה
+io.github.hydrusnetwork.hydrus	ארגן מדיה על שולחן העבודה
+io.github.glitterware.Passy	מנהל סיסמאות לא מקוון עם סנכרון בין פלטפורמות
+io.github.janbar.noson	בקר עבור SONOS
+io.github.jonmagon.kdiskmark	כלי השוואת דיסק
+io.github.igorlogius.scr2ppm	צילום המסך הקטן ביותר X11 aka. כלי צילום מסך
+io.github.labsquare.CutePeaks	מציג מעקב Sanger עצמאי
+io.github.lainsce.Khronos	תיעוד הזמן שנדרש לביצוע משימות
+io.github.kalaksi.Lightkeeper	כלי ניהול שרת עצמאי שניתן להתאמה אישית
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA היא יציאת מקור Doom 3 BFG GPL
+io.github.MakovWait.Godots	מנהל גרסת מנוע המשחק Godot
+io.github.limads.Queries	שולחן עבודה לאינטראקציה עם מסדי נתונים יחסיים.
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] קורא טקסט בודהיסטי המשתמש ב-CBETA APIs.
+io.github.myst6re.makoureactor	עורך שטח עבור Final Fantasy VII
+io.github.mihnea_radulescu.imagefanreloaded	מציג תמונות מבוסס כרטיסיות קל משקל, התומך בעיבוד מרובה ליבות
+io.github.nostar.DroidStar	לקוח D-Star למחשב
+io.github.nroduit.Weasis	מציג DICOM רפואי חופשי/חופשי/פתוח
+io.github.nokse22.inspector	הצג מידע על המערכת שלך
+io.github.prateekmedia.appimagepool	לקוח AppImageHub פשוט ומודרני.
+io.github.prateekmedia.pstube	לקוח יוטיוב נוצר באמצעות פלפר
+io.github.philipk.boilr	הוסף משחקים שאינם Steam לספריית Steam שלך
+io.github.retgal.Dayon	סיוע מרחוק נעשה קל!
+io.github.retux_game.retux	פלטפורמת פעולה בכיכובו של הקמע של לינוקס, Tux
+io.github.Rangi42.polished-map-plusplus	ערוך מפות וערכות אריחים של Pokecrystal
+io.github.sigmasd.IRust	חלודה רפל
+io.github.signus_game.signus	משחק אסטרטגיה מבוסס תורות
+io.github.thaunknown.miru	Miru - תוכנת הזרמת ביטורנט לחתולים
+io.github.shiiion.primehack	מזלג Dolphin Emu עבור מודדים שונים של Metroid Prime
+io.github.TheWisker.Cavasik	Visualizer אודיו מבוסס על CAVA
+io.github.vemonet.EmojiMart	בוחר אמוג\'י מוקפץ מודרני לשולחן העבודה, המבוסס על רכיב האינטרנט Emoji Mart.
+io.github.thetumultuousunicornofdarkness.cpu-x	אוסף מידע על מעבד, לוח אם ועוד
+io.github.vinser.pixyne	סקור במהירות תיקיות תמונות, מחק בבטחה תמונות רעות ודומות, תקן את תאריכי הצילום
+io.github.yamanqd.antware	משחק FPS.
+io.gitlab.adhami3310.Converter	המר ותפעל תמונות
+io.github.voxelcubes.deepqt	רתום את העוצמה של ממשק ה-API של DeepL עם ממשק משתמש ידידותי זה
+io.gitlab.idevecore.Pomodoro	Pomodoro הוא טיימר ממוקד פרודוקטיביות
+io.gitlab.leesonwai.Tactics	בנה את מערך הכדורגל שלך
+io.gitlab.adhami3310.Impression	צור כוננים הניתנים לאתחול
+io.itch.drwhut.TabletopClub	שחק במשחקי שולחן בארגז חול תלת מימדי מבוסס פיזיקה
+io.jor.mightymike	חילוץ אקשן רב עוצמה בחנות צעצועים השתגע!
+io.gitlab.o20.word	שיבוט קוד פתוח של MS Word 2019... עבור לינוקס
+io.mpv.Mpv	נגן מדיה חינמי, קוד פתוח וחוצה פלטפורמות
+io.photoflare.photoflare	עורך תמונות חוצה פלטפורמות פשוט אך רב עוצמה
+io.kapsa.drive	Zero Knowledge E2E אחסון מוצפן התואם לכל ספק S3
+io.sourceforge.pipewalker.PipeWalker	משחק פאזל חיבור
+io.trustable.stpadocumentationtool	כלי לניתוח תהליכים תיאורטיים - המקל על STPA וממכן תיעוד
+io.qt.Linguist	הוסף תרגומים ליישומי Qt
+it.mijorus.gearlever	נהל AppImages
+me.broken_by.PdfMetadataEditor	ערוך מטא נתונים של PDF
+io.webtorrent.WebTorrent	אפליקציית טורנט סטרימינג
+me.mitya57.ReText	עורך טקסט פשוט עבור Markdown ו-reStructuredText
+mobi.snowball.Snowball	משחק ריצת מהירות רומן הדומה למשחק לולאה/באז wire פלטפורמה
+me.iepure.Ticketbooth	עקוב אחר התוכניות האהובות עליך
+net.baseart.Glide	הפעל סרטים וקבצי שמע
+net.corluma.Corluma	שלוט בגוונים של פיליפ, LIFX, Nanoleafs ו- Arduinos.
+net.davidotek.pupgui2	התקן כלי תאימות מבוססי יין ופרוטונים
+net.bartkessels.getit	שלח בקשות HTTP לנקודות קצה של API
+net.gradator.gtkatlantic	משחק כמו מונופול
+net.jammr.jammr	שחק עם מוזיקאים דרך האינטרנט
+net.devolutions.RDM	מרכז, נהל ואבטח חיבורים מרחוק
+net.mancubus.SLADE	זה עורך Doom
+net.mediaarea.MOVMetaEdit	הטמע וערוך מטא נתונים של מזהה מודעה אוניברסלי בקובצי MOV או MP4
+net.krafting.PlaylifinVoyager	העבר רשימות השמעה אל/מ Jellyfin
+net.pistegamez.PekkaKana2	משחק Jump \'n Run שנוצר ברוחם של פלטפורמות קלאסיות ישנות
+net.redeclipse.RedEclipse	יריות מגוף ראשון עם משחק זריז ועורך מובנה
+net.mullvad.MullvadBrowser	שחרר את האינטרנט ממעקב המוני
+net.sourceforge.atanks	משחק אסטרטגיית ארטילריה מבוסס תורות
+net.sourceforge.chromium-bsu	יריות חלל בקצב מהיר, בסגנון ארקייד, עם גלילה עליונה
+net.sf.fuse_emulator	Sinclair ZX Spectrum Emulator
+net.sourceforge.lgames.LGeneral	מנוע משחק אסטרטגיה מבוסס תורות (כמו Panzer General)
+net.sourceforge.Lifeograph	יומן דיגיטלי ורישום הערות
+net.sourceforge.Hugin	תפר צילום פנורמי ועוד
+net.sourceforge.squirrel_sql	SQuirreL SQL Client הוא GUI המאפשר לך לצפות במבנה של מסד נתונים תואם JDBC, לעיין בנתונים בטבלאות, להנפיק פקודות SQL וכו\'. תומך ב-MySQL, PostgreSQL, MariaDB ו-SQLite.
+net.sourceforge.tomatoes.IHaveNoTomatoes	משחק ניפוץ עגבניות
+net.sourceforge.QtSpim	סימולטור עצמאי המריץ תוכניות MIPS32
+network.loki.Session	שליח פרטי
+net.worldofpadman.WoP	משחק יריות חינמי שעוצב בקפידה להפליא וצבעוני עבור אנשים צעירים וצעירים בנפשם
+net.warsow.Warsow	יריות בגוף ראשון בתלת מימד בקצב מהיר
+one.mixin.messenger	מיקסין מסנג\'ר
+online.athn.browser.gnome	דפדפן ATHN עבור gnome
+one.ablaze.floorp	דפדפן Floorp
+org.avidemux.Avidemux	תוכנת עריכה ועיבוד וידאו רב תכליתית
+org.beeref.BeeRef	מציג תמונות עזר פשוט
+org.audacityteam.Audacity	Audacity היא אפליקציית העריכה וההקלטה הפופולרית ביותר בעולם
+org.caione.GScope	ממשק GTK ל-cscope
+org.citra_emu.citra	אמולטור נינטנדו 3DS
+org.cubocore.CorePad	עורך טקסט פשוט קל משקל אך רב עוצמה
+org.chocolate_doom.ChocolateDoom	נמל מקור דום שמרני
+org.cubocore.CoreShot	כלי פשוט קל משקל לצילום מסך עבור X11
+org.develz.Crawl	משחק חקירת צינוק Roguelike
+org.cubocore.CoreRenamer	שינוי שם קבצי אצווה פשוט וקל משקל
+org.dupot.beatmatchtopass	היכו את כולם
+org.equeim.Tremotesf	ממשק משתמש מרוחק עבור לקוח BitTorrent שידור
+org.expresslrs.ExpressLRSConfigurator	כלי תצורה חוצה פלטפורמות עבור קושחת ExpressLRS
+org.dupot.littleadventure	RPG Pixel Art משחק קטן
+org.flarerpg.Flare	משחק תפקידים דו מימדי
+org.fontforge.FontForge	עורך גופני מתאר
+org.eyecreate.vehiclevoyage	עקוב אחר היסטוריית שירות הרכב.
+org.freedesktop.dabrain34.squared	נסו למלא את הריבוע במספרים
+org.freeplane.App	מיפוי מחשבות, ניהול ידע, ניהול פרויקטים. פתח, ארגן ותקשר את הרעיונות והידע שלך בצורה היעילה ביותר
+org.freecadweb.FreeCAD	יוצר קוד פתוח פרמטרי תלת מימד CAD
+org.gajim.Gajim	לקוח צ\'אט XMPP עם תכונות מלאות
+org.getoutline.OutlineManager	Set up your Outline Servers on the cloud and manage who has access to the server
+org.gabmus.gfeeds	קורא חדשות עבור GNOME
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Connections	הצגה ושימוש בשולחנות עבודה אחרים
+org.gna.Warmux	A 2D game where funny characters launch funny weapons
+org.gnome.design.Palette	Color Palette tool
+org.gnome.Evolution	נהל את הדואל, אנשי הקשר ולוח הזמנים שלך
+org.gnome.design.Contrast	בדיקת ניגודיות בין שני צבעים
+org.gnome.frogr	A flickr uploader for GNOME
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.Four-in-a-row	יצירת שורות מאותו הצבע כדי לזכות
+org.gnome.gThumb	צפייה וארגון התמונות שלך
+org.gnome.meld	השוואה ומיזוג של קבצים
+org.gnome.Notes	פתקיות עבור GNOME
+org.gnome.Gtranslator	תרגום והתאמה מקומית של יישומים וספריות
+org.gnome.Shotwell	מנהל תמונות דיגיטלי
+org.gnome.Sudoku	בחינת ההיגיון שלך באמצעות משחק לוח מספרים זה
+org.gnome.Photos	לגשת, לארגן ולשתף את התמונות שלך ב־GNOME
+org.gnome.World.Secrets	ניהול הססמאות שלך
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnome.Tetravex	Reorder tiles to fit a square
+org.gottcode.Simsu	מלא מספרים כדי לפתור חידות
+org.gpodder.gpodder-adaptive	צובר מדיה ולקוח פודקאסט למובייל ולשולחן העבודה כאחד
+org.goldendict.GoldenDict	Dictionary lookup program
+org.horizon_eda.HorizonEDA	חבילת EDA בחינם
+org.imitationpickles.barbie	עזרו לברבי סוס הים לצוף על בועות לירח
+org.guerinoni.qTsConverter	כלי פשוט להמרת קובץ תרגום qt (ts) לפורמט אחר (xlsx / csv) ולהיפך.
+org.kde.arianna	EBook Reader
+org.kde.artikulate	מאמן הגייה Artikulate
+org.jreleaser.cli	שחרר פרויקטים במהירות ובקלות עם JReleaser
+org.kde.index	נהל את הקבצים שלך
+org.kde.isoimagewriter	כתוב תמונת ISO לדיסק USB
+org.kde.francis	עקוב אחר הזמן שלך
+org.kde.kclock	הגדר אזעקות וטיימרים, השתמש בשעון עצר ונהל שעוני עולם
+org.kde.kcolorchooser	בורר צבעים ועורך פלטות
+org.kde.kbounce	KBounce הוא משחק ארקייד לשחקן יחיד עם אלמנטים של פאזל
+org.kde.kimagemapeditor	עורך מפת תמונות HTML
+org.kde.kiten	כלי עזר ולימוד יפני
+org.kde.kigo	לך משחק לוח
+org.kde.kommit	לקוח GUI של Git
+org.kde.konquest	משחק אסטרטגיה גלקטית
+org.kde.kstars	פלנטריום שולחני
+org.kde.kolourpaint	תוכנית צבע
+org.kde.ktorrent	לקוח ביטורנט
+org.kde.massif-visualizer	מכשיר חזותי לקבצי נתונים של Valgrind Massif
+org.kde.kteatime	סיר תה
+org.kde.palapeli	משחק פאזל
+org.kde.tokodon	לקוח מסטודון
+org.kde.okular	מציג מסמכים
+org.KekikAkademi.eFatura	דרישת שימוש בחשבונית אלקטרונית ממספר זהות מס או TR
+org.librehunt.Organizer	כלי לארגון הקבצים שלך לקטגוריות מסודרות
+org.linux_hardware.hw-probe	בדוק את יכולת הפעולה של חומרת המחשב ומצא מנהלי התקנים
+org.kekikakademi.ntvHaber	חדשות טובות בטורקית מ-NTV.com.tr
+org.mersenne.mprime	תוכנת חיפוש מרסן פריים בחינם
+org.moneymanagerex.MMEX	ארגון כספים ומעקב אחר תזרים המזומנים
+org.localsend.localsend_app	שתף קבצים למכשירים קרובים
+org.netsurf_browser.NetSurf	דפדפן אינטרנט קטן עם תמיכה ב-CSS
+org.nongnu.enigma	משחק פאזל
+org.mozilla.Thunderbird	Thunderbird הוא לקוח חינמי וקוד פתוח לדוא"ל, ניוזפיד, צ\'אט ולוח שנה
+org.openchemistry.Avogadro2	עורך מולקולרי חינם וקוד פתוח
+org.openrgb.OpenRGB	בקרת תאורת RGB בקוד פתוח שאינה תלויה בתוכנת היצרן.
+org.nuspell.Nuspell	בודק איות
+org.paraview.ParaView	ניתוח נתונים והדמיה
+org.ppsspp.PPSSPP	אמולטור PlayStation Portable
+org.opensurge2d.OpenSurge	פלטפורמת רטרו דו מימדית מהנה בהשראת משחקי סוניק ומערכת ליצירת משחקים
+org.qbittorrent.qBittorrent	לקוח Bittorrent בקוד פתוח
+org.remmina.Remmina	לקוח שולחן עבודה מרוחק
+org.pydpainter.PyDPainter	תוכנית צבע פיקסל שמישה כתובה ב-Python
+org.sauerbraten.Sauerbraten	יריות בגוף ראשון מרובה משתתפים ושחקן יחיד בחינם, היורש של ה-Cube FPS
+org.sil.FieldWorks	ניהול נתונים של שפה ותרבות
+org.sparkleshare.SparkleShare	סינכרון קבצי Git מתארח בעצמו של Magic
+org.sabnzbd.sabnzbd	קורא חדשות בינארי בחינם וקל
+org.stellarium.Stellarium	פלנטריום שולחני
+org.sugarlabs.Chart	צור את התרשימים שלך
+org.speed_dreams.SpeedDreams	Speed Dreams הוא משחק סימולציה ומירוצים של ספורט מוטורי תלת-ממדי בקוד פתוח
+org.sugarlabs.Pippy	דבר עם המחשב שלך ב-Python
+org.sugarlabs.Speak	פרצוף מונפש שמדבר כל מה שאתה מקליד
+org.sugarlabs.Finance	למד את יסודות התכנון הפיננסי
+org.tenacityaudio.Tenacity	הקלט וערוך קבצי אודיו
+org.tigervnc.vncviewer	התחבר לשרת VNC והצג שולחן עבודה מרוחק
+org.surge_synth_team.surge-xt	Surge XT Synthesizer עצמאי
+org.twinery.Twine	Twine הוא כלי קוד פתוח לספר סיפורים אינטראקטיביים ולא ליניאריים
+org.unknown_horizons.UnknownHorizons	משחק סימולציית כלכלה בזמן אמת בקוד פתוח
+org.tryton.Tryton-70	לקוח עבור פלטפורמת היישומים של Tryton
+org.wireshark.Wireshark	Wireshark הוא מנתח הפרוטוקולים המוביל בעולם
+org.wxhexeditor.wxHexEditor	Advanced large file hex editor
+org.vinegarhq.Vinegar	אתחול קטן ומהיר עמוס בתכונות עבור Roblox
+page.codeberg.JakobDev.CCLite	אמולטור ComputerCraft
+page.codeberg.JakobDev.jdAnimatedImageEditor	תוכנית פשוטה ליצירת תמונות מונפשות
+org.zim_wiki.Zim	כתוב הערות בוויקי שולחני
+page.codeberg.tpikonen.geobug	בדוק את המיקום שלך ושמור אותו ברצועת GPX
+page.codeberg.tpikonen.satellite	בדוק את קליטת ה-GPS שלך ושמור את הרצועות שלך
+page.codeberg.JakobDev.jdTextEdit	עורך טקסט מתקדם
+rest.insomnia.Insomnia	לקוח ופלטפורמת עיצוב של קוד פתוח API עבור GraphQL, REST ו-gRPC.
+ro.fxdata.taskmonitor.viewer	הדמיית נתוני TaskMonitor
+re.sonny.Playhouse	מגרש משחקים עבור HTML/CSS/JavaScript
+site.someones.Lonewolf	ארגן ועקוב אחר המשימות שלך בקלות ובגמישות
+so.libdb.gtkcord4	לקוח GTK4 Discord ב-Go
+sh.xaviers.Opentapes	האזינו למיקסטייפים של היפ-הופ
+uk.co.powdertoy.tpt	משחק ארגז חול בפיזיקה
+uk.org.greenend.chiark.sgtatham.putty	לקוח SSH, Telnet ו-Rlogin
+xyz.ketok.Speedtest	מדוד את מהירות חיבור האינטרנט שלך
+uk.et1.big-finish-downloader	אפליקציית GTK להורדת אוסף הגימור הגדול שלך
+xyz.safeworlds.hiit	שעון טיימר לאימון אינטרוולים בעצימות גבוהה
+xyz.mx_moment.moment	לקוח Matrix הניתן להתאמה אישית וניתן לתפעול מקלדת

@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Paroolihaldur: hoidke oma paroole turvaliselt kõigil platvormidel ja seadmetes
+app.bbsync.BlackboardSync	Laadige Blackboard Learni sisu oma seadmesse alla
+app.bluebubbles.BlueBubbles	BlueBubblesi klient Linuxi jaoks
+app.cantara.Cantara	Lihtne, kerge, kuid võimas programm laulude esitlemiseks kirikutes, väikestes gruppides või karaokepidudel.
+app.drey.Biblioteca	GNOME'i dokumentatsioonivaatur
+app.drey.Blurble	Sõnade äraarvamise mäng
+app.drey.Damask	Määrake Interneti-allikatest automaatselt taustapildid
+app.drey.Dialect	Tõlgi keelte vahel
+app.drey.EarTag	Muutke helifaili silte
+app.drey.Elastic	Kujunda kevadiseid animatsioone
+app.drey.KeyRack	Vaadake ja muutke rakenduse saladusi
+app.drey.MultiplicationPuzzle	Lahendage matemaatika mõistatus
+app.drey.Warp	Kiire ja turvaline failiedastus
+app.feeddeck.feeddeck	Jälgige oma RSS-i ja sotsiaalmeedia vooge
+app.getclipboard.Clipboard	Lõika, kopeeri ja kleebi kõike, igal ajal ja igal pool
+app.getspace.Space	Välgukaartide vahedega kordamine
+app.gummi.gummi	Lihtne LaTeX-i redaktor
+app.kaiteki.Kaiteki	Mugav SNS-i klient kõige jaoks ja kõikjal
+app.lith.Lith	WeeChat Relay Client
+app.midterm.MidtermDesktop	Tasuta märkmete tegemise rakendus õppimiseks.
+app.moosync.moosync	Kohandatav muusikapleier
+app.organicmaps.desktop	Tasuta võrguühenduseta kaardirakendus reisijatele, turistidele, matkajatele, autojuhtidele ja jalgratturitele
+app.rednotebook.RedNotebook	Graafiline päevik ja ajakiri
+app.riftshare.RiftShare	Lihtne, turvaline ja tasuta failide jagamine. Platvormideülene failide jagamine maagilise ussiauku abil
+app.vup.Vup	Avatud lähtekoodiga krüpteeritud pilvesalvestusrakendus koos integreeritud meediumiserveriga
+app.xemu.xemu	Originaal Xboxi emulaator
+app.ytmdesktop.ytmdesktop	Tasuta platvormidevaheline lauaarvutipleier YouTube Musicu jaoks
+app.ywallet.Ywallet	Kerge rahakott Ycashi ja Zcashi jaoks
+ar.com.pilas_engine.App	Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida
+ar.com.softwareperonista.Rockarrolla	Jukeboxi moodi pleier
+ar.com.tuxguitar.TuxGuitar	TuxGuitar on tasuta ja avatud lähtekoodiga tablatuuriredaktor.
+art.taunoerik.tauno-monitor	Lihtne iseseisev jadapordi monitor.
+art.taunoerik.tauno-serial-plotter	Lihtne jadaplotter Arduino ja teiste sarnaste seadmete jaoks.
+ar.xjuan.Cambalache	Looge GTK kasutajaliideseid
+at.priv.toastfreeware.ConfClerk	ConfClerk on rakendus, mis muudab konverentside ajakava võrguühenduseta kättesaadavaks
+at.ssh_mitm.server	SSH-MITM – ssh-auditid on tehtud lihtsaks
+at.vintagestory.VintageStory	Kõnnumaa liivakasti ellujäämismäng
+au.edu.uq.esys.escript	esys-escript on pythoni moodul matemaatiliste mudelite realiseerimiseks lõplike elementide meetodil
+br.app.pw3270.terminal	Juurdepääs TN3270 hostidele
+br.com.gualandi.Xjump	Hüppamismäng kaasaegsetele graafilistele süsteemidele
+br.gov.cti.invesalius	3D-meditsiinilise kujutise rekonstrueerimise tarkvara
+br.gov.fazenda.receita.irpf2022	Esitage oma maksud Brasiilias
+br.gov.fazenda.receita.irpf2023	Esitage oma maksud Brasiilias
+ca._0ldsk00l.Nestopia	Nintendo Entertainment Systemi emulaator
+ca.desrt.dconf-editor	Graafiline tööriist dconf andmebaasi redigeerimiseks
+cafe.avery.Delfin	Voogesitage Jellyfini filme ja telesaateid
+ca.hamaluik.Timecop	Ajajälgimisrakendus, mis austab teie privaatsust ja saab töö tehtud ilma liiga uhkeks muutumata
+ca.littlesvr.asunder	Asunder on graafiline heli-CD rippija ja kodeerija
+camp.nook.nookdesktop	Nook on rakendus, mis mängib tunnis Animal Crossingi tunniteemasid.
+ca.parallel_launcher.ParallelLauncher	Kaasaegne N64 emulaator
+cat.xtec.clic.JClic	Õppetegevused ja mängud kooliõpilastele ja kasvatajatele
+ca.uwaterloo.Raven	Modelleerimisraamistik valgala hüdroloogia simuleerimiseks
+cc.arduino.arduinoide	Avatud lähtekoodiga elektroonika prototüüpimisplatvorm
+cc.arduino.IDE2	Avatud lähtekoodiga elektroonika prototüüpimisplatvorm
+cc.craftos_pc.CraftOS-PC	Täiustatud ComputerCrafti emulaator
+cc.craftos_pc.CraftOS-PC-Accelerated	Täiustatud ComputerCrafti emulaator
+cc.nift.nsm	Dünaamiline ja staatiline saidi generaator
+cc.retroshare.retroshare-gui	Turvaline suhtlus kõigile
+cern.root.ROOT	Andmeanalüüsi raamistik
+chat.delta.desktop	Delta Chati meilipõhine messenger
+chat.quadrix.Quadrix	Minimaalne, lihtne, mitmeplatvormiline vestlusklient Matrixi protokolli jaoks
+chat.revolt.RevoltDesktop	Revolti töölauarakendus
+chat.rocket.RocketChat	Avatud lähtekoodiga meeskonna suhtlus
+chat.schildi.desktop	SchildiChat on traditsioonilisema kiirsuhtluskogemusega elemendil põhinev Matrixi klient.
+chat.tandem.Client	Virtuaalne kontor kaugmeeskondade jaoks
+ch.imatt.ClipQR	Skannige QR-koode ekraanilt ja kaamerast.
+ch.openboard.OpenBoard	Interaktiivne tahvel koolidele ja ülikoolidele
+ch.protonmail.protonmail-bridge	Krüpteerib ja dekrüpteerib sujuvalt teie kirjad, kui need arvutisse sisenevad ja sealt väljuvad
+ch.protonmail.protonmail-import-export-app	Importige meilid oma turvalisse ProtonMaili postkasti või tehke võrguühenduseta varukoopiaid rakendusega Import-Export.
+ch.theologeek.Manuskript	Avatud lähtekoodiga tööriist kirjanikele
+ch.threema.threema-web-desktop	Threema töölauale on töölauaklient Threema jaoks – privaatsusele keskendunud krüpteeritud mobiilse sõnumitooja, mida majutatakse ja arendatakse Šveitsis. MITTEAMETLIK PAKEND.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Mängige Minecrafti ja looge oma maailm!
+ch.x29a.playitslowly	Esitage muusikat erineva kiirusega
+cn.lceda.LCEDAPro	Lihtsam ja võimsam veebipõhine PCB-de kujundamise tööriist
+cn.navclub.ldbfx	Visuaalne andmebaasihaldustööriist
+cn.ottercorp.xivlaunchercn	Final Fantasy XIV Online'i käivitusprogramm ja sujuv Linuxi integreerimine (Hiina versioon)
+cn.xfangfang.wiliwili	Kolmanda osapoole Bilibili klient, mis on loodud spetsiaalselt kontrolleri kasutajatele
+codes.loers.Karlender	Hallake oma ajakava
+codes.loers.Punchclock	Jälgige oma ülesannete jaoks aega.
+codes.merritt.adventurelist	Ülesannete loend, mis sünkroonitakse kõigi teie seadmetega
+codes.merritt.bargain	Ostes tehes on lihtne tooteid võrrelda
+codes.merritt.FeelingFinder	Kiire ja ilus emotikonide valija
+codes.merritt.Nyrna	Peatage mängud ja rakendused
+codes.nora.gDiceRoller	Veereta mitme erineva kuju ja suurusega täringuid kõigis võimalikes kombinatsioonides.
+co.headsetapp.headset	Peakomplekt. Avastage ja koguge muusikat YouTube'is.
+co.luoja.Telyn	Visuaalne redaktor parameetriliste õmblusmustrite jaoks
+com.abagames.noiz2sa	Meeletu abstraktne tulistaja
+com.abagames.rRootage	Lüüa ise loodud tohutud lahingulaevad.
+com.abisource.AbiWord	Tekstitöötlusprogramm
+com.adamcake.Bolt	Avatud lähtekoodiga kolmanda osapoole Jagexi käivitusprogramm
+com.adilhanney.ricochlime	Rahuldav koletise tulistaja
+com.adilhanney.saber	Märkmete rakendus, mis on loodud käsitsi kirjutamiseks
+com.adilhanney.super_nonogram	Lahendage piiramatul arvul protseduuriliselt loodud nonogrammi mõistatusi!
+com.adilhanney.timing	Õppige tuvastama ajavahemikke, mis on väiksemad kui sekundid
+com.adobe.Flash-Player-Projector	Player Adobe Flashiga loodud sisu jaoks
+com.adobe.Reader	PDF-vaatur
+com.adrienplazas.Metronome	Hoia tempot
+com.agatanawrot.karambola	Aidake Karambolal selles lühikeses käsitsi joonistatud point-and-click pusleseikluses päästa oma emotsionaalsed puuviljasõbrad tumedate mõtete käest.
+com.agateau.nanonote	Minimalistlik märkmete tegemise rakendus.
+com.agateau.PixelWheels	Pixel Wheels on retro-ülalt-alla võidusõidumäng.
+com.airtame.Client	Airtame on juhtmevaba voogedastuslahendus
+com.albiononline.AlbionOnline	MMORPG avatud keskaegne fantaasiamäng
+com.alientrap.nexuiz-classic	Mitme mängijaga esimese isiku tulistamismäng
+com.alovoa.alovoa-electron	Avatud lähtekoodiga veebipõhine tutvumisrakendus
+com.amazon.Workspaces	Juurdepääs oma töölauale kõikjal, igal ajal ja mis tahes seadmest
+com.ampl.ide	Lihtne ja arusaadav täiustatud modelleerimisliides AMPL-i kasutajatele
+com.anydesk.Anydesk	Ühendage arvutiga eemalt
+com.arteeh.Flasher	Lihtne rakendus PineTime nutikella ST-Linkiga vilkumiseks
+com.arviceblot.eso-addon-manager	Platvormideülene mitteametlik lisahaldur The Elder Scrolls Online'i jaoks.
+com.atlauncher.ATLauncher	Minecrafti käivitusprogramm, mis integreerib mitu erinevat modifikatsioonipaketti, mis võimaldab teil modifikatsioone hõlpsalt ja kiiresti alla laadida ja installida.
+com.authy.Authy	Twilio Authy kahefaktorilise autentimise töölauarakendus
+com.avocode.Avocode	Andke kätte ja kontrollige mis tahes disaini
+com.axosoft.GitKraken	Repo haldamiseks, rakendusesisese koodi redigeerimiseks ja probleemide jälgimiseks.
+com.baidu.NetDisk	Baidu Netdiski töölauaklient
+com.bambulab.BambuStudio	Hankige täiuslikke 3D-printe!
+com.basemark.BasemarkGPU	GPU jõudluse hindamise tööriist
+com.behringer.XAirEdit	Behringer XR mikserite kasutajaliides
+com.belmoussaoui.ashpd.demo	Mängi portaalidega
+com.belmoussaoui.Authenticator	Looge kahefaktorilisi koode
+com.belmoussaoui.Decoder	QR-koodide skannimine ja genereerimine
+com.belmoussaoui.Obfuscate	Privaatset teavet tsenseerida
+com.belmoussaoui.ReadItLater	Salvestage ja lugege veebiartikleid
+com.belmoussaoui.snowglobe	Virtualiseerimisvaatur, mis kasutab QEMU-d DBusi kaudu
+com.biglybt.BiglyBT	Funktsioonidega avatud lähtekoodiga reklaamivaba bittorrenti klient
+com.bitwarden.desktop	Turvaline ja tasuta paroolihaldur kõigi teie seadmete jaoks
+com.bitwig.BitwigStudio	Kaasaegne muusika tootmine ja esitus
+com.bixense.PasswordCalculator	Arvutage iga aliase jaoks tugevad paroolid oma ühe saladuse põhjal
+com.bjareholt.johan.SimpleDiary	Lihtne ja kerge päevikurakendus
+com.bktus.gpgfrontend	OpenPGP krüptotööriist
+com.bladecoder.adventure-editor	Klassikaline point and click seiklusmängu mootor ja toimetaja
+com.blitterstudio.amiberry	Amiga emulaator Linuxi jaoks
+com.blockstream.Green	Lihtne ja turvaline Bitcoini ja Liquid Networki rahakott
+com.borgbase.Vorta	Varundusklient
+com.boxy_svg.BoxySVG	Skaleeritav vektorgraafika redaktor
+com.brave.Browser	Brave'i veebibrauser
+com.brosix.Brosix	Kõik-ühes turvaline kiirsuhtlus
+com.budgetwithbuckets.Buckets	Kiire, lihtne ja privaatne pereeelarve koostamise rakendus
+com.calibre_ebook.calibre	Vahepeatusteta kõigile sinu e-raamatute lahendustele
+com.carpeludum.KegaFusion	Sega 8 ja 16-bitiste konsoolide emulaator
+com.cassidyjames.butler	Koduabilise kaaslane
+com.cassidyjames.plausible	Lihtne ja privaatsussõbralik alternatiiv Google Analyticsile
+com.cburch.Logisim	Logisim on graafiline tööriist loogikalülituste kujundamiseks ja simuleerimiseks
+com.chatterino.chatterino	Vestlusklient saidi twitch.tv jaoks
+com.chez.GrafX2	256 värvi joonistamisele spetsialiseerunud bitmap-värvimisprogramm
+com.chmouel.gnomeNextMeetingApplet	Näidake oma järgmisi sündmusi oma paneelil
+com.chowdsp.BYOD	BYOD: tooge oma moonutus, eraldiseisev
+com.chroniclogic.Zatikon	Malelaadne fantaasiamäng vaenlase lossi vallutamiseks
+com.clarahobbs.chessclock	Laua male ajamängud
+com.claudiocambra.brickbuster	Telliskivi purustamise mäng, lõbus ja sõltuvust tekitav!
+com.cocoatech.deckr	Deckri kroomi pistikprogrammiga kasutatav töölauarakendus
+com.codemouse92.timecard	Jälgige ilusti aega.
+com.coeck_studios.Dinonuggys-Journey	Pikslikunsti 2D-platvormimäng.
+com.corsixth.corsixth	Teemahaigla avatud lähtekoodiga kloon
+com.cuperino.qprompt	Personaalne teleprompteri tarkvara kõigile videoloojatele
+com.daidouji.oneko	kiisu, mis järgib teie hiirekursori mänguasja töölaual
+com.darhon.drfinance	Hallake oma isiklikke kontosid
+com.darhon.syncbackup	Varundage ja peegeldage oma draive
+com.dec05eba.gpu_screen_recorder	Varjumängulaadne ekraanisalvesti Linuxi jaoks. Kiireim ekraanisalvesti Linuxi jaoks
+com.dhsdevelopments.Climaxima	Maxima CAS-i kasutajaliides
+com.diffingo.fwbackups	Funktsioonirikas ja kasutajasõbralik varundusprogramm
+com.discordapp.Discord	Sõnumside, kõne- ja videoklient
+com.diy_fever.DIYLayoutCreator	Skeemi paigutuse kujundamise tööriist, mis toetab PCB-d, vero-plaati, punkt-punkti, perf-plaati ja kitarri ühendusskeeme
+com.djoffe.gnukem	Retrostiilis 2D keriva platvormi laskur
+com.dosbox.DOSBox	x86/DOS-emulaator heli ja graafikaga
+com.dosbox_x.DOSBox-X	x86/DOS-emulaator heli ja graafikaga
+com.doycho.euterpe.gtk	Meediumipleieri klient Euterpe meediumiserveri jaoks.
+com.dreamsourcelab.DSView	Avatud lähtekoodiga multifunktsionaalne instrument kõigile
+com.dropbox.Client	Juurdepääs oma failidele mis tahes arvutist
+com.eduke32.EDuke32	EDuke32 on fantastiline tasuta kodupruulitud mängumootor
+com.ekonomikas.merkato	Jälgige oma investeeringuid
+com.elsevier.MendeleyDesktop	Mendeley on tasuta teabehaldur ja akadeemiline suhtlusvõrgustik
+com.eminfedar.vaktisalah	platvormideülene palveaegade rakendus
+com.emqx.MQTTX	Elegantne platvormideülene MQTT 5.0 lauaarvutiklient
+com.endlessm.photos	Muutke ja jagage hõlpsalt kõiki oma lemmikfotosid
+com.endlessnetwork.aqueducts	Kaasahaarav pusle-seiklusmäng, kus saate oma tee päästa!
+com.endlessnetwork.dragonsapprentice	RPG-laadne mõistatuste lahendamine koopasse roomamise mäng ja palju muud!
+com.endlessnetwork.fablemaker	Sisenege Aisopose muinasjuttude maailma nagu ei kunagi varem! Interaktiivsed lood, kus saate kohandada tegelasi, tekste ja helisid, häkkides selle neelava ja hariva rakenduse koodi sisse.
+com.endlessnetwork.frogsquash	Sõltuvust tekitav keerdkäiguga ristteede mäng
+com.endlessnetwork.MidnightmareTeddy	Tulista ja jää ellu
+com.endlessnetwork.missilemath	Lennukiga lendava tulistamismäng
+com.endlessnetwork.passage	Hakka end läbi selle külgkeritava põnevusseiklusmängu tulistamismängu
+com.endlessnetwork.tankwarriors	Sõit, tulistamine, plahvatused ja programmeerimine – kõik ühes mängus
+com.endlessnetwork.whitehouse	Kasutades CSS-i maagiat, häkkige oma maailm ainulaadseks värvi- ja valguspuhanguks, mis paljastab peidetud objektid ja vihjed.
+com.enjoyingfoss.feeel	Lihtne kodune treening-/treeningrakendus, mis austab teie privaatsust
+com.enjoyingfoss.Parlera	Seltskonnamäng, kus sõbrad kirjeldavad ja sina ära arvavad; või vastupidi
+com.epicgames.ut2004	Esimese isiku areenil tulistaja
+com.epicgames.ut99	Esimese isiku areenil tulistaja
+com.etlegacy.ETLegacy	ET: Legacy on avatud lähtekoodiga projekt, mis põhineb Wolfenstein: Enemy Territory koodil, mis anti välja 2010. aastal GPLv3 tingimuste alusel.
+com.expidusos.calculator	ExpidusOS kalkulaator
+com.expidusos.file_manager	ExpidusOS failihaldur
+com.feaneron.Boatswain	Juhtige oma Elgato Streami tekke
+com.felipekinoshita.Kana	Õppige Jaapani tähemärke
+com.felipekinoshita.Wildcard	Testige oma regulaaravaldisi
+com.fightcade.Fightcade	Mängige võrgus arkaadmänge.
+com.flashforge.FlashPrint	Viilutaja FlashForge 3D-printerite jaoks
+com.frac_tion.teleport	Jagage faile kohaliku võrgu kaudu
+com.freerdp.FreeRDP	FreeRDP (Remote Desktop Protocol) klient Linuxi jaoks
+com.frogatto.Frogatto	Vana kooli 2D platvormmäng
+com.fyralabs.SkiffDesktop	Privaatsust silmas pidades täielikult krüptitud meil
+com.gamestarmechanic.gamestarmechanic	Õppige videomänge kujundama
+com.geekbench.Geekbench6	Platvormideülese süsteemi etalon
+com.georgefb.mangareader	Manga lugeja kohalike failide jaoks
+com.georgefb.quickaccess	Globaalne menüü, mis annab teile kiire juurdepääsu kaustadele ja kohandatud käskudele.
+com.getmailspring.Mailspring	Parim meilirakendus inimestele ja töörühmadele
+com.getpostman.Postman	Platvorm API-de loomiseks ja kasutamiseks
+com.ghostery.browser	Ghostery täiesti privaatne sirvimiskogemus
+com.giadamusic.Giada	Sinu hardcore loop masin
+com.gigitux.youp	Whatsapp
+com.gitfiend.GitFiend	Inimestele mõeldud Giti klient
+com.github._0negal.Viper	Viper on Northstari käivitaja ja värskendaja ning mitte palju enamat.
+com.github._4lex4.ScanTailor-Advanced	Interaktiivne järeltöötlustööriist skannitud lehtede jaoks
+com.github.ADBeveridge.Raider	Kustutage oma failid turvaliselt
+com.github.afrantzis.Bless	Gtk# Hex redaktor
+com.github.aharotias2.parapara	Ilma raamatukoguta pildivaatur
+com.github.ahrm.sioyek	PDF-vaatur, mis on mõeldud uurimistööde ja tehniliste raamatute lugemiseks
+com.github.alainm23.byte	Avastage oma muusika uuesti
+com.github.alainm23.planner	Ärge kunagi muretsege asjade unustamise pärast
+com.github.Alcaro.Flips	IPS- ja BPS-failide plaaster
+com.github.alecaddd.sequeler	Sõbralik SQL-klient
+com.github.alexhuntley.Plots	Lihtne graafiku koostamine
+com.github.alexkdeveloper.astronum	Programm lihtsate astroloogiliste ja numeroloogiliste arvutuste tegemiseks
+com.github.alexkdeveloper.desktop-files-creator	Lihtne rakendus töölauafailide loomiseks GNU/Linuxis
+com.github.alexkdeveloper.dice	Lihtne täringumäng
+com.github.alexkdeveloper.dwxmlcreator	Lihtne dünaamilise taustapildi looja
+com.github.alexkdeveloper.easter	Arvutage katoliku lihavõttepühade kuupäev
+com.github.alexkdeveloper.forgetpass	Lihtne parooligeneraator veebisaitide jaoks
+com.github.alexkdeveloper.goldsearch	Mäng, milles peate kulda otsima
+com.github.alexkdeveloper.notepad	Lihtne luua tekstimärkmeid
+com.github.alexkdeveloper.recorder	Lihtne helisalvesti
+com.github.alexkdeveloper.relaxator	Lõdvestuge rahustavate helide saatel
+com.github.alexkdeveloper.somafm	Lihtne sisseehitatud jaamadega raadio veebisaidilt somafm.com
+com.github.alexkdeveloper.sudoku	Sudoku mäng
+com.github.AlizaMedicalImaging.AlizaMS	DICOM-i vaataja
+com.github.AmatCoder.mednaffe	Esiosa (GUI) mednafeeni emulaatori jaoks (kaasas)
+com.github.amikha1lov.RecApp	Kasutajasõbralik GTK-s kirjutatud avatud lähtekoodiga ekraanipilt Linuxile
+com.github.Anuken.Mindustry	Ettevõtlus: liivakasti tornide kaitsemäng
+com.github.appadeia.Taigo	Taigo on teie töölaua virtuaalne lemmikloom
+com.github.arminstraub.krop	Tööriist PDF-failide kärpimiseks
+com.github.arshubham.cipher	Teksti kodeerimine ja dekodeerimine
+com.github.arshubham.gitignore	.gitignoreeri viiteid erinevate keelte jaoks
+com.github.artemanufrij.graphui	Graafiku visualiseerimine
+com.github.artemanufrij.playmymusic	Muusikapleier kohalike muusikafailide, võrguraadio ja heli-CD-de kuulamiseks
+com.github.artemanufrij.playmyvideos	Videopleier kohalike videofailide vaatamiseks
+com.github.artemanufrij.regextester	Lihtne rakendus regulaaravaldiste testimiseks
+com.github.avojak.paint-spill	Värvitäitev puzzle mäng
+com.github.avojak.warble	Sõnade äraarvamise mäng
+com.github.babluboy.bookworm	Koondav e-raamatu luger
+com.github.bajoja.indicator-kdeconnect	KDE Connecti rakenduseindikaator
+com.github.bcedu.valasimplehttpserver	Juurdepääs oma failidele mis tahes seadmest samas võrgus
+com.github.bcedu.vgrive	Google Drive'i klient automaatse sünkroonimisega Linuxi jaoks
+com.github.benpocalypse.Huely	Värvige oma ruum
+com.github.birros.WebArchives	Veebiarhiivide vaataja
+com.github.bjaraujo.Bombermaaan	Arkaadmäng
+com.github.Bleuzen.FFaudioConverter	Pakiheli muundur ja efektide protsessor
+com.github.bluesabre.darkbar	Tumendada rakenduse tiitliribasid vastavalt oma eelistustele
+com.github.buddhi1980.mandelbulber2	Tasuta ja avatud lähtekoodiga 3D-fraktalite generaator
+com.github.bvschaik.julius	Julius on Caesar III avatud lähtekoodiga uusrakendus
+com.github.calo001.fondo	Leidke kõige ilusamad taustapildid
+com.github.calo001.luna	Hämmastav kalendrividin
+com.github.carlos157oliveira.Calculus	Arvuta tuletised ja integraalid
+com.github.cassidyjames.clairvoyant	Esitage küsimusi, saage psüühilisi vastuseid
+com.github.cassidyjames.dippi	Arvutage ekraaniteavet, nagu DPI ja kuvasuhe
+com.github.cfcurtis.pdfstitcher	PDF Stitcher on utiliit PDF-i õmblusmustrite kokkuõmblemiseks ja joonte omaduste muutmiseks
+com.github.childishgiant.mixer	Muutke rakenduste helitugevust
+com.github.chipmuenk.pyfda	Pythoni filtri disaini analüüsi tööriist
+com.github.christianrauch.Jahresarbeit-2003	Leidke ühendatud ruutude suurim pindala
+com.github.corna.Vivado	Xilinx Design Suite riistvara arendamiseks
+com.github.coslyk.MoonPlayer	Videopleier veebivideote esitamiseks ja allalaadimiseks YouTube'ist, Youkust jne.
+com.github.cubitect.cubiomes-viewer	Tõhus Minecrafti seemneotsija ja kaardivaatur.
+com.github.d4nj1.tlpui	GTK-UI TLP konfiguratsioonifailide hõlpsaks muutmiseks.
+com.github.dahenson.agenda	Tehke asjad tehtud
+com.github.dail8859.NotepadNext	Platvormideülene, Notepad++ taaskasutus
+com.github.Darazaki.Spedread	GTK kiirlugemise tarkvara: lugege nagu speedrunner!
+com.github.dariasteam.cowsrevenge	Indie Platformer Pixel Art mäng
+com.github.dawidd6.checksumo	Kinnitage määratud fail antud räsi suhtes
+com.github.debauchee.barrier	Barjäär – jagage hiirt ja klaviatuuri üle kohaliku võrgu
+com.github.devalien.workspaces	Olge alati tööks valmis
+com.github.dimkr.gplaces	Terminalipõhine Gemini klient
+com.github.donadigo.appeditor	Rakenduse menüü muutmine
+com.github.dynobo.normcap	Ekstraktige teksti kõikjalt ekraanilt
+com.github.edenalencar.identifications	See on tööriist QA meeskonnale ja arendajatele
+com.github.Eloston.UngoogledChromium	Kerge lahendus Google'i veebiteenuse sõltuvuse eemaldamiseks
+com.github.elth0r0.iqpuzzle	Suunav I.Q. väljakutseid pakkuv pentomiino pusle
+com.github.emmanueltouzery.cigale	Vaadake üle oma varasemad tegevused
+com.github.emmanueltouzery.hotwire	Hotwire võimaldab teil lihtsal viisil uurida mõne populaarse protokolli võrguliiklust
+com.github.emmanueltouzery.projectpad	Projectpad võimaldab hallata salajasi mandaate ja serveriteavet, mida peate käsitlema tarkvaraarendaja või süsteemiadministraatorina.
+com.github.eneshecan.WhatsAppForLinux	Mitteametlik WhatsAppi töölauarakendus Linuxi jaoks
+com.github.fabiocolacio.marker	Võimas allahindluste redaktor GNOME-i töölauale.
+com.github.finefindus.eyedropper	Valige ja vormindage värve
+com.github.Flacon	Flacon eraldab üksikud lood ühest suurest helifailist, mis sisaldab kogu muusikaalbumit, ja salvestab need eraldi helifailidena
+com.github.flxzt.rnote	Visandage ja tehke käsitsi kirjutatud märkmeid
+com.github.fontmatrix.Fontmatrix	Fondihaldusrakendus
+com.github.fries1234.ncsa-mosaic	NSCA Mosaic veebibrauser
+com.github.gabutakut.gabutdm	Lihtne ja kiire allalaadimishaldur
+com.github.geigi.cozy	Kuulake heliraamatuid
+com.github.giacomogroppi.writernote-qt	Writernote on mitmeplatvormiline rakendus, mis võimaldab teil heli salvestamise teel märkmeid teha, hiljem tekstiks tõlkida ja intelligentsel viisil kuulata.
+com.github.gijsgoudzwaard.image-optimizer	Lihtne kadudeta pildi tihendamine
+com.github.git_cola.git-cola	Stiilne ja võimas Git GUI
+com.github.gmg137.netease-cloud-music-gtk	Netease'i pilvepleier Rust + GTK baasil
+com.github.gpuvis.Gpuvis	GPU jälgimise visualiseerija
+com.github.GradienceTeam.Gradience	Muutke Adwaita välimust lihtsalt
+com.github.gyunaev.spivak	Karaoke mängija
+com.github.hluk.copyq	Täiustatud lõikelauahaldur
+com.github.hopsan.Hopsan	Modelleerimis- ja simulatsioonitööriist vedeliku jõu- ja mehhatrooniliste süsteemide jaoks
+com.github.horaciodrs.tradesim	Linuxi kauplemise simulaator
+com.github.hugolabe.Wike	Otsige ja lugege Wikipedia artikleid
+com.github.huluti.Coulr	Nautige värve ja tundke rõõmu!
+com.github.huluti.Curtail	Tihendage oma pildid
+com.github.HypatiaProject.hypatia	Uurimistöö abivahend, mis pakub konteksti ja teavet huvitavate teemade kohta.
+com.github.ilai_deutel.kibi	Tekstiredaktor ≤1024 koodirida, kirjutatud Rust keeles
+com.github.inercia.k3x	Kohalike Kubernetese klastrite haldur k3d-ga
+com.github.iortcw.iortcw	Mängumootor mängule Return to Castle Wolfenstein
+com.github.IsmaelMartinez.teams_for_linux	Mitteametlik Microsoft Teamsi klient Linuxile, mis kasutab Electronit
+com.github.iwalton3.jellyfin-media-player	Jellyfini meediumiserveri töölauaklient
+com.github.iwalton3.jellyfin-mpv-shim	Ainult ülekandtav klient Jellyfin Media Serverile
+com.github.JannikHv.Gydl	Laadige sisu alla sellistelt saitidelt nagu YouTube
+com.github.jeromerobert.pdfarranger	PDF-i liitmine, ümberkorraldamine, poolitamine, pööramine ja kärpimine
+com.github.jkotra.eovpn	OpenVPN-i konfiguratsioonihaldur
+com.github.jkotra.unlockr	PDF-parooli eemaldaja
+com.github.jmlich.geotagging	Et leida koht, kus te pildistasite
+com.github.jms55.Sandbox	Liiva simulatsioonimäng
+com.github.johnfactotum.Foliate	Lugege stiilselt e-raamatuid
+com.github.johnfactotum.QuickLookup	Otsige sõnad kiiresti üles
+com.github.Johnn3y.Forklift	Video ja heli allalaadimise rakendus
+com.github.joseexposito.touche	Mitme puutega žestid
+com.github.jpakkane.glyphtracer	Teisendage tähtede kujutised fondi
+com.github.junrrein.PDFSlicer	Lihtne tööriist PDF-dokumentide lehtede ekstraktimiseks, ühendamiseks, pööramiseks ja ümberjärjestamiseks
+com.github.juzzlin.DustRacing2D	Traditsiooniline ülalt-alla võidusõidumäng, sealhulgas tasemeredaktor
+com.github.k4zmu2a.spacecadetpinball	Mängumootor Space Cadet Pinballile
+com.github.kagami.boram	Platvormideülene graafiline WebM-muundur.
+com.github.kalibari.audok	Tasuta avatud lähtekoodiga muusikapleier
+com.github.keriew.augustus	Augustus on Caesar III avatud lähtekoodiga uusversioon koos muudatustega mängus
+com.github.kmwallio.thiefmd	Varastamist väärt allahindlusredaktor.
+com.github.KRTirtho.Spotube	🎧 Avatud lähtekoodiga Spotify klient, mis ei vaja Premiumi ega kasuta Electronit! Saadaval nii lauaarvutitele kui ka mobiilidele!
+com.github.labyrinth_team.labyrinth	Kerge mõttekaardistamise tööriist
+com.github.lachhebo.Gabtag	Heli märgistamise tööriist
+com.github.libresprite.LibreSprite	Animeeritud sprite-redaktor ja pikslite kunstitööriist
+com.github.liferooter.textpieces	Muutke teksti ilma juhuslikke veebisaite kasutamata
+com.github.LongSoft.UEFITool	UEFI püsivara pildivaatur ja redaktor
+com.github.louis77.tuner	Avastage ja kuulake Interneti-raadiojaamu
+com.github.lxgr_linux.pokete	Terminalipõhine Pokemonilaadne mäng
+com.github.makhber.Makhber	Teaduslike andmete visualiseerimine ja analüüs
+com.github.maoschanz.drawing	Muutke ekraanipilte või meeme
+com.github.maoschanz.DynamicWallpaperEditor	Looge või redigeerige GNOME-i töölauale XML-i dünaamilisi taustapilte (taustaslaidiseansse).
+com.github.marhkb.Pods	Jälgige oma podmani konteinereid
+com.github.marinm.songrec	Avatud lähtekoodiga mitteametlik Shazami klient Linuxile, kirjutatud Rust keeles.
+com.github.marktext.marktext	Järgmise põlvkonna allahindluste redaktor
+com.github.matfantinel.moneta	Jälgige oma töölaual reaalmaailma valuutade vahetuskursse
+com.github.matfantinel.reminduck	Pidage oma asju meeles jumalikult tüütul viisil.
+com.github.Matoking.protontricks	Lihtne ümbris, mis teeb Protoni toega mängude jaoks veinitrikke
+com.github.mdh34.hackup	Lugege häkkeriuudiseid töölaualt
+com.github.mdh34.quickdocs	Lugege kiiresti arendaja dokumente
+com.github.mgropp.PdfJumbler	Lihtne tööriist lehekülgede ümberkorraldamiseks, liitmiseks, kustutamiseks ja pööramiseks PDF-failides
+com.github.miguelmota.Cointop	Terminalipõhine rakendus krüptovaluutade jälgimiseks
+com.github.mikacousin.olc	Juhtige oma valgussaateid
+com.github.mtkennerly.ludusavi	Varundage oma arvuti videomängu salvestamise andmed
+com.github.muriloventuroso.easyssh	SSH-ühenduste haldur
+com.github.muriloventuroso.givemelyrics	Teie laulude sõnad
+com.github.muriloventuroso.pdftricks	Nipid PDF-failide jaoks
+com.github.Murmele.Gittyup	Graphical Giti klient, mis on loodud selleks, et aidata teil lähtekoodi ajalugu mõista ja hallata
+com.github.Murmele.scram	Probailistliku riskianalüüsi käsurida ja graafiline tööriist
+com.github.naaando.lyrics	Ilus viis oma laule laulda
+com.github.needleandthread.vocal	Suurepärane taskuhäälingusaadete klient kaasaegse tasuta töölaua jaoks
+com.github.neithern.g4music	Esitage oma muusikat elegantselt
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x konverteri ncnn versioon
+com.github.nrittsti.NTag	NTag on platvormideülene graafiline sildiredaktor, mis keskendub igapäevaelu kasutusjuhtudele.
+com.github.ojubaorg.Othman	Elektrooniline Koraani brauser
+com.github.opentyrian.OpenTyrian	DOS-i shoot-em-up Tyrian avatud lähtekoodiga port.
+com.github.optyfr.JRomManager	Mame ja Retrogaming Rom Manager
+com.github.paolostivanin.OTPClient	GTK+ rakendus sisseehitatud krüptimisega TOTP ja HOTP žetoonide haldamiseks.
+com.github.petebuffon.yafc	YAFC on Factorio kalkulaator, planeerija ja analüsaator. YAFC peamine eesmärk on tulla toime tugevalt modifitseeritud mängudega.
+com.github.phase1geo.minder	Looge, arendage ja visualiseerige oma ideid
+com.github.philip_scott.notes-up	Teie uus märkmik
+com.github.philip_scott.spice-up	Looge lihtsaid ja ilusaid esitlusi
+com.github.PintaProject.Pinta	Redigeerige pilte ja värvige digitaalselt
+com.github.polymeilex.neothesia	GPU kiirendatud midi visualiseerija
+com.github.PopoutApps.popout3d	Loob tavalise kaameraga tehtud fotodest 3D-pilte.
+com.github.powertab.powertabeditor	Vaadake ja redigeerige kitarri tablatuuri
+com.github.qarmin.czkawka	Multifunktsionaalne rakendus duplikaatide, tühjade kaustade, sarnaste piltide, katkiste failide jms leidmiseks.
+com.github.qarmin.szyszka	Lihtne, kuid võimas faili ümbernimetaja, kirjutatud Rust keeles
+com.github.quaternion	Qt-põhine klient Matrixi võrkude jaoks
+com.github.Qv2ray	Qv2ray on platvormideülene v2ray graafiline kasutajaliides, mis on kirjutatud Qt keeles.
+com.github.rafostar.Clapper	Lihtne ja kaasaegne GNOME meediapleier
+com.github.raibtoffoletto.litteris	Korraldatud kirjasõbra kirjavahetus
+com.github.rajsolai.response	Testige oma veebilehe reageerimisvõimet
+com.github.rajsolai.textsnatcher	Katkesta teksti vaid lohistamisega
+com.github.ransome1.sleek	ülesandehaldur, mis põhineb todo.txt süntaksil Linuxi jaoks, tasuta ja avatud lähtekoodiga (FOSS)
+com.github.reds.LogisimEvolution	Digiloogika kujundaja ja simulaator
+com.github.reduz.ChibiTracker	ChibiTracker on kaasaskantav IT (Impulse Tracker) kloon
+com.github.rhyme_player.rhyme	Teie muusika kodu.
+com.github.rkoesters.xkcd-gtk	Lugege xkcd: veebikoomiksit romantikast, sarkasmist, matemaatikast ja keelest
+com.github.robertsanseries.ciano	Multimeediumifailide konverter
+com.github.rogercrocker.badabib	Vaadake ja redigeerige BibTeX-i kirjeid
+com.github.Rosalie241.RMG	Lihtne kasutada ja platvormideülene mupen64plus esiots, mis on kirjutatud C++ ja Qt keeles
+com.github.ryanakca.slingshot	2D kosmose tulistamismäng gravitatsiooniga
+com.github.ryonakano.konbucase	Teisendage oma tekstis suurtähti
+com.github.ryonakano.pinit	Kinnitage oma lemmik kaasaskantavate rakenduste otseteed oma rakenduste käivitajasse
+com.github.ryonakano.reco	Salvestage kõned, et nende sisu hiljem meelde jätta
+com.github.sakya.corechess	Avatud lähtekoodiga male GUI malemootoritele
+com.github.scrivanolabs.scrivano	Märkmete tegemise rakendus neile, kes eelistavad käsitsi kirjutamist tippimisele.
+com.github.sdv43.whaler	Dockeri konteinerihaldus
+com.github.shonumi.gbe-plus	Game Boy (värviline, edasijõudnute) emulaator
+com.github.sixpounder.GameOfLife	Mängige Conway mängu elu
+com.github.skullernet.q2pro	Täiustatud Quake 2 klient
+com.github.skylot.jadx	Dex Java dekompilaatorisse
+com.github.subhadeepjasu.pebbles	Tehke täpsemaid arvutusi hõlpsalt
+com.github.suzie97.communique	RSS-lugeja koos platvormidevahelise sünkroonimisega
+com.github.zadam.trilium	Looge oma isiklik teadmistebaas
+com.github.z.Cumulonimbus	Lihtne ja ilus taskuhäälingusaadete rakendus
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + lihtne salve indikaator
+com.github.ztefn.haguichi	Hamachi graafiline kasutajaliides
+com.github.taiko2k.avvie	Kärbi pilte avataride või taustapiltide jaoks
+com.github.taiko2k.tauonmb	Esitage oma muusikat stiilselt
+com.github.tchx84.Flatseal	Hallake Flatpaki õigusi
+com.github.tenderowl.frog	Ekstraktige piltidelt tekst
+com.github.tenderowl.norka	Pidev tekstiredaktor
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto on platvormideülene rakendus, mis võimaldab teil tekste lihtsal viisil krüptida ja dekrüpteerida.
+com.github.theCalcaholic.StreamDeck	Lisage Steami voogesituse veebiteenused
+com.github.theironrobin.siglo	Sünkroonige PineTime oma PinePhone'iga
+com.github.themix_project.Oomox	kohandada ikoone, xrdb ja GTK teemasid
+com.github.tmewett.BrogueCE	Brogue: Community Edition – kogukonna juhitud kahvel väga armastatud minimalistlikust petturitest mängust
+com.github.treagod.spectator	Testige mugavalt oma REST API-sid!
+com.github.unrud.djpdf	Looge skannitud dokumentidest väikseid otsitavaid PDF-e
+com.github.unrud.RemoteTouchpad	Juhtige hiirt ja klaviatuuri nutitelefonist
+com.github.unrud.VideoDownloader	Laadige alla videoid veebisaitidelt, nagu YouTube ja paljud teised
+com.github.utsushi.Utsushi	Epsoni kujutiste hankimise utiliidid
+com.github.varnholt.dynablaster_revenge	Mängu Dynablaster uusversioon
+com.github.vikdevelop.photopea_app	Tasuta alternatiiv Adobe Photoshopi kasutajatele
+com.github.vikdevelop.timer	Lihtne Taimer
+com.github.vkohaupt.vokoscreenNG	Lihtne kasutada ekraanisaadete loojat
+com.github.vladimiry.ElectronMail	ProtonMaili mitteametlik töölauaklient
+com.github.weclaw1.ImageRoll	Pildivaatur koos põhiliste pilditöötlustööriistadega
+com.github.wwmm.easyeffects	Heliefektid PipeWire'i rakenduste jaoks
+com.github.wwmm.pulseeffects	Heliefektid PulseAudio rakenduste jaoks
+com.github.Xenoveritas.abuse	Tume 2D külgkerimisega platvormmäng
+com.github.xournalpp.xournalpp	Tehke käsitsi kirjutatud märkmeid
+com.github.yucefsourani.albasheer-electronic-quran-browser	Elektrooniline Koraani brauser
+com.gitlab.adnan338.Invoicer	Koostage oma maksearved
+com.gitlab.adnan338.Nixwriter	Looge käivitatavad Linuxi kujutised
+com.gitlab.azymohliad.Qwertone	Muudab teie arvuti muusikariistaks
+com.gitlab.bitseater.meteo	Teadke andmete ja kaartide abil järgmiste tundide ja päevade prognoosi
+com.gitlab.ColinDuquesnoy.MellowPlayer	Pilvemuusika integreerimine teie töölauale
+com.gitlab.coringao.cavestory-nx	Nostalgiline kõrvalseiklusmäng
+com.gitlab.coringao.JAG	Arkaad- ja mõistatusmäng 2D, milles peate purustama kõik sihtmärgid
+com.gitlab.cutecom.cutecom	Graafiline jadaterminal
+com.gitlab.davem.ClamTk	Lihtne kasutada Clam Antivirus (ClamAV) graafilist kasutajaliidest
+com.gitlab.guillermop.MasterKey	Paroolihalduri rakendus
+com.gitlab.j0chn.nextcloud_password_client	Hallake oma Nextcloudi paroole oma töölaual
+com.gitlab.kendellfab.restscope	Lihtne http/rest testimise tööriist, mis on ehitatud D ja GtkD abil.
+com.gitlab.librebob.Athenaeum	Steami tasuta asendus
+com.gitlab.maevemi.publictransport	ühistranspordirakendus (praegu) Saksamaa jaoks
+com.gitlab.Murmele.UDPLogger	UDPLogger on kerge ja suure jõudlusega UDP-andmete logija. Lisaks saab andmeid visualiseerida graafikutel.
+com.gitlab.tipp10.tipp10	Puudutage valikut Tippimisõpetaja
+com.gluonhq.SceneBuilder	Scene Builder on avatud lähtekoodiga tööriist, mis võimaldab JavaFX-i kasutajaliideseid pukseerida.
+com.google.AndroidStudio	Integreeritud arenduskeskkond Google'i Androidi platvormile
+com.google.Chrome	Google'i veebibrauser
+com.google.ChromeDev	Google'i veebibrauser
+com.google.EarthPro	3D planeedivaatur
+com.googleplaymusicdesktopplayer.GPMDP	Käitage Google Play muusikat eraldiseisva töölauarakendusena
+com.grangerhub.Tremulous	Tulnukad vs inimesed, First Person Shooter mäng reaalajas strateegia elementidega
+com.hack_computer.Clubhouse	Sihtkoht, kus lapsed õpivad kodeerima
+com.hack_computer.OperatingSystemApp	Süsteem võimaldab teil saada osa võlust, mis hoiab teie arvuti sumisemas!
+com.hack_computer.Sidetrack	Põgene aukude ja robotite labürindist!
+com.hamrick.VueScan	Skannimistarkvara 6000+ skannerile
+com.helix_editor.Helix	Postmodernne tekstiredaktor
+com.her01n.BatteryInfo	Näitab teavet süsteemi aku kohta.
+com.heroicgameslauncher.hgl	Avatud lähtekoodiga Epic Games, GOG ja Amazon Prime Gamesi käivitaja.
+com.hostbuf.FinalShell	FinalShelli ssh-tööriistad
+com.howlingmoonsoftware.CrayonBall	Kiire tempo mängu-4 mõistatus
+com.hunterwittenborn.Celeste	Sünkroonige oma pilvefailid
+com.icanblink.blink	Blink SIP klient
+com.icons8.Lunacy	Tasuta disainitarkvara, mis hoiab teie voolu AI tööriistade ja sisseehitatud graafikaga
+com.identicalsoftware.anagramarama	Tehke tähtede segamisest sõnu
+com.inform7.IDE	Kirjutage interaktiivset ilukirjandust
+com.inklestudios.Inky	Kirjutage interaktiivne narratiiv inkle märgistuskeeles
+com.inochi2d.inochi-creator	Tööriist Inochi2D nukkude loomiseks ja redigeerimiseks
+com.interversehq.qView	Praktiline ja minimaalne pildivaatur
+com.inventwithpython.flippy	Klassikalise lauamängu Reversi kloon
+com.invoiceninja.InvoiceNinja	Koostage arveid, aktsepteerige makseid, jälgige kulusid ja ajaülesandeid
+com.irccloud.desktop	Kaasaegne, alati ühendatud IRC klienditeenindus
+com.itextpdf.RUPS	iText RUPS on tööriist PDF-i struktuuri vaatamiseks
+com.itopia.client	Remote Desktop Protocol (RDP) serverite klient
+com.jagex.RuneScape	Tasuta mängitav fantaasia MMORPG
+com.jaquadro.NBTExplorer	Graafiline NBT-redaktor kõigi Minecrafti NBT-andmeallikate jaoks
+com.jetbrains.CLion	Platvormideülene IDE C ja C++ jaoks
+com.jetbrains.DataGrip	IntelliJ-põhine IDE andmebaaside ja SQL-i jaoks
+com.jetbrains.GoLand	Võimekas ja ergonoomiline Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	Võimekas ja ergonoomiline Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Võimekas ja ergonoomiline Java IDE ettevõtte-, veebi- ja mobiiliarenduseks
+com.jetbrains.PhpStorm	PHP IDE professionaalseks arenguks
+com.jetbrains.PyCharm-Community	Kõige intelligentsem Pythoni IDE
+com.jetbrains.PyCharm-Professional	Kõige intelligentsem Pythoni IDE
+com.jetbrains.Rider	Kiire ja võimas platvormideülene .NET IDE
+com.jetbrains.RubyMine	Nautige esmaklassilist tuge rakendustele Ruby 2.x ja Rails 6.x, Sinatra, React, Angular, Puppet, Docker ja palju muud
+com.jetbrains.WebStorm	Kõige nutikam JavaScripti IDE
+com.jetpackduba.Gitnuro	Mitmeplatvormiline Giti klient
+com.jgraph.drawio.desktop	Looge ja jagage diagramme
+com.jonathankang.Weibird	Native GTK+ Weibo klient
+com.jpexs.decompiler.flash	Dekompileerida ja redigeerida SWF-faile
+com.js8call.JS8Call	Tarkvara, mis kasutab JS8 digitaalrežiimi, mis tagab nõrga signaali klaviatuurilt klaviatuurile raadioamatööroperaatoritele
+com.katawa_shoujo.KatawaShoujo	Bishoujo stiilis visuaalne romaan
+com.kavilgroup.gelectrical	Elektrijaotusvõrgu projekteerimine ja analüüs
+com.kavilgroup.gestimator	Tsiviilhinnangu tarkvara
+com.kolor.AutopanoPro	Professionaalne piltide ühendamise tarkvara, mille on valmistanud Kolor
+com.kristianduske.TrenchBroom	Quake-põhiste mängude tasemeredaktor
+com.ktechpit.colorwall	Ülim töölaua taustapildi rakendus
+com.ktechpit.orion	Täielik torrenti klient ja striimija Linuxi töölaua jaoks
+com.ktechpit.torrhunt	Torrenti otsingumootor
+com.ktechpit.ultimate-media-downloader	Interneti-video ja heli allalaadija Linuxi jaoks, 1300+ veebisaidi tugi
+com.ktechpit.whatsie	Qt Whatsapp veebiklient Linuxi töölauale
+com.ktechpit.wonderwall	Taustapildi haldur
+com.lakoliu.Furtherance	Jälgige oma aega ilma jälgimiseta
+com.leinardi.gkraken	Võimaldab teil juhtida Linuxi NZXT Kraken X pumba jahutust.
+com.leinardi.gst	Süsteemiutiliit, mis on loodud erinevate riistvarakomponentide pingestamiseks ja jälgimiseks
+com.leinardi.gwe	Süsteemiutiliit, mis on loodud teabe edastamiseks, ventilaatorite juhtimiseks ja teie NVIDIA kaardi kiirendamiseks
+com.leinardi.gx52	Võimaldab juhtida LED-e ja MFD-d Logitech X52 ja X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Tasuta ja lihtsalt kasutatav videopleier, mis on tehtud koos Haskelliga
+com.librumreader.librum	Kaasaegne e-raamatute lugeja ja raamatukogu juhataja
+com.lixgame.Lix	Lemmingsilaadne mäng mõistatuste, toimetaja ja mitmikmänguga
+com.locomalito.abbayedesmorts	Vananenud videomäng ajaloo tumedaks lõiguks
+com.logseq.Logseq	Kohalik esmajoones mittelineaarne ülevaade oma isikliku teadmistebaasi korrastamiseks ja jagamiseks
+com.lunarclient.LunarClient	Modifikatsioonipakett kõigi Minecrafti kaasaegsete versioonide jaoks!
+com.makemkv.MakeMKV	DVD- ja Blu-ray-MKV-muundur ja võrgustriimer
+com.maplerain.telsis_translator_flutter	Rakendus, mis tõlgib Violet Evergardeni sarjas kasutatavasse Telsise keelde ja sellest keelest
+com.mardojai.DiccionarioLengua	Busca palabras en el DLE
+com.mardojai.ForgeSparks	Hankige Giti võltsingute teatised
+com.mastermindzh.tidal-hifi	Veebiversioon listen.tidal.com koos Hi-Fi (High and Max) toega
+com.mattermost.Desktop	Avatud lähtekoodiga platvorm arendajate koostööks
+com.mattjakeman.ExtensionManager	Sirvige, installige ja hallake GNOME Shell Extensions
+com.meetfranz.Franz	Messenger töölauale
+com.microsoft.AzureStorageExplorer	Graafiline tööriist Azure'i pilvesalvestusressursside haldamiseks
+com.microsoft.Edge	Tutvustame uut Microsoft Edge veebibrauserit. On aeg oodata rohkem. Rohkem privaatsust. Rohkem kontrolli. Suurem tootlikkus. Rohkem väärtust.
+com.microsoft.EdgeDev	Tutvustame uut Microsoft Edge veebibrauserit. On aeg oodata rohkem. Rohkem privaatsust. Rohkem kontrolli. Suurem tootlikkus. Rohkem väärtust.
+com.milesalan.mepo	Kiire, lihtne ja häkitav OSM-i kaardivaatur Linuxi jaoks
+com.moddb.TotalChaos	Ellujäämisõudus, mille tegevus toimub Fort Oasis nime all tuntud kaugel saarel
+com.moddb.TotalChaosRetro	Ellujäämisõudus, mille tegevus toimub Fort Oasis nime all tuntud kaugel saarel
+com.mojang.Minecraft	Looge oma maailm ühes populaarseimas videomängus
+com.mongodb.Compass	MongoDB GUI
+com.moonlight_stream.Moonlight	Voogesitage mänge ja muid rakendusi teisest arvutist, kus töötab Sunshine või GeForce Experience
+com.mousepawmedia.omission	Petlikult lihtne sõnamõistatus.
+com.mudeprolinux.whakarere	GTK4 WhatsApp klient
+community.pathofbuilding.PathOfBuilding	Path of Building (Community) – võimas ehituse planeerija Path of Exile jaoks
+com.musixmatch.Musixmatch	Nautige oma laulusõnu kõikjal
+com.napster.napster-bigscreen-electron	Napster teie pihuarvutile
+com.neatdecisions.Detwinner	Otsige ja eemaldage dubleerivad failid ja sarnased pildid
+com.netease.CloudMusic	Populaarne veebimängija, mille on välja töötanud Netease
+com.nextcloud.desktopclient.nextcloud	Nextcloudi töölaua sünkroonimise klient
+com.nitrokey.nitrokey-app	Hallake oma Nitrokey seadmeid
+com.nordpass.NordPass	Lihtsalt kasutatav paroolihaldur, mille on teieni toonud küberturbeeksperdid.
+com.notepadqq.Notepadqq	Täiustatud tekstiredaktor
+com.notesnook.Notesnook	Täielikult avatud lähtekoodiga ja täielikult krüpteeritud märkmete tegemise alternatiiv Evernote'ile
+com.obsproject.Studio	Otseülekande ja videosalvestuse tarkvara
+com.okta.developer.CLI	Okta CLI on lihtsaim viis Oktaga alustamiseks!
+com.openwall.John	John the Ripper Jumbo paroolimurdja
+com.opera.Opera	Opera veebibrauser
+com.oppzippy.OpenSCQ30	Soundcore Q30 kõrvaklappide juhtseaded
+com.orama_interactive.Pixelorama	2D sprite redaktor koos animatsiooni toega
+com.ozmartians.VidCutter	Meediumilõikur + tisler
+com.outerwildsmods.owmods_gui	Lihtsalt kasutatav rakendus Outer Wildsi modifikatsioonide installimiseks ja käitamiseks
+com.ownrwallet.wallet	Saada, vastu võtta, välja võtta, vahetada ja osta virtuaalseid valuutasid. Ainult teie kontrollite juurdepääsu ja varasid
+com.parallax.PropellerIDE	Parallax Propelleri platvormi koodi arendamine, kompileerimine ja üleslaadimine.
+com.parsecgaming.parsec	Lihtne, madala latentsusega mängude voogesitus
+com.pikatorrent.PikaTorrent	Moodne, lihtne, ühendatud ja elektriline BitTorrenti rakendus ⚡
+com.pinegrow.Pinegrow	Visuaalne veebiredaktor professionaalidele
+com.play0ad.zeroad	Reaalajas iidse sõja strateegiamäng
+com.playonlinux.PlayOnLinux4	Wine'i graafiline esiosa
+com.plexamp.Plexamp	Plexamp – ilus Plexi pleier audiofiilidele, kuraatoritele ja hipsteritele
+com.pojtinger.felicitas.Multiplex	Vaadake koos sõpradega torrente
+com.pokemmo.PokeMMO	PokeMMO on tasuta mängitav mmorpg, liituge kasvava kogukonnaga, kui jõuate tasemele ja avastate uusi koletisi
+com.polyphone_soundfonts.polyphone	Looge oma lemmikmuusika esitamiseks oma instrumendid
+com.powerball253.eternalmodmanager	Platvormideülene modihaldur DOOM Eternal jaoks.
+com.poweriso.PowerISO	Kõik-ühes CD/DVD/Blu-Ray tööriist
+com.protonvpn.www	Usaldusväärne ja hõlpsasti kasutatav VPN-rakendus Linuxi jaoks
+com.prusa3d.PrusaSlicer	Hankige täiuslikke 3D-printe!
+com.pypyrev.linuxdcpp	Failijagamisklient otseühenduse võrgu jaoks
+com.q3rally.Q3Rally	Survival võidusõidu mäng
+com.qq.QQ	Online kiirsuhtlusteenus
+com.qq.QQmusic	Muusika voogedastusteenus veebis
+com.qzandronum.Q-Zandronum	Zandronum 3.0 kahvel täiustatud võrgukoodi, konfigureeritava liikumise ja paljude väikeste näpunäidetega
+com.quexten.Goldwarden	Bitwardeniga ühilduv lauaarvuti klient
+com.quixel.Bridge	Ideaalne sild Megascanide ja teie lemmiktööriistade vahel
+com.rabbit_company.passky	Passky on lihtne, kaasaegne, kerge, avatud lähtekoodiga ja turvaline paroolihaldur.
+com.rafaelmardojai.Blanket	Kuulake erinevaid helisid
+com.rafaelmardojai.SharePreview	Testige sotsiaalmeedia kaarte kohapeal
+com.rafaelmardojai.WebfontKitGenerator	Looge hõlpsalt @font-face komplekte
+com.raggesilver.BlackBox	Ilus GTK 4 terminal
+com.ranfdev.Geopard	Gemini brauser
+com.ranfdev.Lobjur	Lihtne lobste.rsi klient
+com.ranfdev.Notify	Saate teateid saidilt ntfy.sh.
+com.rawtherapee.RawTherapee	Täiustatud töötlemata fotode arendusprogramm
+com.realm667.Wolfenstein_Blade_of_Agony	Loopõhine FPS, mis on inspireeritud 90ndate ja 2000ndate alguse II maailmasõja tulistamistest
+com.redis.RedisInsight	Redise arendaja GUI, autor Redis.
+com.remnantsoftheprecursors.ROTP	Algse 1993. aasta Master of Orioni strateegiamängu lihvitud moderniseerimine.
+com.retrodev.blastem	Sega Mega Drive/Genesis ja Master System emulaator
+com.revolutionarygamesstudio.ThriveLauncher	Evolutsiooni simulatsioonimäng. Võtke oma liikide üle keskkonnas kontroll ja muutke oma liike tervikuna. Võistelge teiste arenevate liikidega võõra planeedi ressursside pärast.
+com.riverbankcomputing.PyQt.BaseApp	Jagatud platvorm rakendustele, mis kasutavad PyQti
+com.rocksandpaper.syndic	Puutetundlik RSS/Atom lugeja
+com.roguetemple.HyperRogue	Mitteeukleidiline graafiline petturilaadne mäng
+com.rosegardenmusic.rosegarden	MIDI- ja helijärjestus ning noodiredaktor
+com.rq3.Reaction	Filmirealismi esimese isiku tulistamismäng
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Kerge Qt Audio mängija
+com.scoutshonour.Digital	Arvutimüsteerium/romantika, mis asetseb viis minutit 1988. aasta tulevikku
+com.scoutshonour.dtipbijays	Omamoodi vaimne järg filmile Digital: A Love Story, mille tegevus toimub mainekas erakeskkoolis ja 2027. aasta sotsiaalvõrgustikes
+com.seafile.Client	Seafile failide sünkroonimine ja jagamine töölaua klient
+com.seal_one.SealOne	Tarkvara Seal One'i riistvarapõhistele allkirjaseadmetele
+com.serveftp.officefactoring	Rakendus faktoringu, väärtpaberistamise, ESC või FIDC jaoks
+com.sevenkfans.sevenkaa	Keskaegne reaalajas strateegiamäng
+com.seventhstring.Transcribe	Transkribeeri! - tarkvara, mis aitab salvestatud muusikat transkribeerida
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG, pikslite graafika ja palju mitmekesisust ja taasesitamist
+com.sigil_ebook.Sigil	Mitmeplatvormiline EPUB-i e-raamatute redaktor
+com.sigmyne.crush	Andmete vähendamine ja pildistamine valitud astronoomiliste kaamerate jaoks
+com.simplenote.Simplenote	Lihtsaim viis märkmete tegemiseks
+com.sindresorhus.Caprine	Elegantne Facebook Messengeri töölauarakendus
+com.sireliah.Dragit	Intuitiivne failijagamisrakendus kohaliku võrgu jaoks
+com.skype.Client	Helistage ja saatke sõnumeid Skype'i kasutajatele koos videovestluse toega
+com.slack.Slack	Meeskonnasuhtlus 21. sajandiks
+com.sleepfiles.OSCAR	Avatud lähtekoodiga CPAP-analüüsi reporter
+com.slugchess.SlugChess	Male Fog-of-Wari ja segatud ohvitseridega
+com.snes9x.Snes9x	Super Nintendo emulaator
+com.solvespace.SolveSpace	Tasuta (GPLv3) parameetriline 3D CAD tööriist
+com.sourcepole.kadas	Kaardirakendus mittespetsialiseerunud kasutajatele
+com.spacestation14.Launcher	Mitme mängijaga katastroofisimulaator
+com.spotify.Client	Muusika voogedastusteenus veebis
+com.springrts.SpringLobby	Mängige kevadmootoriga võrgus RTS-mänge
+com.szibele.e-juice-calc	Tasuta ja lihtsalt kasutatav E-Juice kalkulaator
+com.steamdeckrepo.manager	Installige alglaadimisvideod oma Steam Decki, kasutades Steam Deck Repo veebisaidi API-d.
+com.steamgriddb.SGDBoop	Rakendage SteamGridDB varasid Steamile
+com.steamgriddb.steam-rom-manager	Rakendus ROMide haldamiseks Steamis
+com.stepmania.StepMania	Rütmi- ja tantsumäng
+com.stremio.Service	Voogesituse vabadus
+com.stremio.Stremio	Vaadake koheselt videoid, filme, telesarju ja telekanaleid
+com.strlen.TreeSheets	Vabas vormis andmekorraldaja
+com.st.STM32CubeIDE	STM32 integreeritud arenduskeskkond
+com.sublimemerge.App	Sublime Merge on Giti klient Sublime Texti tegijatelt
+com.sublimetext.three	Keeruline tekstiredaktor koodi, märgistuse ja proosa jaoks
+com.sudovanilla.penpot-desktop	Disainivabadus meeskondadele
+com.supermodel3.Supermodel	Sega Model 3 arkaademulaator
+com.sweethome3d.Sweethome3d	Sweet Home 3D sisekujundusrakendus
+com.sweetscape.ZeroOneZeroEditor	Professionaalne teksti- ja kuueteistkümnendtöötlus binaarmallidega
+com.synology.CloudStationBackup	Reaalajas varundamine, mis säästab teid tohutu andmekao eest
+com.synology.SynologyAssistant	Tööriist Synology NAS-i haldamiseks kohalikus võrgus
+com.synology.SynologyDrive	Võimas privaatne pilvesalvestusruum ilma korduvate tasudeta
+com.syntevo.SmartGit	Tehke oma kohustus
+com.syntevo.SmartSynchronize	Kataloogide võrdlemine Smart Way abil
+com.system76.Popsicle	Flash mitu USB-seadet paralleelselt
+com.zandronum.Zandronum	Teejuht Newschool multiplayer Doom võrgus
+com.zerobrane.studio	Kerge Lua-põhine IDE Lua jaoks
+com.zettlr.Zettlr	Markdowni toimetaja 21. sajandile
+com.zhqli.wikit	Universaalne sõnastik
+com.zoho.Notebook	Kõige ilusam märkmete tegemise rakendus kõigis seadmetes
+com.zquestclassic.ZQuest	Mängumootor populaarse klassikalise seiklusmänguga sarnaste mängude loomiseks
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim Desktopi rakendus
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP rakendus
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP rakendus
+com.teeworlds.Teeworlds	Online mitme mängijaga tulistamismäng
+com.tencent.wemeet	Pilvepõhine HD-konverentsitoode, mis kasutab Tencenti 20+ aastat kogemust audiovisuaalse suhtluse vallas
+com.tercad.fingrom	Platvorm-agnostiline finantsarvestuse rakendus
+com.thebrokenrail.MCPIReborn	Lõbus koos plokkidega
+com.thewavewarden.Odin2	Odin 2 süntesaator
+com.thincast.client	Tasuta RDP (Remote Desktop Protocol) klient Linuxi, macOS-i ja Windowsi jaoks
+com.tic80.TIC_80	Fantaasiaarvuti väikeste mängude tegemiseks, mängimiseks ja jagamiseks
+com.ticktick.TickTick	Teie suurepärane ülesannete ja ülesannete loend, et kõik asjad tehtud saaks ja elu hästi korraldatud.
+com.todoist.Todoist	"Praegu parim ülesannete loendi rakendus" - The Verge
+com.toggl.TogglDesktop	Lihtne ja intuitiivne aja jälgimise tarkvara
+com.tomjwatson.Emote	Moodne hüpikakna emotikonide valija
+com.tonikelope.MegaBasterd	Laadige alla, laadige üles või voogesitage faile saidilt MEGA.nz
+com.tracktion.Waveform	Digitaalne helitööjaam kõigile muusikaloojatele
+com.transmissionbt.Transmission	Laadi alla ja levita faile BitTorrenti kaudu
+com.tutanota.Tutanota	Turvaline meil, kalender ja kontaktid
+com.tux4kids.tuxmath	TuxMath on arkaadmäng, mis aitab lastel oma matemaatilisi fakte harjutada
+com.tux4kids.tuxtype	Õpetlik kirjutamisjuhendaja mäng Tuxiga peaosas
+com.tuxpusher.TuxPusher	Lõbus münditõukemäng Tuxiga!
+com.tuxpusher.TuxPusherAF	515 unikaalset auhinda + 6 pingviini
+com.ugetdm.uGet	Allalaadimishaldur
+com.ulduzsoft.Birdtray	Süsteemisalves Thunderbirdi uue meili teatis
+com.ultimaker.cura	Viilutaja 3D-printimise projektide ettevalmistamiseks
+com.umlet.Umlet	Tasuta UML-i tööriist kiirete UML-skeemide jaoks
+com.unity.UnityHub	Reaalajas mängumootor
+com.uploadedlobster.peek	Lihtne ekraanisalvesti koos hõlpsasti kasutatava liidesega
+com.usebottles.bottles	Käivitage Windowsi tarkvara
+com.usebruno.Bruno	Kiire ja Git-sõbralik API-klient
+com.vagueentertainment.Framed	Digitaalne pildiraam teie NFTshowroomi kunsti ja isikliku töö jaoks
+com.valvesoftware.Steam	Steami tarkvara levitamisteenuse käivitaja
+com.valvesoftware.SteamLink	Voogesitage mänge teisest arvutist Steami abil
+com.varnamproject.Varnam	Sisestage hõlpsalt india keeli
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, suure ühilduvusega Gameboy Advance emulaator
+com.vesc_project.VescTool	VESC® Tool on BLDC-Tool'i täiesti uus ja 100% muudetud asendus
+com.viber.Viber	Me ühendame inimesi, olenemata sellest, kes nad on või kust nad pärit on
+com.vicr123.thebeat	Helimängija
+com.viewizard.AstroMenace	Kõvatuumaline 3D-ruumi kerimismäng kosmoselaeva uuendamise võimalustega
+com.virustotal.VirusTotalUploader	Laadige failid üles saidile virustotal.com
+com.visualstudio.code	Koodi redigeerimine. Uuesti määratletud.
+com.visualstudio.code-oss	Visual Studio kood. Koodi redigeerimine. Uuesti määratletud.
+com.vivaldi.Vivaldi	Võimas, isiklik ja privaatne veebibrauser
+com.vixalien.decibels	Esitage helifaile
+com.vixalien.sticky	Kinnitage märkmed oma töölauale
+com.voxdsp.aigeneratedgame	Päästa oma aiasõbrad kummituste eest!
+com.voxdsp.AstroImpact	Mitme mängijaga kosmosemäng, kaitske planeeti saabuvate asteroidide eest!
+com.voxdsp.Borg	Kaasaskantav (SDL) helisüntesaator / toonigeneraator, mis on inspireeritud Korg ER-1-st
+com.voxdsp.Borg0	Kaasaskantav (SDL) helisüntesaator / toonigeneraator võimaldab kasutajatel joonistada ostsillaatoreid ja ümbrikke.
+com.voxdsp.CubeShooter	3D arkaadstiilis laskur
+com.voxdsp.PoryDrive	Automäng, kus peate püüdma Porygoni!
+com.voxdsp.SeriousShooter	Onu Sami poolt heaks kiidetud 3D FPS
+com.voxdsp.Snowboarder	Lihtne 3D lumelauamäng
+com.voxdsp.Snowling	Keegli õnnemäng
+com.voxdsp.Spaceminer	3D-ruumi kaevandamise mäng
+com.voxdsp.Tuxocide	3D FPS Antarktikas käib sõda...
+com.voxdsp.TuxScape	Müütiline seiklus Tuxina!
+com.voxdsp.TuxVsDragon	Tapa Red Dragon Tux!
+com.voxdsp.VoxelPaint	Värvige 3D-s vokslite abil!
+com.voxdsp.VoxelPaintPro	Värvige 3D-s, kasutades ühevärvilisi voksleid!
+com.vscodium.codium	Koodi redigeerimine. Uuesti määratletud. Telemeetria vähem.
+com.vzhd1701.gridplayer	Esitage videoid kõrvuti
+com.vysp3r.ProtonPlus	Lihtne veini- ja prootonipõhine ühilduvustööriistade haldur
+com.w1hkj.fldigi	Amatöörraadio helikaardi side
+com.w1hkj.flrig	Amatöörraadioseadme juhtimine
+com.whitemagicsoftware.kmcaster	Kuva hiire- ja klaviatuurisündmused ekraanil
+com.wickeditor.WickEditor	Tööriist mängude, animatsioonide ja kõige vahepealse loomiseks!
+com.wings3d.WINGS	Täiustatud alajaotuse modelleerija
+com.wire.WireDesktop	Kõige turvalisem koostööplatvorm
+com.wiz.Note	Suurepärane pilvekasutusel põhinev PKM (personal Knowledge Management) töölauakeskkond
+com.wps.Office	WPS Office Suite
+com.writerduet.writersolo	Ulatuslik töölauarakendus stsenaariumi täielikuks kirjutamiseks või teisendamiseks erinevate stsenaariumivormingute vahel (nt lõplik mustand fdx või purskkaev)
+com.xnview.XnConvert	Töödelge pilte hõlpsalt ja redigeerige metaandmeid
+com.xnview.XnRetro	Looge suurepäraseid pilte vanaaegse või kohese efektiga
+com.xnview.XnSketch	Muutke oma fotod koomiksiteks või visanditeks
+com.xnview.XnViewMP	Vaata ja korras oma pilte
+com.xunlei.Thunder	Xunlei allalaadimine.迅雷下载.
+com.yacreader.YACReader	Jälle üks koomiksilugeja
+com.yktoo.ymuse	Lihtne, funktsionaalne ja kiire GTK esiosa (klient) muusikapleieri deemoni jaoks
+com.ylsoftware.qmmp.Qmmp	Qt-põhine multimeediumipleier
+com.yubico.yubioath	Graafiline liides OATH-koodide kuvamiseks YubiKey abil
+cool.ldr.lfy	Tõlketarkvara gnome jaoks
+cz.cvut.edu.comparch.qtrvsim	RISC-V protsessori simulaator hariduslikel eesmärkidel
+cz.krupkat.Xpano	Automaatne fotode liimimise tööriist
+cz.zeropage.Formiko	reStructuredText ja MarkDown redaktor ning reaalajas eelvaatleja
+de._0x539.gobby	Redigeerige tekstifaile koostöös
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Lihtne kalkulaator tundide ja minutite lisamiseks
+de.akaflieg_freiburg.enroute	Lennu navigatsioonirakendus VFR-pilootidele
+de.bforartists.Bforartists	Täielik, tasuta ja avatud lähtekoodiga 3D komplekt
+de.billardgl.Billardgl	Lõbus 3D piljardimäng
+de.blobbyvolley.BlobbyVolley2	Pea-to-head mitme mängijaga võrkpallimäng.
+de.breitbandmessung.Breitbandmessung	Võimaldab mõõta interneti kiirust.
+de.bund.ausweisapp.ausweisapp2	Saksa ID-kaardi ja elamisloa ametlik autentimisrakendus
+de.create3000.titania	Redigeerige, vaadake ja navigeerige X3D- ja VRML-maailmades
+de.fabrik19.mos-Launcher	Kasutatakse Mobilitysuite'iga arendamiseks
+de.finnik.PassVault	Hallake PassVaultiga oma paroole turvaliselt ja lihtsalt
+de.flinkebits.AvaEmailArchivar	Meilide arhiveerimine ja taastamine IMAP-postkastidest
+de.gunibert.Hackgregator	Häkkeriuudiste lugeja
+de.haeckerfelix.AudioSharing	Jagage oma arvuti heli
+de.haeckerfelix.Fragments	BitTorrenti klient
+de.haeckerfelix.Shortwave	Kuulake Interneti-raadiot
+de.halaszovich.PMbrowser	Avage, sirvige ja eksportige PM-dat-faile
+de.ifw_dresden.nagstamon	Nagstamon on töölaua olekumonitor.
+de.k_bo.Televido	Juurdepääs saksakeelsele avalikule televisioonile
+de.klayout.KLayout	Maskide paigutuste vaataja ja redaktor
+de.lernsoftware_filius.Filius	Filius on õppeotstarbeline võrgusimulaator.
+de.linuxguides.RechnungsAssistent	Saksa arvete generaator
+de.manuel_kehl.go-for-it	Stiilne ülesannete nimekiri koos sisseehitatud tootlikkuse taimeriga
+de.marlam.gencolormap	Värvikaardi generaator
+de.marlam.qv	2D andmete visualiseerija
+de.mediathekview.MediathekView	Juurdepääs avalikule Saksa TV Mediathekile
+de.nicokimmel.shadowcast-electron	Näitab Genki ShadowCasti videovoogu
+de.peterge.combined	Kombineeritud! on plokk-mõistatusmäng. Teie eesmärk on ühendada plokid, et saada lauale kõrgemaid plokke.
+de.philippun1.Snoop	Tutvuge oma failidega
+de.philippun1.turtle	Hallake oma git-hoidlaid
+de.rwth_aachen.ient.RDPlot	RDPlot on tööriist moonutuskõverate joonistamiseks
+de.rwth_aachen.ient.YUView	QT-põhine, platvormideülene YUV-mängija täiustatud analüütilise tööriistakomplektiga
+de.schmidhuberj.DieBahn	Reisige kogu oma rongiteabega ühes kohas
+de.schmidhuberj.Flare	Vestelge oma sõpradega Signalis
+de.schmidhuberj.tubefeeder	Jälgi videoloojaid
+de.sesu8642.feudaltactics	Strateegiamäng lugematu arvu ainulaadsete ja väljakutseid pakkuvate tasemetega.
+de.shorsh.discord-screenaudio	Kohandatud discord-klient, mis toetab heliga voogesitust Linuxis
+de.syping.gta5view	Avage ja redigeerige GTA V profiile
+de.zwarf.picplanner	Planeerige oma järgmised fotode asukohad
+de.tumexam.cli	TUMexami klient õpilaste ja eksamite haldamiseks.
+de.unifreiburg.ellipticcurve	Visandab elliptilised kõverad ja võimaldab katsetada nende rühmaseadust
+de.uni_heidelberg.zah.GaiaSky	Avatud lähtekoodiga 3D universumi simulaator lauaarvutitele ja VR-ile, mis toetab enam kui miljardit objekti
+dev.alextren.Spot	Kuulake muusikat Spotifys
+dev.ares.ares	mitme süsteemi konsooli emulatsioonikomplekt
+dev.atoft.Reactions	Lihtne GIF-otsing.
+dev.aunetx.deezer	Muusika voogedastusteenus veebis
+dev.bambosh.UnofficialHomestuckCollection	Kodustucki ja sellega seotud teoste võrguühenduseta kogu
+dev.boxi.Boxi	Tööriistakastiga kasutamiseks mõeldud terminali emulaator
+dev.bragefuglseth.Fretboard	Otsige üles kitarri akordid
+dev.bsnes.bsnes	Super Nintendo emulaator
+dev.Cogitri.Health	Jälgige oma treeningueesmärke
+dev.deedles.Trayscale	Mitteametlik GUI ümbris Tailscale CLI ümber.
+dev.edfloreshz.Done	Ülesannete nimekirjad on ümber kujundatud
+dev.ensoft.ecode	Kerge mitmeplatvormiline koodiredaktor, mis on loodud kaasaegse riistvara jaoks, keskendudes reageerimisvõimele ja jõudlusele.
+dev.gbstudio.gb-studio	Kiire ja hõlpsasti kasutatav pukseeritav retromängu looja Game Boy jaoks
+dev.geopjr.Collision	Kontrolli failide räsiväärtuseid
+dev.geopjr.Tuba	Sirvige Fediverset
+dev.goats.xivlauncher	Final Fantasy XIV Online'i käivitusprogramm ja sujuv Linuxi integreerimine
+dev.hdos.HDOS	Kõrge detailiga vana kooli Runescape'i klient
+dev.jamiethalacker.window_painter	Täitke tahvel sama värvi värviga
+dev.k8slens.OpenLens	Kubernetes IDE
+dev.krtirtho.Flemozi	Täpsem⚡ Emotikonide valija😀 Linuxile🐧, Windowsile🪟 ja macOS-ile🍎
+dev.lapce.lapce	Välkkiire ja võimas Rustis kirjutatud koodiredaktor
+dev.lasheen.qr	QR-koodi skanner/generaator
+dev.levz.TinyImageFinder	Pildiotsija koos eelvaatega
+dev.linwood.butterfly	Võimas, minimalistlik, platvormideülene avatud lähtekoodiga märkmete tegemise rakendus
+dev.lizardbyte.app.Sunshine	Moonlighti isehostitav mänguvoo host.
+dev.lukebriggs.pepys	Lihtne allahindluspäevik
+dev.mrquantumoff.mcmodpackmanager	Hallake oma modifikatsioone hõlpsalt!
+dev.mufeed.Wordbook	Otsige mis tahes ingliskeelse termini määratlusi
+dev.paullee.scraterpreter.Scrape	Scraterpreter on tõlk, mis käitab .sb3 (Scratch) projekte.
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc on Scraterpreteri kompilaator.
+dev.pulsar_edit.Pulsar	Kogukonna juhitud hüperhäkkitav tekstiredaktor
+dev.rzia.minesector	Snazzy Minesweeperil põhinev mäng
+dev.salaniLeo.forecast	Ilmarakendus GNOME jaoks
+dev.salaniLeo.immagini	AppImage'i rakenduste raamatukogu ja loomise tööriist
+dev.schlaubi.Tonbrett	Discord Soundboard Boti kaasrakendus
+dev.serebit.Waycheck	Kuvab Waylandi koostaja rakendatud protokollid
+dev.slimevr.SlimeVR	Rakendus kogu keha jälgimise hõlbustamiseks virtuaalses reaalsuses
+dev.stewlab.PortaWar	Tere tulemast pihuarvutite sõtta!
+dev.storyapps.starc	Kõik-ühes kirjutamisrakendus
+dev.zelikos.rollit	Täringuid veeretada
+dev.tchx84.Portfolio	Hallake faile liikvel olles
+dev.vencord.Vesktop	Snappier Discordi rakendus koos Vencordiga
+dev.vieb.Vieb	Vimi inspireeritud elektronbrauser
+de.wger.flutter	Fitness/treening, toitumine ja kaalujälgija
+de.willuhn.Jameica	Rakendus-platvorm, mis sarnaneb OSGI-ga
+de.wwwtech.ColorMate	Teisendage CSS-i värvid tähistuste vahel
+dk.tangramgames.mrrescue	Arkaad-stiilis tuletõrjemäng
+edu.berkeley.BOINC	Panustage arvutusvõimsusega projektidesse, mis teevad uurimistööd paljudes teadusvaldkondades
+edu.mit.Scratch	Looge lugusid, mänge ja animatsioone ning jagage neid teistega üle maailma
+edu.princeton.physics.WSJTX	Amatöörraadio nõrk signaal töötab
+edu.stanford.Almond	Avatud virtuaalne assistent
+edu.stanford.protege	Funktsiooniderikas ontoloogia redigeerimiskeskkond
+engineer.atlas.Nyxt	Häkkeri brauser
+es.estoes.wallpaperDownloader	Laadige alla, hallake ja muutke oma taustapilte automaatselt Internetist
+eu.ad5001.LogarithmPlotter	2D logaritmilise mõõtkavaga plotteri tarkvara Bode graafikute, jadade ja jaotusfunktsioonide tegemiseks
+eu.betterbird.Betterbird	Betterbird on Mozilla Thunderbirdi pehme kahvel. Lihtsalt parem.
+eu.cichy1173.tabela	Lihtne rakendus, mis kuvab tabelis CSV-sisu
+eu.ithz.umftpd	Juurdepääs oma failidele teisest seadmest
+eu.ngdevelopment.tsukitag	Anime pilditahvli brauser, koondaja, allalaadija, sildistaja, muundur, kogude haldur. Sirvige ja looge oma kogusid, konfigureerige tööruume piltide allalaadimiseks koos mallide toega.
+eu.nimmerfort.blackbody	Termogrammi vaataja
+eu.ototu.Quteqoin	Rakendus pour lire les tribunes
+eu.planete_kraus.Tarot	Mängige tehisintellekti vastu Tarot
+eu.scarpetta.PDFMixTool	Rakendus tavaliste PDF-failide redigeerimistoimingute tegemiseks
+eu.skribisto.skribisto	Tarkvara kirjutamiseks
+eu.stethewwolf.gresistor	Takisti värvikoodide kalkulaator
+eu.usdx.UltraStarDeluxe	Karaoke programm, mis hindab teie esinemist
+eu.vcmi.VCMI	Avatud lähtekoodiga mängumootor Heroes of Might and Magic III jaoks
+fi.mooc.tmc.tmc-cli-rust	TestMyCode'i programmeerimisülesannete hindaja CLI.
+fi.skyjake.Lagrange	Ilus Gemini klient
+fm.cancel.Ripcord	Alternatiivne lauaarvuti vestlusklient Slacki (ja Discordi) jaoks
+fm.helio.Workstation	Helio Project tasuta muusika koostamise tarkvara
+fm.reaper.Reaper	Digitaalne helitööjaam
+fr.dwightstudio.JArmEmu	Lihtne Java keeles kirjutatud ARMv7 simulaator, mis on mõeldud hariduslikuks otstarbeks
+fr.fgrabenstaetter.DigitalAssets	Krüptovaluutade hinnad ja statistika
+fr.free.brouits.qspeakers	Kõlari disaini tarkvara
+fr.free.Homebank	Tasuta, lihtne, personaalne raamatupidamine, kõigile
+fr.free.hxc2001.HxCFloppyEmulator	Tarkvara- ja riistvaralahendus vana disketi asendamiseks
+fr.free.qccrypt.Qccrypt	QT-põhine graafiline kasutajaliides krüptimise tööriista jaoks
+fr.handbrake.ghb	Video transkooder
+fr.henri2h.minestrix	Matrixil põhinev privaatsusele keskendunud sotsiaalmeedia
+fr.inria.corese.CoreseCommand	Avage semantilise veebi võimsus
+fr.inria.corese.CoreseGui	Avage semantilise veebi võimsus
+fr.masson_informatique.WhosWho	Looge PDF-dokumente inimeste piltide ja vastava nimega, mida nimetatakse ka kes on kes, aastaraamat või Facebook
+fr.natron.Natron	Avatud lähtekoodiga videote koostamise tarkvara
+fr.romainvigier.MetadataCleaner	Failide metaandmete vaatamine ja puhastamine
+fr.romainvigier.zap	Esitage helisid heliplaadilt
+fr.rubet.rpn	Reverse Poola notation CLI kalkulaator
+fr.sgued.ten_forward	NAT-PMP lüüsi juhtimine
+fun.vnote.app.VNote	Mõnus märkmete tegemise platvorm
+fyi.zoey.Boop-GTK	IvanMathy's Boopi port GTK-le, arendajatele mõeldud skriptitav märkmik.
+fyi.zoey.TeX-Match	Otsige üles LaTeX-i sümbolid visandades
+games.zetsubou.AnAdventurersGallantry	Häbistatud rüütel, õppiv Oren, saab selles fantaasiaga visuaalses romaanis seiklejana uue võimaluse
+games.zetsubou.HumanityMustPerish	Koomiline visuaalne romaan keskkoolitüdrukuks riietatud androidist, kes valmistub inimkonda hävitama
+games.zetsubou.MaxMassacre	Visuaalne romaan, mis toimub koletiste täis fantaasiamaailmas
+games.zetsubou.SablesGrimoireDemo	Koletisetüdruku visuaalne romaan, mille tegevus toimub mustkunstiakadeemias
+games.zetsubou.WanderNoMore	Visuaalne romaan, mis räägib loo petisest samuraist
+garden.turtle.Jellybean	Pea uuesti varutavate esemete arvu
+ga.rpmtw.rpmlauncher	Parem Minecrafti käivitaja, mis toetab mitut platvormi ja palju funktsioone, mida saate uurida!
+gg.guilded.Guilded	Sõnumside, hääl- ja videoklient
+gg.minion.Minion	The Elder Scrolls Online'i ja World of Warcrafti lisahaldur
+gg.tesseract.Tesseract	Esimese isiku laskur koos mängusisese kaarditöötlusega
+global.worldcoin.worldcoin-core	Piiridega eraldatud, tehnoloogiaga ühendatud
+hu.irl.cameractrls	Kaamera juhtnupud Linuxi jaoks
+hu.kramo.Cartridges	Käivitage kõik oma mängud
+id.sideka.App	Külavalitsuse platvorm
+il.co.ravkavonline.RavKavOnline	Laadige oma Rav-Kav-kaart koju ja reisige mugavalt
+im.bernard.Funkcio	Joonistage punktidest funktsioonid
+im.bernard.Nostalgia	Määrake ajaloolised GNOME taustapildid
+im.dino.Dino	Kaasaegne XMPP vestlusklient
+im.fluffychat.Fluffychat	Vestelge oma sõpradega
+im.gitter.Gitter	Suhtlustoode kogukondadele ja meeskondadele GitHubis.
+im.kaidan.kaidan	Kasutajasõbralik ja kaasaegne vestlusrakendus iga seadme jaoks
+im.pidgin.Pidgin	Kiirsuhtlusklient
+im.riot.Riot	Looge, jagage, suhelge, vestelge ja helistage turvaliselt ning ühendage teiste rakendustega
+im.srain.Srain	Kaasaegne GTK-s kirjutatud IRC klient
+in.bharatkalluri.shortcircuit	Arendaja märkmik
+in.bharatkalluri.splash	Määrake Unsplashist kõrgetasemelised töölauataustad!
+in.cinny.Cinny	Veel üks Matrixi klient lihtsa, elegantse ja turvalise liidesega.
+info.beyondallreason.bar	Totaalne hävitamine inspireeris RTS-i, mida olete oodanud
+info.bibletime.BibleTime	Piibliõppe programm
+info.cemu.Cemu	Nintendo Wii U emulaator
+info.colobot.Colobot	Koloniseerige robotitega
+info.febvre.Komikku	Lugege oma lemmikmangat
+info.mumble.Mumble	Madala latentsusega krüpteeritud VoIP-klient
+info.olasagasti.revelation	Paroolihaldur
+info.portfolio_performance.PortfolioPerformance	Jälgige investeerimisportfelli tootlust
+info.puredata.Pd	Reaalajas graafiline programmeerimiskeskkond elava interaktiivse arvutimuusika jaoks
+info.puredata.Pd-extended	Avatud lähtekoodiga visuaalne programmeerimiskeel multimeedia jaoks
+info.rttr.Return-To-The-Roots	Fänniprojekt, mis taastab The Settlers 2 mängu
+info.smplayer.SMPlayer	Suurepärane meediapleier
+info.urbanterror.UrbanTerror	Taktikaline esimese isiku tulistamismäng märulifilmi elementidega
+ink.scribl.Scribl	Looge lihtsaid õppevideoid
+in.p1x.TanksOfFreedom	Indie pöördepõhine strateegia isomeetrilises pikslipildis
+in.srev.guiscrcpy	Androidi ekraani peegeldamise tarkvara
+io.appflowy.AppFlowy	Avatud lähtekoodiga mõiste alternatiiv
+io.atom.Atom	Häkitav tekstiredaktor 21. sajandile
+io.bassi.Amberol	Mängib muusikat ja ei midagi muud
+io.beekeeperstudio.Studio	Teie unistuste SQL-i redaktor ja andmebaasihaldur
+io.blockloader.BlockLoader	Parim Minecrafti modihaldur
+io.botfather.Botfather	Universaalne automatiseerimisraamistik
+io.conduktor.Conduktor	Kaunis ja täisfunktsionaalne töölauaklient Apache Kafka jaoks
+io.crow_translate.CrowTranslate	Lihtne ja kerge tõlkija
+io.dbeaver.DBeaverCommunity	Universaalne andmebaasihaldur
+io.defn.Franz	Apache Kafka töölauaklient
+io.edcd.EDMarketConnector	Värskendab EDDN-i teie mängu andmetega
+io.emeric.toolblex	Bluetooth Low Energy seadme skanner ja analüsaator
+io.emeric.watchflower	Taimede jälgimise rakendus Bluetoothi madala energiatarbega andurite ja termomeetrite jaoks, nagu Xiaomi Flower Care või Parrot Flower Power
+io.enpass.Enpass	Enpass on paroolihaldur teie paroolide ja muude mandaatide turvaliseks salvestamiseks ja haldamiseks.
+io.exodus.Exodus	Kõik-ühes rakendus plokiahela varade turvamiseks, haldamiseks ja vahetamiseks
+io.frama.tractor.carburetor	Rakendus Onion Routing
+io.freetubeapp.FreeTube	Avatud lähtekoodiga YouTube'i rakendus privaatsuse tagamiseks
+io.gdevelop.ide	Kiire ja lihtne mängude tegemine
+io.gdevs.GDLauncher	GDLauncher on lihtne, kuid võimas Minecrafti kohandatud käivitaja, mis keskendub tugevalt kasutajakogemusele.
+io.github._0xzer0x.qurancompanion	Platvormideülene töölaua võrguühenduseta Koraani lugeja ja pleier
+io.github.aandrew_me.ytdn	Laadige alla videoid ja helisid sadadelt saitidelt
+io.github.achetagames.epic_asset_manager	Hallake oma Epic varasid
+io.github.Adda0.Stardrop	Stardropi mitteametlik kahvel kohandatud muudatustega
+io.github.adrienverge.PhotoCollage	Graafiline tööriist fotokollaažiplakatite tegemiseks
+io.github.aerocyber.sitemarker	Avatud lähtekoodiga järjehoidjate haldur
+io.github.aggalex.Wineglass	GUI veini jaoks
+io.github.alainm23.planify	Unustage asjade unustamine
+io.github.alexkdeveloper.gomoku	Gomoku mäng
+io.github.alexkdeveloper.radio	Lihtne raadio jaamadega veebisaidilt radio-browser.info
+io.github.alexkdeveloper.zodiac	Lihtne programm horoskoopide joonistamiseks
+io.github.am2r_community_developers.AM2RLauncher	Esiosa AM2R-i värskenduste ja modifikatsioonidega tegelemiseks
+io.github.am2r_community_developers.Atomic	Modifikatsiooni pakkimise tööriistakett AM2R modifikatsioonide jaoks.
+io.github.amit9838.weather	Ilus ja kerge ilmarakendus
+io.github.andreibachim.shortcut	Tehke rakenduse otseteed
+io.github.Andrettin.Wyrmsun	Ajalool, mütoloogial ja ilukirjandusel põhinev strateegiamäng
+io.github.anirbandey1.ChatbotClient	ChatGPT veebisaidi elektronümbris
+io.github.antimicrox.antimicrox	Graafiline programm, mida kasutatakse mängupuldi nuppude vastendamiseks klaviatuurile, hiirele, skriptidele ja makrodele
+io.github.appoutlet.GameOutlet	Leidke arvutimängude parimad hinnad
+io.github.Archeb.opentrace	Platvormideülene GUI ümbris NextTrace'i jaoks
+io.github.Arisotura.CoinKiller	Tasemeredaktor NSMB2 jaoks
+io.github.arunsivaramanneo.GPUViewer	Teenuste glxinfo, vulkaninfo, clinfo ja es2_info kasutajaliides
+io.github.Bavarder.Bavarder	Vestelge tehisintellektiga
+io.github.benini.scid	Male andmebaasi rakendus
+io.github.betaflight.BetaflightConfigurator	Platvormideülene konfiguratsioonitööriist Betaflighti lennujuhtimissüsteemi jaoks
+io.github.bkueng.qMasterPassword	Riigita peaparoolihaldur
+io.github.Bollos00.LibreMines	Tasuta/tasuta ja avatud lähtekoodiga tarkvara Qt-põhine Minesweeperi mäng, mis on saadaval GNU/Linuxi, FreeBSD ja Windowsi süsteemidele.
+io.github.bothlab.pomidaq	Vaadake ja salvestage UCLA miniskoopide videoid
+io.github.bothlab.syntalos	Sünkroonitud andmete hankimine erinevatest allikatest ja paindlik katse juhtimine
+io.github.brainstormtrooper.facteur	Saadab adressaatide loendile mallipõhiseid e-kirju
+io.github.brunoherbelin.Vimix	Video live mikser
+io.github.btpf.alexandria	Minimalistlik e-raamatute lugeja
+io.github.bytezz.IPLookup	Otsige teavet IP-aadressi kohta
+io.github.carterbox.Electricity_Clock	Kasutusaja jälgimine elektritariifide jaoks
+io.github.cboxdoerfer.FSearch	Graafilise failiotsingu rakendus
+io.github.celluloid_player.Celluloid	GTK+ esiosa mpv jaoks
+io.github.cges30901.hmtimer	Graafiline väljalülitustaimer
+io.github.chris2511.xca	X Sertifikaadi ja võtmehaldus
+io.github.ciromattia.kcc	Rakendus, mis võimaldab teil muuta oma PNG-, JPG-, GIF-, CBZ-, CBR- ja CB7-failid EPUB- või MOBI-vormingus e-raamatuteks
+io.github.cleomenezesjr.Escambo	Testige ja arendage API-sid
+io.github.cloose.CuteMarkEd	Qt Markdowni redaktor
+io.github.cmus.cmus	Konsooli muusikapleier
+io.github.Cockatrice.cockatrice	Virtuaalne lauaplaat mitme mängijaga kaardimängude jaoks
+io.github.congard.qnvsm	Nvidia süsteemimonitor Qt
+io.github.ctlcltd.e2se	Satelliitkanalite loendite redaktor: Enigma2, Neutrino, Dreambox
+io.github.cudatext.CudaText-Qt5	Avatud lähtekoodiga ja platvormideülene tekstiredaktor
+io.github.cxong.cdogs-sdl	Klassikaline pea kohal jooksmise ja relvaga mäng
+io.github.dagargo.Elektroid	Näidis- ja MIDI-seadmehaldur
+io.github.daviddesimone.opencloudsaves	Tööriist, mida kasutatakse salvestatud mängude sünkroonimiseks kõigis teie seadmetes
+io.github.davidoc26.wallpaper_selector	Laadib alla ja rakendab taustapilte
+io.github.dbchoco.muezzin	Islami palveaegade rakendus
+io.github.dbchoco.Salawat	Islami palveaegade rakendus
+io.github.ddanilov.soundscape	Töölaua helimaastiku rakendus
+io.github.dfandrich.gpscorrelate	GPS Correlate lisab piltidele EXIF GPS-i asukohasildid
+io.github.dgsasha.Remembrance	Määrake endale meeldetuletused
+io.github.dida_code.OpstaKultura	Mäng, teadmiste viktoriin
+io.github.diegoivan.GaticTacToe	Mängige oma sõpradega Tic-tac-toe'i
+io.github.diegoivanme.flowtime	Kuluta oma aega targalt
+io.github.diegoivan.pdf_metadata_editor	Redigeerige PDF-dokumendi metaandmeid
+io.github.diegopvlk.Dosage	Jälgige oma ravimeetodeid
+io.github.dimtpap.coppwr	PipeWire'i madala taseme juhtimise GUI
+io.github.divverent.aaaaxy	Mittelineaarne pusleplatvorm, mis toimub võimatutes ruumides
+io.github.dlippok.photometric-viewer	Fotomeetriliste failide vaatamine
+io.github.dman95.SASM	Lihtne platvormideülene IDE NASM, MASM, GAS ja FASM montaažikeelte jaoks
+io.github.dosbox-staging	DOS/x86 emulaator, mis keskendub kasutusmugavusele
+io.github.Dretch.MonomerFlatpakExample	Monomeer Flatpak Näidisrakendus.
+io.github.dtsudo.ChessCompStompWithHacks	Lüüa male AI kasutades häkkisid!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Speedrun läbi 10 taseme, kasutades salvestusolekuid!
+io.github.dubstar_04.design	2D CAD GNOME jaoks
+io.github.dummerle.rare	GUI legendaarsele, avatud lähtekoodiga Epic Gamesi alternatiivile
+io.github.dvlv.boxbuddyrs	Graafiline Distrobox Manager
+io.github.dweymouth.supersonic	Kerge platvormideülene töölauaklient Subsonic ja Jellyfin muusikaserverite jaoks
+io.github.dyegoaurelio.simple-wireplumber-gui	Lihtne GTK4 GUI PipeWire'i jaoks
+io.github.ec_.Quake3e.OpenArena	Tasuta ja avatud lähtekoodiga esimese isiku tulistamismäng
+io.github.eminfedar.vaktisalah-gtk-rs	Vakt-i Salah (Prayer Times) GTK4 versioon
+io.github.endless_sky.endless_sky	Kosmoseuurimis- ja võitlusmäng
+io.github.erkin.ponysay	cowsay reimplementation ponidele
+io.github.ezQuake	kaasaegne QuakeWorldi klient, mis keskendub konkurentsivõimelisele võrgumängule
+io.github.everestapi.Olympus	Platvormideülene Celeste Mod Manager
+io.github.f3d_app.f3d	Kiire ja minimalistlik 3D-vaatur
+io.github.fabiangreffrath.Doom	Piiranguid eemaldav täiustatud eraldusvõimega Doomi allikaport
+io.github.fabrialberio.pinapp	Rakenduse otseteede loomine ja muutmine
+io.github.FailurePoint.RandomNumberFive	Juhuslike numbrite generaator Linuxi töölaua jaoks!
+io.github.fastrizwaan.WineZGUI	Veini GUI Zenity abil
+io.github.ferraridamiano.ConverterNOW	Lihtne, vahetu ja kiire ühikumuundur!
+io.github.Figma_Linux.figma_linux	Veebipõhine koostöö kujundamise tööriist
+io.github.fin_ger.OvGUCanteen	Vaadake OvGU Mensa menüüd väikeses GTK rakenduses
+io.github.fizzyizzy05.binary	Numbribaasi muundur
+io.github.fkinoshita.Telegraph	Morse kirjutamine ja dekodeerimine
+io.github.flattool.Warehouse	Hallake kõiki Flatpaki asju
+io.github.Fndroid.clash_for_windows	Clashi graafiline klient, mis põhineb Electronil.
+io.github.Foldex.AdwSteamGtk	Andke Steamile Adwaita ravi
+io.github.Foldex.r2mod	Vihmaoht 2 Mod Manager
+io.github.foldynl.QLog	Amatöörraadio logiraamat
+io.github.foxxmd.multiscrobbler	Scrobbleb muusikat paljudest allikatest paljudele klientidele
+io.github.fragglet.sdl_sopwith	Klassikaline biplaan shoot ‘em-up
+io.github.fralonra.PpdEditor	2D pabernuku redaktor
+io.github.fralonra.WgShadertoy	Shadertoyst inspireeritud WGSL-i mänguväljak
+io.github.freedoom.FreeDM	Deathmatch mäng, mis põhineb Doomi mootoril
+io.github.freedoom.Phase1	Doomi mootoril põhinev esimese isiku tulistamismäng
+io.github.freedoom.Phase2	Doomi mootoril põhinev esimese isiku tulistamismäng
+io.github.fsobolev.TimeSwitch	Määrake taimeri järel käivitatav ülesanne
+io.github.gamingdoom.Datcord	Avatud lähtekoodiga Discordi klient, mis kasutab Firefoxi
+io.github.garglk.Gargoyle	Interaktiivne ilukirjanduse mängija
+io.github.gen2brain.cbconvert	Koomiksite konverter
+io.github.gerryferdinandus.bittorrent-tracker-editor	Torrent-failide jälgija lisamine või eemaldamine.
+io.github.giantpinkrobots.bootqt	Looge buutivad draivid
+io.github.giantpinkrobots.flatsweep	Flatpak puhastusvahendi jäägid
+io.github.giantpinkrobots.varia	Laadige failid alla kiiresti ja tõhusalt
+io.github.gillesdegottex.FMIT	Tasuta muusikariistade tuuner (FMIT), tööriist muusikariistade häälestamiseks
+io.github.glitterware.Passy	Võrguühenduseta paroolihaldur koos platvormidevahelise sünkroonimisega
+io.github.GoldenGnu.jEveAssets	jEveAssets on Eve-Online'i mänguväline varahaldur
+io.github.gopher64.gopher64	Nintendo 64 emulaator
+io.github.gssh_linux.gssh	Pythoni rakendus, mis võimaldab teil luua ühenduse ssh-serveritega (tõeliselt) lihtsa GUI kaudu
+io.github.gtkwave.GTKWave	Elektrooniline lainekuju vaataja simulatsioonitulemuste vaatamiseks
+io.github.guillaumechereau.Goxel	Avatud lähtekoodiga 3D-voksliredaktor
+io.github.hakandundar34coding.mini-system-monitor	Protsessori, RAM-i, ketta, võrgukasutuse jälgimine
+io.github.hakandundar34coding.system-monitoring-center	Mitme funktsiooniga süsteemimonitor
+io.github.hakuneko.HakuNeko	Platvormideülene allalaadija mangade ja animede jaoks erinevatelt veebisaitidelt
+io.github.helpseeker.Gyre	Coubi videote allalaadija
+io.github.hermitdemschoenenleben.linien	Spektroskoopia lukk
+io.github.Hexchat	IRC klient
+io.github.hmlendea.geforcenow-electron	Mitteametlik rakendus GeForce NOW, mis on kirjutatud Electronis
+io.github.hrkfdn.ncspot	Platvormideülene ncurses Spotify klienti
+io.github.huderlem.porymap	Kaardiredaktor Pokémoni põlvkonna 3 dekompileerimisprojektide jaoks
+io.github.hurricangame.hurrican	Poke53280 loodud vabavaraline hüppamise ja tulistamise mäng
+io.github.hvdwofl.jExifToolGUI	ExifTooli lihtne kasutajaliides
+io.github.hydrusnetwork.hydrus	Korraldage meediumit töölaual
+io.github.hypengw.Qcm	Qt klient Netease'i pilvemuusika jaoks
+io.github.Icalingua.Icalingua	Linuxi klient QQ ja muu jaoks
+io.github.idevecore.CurrencyConverter	Lihtne valuutamuundur, mis kasutab Google'i-põhiseid andmeid
+io.github.igaldino.CoyoteTM	Hallake ülesandeid nagu koiott
+io.github.igorlogius.scr2ppm	Kõige pisem X11 ekraanipilt ehk. ekraanipildi utiliit
+io.github.ihhub.Fheroes2	fheroes2 on Heroes of Might and Magic II mängumootori rekreatsioon
+io.github.ilius.pyglossary	Tööriist sõnastikufailide ehk sõnastikute teisendamiseks.
+io.github.ImEditor	Lihtne ja mitmekülgne pildiredaktor
+io.github.iSlammedMyKindle.godotGem	Kontrolleri klient Windowsi jaoks mõeldud xbox360 kontrolleri emuleerimiseks
+io.github.ja2_stracciatella.JA2-Stracciatella	Täiustatud, platvormideülene ja stabiilne Jagged Alliance 2 käitusaeg
+io.github.jacalz.rymdport	Kiire, krüpteeritud failiedastus
+io.github.JaGoLi.ytdl_gui	Lihtsalt kasutatav platvormideülene graafiline liides youtube-dl jaoks.
+io.github.JakubMelka.Pdf4qt	Avatud lähtekoodiga PDF-redaktor
+io.github.janbar.noson	Kontroller SONOSe jaoks
+io.github.java_decompiler.jd-gui	Eraldiseisev graafiline utiliit, mis kuvab Java allikaid CLASS-failidest
+io.github.jean28518.Linux-Assistant	Igapäevane linuxi abimees võimsa integreeritud otsingu, rutiinide ja kontrollidega
+io.github.jeffshee.Hidamari	Videotapeet Linuxile
+io.github.jhaygood86.mauborgne	2FA OTP koodigeneraator
+io.github.jliljebl.Flowblade	Videoredaktor – kiire, täpne, stabiilne
+io.github.jonmagon.kdiskmark	Ketta võrdlusuuringu tööriist
+io.github.jorchube.monitorets	Vaadake alati lühidalt süsteemiressursside kasutamist
+io.github.jordanl2.ModularCalculator	Võimas, skriptitav, modulaarne kalkulaator, mis on mõeldud teaduslikuks, inseneri- või andmetöötluseks.
+io.github.jotd666.gods-deluxe	Platvormimängu uusversioon
+io.github.jtdx_project.JTDX	jtdx (kahvliga WSJT-X amatöörraadioside jaoks)
+io.github.julian_hochhaus.LG4X_V2	Pythoni pakett XPS-i kõverate sobitamise analüüsiks
+io.github.kaii_lb.hgui	Rakendus, mis on loodud lihtsaks ja võrguühenduseta teisendamiseks Hijri ja Gregoriuse kuupäevade vahel (ja vastupidi)!
+io.github.kalaksi.Lightkeeper	Eraldi kohandatav serverihaldustööriist
+io.github.kaschpal.timetable	Kalender/planeerija õpetajatele ja võib-olla ka õpilastele
+io.github.kevinsmia1939.PySimpleCV	Joonis Tsükliline voltammogramm ja akutsükkel
+io.github.KikoPlayProject.KikoPlay	MITTE AINULT täisfunktsionaalne Danmu mängija
+io.github.koromelodev.mindmate	ChatGPT mitteametlik rakendus
+io.github.kotatogram	Kotatogram Desktop Messenger
+io.github.ktgw0316.LightZone	Kaamera RAW pildiprotsessor
+io.github.kukuruzka165.materialgram	Mitteametlik Telegrami töölaua sõnumsiderakendus
+io.github.labsquare.CutePeaks	eraldiseisev Sangeri jäljevaatur
+io.github.lainsce.Colorway	Loo värvipaarid
+io.github.lainsce.Countdown	Jälgige sündmusi kuni nende toimumiseni või pärast nende toimumist
+io.github.lainsce.DotMatrix	Joonede ja kõverate loovuse mängumaa
+io.github.lainsce.Emulsion	Varu värve
+io.github.lainsce.Khronos	Registreerige ülesannete täitmiseks kulunud aeg
+io.github.lainsce.Notejot	Pange oma ideed kirja
+io.github.lainsce.Quilter	Keskendu oma kirjutamisele
+io.github.lemmygtk.lemoa	Gtk klient Lemmy jaoks
+io.github.leolost2605.gradebook	Jälgige oma hindeid
+io.github.leonardschardijn.Chirurgien	Binaarfailivormingute mõistmine ja nendega manipuleerimine
+io.github.lethal_guitar.RigelEngine	Klassikalise DOS-mängu Duke Nukem II kaasaegne taasteostus
+io.github.letslearn_app.letslearn	Korraliku välimusega avatud lähtekoodiga märkmerakendus
+io.github.libvibrant.vibrantLinux	Süsteemi utiliit X11 ekraanide värviküllastuse reguleerimiseks
+io.github.limads.Queries	Töölaud relatsiooniandmebaasidega suhtlemiseks.
+io.github.listen1.Listen1	Üks kõigile tasuta muusikale Hiinas
+io.github.loot.loot	Modifitseerimisutiliit Starfieldi ja mõne Elder Scrollsi ja Fallouti mängude jaoks
+io.github.lruzicka.Needly	Pythonis kirjutatud openQA nõelaredaktor
+io.github.ltiber.Pwall	sirvida oma fotosid/videoid
+io.github.lunarequest.NightPDF	Tume režiimi PDF-lugeja
+io.github.lxndr.gswatcher	Lihtne mänguserveri monitor ja haldustööriist.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA on Doom 3 BFG GPL-i lähteport
+io.github.magnush.mhWaveEdit	mhWaveEdit on graafiline programm helifailide redigeerimiseks
+io.github.mahmoudbahaa.outlook_for_linux	Mitteametlik Microsoft Outlooki klient Linuxile, mis kasutab Electronit
+io.github.mak448a.QTCord	Discordi klient
+io.github.MakovWait.Godots	Godoti mängumootori versioonihaldur
+io.github.mandruis7.xbox-cloud-gaming-electron	Avatud lähtekoodiga Xbox Cloud Electroni klient
+io.github.manisandro.gImageReader	Graafiline (gtk) kasutajaliides tesseract-ocr
+io.github.markummitchell.Engauge_Digitizer	interaktiivselt teisendada bitmap graafikut või kaarti numbriteks
+io.github.martinrotter.rssguard	Lihtne, kuid võimas uudistevoo lugeja
+io.github.martinrotter.rssguardlite	Lihtne, kuid võimas uudistevoo lugeja (ilma sisseehitatud veebibrauserita)
+io.github.martinrotter.textosaurus	Lihtne platvormideülene tekstiredaktor, mis põhineb Qt-l ja QScintillal
+io.github.maurycyliebner.enve	2D animatsioon
+io.github.mgerhardy.vengi.voxedit	voksliredaktor
+io.github.mideb.digitales_register	Inoffizieller Client für das Digitale Register
+io.github.mightycreak.Diffuse	Graafiline tööriist tekstifailide liitmiseks ja võrdlemiseks
+io.github.mihnea_radulescu.imagefanreloaded	Kerge vahekaardipõhine pildivaatur, mis toetab mitmetuumalist töötlust
+io.github.mimbrero.WhatsAppDesktop	Mitteametlik WhatsApp Web Desktopi klient.
+io.github.mki1967.mki3dgame	Lihtne OpenGL-mäng žetoonide otsimiseks 3D-etappides
+io.github.mmarco94.tambourine	Lihtne muusikapleier teie raamatukogu jaoks
+io.github.mmstick.FontFinder	Fondibrauser
+io.github.mpobaschnig.Vaults	Hoidke olulised failid turvaliselt
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] Budistlik tekstilugeja, mis kasutab CBETA API-sid.
+io.github.mrvladus.List	Hallake oma ülesandeid
+io.github.muse_sequencer.Muse	Digitaalne helitööjaam
+io.github.myst6re.makoureactor	Final Fantasy VII välitoimetaja
+io.github.naikari.Naikari	2-D vabakujuline kosmosemüsteeriumimäng
+io.github.najepaliya.kleaner	Piltide metaandmete puhastaja
+io.github.narunlifescience.AlphaPlot	AlphaPlot on tasuta rakendus teaduslikuks andmete analüüsiks ja visualiseerimiseks
+io.github.nate_xyz.Chromatic	Viimistlege oma instrumente
+io.github.nate_xyz.Conjure	Muutke pilte maagiliselt
+io.github.nate_xyz.Paleta	Looge hõlpsalt värvipalette
+io.github.nate_xyz.Resonance	Ühtlustage oma kuulamiskogemust
+io.github.nearinfinitybrowser.nearinfinity	Infinity mootori ressursibrauser ja redaktor
+io.github.neil_morrison44.pocket-sync	GUI analoogtaskuga asjade tegemiseks
+io.github.NhekoReborn.Nheko	Matrixi protokolli töölauaklient
+io.github.NickKarpowicz.LightwaveExplorer	Tõhus ja kasutajasõbralik lahendaja mittelineaarseks valgusaine interaktsiooniks
+io.github.nokse22.asciidraw	Joonistage ASCII-märkide abil
+io.github.nokse22.inspector	Vaadake teavet oma süsteemi kohta
+io.github.nokse22.minitext	Efemeerne kriimustuslapp
+io.github.nokse22.teleprompter	Kuvage ekraanil keritav tekst
+io.github.nokse22.trivia-quiz	Vastake lõpututele küsimustele
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	D-Stari klient arvutile
+io.github.noxworld_dev.OpenNox	OpenNox on Noxi mängumootori kaasaegne teostus
+io.github.nroduit.Weasis	Tasuta/tasuta/avatud meditsiiniline DICOM-vaatur
+io.github.nuttyartist.notes	Märkmete tegemise rakendus. Pane oma mõtted kirja
+io.github.obiwankennedy.HotShots	Võimas ja lihtsalt kasutatav ekraanipildi tarkvara
+io.github.onionware_github.onionmedia	Tasuta meedia allalaadija ja teisendaja – platvormidevaheline
+io.github.openhv.OpenHV	Avatud lähtekoodiga 90ndate Pixelart Sci-Fi reaalajas strateegiamäng
+io.github.OpenToonz	2D animatsioon
+io.github.orontee.Argos	Kerge esiosa Mopidy muusikaserveri jaoks
+io.github.paledega.alpine-rootfs	Alpine Linuxi alamsüsteem
+io.github.parnassius.SysDVR-Qt	Voog Lülitage mänge USB või võrgu kaudu arvutisse
+io.github.pastthepixels.InfiniteShooter	Godoti mootoriga tehtud lihtsustatud tulistaja.
+io.github.paulwedeck.settlers-remake	The Settlers III uusversioon Windowsi, Linuxi, Maci ja Androidi jaoks
+io.github.pd_l2ork.Pd_L2Ork	Avatud lähtekoodiga visuaalne programmeerimiskeel multimeedia jaoks, mis põhineb Pure Datal
+io.github.peazip.PeaZip	Tasuta failiarhiivi utiliit, avage, ekstraheerige RAR TAR ZIP-arhiive
+io.github.petitlapin.Li-ri	Lastemäng, sõitke mänguasja puidumootoriga
+io.github.phastmike.tags	Värvilogid siltide alusel
+io.github.philipk.boilr	Lisage oma Steami kogusse mitte-steami mänge
+io.github.Pithos	Pandora raadio klient
+io.github.polypixeldev.Polypass	Lihtne, turvaline ja hõlpsasti kasutatav paroolihaldur
+io.github.pragha_music_player.pragha	Hallake ja kuulake oma muusikat
+io.github.prateekmedia.appimagepool	Lihtne ja kaasaegne AppImageHubi klient.
+io.github.prateekmedia.pstube	Youtube'i klient, mis on tehtud flutteriga
+io.github.pr_starfighter.starfighter	Space shoot 'em up mäng.
+io.github.punesemu.puNES	Nintendo Entertainment System emulaator
+io.github.purplehorrorrus.Meridius	Muusikapleier vk.com jaoks
+io.github.pwr_solaar.solaar	Linuxi haldur Logitechi klaviatuuride, hiirte ja puuteplaatide jaoks
+io.github.pyfa_org.Pyfa	Pythoni paigaldamise assistent EVE jaoks: võrgus
+io.github.Qalculate	Võimas ja hõlpsasti kasutatav kalkulaator
+io.github.Qalculate.qalculate-qt	Võimas ja hõlpsasti kasutatav kalkulaator
+io.github.qier222.YesPlayMusic	Kõrge välimusega kolmanda osapoole Netease CloudMusic Player
+io.github.qnapi	Tarkvara filmide subtiitrite allalaadimiseks ja automaatseks sobitamiseks
+io.github.qtox.qTox	Võimas Toxi vestlusklient, mis järgib Toxi disainijuhiseid.
+io.github.quodlibet.ExFalso	Muutke oma helifailides silte
+io.github.quodlibet.QuodLibet	Kuulake, sirvige või muutke oma helikogu
+io.github.qwersyk.Newelle	Vestlusbot, mis juhib teie arvutit
+io.github.rafaelfassi.QLogExplorer	Kiire logiuurija täiustatud tööriistadega
+io.github.randovania.Randovania	Juhusliku valiku platvorm paljude mängude jaoks
+io.github.Rangi42.polished-map	Redigeerige pokecrystal kaarte ja plaatide komplekte
+io.github.Rangi42.polished-map-plusplus	Redigeerige pokecrystal kaarte ja plaatide komplekte
+io.github.Rangi42.tilemap-studio	Game Boy, Color, Advance, DS ja SNES projektide plaadikaardi redaktor
+io.github.realmazharhussain.GdmSettings	Kohandage oma sisselogimiskuva
+io.github.retgal.Dayon	Kaugabi on tehtud lihtsaks!
+io.github.retux_game.retux	Märuliplatvorm, mille peaosas on Linuxi maskott Tux
+io.github.rinigus.OSMScoutServer	Kaardiserver, mis pakub paanid, geokooder ja ruuter
+io.github.rinigus.PureMaps	Kaardid ja navigeerimine
+io.github.ripose_jp.Memento	Mpv-põhine videopleier jaapani keele õppimiseks
+io.github.Rirusha.Cassette	Mitteametlik Yandex.Music klient
+io.github.RobertBeckebans.RBDoom3BFG-GL	DOOM-3-BFG moderniseerimine
+io.github.rocket.editor	raketi toimetaja
+io.github.RodZill4.Material-Maker	Protseduurilise tekstuuri genereerimise ja võrgu värvimise tööriist
+io.github.sameboy.SameBoy	Game Boy ja Game Boy värvi emulaator
+io.github.santiagocezar.maniatic-launcher	Käivitusprogramm Retro Engine (v5) dekompileerimiseks
+io.github.seadve.Breathing	Lõdvestu ja mediteeri
+io.github.seadve.Kooha	Elegantselt salvestada ekraani
+io.github.seadve.Mousai	Tuvasta laule sekunditega
+io.github.searchandrescue2.sar2	Päästehelikopteri simulaator
+io.github.Sebicodes99.Prt	Pythoni pesarakendus, mis võimaldab sõbral lihtsa graafilise kasutajaliidese abil oma süsteemis käske täita ilma porte avamata või ssh-serverit kasutamata
+io.github.sharkwouter.Minigalaxy	Lihtne GOG-i klient Linuxi jaoks
+io.github.sharkwouter.oceanpop	Lõõgastav match 3 puslemäng keerdkäiguga
+io.github.shiftey.Desktop	Lihtne koostöö teie töölaualt
+io.github.shiiion.primehack	Dolphin Emu kahvel erinevate Metroid Prime'i modifikatsioonide jaoks
+io.github.sigmasd.IRust	Rooste repl
+io.github.sigmasd.stimulator	Hoidke töölaud ärkvel
+io.github.signus_game.signus	Käigupõhine strateegiamäng
+io.github.sil_car.SqueezeVid	Normaliseerige videod minimaalsele, projektsiooniga ühilduvale kvaliteedile.
+io.github.simple64.simple64	Nintendo 64 emulaator
+io.github.sithlord48.blackchocobo	Final Fantasy VII salvestamise redaktor
+io.github.slgobinath.SafeEyes	Tasuta ja avatud lähtekoodiga tööriist Linuxi kasutajatele korduvate pingekahjustuste (RSI) vähendamiseks ja vältimiseks.
+io.github.Snaggly.PS2_Pnacher	Pnaches'i rakendamine otse PS2 ISO-dele.
+io.github.snesrev.Zelda3	Zelda3 on Zelda pöördprojekteeritud kloon – link minevikku
+io.github.Soundux	Platvormideülene heliplaat
+io.github.spacingbat3.webcord	Veebipõhine Discordi ja Fosscordi klient, mis on valmistatud Electroniga
+io.github.srb2.rphys	Mänguviisi kapitaalremont Sonic Robo Blast 2 jaoks
+io.github.stella_emu.Stella	Mitmeplatvormiline Atari 2600 VCS emulaator
+io.github.streetpea.Chiaki4deck	Tasuta avatud lähtekoodiga klient PlayStation Remote Play jaoks, muudetud Steam Decki jaoks
+io.github.Sunderland93.sway-input-config	Sway sisendseadme konfiguraator
+io.github.swanux.hbud	Lihtne heli-/videopleier ja karaokerakendus, mis on kirjutatud Pythonis ja GTK4-s
+io.github.zaps166.QMPlay2	Video- ja helipleier
+io.github.zhrexl.thisweekinmylife	See on kaban stiilis planeerija, kuhu kasutaja saab sisestada kaardid ülesannetega.
+io.github.zyedidia.micro	Kaasaegne ja intuitiivne terminalipõhine tekstiredaktor
+io.github.tcobbs.LDView	LDraw mudelivaatur
+io.github.tdesktop_x64.TDesktop	Telegrami sõnumsiderakenduse mitteametlik töölauaversioon
+io.github.technic.e2designer	Qt5-ga kirjutatud enigma2 naharedaktor
+io.github.tfuxu.Halftone	Andke oma piltidele pikslite kunstilaadne stiil
+io.github.thaunknown.miru	Miru – Bittorrenti voogedastustarkvara kassidele
+io.github.TheThirdOne.rars	RISC-V koostaja ja käitusaja simulaator
+io.github.thetumultuousunicornofdarkness.cpu-x	Kogub teavet protsessori, emaplaadi ja muu kohta
+io.github.TheWisker.Cavasik	CAVA-l põhinev audiovisualisaator
+io.github.thiefmd.themegenerator	Looge stiile stiili abil.
+io.github.tlcfem.suanPan	🧮 avatud lähtekoodiga, paralleelse ja heterogeense lõplike elementide analüüsi raamistik
+io.github.tntwise.REAL-Video-Enhancer	Tasuta avatud lähtekoodiga video täiustamise tööriist
+io.github.torrent_file_editor.Torrent-file-editor	Redigeeri ja loo .torrent-faile
+io.github.trackballs.Trackballs	Juhtige marmorpall läbi labürindi
+io.github.tralph3.Steam_Metadata_Editor	Lihtsalt kasutatav GUI, mis muudab teie Steami rakenduste metaandmeid
+io.github.TransmissionRemoteGtk	Edastus BitTorrenti klienti kaughaldamine
+io.github.trevorsandy.LPub3D	LPub3D – LDraw ehitusjuhiste redaktor
+io.github.trigg.discover_overlay	Graafiline ülekate Discordi häälvestluse jaoks.
+io.github.troyeguo.koodo-reader	Platvormiülene e-raamatute lugeja
+io.github.trytonvanmeer.DungeonJournal	5e tähemärgi juht
+io.github.TTimo.GtkRadiant	ID Techil põhinevate mängude, sealhulgas Quake seeria taseme redaktor
+io.github.twanvl.MagicSetEditor2	Programm, mida kasutatakse kohandatud kaartide valmistamiseks
+io.github.unicornyrainbow.secrets	Looge hõlpsalt paroole vastavalt oma vajadustele
+io.github.unknownskl.greenlight	Greenlight on avatud lähtekoodiga klient xCloudi ja Xboxi kodu voogesituse jaoks
+io.github.unrud.RecentFilter	Välistage failid ja kaustad hiljuti kasutatud failidest
+io.github.vemonet.EmojiMart	Moodne hüpikakna emotikonide valija töölauale, mis põhineb Emoji Mart veebikomponendil.
+io.github.veusz.Veusz	Teadusliku joonistamise pakett
+io.github.vikdevelop.SaveDesktop	Salvestage oma töölauakeskkonna praegune konfiguratsioon
+io.github.vinser.burnfix	Proovige parandada ekraanipildi peidust ja sissepõlemist, otsige ekraani defekte
+io.github.vinser.pixyne	Vaadake kiiresti üle fotokaustad, kustutage turvaliselt halvad jms kaadrid, parandage pildistamiskuupäevad
+io.github.voxelcubes.deepqt	Kasutage selle sõbraliku kasutajaliidese abil DeepL API võimsust
+io.github.voxelcubes.panelcleaner	AI-toega tööriist mangapaneelide puhastamiseks
+io.github.webcamoid.Webcamoid	Pildistage ja salvestage videoid oma veebikaameraga
+io.github.weclaw1.ScoreTracker	Rakendus mängijate tulemuste jälgimiseks kaardi- ja lauamängudes
+io.github.wereturtle.ghostwriter	Markdowni tähelepanu hajutav tekstiredaktor
+io.github.wh201906.serialtest	Platvormideülene testimistööriist jadapordi, Bluetoothi, TCP ja UDP jaoks
+io.github.wojciech_graj.OrbVis	Reaalajas satelliidi orbiidi visualiseerija
+io.github.wxmaxima_developers.wxMaxima	Võimsa arvutialgebrasüsteemi Maxima graafiline kasutajaliides
+io.github.xaos_project.XaoS	Kiire interaktiivne reaalajas fraktaalsuum/morpher
+io.github.xiaoyifang.goldendict_ng	Täiustatud sõnastiku otsinguprogramm
+io.github.xolatgames.marknpaul	Hakka võluriks!
+io.github.xverizex.nem_desktop	Vestelge sõpradega.
+io.github.xverizex.RetroSpriteEditor	Pixel Editor retrokonsoolidele
+io.github.xyproto.zsnes	Super Nintendo emulaator
+io.github.yairm210.unciv	Käigupõhine strateegiamäng
+io.github.yamanqd.antware	FPS-mäng.
+io.github.Youda008.DoomRunner	ZDoomi ja selle derivaatide eelseadistatud graafiline käivitaja
+io.gitlab.adhami3310.Converter	Teisendage ja manipuleerige pilte
+io.gitlab.adhami3310.Footage	Lihvige oma videoid
+io.gitlab.adhami3310.Impression	Looge buutivad draivid
+io.gitlab.azymohliad.WatchMate	Hallake oma PineTime'i
+io.gitlab.ballz.Ballz	Platvormi-/mõistatusmäng, kus juhite veerevat palli
+io.gitlab.celleron56.libretile	avatud lähtekoodiga mängumootori asi
+io.gitlab.coolreader_ng.crqt-ng	Platvormiülene avatud lähtekoodiga e-raamatute lugeja
+io.gitlab.cyberphantom52.sudoku_solver	Lihtne Sudoku Sovler
+io.gitlab.daikhan.stable	Esitage stiilselt videoid/muusikat
+io.gitlab.dev_nis.one-click-backup	Lihtne programm kaustade varundamiseks välisesse asukohta, kopeerides need
+io.gitlab.floodlight.Presenter	Tasuta, tasuta avatud lähtekoodiga esitlus- ja laulusõnade programm
+io.gitlab.Goodvibes	Esitage veebiraadiod
+io.gitlab.gregorni.Calligraphy	Muutke oma tekst ASCII bänneriteks
+io.gitlab.gregorni.Letterpress	Looge kaunist ASCII kunsti
+io.gitlab.gwendalj.package-transporter	Teisaldage oma rakendused installide vahel
+io.gitlab.idevecore.Pomodoro	Pomodoro on tootlikkusele keskendunud taimer
+io.gitlab.jazztickets.choria	Lõpuks MMORPG, mis on mõeldud lihvimiseks ja kodutööde tegemiseks.
+io.gitlab.jazztickets.emptyclip	Empty Clip on ülalt-alla tulistamismäng.
+io.gitlab.jazztickets.irrlamb	3D füüsikamäng, milles juhite sinist energiapalli, püüdes puudutada kõiki hõõguvaid kere
+io.gitlab.jazztickets.openflap	Mäng pallide põrkamisest läbi lõputute torude vahe
+io.gitlab.leesonwai.Sums	Arvutage postfiksi tähistusega
+io.gitlab.leesonwai.Tactics	Koostage oma jalgpallikoosseis
+io.gitlab.librewolf-community	LibreWolfi veebibrauser
+io.gitlab.news_flash.NewsFlash	Hoidke end oma voogudega kursis
+io.gitlab.o20.word	Avatud lähtekoodiga MS Word 2019 kloon... Linuxile
+io.gitlab.osslugaru.Lugaru	Kolmanda isiku ninja-jänese võitlusmäng
+io.gitlab.persiangolf.voicegen	Teisendage tekst lihtsalt kõneks
+io.gitlab.stone_kingdoms.StoneKingdoms	Avatud lähtekoodiga Strongholdi fännide uusversioon
+io.gitlab.zehkira.Monophony	Voogesitage muusikat YouTube Musicust
+io.gitlab.theevilskeleton.Upscaler	Kallis ja täiustage pilte
+io.gitlab.Turtlico	Programmeerimisvahend õppimiseks
+io.howl.Editor	Kerge toimetaja klaviatuurikeskse minimalistliku liidesega
+io.itch.azagaya.Laigter	Tööriist normaalsete, spekkulaarsete, oklusiooni- ja parallaksikaartide loomiseks 2D-tekstuuride jaoks
+io.itch.doctorm64.skippybot	Skippy on eepilisel otsingul, et selgitada välja oma tõeline saatus.
+io.itch.domestique_baston.domestique_baston	1 vs 1 võitlusmäng
+io.itch.drwhut.TabletopClub	Mängige lauamänge füüsikapõhises 3D-liivakastis
+io.itch.itch	Installige, värskendage ja mängige indie-mänge
+io.itch.keyikedalube_ndang.Type-Off	Lühike 6-minutiline tippimiskiiruse mäng
+io.itch.nordup.TheGates	Reisige erinevatesse maailmadesse, mille on loonud arendajad üle kogu maailma!
+io.jamulus.Jamulus	Jamulus. Interneti Jam Session tarkvara
+io.jor.bugdom	Päästke Bugdom Thoraxi kurjade tulisipelgate eest
+io.jor.bugdom2	Jälgige Bully Bee'i ja tooge oma seljakott tagasi!
+io.jor.mightymike	Võimas päästetöö hulluks läinud mänguasjapoes!
+io.jor.nanosaur	Saatke dinosauruste munad tulevikku, enne kui meteoor Maad tabab!
+io.jor.nanosaur2	Lennake pterodaktüüliga, mis on laetud kõrgtehnoloogiliste relvadega
+io.jor.ottomatic	Päästke Maa planeedi X hiiglasliku aju küüsist
+io.kapsa.drive	Zero Knowledge E2E krüptitud salvestusruum, mis ühildub mis tahes S3 pakkujaga
+io.kinvolk.Headlamp	Lihtsalt kasutatav ja laiendatav veebikasutusliides Kubernetese jaoks
+io.kopia.KopiaUI	Varulahendus
+io.liri.Calculator	Tehke aritmeetilisi või teaduslikke arvutusi
+io.liri.Text	Redigeeri tekstifaile
+io.lmms.LMMS	Muusika tootmise rakendus
+io.mango3d.LycheeSlicer	Võimas ja mitmekülgne viilutaja vaigu- ja filament-3D-printeritele
+io.mgba.mGBA	Nintendo Game Boy Advance emulaator
+io.missioncenter.MissionCenter	Jälgige süsteemi ressursside kasutamist
+io.mpv.Mpv	Tasuta avatud lähtekoodiga ja platvormideülene meediapleier
+io.mrarm.mcpelauncher	Laadige alla ja mängige Minecraft Bedrock Editioni GNU/Linuxis
+io.naox.InnerBreeze	Meditatsioonirakendus, mis juhendab ja jälgib teie Wim Hofi hingamispraktikat
+io.neovim.nvim	Vim-fork keskendus laiendatavusele ja kasutatavusele
+io.openrct2.OpenRCT2	Ehitus- ja juhtimissimulatsiooni videomäng, mis simuleerib lõbustuspargi haldamist
+io.osdn.simplesok	Lihtne sokobani mäng
+io.otsaloma.gaupol	Tekstipõhiste subtiitrite redaktor
+io.otsaloma.nfoview	NFO-failide vaataja
+io.photoflare.photoflare	Lihtne, kuid võimas platvormideülene pildiredaktor
+io.podman_desktop.PodmanDesktop	Hallake Podmani ja muid konteinermootoreid ühest kasutajaliidesest ja salvest
+io.poez.Poezio	Poezio on tasuta konsooli XMPP klient
+io.posidon.Paper	Tehke Markdownis märkmeid
+io.qt.Designer	Qt-rakenduste jaoks mõeldud GUI-de kujundamine
+io.qt.Linguist	Lisage Qt rakendustesse tõlked
+io.qt.qdbusviewer	D-Busi rakenduste silumine
+io.qt.QtCreator	Pakub platvormidevahelist terviklikku integreeritud arenduskeskkonda (IDE) rakenduste arendajatele, et luua rakendusi mitmele platvormile ja seadmele
+io.qt.qtwebengine.BaseApp	Jagatud platvorm rakendustele, mis kasutavad Qt WebEngine'i
+io.sourceforge.chart_geany.chart-geany	Chart Geany on tasuta platvormideülene tarkvaralahendus turu tehniliseks analüüsiks, diagrammideks ja portfellihalduriks
+io.sourceforge.clonekeenplus	An Engine mängis varem Commander Keeni ja Cosmos the Cosmic Adventure mänguseeriaid
+io.sourceforge.pentobi	Arvutivastane lauamängule Blokus
+io.sourceforge.pipewalker.PipeWalker	Ühenduse puzzle mäng
+io.sourceforge.Pixelitor	Pixelitor on avatud lähtekoodiga pildiredaktor
+io.sourceforge.pysolfc.PySolFC	Solitaire mängu koostamine
+io.sourceforge.qoobar.Qoobar	Qoobar on lihtne klassikalise muusika siltide redaktor
+io.sourceforge.zaz	Puslemäng, kus mängija peab järjestama pallid kolmikuteks.
+io.sourceforge.trigger_rally.TriggerRally	Kiire tempo ühe mängijaga võidusõidurallimäng
+io.sourceforge.YSoccer	Retro stiilis jalgpallimäng
+io.stoplight.studio	Stoplighti stuudio. Lihtne API disain.
+io.thp.numptyphysics	Värvipliiatsijoonistustel põhinev füüsika mõistatusmäng
+io.trustable.stpadocumentationtool	Süsteemiteoreetilise protsessianalüüsi tööriist – mis hõlbustab STPA-d ja automatiseerib dokumenteerimist
+io.typora.Typora	Minimaalne Markdowni lugemis- ja kirjutamisrakendus
+io.unobserved.espansoGUI	GUI liides espanso jaoks
+io.vikunja.Vikunja	Avatud lähtekoodiga ülesannete rakendus
+io.wasabiwallet.WasabiWallet	Avatud lähtekoodiga, vangistuseta, privaatsusele keskendunud Bitcoini rahakott lauaarvuti jaoks, mis rakendab usaldusväärset CoinJoini.
+io.wavebox.Wavebox	Veebi-töölaua suhtluse järgmine põlvkond
+io.webtorrent.WebTorrent	Torrenti voogesituse rakendus
+ir.imansalmani.IPlan	Teie plaan isikliku elu ja töövoo parandamiseks
+it.cuteworks.pacmanlogviewer	Kontrollige pacmani logi
+it.fabiodistasio.AntaresSQL	Kaasaegne, kiire ja tootlikkusele suunatud SQL-i klient, mis keskendub UX-ile
+it.mijorus.collector	Pukseerige järgmisele tasemele
+it.mijorus.gearlever	Hallake AppImages
+it.mijorus.smile	Emotikonide valija
+it.mijorus.whisper	Kuulake oma mikrofoni
+jp.yvt.OpenSpades	Avatud lähtekoodiga vokslite laskur
+la.ogri.strongbox	World of Warcrafti lisahaldur
+life.bolls.bolls	Veebirakendus Piibli lugemiseks, rõhuasetusega ainult Jumala Sõnale. Sola scriptura
+lv.martinsz.millionaire	Vastake kõigile küsimustele, et võita 1 miljon dollarit.
+md.obsidian.Obsidian	Hindamispõhine teadmistebaas
+me.acristoffers.Lachesis	Moirai juhendaja
+me.ahola.aphototoollibre	Fotoredaktor Linuxi jaoks
+me.broken_by.PdfMetadataEditor	Redigeerige PDF-i metaandmeid
+media.emby.EmbyServer	Avatud meedia lahendus
+media.emby.EmbyTheater	Avatud meedia lahendus
+me.dusansimic.DynamicWallpaper	Dünaamilise taustapildi looja Gnome 42 jaoks
+me.hergert.Schemes	GtkSourceView kujundusstiiliskeemid
+me.hyliu.fluentreader	Kaasaegne lauaarvuti RSS-lugeja
+me.iepure.devtoolbox	Arendustööriistad teie käeulatuses
+me.iepure.Ticketbooth	Jälgige oma lemmiksaateid
+me.kozec.syncthingtk	Sünkroonimise GUI ja teavitusala ikoon
+me.leucoso.Grock	Kuvab Ühendkuningriigi geoloogilisi kaarte.
+me.mitya57.ReText	Lihtne tekstiredaktor Markdown ning reStructuredText süntaksitele
+me.njean.shootingpactris	Retro koostöömäng koos Tetrise, Pacmani ja shmupi mänguga.
+me.orszulak.keyring	Lihtsalt ilus või ilusti lihtne OTP generaator.
+me.ppvan.psequel	Käivitage oma SQL-päring
+me.sanchezrodriguez.passes	Hallake oma digipääse
+me.simakis.dropboxignore	See kõik puudutab puuduvat .dropboxignore faili.
+me.timschneeberger.GalaxyBudsClient	Mitteametlik Galaxy Buds Manager Windowsi ja Linuxi jaoks
+me.timschneeberger.jdsp4linux	Avatud lähtekoodiga heliefektide protsessor Pipewire'i jaoks
+ml.mdwalters.EightBall	Tehke otsuseid lihtsalt
+ml.mdwalters.Lemonade	Jälgige Lemmy arutelusid
+ml.prevete.Daty	Tasuta Wikidata redaktor.
+mobi.snowball.Snowball	Uudne kiirusega jooksmise mäng, mis sarnaneb platvormi loop/buzz wire mänguga
+moe.clover.mm3d	3D-mudeli redaktor ja animaator mängude jaoks
+moe.karaokes.mugen	Karaoke seansi juht ja mängija
+moe.tundra.Tundra	Värskendage oma animeloendeid automaatselt
+mx.pwmc.Svgvi	SVG-vaatur ja -redaktor, mis kasutab XML-deklaratsioone
+net._86box._86Box	Emulaator klassikaliste IBM PC kloonide jaoks
+net.agalwood.Motrix	Täisfunktsionaalne allalaadimishaldur
+net.ankiweb.Anki	Võimsad intelligentsed välkmälukaardid
+net.bartkessels.getit	HTTP-päringute saatmine API lõpp-punktidele
+net.baseart.Glide	Esitage filme ja helifaile
+net.biniou.LeBiniou	Kasutajasõbralik, võimas muusika visualiseerimine / VJ tööriist
+net.blix.BlueMail	BlueMaili meili- ja kalendrirakendus
+net.blockattack.game	Kiire tempoga match-3/blockfall mäng
+net.blockbench.Blockbench	Blockbench – kastikujuline 3D-mudeliredaktor
+net.blockout.BlockOutII	Algse BlockOut-mängu tasuta adaptsioon
+net.blumia.pineapple-pictures	Pildivaatur
+net.brinkervii.grapejuice	Roblox Playeri ja Roblox Studio käivitaja
+net.cebix.basilisk	68k Macintoshi emulaator
+net.christianbeier.Gromit-MPX	Gromit-MPX on tööriist ekraanile märkuste tegemiseks
+net.christianbeier.MultiVNC	Platvormideülene Multicast-toega VNC-vaatur
+net.codeindustry.MasterPDFEditor	Vaadake, looge, muutke, allkirjastage, skannige, OCR-i ja printige PDF-dokumente
+net.corluma.Corluma	Juhtige Philips Hues, LIFX, Nanoleafs ja Arduinos.
+net.cozic.joplin_desktop	avatud lähtekoodiga märkmete tegemise ja ülesannete rakendus
+net.crossfireatlas.crossfire	Roguelike mitme kasutajaga RPG
+net.cubers.assault.AssaultCube	Kiire arkaadmäng esimesest isikust tulistamismäng
+net.daase.journable	Lihtne täppide päevik
+net.danigm.loop	Lihtne helisilmusseade GNOME-i jaoks
+net.danigm.timetrack	GNOME-i ajarada
+net.darkradiant.DarkRadiant	3D-taseme redaktor mängudele The Dark Mod ja Doom 3
+net.davidotek.pupgui2	Installige veini- ja prootonipõhised ühilduvustööriistad
+net.dengine.Doomsday	Doomi, Hereticu ja Hexeni täiustatud lähteport
+net.devolutions.RDM	Kaugühenduste tsentraliseerimine, haldamine ja kaitsmine
+net.displaycal.DisplayCAL	Ekraani kalibreerimine ja profileerimine, keskendudes täpsusele ja mitmekülgsusele
+net.drawpile.drawpile	Koostööjoonistus
+net.epson.epsonscan2	Tarkvara Epsoni skanneritele ja multifunktsionaalsetele printeritele
+net.fasterland.converseen	Partii pildiprotsessor
+net.filebot.FileBot	Ülim telerite ja filmide ümbernimetaja
+net.freerct.FreeRCT	Teemapargi strateegiamäng
+net.fsuae.FS-UAE	FS-AÜE Amiga emulaator
+net.gaijin.WarThunder	War Thunder on kõige põhjalikum tasuta mängitav platvormideülene MMO sõjaline mäng.
+net.giuspen.cherrytree	Hierarhiline märkmete tegemine
+net.goatattack.goatattack	Mitme mängijaga Pixel Art tulistamismäng
+net.gradator.gtkatlantic	Mäng nagu Monopoly
+net.granjow.slowmovideo	slowmoVideo on avatud lähtekoodiga programm, mis loob teie materjalist aegluubis videoid.
+net.gwyddion.Gwyddion	Programm SPM (scanning probe microscopy) andmete visualiseerimiseks ja analüüsimiseks
+net.hovancik.Stretchly	Vaheaja meeldetuletuse rakendus
+net.huitsi.ParallelOverhead	Lõputu jooksjamäng
+net.imaginaryinfinity.Squiid	Tehke täpsemaid algebralisi ja RPN-i arvutusi
+net.jami.Jami	Privaatsusele orienteeritud kõne-, video-, vestlus- ja konverentsiplatvorm
+net.jammr.jammr	Mängige muusikutega Internetis
+net.jenyay.Outwiker	Isiklik wiki ja ülevaade.
+net.kirgroup.confy	Konverentsi ajakavade vaataja
+net.krafting.Playlifin	YouTube'i esitusloendite sünkroonimine Jellyfiniga
+net.krafting.PlaylifinVoyager	Esitusloendite edastamine Jellyfinile/Jellyfinist
+net.krafting.PleasureDVR	DVR Chaturbate'i veebisaidi jaoks
+net.kubux.Muehle	Mängige mängu Nine Men's Morris.
+net.kuribo64.melonDS	Nintendo DS ja DSi emulaator
+net.kvirc.KVIrc	KVIrc on tasuta kaasaskantav IRC-klient
+net.launchpad.Gnuclad	Kladogrammipuu generaator
+net.line72.campcounselor	Bandcamp.com soovinimekirja haldur
+net.longturn.freeciv21	Freeciv21 – Freeciv 21. sajandile
+net.lugsole.bible_gui	Piiblirakendus, mis toetab mitut tõlget ja keelt
+net.lutris.Lutris	Videomängude säilitamise platvorm
+net.mancubus.SLADE	See on Doomi toimetaja
+net.mediaarea.AVIMetaEdit	Manustage, kinnitage ja eksportige AVI-failide metaandmeid
+net.mediaarea.BWFMetaEdit	Manustage, kinnitage ja eksportige BWF-failide metaandmeid
+net.mediaarea.DVAnalyzer	Analüüsige DV-vooge ja teatage vigadest
+net.mediaarea.MediaConch	Rakenduse kontrollija, poliitika kontrollija, reporter ja parandaja
+net.mediaarea.MediaInfo	Video- ja helifailide kõige asjakohasemate tehniliste andmete ja sildiandmete mugav ühtne kuvamine
+net.mediaarea.MOVMetaEdit	Manustage ja muutke universaalse reklaami ID metaandmeid MOV- või MP4-failidesse
+net.mediaarea.QCTools	Kvaliteedikontrolli tööriistad video säilitamiseks
+net.meijn.onvifviewer	Vaadake ja juhtige võrgukaameraid ONVIF-protokolli abil
+net.meshlab.MeshLab	Tasuta ja avatud lähtekoodiga 3D kolmnurkvõrkude töötlemine ja redigeerimine
+net.minetest.Minetest	Mitme mängijaga lõpmatu maailma plokk-liivakastimäng
+net.mkiol.SpeechNote	Märkmete tegemine, lugemine ja tõlkimine võrguühenduseta kõne tekstiks, tekst kõneks muutmise ja masintõlkega
+net.mullvad.MullvadBrowser	Vabastage Internet massilise jälgimise alt
+net.natesales.Aviator	Teie video kopiloot: AV1/OPUS videokodeerija
+net.nokyan.Resources	Jälgige oma süsteemi ressursse ja protsesse
+net.olofson.KoboDeluxe	Kolmanda isiku keritav 2D laskur
+net.openra.OpenRA	Varasemate Westwoodi reaalajas strateegiamängude ümberkujundamine
+net.oz9aec.Gpredict	Reaalajas satelliidi jälgimise ja orbiidi ennustamise programm
+net.pcsx2.PCSX2	PlayStation 2 emulaator
+net.peercoin.peercoin-qt	Peercoin, roheline krüpto säästva tuleviku jaoks.
+net.pioneerspacesim.Pioneer	Üksildase kosmoseseikluse mäng
+net.pistegamez.PekkaKana2	Hüppa ja jookse mäng, mis on tehtud vanade klassikaliste platvormimängijate vaimus
+net.poedit.Poedit	Lihtne tõlkeredaktor
+net.puddletag.puddletag	Võimas ID3 sildiredaktor
+net.purrdata.PurrData	Avatud lähtekoodiga visuaalne programmeerimiskeel multimeedia jaoks, mis põhineb Pure Datal
+net.qsl.QSSTV	Programm SSTV ja HAMDRM vastuvõtmiseks ja edastamiseks
+net.redeclipse.RedEclipse	Esimese isiku laskur koos väleda mänguviisi ja sisseehitatud redaktoriga
+net.retrodeck.retrodeck	RetroDECK pakub keskkonda oma retromängude kataloogimiseks ja mängimiseks otse Steam Deckis
+net.rpcs3.RPCS3	Avatud lähtekoodiga Sony PlayStation 3 emulaator
+net.rpdev.OpenTodoList	Ülesannete loend ja märkmete tegemise rakendus
+net.runelite.RuneLite	RuneLite OSRS-i klient
+net.sapples.LiveCaptions	Reaalajas subtiitrid töölauale
+net.scribus.Scribus	Avatud lähtekoodiga lehe paigutus ja lauaarvuti avaldamine (DTP)
+net.seamly.seamly2d	Õmblusmustrite kujundamise tarkvara
+net.sf.fuse_emulator	Sinclair ZX spektri emulaator
+net.sf.metronomek	Triviaalse välimusega metronoom loomulike helide ja keerukate võimalustega
+net.sf.nootka	Rakendus klassikalise skoori märkimise õppimiseks
+net.sf.VICE	Mitmekülgne Commodore'i emulaator
+net.shrew.ike.qikea	Rakendus kaugsaidi konfiguratsioonide haldamiseks
+net.sonic_pi.SonicPi	Koodipõhine muusika loomise ja esitamise tööriist
+net.sonobus.SonoBus	Tasuta ja avatud lähtekoodiga võrguheli voogesitus
+net.sourceforge.artha.Artha	Avatud tesaurus
+net.sourceforge.atanks	Käigupõhine suurtükiväe strateegiamäng
+net.sourceforge.audmes.audmes	Heli mõõtmise süsteem
+net.sourceforge.btanks	Lõbus kerimismäng lahingutankidega
+net.sourceforge.Chessx	Tasuta male andmebaas
+net.sourceforge.chromium-bsu	Kiire tempo, arkaadstiilis ülevalt keritav kosmoselaskemäng
+net.sourceforge.dmidiplayer	Drumsticki mitmeplatvormiline MIDI-failimängija
+net.sourceforge.DuneLegacy	Kaasaegne Dune II taasteostus
+net.sourceforge.efaxgtk	Faksimine Linuxi/Unixiga
+net.sourceforge.electrip.Electrip	Juhtige oma raudteemudelit mängupultide abil!
+net.sourceforge.ExtremeTuxRacer	Kiire arktiline võidusõidumäng, mis põhineb Tux Raceril
+net.sourceforge.Fillets	70 tasemega puslemäng
+net.sourceforge.fretsonfire	Frets on Fire on muusikaliste oskuste ja kiirete sõrmede mäng. Mängu eesmärk on mängida klaviatuuriga võimalikult täpselt kitarri.
+net.sourceforge.fspclient	FTP-laadne liides FSP jaoks
+net.sourceforge.GrandOrgue	Toruoreli simulaator
+net.sourceforge.Hugin	Panoraamfotoõmblus ja palju muud
+net.sourceforge.jpdftweak.jPdfTweak	Šveitsi armee nuga PDF-failide jaoks
+net.sourceforge.Kino	Kino DV mittelineaarne videoredaktor GNU/Linuxi ja BSD platvormidele
+net.sourceforge.Klavaro	Puutetundliku tippimise juhendaja
+net.sourceforge.kmetronome	Drumstick MIDI metronoom, mis põhineb ALSA sekvenseril
+net.sourceforge.kmidimon	Drumstick MIDI Monitor on Linuxi jaoks mõeldud MIDI-monitor, mis kasutab ALSA sekvenserit
+net.sourceforge.lgames.LBreakoutHD	Mäng Arkanoid / Breakout
+net.sourceforge.lgames.LGeneral	Pöördepõhine strateegiamängu mootor (nagu Panzer General)
+net.sourceforge.lgames.LPairs2	Klassikaline mälumäng
+net.sourceforge.lgames.LTris	Osavusmäng kukkuvate klotsidega
+net.sourceforge.Lifeograph	Digipäevik ja märkmete tegemine
+net.sourceforge.liferea	RSS-kanali lugeja
+net.sourceforge.mars-game	2D kosmoselaskemäng vingete visuaalsete efektidega
+net.sourceforge.mcomix	Koomiline ja üldotstarbeline pildivaatur
+net.sourceforge.molsketch	2D molekulaarstruktuuride redaktor
+net.sourceforge.OpenLieroX	Külgkerimine, kus saate juhtida mitmesuguste relvadega relvastatud usse
+net.sourceforge.osmo	Isiklik korraldaja
+net.sourceforge.paulstretch	See on programm äärmuslikuks heli venitamiseks (nagu 50x) ja eriefektide rakendamiseks helide spektraalsel silumisel.
+net.sourceforge.pdfchain	PDF Chain on PDF Toolkiti (PDFtk) graafiline kasutajaliides.
+net.sourceforge.Pdfedit	PDF-redaktor, mis võimaldab sirvida/redigeerida töötlemata pdf-objektide puud
+net.sourceforge.projectM	Muusika visualiseerija, mis kasutab 3D kiirendatud iteratiivset pildipõhist renderdamist
+net.sourceforge.qtpfsgui.LuminanceHDR	Looge HDR-pilte
+net.sourceforge.QtSpim	Iseseisev simulaator, mis käitab MIPS32 programme
+net.sourceforge.quakespasm.Quakespasm	Algse Quake'i mootori kaasaegne port
+net.sourceforge.Ri-li	Lastemäng, sõitke mänguasja puidumootoriga
+net.sourceforge.roccat.roccat-tools	Rakendused Roccati seadmete seadistamiseks.
+net.sourceforge.scidavis	Rakendus teaduslike andmete analüüsiks ja visualiseerimiseks
+net.sourceforge.SDL-Ball	Ilusa graafikaga telliskivimurdmismäng
+net.sourceforge.squirrel_sql	SQuirreL SQL Client on GUI, mis võimaldab teil vaadata JDBC-ga ühilduva andmebaasi struktuuri, sirvida andmeid tabelites, väljastada SQL-käske jne. Toetab MySQL-i, PostgreSQL-i, MariaDB-d ja SQLite'i.
+net.sourceforge.Teo	Thomson TO8D emulaator
+net.sourceforge.tomatoes.IHaveNoTomatoes	Tomatite purustamise mäng
+net.sourceforge.torcs	Avatud võidusõiduauto simulaator
+net.sourceforge.TuxFootball	Suurepärane 2D jalgpalli (mõnikord nimetatakse jalgpalliks) mäng
+net.sourceforge.uhexen2.uhexen2	Hexen II moderniseeritud lähtesadam
+net.sourceforge.VMPK	Virtuaalne MIDI klaveriklaviatuur: MIDI sündmuste generaator ja vastuvõtja
+net.sourceforge.wavbreaker	GUI tööriist WAV-, MP2- ja MP3-failide jagamiseks
+net.sourceforge.wxEDID	Laiendatud kuva identifitseerimisandmete (EDID) failide lugemine ja muutmine
+net.stabyourself.nottetris2	Füüsikal põhinev Tetris
+net.studio08.xbplay	Kaugesitus konsoolist või xCloudist
+net.supertuxkart.SuperTuxKart	3D avatud lähtekoodiga kardi võidusõidumäng
+net.zgcoder.skycheckers	Lõhkuge vaenlased lavalt maha
+net.tedomum.CapBattleship	Piraaditeemaline lahingulaevamäng
+net.unvanquished.Unvanquished	Kiire tempo, esimese isiku strateegiamäng
+net.veloren.airshipper	Airshipper on Veloreni ametlik kanderakett.
+net.veloren.veloren	Veloren on mitme mängijaga voksel-RPG, mis on kirjutatud Rust keeles. See on inspireeritud mängudest nagu Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress ja Minecraft.
+net.warsow.Warsow	Kiire tempo 3D esimese inimese laskur
+net.waterfox.waterfox	Kerge, tasuta ja avatud lähtekoodiga veebibrauser, mis on loodud kaasaegse veebi jaoks.
+net.werwolv.ImHex	Kuueteistkümnendikuline redaktor pöördinseneridele ja programmeerijatele
+network.bisq.Bisq	Detsentraliseeritud bitcoini vahetusvõrk.
+network.koesling.shm-modbus	Tööriistade kogumik modbus TCP/RTU kliendi simuleerimiseks
+network.loki.Session	Privaatsõnum
+net.worldofpadman.WoP	Uskumatult hoolikalt kujundatud ja värviline vabavaraline lõbus shooter noortele ja südamega inimestele
+net.wz2100.wz2100	Juhtige projekti vägesid lahingus maailma ülesehitamiseks.
+net.xm1math.Texmaker	Lateks redaktor
+net.xmind.XMind	Mõttekaardistamine ja ajurünnak
+net.xmind.XMind8	Hämmastav ajurünnak ja mõtete kaardistamise tööriist.
+nl.brixit.powersupply	Linuxi toite alamsüsteemi silur
+nl.brixit.wiremapper	Linuxi klient Pocketherneti võrgu testija jaoks
+nl.g4d.Girens	Vaadake oma Plexi sisu
+nl.hjdskes.gcolor3	Valige valijast või ekraanilt värvid
+nl.lostboys.rollemup	Klassikaline pinballimäng 90ndate lõpust.
+nl.openoffice.bluefish	Tekstiredaktor paljude veebi- ja tarkvaraarenduse lisadega
+nl.sarine.gpx-viewer	Lihtne gpx-vaatur
+nl.v0yd.Capsule	Ravimite jälgija
+no.mifi.losslesscut	Säästke ruumi, kärpides kiiresti ja kadudeta video- ja helifaile
+nz.mega.MEGAsync	Lihtne automatiseeritud sünkroonimine teie arvutite ja MEGA pilvedraivi vahel.
+one.ablaze.floorp	Põrandabrauser
+one.alynx.FlipClock	SDL2 toetatud klappkella ekraanisäästja.
+one.flipperzero.qFlipper	Graafiline töölauarakendus Flipper Zero püsivara värskendamiseks arvuti kaudu
+one.jiri.easydict-gtk	Esimene avatud lähtekoodiga tõlkija, mis on täiesti avatud ka sõnaraamatu andmetega.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	ATHN-brauser gnome jaoks
+org._2006Scape.Launcher	2006Scape on tasuta Runescape 2006 emulatsiooniserver
+org._2009scape.Launcher	Runescape 2009 emulatsiooniserveri käivitaja
+org.adishatz.syncpasswd	Värskendage paroole
+org.alienarena.alienarena	Äärmiselt kiire tempoga areeni FPS
+org.aliflang.lang	Alif (ألف), araabia programmeerimiskeel
+org.altaqwaa.Altaqwaa	Koraan, adhkar ja palveajad
+org.americanmonk.TipitakaPaliReader	See on rakendus Theravāda budistlike Tipitaka Pāḷi tekstide lugemiseks ja definitsioonide hõlpsaks hankimiseks
+org.apache.directory.studio	Täielik kataloogitööriistade platvorm
+org.apache.jmeter	Koormustestimise ja jõudluse mõõtmise rakendus
+org.apache.netbeans	NetBeans – Apache Java IDE. Sobib tükkidele kokku
+org.ardour.Ardour	Digitaalne helitööjaam
+org.armagetronad.ArmagetronAdvanced	3D valgustsükli mäng
+org.arrl.trustedqsl	Ham Radio Contact valideerimistööriistad
+org.artsoft.rocksndiamonds	Kalliskivide kogumise puzzle mäng
+org.asc_hq.ASC	Käigupõhine strateegiamäng
+org.atheme.audacious	Kerge helipleier
+org.audacityteam.Audacity	Audacity on maailma populaarseim heli redigeerimise ja salvestamise rakendus
+org.audiveris.audiveris	Optilise muusikatuvastuse (OMR) rakendus
+org.avidemux.Avidemux	Mitmeotstarbeline video redigeerimise ja töötlemise tarkvara
+org.b3log.siyuan	Privaatsusega esmajoones isiklik teadmiste haldussüsteem, mis toetab peeneteralist plokitaseme viidet ja Markdown WYSIWYG
+org.beeref.BeeRef	Lihtne pildivaatur
+org.bino3d.bino	3D videopleier
+org.bionus.Grabber	Väga kohandatav pilditahvli/booru allalaadija võimsate failinimede andmise funktsioonidega
+org.bitbucket.mystery_keeper.VapourSynthEditor	VapourSynthi skriptide redaktor
+org.bitcoincore.bitcoin-qt	Bitcoini peer-to-peer võrgusõlme, rahakoti ja GUI täielik valideerimine
+org.bitfighter.Bitfighter	mitme mängijaga vektorgraafika kosmosemäng
+org.blackcoin.blackcoin-more	Tõeline detsentraliseeritud digitaalne valuuta
+org.blackfennec.app	Laiendatav poolstruktureeritud andmete redigeerimise keskkond
+org.bleachbit.BleachBit	Puhastab failid kettaruumi vabastamiseks ja privaatsuse säilitamiseks
+org.blender.Blender	Tasuta avatud lähtekoodiga 3D loomise komplekt
+org.bluej.BlueJ	Java IDE algajatele
+org.bluesabre.MenuLibre	Täiustatud FreeDesktop.org-iga ühilduv menüüredaktor
+org.briarproject.Briar	Turvaline sõnumside kõikjal
+org.bzdev.CVRDecode	California digitaalsete COVID-19 vaktsiinisalvestuste dekooder
+org.bzflag.BZFlag	3D esimese isiku tankilahingu mäng
+org.btchd.btchd-qt	Ühendage BitcoinHD P2P võrguga
+org.buhocms.BuhoCMS	Kohalik CMS staatiliste saidigeneraatorite jaoks
+org.bunkus.mkvtoolnix-gui	Matroska failide looja ja tööriistad
+org.caione.GScope	GTK liides cscope'iga
+org.chocolate_doom.ChocolateDoom	Konservatiivne Doom Source Port
+org.chromium.Chromium	Chromiumi projekti veebibrauser
+org.citra_emu.citra	Nintendo 3DS emulaator
+org.claws_mail.Claws-Mail	Claws Mail on meiliklient (ja uudistelugeja), mis põhineb GTK+-l
+org.clementine_player.Clementine	Mängib muusikafaile ja Interneti-raadiot
+org.cloudcompare.CloudCompare	3D-punktipilve ja võrgusilma töötlemise tarkvara
+org.cockpit_project.CockpitClient	Ühendage ssh-i kaudu Cockpitiga serveritega
+org.codeberg.dimkard.glossaico	Keeleõppe rakendus
+org.codeblocks.codeblocks	IDE C, C++ ja Fortrani jaoks
+org.contourterminal.Contour	Contour on kaasaegne ja tegelikult kiire modaalne virtuaalterminali emulaator igapäevaseks kasutamiseks
+org.coolero.Coolero	Coolero on programm teie jahutusseadmete jälgimiseks ja juhtimiseks
+org.cryptomator.Cryptomator	Mitmeplatvormiline kliendipoolne krüpteerimistööriist, mis on optimeeritud pilvesalvestuste jaoks
+org.cznic.Datovka	Tasuta graafiline kasutajaliides andmekastide jaoks
+org.cubocore.CoreAction	Külgriba mõne käepärase vidinaga
+org.cubocore.CoreArchiver	Lihtne failide tihendamise/ekstraktimise utiliit
+org.cubocore.CoreFM	Lihtne kerge ja hõlpsasti kasutatav failihaldur
+org.cubocore.CoreHunt	Lihtsalt kasutatav kiire failiotsingu tööriist
+org.cubocore.CoreImage	Lihtne kerge ja hõlpsasti kasutatav pildivaatur
+org.cubocore.CoreInfo	Lihtne failide metaandmete vaataja
+org.cubocore.CoreKeyboard	Lihtne sõnasoovitustega virtuaalne klaviatuur
+org.cubocore.CorePad	Lihtne kerge, kuid võimas tekstiredaktor
+org.cubocore.CorePaint	Lihtne värvimisvahend
+org.cubocore.CorePDF	Lihtne kerge PDF-vaatur
+org.cubocore.CoreRenamer	Lihtne kerge pakkfaili ümbernimetaja
+org.cubocore.CoreShot	Lihtne kerge ekraani jäädvustamise utiliit X11 jaoks
+org.cubocore.CoreStats	Lihtne kerge süsteemiressursside vaataja
+org.cubocore.CoreTime	Ajaga seotud ülesannete haldur
+org.cvfosammmm.Porto	Muutke Jupyteri märkmikke töölaual
+org.cvfosammmm.Setzer	Lihtne, kuid täisfunktsionaalne LaTeX-i redaktor
+org.d3cod3.Mosaic	OpenFrameworksil põhinev visuaalse lapimise loomingulise kodeerimise platvorm
+org.darkdimension.rue	Kaardimäng mahaarvamisest, armastusest ja kahetsusest.
+org.darktable.Darktable	Korraldage ja arendage digitaalkaamerate pilte
+org.dash.electrum.electrum_dash	Kerge Dashi klient
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+org.debian.TuxPuck	3D Shufflepuck Pong Mäng
+org.deidentifier.arx	ARX-i andmete anonüümseks muutmise tööriist
+org.deluge_torrent.deluge	Täieliku funktsiooniga BitTorrenti klient
+org.denemo.Denemo	Looge muusikapalasid
+org.desmume.DeSmuME	Nintendo DS emulaator
+org.develz.Crawl	Roguelike kongide uurimise mäng
+org.dhewm3.Dhewm3	dhewm 3 on Doom 3 GPL-i lähteport
+org.diasurgical.DevilutionX	Diablo/Hellfire allikaport kaasaegsete operatsioonisüsteemide jaoks
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce emulaator
+org.duckstation.DuckStation	PlayStationi emulaator
+org.dupot.beatmatchtopass	Võita neid kõiki
+org.dupot.littleadventure	RPG Pixel Art väike mäng
+org.dust3d.dust3d	Kiire 3D-modelleerimise tööriist
+org.easycoding.TunedSwitcher	Lihtne utiliit teenuse Tuned manipuleerimiseks
+org.eclipse.iot.fourdiac.Ide	OpenSource IEC 61499-ga ühilduv PLC IDE
+org.eclipse.Java	Olulised tööriistad iga Java-arendaja jaoks, sealhulgas Java IDE, Git-klient, XML-redaktor, Maveni ja Gradle'i integreerimine
+org.eclipse.Javascript	Olulised tööriistad iga JavaScripti arendaja jaoks, sealhulgas JavaScripti, TypeScripti, HTML-i, CSS-i, XML-i, Yaml-i, Markdowni keelte tugi
+org.eclipse.sumo	Mikroskoopiline liiklussimulatsioon
+org.electrum.electrum	Kerge Bitcoini klient
+org.emilien.Password	Tugev parool maksimaalse turvalisuse tagamiseks
+org.emilien.SpaceLaunch	Millal järgmine rakett taevasse tõuseb?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(de) testimistööriist
+org.endlessos.Key	Kureeritud õpe igal ajal ja igal pool
+org.enjoyingfoss.FOSStriangulator	Tööriist fotodest trianguleeritud illustratsioonide tegemiseks
+org.entangle_photo.Manager	Jagatud kaamera juhtimine ja jäädvustamine
+org.equeim.Tremotesf	Kaug GUI edastamise BitTorrenti kliendi jaoks
+org.eu.encom.spectral	Matrixi protokolli IM-klient
+org.eu.getcatalyst.Catalyst	Kerge ja kasutajakeskne veebibrauser, mida toetab Electron
+org.eu.wabarc.wayback	Isehostitav tööriistakomplekt veebilehtede arhiveerimiseks Interneti-arhiivi, archive.today, IPFS-i ja kohalikesse failisüsteemidesse
+org.exaile.Exaile	Kuula, uuri ja halda oma muusikakogu
+org.exbin.BinEd	Binaar-/kuueteistkümnendredaktor
+org.expresslrs.ExpressLRSConfigurator	Platvormideülene konfiguratsioonitööriist ExpressLRS-i püsivara jaoks
+org.eyecreate.qiflora	Mobiilisõbralik rakendus taimede jälgimiseks Mi Flora seadmetega.
+org.eyecreate.vehiclevoyage	Jälgimissõidukite hooldusajalugu.
+org.famistudio.FamiStudio	FamiStudio NES muusikatoimetaja
+org.fcitx.Fcitx5	Sisestusmeetod
+org.fdroid.Repomaker	Looge lihtsalt F-Droidi reposid
+org.featherwallet.Feather	Monero lauakott
+org.fedoraproject.MediaWriter	Tööriist reaalajas USB-draivi loomiseks Fedora väljaandega
+org.ferdium.Ferdium	Messenger töölauale
+org.filezillaproject.Filezilla	Kiire ja usaldusväärne FTP klient
+org.filmulator.Filmulator	Filmimulaatori GUI adaptsioon, mis sisaldab kõiki positiivseid ja mitte ühtegi negatiivset
+org.firestormviewer.FirestormViewer	Klient 3D-virtuaalmaailmadele juurdepääsuks
+org.fkoehler.KTailctl	GUI Tailscale võrgusilma jaoks
+org.flameshot.Flameshot	Võimas ja lihtsalt kasutatav ekraanipildi tarkvara
+org.flarerpg.Flare	2D action rollimäng
+org.flathub.flatpak-external-data-checker	Tööriist, mis kontrollib, kas Flatpaki manifestides kasutatavad välisandmed on endiselt ajakohased
+org.flatpak.qtdemo	Flatpaki arendaja demo
+org.flightgear.FlightGear	Tasuta ja kõrgetasemeline lennusimulaator
+org.flozz.calcleaner	Lihtne graafiline tööriist vanade sündmuste eemaldamiseks CalDAV-i kalendritest
+org.flozz.yoga-image-optimizer	Teisendage ja optimeerige JPEG-, PNG- ja WebP-pilte
+org.flycast.Flycast	Sega Dreamcast, Naomi ja Atomiswave emulaator
+org.fontforge.FontForge	Kontuuri fondiredaktor
+org.freac.freac	Helimuundur ja CD rippija
+org.free_astro.siril	Astronoomilise kujutise (eel)töötlusprogramm
+org.freecadweb.FreeCAD	Avatud lähtekoodiga parameetriline 3D CAD modelleerija
+org.freeciv.gtk322	Gtk+-3.22 põhinev klient Freecivi mängu jaoks
+org.freeciv.qt	Qt-põhine klient Freecivi mängu jaoks
+org.freecol.FreeCol	FreeCol käigupõhine strateegiamäng.
+org.freedesktop.adriconf	Täiustatud DRI konfiguraator
+org.freedesktop.appstream.cli	AppStream metaandmetega töötamise utiliit
+org.freedesktop.appstream.generator	Kiire AppStreami metaandmete generaator
+org.freedesktop.appstream-glib	AppStreami failide valideerimise tööriistad
+org.freedesktop.Bustle	Joonistage D-Busi tegevuse järjestusskeemid
+org.freedesktop.dabrain34.GstPipelineStudio	Joonistage oma GStreameri torujuhe...
+org.freedesktop.dabrain34.squared	Proovige ruut numbritega täita
+org.freedesktop.fwupd	Värskendage seadme püsivara Linuxis
+org.freedesktop.GstDebugViewer	Uurige GStreameri silumislogi teavet
+org.freedesktop.Piper	Mänguhiire konfiguratsiooniutiliit
+org.freedesktop.Tuhi	Utiliit jooniste allalaadimiseks Wacom Ink seadmevalikust
+org.freedownloadmanager.Manager	FDM on võimas kaasaegne allalaadimise kiirendaja ja korraldaja.
+org.freefilesync.FreeFileSync	Visuaalne kaustade võrdlus ja sünkroonimine
+org.freeorion.FreeOrion	Käigupõhine kosmoseimpeerium ja galaktika vallutamine (4X) arvutimäng
+org.freeplane.App	Mõttekaardistamine, teadmusjuhtimine, projektijuhtimine. Arendage, korraldage ja edastage oma ideid ja teadmisi kõige tõhusamal viisil
+org.frescobaldi.Frescobaldi	LilyPondi muusikatoimetaja
+org.fritzing.Fritzing	Elektrooniline disainitööriist
+org.frozen_bubble.frozen-bubble	Sõltuvust tekitav mäng külmutatud mullide kohta
+org.gabmus.gfeeds	GNOME-i uudistelugeja
+org.gabmus.giara	Rakendus Redditi jaoks
+org.gabmus.hydrapaper	Taustapildihaldur koos mitme monitori toega
+org.gabmus.notorious	Klaviatuurikesksed noodid
+org.gabmus.swatch	Värvipaleti haldur
+org.gabmus.unifydmin	GNOME rakendus mitme heterogeense serveri lihtsaks juhtimiseks
+org.gabmus.whatip	Teave teie IP kohta
+org.gahshomar.Gahshomar	Pärsia/Jalali/Farsi kalender
+org.gajim.Gajim	Täielik XMPP vestlusklient
+org.gaphor.Gaphor	Lihtne UML-i ja SysML-i modelleerimistööriist
+org.geany.Geany	Kiire ja kerge IDE
+org.geeqie.Geeqie	Kerge pildivaatur
+org.genivi.DLTViewer	Diagnostikalogi ja jälgimise vaatamise programm
+org.geogebra.GeoGebra	Dünaamilise matemaatika tarkvara
+org.gephi.Gephi	Open Graph Viz platvorm
+org.getmonero.Monero	Monero: turvaline, privaatne, jälgimatu krüptovaluuta
+org.getoutline.OutlineClient	Juurdepääs tasuta ja avatud Internetile
+org.getoutline.OutlineManager	Seadistage oma Outline'i serverid pilves ja hallake, kellel on juurdepääs serverile
+org.getzola.zola	Kiire staatiline saidi generaator ühes binaaris, milles kõik on sisseehitatud
+org.ghidra_sre.Ghidra	Ghidra tarkvara pöördprojekteerimise komplekt
+org.gimp.GIMP	Joonistamine ja fotode töötlemine
+org.gmusicbrowser.gmusicbrowser	Jukebox suure muusikakogu jaoks
+org.gna.Warmux	2D-mäng, kus naljakad tegelased käivitavad naljakaid relvi
+org.gnode.NixView	Nixi andmefailide vaataja
+org.gnome.Aisleriot	Palju erinevaid kaardiladumismänge
+org.gnome.atomix	Ehitage üksikutest aatomitest molekulid
+org.gnome.baobab	Kaustade suuruse ja saadaoleva kettaruumi kontroll
+org.gnome.Boxes	Virtualiseerimine on tehtud lihtsaks
+org.gnome.BreakTimer	Arvuti katkestuste meeldetuletused GNOME-i jaoks
+org.gnome.Builder	IDE GNOME jaoks
+org.gnome.Calculator	Aritmeetilised, teaduslikud ja finantsarvutused
+org.gnome.Calendar	Kalender GNOME'ile
+org.gnome.Calls	Tehke telefoni- ja SIP-kõnesid
+org.gnome.Characters	Märgikaardi rakendus
+org.gnome.Cheese	Veebikaamerast fotode ja videote salvestamine, ka koos graafiliste efektidega
+org.gnome.Chess	Mängige klassikalist kahe mängijaga lauamängu malet
+org.gnome.clocks	Jälgige aega
+org.gnome.ColorViewer	Paigaldatud värviprofiilide vaatamine ja võrdlemine
+org.gnome.Connections	Vaadake ja kasutage teisi töölaudu
+org.gnome.Contacts	Hallake oma kontakte
+org.gnome.Crosswords	Lahenda ristsõnu
+org.gnome.Crosswords.Editor	Loo ristsõnu
+org.gnome.DejaDup	Kaitske end andmete kadumise eest
+org.gnome.design.AppIconPreview	Tööriist rakenduste ikoonide kujundamiseks
+org.gnome.design.Contrast	Kontrollige kahe värvi kontrasti
+org.gnome.design.Emblem	Loo projekti avatare
+org.gnome.design.IconLibrary	Teie rakenduste sümboolsed ikoonid
+org.gnome.design.Lorem	Loo kohatäidetekst
+org.gnome.design.Palette	Color Palette tool
+org.gnome.design.SymbolicPreview	Symbolics Made Easy
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	A developer tool for browsing and searching API documentation
+org.gnome.dspy	A D-Bus explorer for GNOME
+org.gnome.EasyTAG	Edit audio file metadata
+org.gnome.eog	Piltide sirvimine ja pööramine
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Veebi sirvimine
+org.gnome.Evince	Document viewer for popular document formats
+org.gnome.Evolution	Oma e-posti, kontaktide ja kalendri haldamine
+org.gnome.Extensions	Manage your GNOME Extensions
+org.gnome.FileRoller	Open, modify and create compressed archive files
+org.gnome.Firmware	Install firmware on devices
+org.gnome.five-or-more	Värviliste kuulide eemaldamine nende rittaajamise teel
+org.gnome.FontManager	A simple font management application for Gtk+ Desktop Environments
+org.gnome.font-viewer	Kuva selles arvutis olevaid kirjatüüpe
+org.gnome.Four-in-a-row	Ühevärviliste ridade kombineerimise võistlus
+org.gnome.Fractal	Matrix group messaging app
+org.gnome.frogr	Flickri üleslaadija GNOME jaoks
+org.gnome.gbrainy	gbrainy on mäng mälu, aritmeetiliste, verbaalsete ja loogiliste oskuste treenimiseks.
+org.gnome.Geary	Saada ja vastu võtta e-kirju
+org.gnome.gedit	Tekstiredaktor
+org.gnome.Genius	Genius on üldotstarbeline kalkulaatoriprogramm
+org.gnome.GHex	Binaarfailide vaatamine ja redigeerimine
+org.gnome.gitg	Giti graafiline kasutajaliides
+org.gnome.gitlab.bazylevnik0.Convolution	Labürindist põgenemise mäng
+org.gnome.gitlab.Cowsay	Cowsay, tipptasemel Cowsay generaator, mis kasutab GNOME tavasid
+org.gnome.gitlab.dqpb.GMetronome	Tempo mõõtmise tööriist heliloojatele ja muusikutele
+org.gnome.gitlab.ilhooq.Bookup	Lihtsustage oma märkmete tegemist Markdowni süntaksiga
+org.gnome.gitlab.johannesjh.favagtk	Tehke oma rahaasju fava ja beancount abil
+org.gnome.gitlab.powimod.aion-task	Tsükliline ülesannete haldur
+org.gnome.gitlab.somas.Apostrophe	Redigeerige Markdowni stiilis
+org.gnome.gitlab.YaLTeR.Identity	Võrrelge pilte ja videoid
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Kärbi videoid kiiresti
+org.gnome.glabels-3	Looge silte, visiitkaarte ja meediakaaneid
+org.gnome.Glade	GTK+ rakenduste kasutajaliideste projektide avamine või loomine
+org.gnome.Gnote	Lihtne märkmete tegemise rakendus
+org.gnome.GTG	Isiklike ülesannete ja TODO-nimekirja üksuste korraldaja
+org.gnome.gThumb	Vaata ja korrasta oma pilte
+org.gnome.Gtranslator	Rakenduste ning teekide tõlkimine ja lokaliseerimine
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Play the Hitori puzzle game
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Kivirahnude liigutamisega lahendatav mõistatus
+org.gnome.LightsOff	Kõikide tulede väljalülitamise mäng
+org.gnome.Logs	View detailed event logs for the system
+org.gnome.Lollypop	Play and organize your music collection
+org.gnome.Loupe	View images
+org.gnome.Mahjongg	Match tiles and clear the board
+org.gnome.Maps	Find places around the world
+org.gnome.meld	Compare and merge your files
+org.gnome.Mines	Miinivälja puhastamine sinna peidetud miinidest
+org.gnome.moserial	Serial terminal
+org.gnome.Music	Mängi ja halda oma muusikakogu
+org.gnome.NautilusPreviewer	Provide a facility for quickly viewing different kinds of files
+org.gnome.NetworkDisplays	Stream the desktop to Wi-Fi Display capable devices
+org.gnome.Nibbles	Ussi juhtimine läbi labürindi
+org.gnome.Notes	Notes for GNOME
+org.gnome.OCRFeeder	The complete OCR suite
+org.gnome.OfficeRunner	Close your laptop lid and start running
+org.gnome.Photos	Ligipääs fotodele, nende haldamine ja jagamine GNOMEs
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Listen to your favorite shows
+org.gnome.Polari	Talk to people on IRC
+org.gnome.PowerStats	Vooluhalduse vaatlemine
+org.gnome.Quadrapassel	Langevate klotside omavaheline kokkusobitamine
+org.gnome.Recipes	GNOME loves to cook
+org.gnome.Reversi	Dominate the board in a classic reversi game, or play the reversed variant
+org.gnome.Rhythmbox3	Esita ja halda oma muusikakollektsiooni
+org.gnome.Robots	Hoidu robotite eest ja proovi neid meelitada omavahel kokku põrkama
+org.gnome.seahorse.Application	Sinu paroolide ja krüptimisvõtmete haldamine
+org.gnome.Shotwell	Digital photo organizer
+org.gnome.SimpleScan	Make a digital copy of your photos and documents
+org.gnome.Snapshot	Take pictures and videos
+org.gnome.Solanum	Balance working time and break time
+org.gnome.SoundJuicer	CD ripper with a clean interface and simple preferences
+org.gnome.SoundRecorder	A simple, modern sound recorder for GNOME
+org.gnome.Sudoku	Loogikavõimeid proovile panev tabelmõistatuste lahendamine
+org.gnome.SwellFoop	Ekraani puhastamine värviliste pallide ja erikujuliste klotside grupeerimise teel
+org.gnome.Tali	Veereta täringut ja koguda punkte
+org.gnome.Taquin	Lükake plaadid õigesse kohta
+org.gnome.Tau	GTK kasutajaliides xi tekstiredaktorile
+org.gnome.Tetravex	Järjestage plaadid ruudule sobivaks
+org.gnome.TextEditor	Redigeeri tekstifaile
+org.gnome.Todo	Hallake oma ülesandeid
+org.gnome.Tomboy	Töölaua märkmete tegemise rakendus
+org.gnome.Totem	Mängi filme
+org.gnome.TwentyFortyEight	Hankige plaat 2048
+org.gnome.Weather	Ilmaolude ja ilmateate kuvamine
+org.gnome.World.Citations	Hallake oma bibliograafiat
+org.gnome.World.Iotas	Lihtne märkmete tegemine
+org.gnome.World.PikaBackup	Hoidke oma andmeid turvaliselt
+org.gnome.World.Secrets	Hallake oma paroole
+org.gnucash.GnuCash	Hallake oma rahaasju, kontosid ja investeeringuid
+org.gnu.emacs	Laiendatav tekstiredaktor
+org.gnumeric.Gnumeric	Kõrge täpsusega tabelarvutusprogramm
+org.gnunet.Messenger	GTK-põhine GUI GNUneti Messengeri teenuse jaoks.
+org.gnupg.GPA	GnuPG graafiline kasutajaliides
+org.gnu.pspp	GNU PSPP on valimiandmete statistilise analüüsi programm
+org.godotengine.Godot	Godoti mängumootori redaktor
+org.godotengine.Godot3	Godoti mängumootori redaktor
+org.godotengine.Godot3Sharp	Godoti mängumootori redaktor
+org.godotengine.GodotSharp	Godoti mängumootori redaktor
+org.goldcoinproject.goldcoin-qt	Avastage digitaalse valuuta kullastandard.
+org.goldendict.GoldenDict	Sõnastiku otsinguprogramm
+org.gottcode.Connectagram	Lahutage mustritesse paigutatud sõnad
+org.gottcode.CuteMaze	Otsige labürindis sihtmärke
+org.gottcode.FocusWriter	Täisekraani tekstitöötlusprogramm
+org.gottcode.Gottet	Puhasta pardal kukkuvatest klotsidest
+org.gottcode.Hexalate	Keerake ringe värvide sobitamiseks
+org.gottcode.Kapow	Jälgige projektidele kulutatud aega
+org.gottcode.NovProg	Wordcount graafiku programm
+org.gottcode.Peg-E	Nende kõrvaldamiseks hüppavad pulgad
+org.gottcode.Simsu	Mõistatuste lahendamiseks sisestage numbrid
+org.gottcode.Tanglet	Boggle'i ühe mängijaga variant
+org.gottcode.Tetzle	Pusle tetromino tükkidega
+org.gpodder.gpodder	Meedia koondaja ja taskuhäälingusaate klient
+org.gpodder.gpodder-adaptive	Meediumikoguja ja taskuhäälingusaadete klient nii mobiilile kui ka lauaarvutile
+org.gramps_project.Gramps	Hallake genealoogilist teavet, teostage genealoogilist uurimist ja analüüsi
+org.greenfoot.Greenfoot	Rohejalg
+org.grisbi.Grisbi	Isikliku rahanduse juht
+org.groestlcoin.electrum-grs	Kerge Groestlcoini klient
+org.groestlcoin.groestlcoin-qt	Groestlcoini peer-to-peer võrgusõlme, rahakoti ja GUI täielik valideerimine
+org.gtaf.quran	Õppige Koraani Word by Word Analysis, Colored Tajweed, Tafsir & Audio kaudu
+org.gtimelog.GTimeLog	Jälgige märkamatult oma aega
+org.gtkhash.gtkhash	Sõnumi kokkuvõtete või kontrollsummade arvutamine
+org.guerinoni.qTsConverter	Lihtne tööriist qt tõlkefaili (ts) teisendamiseks muusse vormingusse (xlsx / csv) ja vastupidi.
+org.guitarix.Guitarix	virtuaalne mitmekülgne võimendus Jacki/Linuxi jaoks
+org.gustavoperedo.FontDownloader	Installige fonte võrguallikatest
+org.hdfgroup.HDFView	Sirvige ja redigeerige HDF-faile
+org.hedgewars.Hedgewars	Naljakas käigupõhine suurtükimäng, milles osalevad võitlevad siilid!
+org.hikounomizu.HikouNoMizu	Platvormipõhine anime stiilis võitlusmäng
+org.hlwd.sonofman	Piibel mitmes keeles, tasuta, võrguühenduseta, ilma reklaamideta, inglise, prantsuse, itaalia, hispaania ja portugali keeles terminali jaoks.
+org.homelinuxserver.vance.biblereader	Lugege Sõna
+org.horizon_eda.HorizonEDA	Tasuta EDA pakett
+org.hydrogenmusic.Hydrogen	Täiustatud trummimasin
+org.icculus.tennix	Mitme mängijaga tennisemäng
+org.imitationpickles.barbie	Aidake merihobu Barbiel mullide peal Kuule hõljuda
+org.inkscape.Inkscape	Vektorgraafika redaktor
+org.ioquake3.ioquake3	Tasuta avatud lähtekoodiga Quake 3 mootor
+org.jabref.jabref	Graafiline Java rakendus BibTeX-i ja biblatexi (.bib) andmebaaside haldamiseks
+org.jacktrip.JackTrip	Ühendage ja mängige teiste muusikutega
+org.jamovi.jamovi	Reaalajas statistiline tabel
+org.jaspstats.JASP	Standardsed statistilised analüüsid, nii klassikalised kui ka Bayesi analüüsid
+org.jdownloader.JDownloader	Laadige alla haldustööriist
+org.jellyfin.JellyfinServer	Vaba tarkvara meediasüsteem
+org.jflap.JFLAP	Ametlike keelte testimine
+org.jitsi.jitsi-meet	Jitsi Meet – turvalised, lihtsad ja skaleeritavad videokonverentsid
+org.jreleaser.cli	JReleaseriga saate projekte kiiresti ja lihtsalt välja anda
+org.js.nuclear.Nuclear	Elektronipõhine muusikapleier
+org.jupyter.JupyterLab	JupyterLabi töölauarakendus, mis põhineb Electronil
+org.karapulse.Karapulse	Karaokemängija sisseehitatud veebikaugkliendiga
+org.kde.akregator	Uudistevoogude lugeja
+org.kde.alligator	Mobiilseadmete uudistelugeja
+org.kde.angelfish	Mobiilseadmete veebilehtitseja
+org.kde.arianna	E-raamatute lugeja
+org.kde.ark	Arhiivide haldamise rakendus
+org.kde.artikulate	Häälduse harjutaja Artikulate
+org.kde.atlantik	Monopoly® stiilis lauamängud
+org.kde.audiotube	Convergent YouTube Music client
+org.kde.blinken	Mälu parandamise mäng
+org.kde.bomber	Põnev pommitamisemäng
+org.kde.bovo	Viis ühes reas lauamäng
+org.kde.cantor	KDE matemaatikatarkvara kasutajaliides
+org.kde.choqok	Mikroblogimise klient
+org.kde.digikam	Fotohalduse rakendus
+org.kde.dolphin	Failihaldur
+org.kde.elisa	Kaunis mõistliku muusika mängija veebiraadio toetusega
+org.kde.falkon	Veebilehitseja
+org.kde.filelight	Show disk usage and delete unused files
+org.kde.francis	Track your time
+org.kde.gcompris	Rohkete tegevustega hariv mäng lastele vanuses 2-10
+org.kde.granatier	Bombermani kloon
+org.kde.gwenview	Pildinäitaja
+org.kde.haruna	Open source media player built with Qt/QML and libmpv
+org.kde.Ikona	Ikona is a design companion to help you design icons
+org.kde.index	Manage your files
+org.kde.isoimagewriter	ISO-tõmmise kirjutamine USB-pulgale
+org.kde.itinerary	Digitaalne reisimise abivahend
+org.kde.juk	Muusikamängija
+org.kde.kaffeine	Multimedia Player
+org.kde.kalgebra	Graafide arvutaja
+org.kde.kalk	A feature rich calculator
+org.kde.kalzium	Keemiliste elementide tabel
+org.kde.kamoso	Veebikaameraga piltide ja videode tegemine
+org.kde.kanagram	Tähtede järjestamine
+org.kde.kapman	Pac-Mani kloon
+org.kde.kasts	Podcast application
+org.kde.katomic	Sokobani moodi loogikamäng
+org.kde.kbibtex	KDE BibTeXi redaktor bibliograafiate muutmiseks LaTeXi kõlblikuks
+org.kde.kblackbox	Blackboxi loogikamäng
+org.kde.kblocks	Langevate klotside mäng
+org.kde.kbounce	KBounce on ühe mängijaga arkaadmäng mitmete mõistatuse elementidega
+org.kde.kbreakout	KBreakOut on KDE Breakouti moodi mäng
+org.kde.kbruch	Ülesanded murdudega
+org.kde.kcachegrind	Profileerimise kasutajaliides
+org.kde.kcalc	Teaduslik kalkulaator
+org.kde.kclock	Set alarms and timers, use a stopwatch, and manage world clocks
+org.kde.kcolorchooser	Värvivalija ja värvipaleti redaktor
+org.kde.kdenlive	Videoredaktor
+org.kde.kdevelop	C/C++ ja teiste programmeerimiskeelte omadusterohke ning pluginatega laiendatav IDE
+org.kde.kdiamond	KDiamond on KDE kolm ühes reas mäng.
+org.kde.kdiff3	A file and folder comparison and merge tool
+org.kde.keysmith	Kaheastmelise autentimise koodi genereerimine Plasma Mobile ja Plasma töölaua tarbeks
+org.kde.kfind	Failide/kataloogide otsimine
+org.kde.kfourinline	KFourInLine on KDE neli ühes reas mäng
+org.kde.kgeography	Geograafia tundmaõppimise vahend
+org.kde.kgeotag	Photo geotagging program
+org.kde.kget	Allalaadimiste haldur
+org.kde.kgoldrunner	Kulla jahtimine, vaenlaste eest põiklemine ja mõistatuste lahendamine
+org.kde.kgraphviewer	A Graphviz DOT graph viewer
+org.kde.khangman	Poomismäng
+org.kde.kid3	Helifailide metaandmete muutmine
+org.kde.kig	Interaktiivne geomeetria
+org.kde.kigo	Go mäng
+org.kde.kile	TeX/LaTeX Editor
+org.kde.killbots	Võitmiseks on tarvis tapjarobotid üle kavaldada
+org.kde.kimagemapeditor	Hüperpildiredaktor
+org.kde.kiriki	Yahtzee moodi täringumäng
+org.kde.kiten	Jaapani keele õpiprogramm
+org.kde.kjumpingcube	Mänguala vallutamise mäng
+org.kde.kleopatra	Sertifikaadihaldur ja ühtne krüptimise graafiline kasutajaliides
+org.kde.klettres	Tähestiku õppimine
+org.kde.klickety	Klickety on mängu Clickomania mugandus
+org.kde.klines	Taktikamäng
+org.kde.kmahjongg	Mahjongi mäng
+org.kde.kmines	Minesweeperi moodi mäng
+org.kde.kmplayer	KDE MPlayeri liides
+org.kde.kmplot	Matemaatiliste funktsioonide joonistaja
+org.kde.kmymoney	Personal finance manager based on double-entry bookkeeping
+org.kde.knavalbattle	Laevade pommitamise mäng
+org.kde.knetwalk	KNetWalk on süsteemiadministraatorite mäng
+org.kde.knights	Malemäng
+org.kde.koko	Pildigalerii
+org.kde.kolf	Miniatuurne golf
+org.kde.kollision	Ajaviite-pallimäng
+org.kde.kolourpaint	Joonistamisrakendus
+org.kde.kommit	Git GUI client
+org.kde.kompare	Diff/Patch'i kasutajaliides
+org.kde.kongress	KDE konverentsiabiline
+org.kde.konquest	Galaktiline strateegiamäng
+org.kde.konsole	Terminal
+org.kde.kontact	Kõigi e-kirjade, kalendrite, kontaktide ja veel palju muu käitlemine ühesainsas aknas
+org.kde.kontrast	A Color Contrast Checker
+org.kde.konversation	IRC klient
+org.kde.kpat	Solitaire kaardimäng
+org.kde.kphotoalbum	KDE pildihalduse tarkvara
+org.kde.krdc	Ühendumine RDP või VNC kaudu teise arvutiga
+org.kde.krename	Võimas failide nime hulgikaupa muutja
+org.kde.kreversi	Reversi lauamäng
+org.kde.krita	Digitaalne joonistamine, loominguline vabadus
+org.kde.kronometer	Kronomeeter
+org.kde.kruler	Ekraani joonlaud
+org.kde.ksirk	Maailma vallutamise strateegiamäng
+org.kde.ksnakeduel	Troni moodi mäng
+org.kde.ksquares	Punktide ühendamine ruutude loomiseks
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	Töölaua planetaarium
+org.kde.ksudoku	Arvmõistatus arvude paigutamiseks ühest üheksani
+org.kde.kteatime	Teekann
+org.kde.ktimetracker	Isikliku aja arvestamine
+org.kde.ktorrent	BitTorrenti klient
+org.kde.ktouch	Klaviatuuri treening
+org.kde.ktrip	Public transport navigator
+org.kde.ktuberling	Lihtne kokkupanekumäng, mis sobib nii lastele kui ka täiskasvanutele
+org.kde.kturtle	Hariv programmeerimise keskkond
+org.kde.kubrick	3-D mäng, mille eeskujuks on Rubiku kuubik
+org.kde.kuiviewer	Qt Designeri UI-failide näitaja
+org.kde.kwalletmanager5	Turvalaegaste haldur
+org.kde.kweather	View real-time weather forecasts and other information
+org.kde.kwordquiz	Sähvikute treening
+org.kde.kwrite	Tekstiredaktor
+org.kde.kxstitch	Tikkimismustrite loomise rakendus
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	Tõlkemäluga tõlkimisrakendus
+org.kde.lskat	Saksa kaardimäng skatt kahele mängijale
+org.kde.marble	Virtuaalgloobus
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	Muusika õpitarkvara
+org.kde.neochat	A client for matrix, the decentralized communication protocol
+org.kde.okteta	Binaarfailide redaktor
+org.kde.okular	Dokumendinäitaja
+org.kde.palapeli	Puslemäng
+org.kde.parley	Sõnavara treening
+org.kde.peruse	Koomiksite lugemine
+org.kde.picmi	Arvuloogikal põhinev mõistatusmäng
+org.kde.pix	Image Gallery
+org.kde.plasmatube	Watch YouTube videos
+org.kde.qmlkonsole	Mobiili terminal
+org.kde.rocs	Rocs graafiteooria
+org.kde.ruqola	Rocket Chati klient
+org.kde.skanpage	Multi-page document scanning application
+org.kde.skrooge	Single-entry bookkeeping for home use
+org.kde.subtitlecomposer	Videosubtiitrite redaktor, mis toetab nii põhilisi ja kui ka spetsiifilisemaid muutmistoiminguid
+org.kde.SymbolEditor	A cross stitch symbol editor
+org.kde.tellico	Kogude haldur
+org.kde.telly-skout	A convergent Kirigami TV guide
+org.kde.tokodon	Mastodoni klient
+org.kde.umbrello	UML-i modelleerimise rakendus
+org.kde.vvave	Muusikakogu esitamine
+org.kde.yakuake	Lahtikeritavi terminal
+org.keepassxc.KeePassXC	Windowsi rakenduse "KeePass Password Safe" kogukonnapõhine port
+org.KekikAkademi.BTKSorgu	Kas sihtveebisait on Türgis juurdepääsetav? (BTK)
+org.KekikAkademi.eFatura	E-arve kasutamise päring maksu- või TR-i isikunumbrilt
+org.kekikakademi.ntvHaber	Ägedad uudised türgi keeles saidilt NTV.com.tr
+org.kicad.KiCad	EDA komplekt skemaatiliseks ja trükkplaadi kujundamiseks
+org.kiwix.desktop	Vaadake võrguühenduseta sisu
+org.kosmospredanie.Yakblt	Lihtne kuulide vältimise mäng
+org.kryogenix.hushboard	Sisestamise ajal vaigistage mikrofon
+org.kryogenix.Pick	Värvivalija
+org.kryogenix.utm_no	Eemaldage kopeeritud URL-idest jälgimisparameetrid
+org.ksnip.ksnip	Platvormideülene ekraanipildi tööriist annotatsioonifunktsioonidega
+org.lamport.tla.toolbox	TLA+ Toolbox on IDE (integreeritud arenduskeskkond) TLA+ tööriistade jaoks
+org.laptop.TurtleArtActivity	Logost inspireeritud kilpkonn, mis joonistab värvilisi pilte kokkupandavate visuaalsete programmeerimisplokkidega
+org.learningequality.Kolibri	Võrguühenduseta haridustehnoloogia platvorm
+org.leocad.LeoCAD	Kujundage virtuaalseid mudeleid, mida saate LEGO klotsidest ehitada
+org.librecad.librecad	2D arvutipõhine disain (CAD)
+org.librehunt.Organizer	Utiliit failide korralikesse kategooriatesse korraldamiseks
+org.libreoffice.LibreOffice	LibreOffice'i tootlikkuse komplekt
+org.librepcb.LibrePCB	Disainiskeemid ja PCB-d
+org.libretrainsim.Libre-TrainSim	Tasuta rongisimulaator kõigile
+org.libretro.RetroArch	Emulaatorite, mängumootorite ja meediapleierite kasutajaliides
+org.libsdl.Maelstrom	Kvaliteetne asteroidide kloon
+org.libvips.vipsdisp	Pildivaatur
+org.linux_hardware.hw-probe	Kontrollige arvuti riistvara toimivust ja leidke draiverid
+org.linuxshowplayer.LinuxShowPlayer	Lavalavastuste jaoks mõeldud kiimängija
+org.localsend.localsend_app	Jagage faile lähedalasuvate seadmetega
+org.love2d.love2d	LÖVE on suurepärane 2D-mänguraamistik Lua jaoks.
+org.lyx.LyX	Dokumendi töötleja
+org.mamedev.MAME	MAME on mitmeotstarbeline emulatsiooniraamistik.
+org.manaplus.ManaPlus	Laiendatud klient The Mana Worldi ja sarnaste serverite jaoks
+org.mapeditor.Tiled	Üldotstarbeline kaardiredaktor
+org.mattbas.Glaxnimate	Vektoranimatsiooni redaktor
+org.mattdm.icebreaker	Sõltuvust tekitav märulimäng, milles osalevad põrkavad pingviinid
+org.mavlink.qgroundcontrol	UAS maapealne juhtimisjaam
+org.megaglest.MegaGlest	Reaalajas strateegiamäng (RTS)
+org.megamek.MegaMek	Võitlege hiiglaslike robotite, tankide ja/või jalavägede abil kuusnurksel kaardil.
+org.mersenne.mprime	Tasuta Mersenne Prime'i otsingutarkvara
+org.metal3d.scoreboard	Lihtne tulemustabel mis tahes mängu punktide lugemiseks
+org.mfek.MFEKglif	Glüüfiredaktor projekti Modular Font Editor K jaoks
+org.midori_browser.Midori	Kiire ja kerge veebibrauser
+org.milkytracker.MilkyTracker	Fast Tracker II inspireeritud muusikajälgija
+org.mixxx.Mixxx	Kõik, mida vajate elavate DJ-mikside esitamiseks
+org.mmass.mMass	Avatud lähtekoodiga massispektromeetria tööriist
+org.mobsya.ThymioSuite	Lihtne juurdepääs Thymio programmeerimisliidestele
+org.moneymanagerex.MMEX	Korraldage rahaasju ja jälgige rahavoogusid
+org.mosh.mosh	Mobiilne kest
+org.mozilla.firefox	Kiire, privaatne ja turvaline veebibrauser
+org.mozilla.Thunderbird	Thunderbird on tasuta avatud lähtekoodiga meili-, uudistevoo-, vestlus- ja kalendriklient
+org.mpdevil.mpdevil	Lihtne muusikabrauser MPD jaoks
+org.msweet.htmldoc	HTML-i teisendamise tarkvara
+org.munadi.Munadi	Lihtne Athani rakendus
+org.musescore.MuseScore	Looge, esitage ja printige ilusaid noote
+org.musicbrainz.Picard	MusicBrainzi muusikasildistaja
+org.mypaint.MyPaint	Maalimisprogramm digikunstnikele
+org.naev.Naev	2D action/rpg kosmosekaubanduse võitlusmäng
+org.nanuc.Axolotl	Axolotl on platvormideülene signaaliklient
+org.netsurf_browser.NetSurf	väike veebibrauser CSS-i toega
+org.neverball.Neverball	Juhtige veerevat palli osavalt läbi paljude 3D-tasemete
+org.nickvision.cavalier	Visualiseerige heli CAVA abil
+org.nickvision.money	Hallake oma isiklikke rahaasju
+org.nickvision.tagger	Märkige oma muusika
+org.nickvision.tubeconverter	Laadige alla veebivideo ja heli
+org.nicotine_plus.Nicotine	Soulseeki võrgu graafiline klient
+org.nmap.Zenmap	Platvormideülene GUI Nmap Security Scanneri jaoks
+org.nomacs.ImageLounge	nomacs on tasuta avatud lähtekoodiga pildivaatur
+org.nongnu.enigma	Puslemäng
+org.nongnu.gsequencer.gsequencer	Täiustatud Gtk+ järjestus
+org.nongnu.Xlog	Logiprogramm raadioamatööroperaatoritele
+org.nsnam.NetAnim	NetAnim on võrguühenduseta animaator ns-3 jaoks
+org.nuspell.Nuspell	õigekirjakontroll
+org.octave.Octave	Interaktiivne programmeerimiskeskkond arvarvutuste tegemiseks
+org.olivevideoeditor.Olive	Mittelineaarne videoredaktor
+org.omegat.OmegaT	Lihtne avatud lähtekoodiga tõlkemäluhaldur ja CAT-tööriist
+org.onionshare.OnionShare	Jagage turvaliselt ja anonüümselt faile, hostige veebisaite ja vestelge sõpradega
+org.onlyoffice.desktopeditors	Kontori tootlikkuse komplekt
+org.openandroidinstaller.OpenAndroidInstaller	Teeb alternatiivsete Androidi distributsioonide installimise mõnusaks ja lihtsaks
+org.openchemistry.Avogadro2	Tasuta ja avatud lähtekoodiga molekulaarne redaktor
+org.openclonk.OpenClonk	Mitme mängijaga põnevusmäng, kus juhite väikseid ja väledaid humanoide
+org.opencpn.OpenCPN	Lühike kaardiplotter ja navigeerimistarkvara
+org.openfodder.OpenFodder	DOS-i strateegiamängu Cannon Fodder avatud lähtekoodiga port.
+org.openhantek.OpenHantek6022	DSO tarkvara Hantek USB digitaalse signaali ostsilloskoopide 6022BE/BL jaoks
+org.openjkdf2.OpenJKDF2	„Jedi Knight: Dark Forces II” platvormideülene taasteostus
+org.openkj.OpenKJ	Professionaalne karaoke hostimistarkvara
+org.openmsx.openMSX	Emuleerige MSX-i kõiki aspekte suure täpsusega
+org.openmw.OpenMW	The Elder Scrolls III uuesti rakendamine: Morrowind
+org.opennumismat.OpenNumismat	Müntide kogumise tarkvara oma kataloogi korraldamiseks ja haldamiseks
+org.openrgb.OpenRGB	Avatud lähtekoodiga RGB valgustuse juhtimine, mis ei sõltu tootja tarkvarast.
+org.openscad.OpenSCAD	Programmers Solid 3D CAD modelleerija
+org.openscopeproject.TrguiNG	Remote GUI for Transmission torrent deemon
+org.openshot.OpenShot	Lihtsalt kasutatav, kiiresti õpitav ja üllatavalt võimas videoredaktor
+org.openstreetmap.josm	Java OpenStreetMap redaktor
+org.opensurge2d.OpenSurge	Lõbus 2D retroplatvorm, mis on inspireeritud Sonicu mängudest ja mängude loomise süsteemist
+org.opentransactions.metier	Mitme valuuta plokiahela rahakott ja Open-Transactionsi klient
+org.openttd.OpenTTD	Avatud lähtekoodiga simulatsioonimäng, mis põhineb Transport Tycoon Deluxel
+org.otfried.Ipe	Ipe laiendatav joonistusredaktor
+org.pairinteraction.Pairinteraction	Rydbergi interaktsioonikalkulaator
+org.paraview.ParaView	Andmete analüüs ja visualiseerimine
+org.parlatype.Parlatype	Meediumipleier kõne transkriptsiooniks
+org.pegasus_frontend.Pegasus	Platvormideülene, kohandatav graafiline kasutajaliides emulaatorite käivitamiseks
+org.pencil2d.Pencil2D	2D-animatsioonitarkvara, mis toetab bitmap- ja vektorgraafikat
+org.phoenicis.playonlinux	Installige ja käivitage Windowsi tarkvara Linuxis
+org.photoqt.PhotoQt	Vaadake ja hallake pilte
+org.pipewire.Helvum	Patchbay PipeWire'i jaoks
+org.pitivi.Pitivi	Loo ja muuda enda filme
+org.pjbroad.EternallandsClient	Eternal Lands on tasuta mängitav graafiline MMORPG
+org.plomgrading.PlomClient	Hindamis-/märgistamisklient veebipõhise hindamissüsteemi Plom jaoks
+org.polymc.PolyMC	Minecrafti kohandatud käivitusprogramm, mis võimaldab teil hõlpsalt hallata mitut Minecrafti installi korraga
+org.ppsspp.PPSSPP	PlayStation Portable emulaator
+org.prismlauncher.PrismLauncher	Minecrafti kohandatud käivitusprogramm, mis võimaldab teil hõlpsalt hallata mitut Minecrafti installi korraga
+org.processing.processingide	Avatud lähtekoodiga tarkvara prototüüpimisplatvorm
+org.profex_xrd.Profex	Avatud lähtekoodiga XRD ja Rietveld Refinement
+org.pulseaudio.pavucontrol	Reguleerige riistvaraseadmete ja rakenduste helitugevust
+org.purei.Play	Playstation 2 emulaator
+org.pydpainter.PyDPainter	Kasutatav Pythonis kirjutatud pixel art värvimisprogramm
+org.pymol.PyMOL	Molekulaarne visualiseerimine ja kiirte jälgimine
+org.pyzo.pyzo	Pythoni IDE, mille eesmärk on lihtsus ja interaktiivsus
+org.qbittorrent.qBittorrent	Avatud lähtekoodiga Bittorrenti klient
+org.qelectrotech.QElectroTech	Elektriskeemi redaktor
+org.qgis.qgis	Tasuta ja vabavaraline geoinfosüsteem
+org.qownnotes.QOwnNotes	Lihttekstifailide märkmik Markdowni toe ja Nextcloudi / ownCloudi integratsiooniga
+org.quassel_irc.QuasselClient	Kaasaegne hajutatud IRC klient
+org.quetoo.Quetoo	Tasuta esimese inimese tulistamismäng Macile, PC-le ja Linuxile
+org.qutebrowser.qutebrowser	Klaviatuuripõhine veebibrauser
+org.qxmledit.QXmlEdit	XML-redaktor
+org.raceintospace.Raceintospace	Mäng 1960. aastate kosmosevõistluse taaselustamiseks
+org.racket_lang.Racket	Keelele orienteeritud programmeerimiskeel
+org.radare.iaito	Qt ja C++ GUI radare2 pöördprojekteerimise raamistiku jaoks
+org.raspberrypi.rpi-imager	Raspberry Pi pildindusutiliit
+org.remmina.Remmina	Kaugtöölaua klient
+org.rncbc.qpwgraph	PipeWire Graph Qt GUI liides
+org.rncbc.qsynth	Fluidsynth Qt GUI liides
+org.rncbc.qtractor	Heli/MIDI mitme rajaga sekvenser
+org.robocode.Robocode	Ehitage parim - hävitage ülejäänud!
+org.rolisteam.rolisteam	Rolisteami serveri kliendikaaslane
+org.ryujinx.Ryujinx	Nintendo Switchi emulaator
+org.sabnzbd.sabnzbd	Tasuta ja lihtne binaarne uudistelugeja
+org.sauerbraten.Sauerbraten	Tasuta mitme mängijaga ja ühe mängijaga esimese isiku tulistamismäng, Cube FPS-i järeltulija
+org.scantailor.ScanTailor	Interaktiivne järeltöötlustööriist skannitud lehtede jaoks
+org.scilab.Scilab	Teaduslik tarkvarapakett arvarvutuste jaoks
+org.scintilla.SciTE	SCIntilla põhinev tekstiredaktor
+org.scummvm.ScummVM	Tõlk arvukate seiklusmängude ja rollimängude jaoks
+org.sdrangel.SDRangel	TX ja RX tarkvara määratletud raadio
+org.seul.crimson	Käigupõhine taktikaline sõjamäng
+org.shadered.SHADERed	Tööriist HLSL-i ja GLSL-varjurite loomiseks ja testimiseks
+org.shadowsocks.qt5client	Natiivne ja platvormideülene shadowsocks GUI klient koos täiustatud funktsioonidega.
+org.shotcut.Shotcut	Videoredaktor
+org.signal.Signal	Privaatsõnum
+org.sigxcpu.Livi	Lihtne GTK4-põhine videopleier mobiiltelefonidele
+org.sil.Bloom	Kirjaoskuse materjalide arendamine keelekogukondadele
+org.sil.FieldWorks	Keele- ja kultuuriandmete haldamine
+org.skytemple.Randomizer	Juhuslik valik Pokémon Mystery Dungeon Explorers of Sky jaoks
+org.skytemple.SkyTemple	ROM-i redaktor Pokémon Mystery Dungeon Explorers of Sky jaoks
+org.soapui.SoapUI	SoapUI OS on API-de ja veebiteenuste funktsionaalne testimislahendus
+org.solarus_games.solarus.Launcher	Sirvige ja mängige oma Solaruse ülesannete kollektsiooni.
+org.sonic3air.Sonic3AIR	Fännide loodud Sonic 3 & Knucklesi laiekraani remaster.
+org.soundconverter.SoundConverter	Teisendage helifaile
+org.sparkleshare.SparkleShare	Magic isehostitud Git-failide sünkroonimine
+org.speedcrunch.SpeedCrunch	Kõrge täpsusega teaduslik kalkulaator
+org.speed_dreams.SpeedDreams	Speed Dreams on platvormideülene 3D avatud lähtekoodiga motospordi simulatsiooni- ja võidusõidumäng
+org.sqlitebrowser.sqlitebrowser	DB Browser for SQLite on kerge GUI-redaktor SQLite'i andmebaaside jaoks
+org.squeakland.Etoys	Õppige visuaalse programmeerimisega
+org.squey.Squey	Uurige oma andmeid
+org.squidowl.halloy	Roostes kirjutatud IRC klient
+org.srb2.SRB2	3D-fännmäng Sonic the Hedgehog, mis põhineb Doom Legacy muudetud versioonil
+org.srb2.SRB2Kart	Kardisõidu mod, mis põhineb fanmängul Sonic the Hedgehog 3D Sonic Robo Blast 2
+org.srb2.SRB2Kart-galaxy	Modifitseeritud SRB2Kart, mis lisab palju kohandatud funktsioone
+org.srb2.SRB2Kart-galaxy_azerty	Modifitseeritud SRB2Kart, mis lisab palju kohandatud funktsioone ja erksa prantsuse klaviatuuripaigutusega
+org.srb2.SRB2Kart-Saturn	Modifitseeritud SRB2Kart, mis lisab palju kohandatud funktsioone
+org.srb2.SRB2Persona	Personast inspireeritud modifikatsioon, mis põhineb 3D-fännmängul Sonic the Hedgehog Sonic Robo Blast 2
+org.standardnotes.standardnotes	Lihtne ja privaatne koht teie märkmete, mõtete ja elutöö jaoks
+org.stellarium.Stellarium	Töölaua planetaarium
+org.stochas.Stochas	Stochase sekvenser
+org.strawberrymusicplayer.strawberry	Muusikamängija ja kollektsiooni korraldaja
+org.subsurface_divelog.Subsurface	Sukeldumisarvuti andmete haldamine ja kuvamine
+org.subtitld.Subtitld	Subtitld on tarkvara subtiitrite loomiseks ja redigeerimiseks
+org.sugarlabs.AbacusActivity	Tööriist lihtsate aritmeetiliste arvutuste tegemiseks
+org.sugarlabs.Chart	Looge oma diagrammid
+org.sugarlabs.Chess	Magus malemäng
+org.sugarlabs.ColorDeducto	Loogilisel induktsioonil põhinev mäng
+org.sugarlabs.Dimensions	Mustri sobitamise mäng
+org.sugarlabs.Finance	Õppige finantsplaneerimise põhitõdesid
+org.sugarlabs.FotoToon	Looge oma koomiks
+org.sugarlabs.FractionBounce	Mäng murdude kohta
+org.sugarlabs.ImplodeActivity	Plahvatage sama värvi klotse, kuni need kõik on kadunud
+org.sugarlabs.Maze	Lihtne labürindimäng
+org.sugarlabs.Measure	Ostsilloskoobi programm mikrofoni sisendi visualiseerimiseks
+org.sugarlabs.Memorize	Leidke sobivad paarid
+org.sugarlabs.MusicBlocks	Tööriistade kogumik põhiliste muusikakontseptsioonide lõbusaks uurimiseks.
+org.sugarlabs.MusicKeyboard	Esitage muusikat selle klaveriklaviatuuriga
+org.sugarlabs.Paint	Magus värvimisvahend
+org.sugarlabs.Physics	Tõesta Sir Isaac Newtoni õigsust
+org.sugarlabs.Pippy	Rääkige Pythonis arvutiga
+org.sugarlabs.Pukllanapac	Libisev-puslemäng
+org.sugarlabs.ReadETexts	Lugege tuhandeid tasuta e-raamatuid
+org.sugarlabs.Sliderule	Mehaaniline kalkulaator
+org.sugarlabs.SolarSystem	Õppige planeetide kohta
+org.sugarlabs.Speak	Animeeritud nägu, mis räägib mida iganes sisestate
+org.sugarlabs.StoryActivity	Räägi lugu
+org.sugarlabs.SwiftFeet	Tõuse jalule ja tantsi!
+org.sugarlabs.TurtlePondActivity	Ümbritse kilpkonn, enne kui see ekraanilt jookseb
+org.sugarlabs.Words	Mitmekeelne võrguühenduseta sõnastik
+org.supertuxproject.SuperTux	Hüppa ja jookse mäng, mille peaosas on pingviin Tux
+org.surge_synth_team.surge-xt	Surge XT süntesaator eraldiseisev
+org.synfig.SynfigStudio	Looge ja redigeerige 2D-animatsioone ja kompositsioone
+org.syphon.Syphon	vestelda oma privaatsuse ja vabadusega
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) on populaarne tasuta turvatööriist.
+org.zdoom.GZDoom	Klassikaline esimese isiku tulistamismootor kõigi klassikaliste ID-mängude jaoks
+org.zealdocs.Zeal	Dokumentatsiooni brauser
+org.zim_wiki.Zim	Kirjutage töölaua vikis märkmeid
+org.zirael.bkchem.BKChem	Molekulide joonistamise programm
+org.zotero.Zotero	Koguge, korraldage, tsiteerige ja jagage uuringuid
+org.zrythm.Zrythm	Digitaalne helitööjaam
+org.zulip.Zulip	Zulipi töölauaklient Linuxile
+org.tabos.maxcontrol	Juhttarkvara Max! seadmeid
+org.tabos.roger	Ajakiri, faksitarkvara ja kõnemonitor AVM FRITZ!Boxi või ühilduva jaoks
+org.tabos.saldo	Kontrollige oma pangakontosid
+org.tabos.twofun	Puutepõhine reaktsioonimäng kahele mängijale.
+org.taisei_project.Taisei	Bullet hell shoot 'em up mäng, mis toimub Tōhō universumis
+org.telegram.desktop	Kiire. Turvaline. Võimas.
+org.telesculptor.TeleSculptor	Fotogrammeetria, mis on loodud õhuvideole keskendudes
+org.tenacityaudio.Tenacity	Salvestage ja redigeerige helifaile
+org.texstudio.TeXstudio	LaTeX-i redaktor
+org.thentrythis.Samplebrain	Aphex Twini kujundatud kohandatud näidisrakendus
+org.thonny.Thonny	Python IDE algajatele
+org.tigervnc.vncviewer	Ühendage VNC-serveriga ja kuvage kaugtöölaud
+org.tildearrow.furnace	Avatud lähtekoodiga chiptune'i jälgija
+org.tomviz.Tomviz	Nanomõõtmeliste materjalide tasuta ja avatud lähtekoodiga tomograafiline visualiseerimine
+org.tordini.flavio.Minitube	YouTube'i rakendus
+org.torproject.torbrowser-launcher	Programm, mis aitab teil alla laadida, värskendada ja käivitada Tor Browser Bundle'i
+org.tribler.Tribler	Bittorrenti anonüümseks muutmise ja selle sulgemise võimatuse poole.
+org.tropy.Tropy	Uurige oma uurimistöö fotosid
+org.tryton.Tryton-68	Trytoni rakendusplatvormi klient
+org.tryton.Tryton-70	Trytoni rakendusplatvormi klient
+org.tug.texworks	Lihtne keskkond TeX-dokumentide redigeerimiseks, ladumiseks ja eelvaateks
+org.turbowarp.TurboWarp	Scratchi mod koos kompilaatoriga projektide kiiremaks käivitamiseks, tume režiim, hulk lisandmooduleid ja palju muud
+org.tuxemon.Tuxemon	Tuxemon on tasuta avatud lähtekoodiga koletiste vastu võitlev RPG.
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon emulaator
+org.tuxfamily.StuntRally	Ralli sõidustiiliga võidusõidumäng
+org.tuxfamily.XMoto	2D motokrossi platvormmäng
+org.tuxpaint.Tuxpaint	Joonistusprogramm lastele
+org.tvbrowser.TVBrowser	Tasuta EPG
+org.twinery.Twine	Twine on avatud lähtekoodiga tööriist interaktiivsete mittelineaarsete lugude jutustamiseks
+org.ultimatepp.TheIDE	IDE platvormideülese U++ rakenduste arendusraamistiku jaoks
+org.unitystation.StationHub	Avatud lähtekoodiga mängu Unitystation käivitusprogramm
+org.unknown_horizons.UnknownHorizons	Avatud lähtekoodiga reaalajas majanduse simulatsioonimäng
+org.upnproutercontrol.UPnPRouterControl	Lihtne programm, mis haldab UPnP-ga ühilduvaid ruutereid
+org.upscayl.Upscayl	Tasuta avatud lähtekoodiga AI-pildi suurendaja
+org.v1993.NXDumpClient	Klient nxdumptooliga USB-liidese kopeerimiseks
+org.verapdf.veraPDF	veraPDF on PDF/A arhiveerimisstandardi failivormingu valideerija
+org.vergecurrency.verge-qt	VergeCurrency, turvaline ja kasutajasõbralik digitaalne valuuta.
+org.vertcoin.vertcoin-qt	Vertcoini peer-to-peer võrgusõlme, rahakoti ja GUI täielik valideerimine
+org.videolan.VLC	VLC-meediumipleier, avatud lähtekoodiga multimeediumipleier
+org.viking.Viking	GPS-andmete redaktor ja analüsaator
+org.vim.Vim	Üldlevinud tekstiredaktor
+org.vinegarhq.Vinegar	Funktsioonidega väike ja kiire alglaadija Robloxi jaoks
+org.virt_manager.virt-viewer	Kaugjuurdepääs virtuaalmasinatele
+org.virtualxt.VirtualXT	Turbo PC/XT emulaator
+org.wesnoth.Wesnoth	Kõrge fantaasia teemaga käigupõhine strateegiamäng
+org.wezfurlong.wezterm	GPU-kiirendusega platvormideülene terminali emulaator ja multiplekser
+org.wfview.wfview	Avatud lähtekoodiga liides Icomi transiiveritele
+org.widelands.Widelands	Reaalajas koostatav strateegiamäng
+org.winehq.Wine	Käivitage Windowsi rakendusi Linuxis, BSD-s, Solarises ja Mac OS X-is
+org.wireshark.Wireshark	Wireshark on maailma juhtiv protokolli analüsaator
+org.worldpossible.ScriptLauncher	Tööriist shelliskriptide käitamiseks juurõigustega
+org.wxhexeditor.wxHexEditor	Täiustatud suurte failide hex-redaktor
+org.xfce.mousepad	Mousepad on lihtne tekstiredaktor Xfce töölauakeskkonna jaoks
+org.xfce.ristretto	Lihtne ja kiire pildinäitaja
+org.xiphos.Xiphos	Piibli uurimise juhend
+org.xnec2c.Xnec2c	NEC2-l põhinev mitme keermega EM-tööriist antenni kiirgusmustrite modelleerimiseks
+org.xonotic.Xonotic	Mitmikmäng, surmamatšile orienteeritud esimese isiku tulistamismäng
+org.x.Warpinator	Failid saatmine ja vastuvõtmine võrgu kaudu
+org.yamagi.YamagiQ2	Yamagi Quake II on id Software Quake II alternatiivne klient
+org.yuzu_emu.yuzu	Nintendo Switchi emulaator
+page.codeberg.DrRac27.Karoto	Ostunimekirja rakendus Linuxi mobiilile
+page.codeberg.Imaginer.Imaginer	Kujutage ette AI-ga
+page.codeberg.JakobDev.CCLite	ComputerCrafti emulaator
+page.codeberg.JakobDev.jdAnimatedImageEditor	Lihtne programm animeeritud piltide loomiseks
+page.codeberg.JakobDev.jdAppStreamEdit	Graafiline programm AppStreami failide loomiseks ja redigeerimiseks
+page.codeberg.JakobDev.jdDBusDebugger	Täiustatud D-Busi silur
+page.codeberg.JakobDev.jdDesktopEntryEdit	Graafiline programm töölauakirjete loomiseks ja redigeerimiseks
+page.codeberg.JakobDev.jdDiff	Graafiline platvormidevaheline erinevuste vaataja
+page.codeberg.JakobDev.jdEolConverter	Teisendab kõigi kataloogis olevate failide rea lõpu
+page.codeberg.JakobDev.jdFlatpakSnapshot	Programm Flatpaki rakenduste hetktõmmiste loomiseks
+page.codeberg.JakobDev.jdMinecraftLauncher	Klassikaline Minecrafti käivitaja
+page.codeberg.JakobDev.jdMrpackInstaller	Installige Modrinth modpacks
+page.codeberg.JakobDev.jdNBTExplorer	Minecrafti NBT-failide redaktor
+page.codeberg.JakobDev.jdPixelUpscaler	Kallis pildid piksli kohta
+page.codeberg.JakobDev.jdProcessFileWatcher	Jälgige ja kuvage hõlpsalt reaalajas juurdepääsu failidele mis tahes protsessi jaoks
+page.codeberg.JakobDev.jdReplace	Funktsiooniga jdReplace saate asendada teksti kõigis kataloogifailides
+page.codeberg.JakobDev.jdSimpleAutostart	Redigeeri automaatse käivitamise kirjeid
+page.codeberg.JakobDev.jdTextEdit	Täiustatud tekstiredaktor
+page.codeberg.lazyt.ubpm	Hallake vererõhu andmeid
+page.codeberg.libre_menu_editor.LibreMenuEditor	Kohandage menüüd
+page.codeberg.papojari.Find_Billy	Pikslikunsti 2D-platvormimäng.
+page.codeberg.Qwel.egui_picross	Põhimäng pikrossist, nonogrammist, grillist
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita mäng, mille teemaks on koer
+page.codeberg.tpikonen.geobug	Kontrollige oma asukohta ja salvestage see GPX-rajale
+page.codeberg.tpikonen.satellite	Kontrollige oma GPS-vastuvõttu ja salvestage oma jäljed
+page.codeberg.yeldham.Librerama	Tasuta/tasuta kiire tempoga minimängude arkaadkogu
+party.supertux.supertuxparty	Seltskonnamäng FLOSSi maskottidega
+pl.art.lach.slawek.V2BlankBrowser	Veebibrauser, mis ei rämpskuva ekraani
+pl.nieto.fityk	Mittelineaarne kõvera sobitamine ja andmete analüüs
+pl.youkai.lanchat	LAN-vestlus ja failiedastus
+pl.youkai.nscan	Võrguskanner.
+pm.mirko.Atoms	Hallake Chrooti ja konteinereid.
+pro.vpup.vpuppr	VTuberi rakendus, mis on tehtud Godot 3.4-ga
+radio.k0swe.Kel_Agent	Raadioamatöör veebiagent
+re.chiaki.Chiaki	Tasuta avatud lähtekoodiga klient PlayStation Remote Play jaoks
+re.rizin.cutter	Tasuta ja avatud lähtekoodiga pöördprojekteerimise platvorm, mida toidavad Rizin ja Qt
+re.sonny.Commit	Pühenda sõnumiredaktor
+re.sonny.Junction	Rakenduse valija
+re.sonny.OhMySVG	Vähendage SVG-de suurust
+re.sonny.Playhouse	Mänguväljak HTML/CSS/JavaScript jaoks
+re.sonny.Retro	Kohandatav retro digitaalne segmentkell
+re.sonny.Tangram	Kinnitatud vahelehtede brauser
+re.sonny.Workbench	Õppige ja prototüüpige GNOME tehnoloogiate abil
+rest.insomnia.Insomnia	Avatud lähtekoodiga API klient ja disainiplatvorm GraphQL-i, REST-i ja gRPC jaoks.
+rocks.koreader.KOReader	Dokumendivaatur DjVu, PDF, EPUB ja muu jaoks
+ro.fxdata.taskmonitor.viewer	Visualiseerige TaskMonitori andmed
+ro.go.hmlendea.DL-Desktop	Keeleõpperakenduse Duolingo mitteametlik töölauaklient
+ro.go.hmlendea.SokoGrump	Sokobani-laadne loogikamäng Grumpy Catiga
+ro.hume.cosmin.ShoppingList	Ostunimekirja rakendus GNU/Linuxi mobiilseadmetele
+ru.proninyaroslav.libretrack	Privaatne platvormideülene pakkide jälgimise rakendus
+ru.sview.sView	Stereoskoopiline meediapleier
+ru.yandex.Browser	Yandexi veebibrauser
+sa.sy.bluerecorder	Lihtne ekraanisalvesti Linuxi töölaua jaoks. Toetab Waylandi ja Xorgi
+se.cendio.tlclient	Linuxi kaugtöölaua server, mis on üles ehitatud avatud lähtekoodiga tehnoloogiale
+se.emijoh.mpw	Arvutage saidi parool, kui seda vajate.
+se.manyver.Manyverse	detsentraliseeritud sotsiaalvõrgustik
+se.sjoerd.GIScan	Lugege ja analüüsige cbf-vormingus salvestatud GISAXS-i andmeid
+se.sjoerd.Graphs	Joonistage ja manipuleerige andmeid
+sh.cider.Cider	Avatud lähtekoodiga ja kogukonnale suunatud Apple Musicu klient
+sh.fhs.KatawaShoujoReEngineered	Klassikalise bishoujo stiilis visuaalse romaani kaasaegne versioon
+sh.ppy.osu	Tasuta võidetav rütmimäng. Rütm on vaid *klõpsu* kaugusel!
+sh.xaviers.Opentapes	Kuulake hip-hopi miksteipe
+si.tano.Vremenar	Kuva ilmastikutingimused ja -prognoos kaardil kiirel ja lihtsal viisil
+site.someones.Lonewolf	Korraldage ja jälgige oma ülesandeid hõlpsalt ja paindlikult
+sm.puri.Chatty	Sõnumirakendus mobiilile ja lauaarvutile
+social.whalebird.WhalebirdDesktop	Whalebird on Mastodoni, Pleroma ja Misskey töölaua klient
+so.libdb.gtkcord4	GTK4 Discordi klient Go-s
+so.onekey.Wallet	Kõik-ühes krüptorahakott.
+space.fips.Fips	OpenGL-põhine FITS-pildivaatur
+space.nouspiro.tenmon	FITS/XISF pildivaatur, konverter, register ja otsing
+studio.kx.carla	Heli pistikprogrammi host
+tech.feliciano.pocket-casts	Online podcasti mängija
+tk.deat.Jazz2Resurrection	Jazz Jackrabbit 2 taasrakendus
+tr.gov.uyap.Editor	UYAP Document Editor on rakendus UYAP-süsteemis UDF-dokumentide kuvamiseks ja loomiseks.
+tv.kodi.Kodi	Ülim meelelahutuskeskus
+tv.plex.PlexDesktop	Plexi klient lauaarvutitele
+tv.plex.PlexHTPC	Plex HTPC klient suurele ekraanile
+tw.ddnet.ddnet	Kõige raskem koostöö 2D platformer kunagi
+ua.org.brezblock.q4wine	Wine'i rakenduste ja eesliidete haldamise utiliit
+uk.co._69_studios.kublit	Täiesti uus originaal puzzle mäng firmalt 69 Studios
+uk.co.electronstudio.ComicReaderUltimate	Arvamuslik CBZ vaataja
+uk.co.mangobrain.Infector	Mängige klassikalist kahe- kuni nelja mängijaga lauamängu Ataxx
+uk.co.parallelrealities.games.edgar	2D seiklusplatvormimäng
+uk.co.powdertoy.tpt	Füüsika liivakasti mäng
+uk.et1.big-finish-downloader	GTK rakendus oma Big Finishi kollektsiooni allalaadimiseks
+uk.jnthn.backgammony	Mitme mängija toega backgammoni kasutajaliides
+uk.me.doof.Lander	Lunar Landeri stiilis arkaadmäng.
+uk.org.greenend.chiark.sgtatham.puzzles	Puslemängude kollektsioon
+uk.org.greenend.chiark.sgtatham.putty	SSH, Telneti ja Rlogini klient
+uk.org.zint.zint-qt	Vöötkoodi generaator
+us.ihmc.cmap.CmapTools	Võimaldab kasutajatel luua ja jagada mõistekaarte.
+us.zoom.Zoom	Videokonverentsid, veebikonverentsid, veebiseminarid, ekraani jagamine
+vet.rsc.OpenRSC.Launcher	Open RuneScape Classic serverite käivitaja
+vn.hoabinh.quan.CoBang	QR-koodi skanner Linuxi töölauale
+website.i2pd.i2pd	Nähtamatu Internet
+work.openpaper.Paperwork	Isiklik dokumendihaldur
+ws.openarena.OpenArena	Tasuta ja avatud lähtekoodiga esimese isiku tulistamismäng
+xyz.aguno.CubeTimer	Nagu StackMat, kuid Linuxi jaoks
+xyz.armcord.ArmCord	ArmCord on kohandatud klient, mis on loodud teie Discordi kogemuse täiustamiseks, hoides samal ajal kõike kergena.
+xyz.audiostellar.AudioStellar	AI-toega eksperimentaalne proovivõttur
+xyz.eclipium.Hieroctive	Naljakas mälumäng hieroglüüfide õppimiseks!
+xyz.eclipium.TetraSwap	Lihtne, kuid väljakutseid pakkuv futuristlik puzzle mäng!
+xyz.hyperplay.HyperPlay	Web3 mängude käivitaja tulevikust. Kandke oma rahakott, NFT-d, märgid ja saavutused igasse mängu.
+xyz.ketok.Speedtest	Mõõtke oma Interneti-ühenduse kiirust
+xyz.kusma.aurora	Aurora poolt Excess
+xyz.ljoonal.neospeeps	Kerge rakendus, mis loetleb NeosVR-i piilud ja seansid
+xyz.mx_moment.moment	Kohandatav ja klaviatuuriga töötav Matrixi klient
+xyz.rescribe.rescribe	Kvaliteetne OCR piltide, PDF-ide ja Google'i raamatute jaoks.
+xyz.safeworlds.hiit	Taimerkell kõrge intensiivsusega intervalltreeningu jaoks
+xyz.safeworlds.midiconn	Virtuaalne MIDI-jaotur
+xyz.slothlife.Jogger	Fitnessi jälgija
+xyz.splashmapper.Splash	Videokaardistamise tarkvara
+xyz.stuerz.BilligSweeper	Minesweeperi odav kloon
+xyz.z3ntu.razergenie	Seadistage ja juhtige oma Razeri seadmeid
+xyz.tytanium.DoorKnocker	Kontrollige portaalide saadavust
+xyz.woxel.Woxel	Minecraftiga sarnane avatud lähtekoodiga 3D-voksliredaktor
+xyz.xclicker.xclicker	Kiire gui autoclicker x11 Linuxi lauaarvutitele

@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Lykilorðsstjórnun: Haltu lykilorðunum þínum öruggum á öllum kerfum og tækjum
+app.bbsync.BlackboardSync	Sæktu Blackboard Learn efni í tækið þitt
+app.bluebubbles.BlueBubbles	BlueBubbles viðskiptavinur fyrir Linux
+app.cantara.Cantara	Einfalt, létt en kraftmikið forrit fyrir söngkynningu í kirkjum, litlum hópum eða í karókíveislum.
+app.drey.Biblioteca	Skjalaskoðari fyrir GNOME
+app.drey.Blurble	Orðagiska leikur
+app.drey.Damask	Stilltu veggfóðursmyndir sjálfkrafa frá internetveitum
+app.drey.Dialect	Þýddu á milli tungumála
+app.drey.EarTag	Breyttu hljóðskráarmerkjum
+app.drey.Elastic	Hannaðu vorfjör
+app.drey.KeyRack	Skoðaðu og breyttu leyndarmálum forrita
+app.drey.MultiplicationPuzzle	Leystu stærðfræðigátu
+app.drey.Warp	Hraður og öruggur skráaflutningur
+app.feeddeck.feeddeck	Fylgdu RSS og samfélagsmiðlum þínum
+app.getclipboard.Clipboard	Klipptu, afritaðu og límdu hvað sem er, hvenær sem er og hvar sem er
+app.getspace.Space	Skipt endurtekning fyrir Flashcards
+app.gummi.gummi	Einfaldi LaTeX ritstjórinn
+app.kaiteki.Kaiteki	Þægilegi SNS viðskiptavinurinn fyrir allt, alls staðar
+app.lith.Lith	WeeChat Relay viðskiptavinur
+app.midterm.MidtermDesktop	Ókeypis minnismiðaforrit til að læra.
+app.moosync.moosync	Sérhannaðar tónlistarspilari
+app.organicmaps.desktop	Ókeypis kortaforrit án nettengingar fyrir ferðamenn, ferðamenn, göngufólk, ökumenn og hjólreiðamenn
+app.rednotebook.RedNotebook	Myndræn dagbók og dagbók
+app.riftshare.RiftShare	Auðveld, örugg, ókeypis deiling skráa. Deiling skráa yfir vettvang með því að nota töfraormhol
+app.vup.Vup	Opinn uppspretta enda-til-enda dulkóðað skýjageymsluforrit með innbyggðum miðlara
+app.xemu.xemu	Upprunalegur Xbox keppinautur
+app.ytmdesktop.ytmdesktop	Ókeypis þvert á vettvang skjáborðsspilara fyrir YouTube Music
+app.ywallet.Ywallet	Létt veski fyrir Ycash og Zcash
+ar.com.pilas_engine.App	Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida
+ar.com.softwareperonista.Rockarrolla	Tónlistarspilari eins og glymskratti
+ar.com.tuxguitar.TuxGuitar	TuxGuitar er ókeypis og opinn uppspretta töfluritari.
+art.taunoerik.tauno-monitor	Einfaldur sjálfstæður raðtengiskjár.
+art.taunoerik.tauno-serial-plotter	Einfaldur serial plotter fyrir Arduino og önnur svipuð tæki.
+ar.xjuan.Cambalache	Búðu til GTK notendaviðmót
+at.priv.toastfreeware.ConfClerk	ConfClerk er forrit sem gerir ráðstefnuáætlanir aðgengilegar án nettengingar
+at.ssh_mitm.server	SSH-MITM - ssh úttektir einfaldar
+at.vintagestory.VintageStory	Sandkassaleikur til að lifa af óbyggðum
+au.edu.uq.esys.escript	esys-escript er python-eining til að útfæra stærðfræðileg líkön með því að nota endanlega þáttaaðferðina
+br.app.pw3270.terminal	Fáðu aðgang að TN3270 vélum
+br.com.gualandi.Xjump	Stökk leikur fyrir nútíma grafísk kerfi
+br.gov.cti.invesalius	Hugbúnaður fyrir endurbyggingu læknisfræðilegrar myndgreiningar í þrívídd
+br.gov.fazenda.receita.irpf2022	Skráðu skatta þína í Brasilíu
+br.gov.fazenda.receita.irpf2023	Skráðu skatta þína í Brasilíu
+ca._0ldsk00l.Nestopia	Nintendo Entertainment System keppinautur
+ca.desrt.dconf-editor	Myndrænt tól til að breyta dconf gagnagrunninum
+cafe.avery.Delfin	Straumaðu kvikmyndum og sjónvarpsþáttum frá Jellyfin
+ca.hamaluik.Timecop	Tímakningarforrit sem virðir friðhelgi þína og gerir verkið gert án þess að verða of flott
+ca.littlesvr.asunder	Asunder er grafískur hljóðgeisladiskaripper og kóðari
+camp.nook.nookdesktop	Nook er forrit sem spilar Animal Crossing klukkutímaþemu á klukkutímanum.
+ca.parallel_launcher.ParallelLauncher	Nútíma N64 keppinautur
+cat.xtec.clic.JClic	Fræðslustarf og leikir fyrir skólanemendur og kennara
+ca.uwaterloo.Raven	Líkanagerð til að líkja eftir vatnaskilum
+cc.arduino.arduinoide	Opinn uppspretta rafeindatækni frumgerð pallur
+cc.arduino.IDE2	Opinn uppspretta rafeindatækni frumgerð pallur
+cc.craftos_pc.CraftOS-PC	Háþróaður ComputerCraft keppinautur
+cc.craftos_pc.CraftOS-PC-Accelerated	Háþróaður ComputerCraft keppinautur
+cc.nift.nsm	Dynamic og truflanir síða rafall
+cc.retroshare.retroshare-gui	Örugg samskipti fyrir alla
+cern.root.ROOT	Gagnagreiningarrammi
+chat.delta.desktop	Sendiboði með tölvupósti frá Delta Chat
+chat.quadrix.Quadrix	Lágmarks, einfaldur, fjölvettvangur spjallforrit fyrir Matrix samskiptareglur
+chat.revolt.RevoltDesktop	Revolt skrifborðsforrit
+chat.rocket.RocketChat	Open Source Team Communication
+chat.schildi.desktop	SchildiChat er Matrix viðskiptavinur byggður á Element með hefðbundnari spjallupplifun.
+chat.tandem.Client	Sýndarskrifstofa fyrir fjarteymi
+ch.imatt.ClipQR	Skannaðu QR kóða á skjánum og úr myndavélinni.
+ch.openboard.OpenBoard	Gagnvirk töflu fyrir skóla og háskóla
+ch.protonmail.protonmail-bridge	Dulkóðar og afkóðar póstinn þinn óaðfinnanlega þegar hann fer inn og út úr tölvunni þinni
+ch.protonmail.protonmail-import-export-app	Flyttu inn tölvupóst í örugga ProtonMail pósthólfið þitt eða gerðu afrit án nettengingar með Import-Export appinu.
+ch.theologeek.Manuskript	Opinn uppspretta tól fyrir rithöfunda
+ch.threema.threema-web-desktop	Threema fyrir skjáborð er skrifborðsbiðlari fyrir Threema, dulkóðaðan end-til-enda dulkóðaðan farsímaboðbera sem er hýst og þróaður í Sviss. ÓOPINBERA PAKKI.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Spilaðu Minecraft og búðu til þinn eigin heim!
+ch.x29a.playitslowly	Spila tónlist á mismunandi hraða
+cn.lceda.LCEDAPro	Auðveldara og öflugra PCB hönnunarverkfæri á netinu
+cn.navclub.ldbfx	Sjónræn gagnagrunnsstjórnunartæki
+cn.ottercorp.xivlaunchercn	Sjósetja og óaðfinnanlegur Linux samþætting fyrir Final Fantasy XIV Online (Kína útgáfa)
+cn.xfangfang.wiliwili	Bilibili viðskiptavinur frá þriðja aðila hannaður sérstaklega fyrir notendur stjórnenda
+codes.loers.Karlender	Stjórnaðu áætlun þinni
+codes.loers.Punchclock	Fylgstu með tíma fyrir verkefni þín.
+codes.merritt.adventurelist	Verkefnalisti sem samstillist við öll tækin þín
+codes.merritt.bargain	Berðu saman hluti auðveldlega þegar þú verslar
+codes.merritt.FeelingFinder	Fljótur og fallegur emoji veljari
+codes.merritt.Nyrna	Fresta leikjum og forritum
+codes.nora.gDiceRoller	Kastaðu teningum af mörgum mismunandi stærðum og gerðum í öllum mögulegum samsetningum.
+co.headsetapp.headset	Heyrnartól. Uppgötvaðu og safnaðu tónlist á YouTube.
+co.luoja.Telyn	Sjónræn ritstjóri fyrir parametrísk saumamynstur
+com.abagames.noiz2sa	Æðisleg abstrakt skotleikur
+com.abagames.rRootage	Sigra sjálfsköpuð risastór orrustuskip.
+com.abisource.AbiWord	Ritvinnsluforrit
+com.adamcake.Bolt	Opinn uppspretta Jagex ræsir þriðja aðila
+com.adilhanney.ricochlime	Ánægjandi skrímslaskytta
+com.adilhanney.saber	Glósuappið byggt fyrir rithönd
+com.adilhanney.super_nonogram	Leystu ótakmarkaðar verklagsbundnar þrautir sem myndast ekki með myndritum!
+com.adilhanney.timing	Lærðu að bera kennsl á milli sekúndna tímatöku
+com.adobe.Flash-Player-Projector	Spilari fyrir efni búið til með Adobe Flash
+com.adobe.Reader	PDF skoðari
+com.adrienplazas.Metronome	Haltu takti
+com.agatanawrot.karambola	Hjálpaðu Karambola í leit sinni að bjarga tilfinningalegum ávaxtavinum sínum frá krafti myrkra hugsana í þessu stutta handteikna púsluspilaævintýri.
+com.agateau.nanonote	Umsókn um lágmarks minnismiða.
+com.agateau.PixelWheels	Pixel Wheels er retro kappakstursleikur að ofan.
+com.airtame.Client	Airtame er þráðlaus streymislausn
+com.albiononline.AlbionOnline	MMORPG opinn miðalda fantasíuleikur
+com.alientrap.nexuiz-classic	Fjölspilunar fyrstu persónu skotleikur
+com.alovoa.alovoa-electron	Opinn uppspretta stefnumótaforrit á netinu
+com.amazon.Workspaces	Fáðu aðgang að skjáborðinu þínu hvar sem er, hvenær sem er, úr hvaða tæki sem er
+com.ampl.ide	Einfalt og einfalt endurbætt líkanaviðmót fyrir AMPL notendur
+com.anydesk.Anydesk	Tengdu við tölvu fjarstýrt
+com.arteeh.Flasher	Einfalt app til að blikka PineTime snjallúrið með ST-Link
+com.arviceblot.eso-addon-manager	Óopinber viðbótarstjóri á milli vettvanga fyrir The Elder Scrolls Online.
+com.atlauncher.ATLauncher	Ræsiforrit fyrir Minecraft sem samþættir marga mismunandi modpacks til að leyfa þér að hlaða niður og setja upp modpacks auðveldlega og fljótt.
+com.authy.Authy	Twilio Authy tveggja þátta auðkenningarskrifborðsforrit
+com.avocode.Avocode	Afhenda og skoða hvaða hönnun sem er
+com.axosoft.GitKraken	Fyrir endursölustjórnun, kóðabreytingu í forriti og rakningu mála.
+com.baidu.NetDisk	Baidu Netdisk skrifborð viðskiptavinur
+com.bambulab.BambuStudio	Fáðu fullkomnar þrívíddarprentanir!
+com.basemark.BasemarkGPU	GPU árangursmatstæki
+com.behringer.XAirEdit	Behringer XR blöndunartæki notendaviðmót
+com.belmoussaoui.ashpd.demo	Spilaðu með gáttir
+com.belmoussaoui.Authenticator	Býr til tvíþættanna auðkenningarkóða
+com.belmoussaoui.Decoder	Skanna og búa til QR-kóða
+com.belmoussaoui.Obfuscate	Ritskoða einkaupplýsingar
+com.belmoussaoui.ReadItLater	Vistaðu og lestu vefgreinar
+com.belmoussaoui.snowglobe	Sýndaráhorfandi sem notar QEMU yfir DBus
+com.biglybt.BiglyBT	Eiginleikafylltur, opinn uppspretta, auglýsingalaus, bittorrent viðskiptavinur
+com.bitwarden.desktop	Öruggur og ókeypis lykilorðastjóri fyrir öll tækin þín
+com.bitwig.BitwigStudio	Nútíma tónlistarframleiðsla og flutningur
+com.bixense.PasswordCalculator	Reiknaðu út sterk lykilorð fyrir hvert samheiti úr einu leyndarmálinu þínu
+com.bjareholt.johan.SimpleDiary	Einfalt og létt dagbókarapp
+com.bktus.gpgfrontend	OpenPGP dulritunarverkfæri
+com.bladecoder.adventure-editor	Klassísk bendi og smelltu ævintýraleikjavél og ritstjóri
+com.blitterstudio.amiberry	Amiga hermir fyrir Linux
+com.blockstream.Green	Einfalt og öruggt Bitcoin og Liquid Network veski
+com.borgbase.Vorta	Afrit viðskiptavinur
+com.boxy_svg.BoxySVG	Scalable Vector Graphics ritstjóri
+com.brave.Browser	Vefskoðarinn frá Brave
+com.brosix.Brosix	Allt-í-einn, öruggur spjallforrit
+com.budgetwithbuckets.Buckets	Fljótlegt, einfalt og einkarekið fjölskyldufjárhagsáætlunarapp
+com.calibre_ebook.calibre	Einstöðva lausnin fyrir allar rafbókaþarfir þínar
+com.carpeludum.KegaFusion	Hermi fyrir Sega 8 og 16 bita leikjatölvur
+com.cassidyjames.butler	Félagi fyrir heimilisaðstoðarmann
+com.cassidyjames.plausible	Einfaldur og persónuverndarvænn valkostur við Google Analytics
+com.cburch.Logisim	Logisim myndrænt tól til að hanna og líkja eftir rökrásum
+com.chatterino.chatterino	Spjallviðskiptavinur fyrir twitch.tv
+com.chez.GrafX2	Bitmap málningarforrit sem sérhæfir sig í 256 lita teikningu
+com.chmouel.gnomeNextMeetingApplet	Sýndu næstu viðburði þína á spjaldinu þínu
+com.chowdsp.BYOD	BYOD: Komdu með þína eigin röskun, sjálfstæða
+com.chroniclogic.Zatikon	Skák-eins og fantasíuleikur um að sigra kastala óvinarins
+com.clarahobbs.chessclock	Tímaleikir yfir borðskák
+com.claudiocambra.brickbuster	Brick-breaker leikur, skemmtilegur og ávanabindandi!
+com.cocoatech.deckr	Skrifborðsforrit notað með Deckr króm viðbótinni
+com.codemouse92.timecard	Fylgstu með tímanum fallega.
+com.coeck_studios.Dinonuggys-Journey	Pixel art 2d platformer leikur.
+com.corsixth.corsixth	Opinn uppspretta klón af þemasjúkrahúsinu
+com.cuperino.qprompt	Persónulegur teleprompter hugbúnaður fyrir alla myndbandshöfunda
+com.daidouji.oneko	kisu sem fylgir músarbendileikfanginu þínu á skjáborðinu
+com.darhon.drfinance	Stjórnaðu persónulegum reikningum þínum
+com.darhon.syncbackup	Taktu öryggisafrit og speglaðu diskana þína
+com.dec05eba.gpu_screen_recorder	Skuggaleikur eins og skjáupptökutæki fyrir Linux. Hraðasta skjáupptökutækið fyrir Linux
+com.dhsdevelopments.Climaxima	Framhlið fyrir Maxima CAS
+com.diffingo.fwbackups	Eiginleikaríkt, notendavænt öryggisafritunarforrit
+com.discordapp.Discord	Skilaboð, radd- og myndbiðlari
+com.diy_fever.DIYLayoutCreator	Hönnunartæki fyrir hringrásarskipulag sem styður PCB, vero-board, point-to-point, perf-board og gítar raflögn
+com.djoffe.gnukem	Retro-stíl 2D fletta pallur skotleikur
+com.dosbox.DOSBox	x86/DOS keppinautur með hljóði og grafík
+com.dosbox_x.DOSBox-X	x86/DOS keppinautur með hljóði og grafík
+com.doycho.euterpe.gtk	Media player viðskiptavinur fyrir Euterpe fjölmiðlaþjóninn.
+com.dreamsourcelab.DSView	Opinn uppspretta fjölnota tæki fyrir alla
+com.dropbox.Client	Fáðu aðgang að skránum þínum frá hvaða tölvu sem er
+com.eduke32.EDuke32	EDuke32 er æðisleg, ókeypis heimabruggleikjavél
+com.ekonomikas.merkato	Fylgstu með fjárfestingum þínum
+com.elsevier.MendeleyDesktop	Mendeley er ókeypis viðmiðunarstjóri og akademískt samfélagsnet
+com.eminfedar.vaktisalah	forrit fyrir bænatíma yfir vettvang
+com.emqx.MQTTX	Glæsilegur MQTT 5.0 skjáborðsbiðlari á milli palla
+com.endlessm.photos	Breyttu og deildu öllum uppáhalds myndunum þínum auðveldlega
+com.endlessnetwork.aqueducts	Yfirgripsmikill ráðgátaævintýraleikur þar sem þú hakkar þig til að bjarga deginum!
+com.endlessnetwork.dragonsapprentice	RPG eins og þrautalausn dýflissuskriðleikur og fleira!
+com.endlessnetwork.fablemaker	Komdu inn í heim sögusagna Esops sem aldrei fyrr! Gagnvirkar sögur þar sem þú getur sérsniðið persónur, texta og hljóð, brotist inn í kóðann hans í þessu hrífandi og fræðandi appi.
+com.endlessnetwork.frogsquash	Ávanabindandi krossgötur leikur með ívafi
+com.endlessnetwork.MidnightmareTeddy	Skjóta og lifa af
+com.endlessnetwork.missilemath	Skotleikur í flugvél
+com.endlessnetwork.passage	Hakkaðu þig í gegnum þennan hliðarskrollandi hasarævintýra skotleik
+com.endlessnetwork.tankwarriors	Akstur, skot, sprengingar og forritun - allt í einum leik
+com.endlessnetwork.whitehouse	Notaðu töfra CSS, hakkaðu heiminn þinn inn í einstaka lita- og ljósbylgju sem sýnir falda hluti og vísbendingar.
+com.enjoyingfoss.feeel	Einfalt heimaæfingar-/æfingaforrit sem virðir friðhelgi þína
+com.enjoyingfoss.Parlera	Partíleikur þar sem vinir þínir lýsa og þú giskar á; eða öfugt
+com.epicgames.ut2004	Fyrstu persónu skotleikur
+com.epicgames.ut99	Fyrstu persónu skotleikur
+com.etlegacy.ETLegacy	ET: Legacy er opinn uppspretta verkefni byggt á kóða Wolfenstein: Enemy Territory sem kom út árið 2010 samkvæmt skilmálum GPLv3.
+com.expidusos.calculator	ExpidusOS reiknivél
+com.expidusos.file_manager	ExpidusOS skráastjóri
+com.feaneron.Boatswain	Stjórnaðu þínum Elgato Elgato Stream Deck hljóðbrettum
+com.felipekinoshita.Kana	Lærðu japanska stafi
+com.felipekinoshita.Wildcard	Prófaðu reglulegar tjáningar þínar
+com.fightcade.Fightcade	Spilaðu spilakassaleiki á netinu.
+com.flashforge.FlashPrint	Slicer fyrir FlashForge 3D prentara
+com.frac_tion.teleport	Deildu skrám yfir staðarnetið
+com.freerdp.FreeRDP	FreeRDP (Remote Desktop Protocol) viðskiptavinur fyrir Linux
+com.frogatto.Frogatto	Gamaldags 2D vettvangsleikur
+com.fyralabs.SkiffDesktop	Dulkóðaður tölvupóstur frá enda til enda með persónuvernd
+com.gamestarmechanic.gamestarmechanic	Lærðu að hanna tölvuleiki
+com.geekbench.Geekbench6	Viðmiðun kerfis yfir palla
+com.georgefb.mangareader	Manga Reader fyrir staðbundnar skrár
+com.georgefb.quickaccess	Alþjóðleg valmynd sem gefur þér skjótan aðgang að möppum og sérsniðnum skipunum.
+com.getmailspring.Mailspring	Besta tölvupóstforritið fyrir fólk og teymi í vinnunni
+com.getpostman.Postman	Pallur til að byggja og nota API
+com.ghostery.browser	Alveg einka vafraupplifun frá Ghostery
+com.giadamusic.Giada	Harðkjarna lykkjuvélin þín
+com.gigitux.youp	Whatsapp
+com.gitfiend.GitFiend	Git viðskiptavinur hannaður fyrir menn
+com.github._0negal.Viper	Viper er sjósetja og uppfærsluforrit fyrir Northstar, og ekki mikið meira en það.
+com.github._4lex4.ScanTailor-Advanced	Gagnvirkt eftirvinnsluverkfæri fyrir skannaðar síður
+com.github.ADBeveridge.Raider	Eyddu skrám þínum á öruggan hátt
+com.github.afrantzis.Bless	Gtk# Hex ritstjóri
+com.github.aharotias2.parapara	Myndaskoðari án bókasafns
+com.github.ahrm.sioyek	PDF skoðari hannaður til að lesa rannsóknargreinar og tæknibækur
+com.github.alainm23.byte	Enduruppgötvaðu tónlistina þína
+com.github.alainm23.planner	Aldrei hafa áhyggjur af því að gleyma hlutum aftur
+com.github.Alcaro.Flips	Plástur fyrir IPS og BPS skrár
+com.github.alecaddd.sequeler	Vingjarnlegur SQL viðskiptavinur
+com.github.alexhuntley.Plots	Einföld graf teikning
+com.github.alexkdeveloper.astronum	Forrit fyrir einfalda stjörnu- og talnafræðilega útreikninga
+com.github.alexkdeveloper.desktop-files-creator	Einfalt app til að búa til skrifborðsskrár á GNU/Linux
+com.github.alexkdeveloper.dice	Einfaldur teningaleikur
+com.github.alexkdeveloper.dwxmlcreator	Einfaldur kraftmikill veggfóðurshöfundur
+com.github.alexkdeveloper.easter	Reiknaðu dagsetningu kaþólskra páska
+com.github.alexkdeveloper.forgetpass	Einfaldur lykilorðaframleiðandi fyrir vefsíður
+com.github.alexkdeveloper.goldsearch	Leikur þar sem þú þarft að leita að gulli
+com.github.alexkdeveloper.notepad	Auðvelt að búa til textaskýrslur
+com.github.alexkdeveloper.recorder	Einfaldur hljóðupptökutæki
+com.github.alexkdeveloper.relaxator	Slakaðu á við róandi hljóð
+com.github.alexkdeveloper.somafm	Einfalt útvarp með innbyggðum stöðvum af vefsíðunni somafm.com
+com.github.alexkdeveloper.sudoku	Sudoku leikur
+com.github.AlizaMedicalImaging.AlizaMS	DICOM skoðari
+com.github.AmatCoder.mednaffe	Framhlið (GUI) fyrir mednafen hermir (fylgir með)
+com.github.amikha1lov.RecApp	Notendavænt Open Source skjávarpa fyrir Linux skrifað í GTK
+com.github.Anuken.Mindustry	Mindustry: Sandkassa turn-varnarleikur
+com.github.appadeia.Taigo	Taigo er sýndargæludýr fyrir skjáborðið þitt
+com.github.arminstraub.krop	Tól til að klippa PDF skrár
+com.github.arshubham.cipher	Kóða og afkóða texta
+com.github.arshubham.gitignore	.gitignore tilvísun fyrir ýmis tungumál
+com.github.artemanufrij.graphui	Sjónræn grafík
+com.github.artemanufrij.playmymusic	Tónlistarspilari til að hlusta á staðbundnar tónlistarskrár, útvarp á netinu og hljóðgeisladiska
+com.github.artemanufrij.playmyvideos	Myndbandsspilari til að horfa á staðbundnar myndbandsskrár
+com.github.artemanufrij.regextester	Einfalt app til að prófa reglulegar tjáningar
+com.github.avojak.paint-spill	Litafyllandi ráðgátaleikurinn
+com.github.avojak.warble	Orðagiska leikurinn
+com.github.babluboy.bookworm	Rafbókalesari
+com.github.bajoja.indicator-kdeconnect	AppIndicator fyrir KDE Connect
+com.github.bcedu.valasimplehttpserver	Fáðu aðgang að skránum þínum úr hvaða tæki sem er á sama neti
+com.github.bcedu.vgrive	Google Drive viðskiptavinur með sjálfvirkri samstillingu fyrir Linux
+com.github.benpocalypse.Huely	Litaðu rýmið þitt
+com.github.birros.WebArchives	Áhorfandi á vefskjalasafni
+com.github.bjaraujo.Bombermaaan	Arcade leikur
+com.github.Bleuzen.FFaudioConverter	Hóphljóðbreytir og effektörgjörvi
+com.github.bluesabre.darkbar	Myrktu titilstikur forrita eftir því sem þú vilt
+com.github.buddhi1980.mandelbulber2	Ókeypis og opinn uppspretta 3D fractals rafall
+com.github.bvschaik.julius	Julius er opinn uppspretta endurútfærsla á Caesar III
+com.github.calo001.fondo	Finndu fallegustu veggfóður
+com.github.calo001.luna	Ótrúleg dagatalsgræja
+com.github.carlos157oliveira.Calculus	Reiknið afleiður og heiltölur
+com.github.cassidyjames.clairvoyant	Spyrðu spurninga, fáðu sálræn svör
+com.github.cassidyjames.dippi	Reiknaðu skjáupplýsingar eins og DPI og stærðarhlutfall
+com.github.cfcurtis.pdfstitcher	PDF Stitcher er tól til að sauma saman og breyta línueiginleikum PDF saumamynstra
+com.github.childishgiant.mixer	Breyttu hljóðstyrk forrita
+com.github.chipmuenk.pyfda	Python Filter Design Analysis Tool
+com.github.christianrauch.Jahresarbeit-2003	Finndu stærsta flatarmál tengdra ferninga
+com.github.corna.Vivado	Xilinx Design Suite fyrir vélbúnaðarþróun
+com.github.coslyk.MoonPlayer	Myndbandsspilari til að spila og hlaða niður myndböndum á netinu frá YouTube, Youku o.s.frv.
+com.github.cubitect.cubiomes-viewer	Duglegur Minecraft fræleitari og kortaskoðari.
+com.github.d4nj1.tlpui	GTK-UI til að breyta TLP stillingarskrám auðveldlega.
+com.github.dahenson.agenda	Komdu hlutunum í verk
+com.github.dail8859.NotepadNext	Þverpallur, endurútfærsla á Notepad++
+com.github.Darazaki.Spedread	GTK hraðlestur hugbúnaður: Lestu eins og hraðahlaupari!
+com.github.dariasteam.cowsrevenge	Indie Platformer Pixel Art Game
+com.github.dawidd6.checksumo	Staðfestu tilgreinda skrá gegn tilteknu kjötkássa
+com.github.debauchee.barrier	Hindrun - Deildu mús og lyklaborði yfir staðarnetið
+com.github.devalien.workspaces	Vertu alltaf tilbúinn í vinnuna
+com.github.dimkr.gplaces	Gemini viðskiptavinur sem byggir á flugstöðvum
+com.github.donadigo.appeditor	Breyta forritavalmynd
+com.github.dynobo.normcap	Dragðu út texta hvar sem er á skjánum
+com.github.edenalencar.identifications	Það er tæki fyrir QA teymið og þróunaraðila
+com.github.Eloston.UngoogledChromium	Létt aðferð til að fjarlægja háð Google vefþjónustu
+com.github.elth0r0.iqpuzzle	A flytja I.Q. krefjandi pentomino þraut
+com.github.emmanueltouzery.cigale	Farðu yfir fyrri virkni þína
+com.github.emmanueltouzery.hotwire	Hotwire gerir þér kleift að rannsaka netumferð á nokkrum vinsælum samskiptareglum á einfaldan hátt
+com.github.emmanueltouzery.projectpad	Projectpad gerir kleift að stjórna leynilegum skilríkjum og netþjónsupplýsingum sem þú þarft að meðhöndla sem hugbúnaðarframleiðandi eða stjórnandi.
+com.github.eneshecan.WhatsAppForLinux	Óopinbert WhatsApp skrifborðsforrit fyrir Linux
+com.github.fabiocolacio.marker	Öflugur markdown ritstjóri fyrir GNOME skjáborðið.
+com.github.finefindus.eyedropper	Veldu og forsníða liti
+com.github.Flacon	Flacon dregur út einstök lög úr einni stórri hljóðskrá sem inniheldur alla tónlistarplötuna og vistar þau sem aðskildar hljóðskrár
+com.github.flxzt.rnote	Teiknaðu og taktu handskrifaðar glósur
+com.github.fontmatrix.Fontmatrix	Leturstjórnunarforrit
+com.github.fries1234.ncsa-mosaic	NSCA Mosaic vefvafri
+com.github.gabutakut.gabutdm	Einfaldur og fljótur niðurhalsstjóri
+com.github.geigi.cozy	Hlustaðu á hljóðbækur
+com.github.giacomogroppi.writernote-qt	Writernote er fjölvettvangsforrit sem gerir þér kleift að taka minnispunkta með því að taka upp hljóð, þýða það síðar yfir í texta og hlusta á það á skynsamlegan hátt.
+com.github.gijsgoudzwaard.image-optimizer	Einföld taplaus myndþjöppun
+com.github.git_cola.git-cola	Slétt og öflugt Git GUI
+com.github.gmg137.netease-cloud-music-gtk	Netease skýjatónlistarspilari byggður á Rust + GTK
+com.github.gpuvis.Gpuvis	GPU Trace Visualizer
+com.github.GradienceTeam.Gradience	Breyttu útliti Adwaita, með auðveldum hætti
+com.github.gyunaev.spivak	Karaoke spilari
+com.github.hluk.copyq	Háþróaður klemmuspjaldstjóri
+com.github.hopsan.Hopsan	Líkana- og uppgerð tól fyrir vökvaafl og mekatrónísk kerfi
+com.github.horaciodrs.tradesim	Linux viðskiptahermir
+com.github.hugolabe.Wike	Leitaðu og lestu Wikipedia greinar
+com.github.huluti.Coulr	Njóttu lita og njóttu hamingju!
+com.github.huluti.Curtail	Þjappaðu myndunum þínum saman
+com.github.HypatiaProject.hypatia	Rannsóknarhjálpartæki sem veitir samhengi og upplýsingar um áhugaverð efni.
+com.github.ilai_deutel.kibi	Textaritill í ≤1024 línum af kóða, skrifaður í Rust
+com.github.inercia.k3x	Stjórnandi fyrir staðbundna Kubernetes klasa með k3d
+com.github.iortcw.iortcw	Leikjavél fyrir Return to Castle Wolfenstein
+com.github.IsmaelMartinez.teams_for_linux	Óopinber Microsoft Teams viðskiptavinur fyrir Linux sem notar Electron
+com.github.iwalton3.jellyfin-media-player	Skrifborðsbiðlari fyrir Jellyfin miðlara
+com.github.iwalton3.jellyfin-mpv-shim	Cast-only viðskiptavinur fyrir Jellyfin Media Server
+com.github.JannikHv.Gydl	Sækja efni frá síðum eins og YouTube
+com.github.jeromerobert.pdfarranger	Forrit til að sameina, endurraða, skipta upp, snúa og skera utan af síðum í PDF-skjölum
+com.github.jkotra.eovpn	OpenVPN stillingarstjóri
+com.github.jkotra.unlockr	PDF Lykilorð fjarlægja
+com.github.jmlich.geotagging	Til að finna staðinn þar sem þú tókst myndina
+com.github.jms55.Sandbox	Sandhermi leikur
+com.github.johnfactotum.Foliate	Lestu rafbækur í stíl
+com.github.johnfactotum.QuickLookup	Flettu upp orðum fljótt
+com.github.Johnn3y.Forklift	Forrit til að sækja myndband og hljóð
+com.github.joseexposito.touche	Margsnertibendingar
+com.github.jpakkane.glyphtracer	Umbreyttu myndum af bókstöfum í leturgerð
+com.github.junrrein.PDFSlicer	Einfalt tól til að draga út, sameina, snúa og endurraða síðum af PDF skjölum
+com.github.juzzlin.DustRacing2D	Hefðbundinn kappakstursleikur að ofan og niður, þar á meðal stigaritill
+com.github.k4zmu2a.spacecadetpinball	Leikvél fyrir Space Cadet Pinball
+com.github.kagami.boram	Grafískur WebM breytir á vettvangi.
+com.github.kalibari.audok	Ókeypis, opinn tónlistarspilari
+com.github.keriew.augustus	Augustus er opinn uppspretta endurútfærsla á Caesar III með breytingum á spilun
+com.github.kmwallio.thiefmd	Markdown ritstjórinn sem er þess virði að stela.
+com.github.KRTirtho.Spotube	🎧 Opinn uppspretta Spotify viðskiptavinur sem krefst ekki Premium né notar rafeind! Í boði fyrir bæði skjáborð og farsíma!
+com.github.labyrinth_team.labyrinth	Létt hugarkortatæki
+com.github.lachhebo.Gabtag	Hljóðmerkingartæki
+com.github.libresprite.LibreSprite	Hreyfimyndaður sprite ritstjóri og pixlalistaverkfæri
+com.github.liferooter.textpieces	Umbreyttu texta án þess að nota tilviljanakenndar vefsíður
+com.github.LongSoft.UEFITool	UEFI vélbúnaðarmyndaskoðari og ritstjóri
+com.github.louis77.tuner	Uppgötvaðu og hlustaðu á netútvarpsstöðvar
+com.github.lxgr_linux.pokete	Pókemon-líkur leikur sem byggir á flugstöðinni
+com.github.makhber.Makhber	Sjónræn og greining á vísindagögnum
+com.github.maoschanz.drawing	Breyttu skjámyndum eða memum
+com.github.maoschanz.DynamicWallpaperEditor	Búðu til eða breyttu XML dynamic veggfóður (bakgrunnsskyggnusýningar) fyrir GNOME skjáborðið
+com.github.marhkb.Pods	Fylgstu með podman gámunum þínum
+com.github.marinm.songrec	Opinn uppspretta, óopinber Shazam viðskiptavinur fyrir Linux, skrifaður í Rust.
+com.github.marktext.marktext	Næsta kynslóð markdown ritstjóra
+com.github.matfantinel.moneta	Fylgstu með gengi raunverulegra gjaldmiðla á skjáborðinu þínu
+com.github.matfantinel.reminduck	Mundu dótið þitt á yndislegan pirrandi hátt.
+com.github.Matoking.protontricks	Einföld umbúðir sem gera vínbrellur fyrir leiki sem virka Proton
+com.github.mdh34.hackup	Lestu Hacker News af skjáborðinu
+com.github.mdh34.quickdocs	Lestu þróunarskjöl fljótt
+com.github.mgropp.PdfJumbler	Einfalt tól til að endurraða, sameina, eyða og snúa síðum í PDF skjölum
+com.github.miguelmota.Cointop	Terminal byggt forrit til að rekja dulritunargjaldmiðla
+com.github.mikacousin.olc	Stjórnaðu ljósasýningum þínum
+com.github.mtkennerly.ludusavi	Taktu öryggisafrit af tölvuleiknum þínum til að vista gögn
+com.github.muriloventuroso.easyssh	SSH tengistjóri
+com.github.muriloventuroso.givemelyrics	Textar fyrir lögin þín
+com.github.muriloventuroso.pdftricks	Bragðarefur fyrir PDF skjöl
+com.github.Murmele.Gittyup	Grafískur Git viðskiptavinur hannaður til að hjálpa þér að skilja og stjórna frumkóðasögunni þinni
+com.github.Murmele.scram	Skipanalína og grafískt tól fyrir áhættugreiningu
+com.github.naaando.lyrics	Falleg leið til að syngja lögin þín
+com.github.needleandthread.vocal	Frábær podcast viðskiptavinur fyrir nútíma ókeypis skjáborðið
+com.github.neithern.g4music	Spilaðu tónlistina þína glæsilega
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x breytir ncnn útgáfa
+com.github.nrittsti.NTag	NTag er grafískur merkaritill yfir vettvang sem einbeitir sér að notkunartilfellum í daglegu lífi.
+com.github.ojubaorg.Othman	Rafrænn Kóran vafri
+com.github.opentyrian.OpenTyrian	Opinn uppspretta tengi fyrir DOS-shoot-em-up Tyrian.
+com.github.optyfr.JRomManager	Umsjónarmaður Mame og Retrogaming Rom
+com.github.paolostivanin.OTPClient	GTK+ forrit til að stjórna TOTP og HOTP táknum með innbyggðri dulkóðun.
+com.github.petebuffon.yafc	YAFC er Factorio reiknivél, skipuleggjandi og greinandi. Meginmarkmið YAFC er að takast á við mjög breytta leiki.
+com.github.phase1geo.minder	Búðu til, þróaðu og sýndu hugmyndir þínar
+com.github.philip_scott.notes-up	Nýja minnisbókin þín
+com.github.philip_scott.spice-up	Búðu til einfaldar og fallegar kynningar
+com.github.PintaProject.Pinta	Breyttu myndum og málaðu stafrænt
+com.github.polymeilex.neothesia	GPU hraðað midi visualizer
+com.github.PopoutApps.popout3d	Býr til þrívíddarmyndir úr ljósmyndum sem teknar eru með venjulegri myndavél.
+com.github.powertab.powertabeditor	Skoðaðu og breyttu gítartöflum
+com.github.qarmin.czkawka	Fjölvirkt app til að finna afrit, tómar möppur, svipaðar myndir, brotnar skrár o.s.frv.
+com.github.qarmin.szyszka	Einfaldur en öflugur skráarendurnefnari, skrifaður í Rust
+com.github.quaternion	Qt-undirstaða viðskiptavinur fyrir Matrix net
+com.github.Qv2ray	Qv2ray er v2ray grafískur framenda þvert á vettvang skrifað í Qt.
+com.github.rafostar.Clapper	Einfaldur og nútímalegur GNOME fjölmiðlaspilari
+com.github.raibtoffoletto.litteris	Pennavinir bréfaskipti skipulögð
+com.github.rajsolai.response	Prófaðu svörun vefsíðunnar þinnar
+com.github.rajsolai.textsnatcher	Snúðu texta með því að draga
+com.github.ransome1.sleek	todo manager byggt á todo.txt setningafræðinni fyrir Linux, ókeypis og opinn uppspretta (FOSS)
+com.github.reds.LogisimEvolution	Stafræn rökfræðihönnuður og hermir
+com.github.reduz.ChibiTracker	ChibiTracker er flytjanlegur IT (Impulse Tracker) klón
+com.github.rhyme_player.rhyme	Heimili tónlistarinnar þinnar.
+com.github.rkoesters.xkcd-gtk	Lestu xkcd: vefmyndasögu um rómantík, kaldhæðni, stærðfræði og tungumál
+com.github.robertsanseries.ciano	Margmiðlunarskráabreytir
+com.github.rogercrocker.badabib	Skoða og breyta BibTeX færslum
+com.github.Rosalie241.RMG	Auðvelt í notkun og þvert á palla mupen64plus framhlið skrifað í C++ og Qt
+com.github.ryanakca.slingshot	2D geimskotleikur með þyngdarafl
+com.github.ryonakano.konbucase	Umbreyttu hástöfum í textann þinn
+com.github.ryonakano.pinit	Festu flýtileiðir fyrir uppáhalds flytjanlegu forritin þín við ræsiforritið þitt
+com.github.ryonakano.reco	Taktu upp viðræður til að muna innihaldið síðar
+com.github.sakya.corechess	Opinn uppspretta skák GUI fyrir skákvélar
+com.github.scrivanolabs.scrivano	Glósuforrit fyrir þá sem kjósa rithönd fram yfir vélritun.
+com.github.sdv43.whaler	Docker gámastjórnun
+com.github.shonumi.gbe-plus	Game Boy (Color, Advance) keppinautur
+com.github.sixpounder.GameOfLife	Spilaðu Conway's Game of Life
+com.github.skullernet.q2pro	Aukinn Quake 2 viðskiptavinur
+com.github.skylot.jadx	Dex til Java decompiler
+com.github.subhadeepjasu.pebbles	Framkvæmdu háþróaða útreikninga á auðveldan hátt
+com.github.suzie97.communique	RSS lesandi með samstillingu yfir vettvang
+com.github.taiko2k.avvie	Skera myndir fyrir avatar eða veggfóður
+com.github.taiko2k.tauonmb	Spilaðu tónlistina þína með stæl
+com.github.tchx84.Flatseal	Stjórna Flatpak heimildum
+com.github.tenderowl.frog	Dragðu út texta úr myndum
+com.github.tenderowl.norka	Stöðugur textaritill
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto er þvert á vettvang forrit sem gerir þér kleift að dulkóða og afkóða texta á einfaldan hátt.
+com.github.theCalcaholic.StreamDeck	Bættu streymisvefþjónustu við Steam
+com.github.theironrobin.siglo	Samstilltu PineTime við PinePhone
+com.github.themix_project.Oomox	sérsníða tákn, xrdb og GTK þemu
+com.github.tmewett.BrogueCE	Brogue: Community Edition - samfélagsleiðandi gaffal af hinum vinsæla naumhyggjulega roguelike leik
+com.github.treagod.spectator	Prófaðu REST API á þægilegan hátt!
+com.github.unrud.djpdf	Búðu til lítil, leitanleg PDF-skjöl úr skönnuðum skjölum
+com.github.unrud.RemoteTouchpad	Stjórna mús og lyklaborði úr snjallsíma
+com.github.unrud.VideoDownloader	Hlaða niður myndböndum frá vefsíðum eins og YouTube og mörgum öðrum
+com.github.utsushi.Utsushi	Myndaöflunartæki fyrir Epson
+com.github.varnholt.dynablaster_revenge	Endurgerð af leiknum Dynablaster
+com.github.vikdevelop.photopea_app	Ókeypis val fyrir Adobe Photoshop notendur
+com.github.vikdevelop.timer	Einfaldur niðurteljari
+com.github.vkohaupt.vokoscreenNG	Auðvelt að nota skjávarpshöfund
+com.github.vladimiry.ElectronMail	Óopinber skrifborðsforrit fyrir ProtonMail
+com.github.weclaw1.ImageRoll	Myndskoðari með helstu myndvinnsluverkfærum
+com.github.wwmm.easyeffects	Hljóðbrellur fyrir PipeWire forrit
+com.github.wwmm.pulseeffects	Hljóðbrellur fyrir PulseAudio forrit
+com.github.Xenoveritas.abuse	Dökkur 2D hliðarskrollandi vettvangsleikur
+com.github.xournalpp.xournalpp	Taktu handskrifaðar glósur
+com.github.yucefsourani.albasheer-electronic-quran-browser	Rafrænn Kóran vafri
+com.github.zadam.trilium	Byggðu upp þinn persónulega þekkingargrunn
+com.github.z.Cumulonimbus	Einfalt, fallegt podcast app
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + einfaldur bakkavísir
+com.github.ztefn.haguichi	Grafísk framhlið fyrir Hamachi
+com.gitlab.adnan338.Invoicer	Búðu til greiðslureikninga þína
+com.gitlab.adnan338.Nixwriter	Búðu til ræsanlegar Linux myndir
+com.gitlab.azymohliad.Qwertone	Breytir tölvunni þinni í hljóðfæri
+com.gitlab.bitseater.meteo	Þekki spá næstu klukkustunda og daga með gögnum og kortum
+com.gitlab.ColinDuquesnoy.MellowPlayer	Cloud tónlistarsamþætting fyrir skjáborðið þitt
+com.gitlab.coringao.cavestory-nx	Nostalgískur hliðarævintýraleikur
+com.gitlab.coringao.JAG	Spilakassa og ráðgáta 2D leikur þar sem þú þarft að brjóta alla markhlutana
+com.gitlab.cutecom.cutecom	Grafísk raðstöð
+com.gitlab.davem.ClamTk	Auðvelt að nota grafískt notendaviðmót fyrir Clam Antivirus (ClamAV)
+com.gitlab.guillermop.MasterKey	Forrit fyrir lykilorðastjórnun
+com.gitlab.j0chn.nextcloud_password_client	Stjórnaðu Nextcloud lykilorðunum þínum á skjáborðinu þínu
+com.gitlab.kendellfab.restscope	Einfalt http/rest prófunartæki byggt með D og GtkD.
+com.gitlab.librebob.Athenaeum	Ókeypis skipti fyrir Steam
+com.gitlab.maevemi.publictransport	almenningssamgönguforrit (nú) fyrir Þýskaland
+com.gitlab.Murmele.UDPLogger	UDPLogger er léttur hágæða skógarhöggsmaður UDP gagna. Að auki er hægt að sjá gögnin á lóðum.
+com.gitlab.tipp10.tipp10	Snertu vélritunarkennari
+com.gluonhq.SceneBuilder	Scene Builder er opinn hugbúnaður sem gerir kleift að draga og sleppa hönnun JavaFX notendaviðmóta.
+com.google.AndroidStudio	Innbyggt þróunarumhverfi fyrir Android vettvang Google
+com.google.Chrome	Vefskoðarinn frá Google
+com.google.ChromeDev	Vefskoðarinn frá Google
+com.google.EarthPro	3D plánetuskoðari
+com.googleplaymusicdesktopplayer.GPMDP	Keyrðu Google Play Music sem sjálfstætt skrifborðsforrit
+com.grangerhub.Tremulous	Aliens vs Humans, fyrstu persónu skotleikur með þætti rauntímastefnu
+com.hack_computer.Clubhouse	Áfangastaður fyrir krakka til að læra hvernig á að kóða
+com.hack_computer.OperatingSystemApp	Kerfi gerir þér kleift að vera hluti af töfrunum sem heldur tölvunni þinni suðandi!
+com.hack_computer.Sidetrack	Flýja völundarhús gryfja og vélmenna!
+com.hamrick.VueScan	Skannahugbúnaður fyrir 6000+ skannar
+com.helix_editor.Helix	Póstmódernískur textaritill
+com.her01n.BatteryInfo	Sýnir upplýsingar um rafhlöðu kerfisins.
+com.heroicgameslauncher.hgl	Opinn uppspretta Epic Games, GOG og Amazon Prime Games Launcher.
+com.hostbuf.FinalShell	FinalShell ssh verkfæri
+com.howlingmoonsoftware.CrayonBall	Hraður leikur-4 þrautamaður
+com.hunterwittenborn.Celeste	Samstilltu skýjaskrárnar þínar
+com.icanblink.blink	Blink SIP viðskiptavinur
+com.icons8.Lunacy	Ókeypis hönnunarhugbúnaður sem heldur flæðinu þínu með gervigreindarverkfærum og innbyggðri grafík
+com.identicalsoftware.anagramarama	Búðu til orð úr hrúgu af bókstöfum
+com.inform7.IDE	Skrifaðu gagnvirkan skáldskap
+com.inklestudios.Inky	Skrifaðu gagnvirka frásögn á álagningarmáli Inkle
+com.inochi2d.inochi-creator	Verkfæri til að búa til og breyta Inochi2D leikbrúðum
+com.interversehq.qView	Hagnýtur og lágmarks myndskoðari
+com.inventwithpython.flippy	Klón af klassíska borðspilinu Reversi
+com.invoiceninja.InvoiceNinja	Búðu til reikninga, samþykktu greiðslur, fylgdu útgjöldum og tímaverkefnum
+com.irccloud.desktop	Nútímaleg, alltaf tengd IRC-viðskiptavinaþjónusta
+com.itextpdf.RUPS	iText RUPS er tæki til að skoða PDF uppbyggingu
+com.itopia.client	Viðskiptavinur fyrir Remote Desktop Protocol (RDP) netþjóna
+com.jagex.RuneScape	Fantasíu-MMORPG sem hægt er að spila ókeypis
+com.jaquadro.NBTExplorer	Grafískur NBT ritstjóri fyrir alla Minecraft NBT gagnagjafa
+com.jetbrains.CLion	Þverpalla IDE fyrir C og C++
+com.jetbrains.DataGrip	IntelliJ-undirstaða IDE fyrir gagnagrunna og SQL
+com.jetbrains.GoLand	Hæfilegt og vinnuvistfræðilegt Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	Fær og vinnuvistfræðileg Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Fær og vinnuvistfræðileg Java IDE fyrir fyrirtæki, vef- og farsímaþróun
+com.jetbrains.PhpStorm	PHP IDE fyrir faglega þróun
+com.jetbrains.PyCharm-Community	Greindasta Python IDE
+com.jetbrains.PyCharm-Professional	Greindasta Python IDE
+com.jetbrains.Rider	Hratt og öflugt .NET IDE á milli palla
+com.jetbrains.RubyMine	Njóttu fyrsta flokks stuðnings fyrir Ruby 2.x og Rails 6.x, Sinatra, React, Angular, Puppet, Docker og fleira
+com.jetbrains.WebStorm	Snjallasta JavaScript IDE
+com.jetpackduba.Gitnuro	Multiplatform Git viðskiptavinur
+com.jgraph.drawio.desktop	Búðu til og deildu skýringarmyndum
+com.jonathankang.Weibird	Innfæddur GTK+ Weibo viðskiptavinur
+com.jpexs.decompiler.flash	Taktu saman og breyttu SWF skrám
+com.js8call.JS8Call	Hugbúnaður sem notar JS8 stafræna stillingu sem veitir veikburða lyklaborði til lyklaborðsskilaboða til útvarpsáhugamanna
+com.katawa_shoujo.KatawaShoujo	Sjónræn skáldsaga í bishoujo-stíl
+com.kavilgroup.gelectrical	Hönnun og greining rafdreifineta
+com.kavilgroup.gestimator	Hugbúnaður fyrir borgaramat
+com.kolor.AutopanoPro	Faglegur myndasaumarhugbúnaður framleiddur af Kolor
+com.kristianduske.TrenchBroom	Stig ritstjóri fyrir Quake-undirstaða leiki
+com.ktechpit.colorwall	The Ultimate Desktop Veggfóður forrit
+com.ktechpit.orion	Heill straumforrit og straumspilara fyrir Linux Desktop
+com.ktechpit.torrhunt	Torrent leitarvél
+com.ktechpit.ultimate-media-downloader	Myndbönd og hljóð niðurhal á netinu fyrir Linux, 1300+ vefsíður styðja
+com.ktechpit.whatsie	Qt Whatsapp vefþjónn fyrir Linux skjáborð
+com.ktechpit.wonderwall	Veggfóðursstjóri
+com.lakoliu.Furtherance	Fylgstu með tíma þínum án þess að vera rakinn
+com.leinardi.gkraken	Gerir þér kleift að stjórna kælingu NZXT Kraken X dælu frá Linux.
+com.leinardi.gst	Kerfisforrit hannað til að leggja áherslu á og fylgjast með ýmsum vélbúnaðarhlutum
+com.leinardi.gwe	Kerfisforrit hannað til að veita upplýsingar, stjórna viftunum og yfirklukka NVIDIA kortið þitt
+com.leinardi.gx52	Veitir stjórn á LED og MFD fyrir Logitech X52 og X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Ókeypis og einfaldur í notkun myndbandsspilari gerður með Haskell
+com.librumreader.librum	Nútímalegur rafbókalesari og bókasafnsstjóri
+com.lixgame.Lix	Lemmings-eins leikur með þrautum, ritstjóra, fjölspilun
+com.locomalito.abbayedesmorts	Úreltur tölvuleikur fyrir myrka leið sögunnar
+com.logseq.Logseq	Staðbundin, ólínuleg, útlínur minnisbók til að skipuleggja og deila persónulegum þekkingargrunni þínum
+com.lunarclient.LunarClient	Modpack fyrir allar nútíma útgáfur af Minecraft!
+com.makemkv.MakeMKV	DVD og Blu-ray til MKV breytir og netstraumspilari
+com.maplerain.telsis_translator_flutter	Forrit sem þýðir til og frá Telsis tungumálinu sem notað er í Violet Evergarden seríunni
+com.mardojai.DiccionarioLengua	Busca palabras en el DLE
+com.mardojai.ForgeSparks	Fáðu Git forges tilkynningar
+com.mastermindzh.tidal-hifi	Vefútgáfan af listen.tidal.com með Hi-Fi (High og Max) stuðningi
+com.mattermost.Desktop	Opinn uppspretta vettvangur fyrir samvinnu þróunaraðila
+com.mattjakeman.ExtensionManager	Skoðaðu, settu upp og stjórnaðu GNOME Shell Extensions
+com.meetfranz.Franz	Messenger fyrir skjáborðið
+com.microsoft.AzureStorageExplorer	Myndrænt tól til að stjórna Azure skýjageymsluauðlindum
+com.microsoft.Edge	Við kynnum nýja Microsoft Edge vefvafra. Það er kominn tími til að búast við meiru. Meira næði. Meiri stjórn. Meiri framleiðni. Meira gildi.
+com.microsoft.EdgeDev	Við kynnum nýja Microsoft Edge vefvafra. Það er kominn tími til að búast við meiru. Meira næði. Meiri stjórn. Meiri framleiðni. Meira gildi.
+com.milesalan.mepo	Fljótur, einfaldur og innbrotshæfur OSM kortaskoðari fyrir Linux
+com.moddb.TotalChaos	Lifandi hryllingur gerist á afskekktri eyju sem kallast Fort Oasis
+com.moddb.TotalChaosRetro	Lifandi hryllingur gerist á afskekktri eyju sem kallast Fort Oasis
+com.mojang.Minecraft	Búðu til þinn eigin heim í einum vinsælasta tölvuleiknum
+com.mongodb.Compass	MongoDB GUI
+com.moonlight_stream.Moonlight	Straumaðu leikjum og öðrum forritum úr annarri tölvu sem keyrir Sunshine eða GeForce Experience
+com.mousepawmedia.omission	Villandi einföld orðaþraut.
+com.mudeprolinux.whakarere	GTK4 Whatsapp viðskiptavinur
+community.pathofbuilding.PathOfBuilding	Path of Building (samfélag) - Öflugur byggingaráætlun fyrir Path of Exile
+com.musixmatch.Musixmatch	Njóttu textanna þinna alls staðar
+com.napster.napster-bigscreen-electron	Napster fyrir lófatölvuna þína
+com.neatdecisions.Detwinner	Finndu og fjarlægðu afrit skrár og svipaðar myndir
+com.netease.CloudMusic	Vinsæll tónlistarspilari á netinu þróaður af Netease
+com.nextcloud.desktopclient.nextcloud	Nextcloud skjáborðssamstillingarbiðlari
+com.nitrokey.nitrokey-app	Stjórnaðu Nitrokey tækjunum þínum
+com.nordpass.NordPass	Auðvelt að nota lykilorðastjóra sem sérfræðingar um netöryggi koma til þín.
+com.notepadqq.Notepadqq	Háþróaður textaritill
+com.notesnook.Notesnook	Alveg opinn uppspretta og dulkóðuð glósur frá enda til enda sem tekur valkost við Evernote
+com.obsproject.Studio	Hugbúnaður fyrir streymi í beinni og myndbandsupptöku
+com.okta.developer.CLI	Okta CLI er auðveldasta leiðin til að byrja með Okta!
+com.openwall.John	John the Ripper Jumbo lykilorð cracker
+com.opera.Opera	Vefskoðarinn frá Opera
+com.oppzippy.OpenSCQ30	Stjórna stillingum Soundcore Q30 heyrnartóla
+com.orama_interactive.Pixelorama	2D sprite ritstjóri með stuðningi við hreyfimyndir
+com.outerwildsmods.owmods_gui	Auðvelt í notkun forrit til að setja upp og keyra Outer Wilds mods
+com.ownrwallet.wallet	Senda, taka á móti, taka út, skiptast á og kaupa sýndargjaldmiðla. Aðeins þú stjórnar aðgangi og eignum
+com.ozmartians.VidCutter	Media Cutter + Joiner
+com.parallax.PropellerIDE	Þróa, safna saman og hlaða upp kóða fyrir Parallax Propeller pallinn.
+com.parsecgaming.parsec	Einfalt streymi leikja með litla biðtíma
+com.pikatorrent.PikaTorrent	Nútímalegt, einfalt, tengt og rafmagns BitTorrent app ⚡
+com.pinegrow.Pinegrow	Sjónræn vefritstjóri fyrir fagfólk
+com.play0ad.zeroad	Rauntíma Strategy Game of Ancient Warfare
+com.playonlinux.PlayOnLinux4	Myndræn framhlið fyrir Wine
+com.plexamp.Plexamp	Plexamp - Fallegur Plex tónlistarspilari fyrir hljóðsækna, sýningarstjóra og hipstera
+com.pojtinger.felicitas.Multiplex	Horfðu á strauma með vinum þínum
+com.pokemmo.PokeMMO	PokeMMO er ókeypis til að spila mmorpg, komdu með í vaxandi samfélagi þegar þú hækkar stig og uppgötvar ný skrímsli
+com.polyphone_soundfonts.polyphone	Búðu til þín eigin hljóðfæri til að spila uppáhalds tónlistina þína
+com.powerball253.eternalmodmanager	Cross platform mod manager fyrir DOOM Eternal.
+com.poweriso.PowerISO	Allt-í-einn CD/DVD/Blu-Ray tól
+com.protonvpn.www	Traust og auðvelt í notkun VPN app fyrir Linux
+com.prusa3d.PrusaSlicer	Fáðu fullkomnar þrívíddarprentanir!
+com.pypyrev.linuxdcpp	Skráadeilingarbiðlari fyrir Direct Connect netið
+com.q3rally.Q3Rally	Survival kappreiðar leikur
+com.qq.QQ	Spjallboðaþjónusta á netinu
+com.qq.QQmusic	Tónlistarstraumþjónusta á netinu
+com.quexten.Goldwarden	Bitwarden samhæfður skjáborðsbiðlari
+com.quixel.Bridge	Hin fullkomna brú á milli Megascans og uppáhalds verkfæranna þinna
+com.qzandronum.Q-Zandronum	Zandronum 3.0 gaffal með bættum netkóða, stillanlegum hreyfingum og mörgum litlum klipum
+com.rabbit_company.passky	Passsky er einfaldur, nútímalegur, léttur, opinn og öruggur lykilorðastjóri.
+com.rafaelmardojai.Blanket	Hlustaðu á mismunandi hljóð
+com.rafaelmardojai.SharePreview	Prófaðu samfélagsmiðlakort á staðnum
+com.rafaelmardojai.WebfontKitGenerator	Búðu til @font-face sett auðveldlega
+com.raggesilver.BlackBox	Falleg GTK 4 flugstöð
+com.ranfdev.Geopard	Gemini vafri
+com.ranfdev.Lobjur	Einfaldur lobste.rs viðskiptavinur
+com.ranfdev.Notify	Fáðu tilkynningar frá ntfy.sh.
+com.rawtherapee.RawTherapee	Háþróað hrámyndaþróunarforrit
+com.realm667.Wolfenstein_Blade_of_Agony	Sögudrifið FPS innblásið af skotleikjum frá seinni heimsstyrjöldinni frá 90 og byrjun 2000
+com.redis.RedisInsight	Hönnuður GUI fyrir Redis, eftir Redis.
+com.remnantsoftheprecursors.ROTP	Fáguð nútímavæðing upprunalega Master of Orion Strategy leiksins frá 1993.
+com.retrodev.blastem	Sega Mega Drive/Genesis og Master System keppinautur
+com.revolutionarygamesstudio.ThriveLauncher	Þróunarhermi leikur. Taktu stjórn á tegundinni þinni í umhverfinu og breyttu tegundinni þinni í heild. Kepptu við aðrar tegundir í þróun um auðlindir á framandi plánetu.
+com.riverbankcomputing.PyQt.BaseApp	Sameiginlegur vettvangur fyrir forrit sem nota PyQt
+com.rocksandpaper.syndic	Snertivænn RSS/Atom lesandi
+com.roguetemple.HyperRogue	Óeuklídeskur grafískur fantur leikur
+com.rosegardenmusic.rosegarden	MIDI og hljóðsequencer og nótnaritaritill
+com.rq3.Reaction	Kvikmynda raunsæi fyrstu persónu skotleikur
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Léttur Qt hljóðspilari
+com.scoutshonour.Digital	Tölvuráðgáta/rómantík átti sér stað fimm mínútur inn í framtíðina árið 1988
+com.scoutshonour.dtipbijays	Andlegt framhald af Digital: A Love Story, sem gerist í virtum einkaframhaldsskóla og á samfélagsnetum 2027
+com.seafile.Client	Seafile skráarsamstilling og deildu skrifborðsforrit
+com.seal_one.SealOne	Hugbúnaður fyrir Seal One vélbúnaðarbyggð undirskriftartæki
+com.serveftp.officefactoring	App fyrir factoring, verðbréfun, ESC eða FIDC
+com.sevenkfans.sevenkaa	Miðalda rauntíma-stefnuleikur
+com.seventhstring.Transcribe	Skrifaðu upp! - hugbúnaður til að hjálpa til við að umrita hljóðritaða tónlist
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG, með pixla grafík og mikið úrval og endurspilunarhæfni
+com.sigil_ebook.Sigil	Marghliða EPUB rafbók ritstjóri
+com.sigmyne.crush	Gagnaminnkun og myndgreining fyrir valdar stjarnfræðimyndavélar
+com.simplenote.Simplenote	Einfaldasta leiðin til að halda minnispunktum
+com.sindresorhus.Caprine	Glæsilegt Facebook Messenger skrifborðsforrit
+com.sireliah.Dragit	Leiðandi skráadeilingarforrit fyrir staðarnet
+com.skype.Client	Hringdu og sendu skilaboð til Skype notenda, með stuðningi við myndspjall
+com.slack.Slack	Samskipti teymi fyrir 21. öldina
+com.sleepfiles.OSCAR	The Open Source CPAP Analysis Reporter
+com.slugchess.SlugChess	Skák með stríðsþoku og uppstokkuðum foringjum
+com.snes9x.Snes9x	Super Nintendo keppinautur
+com.solvespace.SolveSpace	Ókeypis (GPLv3) parametrisk 3d CAD tól
+com.sourcepole.kadas	Kortaforrit fyrir ósérhæfða notendur
+com.spacestation14.Launcher	Fjölspilunar hörmungarhermir
+com.spotify.Client	Tónlistarstraumþjónusta á netinu
+com.springrts.SpringLobby	Spilaðu RTS leiki á netinu með Spring vélinni
+com.steamdeckrepo.manager	Settu upp ræsimyndbönd á Steam Deckið þitt með því að nota Steam Deck Repo vefsíðu API.
+com.steamgriddb.SGDBoop	Notaðu SteamGridDB eignir á Steam
+com.steamgriddb.steam-rom-manager	Forrit til að stjórna ROM í Steam
+com.stepmania.StepMania	Rythma og dans leikur
+com.stremio.Service	Frelsi til að streyma
+com.stremio.Stremio	Horfðu á myndbönd, kvikmyndir, sjónvarpsþætti og sjónvarpsrásir samstundis
+com.strlen.TreeSheets	Free Form Data Organizer
+com.st.STM32CubeIDE	Innbyggt þróunarumhverfi fyrir STM32
+com.sublimemerge.App	Sublime Merge er Git viðskiptavinur, frá framleiðendum Sublime Text
+com.sublimetext.three	Háþróaður textaritill fyrir kóða, álagningu og prósa
+com.sudovanilla.penpot-desktop	Hönnunarfrelsi fyrir teymi
+com.supermodel3.Supermodel	Sega Model 3 Arcade keppinautur
+com.sweethome3d.Sweethome3d	Sweet Home 3D innanhússhönnunarforrit
+com.sweetscape.ZeroOneZeroEditor	Fagleg texta- og hex klipping með tvöföldum sniðmátum
+com.synology.CloudStationBackup	Rauntíma öryggisafrit sem bjargar þér frá miklu gagnatapi
+com.synology.SynologyAssistant	Tól til að stjórna Synology NAS á staðarnetinu
+com.synology.SynologyDrive	Öflug einkaskýjageymsla án endurtekinna gjalda
+com.syntevo.SmartGit	Gerðu skuldbindingu þína
+com.syntevo.SmartSynchronize	Samanburður á möppum á Smart Way
+com.system76.Popsicle	Flash mörg USB tæki samhliða
+com.szibele.e-juice-calc	Ókeypis og einföld í notkun E-Juice reiknivél
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim Desktop forrit
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP forrit
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP forrit
+com.teeworlds.Teeworlds	Fjölspilunar skotleikur á netinu
+com.tencent.wemeet	Skýtengd HD ráðstefnuvara sem nýtir 20+ ára reynslu Tencent í hljóð- og myndmiðlun
+com.tercad.fingrom	Umsókn um vettvangs-agnostic fjárhagsbókhald
+com.thebrokenrail.MCPIReborn	Gaman með blokkum
+com.thewavewarden.Odin2	Óðinn 2 hljóðgervill
+com.thincast.client	Ókeypis RDP (Remote Desktop Protocol) viðskiptavinur fyrir Linux, macOS og Windows
+com.tic80.TIC_80	Fantasíutölva til að búa til, spila og deila pínulitlum leikjum
+com.ticktick.TickTick	Dásamlegur verkefna- og verkefnalisti þinn til að gera allt gert og gera lífið vel skipulagt.
+com.todoist.Todoist	„Besta verkefnalistaforritið núna“ - The Verge
+com.toggl.TogglDesktop	Einfaldur og leiðandi tímamælingarhugbúnaður
+com.tomjwatson.Emote	Nútímalegur sprettigluggi emoji veljari
+com.tonikelope.MegaBasterd	Hlaða niður, hlaðið upp eða streymdu skrám frá MEGA.nz
+com.tracktion.Waveform	Stafræn hljóðvinnustöð fyrir alla tónlistarhöfunda
+com.transmissionbt.Transmission	Sækja og deila skrám með BitTorrent
+com.tutanota.Tutanota	Öruggur tölvupóstur, dagatal og tengiliðir
+com.tux4kids.tuxmath	TuxMath er spilakassaleikur sem hjálpar krökkum að æfa stærðfræðistaðreyndir sínar
+com.tux4kids.tuxtype	Fræðandi vélritunarkennari leikur með Tux í aðalhlutverki
+com.tuxpusher.TuxPusher	Skemmtilegur myntýtaleikur með Tux!
+com.tuxpusher.TuxPusherAF	515 einstök verðlaun + 6 mörgæsir
+com.ugetdm.uGet	Sækja framkvæmdastjóri
+com.ulduzsoft.Birdtray	Kerfisbakki nýr pósttilkynning fyrir Thunderbird
+com.ultimaker.cura	Slicer til að undirbúa þrívíddarprentunarverkefnin þín
+com.umlet.Umlet	Ókeypis UML tól fyrir hraðar UML skýringarmyndir
+com.unity.UnityHub	Rauntíma leikjavél
+com.uploadedlobster.peek	Einfaldur skjáupptökutæki með auðveldu viðmóti
+com.usebottles.bottles	Keyra Windows hugbúnað
+com.usebruno.Bruno	Fljótur og Git-Friendly API viðskiptavinur
+com.vagueentertainment.Framed	Stafrænn myndarammi fyrir NFTshowroom list og persónuleg verk
+com.valvesoftware.Steam	Sjósetja fyrir Steam hugbúnaðardreifingarþjónustuna
+com.valvesoftware.SteamLink	Straumaðu leikjum úr annarri tölvu með Steam
+com.varnamproject.Varnam	Sláðu inn indísk tungumál auðveldlega
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, Gameboy Advance emulator með mikilli eindrægni
+com.vesc_project.VescTool	VESC® Tool er allt nýtt og 100% endurskoðað skipti fyrir BLDC-Tool
+com.viber.Viber	Við tengjum fólk saman, sama hver það er eða hvaðan það er
+com.vicr123.thebeat	Hljóðspilari
+com.viewizard.AstroMenace	Harðkjarna þrívíddar geimskrollskotleikur með möguleika á uppfærslu á geimskipum
+com.virustotal.VirusTotalUploader	Hladdu upp skrám á virustotal.com
+com.visualstudio.code	Kóða útgáfa. Endurskilgreint.
+com.visualstudio.code-oss	Visual Studio kóða. Kóða útgáfa. Endurskilgreint.
+com.vivaldi.Vivaldi	Öflugur, persónulegur og einkavafri
+com.vixalien.decibels	Spila hljóðskrár
+com.vixalien.sticky	Festu minnispunkta við skjáborðið þitt
+com.voxdsp.aigeneratedgame	Bjargaðu garðvinum þínum frá draugunum!
+com.voxdsp.AstroImpact	Fjölspilunar geimleikur, verja plánetuna fyrir komandi smástirni!
+com.voxdsp.Borg	Færanlegur (SDL) hljóðgervill / tóngjafi innblásinn af Korg ER-1
+com.voxdsp.Borg0	Flytjanlegur (SDL) hljóðgervill / tónrafall gerir notendum kleift að teikna sveiflur og umslög.
+com.voxdsp.CubeShooter	3D spilakassa-stíll skotleikur
+com.voxdsp.PoryDrive	Bílaleikur þar sem þú verður að ná Porygon!
+com.voxdsp.SeriousShooter	3D FPS samþykkt af Sam frænda
+com.voxdsp.Snowboarder	Einfaldur þrívíddarleikur á snjóbretti
+com.voxdsp.Snowling	Keiluleikur heppni
+com.voxdsp.Spaceminer	3D geimnámuleikur
+com.voxdsp.Tuxocide	3D FPS stríð geisar á Suðurskautslandinu...
+com.voxdsp.TuxScape	Goðsagnakennt ævintýri sem Tux!
+com.voxdsp.TuxVsDragon	Drepið rauða drekann Tux!
+com.voxdsp.VoxelPaint	Málaðu í 3D með voxels!
+com.voxdsp.VoxelPaintPro	Málaðu í 3D með því að nota solid skyggða Voxels!
+com.vscodium.codium	Kóða útgáfa. Endurskilgreint. Fjarmæling minna.
+com.vysp3r.ProtonPlus	Einfaldur vín- og róteindabundinn samhæfniverkfærastjóri
+com.vzhd1701.gridplayer	Spilaðu myndbönd hlið við hlið
+com.w1hkj.fldigi	Áhugamannaradíó hljóðkortasamskipti
+com.w1hkj.flrig	Amatör Radio Rig Control
+com.whitemagicsoftware.kmcaster	Sýna mús og lyklaborð atburði á skjánum
+com.wickeditor.WickEditor	Tól til að búa til leiki, hreyfimyndir og allt þar á milli!
+com.wings3d.WINGS	Háþróaður módelgerðarmaður
+com.wire.WireDesktop	Öruggasti samstarfsvettvangurinn
+com.wiz.Note	Frábært PKM (persónuleg þekkingarstjórnun) skrifborðsumhverfi byggt á skýjanotkun
+com.wps.Office	WPS Office Suite
+com.writerduet.writersolo	Umfangsmikið skrifborðsforrit til að skrifa handrit að fullu eða breyta á milli ýmissa handritssniða eins og lokauppkast að fdx eða gosbrunni
+com.xnview.XnConvert	Auðveldlega hópvinnsla myndir og breyta lýsigögnum
+com.xnview.XnRetro	Búðu til töfrandi myndir með vintage eða augnablik áhrifum
+com.xnview.XnSketch	Breyttu myndunum þínum í teiknimyndir eða skissumyndir
+com.xnview.XnViewMP	Skoða og raða myndunum þínum
+com.xunlei.Thunder	Xunlei til að sækja.迅雷下载.
+com.yacreader.YACReader	Enn einn grínisti lesandinn
+com.yktoo.ymuse	Auðvelt, hagnýtur og sniðugur GTK framhlið (viðskiptavinur) fyrir Music Player Deemon
+com.ylsoftware.qmmp.Qmmp	Qt-undirstaða margmiðlunarspilari
+com.yubico.yubioath	Grafískt viðmót til að sýna OATH kóða með YubiKey
+com.zandronum.Zandronum	Í fararbroddi í nýjum skóla fjölspilunarleik Doom á netinu
+com.zerobrane.studio	Létt Lua-undirstaða IDE fyrir Lua
+com.zettlr.Zettlr	Markdown ritstjóri fyrir 21. öldina
+com.zhqli.wikit	Alhliða orðabók
+com.zoho.Notebook	Fallegasta glósuforritið í gegnum tæki
+com.zquestclassic.ZQuest	Leikjavél til að búa til leiki svipaða vinsæla klassíska ævintýraleiknum
+cool.ldr.lfy	Þýðingarhugbúnaður fyrir gnome
+cz.cvut.edu.comparch.qtrvsim	RISC-V CPU hermir í fræðsluskyni
+cz.krupkat.Xpano	Sjálfvirkt tæki til að festa myndir
+cz.zeropage.Formiko	reStructuredText og MarkDown ritstjóri og lifandi forsýning
+de._0x539.gobby	Breyttu textaskrám í samvinnu
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Einföld reiknivél til að bæta við klukkustundum og mínútum
+de.akaflieg_freiburg.enroute	Flugleiðsöguforrit fyrir sjónflugsflugmenn
+de.bforartists.Bforartists	Fullkomin, ókeypis og opinn þrívíddarsvíta
+de.billardgl.Billardgl	Skemmtilegur 3D billjard leikur
+de.blobbyvolley.BlobbyVolley2	Fjölspilunarleikur í blaki.
+de.breitbandmessung.Breitbandmessung	Gerir kleift að mæla nethraða.
+de.bund.ausweisapp.ausweisapp2	Opinber auðkenningarapp fyrir þýskt auðkenniskort og dvalarleyfi
+de.create3000.titania	Breyttu, skoðaðu og vafraðu í X3D og VRML heimum
+de.fabrik19.mos-Launcher	Notað til að þróa með Mobilitysuite
+de.finnik.PassVault	Hafðu umsjón með lykilorðunum þínum á öruggan og auðveldan hátt með PassVault
+de.flinkebits.AvaEmailArchivar	Geymsla og endurheimt tölvupósts úr IMAP pósthólfum
+de.gunibert.Hackgregator	Hacker News Reader
+de.haeckerfelix.AudioSharing	Deildu hljóði úr tölvunni þinni
+de.haeckerfelix.Fragments	BitTorrent forrit
+de.haeckerfelix.Shortwave	Hlustaðu á netútvarp
+de.halaszovich.PMbrowser	Opnaðu, skoðaðu og fluttu út PM dat skrár
+de.ifw_dresden.nagstamon	Nagstamon er stöðuskjár fyrir skjáborðið.
+de.k_bo.Televido	Fáðu aðgang að þýsku sjónvarpi
+de.klayout.KLayout	Skoðari og ritstjóri fyrir grímuuppsetningar
+de.lernsoftware_filius.Filius	Filius er nethermir í fræðsluskyni.
+de.linuxguides.RechnungsAssistent	Þýskur reikningsframleiðandi
+de.manuel_kehl.go-for-it	Stílhrein verkefnalisti með innbyggðum framleiðnitímamæli
+de.marlam.gencolormap	Color Map Generator
+de.marlam.qv	2D Data Visualizer
+de.mediathekview.MediathekView	Aðgangur að opinberu þýsku sjónvarpi Mediathek
+de.nicokimmel.shadowcast-electron	Sýnir myndbandsstrauminn af ShadowCast eftir Genki
+de.peterge.combined	Samsett! er blokkaþrautaleikur. Markmið þitt er að tengja kubba til að fá hærri kubba á borðið.
+de.philippun1.Snoop	Snúðu í gegnum skrárnar þínar
+de.philippun1.turtle	Stjórnaðu git geymslunum þínum
+de.rwth_aachen.ient.RDPlot	RDPlot er tæki til að teikna upp hraðabjögunarferla
+de.rwth_aachen.ient.YUView	QT byggður YUV spilari á vettvangi með háþróaðri greiningartólum
+de.schmidhuberj.DieBahn	Ferðastu með allar lestarupplýsingarnar þínar á einum stað
+de.schmidhuberj.Flare	Spjallaðu við vini þína á Signal
+de.schmidhuberj.tubefeeder	Fylgstu með myndböndum
+de.sesu8642.feudaltactics	Stefna leikur með óteljandi einstökum og krefjandi stigum.
+de.shorsh.discord-screenaudio	Sérsniðinn discord viðskiptavinur sem styður streymi með hljóði á Linux
+de.syping.gta5view	Opnaðu og breyttu GTA V prófílum
+de.tumexam.cli	Viðskiptavinur fyrir TUMexam til að stjórna nemendum og prófum.
+de.unifreiburg.ellipticcurve	Teiknar sporöskjulaga ferla og gerir tilraunir með hóplögmál þeirra
+de.uni_heidelberg.zah.GaiaSky	Open Source 3D alheimshermir fyrir skjáborð og VR með stuðningi fyrir meira en milljarð hluti
+dev.alextren.Spot	Hlustaðu á tónlist á Spotify
+dev.ares.ares	eftirlíkingarsvíta fyrir fjölkerfa stjórnborð
+dev.atoft.Reactions	Einföld GIF leit.
+dev.aunetx.deezer	Tónlistarstraumþjónusta á netinu
+dev.bambosh.UnofficialHomestuckCollection	Ónettengd safn af Homestuck og tengdum verkum þess
+dev.boxi.Boxi	Flugstöðvarkeppinautur til notkunar með Toolbox
+dev.bragefuglseth.Fretboard	Leitaðu að gítarhljómum
+dev.bsnes.bsnes	Super Nintendo keppinautur
+dev.Cogitri.Health	Fylgstu með líkamsræktarmarkmiðum þínum
+dev.deedles.Trayscale	Óopinber GUI umbúðir utan um Tailscale CLI.
+dev.edfloreshz.Done	Verkefnalistar enduruppgerðir
+dev.ensoft.ecode	Léttur fjölvettvangs kóðaritari hannaður fyrir nútíma vélbúnað með áherslu á svörun og frammistöðu.
+dev.gbstudio.gb-studio	Fljótur og auðveldur í notkun, draga og sleppa afturleikjagerð fyrir Game Boy
+dev.geopjr.Collision	Athugaðu kjötkássa fyrir skrárnar þínar
+dev.geopjr.Tuba	Skoðaðu Fediverse
+dev.goats.xivlauncher	Sjósetja og óaðfinnanlegur Linux samþætting fyrir Final Fantasy XIV Online
+dev.hdos.HDOS	High Detail Old School Runescape viðskiptavinur
+dev.jamiethalacker.window_painter	Fylltu borðið með sama lit af málningu
+dev.k8slens.OpenLens	Kubernetes IDE
+dev.krtirtho.Flemozi	Advanced⚡ Emoji Picker😀 fyrir Linux🐧, Windows🪟 og macOS🍎
+dev.lapce.lapce	Eldingarfljótur og öflugur kóðaritari skrifaður í Rust
+dev.lasheen.qr	QR kóða skanni/rafall
+dev.levz.TinyImageFinder	Image Finder með Preview
+dev.linwood.butterfly	Öflugt, naumhyggjulegt, opinn uppspretta minnismiðaforrit á milli vettvanga
+dev.lizardbyte.app.Sunshine	Sjálfstýrður leikstraumsgestgjafi fyrir Moonlight.
+dev.lukebriggs.pepys	Einföld álagningardagbók
+dev.mrquantumoff.mcmodpackmanager	Stjórnaðu modpacks þínum á auðveldan hátt!
+dev.mufeed.Wordbook	Leitaðu að skilgreiningum fyrir hvaða ensku hugtak sem er
+dev.paullee.scraterpreter.Scrape	Scraterpreter er túlkur sem rekur .sb3 (Scratch) verkefni.
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc er þýðandi fyrir Scraterpreter.
+dev.pulsar_edit.Pulsar	Textaritill undir stjórn samfélagsins
+dev.rzia.minesector	Snazzy Minesweeper-undirstaða leikur
+dev.salaniLeo.forecast	Veðurforrit fyrir GNOME
+dev.salaniLeo.immagini	Bókasafn og sköpunarverkfæri fyrir AppImage öpp
+dev.schlaubi.Tonbrett	Companion app fyrir Discord Soundboard Bot
+dev.serebit.Waycheck	Sýnir samskiptareglur útfærðar af Wayland samsetningu
+dev.slimevr.SlimeVR	Forrit til að auðvelda mælingar á öllum líkamanum í sýndarveruleika
+dev.stewlab.PortaWar	Velkomin í stríð lófatölvanna!
+dev.storyapps.starc	Allt-í-einn ritunarforrit
+dev.tchx84.Portfolio	Stjórna skrám á ferðinni
+dev.vencord.Vesktop	Snappier Discord app með Vencord
+dev.vieb.Vieb	Vim innblásinn rafeindavafri
+dev.zelikos.rollit	Kastaðu teningnum
+de.wger.flutter	Líkamsrækt/æfing, næring og þyngdarmæling
+de.willuhn.Jameica	Umsóknarvettvangur svipað OSGI
+de.wwwtech.ColorMate	Umbreyttu CSS litum á milli merkinga
+de.zwarf.picplanner	Skipuleggðu næstu myndastaðsetningar þínar
+dk.tangramgames.mrrescue	Slökkvileikur í spilakassa-stíl
+edu.berkeley.BOINC	Leggja til tölvuafl til verkefna sem stunda rannsóknir á mörgum vísindasviðum
+edu.mit.Scratch	Búðu til sögur, leiki og hreyfimyndir, deildu með öðrum um allan heim
+edu.princeton.physics.WSJTX	Áhugamannaútvarp veikt merki í notkun
+edu.stanford.Almond	Opinn sýndaraðstoðarmaður
+edu.stanford.protege	Eiginleikaríkt klippiumhverfi í verufræði
+engineer.atlas.Nyxt	Vafrinn tölvuþrjótsins
+es.estoes.wallpaperDownloader	Hladdu niður, stjórnaðu og breyttu veggfóðurinu þínu sjálfkrafa af internetinu
+eu.ad5001.LogarithmPlotter	2D logarithmic-scale plotter hugbúnaður til að búa til Bode plots, raðir og dreifingaraðgerðir
+eu.betterbird.Betterbird	Betterbird er mjúkur gaffall Mozilla Thunderbird. Einfaldlega betri.
+eu.cichy1173.tabela	Einfalt app sem sýnir CSV efni í töflu
+eu.ithz.umftpd	Fáðu aðgang að skránum þínum úr öðru tæki
+eu.ngdevelopment.tsukitag	Anime myndaborðsvafri, samansafnari, niðurhalari, merkja, breytir, safnstjóra. Skoðaðu og búðu til þín eigin söfn, stilltu vinnusvæði fyrir niðurhal mynda með sniðmátsstuðningi.
+eu.nimmerfort.blackbody	Hitamyndaskoðari
+eu.ototu.Quteqoin	Umsókn pour lire les tribunes
+eu.planete_kraus.Tarot	Spilaðu Tarot leik gegn gervigreindinni
+eu.scarpetta.PDFMixTool	Forrit til að framkvæma algengar klippingaraðgerðir á PDF skjölum
+eu.skribisto.skribisto	Hugbúnað til að skrifa
+eu.stethewwolf.gresistor	Viðnám litakóða reiknivél
+eu.usdx.UltraStarDeluxe	Karaoke forrit sem metur frammistöðu þína
+eu.vcmi.VCMI	Opinn uppspretta leikjavél fyrir Heroes of Might og Magic III
+fi.mooc.tmc.tmc-cli-rust	CLI fyrir TestMyCode forritunarverkefnamatið.
+fi.skyjake.Lagrange	Fallegur Gemini viðskiptavinur
+fm.cancel.Ripcord	Annar skrifborðsspjallforrit fyrir Slack (and Discord)
+fm.helio.Workstation	Helio Project frjáls tónlistarsamsetning hugbúnaður
+fm.reaper.Reaper	Stafræn hljóðvinnustöð
+fr.dwightstudio.JArmEmu	Einfaldur ARMv7 hermir skrifaður í Java, ætlaður til fræðslu
+fr.fgrabenstaetter.DigitalAssets	Verð og tölfræði dulritunargjaldmiðla
+fr.free.brouits.qspeakers	Hugbúnaður fyrir hönnun hátalara
+fr.free.Homebank	Ókeypis, auðvelt, persónulegt bókhald, fyrir alla
+fr.free.hxc2001.HxCFloppyEmulator	Hugbúnaðar- og vélbúnaðarlausn til að skipta um gamla disklinginn
+fr.free.qccrypt.Qccrypt	QT byggt grafískt framhlið fyrir dulritunarverkfæri
+fr.handbrake.ghb	Vídeó umbreytir
+fr.henri2h.minestrix	Samfélagsmiðill með áherslu á friðhelgi einkalífsins byggður á Matrix
+fr.inria.corese.CoreseCommand	Opnaðu kraft merkingarvefsins
+fr.inria.corese.CoreseGui	Opnaðu kraft merkingarvefsins
+fr.masson_informatique.WhosWho	Búðu til PDF skjöl með myndum fólks og samsvarandi nafni, einnig kallað hver er hver, árbók eða facebook
+fr.natron.Natron	Opinn uppspretta myndbandssamsetningarhugbúnaðar
+fr.romainvigier.MetadataCleaner	Skoðaðu og hreinsaðu lýsigögn í skrám
+fr.romainvigier.zap	Spilaðu hljóð af hljóðborði
+fr.rubet.rpn	CLI reiknivél með öfugum pólskum nótum
+fr.sgued.ten_forward	Stjórna NAT-PMP gátt
+fun.vnote.app.VNote	Skemmtilegur glósuvettvangur
+fyi.zoey.Boop-GTK	Port of IvanMathy's Boop til GTK, skrifanlegt klóraborð fyrir forritara.
+fyi.zoey.TeX-Match	Finndu LaTeX tákn með því að skissa
+games.zetsubou.AnAdventurersGallantry	Vansæmdur riddari í þjálfun Oren fær annað tækifæri í lífinu sem ævintýramaður í þessari sjónrænu fantasíuskáldsögu
+games.zetsubou.HumanityMustPerish	Gamanísk sjónræn skáldsaga um android klædda sem menntaskólastúlku þegar hún býr sig undir að tortíma mannkyninu
+games.zetsubou.MaxMassacre	Sjónræn skáldsaga sem gerist í skrímslafullum fantasíuheimi
+games.zetsubou.SablesGrimoireDemo	Sjónræn skrímslastelpa sem gerist í galdraakademíu
+games.zetsubou.WanderNoMore	Sjónræn skáldsaga sem segir sögu rangláts samúræja
+garden.turtle.Jellybean	Halda tölu á endurnýjanlegum hlutum
+ga.rpmtw.rpmlauncher	Betra Minecraft sjósetja sem styður marga vettvanga og marga eiginleika sem þú getur skoðað!
+gg.guilded.Guilded	Skilaboð, radd- og myndviðskiptavinur
+gg.minion.Minion	Viðbótarstjóri fyrir The Elder Scrolls Online og World of Warcraft
+gg.tesseract.Tesseract	Fyrstu persónu skotleikur með samvinnu við kortavinnslu í leiknum
+global.worldcoin.worldcoin-core	Aðskilin með landamærum, sameinuð af tækni
+hu.irl.cameractrls	Myndavélastýringar fyrir Linux
+hu.kramo.Cartridges	Ræstu alla leiki þína
+id.sideka.App	Stjórnunarvettvangur þorps
+il.co.ravkavonline.RavKavOnline	Hlaða Rav-Kav kortið þitt heima og ferðast í þægindum
+im.bernard.Funkcio	Teiknaðu aðgerðir úr punktum
+im.bernard.Nostalgia	Settu sögulegt GNOME veggfóður
+im.dino.Dino	Nútímalegt XMPP-spjallforrit
+im.fluffychat.Fluffychat	Spjallaðu við vini þína
+im.gitter.Gitter	Samskiptavara fyrir samfélög og teymi á GitHub.
+im.kaidan.kaidan	Notendavænt og nútímalegt spjallforrit fyrir hvert tæki
+im.pidgin.Pidgin	Viðskiptavinur fyrir spjallskilaboð
+im.riot.Riot	Búðu til, deildu, áttu samskipti, spjallaðu og hringdu á öruggan hátt og brúðu til annarra forrita
+im.srain.Srain	Nútíma IRC viðskiptavinur skrifaður í GTK
+in.bharatkalluri.shortcircuit	Klóspjald fyrir þróunaraðila
+in.bharatkalluri.splash	Stilltu háupplausn skjáborðsbakgrunn frá Unsplash!
+in.cinny.Cinny	Enn einn Matrix viðskiptavinurinn með einfalt, glæsilegt og öruggt viðmót.
+info.beyondallreason.bar	The Total Annihilation Inspired RTS sem þú hefur beðið eftir
+info.bibletime.BibleTime	Biblíunámskeið
+info.cemu.Cemu	Nintendo Wii U keppinautur
+info.colobot.Colobot	Nýlendu með vélmenni
+info.febvre.Komikku	Lestu uppáhalds mangaið þitt
+info.mumble.Mumble	Dulkóðaður VoIP viðskiptavinur með lítilli leynd
+info.olasagasti.revelation	Lykilorðsstjóri
+info.portfolio_performance.PortfolioPerformance	Fylgstu með árangri fjárfestingasafns
+info.puredata.Pd	Rauntíma grafískt forritunarumhverfi fyrir lifandi gagnvirka tölvutónlist
+info.puredata.Pd-extended	Opinn uppspretta sjónrænt forritunarmál fyrir margmiðlun
+info.rttr.Return-To-The-Roots	Aðdáendaverkefni sem endurnýjar The Settlers 2 leikinn
+info.smplayer.SMPlayer	Frábær fjölmiðlaspilari
+info.urbanterror.UrbanTerror	Taktísk fyrstu persónu skotleikur með hasarmyndaþáttum
+ink.scribl.Scribl	Búðu til einföld kennslumyndbönd
+in.p1x.TanksOfFreedom	Indie snúningsbundin stefna í ísómetrískri pixlalist
+in.srev.guiscrcpy	Hugbúnaður fyrir Android skjáspeglun
+io.appflowy.AppFlowy	Opinn uppspretta hugmyndaval
+io.atom.Atom	Textaritill sem hægt er að hakka fyrir 21. öldina
+io.bassi.Amberol	Spilar tónlist og ekkert annað
+io.beekeeperstudio.Studio	SQL ritstjóri og gagnagrunnsstjóri draumanna þinna
+io.blockloader.BlockLoader	Besti Minecraft mod stjórinn
+io.botfather.Botfather	Alhliða sjálfvirknirammi
+io.conduktor.Conduktor	Fallegur og fullbúinn skjáborðsbiðlari fyrir Apache Kafka
+io.crow_translate.CrowTranslate	Einfaldur og léttur þýðandi
+io.dbeaver.DBeaverCommunity	Alhliða gagnagrunnsstjóri
+io.defn.Franz	Skrifborðsforrit fyrir Apache Kafka
+io.edcd.EDMarketConnector	Uppfærir EDDN með gögnum úr leiknum þínum
+io.emeric.toolblex	Bluetooth Low Energy tæki skanni og greiningartæki
+io.emeric.watchflower	Verksmiðjueftirlitsforrit fyrir Bluetooth Low Energy skynjara og hitamæla eins og Xiaomi 'Flower Care' eða Parrot 'Flower Power'
+io.enpass.Enpass	Enpass er lykilorðastjóri til að geyma og stjórna lykilorðum þínum og öðrum skilríkjum á öruggan hátt.
+io.exodus.Exodus	Allt-í-einn app til að tryggja, stjórna og skiptast á blockchain eignum
+io.frama.tractor.carburetor	Onion Routing appið
+io.freetubeapp.FreeTube	Open Source YouTube app fyrir friðhelgi einkalífsins
+io.gdevelop.ide	Fljótleg og auðveld leikjagerð
+io.gdevs.GDLauncher	GDLauncher er einfalt en samt öflugt Minecraft sérsniðið sjósetja með mikla áherslu á notendaupplifunina.
+io.github._0xzer0x.qurancompanion	Kóranalesari og spilari fyrir skrifborð án nettengingar á vettvangi
+io.github.aandrew_me.ytdn	Sæktu myndbönd og hljóð frá hundruðum vefsvæða
+io.github.achetagames.epic_asset_manager	Stjórnaðu Epic eignum þínum
+io.github.Adda0.Stardrop	Óopinber gaffal Stardrop með sérsniðnum breytingum
+io.github.adrienverge.PhotoCollage	Myndrænt tól til að búa til veggspjöld með klippimyndum
+io.github.aerocyber.sitemarker	Opinn uppspretta bókamerkjastjóri
+io.github.aggalex.Wineglass	GUI fyrir vín
+io.github.alainm23.planify	Gleymdu því að gleyma hlutum
+io.github.alexkdeveloper.gomoku	Gomoku leikur
+io.github.alexkdeveloper.radio	Einfalt útvarp með stöðvum af vefsíðunni radio-browser.info
+io.github.alexkdeveloper.zodiac	Einfalt forrit til að búa til stjörnuspár
+io.github.am2r_community_developers.AM2RLauncher	Framhlið til að takast á við AM2R uppfærslur og mods
+io.github.am2r_community_developers.Atomic	Tólumbúðakeðja fyrir AM2R mods.
+io.github.amit9838.weather	Fallegt og létt veðurapp
+io.github.andreibachim.shortcut	Búðu til flýtileiðir fyrir forrit
+io.github.Andrettin.Wyrmsun	Herkænskuleikur byggður á sögu, goðafræði og skáldskap
+io.github.anirbandey1.ChatbotClient	Rafeindaumbúðir fyrir ChatGPT vefsíðu
+io.github.antimicrox.antimicrox	Grafískt forrit notað til að kortleggja spilunarhnappa á lyklaborð, mús, forskriftir og fjölvi
+io.github.appoutlet.GameOutlet	Finndu bestu verðin á tölvuleikjum
+io.github.Archeb.opentrace	GUI umbúðir yfir vettvang fyrir NextTrace
+io.github.Arisotura.CoinKiller	Stig ritstjóri fyrir NSMB2
+io.github.arunsivaramanneo.GPUViewer	Framhlið glxinfo, vulkaninfo, clinfo og es2_info
+io.github.Bavarder.Bavarder	Spjallaðu við gervigreind
+io.github.benini.scid	Forrit fyrir skákgagnagrunn
+io.github.betaflight.BetaflightConfigurator	Crossplatform stillingarverkfæri fyrir Betaflight flugstjórnkerfið
+io.github.bkueng.qMasterPassword	Ríkisfangslaus aðal lykilorðastjóri
+io.github.Bollos00.LibreMines	Ókeypis/Libre og opinn hugbúnaður Qt byggður Minesweeper leikur fáanlegur fyrir GNU/Linux, FreeBSD og Windows kerfi.
+io.github.bothlab.pomidaq	Skoðaðu og taktu upp myndbönd frá UCLA Miniscopes
+io.github.bothlab.syntalos	Samstillt gagnaöflun frá ýmsum aðilum og sveigjanleg tilraunastýring
+io.github.brainstormtrooper.facteur	Sendir tölvupóst sem byggir á sniðmátum á lista yfir viðtakendur
+io.github.brunoherbelin.Vimix	Vídeó í beinni
+io.github.btpf.alexandria	Minimalískur rafbókalesari
+io.github.bytezz.IPLookup	Finndu upplýsingar um IP tölu
+io.github.carterbox.Electricity_Clock	Notkunartímaskjár fyrir raforkuverð
+io.github.cboxdoerfer.FSearch	Myndrænt skráaleitarforrit
+io.github.celluloid_player.Celluloid	GTK+ viðmót fyrir mpv
+io.github.cges30901.hmtimer	Myndrænn lokunartímamælir
+io.github.chris2511.xca	X vottorð og lyklastjórnun
+io.github.ciromattia.kcc	Forrit sem gerir þér kleift að umbreyta PNG, JPG, GIF, CBZ, CBR og CB7 skrám þínum í EPUB eða MOBI snið rafbækur
+io.github.cleomenezesjr.Escambo	Prófaðu og þróaðu API
+io.github.cloose.CuteMarkEd	Qt Markdown ritstjóri
+io.github.cmus.cmus	Console tónlistarspilari
+io.github.Cockatrice.cockatrice	Sýndarborðplata fyrir fjölspilunarkortaleiki
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.ctlcltd.e2se	Ritstjóri gervihnattarásarlista: Enigma2, Neutrino, dreambox
+io.github.cudatext.CudaText-Qt5	Opinn uppspretta og textaritill á vettvangi
+io.github.cxong.cdogs-sdl	Klassískur hlaupa-og-byssuleikur
+io.github.dagargo.Elektroid	Sýnishorn og MIDI tækjastjóri
+io.github.daviddesimone.opencloudsaves	Tól notað til að samstilla vistunarleikina þína á milli tækjanna þinna
+io.github.davidoc26.wallpaper_selector	Hleður niður og notar veggfóður
+io.github.dbchoco.muezzin	Íslamska bænatímaumsókn
+io.github.dbchoco.Salawat	Íslamska bænatímaumsókn
+io.github.ddanilov.soundscape	Soundscape forrit fyrir skjáborð
+io.github.dfandrich.gpscorrelate	GPS Correlate festir EXIF GPS staðsetningarmerki við myndir
+io.github.dgsasha.Remembrance	Stilltu áminningar fyrir sjálfan þig
+io.github.dida_code.OpstaKultura	Leikur, þekkingarpróf
+io.github.diegoivan.GaticTacToe	Spilaðu Tic-tac-toe með vinum þínum
+io.github.diegoivanme.flowtime	Eyddu tíma þínum skynsamlega
+io.github.diegoivan.pdf_metadata_editor	Breyttu lýsigögnum PDF skjala
+io.github.diegopvlk.Dosage	Fylgstu með meðferðum þínum
+io.github.dimtpap.coppwr	GUI á lágu stigi fyrir PipeWire
+io.github.divverent.aaaaxy	Ólínulegt þrautaspil sem á sér stað í ómögulegum rýmum
+io.github.dlippok.photometric-viewer	Skoða ljósmælingaskrár
+io.github.dman95.SASM	Einföld þverpalla IDE fyrir NASM, MASM, GAS og FASM samsetningartungumál
+io.github.dosbox-staging	DOS/x86 keppinautur með áherslu á auðvelda notkun
+io.github.Dretch.MonomerFlatpakExample	Einliða Flatpak Dæmi Umsókn.
+io.github.dtsudo.ChessCompStompWithHacks	Sigraðu gervigreind í skákinni með því að nota reiðhestur!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Flýttu þér í gegnum 10 stig með því að nota vistunarstöður!
+io.github.dubstar_04.design	2D CAD fyrir GNOME
+io.github.dummerle.rare	GUI fyrir goðsagnakennda, opinn uppspretta Epic Games val
+io.github.dvlv.boxbuddyrs	Grafískur Distrobox framkvæmdastjóri
+io.github.dweymouth.supersonic	Léttur skjáborðsbiðlari á milli palla fyrir Subsonic og Jellyfin tónlistarþjóna
+io.github.dyegoaurelio.simple-wireplumber-gui	Einfalt GTK4 GUI fyrir PipeWire
+io.github.ec_.Quake3e.OpenArena	Ókeypis og opinn fyrstu persónu skotleikur
+io.github.eminfedar.vaktisalah-gtk-rs	GTK4 útgáfa af Vakt-i Salah (Bænatímar)
+io.github.endless_sky.endless_sky	Geimkönnun og bardagaleikur
+io.github.erkin.ponysay	Cowsay endurútfærsla fyrir hesta
+io.github.everestapi.Olympus	Cross-platform Celeste Mod Manager
+io.github.ezQuake	nútíma QuakeWorld viðskiptavinur sem einbeitir sér að samkeppnishæfum netspilun
+io.github.f3d_app.f3d	Hratt og lægstur þrívíddarskoðari
+io.github.fabiangreffrath.Doom	Takmarka-fjarlægi Doom upprunatengi með aukinni upplausn
+io.github.fabrialberio.pinapp	Búðu til og breyttu flýtileiðum forrita
+io.github.FailurePoint.RandomNumberFive	Handahófsnúmeraframleiðandi fyrir Fyrir Linux skjáborðið!
+io.github.fastrizwaan.WineZGUI	Wine GUI með Zenity
+io.github.ferraridamiano.ConverterNOW	Einfaldur, tafarlaus og fljótur einingabreytir!
+io.github.Figma_Linux.figma_linux	Vefbundið samvinnuhönnunarverkfæri
+io.github.fin_ger.OvGUCanteen	Skoðaðu OvGU Mensa valmyndina í litlu GTK appi
+io.github.fizzyizzy05.binary	Talnagrunnsbreytir
+io.github.fkinoshita.Telegraph	Skrifaðu og afkóða morse
+io.github.flattool.Warehouse	Stjórna öllu Flatpak
+io.github.Fndroid.clash_for_windows	Grafískur viðskiptavinur Clash, byggður á Electron.
+io.github.Foldex.AdwSteamGtk	Gefðu Steam Adwaita meðferðina
+io.github.Foldex.r2mod	Hætta á Rain 2 Mod Manager
+io.github.foldynl.QLog	Útvarpsdagbók áhugamanna
+io.github.foxxmd.multiscrobbler	Scrobbles tónlist frá mörgum áttum til margra viðskiptavina
+io.github.fragglet.sdl_sopwith	Hin klassíska tvíplana skjóta 'em-up
+io.github.fralonra.PpdEditor	2D pappírsbrúðu ritstjóri
+io.github.fralonra.WgShadertoy	WGSL leikvöllur innblásinn af Shadertoy
+io.github.freedoom.FreeDM	Deathmatch leikur byggður á Doom vélinni
+io.github.freedoom.Phase1	Fyrstu persónu skotleikur byggður á Doom vélinni
+io.github.freedoom.Phase2	Fyrstu persónu skotleikur byggður á Doom vélinni
+io.github.fsobolev.TimeSwitch	Stilltu verkefni til að keyra eftir tímamæli
+io.github.gamingdoom.Datcord	Opinn uppspretta Discord viðskiptavinur sem notar Firefox
+io.github.garglk.Gargoyle	Gagnvirkur skáldskaparspilari
+io.github.gen2brain.cbconvert	Myndasögubreytir
+io.github.gerryferdinandus.bittorrent-tracker-editor	Bættu við eða fjarlægðu rekja spor einhvers úr torrent skrám.
+io.github.giantpinkrobots.bootqt	Búðu til ræsanleg drif
+io.github.giantpinkrobots.flatsweep	Flatpak afgangshreinsiefni
+io.github.giantpinkrobots.varia	Hlaða niður skrám á fljótlegan og skilvirkan hátt
+io.github.gillesdegottex.FMIT	Ókeypis hljóðfærastillir (FMIT), tæki til að stilla hljóðfæri
+io.github.glitterware.Passy	Ótengdur lykilorðastjóri með samstillingu á vettvangi
+io.github.GoldenGnu.jEveAssets	jEveAssets er eignaumsjónarmaður fyrir Eve-Online utan leiks
+io.github.gopher64.gopher64	Nintendo 64 keppinautur
+io.github.gssh_linux.gssh	Python app sem gerir þér kleift að tengjast ssh netþjónum frá (virkilega) einföldu GUI
+io.github.gtkwave.GTKWave	Rafræn bylgjumyndaskoðari til að skoða eftirlíkingarniðurstöður
+io.github.guillaumechereau.Goxel	Open Source 3D voxel ritstjóri
+io.github.hakandundar34coding.mini-system-monitor	Eftirlit með CPU, vinnsluminni, diski, netnotkun
+io.github.hakandundar34coding.system-monitoring-center	Fjölvirkur kerfisskjár
+io.github.hakuneko.HakuNeko	Þverpalla niðurhalar fyrir manga og anime frá ýmsum vefsíðum
+io.github.helpseeker.Gyre	Sækja forrit fyrir myndbönd frá Coub
+io.github.hermitdemschoenenleben.linien	Litrófsgreiningarlás
+io.github.Hexchat	IRC viðskiptavinur
+io.github.hmlendea.geforcenow-electron	Óopinber GeForce NOW forrit skrifað í Electron
+io.github.hrkfdn.ncspot	Cross-platform ncurses Spotify viðskiptavinur
+io.github.huderlem.porymap	Kortaritill fyrir Pokémon kynslóð 3 afsamsetningarverkefnin
+io.github.hurricangame.hurrican	Ókeypis stökk- og skotleikur búinn til af Poke53280
+io.github.hvdwofl.jExifToolGUI	Einfalt framenda fyrir ExifTool
+io.github.hydrusnetwork.hydrus	Skipuleggðu fjölmiðla á skjáborðinu
+io.github.hypengw.Qcm	Qt viðskiptavinur fyrir netease skýjatónlist
+io.github.Icalingua.Icalingua	Linux viðskiptavinur fyrir QQ og fleira
+io.github.idevecore.CurrencyConverter	Einfaldur gjaldeyrisbreytir sem notar gögn sem byggjast á Google
+io.github.igaldino.CoyoteTM	Stjórna verkefnum eins og sléttuúlfur
+io.github.igorlogius.scr2ppm	Minnsta X11 skjámyndataka aka. skjámyndaforrit
+io.github.ihhub.Fheroes2	fheroes2 er endurgerð af Heroes of Might og Magic II leikjavélinni
+io.github.ilius.pyglossary	Tól til að umbreyta orðabókarskrám aka orðalistum.
+io.github.ImEditor	Einfaldur og fjölhæfur myndaritill
+io.github.iSlammedMyKindle.godotGem	Stjórnandi viðskiptavinur til að líkja eftir xbox360 stjórnanda fyrir Windows
+io.github.ja2_stracciatella.JA2-Stracciatella	Endurbættur, stöðugur Jagged Alliance 2 keyrslutími á vettvangi
+io.github.jacalz.rymdport	Fljótur, dulkóðaður skráaflutningur
+io.github.JaGoLi.ytdl_gui	Einfalt í notkun, þvert á vettvang grafískt viðmót fyrir youtube-dl.
+io.github.JakubMelka.Pdf4qt	Open Source PDF ritstjóri
+io.github.janbar.noson	Stjórnandi fyrir SONOS
+io.github.java_decompiler.jd-gui	Sjálfstætt grafískt tól sem sýnir Java heimildir úr CLASS skrám
+io.github.jean28518.Linux-Assistant	Daglegur linux hjálpari með öflugri samþættri leit, venjum og eftirliti
+io.github.jeffshee.Hidamari	Vídeó veggfóður fyrir Linux
+io.github.jhaygood86.mauborgne	2FA OTP Code Generator
+io.github.jliljebl.Flowblade	Video Editor - Hratt, nákvæmt, stöðugt
+io.github.jonmagon.kdiskmark	Diskviðmiðunartól
+io.github.jorchube.monitorets	Hafa alltaf í fljótu bragði notkun kerfisauðlinda
+io.github.jordanl2.ModularCalculator	Öflug, forskriftarhæf, mát reiknivél sem miðar að vísinda-, verkfræði- eða tölvuvinnu.
+io.github.jotd666.gods-deluxe	Endurgerð af pallaleiknum
+io.github.jtdx_project.JTDX	jtdx (gaflað WSJT-X fyrir fjarskipti áhugamanna)
+io.github.julian_hochhaus.LG4X_V2	Python pakki fyrir XPS ferilfestingargreiningu
+io.github.kaii_lb.hgui	Forrit gert til að auðvelda og ónettengdan umbreytingu milli Hijri og gregorískra dagsetninga (og öfugt)!
+io.github.kalaksi.Lightkeeper	Sjálfstætt, sérhannaðar stjórnunartæki fyrir netþjóna
+io.github.kaschpal.timetable	Dagatal/skipuleggjandi fyrir kennara og kannski nemendur
+io.github.kevinsmia1939.PySimpleCV	Söguþráður Cyclic voltammogram og rafhlöðuhjólreiðar
+io.github.KikoPlayProject.KikoPlay	EKKI AÐEINS Danmu-spilari með fullri eiginleika
+io.github.koromelodev.mindmate	Óopinber umsókn fyrir ChatGPT
+io.github.kotatogram	Kotatogram Desktop boðberi
+io.github.ktgw0316.LightZone	Myndavél RAW myndvinnsluvél
+io.github.kukuruzka165.materialgram	Óopinbert Telegram Desktop skilaboðaforrit
+io.github.labsquare.CutePeaks	sjálfstæður Sanger sporaskoðari
+io.github.lainsce.Colorway	Búðu til litapörun
+io.github.lainsce.Countdown	Fylgstu með atburðum þar til þeir gerast eða síðan þeir gerðust
+io.github.lainsce.DotMatrix	Sköpunarleikvöllur lína og boga
+io.github.lainsce.Emulsion	Búðu til liti
+io.github.lainsce.Khronos	Skráðu tímann sem það tók að vinna verkefni
+io.github.lainsce.Notejot	Skrifaðu hugmyndir þínar
+io.github.lainsce.Quilter	Einbeittu þér að skrifum þínum
+io.github.lemmygtk.lemoa	Gtk viðskiptavinur fyrir Lemmy
+io.github.leolost2605.gradebook	Fylgstu með einkunnum þínum
+io.github.leonardschardijn.Chirurgien	Skilja og vinna með tvöfalda skráarsnið
+io.github.lethal_guitar.RigelEngine	Nútímaleg endurútfærsla á hinum klassíska DOS leik Duke Nukem II
+io.github.letslearn_app.letslearn	Opinn uppspretta athugasemdaforrit með snyrtilegu útliti
+io.github.libvibrant.vibrantLinux	Kerfisforrit til að stilla litamettun X11 skjáa
+io.github.limads.Queries	Vinnubekkur til að hafa samskipti við tengslagagnagrunna.
+io.github.listen1.Listen1	Ein fyrir alla ókeypis tónlist í Kína
+io.github.loot.loot	Hönnunarforrit fyrir Starfield og nokkra Elder Scrolls og Fallout leiki
+io.github.lruzicka.Needly	openQA nálaritill skrifaður í Python
+io.github.ltiber.Pwall	skoðaðu myndirnar/myndböndin þín
+io.github.lunarequest.NightPDF	Dark Mode PDF lesandi
+io.github.lxndr.gswatcher	Einfaldur skjár fyrir leikjaþjón og stjórnunartæki.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA er Doom 3 BFG GPL upprunatengi
+io.github.magnush.mhWaveEdit	mhWaveEdit er myndrænt forrit til að breyta hljóðskrám
+io.github.mahmoudbahaa.outlook_for_linux	Óopinber Microsoft Outlook viðskiptavinur fyrir Linux sem notar Electron
+io.github.mak448a.QTCord	Discord viðskiptavinur
+io.github.MakovWait.Godots	Útgáfustjóri Godot leikjavélar
+io.github.mandruis7.xbox-cloud-gaming-electron	Opinn uppspretta Xbox Cloud Electron viðskiptavinur
+io.github.manisandro.gImageReader	Myndrænt (gtk) framenda að tesseract-ocr
+io.github.markummitchell.Engauge_Digitizer	umbreyta bitamyndagrafi eða korti gagnvirkt í tölur
+io.github.martinrotter.rssguard	Einfaldur en samt öflugur fréttastraumalesari
+io.github.martinrotter.rssguardlite	Einfaldur en samt öflugur fréttastraumalesari (enginn innbyggður vafri)
+io.github.martinrotter.textosaurus	Einfaldur textaritill á vettvangi byggður á Qt og QScintilla
+io.github.maurycyliebner.enve	2D fjör
+io.github.mgerhardy.vengi.voxedit	voxel ritstjóri
+io.github.mideb.digitales_register	Inoffiziell viðskiptavinur für das Digitale Register
+io.github.mightycreak.Diffuse	Myndrænt tól til að sameina og bera saman textaskrár
+io.github.mihnea_radulescu.imagefanreloaded	Léttur flipabundinn myndskoðari sem styður fjölkjarna vinnslu
+io.github.mimbrero.WhatsAppDesktop	Óopinber WhatsApp Web Desktop viðskiptavinur.
+io.github.mki1967.mki3dgame	Einfaldur OpenGL leikur til að leita að táknum í þrívíddarstigum
+io.github.mmarco94.tambourine	Einfaldur tónlistarspilari fyrir bókasafnið þitt
+io.github.mmstick.FontFinder	Leturvafri
+io.github.mpobaschnig.Vaults	Haltu mikilvægum skrám öruggum
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] Búddiskur textalesari sem notar CBETA API.
+io.github.mrvladus.List	Stjórnaðu verkefnum þínum
+io.github.muse_sequencer.Muse	Stafræn hljóðvinnustöð
+io.github.myst6re.makoureactor	A Field Editor fyrir Final Fantasy VII
+io.github.naikari.Naikari	2-D leyndardómsleikur í frjálsu formi
+io.github.najepaliya.kleaner	Myndlýsigagnahreinsari
+io.github.narunlifescience.AlphaPlot	AlphaPlot er ókeypis forrit fyrir Scientific Data Analysis and Visualization
+io.github.nate_xyz.Chromatic	Fínstilltu hljóðfærin þín
+io.github.nate_xyz.Conjure	Umbreyttu myndum á töfrandi hátt
+io.github.nate_xyz.Paleta	Búðu til litatöflur með auðveldum hætti
+io.github.nate_xyz.Resonance	Samræmdu hlustunarupplifun þína
+io.github.nearinfinitybrowser.nearinfinity	Infinity Engine Resource Browser og ritstjóri
+io.github.neil_morrison44.pocket-sync	GUI til að gera hluti með Analogue Pocket
+io.github.NhekoReborn.Nheko	Skrifborðsbiðlari fyrir Matrix samskiptareglur
+io.github.NickKarpowicz.LightwaveExplorer	Skilvirkur, notendavænn leysir fyrir ólínuleg samskipti ljóss og efnis
+io.github.nokse22.asciidraw	Teiknaðu með ASCII stöfum
+io.github.nokse22.inspector	Skoðaðu upplýsingar um kerfið þitt
+io.github.nokse22.minitext	Skammlaus klórapúði
+io.github.nokse22.teleprompter	Birtu flettitexta á skjánum þínum
+io.github.nokse22.trivia-quiz	Svaraðu endalausum spurningum
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	D-Star viðskiptavinur fyrir PC
+io.github.noxworld_dev.OpenNox	OpenNox er nútímaleg útfærsla á Nox leikjavél
+io.github.nroduit.Weasis	Ókeypis/frjáls/opinn læknisfræðilegur DICOM skoðari
+io.github.nuttyartist.notes	Forrit til að taka minnispunkta. Skrifaðu niður hugsanir þínar
+io.github.obiwankennedy.HotShots	Öflugur og einfaldur í notkun skjámyndahugbúnaður
+io.github.onionware_github.onionmedia	Ókeypis miðlunarniðurhal og breytir - krosspallur
+io.github.openhv.OpenHV	Opinn uppspretta 90s Pixelart Sci-Fi rauntíma stefnuleikur
+io.github.OpenToonz	2D fjör
+io.github.orontee.Argos	Léttur framhlið fyrir Mopidy tónlistarþjón
+io.github.paledega.alpine-rootfs	Alpine linux undirkerfi
+io.github.parnassius.SysDVR-Qt	Straumaðu Skiptu leikjum í tölvuna þína í gegnum USB eða net
+io.github.pastthepixels.InfiniteShooter	Einföld skotleikur framleiddur með Godot vélinni.
+io.github.paulwedeck.settlers-remake	Endurgerð af The Settlers III fyrir Windows, Linux, Mac og Android
+io.github.pd_l2ork.Pd_L2Ork	Opinn uppspretta sjónrænt forritunarmál fyrir margmiðlun, byggt á Pure Data
+io.github.peazip.PeaZip	Ókeypis skjalageymsluforrit, opna, draga út RAR TAR ZIP skjalasafn
+io.github.petitlapin.Li-ri	Krakkaleikur, keyrðu leikfangaviðarvél
+io.github.phastmike.tags	Litaskrár byggðar á merkjum
+io.github.philipk.boilr	Bættu leikjum sem ekki eru steam við steam bókasafnið þitt
+io.github.Pithos	Pandora útvarp viðskiptavinur
+io.github.polypixeldev.Polypass	Einfaldur, öruggur og auðveldur í notkun lykilorðastjóri
+io.github.pragha_music_player.pragha	Stjórnaðu og hlustaðu á tónlistina þína
+io.github.prateekmedia.appimagepool	Einfaldur, nútímalegur AppImageHub viðskiptavinur.
+io.github.prateekmedia.pstube	Youtube viðskiptavinur búinn til með flutter
+io.github.pr_starfighter.starfighter	Space Shoot 'em up leikur.
+io.github.punesemu.puNES	Nintendo Entertainment System keppinautur
+io.github.purplehorrorrus.Meridius	Tónlistarspilari fyrir vk.com
+io.github.pwr_solaar.solaar	Linux stjórnandi fyrir Logitech lyklaborð, mýs og rekkvíar
+io.github.pyfa_org.Pyfa	Python mátun aðstoðarmaður fyrir EVE: Online
+io.github.Qalculate	Öflug og auðveld reiknivél
+io.github.Qalculate.qalculate-qt	Öflug og auðveld reiknivél
+io.github.qier222.YesPlayMusic	Netease CloudMusic spilari frá þriðja aðila með útliti
+io.github.qnapi	Hugbúnaður til að hlaða niður og sjálfkrafa samsvörun texta við kvikmyndir
+io.github.qtox.qTox	Öflugur Tox spjall viðskiptavinur sem fylgir Tox hönnunarleiðbeiningum.
+io.github.quodlibet.ExFalso	Breyttu merkjum í hljóðskrám þínum
+io.github.quodlibet.QuodLibet	Hlustaðu á, skoðaðu eða breyttu hljóðsafninu þínu
+io.github.qwersyk.Newelle	Spjallboti sem stjórnar tölvunni þinni
+io.github.rafaelfassi.QLogExplorer	Fljótur log landkönnuður með háþróuðum verkfærum
+io.github.randovania.Randovania	Randomizer vettvangur fyrir fjölda leikja
+io.github.Rangi42.polished-map	Breyttu pokecrystal kortum og flísasettum
+io.github.Rangi42.polished-map-plusplus	Breyttu pokecrystal kortum og flísasettum
+io.github.Rangi42.tilemap-studio	Tilemap ritstjóri fyrir Game Boy, Color, Advance, DS og SNES verkefni
+io.github.realmazharhussain.GdmSettings	Sérsníddu innskráningarskjáinn þinn
+io.github.retgal.Dayon	Fjaraðstoð auðveld!
+io.github.retux_game.retux	Action platformer með Linux lukkudýrinu Tux í aðalhlutverki
+io.github.rinigus.OSMScoutServer	Kortaþjónn sem býður upp á flísar, landkóða og leið
+io.github.rinigus.PureMaps	Kort og siglingar
+io.github.ripose_jp.Memento	Mpv-undirstaða myndbandsspilara til að læra japönsku
+io.github.Rirusha.Cassette	Óopinber Yandex.Music viðskiptavinur
+io.github.RobertBeckebans.RBDoom3BFG-GL	Nútímavæðingarátak DOOM-3-BFG
+io.github.rocket.editor	Rocket ritstjóri
+io.github.RodZill4.Material-Maker	Verklagsgerð áferðar og möskvamálunarverkfæri
+io.github.sameboy.SameBoy	Game Boy og Game Boy Color keppinautur
+io.github.santiagocezar.maniatic-launcher	Sjósetja til að taka saman Retro Engine (v5)
+io.github.seadve.Breathing	Slakaðu á og hugleiddu
+io.github.seadve.Kooha	Taktu upp skjáinn þinn á glæsilegan hátt
+io.github.seadve.Mousai	Þekkja lög á nokkrum sekúndum
+io.github.searchandrescue2.sar2	Björgunarþyrluhermir
+io.github.Sebicodes99.Prt	Python socket app til að leyfa vini að framkvæma skipun á vélinni þinni án þess að opna tengi eða nota ssh netþjón allt, með einföldu GUI
+io.github.sharkwouter.Minigalaxy	Einfaldur GOG viðskiptavinur fyrir Linux
+io.github.sharkwouter.oceanpop	Afslappandi samsvörun 3 ráðgáta leikur með ívafi
+io.github.shiftey.Desktop	Einföld samvinna frá skjáborðinu þínu
+io.github.shiiion.primehack	Dolphin Emu gaffal fyrir ýmis Metroid Prime mods
+io.github.sigmasd.IRust	Ryð Repl
+io.github.sigmasd.stimulator	Haltu skjáborðinu vakandi
+io.github.signus_game.signus	Snúningsbundinn herkænskuleikur
+io.github.sil_car.SqueezeVid	Staðlaðu myndbönd í lágmarks, vörpunsamhæf gæði.
+io.github.simple64.simple64	Nintendo 64 keppinautur
+io.github.sithlord48.blackchocobo	Save Editor fyrir Final Fantasy VII
+io.github.slgobinath.SafeEyes	Ókeypis og opinn uppspretta tól fyrir Linux notendur til að draga úr og koma í veg fyrir endurtekið álagsskaða (RSI).
+io.github.Snaggly.PS2_Pnacher	Notkun Pnaches beint á PS2 ISO.
+io.github.snesrev.Zelda3	Zelda3 er öfugsnúinn klón af Zelda - A Link to the Past
+io.github.Soundux	Hljómborð yfir palla
+io.github.spacingbat3.webcord	Vefbundinn Discord og Fosscord viðskiptavinur gerður með Electron
+io.github.srb2.rphys	Gameplay endurskoðun mod fyrir Sonic Robo Blast 2
+io.github.stella_emu.Stella	Multi-palla Atari 2600 VCS keppinautur
+io.github.streetpea.Chiaki4deck	Ókeypis og opinn viðskiptavinur fyrir PlayStation Remote Play breytt fyrir Steam Deck
+io.github.Sunderland93.sway-input-config	Stillingar inntakstækis fyrir Sway
+io.github.swanux.hbud	Einfaldur hljóð-/myndspilari og karókíforrit skrifað í Python og GTK4
+io.github.tcobbs.LDView	LDraw líkanskoðari
+io.github.tdesktop_x64.TDesktop	Óopinber skrifborðsútgáfa af Telegram skilaboðaforritinu
+io.github.technic.e2designer	Húð ritstjóri fyrir enigma2 skrifaður með Qt5
+io.github.tfuxu.Halftone	Gefðu myndunum þínum þann pixel-list-eins stíl
+io.github.thaunknown.miru	Miru - Bittorrent streymishugbúnaður fyrir ketti
+io.github.TheThirdOne.rars	RISC-V Assembler og Runtime Simulator
+io.github.thetumultuousunicornofdarkness.cpu-x	Safnar upplýsingum um CPU, móðurborð og fleira
+io.github.TheWisker.Cavasik	Hljóðmyndartæki byggt á CAVA
+io.github.thiefmd.themegenerator	Búðu til stíla með stíl.
+io.github.tlcfem.suanPan	🧮 Opinn uppspretta, samhliða og misleitur endanlegur frumefnisgreiningarrammi
+io.github.tntwise.REAL-Video-Enhancer	Ókeypis og opinn uppspretta myndbandauppbótarverkfæri
+io.github.torrent_file_editor.Torrent-file-editor	Breyttu og búðu til .torrent skrár
+io.github.trackballs.Trackballs	Stýrðu marmarakúlu í gegnum völundarhús
+io.github.tralph3.Steam_Metadata_Editor	Auðvelt í notkun GUI sem breytir lýsigögnum Steam forritanna þinna
+io.github.TransmissionRemoteGtk	Fjarstýrðu Transmission BitTorrent viðskiptavininum
+io.github.trevorsandy.LPub3D	LPub3D - ritstjóri LDraw byggingarleiðbeininga
+io.github.trigg.discover_overlay	Myndræn yfirlögn fyrir Discord raddspjall.
+io.github.troyeguo.koodo-reader	Rafbókalesari á vettvangi
+io.github.trytonvanmeer.DungeonJournal	A 5e Character Manager
+io.github.TTimo.GtkRadiant	Stig ritstjóri fyrir ID Tech byggða leiki þar á meðal Quake röð
+io.github.twanvl.MagicSetEditor2	Forrit notað til að búa til sérsniðin kort
+io.github.unicornyrainbow.secrets	Búðu til lykilorð auðveldlega út frá þörfum þínum
+io.github.unknownskl.greenlight	Greenlight er opinn hugbúnaður fyrir xCloud og Xbox heimastreymi
+io.github.unrud.RecentFilter	Útiloka skrár og möppur frá nýlega notuðum skrám
+io.github.vemonet.EmojiMart	Nútímalegur emoji-valari fyrir skjáborð, byggt á Emoji Mart vefhlutanum.
+io.github.veusz.Veusz	Vísindalegur samsærispakki
+io.github.vikdevelop.SaveDesktop	Vistaðu núverandi uppsetningu á skjáborðsumhverfinu þínu
+io.github.vinser.burnfix	Reyndu að laga varðveislu skjámynda og brenna inn, leitaðu að skjágöllum
+io.github.vinser.pixyne	Farðu fljótt yfir myndamöppur, eyddu á öruggan hátt slæmum og svipuðum myndum, lagaðu tökudagana
+io.github.voxelcubes.deepqt	Nýttu þér kraft DeepL API með þessu vinalega notendaviðmóti
+io.github.voxelcubes.panelcleaner	Gervigreindartæki til að þrífa manga spjöld
+io.github.webcamoid.Webcamoid	Taktu myndir og taktu upp myndbönd með vefmyndavélinni þinni
+io.github.weclaw1.ScoreTracker	Forrit til að fylgjast með stigum leikmanna í spilum og borðspilum
+io.github.wereturtle.ghostwriter	Truflunlaus textaritill fyrir Markdown
+io.github.wh201906.serialtest	Þverpallaprófunartæki fyrir raðtengi, Bluetooth, TCP og UDP
+io.github.wojciech_graj.OrbVis	Rauntíma Satellite Orbit Visualizer
+io.github.wxmaxima_developers.wxMaxima	Myndrænt notendaviðmót fyrir Maxima, öflugt tölvualgebrukerfi
+io.github.xaos_project.XaoS	Fljótur gagnvirkur rauntíma brotaaðdráttur / formgerð
+io.github.xiaoyifang.goldendict_ng	Ítarlegt orðabókaleitarforrit
+io.github.xolatgames.marknpaul	Vertu galdramaðurinn!
+io.github.xverizex.nem_desktop	Spjallaðu við vini.
+io.github.xverizex.RetroSpriteEditor	Pixel ritstjóri fyrir Retro leikjatölvur
+io.github.xyproto.zsnes	Super Nintendo keppinautur
+io.github.yairm210.unciv	Snúningsbundinn herkænskuleikur
+io.github.yamanqd.antware	FPS leikur.
+io.github.Youda008.DoomRunner	Forstillt grafískur sjósetja fyrir ZDoom og afleiður
+io.github.zaps166.QMPlay2	Mynd- og hljóðspilari
+io.github.zhrexl.thisweekinmylife	Þetta er kaban stíll skipuleggjandi, þar sem notandinn getur sett inn spil með verkefnum.
+io.github.zyedidia.micro	Nútímalegur og leiðandi textaritill sem byggir á flugstöðvum
+io.gitlab.adhami3310.Converter	Umbreyta og vinna með myndir
+io.gitlab.adhami3310.Footage	Pússaðu myndböndin þín
+io.gitlab.adhami3310.Impression	Búðu til ræsanleg drif
+io.gitlab.azymohliad.WatchMate	Stjórnaðu PineTime þínum
+io.gitlab.ballz.Ballz	Pallur/þrautaleikur þar sem þú stjórnar rúllandi bolta
+io.gitlab.celleron56.libretile	a opensource flís leikjavél hlutur
+io.gitlab.coolreader_ng.crqt-ng	Þvert á vettvang opinn rafbókalesari
+io.gitlab.cyberphantom52.sudoku_solver	Einfaldur Sudoku Sovler
+io.gitlab.daikhan.stable	Spilaðu myndbönd/tónlist með stíl
+io.gitlab.dev_nis.one-click-backup	Einfalt forrit til að taka öryggisafrit af möppum á ytri staðsetningu með því að afrita þær
+io.gitlab.floodlight.Presenter	Ókeypis, ókeypis, opinn uppspretta kynningar- og textaforrit
+io.gitlab.Goodvibes	Spilaðu netútvarp
+io.gitlab.gregorni.Calligraphy	Breyttu textanum þínum í ASCII borða
+io.gitlab.gregorni.Letterpress	Búðu til fallega ASCII list
+io.gitlab.gwendalj.package-transporter	Flyttu forritin þín yfir uppsetningar
+io.gitlab.idevecore.Pomodoro	Pomodoro er tímamælir sem miðar að framleiðni
+io.gitlab.jazztickets.choria	Að lokum, MMORPG sem snýst allt um að mala og gera húsverk.
+io.gitlab.jazztickets.emptyclip	Empty Clip er RPG skotleikur að ofan.
+io.gitlab.jazztickets.irrlamb	3D eðlisfræðileikur þar sem þú stjórnar bláum orkukúlu til að reyna að snerta alla glóandi hnöttur
+io.gitlab.jazztickets.openflap	Leikur um að skoppa bolta í gegnum eyður endalausra röra
+io.gitlab.leesonwai.Sums	Reiknaðu með postfix merkingu
+io.gitlab.leesonwai.Tactics	Byggðu upp fótboltalínuna þína
+io.gitlab.librewolf-community	LibreWolf vefvafri
+io.gitlab.news_flash.NewsFlash	Fylgstu með straumnum þínum
+io.gitlab.o20.word	Open Source MS Word 2019 klón... fyrir Linux
+io.gitlab.osslugaru.Lugaru	Þriðja persónu ninja kanína bardagaleikur
+io.gitlab.persiangolf.voicegen	Breyttu texta auðveldlega í tal
+io.gitlab.stone_kingdoms.StoneKingdoms	Opinn uppspretta Stronghold fan endurgerð
+io.gitlab.theevilskeleton.Upscaler	Uppfærðu og bættu myndir
+io.gitlab.Turtlico	Forritunartæki til að læra
+io.gitlab.zehkira.Monophony	Straumaðu tónlist frá YouTube Music
+io.howl.Editor	Léttur ritstjóri með lyklaborðsmiðuðu naumhyggjuviðmóti
+io.itch.azagaya.Laigter	Tól til að búa til venjuleg, spekúl, lokunar- og parallax kort fyrir 2D áferð
+io.itch.doctorm64.skippybot	Skippy er á epískri leið til að afhjúpa raunveruleg örlög sín.
+io.itch.domestique_baston.domestique_baston	Bardagaleikur 1 á móti 1
+io.itch.drwhut.TabletopClub	Spilaðu borðplötuleiki í þrívíddarsandkassa sem byggir á eðlisfræði
+io.itch.itch	Settu upp, uppfærðu og spilaðu indie leiki
+io.itch.keyikedalube_ndang.Type-Off	Stutt 6 mínútna innsláttarhraðaleikur
+io.itch.nordup.TheGates	Ferðast til mismunandi heima sem eru búnir til af hönnuðum um allan heim!
+io.jamulus.Jamulus	Jamulus. Internet Jam Session hugbúnaður
+io.jor.bugdom	Bjargaðu Bugdom frá illum eldmaurum Thorax
+io.jor.bugdom2	Finndu Bully Bee og fáðu bakpokann þinn aftur!
+io.jor.mightymike	Kraftmikil aðgerðabjörgun í leikfangabúð orðin vitlaus!
+io.jor.nanosaur	Sendu risaeðluegg til framtíðar áður en loftsteinn lendir á jörðinni!
+io.jor.nanosaur2	Fljúgðu með pterodactyl sem er hlaðinn hátæknivopnum
+io.jor.ottomatic	Bjargaðu jörðinni úr klóm risaheilans frá plánetunni X
+io.kapsa.drive	Zero Knowledge E2E dulkóðuð geymsla sem er samhæf við hvaða S3 þjónustu sem er
+io.kinvolk.Headlamp	Auðvelt í notkun og stækkanlegt vefviðmót fyrir Kubernetes
+io.kopia.KopiaUI	Afritunarlausn
+io.liri.Calculator	Framkvæma reikninga eða vísindalega útreikninga
+io.liri.Text	Breyta textaskrám
+io.lmms.LMMS	Forrit fyrir tónlistarframleiðslu
+io.mango3d.LycheeSlicer	Öflugur og fjölhæfur sneiðari fyrir plastefni og filament 3D prentara
+io.mgba.mGBA	Nintendo Game Boy Advance keppinautur
+io.missioncenter.MissionCenter	Fylgstu með notkun kerfisauðlinda
+io.mpv.Mpv	Ókeypis, opinn uppspretta og margmiðlunarspilari
+io.mrarm.mcpelauncher	Sæktu og spilaðu Minecraft Bedrock Edition á GNU/Linux
+io.naox.InnerBreeze	Hugleiðsluforrit til að leiðbeina og fylgjast með Wim Hof öndunaræfingunni þinni
+io.neovim.nvim	Vim-fork einbeitti sér að teygjanleika og notagildi
+io.openrct2.OpenRCT2	Uppgerð og stjórnun uppgerð tölvuleikur sem líkir eftir stjórnun skemmtigarða
+io.osdn.simplesok	Einfaldur sokoban leikur
+io.otsaloma.gaupol	Ritill fyrir skjátexta á textaformi
+io.otsaloma.nfoview	Skoðari fyrir NFO skrár
+io.photoflare.photoflare	Einfaldur en öflugur Cross Platform Image Editor
+io.podman_desktop.PodmanDesktop	Stjórnaðu Podman og öðrum gámavélum úr einu notendaviðmóti og bakka
+io.poez.Poezio	Poezio er ókeypis console XMPP viðskiptavinur
+io.posidon.Paper	Taktu minnispunkta í Markdown
+io.qt.Designer	Hannaðu GUI fyrir Qt forrit
+io.qt.Linguist	Bættu þýðingum við Qt forrit
+io.qt.qdbusviewer	Villuleita D-Bus forrit
+io.qt.QtCreator	Veitir þvert á vettvang, fullkomið samþætt þróunarumhverfi (IDE) fyrir forritara til að búa til forrit fyrir marga vettvanga og tæki
+io.qt.qtwebengine.BaseApp	Sameiginlegur vettvangur fyrir forrit sem nota Qt WebEngine
+io.sourceforge.chart_geany.chart-geany	Chart Geany er ókeypis hugbúnaðarlausn á vettvangi fyrir markaðstæknigreiningu, kortagerð og eignasafnsstjóra
+io.sourceforge.clonekeenplus	An Engine notað til að spila Commander Keen og Cosmos the Cosmic Adventure leikjaseríuna
+io.sourceforge.pentobi	Tölvuandstæðingur fyrir borðspilið Blokus
+io.sourceforge.pipewalker.PipeWalker	Tengsl ráðgáta leikur
+io.sourceforge.Pixelitor	Pixelitor er opinn uppspretta myndaritill
+io.sourceforge.pysolfc.PySolFC	Solitaire leikjasöfnun
+io.sourceforge.qoobar.Qoobar	Qoobar er einfaldur merkaritill fyrir klassíska tónlist
+io.sourceforge.trigger_rally.TriggerRally	Hraður rallykappakstursleikur fyrir einn leikmann
+io.sourceforge.YSoccer	Retro fótboltaleikur
+io.sourceforge.zaz	Þrautaleikur þar sem spilarinn þarf að raða boltum í þríbura.
+io.stoplight.studio	Stoplight stúdíó. Áreynslulaus API hönnun.
+io.thp.numptyphysics	Eðlisfræði ráðgáta leikur byggt á litateikningu
+io.trustable.stpadocumentationtool	Kerfisfræðileg ferligreiningartæki - sem auðveldar STPA og gerir skjöl sjálfvirk
+io.typora.Typora	Lágmarks Markdown lestrar- og skrifforrit
+io.unobserved.espansoGUI	GUI tengi fyrir espanso
+io.vikunja.Vikunja	Opinn uppspretta verkefnaforritsins
+io.wasabiwallet.WasabiWallet	Opinn uppspretta, ekki forsjárlaus, einkalífsmiðuð Bitcoin veski fyrir skjáborð, sem útfærir traustlausan CoinJoin.
+io.wavebox.Wavebox	Næsta kynslóð vef-skrifborðssamskipta
+io.webtorrent.WebTorrent	Forrit fyrir straumspilun
+ir.imansalmani.IPlan	Áætlun þín til að bæta persónulegt líf og vinnuflæði
+it.cuteworks.pacmanlogviewer	Skoðaðu pacman log
+it.fabiodistasio.AntaresSQL	Nútímalegur, hraður og framleiðnidrifinn SQL viðskiptavinur með áherslu á UX
+it.mijorus.collector	Dragðu og slepptu á næsta stig
+it.mijorus.gearlever	Stjórna AppImages
+it.mijorus.smile	Emoji veljandi
+it.mijorus.whisper	Hlustaðu á hljóðnemann þinn
+jp.yvt.OpenSpades	Open Source voxel skotleikur
+la.ogri.strongbox	Addon framkvæmdastjóri fyrir World of Warcraft
+life.bolls.bolls	Vefforrit til að lesa Biblíuna með fullri áherslu á orð Guðs eingöngu. Sola scriptura
+lv.martinsz.millionaire	Svaraðu öllum spurningum til að vinna $1 milljón.
+md.obsidian.Obsidian	Þekkingargrunnur sem byggir á markdown
+me.acristoffers.Lachesis	Moirai umsjónarmaður
+me.ahola.aphototoollibre	Myndaritill fyrir Linux
+me.broken_by.PdfMetadataEditor	Breyta PDF lýsigögnum
+media.emby.EmbyServer	Opna fjölmiðlalausnin
+media.emby.EmbyTheater	Opna fjölmiðlalausnin
+me.dusansimic.DynamicWallpaper	Dynamic veggfóður skapari fyrir Gnome 42
+me.hergert.Schemes	Hönnunarstílkerfi fyrir GtkSourceView
+me.hyliu.fluentreader	Nútíma RSS lesandi fyrir skrifborð
+me.iepure.devtoolbox	Þróunartæki innan seilingar
+me.iepure.Ticketbooth	Fylgstu með uppáhalds þáttunum þínum
+me.kozec.syncthingtk	GUI og tilkynningasvæðistákn fyrir Syncthing
+me.leucoso.Grock	Sýnir jarðfræðileg kort af Bretlandi.
+me.mitya57.ReText	Einfaldur textaritill fyrir Markdown og reStructuredText
+me.njean.shootingpactris	Coop retro leikur með Tetris, Pacman og shmup spilun.
+me.orszulak.keyring	Einfaldlega fallegur eða fallega einfaldur OTP rafall.
+me.ppvan.psequel	Keyra SQL fyrirspurn þína
+me.sanchezrodriguez.passes	Hafa umsjón með stafrænu kortunum þínum
+me.simakis.dropboxignore	Þetta snýst allt um .dropboxignore skrána sem vantar.
+me.timschneeberger.GalaxyBudsClient	Óopinber Galaxy Buds Manager fyrir Windows og Linux
+me.timschneeberger.jdsp4linux	Opinn uppspretta hljóðáhrifa örgjörvi fyrir Pipewire
+ml.mdwalters.EightBall	Taktu ákvarðanir auðveldlega
+ml.mdwalters.Lemonade	Fylgstu með umræðum á Lemmy
+ml.prevete.Daty	Ókeypis Wikidata ritstjóri.
+mobi.snowball.Snowball	Nýr hraðahlaupsleikur í ætt við pallalykkja/buzz wire-leik
+moe.clover.mm3d	3D líkan ritstjóri og teiknari fyrir leiki
+moe.karaokes.mugen	Karaoke fundur stjórnandi og spilari
+moe.tundra.Tundra	Uppfærðu anime listana þína sjálfkrafa
+mx.pwmc.Svgvi	SVG áhorfandi og ritstjóri með XML yfirlýsingum
+net._86box._86Box	Hermir fyrir klassíska IBM PC klóna
+net.agalwood.Motrix	Fullkominn niðurhalsstjóri
+net.ankiweb.Anki	Öflug, snjöll glampikort
+net.bartkessels.getit	Sendu HTTP beiðnir til API endapunkta
+net.baseart.Glide	Spilaðu kvikmyndir og hljóðskrár
+net.biniou.LeBiniou	Notendavænt, öflugt tónlistarsýn / VJing tól
+net.blix.BlueMail	BlueMail tölvupósts- og dagatalsforrit
+net.blockattack.game	Hraður leikur-3/blockfall leikur
+net.blockbench.Blockbench	Blockbench - Boxy 3D líkan ritstjóri
+net.blockout.BlockOutII	Ókeypis aðlögun af upprunalega BlockOut leiknum
+net.blumia.pineapple-pictures	Myndaskoðari
+net.brinkervii.grapejuice	Sjósetja fyrir Roblox Player og Roblox Studio
+net.cebix.basilisk	68k Macintosh keppinautur
+net.christianbeier.Gromit-MPX	Gromit-MPX er tæki til að gera athugasemdir á skjánum
+net.christianbeier.MultiVNC	Multicast-virkur VNC áhorfandi á vettvangi
+net.codeindustry.MasterPDFEditor	Skoða, búa til, breyta, undirrita, skanna, OCR og prenta PDF skjöl
+net.corluma.Corluma	Stjórnaðu Philip's Hues, LIFX, Nanoleafs og Arduinos.
+net.cozic.joplin_desktop	opinn uppspretta glósutaka og verkefnaforrit
+net.crossfireatlas.crossfire	Roguelike fjölnotenda RPG
+net.cubers.assault.AssaultCube	Hröð spilakassa fyrstu persónu skotleikur
+net.daase.journable	Einfalt bullet journal
+net.danigm.loop	Einföld hljóðlykkjuvél fyrir GNOME
+net.danigm.timetrack	Tímarás fyrir GNOME
+net.darkradiant.DarkRadiant	3D level ritstjóri fyrir The Dark Mod og Doom 3
+net.davidotek.pupgui2	Settu upp vín- og róteindasamhæfisverkfæri
+net.dengine.Doomsday	Aukin upprunahöfn Doom, Heretic og Hexen
+net.devolutions.RDM	Miðstýrðu, stjórnaðu og tryggðu fjartengingar
+net.displaycal.DisplayCAL	Sýna kvörðun og snið með áherslu á nákvæmni og fjölhæfni
+net.drawpile.drawpile	Samvinnuteikning
+net.epson.epsonscan2	Hugbúnaður fyrir Epson skannar og fjölnota prentara
+net.fasterland.converseen	Hópmyndaörgjörvi
+net.filebot.FileBot	Fullkominn endurnefnari fyrir sjónvarp og kvikmyndir
+net.freerct.FreeRCT	Stefnumótunarleikur fyrir skemmtigarða
+net.fsuae.FS-UAE	FS-UAE Amiga keppinautur
+net.gaijin.WarThunder	War Thunder er umfangsmesti MMO herleikurinn sem er frjáls til að spila, á milli vettvanga.
+net.giuspen.cherrytree	Stigræn athugasemdataka
+net.goatattack.goatattack	Fjölspilunarleikur Pixel Art Shooter
+net.gradator.gtkatlantic	Leikur eins og Monopoly
+net.granjow.slowmovideo	slowmoVideo er OpenSource forrit sem býr til hæghreyfingarmyndbönd úr myndefninu þínu.
+net.gwyddion.Gwyddion	Forrit fyrir SPM (scanning probe microscopy) gagnasýn og greiningu
+net.hovancik.Stretchly	Áminningarforritið um hlé
+net.huitsi.ParallelOverhead	Endalaus hlaupari leikur
+net.imaginaryinfinity.Squiid	Gerðu háþróaða algebru- og RPN-útreikninga
+net.jami.Jami	Persónuverndarmiðuð radd-, mynd-, spjall- og ráðstefnuvettvangur
+net.jammr.jammr	Spilaðu með tónlistarmönnum í gegnum netið
+net.jenyay.Outwiker	Persónuleg wiki og útlínur.
+net.kirgroup.confy	Áhorfandi á ráðstefnudagskrá
+net.krafting.Playlifin	Samstilltu YouTube lagalista við Jellyfin
+net.krafting.PlaylifinVoyager	Flytja lagalista til/frá Jellyfin
+net.krafting.PleasureDVR	DVR fyrir Chaturbate vefsíðuna
+net.kubux.Muehle	Spilaðu leik af Nine Men's Morris.
+net.kuribo64.melonDS	Nintendo DS og DSi keppinautur
+net.kvirc.KVIrc	KVIrc er ókeypis flytjanlegur IRC viðskiptavinur
+net.launchpad.Gnuclad	Cladogram tré rafall
+net.line72.campcounselor	Bandcamp.com óskalistastjóri
+net.longturn.freeciv21	Freeciv21 - Freeciv fyrir 21. öldina
+net.lugsole.bible_gui	Biblíuforrit sem styður margar þýðingar og tungumál
+net.lutris.Lutris	Platur til varðveislu tölvuleikja
+net.mancubus.SLADE	Það er Doom ritstjóri
+net.mediaarea.AVIMetaEdit	Fella inn, staðfesta og flytja lýsigögn AVI skrár út
+net.mediaarea.BWFMetaEdit	Fella inn, staðfesta og flytja út lýsigögn BWF skrár
+net.mediaarea.DVAnalyzer	Greina DV strauma og tilkynna villur
+net.mediaarea.MediaConch	Framkvæmdaskoðari, stefnuprófari, fréttamaður og lagamaður
+net.mediaarea.MediaInfo	Þægileg samræmd sýning á viðeigandi tækni- og merkjagögnum fyrir mynd- og hljóðskrár
+net.mediaarea.MOVMetaEdit	Fella inn og breyta Universal Ad ID lýsigögnum í MOV eða MP4 skrám
+net.mediaarea.QCTools	Gæðaeftirlitstæki til að varðveita myndband
+net.meijn.onvifviewer	Skoðaðu og stjórnaðu netmyndavélum með ONVIF samskiptareglum
+net.meshlab.MeshLab	Ókeypis og opinn uppspretta vinnsla og klippingu 3D þríhyrningslaga möskva
+net.minetest.Minetest	Multiplayer sandkassaleikur með óendanlegum heimi
+net.mkiol.SpeechNote	Glósutaka, lestur og þýðing með ótengdum ræðu í texta, texta í tal og vélþýðingu
+net.mullvad.MullvadBrowser	Losaðu netið við fjöldaeftirlit
+net.natesales.Aviator	Myndbandsstýringin þín: AV1/OPUS myndkóðari
+net.nokyan.Resources	Fylgstu með kerfisauðlindum þínum og ferlum
+net.olofson.KoboDeluxe	Þriðja manneskju fletjandi 2D skotleikur
+net.openra.OpenRA	Endurmyndun á fyrstu Westwood rauntíma herkænskuleikjum
+net.oz9aec.Gpredict	Rauntíma gervihnattamælingar og brautarspáforrit
+net.pcsx2.PCSX2	PlayStation 2 keppinautur
+net.peercoin.peercoin-qt	Peercoin, grænt dulmál fyrir sjálfbæra framtíð.
+net.pioneerspacesim.Pioneer	Leikur einmana geimævintýra
+net.pistegamez.PekkaKana2	Jump 'n run leikur gerður í anda gamalla klassískra platnaspilara
+net.poedit.Poedit	Einfaldur þýðingar ritstjóri
+net.puddletag.puddletag	Öflugur ID3 tag ritstjóri
+net.purrdata.PurrData	Opinn uppspretta sjónrænt forritunarmál fyrir margmiðlun, byggt á Pure Data
+net.qsl.QSSTV	Forrit til að taka á móti og senda SSTV og HAMDRM
+net.redeclipse.RedEclipse	Fyrstu persónu skotleikur með lipurri spilun og innbyggðum ritstjóra
+net.retrodeck.retrodeck	RetroDECK færir umhverfi til að skrá og spila afturleikina þína beint á Steam Deckið þitt
+net.rpcs3.RPCS3	Opinn uppspretta Sony PlayStation 3 keppinautur
+net.rpdev.OpenTodoList	Verkefnalisti og glósuskrá
+net.runelite.RuneLite	RuneLite OSRS viðskiptavinur
+net.sapples.LiveCaptions	Texti í beinni fyrir skjáborðið
+net.scribus.Scribus	Open Source síðuskipulag og skrifborðsútgáfa (DTP)
+net.seamly.seamly2d	Hugbúnaður fyrir saumamynstur
+net.sf.fuse_emulator	Sinclair ZX Spectrum keppinautur
+net.sf.metronomek	Lítil útlítandi metronome með náttúrulegum hljóðum og fáguðum möguleikum
+net.sf.nootka	Forrit til að læra klassískan stigaskrift
+net.sf.VICE	Fjölhæfur Commodore keppinautur
+net.shrew.ike.qikea	Forrit til að stjórna stillingum á ytri síðu
+net.sonic_pi.SonicPi	Kóða-undirstaða tónlistarsköpun og flutningstæki
+net.sonobus.SonoBus	Ókeypis og opinn uppspretta hljóðstraumur á netinu
+net.sourceforge.artha.Artha	Opna samheitaorðabókin
+net.sourceforge.atanks	Snúningsbundinn stórskotaliðstæknileikur
+net.sourceforge.audmes.audmes	Hljóðmælingarkerfi
+net.sourceforge.btanks	Skemmtilegur flettuleikur með bardagaskriðum
+net.sourceforge.Chessx	Ókeypis skákgagnagrunnur
+net.sourceforge.chromium-bsu	Hröð, spilakassa-stíl, geimskotleikur með efsta skrun
+net.sourceforge.dmidiplayer	Drumstick Multiplatform MIDI skráaspilari
+net.sourceforge.DuneLegacy	Nútímaleg Dune II endurútfærsla
+net.sourceforge.efaxgtk	Faxa með Linux/Unix
+net.sourceforge.electrip.Electrip	Stjórnaðu járnbrautarmódelinu þínu með spilum!
+net.sourceforge.ExtremeTuxRacer	Háhraða norðurskautskappakstursleikur byggður á Tux Racer
+net.sourceforge.Fillets	Þrautaleikur með 70 stigum
+net.sourceforge.fretsonfire	Frets on Fire er leikur með tónlistarkunnáttu og hröðum fingrum. Markmið leiksins er að spila á gítar með hljómborðinu eins nákvæmlega og hægt er.
+net.sourceforge.fspclient	FTP-líkt viðmót fyrir FSP
+net.sourceforge.GrandOrgue	Pípuorgelhermir
+net.sourceforge.Hugin	Víðmyndasaumur og fleira
+net.sourceforge.jpdftweak.jPdfTweak	Svissneskur herhnífur fyrir PDF skjöl
+net.sourceforge.Kino	Kino DV ólínulegur myndbandaritill fyrir GNU/Linux og BSD pallana
+net.sourceforge.Klavaro	Kennari með snertiritun
+net.sourceforge.kmetronome	Drumstick MIDI Metronome byggt á ALSA Sequencer
+net.sourceforge.kmidimon	Drumstick MIDI Monitor er MIDI skjár fyrir Linux með ALSA sequencer
+net.sourceforge.lgames.LBreakoutHD	Arkanoid / Breakout leikur eins
+net.sourceforge.lgames.LGeneral	Snúningsbundin tæknileikjavél (eins og Panzer General)
+net.sourceforge.lgames.LPairs2	Klassískur minnisleikur
+net.sourceforge.lgames.LTris	Færnileikur með fallandi kubbum
+net.sourceforge.Lifeograph	Stafræn dagbók og glósur
+net.sourceforge.liferea	RSS straumalesari
+net.sourceforge.mars-game	2D geimskotleikur með frábærum sjónrænum áhrifum
+net.sourceforge.mcomix	Grínisti og almennur myndskoðari
+net.sourceforge.molsketch	Ritstjóri 2D sameindabygginga
+net.sourceforge.OpenLieroX	Sidescrolling skotleikur þar sem þú stjórnar ormum vopnuðum ýmsum vopnum
+net.sourceforge.osmo	Persónulegur skipuleggjandi
+net.sourceforge.paulstretch	Þetta er forrit fyrir mikla hljóðteygju (eins og 50x) og til að beita tæknibrellum með litrófsjöfnun hljóðanna.
+net.sourceforge.pdfchain	PDF Chain er grafískt notendaviðmót fyrir PDF Toolkit (PDFtk)
+net.sourceforge.Pdfedit	PDF ritstjóri með getu til að skoða/breyta trénu af hráum pdf hlutum
+net.sourceforge.projectM	Tónlistarmyndavél sem notar 3D hraðaða endurtekna myndgerð
+net.sourceforge.qtpfsgui.LuminanceHDR	Búðu til HDR myndir
+net.sourceforge.QtSpim	Sjálfstæður hermir sem keyrir MIPS32 forrit
+net.sourceforge.quakespasm.Quakespasm	Nútíma höfn af upprunalegu Quake vélinni
+net.sourceforge.Ri-li	Krakkaleikur, keyrðu leikfangaviðarvél
+net.sourceforge.roccat.roccat-tools	Forrit til að stilla Roccat tæki.
+net.sourceforge.scidavis	Umsókn um vísindalega gagnagreiningu og sjónmyndun
+net.sourceforge.SDL-Ball	Brick-breaking leikur með fallegri grafík
+net.sourceforge.squirrel_sql	SQuirreL SQL viðskiptavinur er GUI sem gerir þér kleift að skoða uppbyggingu JDBC samhæfðs gagnagrunns, fletta í gögnum í töflum, gefa út SQL skipanir osfrv. Styður MySQL, PostgreSQL, MariaDB og SQLite.
+net.sourceforge.Teo	Thomson TO8D keppinautur
+net.sourceforge.tomatoes.IHaveNoTomatoes	Tómatar mölvunarleikur
+net.sourceforge.torcs	Opinn kappakstursbílshermir
+net.sourceforge.TuxFootball	Frábær 2D fótboltaleikur (stundum kallaður fótbolti).
+net.sourceforge.uhexen2.uhexen2	Nútímavædd upprunahöfn Hexen II
+net.sourceforge.VMPK	Sýndar MIDI píanó hljómborð: MIDI viðburðarrafall og móttakari
+net.sourceforge.wavbreaker	GUI tól til að skipta WAV, MP2 og MP3 skrám
+net.sourceforge.wxEDID	Lestu og breyttu EDID skrám (Extended Display Identification Data).
+net.stabyourself.nottetris2	Tetris sem byggir á eðlisfræði
+net.studio08.xbplay	Fjarspilun frá vélinni þinni eða xCloud
+net.supertuxkart.SuperTuxKart	3D opinn kart kappakstursleikur
+net.tedomum.CapBattleship	Battleship leikur, með sjóræningja þema
+net.unvanquished.Unvanquished	Hraður, fyrstu persónu herkænskuleikur
+net.veloren.airshipper	Airshipper er opinber sjósetja fyrir Veloren.
+net.veloren.veloren	Veloren er fjölspilunar voxel RPG skrifuð í Rust. Það er innblásið af leikjum eins og Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress og Minecraft.
+net.warsow.Warsow	Hröð 3D fyrstu persónu skotleikur
+net.waterfox.waterfox	Léttur, ókeypis og opinn vefvafri smíðaður fyrir nútíma vefinn.
+net.werwolv.ImHex	Hex ritstjóri fyrir bakverkfræðinga og forritara
+network.bisq.Bisq	Dreifð bitcoin skiptinet.
+network.koesling.shm-modbus	Safn verkfæra til að líkja eftir modbus TCP/RTU biðlara
+network.loki.Session	Einka sendiboði
+net.worldofpadman.WoP	Ótrúlega vandlega hönnuð og litrík ókeypis skemmtileg skotleikur fyrir ungt og ungt fólk
+net.wz2100.wz2100	Stjórna hersveitum The Project í baráttu við að endurreisa heiminn.
+net.xm1math.Texmaker	Latex ritstjóri
+net.xmind.XMind	Hugarkort og hugarflug
+net.xmind.XMind8	Ótrúlegt hugarflug og hugarkortatæki.
+net.zgcoder.skycheckers	Sprengja óvini af sviði
+nl.brixit.powersupply	Kembiforritari fyrir Linux máttur undirkerfi
+nl.brixit.wiremapper	Linux viðskiptavinur fyrir Pockethernet netprófara
+nl.g4d.Girens	Horfðu á Plex efnið þitt
+nl.hjdskes.gcolor3	Veldu liti úr veljarann eða skjánum
+nl.lostboys.rollemup	Klassískur flippaleikur frá því seint á tíunda áratugnum.
+nl.openoffice.bluefish	Textaritill með mörgum aukahlutum fyrir vef- og hugbúnaðarþróun
+nl.sarine.gpx-viewer	Einfaldur gpx skoðari
+nl.v0yd.Capsule	Lyfjamæling
+no.mifi.losslesscut	Sparaðu pláss með því að klippa mynd- og hljóðskrár hratt og án taps
+nz.mega.MEGAsync	Auðveld sjálfvirk samstilling á milli tölvunna þinna og MEGA Cloud Drive.
+one.ablaze.floorp	Floorp vafri
+one.alynx.FlipClock	Snúður klukka skjáhvílur studdur af SDL2.
+one.flipperzero.qFlipper	Myndrænt skrifborðsforrit til að uppfæra Flipper Zero fastbúnað í gegnum tölvu
+one.jiri.easydict-gtk	Fyrsti opinn uppspretta þýðandinn sem er alveg opinn með orðabókargögnum líka.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	THN vafri fyrir gnome
+org._2006Scape.Launcher	2006Scape er ókeypis Runescape 2006 keppinautur
+org._2009scape.Launcher	Sjósetja fyrir Runescape 2009 keppinautaþjóna
+org.adishatz.syncpasswd	Uppfærðu lykilorð
+org.alienarena.alienarena	Ofurhraður FPS vettvangur
+org.aliflang.lang	Alif(ألف), arabískt forritunarmál
+org.altaqwaa.Altaqwaa	Kóraninn, adhkar og bænatímar
+org.americanmonk.TipitakaPaliReader	Þetta er app til að lesa Theravāda Buddhist Tipitaka Pāḷi textana og fá skilgreiningar áreynslulaust
+org.apache.directory.studio	Fullkominn möppuverkfæravettvangur
+org.apache.jmeter	Álagsprófun og árangursmælingarforrit
+org.apache.netbeans	NetBeans - Apache Java IDE. Passar verkin saman
+org.ardour.Ardour	Stafræn hljóðvinnustöð
+org.armagetronad.ArmagetronAdvanced	3D Lightcycle leikur
+org.arrl.trustedqsl	Ham Radio Tengiliður staðfestingarverkfæri
+org.artsoft.rocksndiamonds	Gem söfnun ráðgáta leikur
+org.asc_hq.ASC	Snúningsbundinn herkænskuleikur
+org.atheme.audacious	Léttur hljóðspilari
+org.audacityteam.Audacity	Audacity er vinsælasta hljóðvinnslu- og upptökuforrit í heimi
+org.audiveris.audiveris	Optical Music Recognition (OMR) forrit
+org.avidemux.Avidemux	Fjölnota myndbandsvinnslu- og vinnsluhugbúnaður
+org.b3log.siyuan	Persónuleg þekkingarstjórnunarkerfi sem er fyrst fyrir persónuvernd, styður fínkorna tilvísun á blokkastigi og Markdown WYSIWYG
+org.beeref.BeeRef	Einfaldur tilvísunarmyndaskoðari
+org.bino3d.bino	3D myndbandsspilari
+org.bionus.Grabber	Mjög sérhannaðar myndborð/booru niðurhalstæki með öflugum skráarheitaaðgerðum
+org.bitbucket.mystery_keeper.VapourSynthEditor	Ritstjóri fyrir VapourSynth forskriftir
+org.bitcoincore.bitcoin-qt	Fullgildir Bitcoin jafningi-til-jafningi nethnút, veski og GUI
+org.bitfighter.Bitfighter	fjölspilunar vektor grafík geimleikur
+org.blackcoin.blackcoin-more	Sannur dreifður stafrænn gjaldmiðill
+org.blackfennec.app	Stækkanlegt hálfskipulagt gagnavinnsluumhverfi
+org.bleachbit.BleachBit	Hreinsar skrár til að losa um pláss og viðhalda friðhelgi einkalífsins
+org.blender.Blender	Ókeypis og opinn uppspretta 3D sköpunarsvíta
+org.bluej.BlueJ	Java IDE fyrir byrjendur
+org.bluesabre.MenuLibre	Háþróaður FreeDesktop.org samhæfður valmyndaritill
+org.briarproject.Briar	Örugg skilaboð, hvar sem er
+org.btchd.btchd-qt	Tengstu við BitcoinHD P2P netið
+org.buhocms.BuhoCMS	Staðbundið CMS fyrir kyrrstæða síðuframleiðendur
+org.bunkus.mkvtoolnix-gui	Matroska skráarhöfundur og verkfæri
+org.bzdev.CVRDecode	Afkóðari fyrir stafrænar COVID-19 bólusetningar í Kaliforníu
+org.bzflag.BZFlag	3D fyrstu persónu skriðdreka bardaga leikur
+org.caione.GScope	GTK tengi við cscope
+org.chocolate_doom.ChocolateDoom	Íhaldssamt Doom Source Port
+org.chromium.Chromium	Vefskoðarinn frá Chromium verkefninu
+org.citra_emu.citra	Nintendo 3DS keppinautur
+org.claws_mail.Claws-Mail	Claws Mail er tölvupóstforrit (og fréttalesari), byggt á GTK+
+org.clementine_player.Clementine	Spilar tónlistarskrár og netútvarp
+org.cloudcompare.CloudCompare	3D punktský og möskvavinnsluhugbúnaður
+org.cockpit_project.CockpitClient	Tengstu í gegnum ssh við netþjóna með Cockpit
+org.codeberg.dimkard.glossaico	Forrit til að læra tungumál
+org.codeblocks.codeblocks	IDE fyrir C, C++ og Fortran
+org.contourterminal.Contour	Contour er nútímalegur og í raun hraðvirkur, modal, sýndarstöðvahermi, til daglegrar notkunar
+org.coolero.Coolero	Coolero er forrit til að fylgjast með og stjórna kælitækjunum þínum
+org.cryptomator.Cryptomator	Dulkóðunartól fyrir marghliða viðskiptavinarhlið, fínstillt fyrir skýjageymslur
+org.cubocore.CoreAction	Hliðarbar með nokkrum handhægum græjum
+org.cubocore.CoreArchiver	Einfalt tól til að þjappa/útdráttur skráa
+org.cubocore.CoreFM	Einfaldur léttur og auðvelt að nota skráarstjóra
+org.cubocore.CoreHunt	Auðvelt að nota fljótlegt skráaleitartæki
+org.cubocore.CoreImage	Einfaldur léttur og auðvelt að nota myndaskoðara
+org.cubocore.CoreInfo	Einfaldur metadata viewer fyrir skrár
+org.cubocore.CoreKeyboard	Einfalt sýndarlyklaborð með orðatillögum
+org.cubocore.CorePad	Einfaldur léttur en öflugur textaritill
+org.cubocore.CorePaint	Einfalt málunarverkfæri
+org.cubocore.CorePDF	Einfaldur léttur PDF skoðari
+org.cubocore.CoreRenamer	Einfaldur léttur hópskrárendurnefnari
+org.cubocore.CoreShot	Einfalt létt skjámyndatæki fyrir X11
+org.cubocore.CoreStats	Einfaldur léttur kerfisauðlindaskoðari
+org.cubocore.CoreTime	Tímatengdur verkefnastjóri
+org.cvfosammmm.Porto	Breyttu Jupyter minnisbókum á skjáborðinu
+org.cvfosammmm.Setzer	Einfaldur en fullbúinn LaTeX ritstjóri
+org.cznic.Datovka	Ókeypis grafískt notendaviðmót fyrir gagnakassa
+org.d3cod3.Mosaic	OpenFrameworks byggður Visual Patching Creative-Coding Platform
+org.darkdimension.rue	Kortaleikur um frádrátt, ást og eftirsjá.
+org.darktable.Darktable	Skipuleggja og þróa myndir úr stafrænum myndavélum
+org.dash.electrum.electrum_dash	Léttur Dash viðskiptavinur
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+org.debian.TuxPuck	3D Shufflepuck Pong leikur
+org.deidentifier.arx	ARX Data Anonymization Tool
+org.deluge_torrent.deluge	Fullkominn BitTorrent viðskiptavinur
+org.denemo.Denemo	Búðu til tónlistaratriði
+org.desmume.DeSmuME	Nintendo DS keppinautur
+org.develz.Crawl	Roguelike dýflissu könnunarleikur
+org.dhewm3.Dhewm3	dhewm 3 er Doom 3 GPL upprunatengi
+org.diasurgical.DevilutionX	Diablo/Hellfire upprunatengi fyrir nútíma stýrikerfi
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce keppinautur
+org.duckstation.DuckStation	PlayStation keppinautur
+org.dupot.beatmatchtopass	Sláðu þá alla
+org.dupot.littleadventure	RPG Pixel Art lítill leikur
+org.dust3d.dust3d	Fljótlegt 3D líkanatól
+org.easycoding.TunedSwitcher	Einfalt tól til að vinna með Tuned þjónustuna
+org.eclipse.iot.fourdiac.Ide	OpenSource IEC 61499 samhæft PLC IDE
+org.eclipse.Java	Nauðsynleg verkfæri fyrir hvaða Java forritara sem er, þar á meðal Java IDE, Git viðskiptavinur, XML ritstjóri, Maven og Gradle samþætting
+org.eclipse.Javascript	Nauðsynleg verkfæri fyrir alla JavaScript forritara, þar á meðal JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown tungumálastuðning
+org.eclipse.sumo	Smásjá umferðarhermun
+org.electrum.electrum	Léttur Bitcoin viðskiptavinur
+org.emilien.Password	Sterkt lykilorð fyrir hámarksöryggi
+org.emilien.SpaceLaunch	Hvenær fer næsta eldflaug til himins?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(s) prófunartæki
+org.endlessos.Key	Stýrt nám hvenær sem er, hvar sem er
+org.enjoyingfoss.FOSStriangulator	Tól til að búa til þríhyrningsmyndir úr myndum
+org.entangle_photo.Manager	Tjóðrað myndavélarstýring og -upptaka
+org.equeim.Tremotesf	Fjarstýrt GUI fyrir Transmission BitTorrent viðskiptavin
+org.eu.encom.spectral	IM viðskiptavinur fyrir Matrix samskiptareglur
+org.eu.getcatalyst.Catalyst	Léttur og notendamiðaður vafri knúinn af Electron
+org.eu.wabarc.wayback	Sjálf-hýst verkfærakista til að geyma vefsíður í Internet Archive, archive.today, IPFS og staðbundin skráarkerfi
+org.exaile.Exaile	Hlustaðu á, skoðaðu eða stjórnaðu hljóðsafninu þínu
+org.exbin.BinEd	Tvöfaldur / Hex ritstjóri
+org.expresslrs.ExpressLRSConfigurator	Tól fyrir stillingar á vettvangi fyrir ExpressLRS vélbúnaðinn
+org.eyecreate.qiflora	Farsímavænt forrit til að fylgjast með plöntum með Mi Flora tækjum.
+org.eyecreate.vehiclevoyage	Fylgstu með þjónustusögu ökutækja.
+org.famistudio.FamiStudio	FamiStudio NES tónlistarritstjóri
+org.fcitx.Fcitx5	Inntaksaðferð
+org.fdroid.Repomaker	Búðu til F-Droid endurgeymslur á auðveldan hátt
+org.featherwallet.Feather	Monero skrifborð veski
+org.fedoraproject.MediaWriter	Tól til að búa til lifandi USB drif með útgáfu af Fedora
+org.ferdium.Ferdium	Messenger fyrir skjáborðið
+org.filezillaproject.Filezilla	Fljótur og áreiðanlegur FTP viðskiptavinur
+org.filmulator.Filmulator	GUI aðlögun á Filmulator, kvikmyndahermi með öllu jákvæðu og engu neikvæðu
+org.firestormviewer.FirestormViewer	Viðskiptavinur til að fá aðgang að 3D sýndarheimum
+org.fkoehler.KTailctl	GUI fyrir Tailscale mesh netið
+org.flameshot.Flameshot	Öflugur og einfaldur í notkun skjámyndahugbúnaður
+org.flarerpg.Flare	2D hasar hlutverkaleikur
+org.flathub.flatpak-external-data-checker	Tól til að athuga hvort ytri gögnin sem notuð eru í Flatpak upplýsingaskrám séu enn uppfærð
+org.flatpak.qtdemo	Flatpak Developer Demo
+org.flightgear.FlightGear	Ókeypis og mjög háþróaður flughermir
+org.flozz.calcleaner	Einfalt grafískt tól til að hreinsa gamla atburði úr CalDAV dagatölum
+org.flozz.yoga-image-optimizer	Umbreyttu og fínstilltu JPEG, PNG og WebP myndir
+org.flycast.Flycast	Sega Dreamcast, Naomi og Atomiswave keppinautur
+org.fontforge.FontForge	Útlínur leturritari
+org.freac.freac	Hljóðbreytir og CD ripper
+org.free_astro.siril	Stjörnufræðimynda(for)vinnsluforrit
+org.freecadweb.FreeCAD	Opinn uppspretta parametric 3D CAD líkan
+org.freeciv.gtk322	Gtk+-3.22 byggður viðskiptavinur fyrir Freeciv leikinn
+org.freeciv.qt	Qt byggður viðskiptavinur fyrir Freeciv leikinn
+org.freecol.FreeCol	FreeCol er stefnumiðaður stefnuleikur.
+org.freedesktop.adriconf	Háþróaður DRI stillingarbúnaður
+org.freedesktop.appstream.cli	Tól til að vinna með AppStream lýsigögn
+org.freedesktop.appstream.generator	Hratt AppStream lýsigagnaframleiðandi
+org.freedesktop.appstream-glib	AppStream skráarprófun og verkfæri
+org.freedesktop.Bustle	Teiknaðu raðmyndir af D-Bus virkni
+org.freedesktop.dabrain34.GstPipelineStudio	Teiknaðu þína eigin GStreamer leiðslu...
+org.freedesktop.dabrain34.squared	Reyndu að fylla ferninginn með tölum
+org.freedesktop.fwupd	Uppfærðu vélbúnaðar tækisins á Linux
+org.freedesktop.GstDebugViewer	Skoðaðu GStreamer villuleitarskrárupplýsingar
+org.freedesktop.Piper	Stillingarforrit fyrir leikjamús
+org.freedesktop.Tuhi	Tól til að hlaða niður teikningum frá Wacom Ink tækjasviðinu
+org.freedownloadmanager.Manager	FDM er öflugur nútíma niðurhalshraðall og skipuleggjari.
+org.freefilesync.FreeFileSync	Sjónræn möppusamanburður og samstilling
+org.freeorion.FreeOrion	Snúningsbundinn geimveldi og galactic conquest (4X) tölvuleikur
+org.freeplane.App	Hugarkort, Þekkingarstjórnun, Verkefnastjórnun. Þróa, skipuleggja og miðla hugmyndum þínum og þekkingu á sem áhrifaríkastan hátt
+org.frescobaldi.Frescobaldi	LilyPond tónlistarritstjóri
+org.fritzing.Fritzing	Rafræn hönnunartól
+org.frozen_bubble.frozen-bubble	Ávanabindandi leikur um frosnar loftbólur
+org.gabmus.gfeeds	Fréttalesari fyrir GNOME
+org.gabmus.giara	Forrit fyrir Reddit
+org.gabmus.hydrapaper	Veggfóðursstjóri með fjölskjástuðningi
+org.gabmus.notorious	Lyklaborðsmiðlægar nótur
+org.gabmus.swatch	Stjórnandi litaspjalds
+org.gabmus.unifydmin	GNOME app til að stjórna mörgum ólíkum netþjónum með auðveldum hætti
+org.gabmus.whatip	Upplýsingar um IP þinn
+org.gahshomar.Gahshomar	Persneskt/jalali/farsískt dagatal
+org.gajim.Gajim	Fullbúinn XMPP spjallforrit
+org.gaphor.Gaphor	Einfalt UML og SysML líkanatól
+org.geany.Geany	Hröð og léttur IDE
+org.geeqie.Geeqie	Léttur myndskoðari
+org.genivi.DLTViewer	Diagnostic Log and Trace skoðunarforrit
+org.geogebra.GeoGebra	Hugbúnaður fyrir kraftmikla stærðfræði
+org.gephi.Gephi	The Open Graph Viz Platform
+org.getmonero.Monero	Monero: öruggur, einkarekinn, órekjanlegur dulritunargjaldmiðillinn
+org.getoutline.OutlineClient	Aðgangur að ókeypis og opnu interneti
+org.getoutline.OutlineManager	Settu upp Outline netþjóna þína í skýinu og stjórnaðu hverjir hafa aðgang að netþjóninum
+org.getzola.zola	Hraðvirkur kyrrstæður staður generator í einni tvöfaldur með allt innbyggt
+org.ghidra_sre.Ghidra	Ghidra Software Reverse Engineering Suite
+org.gimp.GIMP	Búa til myndir og breyta ljósmyndum
+org.gmusicbrowser.gmusicbrowser	Glymskratti fyrir stórt safn af tónlist
+org.gna.Warmux	Tvívíddarleikur þar sem fyndnar persónur ræsa fyndin vopn
+org.gnode.NixView	Skoðari fyrir nix gagnaskrár
+org.gnome.Aisleriot	Spila marga ólíka kapla
+org.gnome.atomix	Byggja sameindir úr stökum atómum
+org.gnome.baobab	Athuga hve mikið pláss skrár taka á tölvunni og hve mikið pláss er eftir
+org.gnome.Boxes	Sýndarvæðing gerð einföld
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	An IDE for GNOME
+org.gnome.Calculator	Perform arithmetic, scientific or financial calculations
+org.gnome.Calendar	Dagatal fyrir GNOME
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.Characters	Stafatöfluforrit
+org.gnome.Cheese	Taka myndir og myndskeið með vefmyndavélinni, með skemmtilegum myndrænum brellum
+org.gnome.Chess	Play the classic two-player board game of chess
+org.gnome.clocks	Fylgstu með tímanum
+org.gnome.ColorViewer	Skoða og bera saman uppsett litasnið
+org.gnome.Connections	Skoða og nota önnur skjáborð
+org.gnome.Contacts	Manage your contacts
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	Protect yourself from data loss
+org.gnome.design.AppIconPreview	Tool for designing applications icons
+org.gnome.design.Contrast	Check contrast between two colors
+org.gnome.design.Emblem	Búa til auðkennismynd verkefna
+org.gnome.design.IconLibrary	Symbolic icons for your apps
+org.gnome.design.Lorem	Búa til staðgöngutexta
+org.gnome.design.Palette	Color Palette tool
+org.gnome.design.SymbolicPreview	Symbolics Made Easy
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	A developer tool for browsing and searching API documentation
+org.gnome.dspy	A D-Bus explorer for GNOME
+org.gnome.EasyTAG	Edit audio file metadata
+org.gnome.eog	Skoða og snúa myndum
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Flakka á vefnum
+org.gnome.Evince	Skjalaskoðari fyrir ýmsar algengar gerðir skjala
+org.gnome.Evolution	Sjá um tölvupóst, tengiliði og dagbók
+org.gnome.Extensions	Sýsla með GNOME Shell Extension forritsviðauka
+org.gnome.FileRoller	Opna, breyta og búa til þjappaðar safnskrár
+org.gnome.Firmware	Install firmware on devices
+org.gnome.five-or-more	Fjarlægðu litaða bolta úr borðinu með því að mynda raðir
+org.gnome.FontManager	A simple font management application for Gtk+ Desktop Environments
+org.gnome.font-viewer	Skoða letur á kerfinu þínu
+org.gnome.Four-in-a-row	Make lines of the same color to win
+org.gnome.Fractal	Matrix group messaging app
+org.gnome.frogr	Innsendiforrit á Flickr fyrir GNOME
+org.gnome.gbrainy	gbrainy er leikur til að þjálfa minni, reikninga, munnlega og rökfræðilega færni.
+org.gnome.Geary	Senda og taka á móti tölvupósti
+org.gnome.gedit	Textaritill
+org.gnome.Genius	Genius er almennt reikniforrit
+org.gnome.GHex	Skoðaðu og breyttu tvíundarskrám
+org.gnome.gitg	Grafískt notendaviðmót fyrir git
+org.gnome.gitlab.bazylevnik0.Convolution	Völundarhús flóttaleikur
+org.gnome.gitlab.Cowsay	Cowsay, nýjasta Cowsay rafallinn sem notar GNOME venjur
+org.gnome.gitlab.dqpb.GMetronome	Hraðamælingartæki fyrir tónskáld og tónlistarmenn
+org.gnome.gitlab.ilhooq.Bookup	Einfaldaðu glósuna þína með Markdown setningafræði
+org.gnome.gitlab.johannesjh.favagtk	Gerðu fjármál þín með því að nota fava og beancount
+org.gnome.gitlab.powimod.aion-task	Hringlaga verkefnastjóri
+org.gnome.gitlab.somas.Apostrophe	Breyttu Markdown í stíl
+org.gnome.gitlab.YaLTeR.Identity	Bera saman myndir og hreyfimyndir
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Klipptu myndbönd fljótt
+org.gnome.glabels-3	Búðu til merkimiða, nafnspjöld og fjölmiðlakápur
+org.gnome.Glade	Búðu til eða opnaðu notendaviðmótshönnun fyrir GTK+ forrit
+org.gnome.Gnote	Einfalt forrit til að taka minnispunkta
+org.gnome.GTG	Skipuleggjari persónulegra verkefna og verkefnalista
+org.gnome.gThumb	Skoða og raða myndunum þínum
+org.gnome.Gtranslator	Þýddu og staðfærðu forrit og aðgerðasöfn
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Play the Hitori puzzle game
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Slide blocks to solve the puzzle
+org.gnome.LightsOff	Slökktu á öllum ljósunum
+org.gnome.Logs	Skoða ítarlega atvikaskráningu fyrir kerfið
+org.gnome.Lollypop	Play and organize your music collection
+org.gnome.Loupe	View images
+org.gnome.Mahjongg	Match tiles and clear the board
+org.gnome.Maps	Finndu staði út um allan heim
+org.gnome.meld	Compare and merge your files
+org.gnome.Mines	Hreinsa faldar sprengjur af sprengjusvæði
+org.gnome.moserial	Serial terminal
+org.gnome.Music	Spila og skipuleggja tónlistarsafnið þitt
+org.gnome.NautilusPreviewer	Provide a facility for quickly viewing different kinds of files
+org.gnome.NetworkDisplays	Stream the desktop to Wi-Fi Display capable devices
+org.gnome.Nibbles	Hreyfðu orminn í gegnum völundarhúsið
+org.gnome.Notes	Notes for GNOME
+org.gnome.OCRFeeder	The complete OCR suite
+org.gnome.OfficeRunner	Close your laptop lid and start running
+org.gnome.Photos	Skipuleggðu, njóttu og deildu myndunum þínum í GNOME
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Hlustaðu á uppáhalds útvarpsþættina þína
+org.gnome.Polari	Spjalla við fólk á IRC
+org.gnome.PowerStats	Fylgjast með orkustýringu
+org.gnome.Quadrapassel	Fella fallandi steina saman
+org.gnome.Recipes	GNOME loves to cook
+org.gnome.Reversi	Gerstu konungur borðsins í klassískri útgáfu af Reversi eða spilaðu öfuga tilbrigðið
+org.gnome.Rhythmbox3	Spila og sjá um tónlistarsafnið þitt
+org.gnome.Robots	Forðastu vélmennin og láttu þau rekast á hvert annað
+org.gnome.seahorse.Application	Halda utan um lykilorð og dulritunarlykla
+org.gnome.Shotwell	Digital photo organizer
+org.gnome.SimpleScan	Gerðu stafræn afrit af skjölum og myndum
+org.gnome.Snapshot	Take pictures and videos
+org.gnome.Solanum	Haltu jafnvægi milli verkefna og frítíma
+org.gnome.SoundJuicer	CD ripper with a clean interface and simple preferences
+org.gnome.SoundRecorder	Einföld hljóðupptaka fyrir GNOME
+org.gnome.Sudoku	Kannaðu rökleikni þína í þessari talnaþraut
+org.gnome.SwellFoop	Clear the screen by removing groups of colored and shaped tiles
+org.gnome.Tali	Roll dice and score points
+org.gnome.Taquin	Slide tiles to their correct places
+org.gnome.Tau	GTK frontend for the xi text editor
+org.gnome.Tetravex	Reorder tiles to fit a square
+org.gnome.TextEditor	Breyta textaskrám
+org.gnome.Todo	Manage your tasks
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Spila myndskeið
+org.gnome.TwentyFortyEight	Obtain the 2048 tile
+org.gnome.Weather	Birta veðurslýsingar og veðurspár
+org.gnome.World.Citations	Haltu heimildaskránni þinni til haga
+org.gnome.World.Iotas	Simple note taking
+org.gnome.World.PikaBackup	Keep your data safe
+org.gnome.World.Secrets	Sýslaðu með lykilorðin þín
+org.gnucash.GnuCash	Manage your finances, accounts, and investments
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	A High-Precision Spreadsheet Program
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Myndrænt framenda við GnuPG
+org.gnu.pspp	GNU PSPP er forrit fyrir tölfræðilega greiningu á úrtaksgögnum
+org.godotengine.Godot	Godot leikjavél ritstjóri
+org.godotengine.Godot3	Godot leikjavél ritstjóri
+org.godotengine.Godot3Sharp	Godot leikjavél ritstjóri
+org.godotengine.GodotSharp	Godot leikjavél ritstjóri
+org.goldcoinproject.goldcoin-qt	Uppgötvaðu gullstaðal stafræns gjaldmiðils.
+org.goldendict.GoldenDict	Forrit til að fletta í orðabókum
+org.gottcode.Connectagram	Fjarlægðu orð sem sett eru í mynstur
+org.gottcode.CuteMaze	Finndu skotmörk í völundarhúsi
+org.gottcode.FocusWriter	Fullskjár ritvinnsluforrit
+org.gottcode.Gottet	Hreinsaðu borðið af fallandi kubbum
+org.gottcode.Hexalate	Snúðu hringi til að passa við liti
+org.gottcode.Kapow	Fylgstu með tíma sem fer í verkefni
+org.gottcode.NovProg	Forrit til að grafa fyrir orðafjölda
+org.gottcode.Peg-E	Hoppaðu til að útrýma þeim
+org.gottcode.Simsu	Fylltu inn tölur til að leysa þrautir
+org.gottcode.Tanglet	Einstaklingsafbrigði af Boggle
+org.gottcode.Tetzle	Púsluspil með tetromino bitum
+org.gpodder.gpodder	Fjölmiðlasafnari og podcast viðskiptavinur
+org.gpodder.gpodder-adaptive	Media aggregator og podcast viðskiptavinur fyrir farsíma og skjáborð
+org.gramps_project.Gramps	Sýslaðu með ættfræðiupplýsingum, stundaðu rannsóknir og greiningar á ættartölum
+org.greenfoot.Greenfoot	Grænfótur
+org.grisbi.Grisbi	Fjármálastjóri einkaaðila
+org.groestlcoin.electrum-grs	Léttur Groestlcoin viðskiptavinur
+org.groestlcoin.groestlcoin-qt	Að fullu staðfesta Groestlcoin jafningi-til-jafningja nethnút, veski og GUI
+org.gtaf.quran	Lærðu Kóraninn í gegnum Word by Word Analysis, Colored Tajweed, Tafsir & Audio
+org.gtimelog.GTimeLog	Fylgstu með tíma þínum á áberandi hátt
+org.gtkhash.gtkhash	Reiknaðu skilaboðasamdrátt eða eftirlitssummur
+org.guerinoni.qTsConverter	Einfalt tól til að umbreyta qt þýðingarskrá (ts) í annað snið (xlsx / csv) og öfugt.
+org.guitarix.Guitarix	sýndar fjölhæfur mögnun fyrir Jack/Linux
+org.gustavoperedo.FontDownloader	Settu upp leturgerðir frá netheimildum
+org.hdfgroup.HDFView	Skoðaðu og breyttu HDF skrám
+org.hedgewars.Hedgewars	Fyndinn snúningsbundinn stórskotaliðsleikur með bardaga Hedgehogs!
+org.hikounomizu.HikouNoMizu	Bardagaleikur í anime stíl sem byggir á palli
+org.hlwd.sonofman	Biblían mörg tungumál, ókeypis, án nettengingar, engar auglýsingar, á ensku, frönsku, ítölsku, spænsku, portúgölsku fyrir Terminal.
+org.homelinuxserver.vance.biblereader	Lestu Orðið
+org.horizon_eda.HorizonEDA	Ókeypis EDA pakki
+org.hydrogenmusic.Hydrogen	Háþróaða trommuvélin
+org.icculus.tennix	Multiplayer tennis leikur
+org.imitationpickles.barbie	Hjálpaðu Barbie sjóhestinum að fljóta á loftbólum til tunglsins
+org.inkscape.Inkscape	Teikniforrit fyrir vigramyndir / línuteikningar
+org.ioquake3.ioquake3	Ókeypis og opinn Quake 3 vél
+org.jabref.jabref	Grafískt Java forrit til að stjórna BibTeX og biblatex (.bib) gagnagrunnum
+org.jacktrip.JackTrip	Tengstu og spilaðu með öðrum tónlistarmönnum
+org.jamovi.jamovi	Tölfræðitöflureikni í rauntíma
+org.jaspstats.JASP	Staðlaðar tölfræðilegar greiningar, bæði klassískar og Bayesískar
+org.jdownloader.JDownloader	Sækja stjórnunartól
+org.jellyfin.JellyfinServer	Frjáls hugbúnaðarmiðlunarkerfið
+org.jflap.JFLAP	Formlegt tungumálapróf
+org.jitsi.jitsi-meet	Jitsi Meet - Öruggar, einfaldar og stigstærðar myndbandsráðstefnur
+org.jreleaser.cli	Slepptu verkefnum fljótt og auðveldlega með JReleaser
+org.js.nuclear.Nuclear	Rafeindabyggður tónlistarspilari
+org.jupyter.JupyterLab	JupyterLab skrifborðsforrit, byggt á Electron
+org.karapulse.Karapulse	Karaoke spilari með innbyggðum fjarstýrðum vefþjóni
+org.kde.akregator	Lesandi fréttastraums
+org.kde.alligator	Straumalesari fyrir farsíma
+org.kde.angelfish	Vefvafri fyrir farsíma
+org.kde.arianna	Rafbókalesari
+org.kde.ark	Safnskráaverkfæri
+org.kde.artikulate	Artikulate framburðarþjálfari
+org.kde.atlantik	Monopoly®-lík borðspil
+org.kde.audiotube	Sameiginlegur YouTube Music viðskiptavinur
+org.kde.blinken	Leikur til að auka minni
+org.kde.bomber	Arcade sprengjuleikur
+org.kde.bovo	Fimm í röð borðspil
+org.kde.cantor	KDE frontend að stærðfræðilegum hugbúnaði
+org.kde.choqok	Örblogg viðskiptavinur
+org.kde.digikam	Ljósmyndaumsýsluforrit
+org.kde.dolphin	Skráastjóri
+org.kde.elisa	Fallegur hljóðlaus tónlistarspilari með útvarpsstuðningi á netinu
+org.kde.falkon	Vafri
+org.kde.filelight	Sýna nýting diska og eyða ónotuðum skrám
+org.kde.francis	Fylgstu með tíma þínum
+org.kde.gcompris	Fjölvirkni fræðsluleikur fyrir börn 2 til 10 ára
+org.kde.granatier	Bomberman klón
+org.kde.gwenview	Myndskoðari
+org.kde.haruna	Opinn uppspretta fjölmiðlaspilari byggður með Qt/QML og libmpv
+org.kde.Ikona	Ikona er hönnunarfélagi til að hjálpa þér að hanna tákn
+org.kde.index	Stjórnaðu skrám þínum
+org.kde.isoimagewriter	Skrifaðu ISO mynd á USB disk
+org.kde.itinerary	Stafrænn ferðaaðstoðarmaður
+org.kde.juk	Tónlistarspilari
+org.kde.kaffeine	Margmiðlunarspilari
+org.kde.kalgebra	Grafreiknivél
+org.kde.kalk	Eiginleikarík reiknivél
+org.kde.kalzium	lotukerfi frumefna
+org.kde.kamoso	Notaðu vefmyndavélina þína til að taka myndir og búa til myndbönd
+org.kde.kanagram	Bréfapöntunarleikur
+org.kde.kapman	Pac-Man klón
+org.kde.kasts	Podcast forrit
+org.kde.katomic	Sokoban-líkur Logic Game
+org.kde.kbibtex	BibTeX ritstjóri frá KDE til að breyta heimildaskrám sem notuð eru með LaTeX
+org.kde.kblackbox	Blackbox Logic leikur
+org.kde.kblocks	Falling Blocks leikur
+org.kde.kbounce	KBounce er spilakassaleikur fyrir einn leikmann með þrautaþáttum
+org.kde.kbreakout	KBreakOut er Breakout-líkur leikur frá KDE
+org.kde.kbruch	Æfingabrot
+org.kde.kcachegrind	Profiler Frontend
+org.kde.kcalc	Vísindaleg reiknivél
+org.kde.kclock	Stilltu vekjara og teljara, notaðu skeiðklukku og stjórnaðu heimsklukkum
+org.kde.kcolorchooser	Litaval og litaspjaldaritill
+org.kde.kdenlive	Vídeó ritstjóri
+org.kde.kdevelop	Fínn IDE sem hægt er að stækka við viðbót fyrir C/C++ og önnur forritunarmál
+org.kde.kdiamond	KDiamond er þrír í röð leikur frá KDE
+org.kde.kdiff3	Tól til að bera saman skrár og möppur og sameina
+org.kde.keysmith	Tveggja þátta kóðarafall fyrir Plasma farsíma og skjáborð
+org.kde.kfind	Finna skrár/möppur
+org.kde.kfourinline	KFourInLine er fjögurra í röð leikur frá KDE
+org.kde.kgeography	Námstæki í landafræði
+org.kde.kgeotag	Forrit til að landmerkja ljósmyndir
+org.kde.kget	Niðurhalsstjóri
+org.kde.kgoldrunner	Veiddu gull, forðastu óvini og leystu þrautir
+org.kde.kgraphviewer	Graphviz DOT línuritskoðari
+org.kde.khangman	Hangman leikur
+org.kde.kid3	Breyta lýsigögnum í hljóðskrám
+org.kde.kig	Gagnvirk rúmfræði
+org.kde.kigo	Farðu í borðspil
+org.kde.kile	TeX/LaTeX ritstjóri
+org.kde.killbots	Snúðu morðingja vélmenni til að vinna
+org.kde.kimagemapeditor	HTML myndakort ritstjóri
+org.kde.kiriki	Yahtzee-líkur teningaleikur
+org.kde.kiten	Japönsk viðmiðunar- og námstól
+org.kde.kjumpingcube	Territory Capture Game
+org.kde.kleopatra	Vottunarstjóri og sameinað dulritunarviðmót
+org.kde.klettres	Lærðu stafrófið
+org.kde.klickety	Klickety er aðlögun af clickomania leiknum
+org.kde.klines	Taktískur leikur
+org.kde.kmahjongg	Mahjong Solitaire
+org.kde.kmines	KMines er hefðbundinn sprengjuleitarleikur sem líkist Minesweeper
+org.kde.kmplayer	Viðmót fyrir MPlayer frá KDE
+org.kde.kmplot	Stærðfræðilegur fallateiknari
+org.kde.kmymoney	Persónulegur fjármálastjóri sem byggir á tvíhliða bókhaldi
+org.kde.knavalbattle	Leikur til að sökkva skipum
+org.kde.knetwalk	KNetWalk er leikur fyrir kerfisstjóra
+org.kde.knights	Skák
+org.kde.koko	Myndasafn
+org.kde.kolf	Miniature golf
+org.kde.kollision	Frjálslegur boltaleikur
+org.kde.kolourpaint	Myndmálunarforrit
+org.kde.kommit	Git GUI viðskiptavinur
+org.kde.kompare	Diff/Patch Frontend
+org.kde.kongress	KDE Conference fylgiforrit
+org.kde.konquest	Galactic stefnuleikur
+org.kde.konsole	Skjáhermir
+org.kde.kontact	Meðhöndlaðu allan tölvupóstinn þinn, dagatöl, tengiliði og fleira í einum glugga
+org.kde.kontrast	Litaskilamælir
+org.kde.konversation	IRC viðskiptavinur
+org.kde.kpat	Solitaire kortaleikur
+org.kde.kphotoalbum	Hugbúnaður fyrir KDE myndstjórnun
+org.kde.krdc	Tengstu við RDP eða VNC við aðra tölvu
+org.kde.krename	Öflugur batch skrá endurnefnari
+org.kde.kreversi	Reversi/Othello-viðsnúningsleikur
+org.kde.krita	Stafrænt málverk, skapandi frelsi
+org.kde.kronometer	Chronometer
+org.kde.kruler	Skjáreglustika
+org.kde.ksirk	Heimsráðstefnuleikur
+org.kde.ksnakeduel	Tron-eins leikur
+org.kde.ksquares	Tengdu punktana til að búa til ferninga
+org.kde.kst	Gagnvirk gagnasýn og greining
+org.kde.kstars	Desktop Planetarium
+org.kde.ksudoku	Complete a numeric puzzle with the numbers from one to nine
+org.kde.kteatime	Tea Cooker
+org.kde.ktimetracker	Personal Time Tracker
+org.kde.ktorrent	BitTorrent Client
+org.kde.ktouch	Touch Typing Tutor
+org.kde.ktrip	Public transport navigator
+org.kde.ktuberling	A simple constructor game suitable for children and adults alike
+org.kde.kturtle	Kennsluumhverfi fyrir forritun
+org.kde.kubrick	3-D Game based on Rubik's Cube
+org.kde.kuiviewer	Qt Designer UI File Viewer
+org.kde.kwalletmanager5	Tól til að stýra eiginleikum veskja
+org.kde.kweather	Skoðaðu veðurspár í rauntíma og aðrar upplýsingar
+org.kde.kwordquiz	Flash Card Trainer
+org.kde.kwrite	Text Editor
+org.kde.kxstitch	A cross stitch pattern creator
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	Tölvustutt þýðingarkerfi
+org.kde.lskat	German card game Skat for two players
+org.kde.marble	Sýndarhnöttur
+org.kde.massif-visualizer	Myndunartæki fyrir Valgrind Massif gagnaskrár
+org.kde.minuet	Hugbúnaður til tónlistarkennslu
+org.kde.neochat	Viðskiptavinur fyrir fylki, dreifð samskiptareglur
+org.kde.okteta	Hex ritstjóri
+org.kde.okular	Skjalaskoðari
+org.kde.palapeli	Púsluspil leikur
+org.kde.parley	Þjálfari orðaforða
+org.kde.peruse	Teiknibókalesari
+org.kde.picmi	Þrautaleikur byggður á tölurökfræði
+org.kde.pix	Myndasafn
+org.kde.plasmatube	Horfðu á YouTube myndbönd
+org.kde.qmlkonsole	Farsímastöðvarforrit
+org.kde.rocs	Rocs graffræðikenning
+org.kde.ruqola	Rocket Chat viðskiptavinur
+org.kde.skanpage	Forrit til skönnunar á mörgum síðum
+org.kde.skrooge	Einka bókhald til heimilisnota
+org.kde.subtitlecomposer	Vídeótextaritill sem styður grunn- og háþróaða klippiaðgerðir
+org.kde.SymbolEditor	Ritstjóri krosssaums tákns
+org.kde.tellico	Innheimtustjóri
+org.kde.telly-skout	Samræmd Kirigami sjónvarpshandbók
+org.kde.tokodon	Mastodon viðskiptavinur
+org.kde.umbrello	UML módel
+org.kde.vvave	Spilaðu tónlistarsafnið þitt
+org.kde.yakuake	Felliniðurstöðustöð
+org.keepassxc.KeePassXC	Samfélagsdrifin höfn Windows forritsins „KeePass Password Safe“
+org.KekikAkademi.BTKSorgu	Er markvefsíðan aðgengileg í Tyrklandi? (BTK)
+org.KekikAkademi.eFatura	Fyrirspurn um notkun rafrænna reikninga frá skatti eða kennitölu TR
+org.kekikakademi.ntvHaber	Nýjustu fréttir á tyrknesku frá NTV.com.tr
+org.kicad.KiCad	EDA föruneyti fyrir skýringarmynd og hringrásarhönnun
+org.kiwix.desktop	Skoða efni án nettengingar
+org.kosmospredanie.Yakblt	Einfaldur leikur til að forðast skot
+org.kryogenix.hushboard	Slökktu á hljóðnemanum á meðan þú ert að skrifa
+org.kryogenix.Pick	Litavali
+org.kryogenix.utm_no	Fjarlægðu rakningarfæribreytur af afrituðum vefslóðum
+org.ksnip.ksnip	Cross-Platform Screenshot tól með athugasemdareiginleikum
+org.lamport.tla.toolbox	TLA+ Toolbox er IDE (samþætt þróunarumhverfi) fyrir TLA+ verkfærin
+org.laptop.TurtleArtActivity	Skjaldbaka innblásin af lógói sem teiknar litríkar myndir með myndrænum forritunarkubbum sem smella saman
+org.learningequality.Kolibri	Ótengdur menntatæknivettvangur
+org.leocad.LeoCAD	Hannaðu sýndarlíkön sem þú getur smíðað með LEGO kubbum
+org.librecad.librecad	2D tölvustuð hönnun (CAD)
+org.librehunt.Organizer	Tól til að skipuleggja skrárnar þínar í snyrtilega flokka
+org.libreoffice.LibreOffice	LibreOffice framleiðni föruneyti
+org.librepcb.LibrePCB	Hönnunarteikningar og PCB
+org.libretrainsim.Libre-TrainSim	Ókeypis lestarhermi fyrir alla
+org.libretro.RetroArch	Frontend fyrir keppinauta, leikjavélar og fjölmiðlaspilara
+org.libsdl.Maelstrom	Hágæða smástirni klón
+org.libvips.vipsdisp	Myndaskoðari
+org.linux_hardware.hw-probe	Athugaðu virkni tölvubúnaðar og finndu rekla
+org.linuxshowplayer.LinuxShowPlayer	Cue spilari hannaður fyrir sviðsuppfærslur
+org.localsend.localsend_app	Deildu skrám með nálægum tækjum
+org.love2d.love2d	LÖVE er æðislegur 2D leikjarammi fyrir Lua.
+org.lyx.LyX	Skjalavinnslan
+org.mamedev.MAME	MAME er margnota eftirlíkingarrammi.
+org.manaplus.ManaPlus	Framlengdur biðlari fyrir The Mana World og svipaða netþjóna
+org.mapeditor.Tiled	Almennt kort ritstjóri
+org.mattbas.Glaxnimate	Vektor hreyfimyndaritill
+org.mattdm.icebreaker	Ávanabindandi hasarþrautaleikur sem felur í sér skoppandi mörgæsir
+org.mavlink.qgroundcontrol	UAS stjórnstöð á jörðu niðri
+org.megaglest.MegaGlest	Rauntíma stefnuleikur (RTS)
+org.megamek.MegaMek	Berjist með því að nota risastór vélmenni, skriðdreka og/eða fótgöngulið á hex-undirstaða korti.
+org.mersenne.mprime	Ókeypis Mersenne Prime leitarhugbúnaður
+org.metal3d.scoreboard	Einföld stigatafla til að telja stig fyrir hvaða leik sem er
+org.mfek.MFEKglif	Glyph ritstjóri fyrir Modular Font Editor K verkefnið
+org.midori_browser.Midori	Fljótur og léttur vafri
+org.milkytracker.MilkyTracker	Fast Tracker II innblásinn tónlistartracker
+org.mixxx.Mixxx	Allt sem þú þarft til að framkvæma lifandi DJ-blöndur
+org.mmass.mMass	Opinn uppspretta massagreiningartól
+org.mobsya.ThymioSuite	Aðgangur að forritunarviðmóti Thymio auðveldlega
+org.moneymanagerex.MMEX	Skipuleggja fjármál og fylgjast með sjóðstreymi
+org.mosh.mosh	Mobile Shell
+org.mozilla.firefox	Fljótur, einka- og öruggur vafri
+org.mozilla.Thunderbird	Thunderbird er ókeypis og opinn hugbúnaður fyrir tölvupóst, fréttastraum, spjall og dagatal
+org.mpdevil.mpdevil	Einfaldur tónlistarvafri fyrir MPD
+org.msweet.htmldoc	Hugbúnaður til að breyta HTML
+org.munadi.Munadi	Einfalt Athan app
+org.musescore.MuseScore	Búðu til, spilaðu og prentaðu fallegar nótur
+org.musicbrainz.Picard	Tónlistarmerki MusicBrainz
+org.mypaint.MyPaint	Málverkaforrit fyrir stafræna listamenn
+org.naev.Naev	2D hasar/rpg bardagaleikur fyrir geimviðskipti
+org.nanuc.Axolotl	Axolotl er crossplattform Signal viðskiptavinur
+org.netsurf_browser.NetSurf	lítill vafri með CSS stuðningi
+org.neverball.Neverball	Leiðdu rúllandi bolta fimlega í gegnum mörg slétt þrívíddarstig
+org.nickvision.cavalier	Sýndu hljóð með CAVA
+org.nickvision.money	Stjórnaðu persónulegum fjármálum þínum
+org.nickvision.tagger	Merktu tónlistina þína
+org.nickvision.tubeconverter	Sækja myndband og hljóð á netinu
+org.nicotine_plus.Nicotine	Grafískur viðskiptavinur fyrir Soulseek netið
+org.nmap.Zenmap	Þverpalla GUI fyrir Nmap Security Scanner
+org.nomacs.ImageLounge	nomacs er ókeypis, opinn uppspretta myndaskoðari
+org.nongnu.enigma	Ráðgáta leikur
+org.nongnu.gsequencer.gsequencer	Háþróaður Gtk+ Sequencer
+org.nongnu.Xlog	Skógarforrit fyrir radíóamatöra
+org.nsnam.NetAnim	NetAnim er teiknimyndavél án nettengingar fyrir ns-3
+org.nuspell.Nuspell	stafsetningarleit
+org.octave.Octave	Gagnvirkt forritunarumhverfi fyrir tölulegar útreikningar
+org.olivevideoeditor.Olive	Ólínulegur myndbandaritill
+org.omegat.OmegaT	Einfaldur opinn uppspretta þýðingarminnisstjóri og CAT tól
+org.onionshare.OnionShare	Deildu skrám á öruggan og nafnlausan hátt, hýstu vefsíður og spjallaðu við vini
+org.onlyoffice.desktopeditors	Skrifstofuframleiðni pakki
+org.openandroidinstaller.OpenAndroidInstaller	Gerir uppsetningu á öðrum Android dreifingum skemmtilega og auðvelda
+org.openchemistry.Avogadro2	Ókeypis og opinn sameinda ritstjóri
+org.openclonk.OpenClonk	Multiplayer hasarleikur þar sem þú stjórnar litlum og liprum manngerðum
+org.opencpn.OpenCPN	Hnitmiðaður kortaplotter og siglingahugbúnaður
+org.openfodder.OpenFodder	Opinn uppspretta höfn DOS stefnuleiksins Cannon Fodder.
+org.openhantek.OpenHantek6022	DSO hugbúnaður fyrir Hantek USB stafræn merki sveiflusjár 6022BE/BL
+org.openjkdf2.OpenJKDF2	Endurútfærsla á vettvangi „Jedi Knight: Dark Forces II“
+org.openkj.OpenKJ	Faglegur karaoke hýsingarhugbúnaður
+org.openmsx.openMSX	Líktu eftir öllum hliðum MSX með mikilli nákvæmni
+org.openmw.OpenMW	Endurútfærsla á The Elder Scrolls III: Morrowind
+org.opennumismat.OpenNumismat	Myntsöfnunarhugbúnaður til að skipuleggja og stjórna eigin vörulista
+org.openrgb.OpenRGB	Opinn uppspretta RGB ljósastýring sem er ekki háð hugbúnaði framleiðanda.
+org.openscad.OpenSCAD	Forritararnir Solid 3D CAD Modeler
+org.openscopeproject.TrguiNG	Fjarstýrt GUI fyrir sendingarstraumpúkinn
+org.openshot.OpenShot	Auðvelt í notkun, fljótlegt að læra og furðu öflugur myndbandaritill
+org.openstreetmap.josm	Java OpenStreetMap ritstjóri
+org.opensurge2d.OpenSurge	Skemmtilegur 2D retro platformer innblásinn af Sonic leikjum og leikjasköpunarkerfi
+org.opentransactions.metier	Multi-gjaldmiðla blockchain veski og viðskiptavinur með opnum viðskiptum
+org.openttd.OpenTTD	Opinn uppruni hermir leikur byggður á Transport Tycoon Deluxe
+org.otfried.Ipe	Ipe stækkanlegur teiknaritill
+org.pairinteraction.Pairinteraction	Rydberg víxlverkunarreiknivél
+org.paraview.ParaView	Gagnagreining og sjónræning
+org.parlatype.Parlatype	Fjölmiðlaspilari fyrir taluppskrift
+org.pegasus_frontend.Pegasus	Þverpallur, sérhannaðar grafískur framhlið til að ræsa keppinauta
+org.pencil2d.Pencil2D	2D hreyfimyndahugbúnaður sem styður bitmap og vektorgrafík
+org.phoenicis.playonlinux	Settu upp og keyrðu Windows hugbúnað á Linux
+org.photoqt.PhotoQt	Skoðaðu og stjórnaðu myndum
+org.pipewire.Helvum	Patchbay fyrir PipeWire
+org.pitivi.Pitivi	Búðu til og breyttu þínum eigin kvikmyndum
+org.pjbroad.EternallandsClient	Eternal Lands er frjálst að spila, grafískt MMORPG
+org.plomgrading.PlomClient	Einkunna-/merkingarviðskiptavinur fyrir Plom einkunnakerfið á netinu
+org.polymc.PolyMC	Sérsniðið ræsiforrit fyrir Minecraft sem gerir þér kleift að stjórna mörgum uppsetningum af Minecraft á einfaldan hátt í einu
+org.ppsspp.PPSSPP	PlayStation Portable keppinautur
+org.prismlauncher.PrismLauncher	Sérsniðið ræsiforrit fyrir Minecraft sem gerir þér kleift að stjórna mörgum uppsetningum af Minecraft á einfaldan hátt í einu
+org.processing.processingide	Opinn hugbúnaður frumgerð pallur
+org.profex_xrd.Profex	Open Source XRD og Rietveld Refinement
+org.pulseaudio.pavucontrol	Stilltu hljóðstyrk vélbúnaðartækja og forrita
+org.purei.Play	Playstation 2 keppinautur
+org.pydpainter.PyDPainter	Nothæft pixel list málningarforrit skrifað í Python
+org.pymol.PyMOL	Sameindasýn og geislun
+org.pyzo.pyzo	Python IDE sem miðar að einfaldleika og gagnvirkni
+org.qbittorrent.qBittorrent	Opinn uppspretta Bittorrent viðskiptavinur
+org.qelectrotech.QElectroTech	Ritstjóri rafmagnsrita
+org.qgis.qgis	Ókeypis og opinn uppspretta landupplýsingakerfi
+org.qownnotes.QOwnNotes	Notablokk með látlausum textaskrá með Markdown stuðningi og Nextcloud / ownCloud samþættingu
+org.quassel_irc.QuasselClient	Nútíma dreift IRC viðskiptavinur
+org.quetoo.Quetoo	Ókeypis fyrstu persónu skotleikur fyrir Mac, PC og Linux
+org.qutebrowser.qutebrowser	Lyklaborðsdrifinn vefvafri
+org.qxmledit.QXmlEdit	XML ritstjóri
+org.raceintospace.Raceintospace	Leikur til að endurupplifa geimkapphlaupið 1960
+org.racket_lang.Racket	Tungumálamiðað forritunarmál
+org.radare.iaito	Qt og C++ GUI fyrir radare2 bakverkfræði ramma
+org.raspberrypi.rpi-imager	Raspberry Pi myndgreiningarforrit
+org.remmina.Remmina	Remote Desktop Client
+org.rncbc.qpwgraph	PipeWire Graph Qt GUI tengi
+org.rncbc.qsynth	A fluidsynth Qt GUI tengi
+org.rncbc.qtractor	Hljóð/MIDI fjöllaga röðunartæki
+org.robocode.Robocode	Byggðu það besta - eyðileggðu restina!
+org.rolisteam.rolisteam	Viðskiptavinafélagi við Rolisteam netþjón
+org.ryujinx.Ryujinx	Nintendo Switch keppinautur
+org.sabnzbd.sabnzbd	Ókeypis og auðveldur tvöfaldur fréttalesari
+org.sauerbraten.Sauerbraten	Ókeypis fjölspilunar- og einspilunarskytta í fyrstu persónu, arftaki Cube FPS
+org.scantailor.ScanTailor	Gagnvirkt eftirvinnsluverkfæri fyrir skannaðar síður
+org.scilab.Scilab	Vísindalegur hugbúnaðarpakki fyrir tölulegar útreikningar
+org.scintilla.SciTE	Textaritill sem byggir á SCintilla
+org.scummvm.ScummVM	Túlkur fyrir fjölmarga ævintýraleiki og hlutverkaleiki
+org.sdrangel.SDRangel	TX & RX hugbúnaðarskilgreint útvarp
+org.seul.crimson	Beygjubundinn taktísk stríðsleikur
+org.shadered.SHADERed	Tól til að búa til og prófa HLSL og GLSL shaders
+org.shadowsocks.qt5client	Innfæddur og kross-vettvangur Shadowsocks GUI viðskiptavinur með háþróaða eiginleika.
+org.shotcut.Shotcut	Vídeó ritstjóri
+org.signal.Signal	Einka sendiboði
+org.sigxcpu.Livi	Einfaldur GTK4 myndspilari fyrir farsíma
+org.sil.Bloom	Þróun læsisefnis fyrir tungumálasamfélög
+org.sil.FieldWorks	Umsjón með mál- og menningargögnum
+org.skytemple.Randomizer	Randomizer fyrir Pokémon Mystery Dungeon Explorers of Sky
+org.skytemple.SkyTemple	ROM ritstjóri fyrir Pokémon Mystery Dungeon Explorers of Sky
+org.soapui.SoapUI	SoapUI OS er hagnýt prófunarlausn fyrir API og vefþjónustu
+org.solarus_games.solarus.Launcher	Skoðaðu og spilaðu Solarus quest safnið þitt.
+org.sonic3air.Sonic3AIR	Aðdáandi endurgerð breiðskjás af Sonic 3 & Knuckles.
+org.soundconverter.SoundConverter	Umbreyta hljóðskrám
+org.sparkleshare.SparkleShare	Magic sjálf hýst Git skráarsamstilling
+org.speedcrunch.SpeedCrunch	Vísindareiknivél með mikilli nákvæmni
+org.speed_dreams.SpeedDreams	Speed Dreams er þrívíddarþvervettvangur, opinn uppspretta akstursíþrótta eftirlíkingar og kappakstursleikur
+org.sqlitebrowser.sqlitebrowser	DB Browser fyrir SQLite er léttur GUI ritstjóri fyrir SQLite gagnagrunna
+org.squeakland.Etoys	Lærðu með sjónrænni forritun
+org.squey.Squey	Kannaðu gögnin þín
+org.squidowl.halloy	IRC viðskiptavinur skrifaður í Rust
+org.srb2.SRB2	3D Sonic the Hedgehog aðdáendaleikur byggður á breyttri útgáfu af Doom Legacy
+org.srb2.SRB2Kart	Kart kappakstursmod byggt á 3D Sonic the Hedgehog aðdáendaleiknum Sonic Robo Blast 2
+org.srb2.SRB2Kart-galaxy	Modded SRB2Kart sem bætir við mörgum sérsniðnum eiginleikum
+org.srb2.SRB2Kart-galaxy_azerty	Modded SRB2Kart sem bætir við mörgum sérsniðnum eiginleikum með azerty frönsku lyklaborðsskipulagi
+org.srb2.SRB2Kart-Saturn	Modded SRB2Kart sem bætir við mörgum sérsniðnum eiginleikum
+org.srb2.SRB2Persona	Persónu-innblásið mod byggt á 3D Sonic the Hedgehog aðdáendaleiknum Sonic Robo Blast 2
+org.standardnotes.standardnotes	Einfaldur og einkastaður fyrir glósur þínar, hugsanir og lífsstarf
+org.stellarium.Stellarium	Skjáborðsstjörnuver
+org.stochas.Stochas	Stochas röðunartæki
+org.strawberrymusicplayer.strawberry	Tónlistarspilari og safn skipuleggjandi
+org.subsurface_divelog.Subsurface	Stjórna og sýna köfunartölvugögn
+org.subtitld.Subtitld	Subtitld er hugbúnaður til að búa til og breyta texta
+org.sugarlabs.AbacusActivity	Tól fyrir einfalda reiknireikninga
+org.sugarlabs.Chart	Búðu til töflurnar þínar
+org.sugarlabs.Chess	Ljúf skák
+org.sugarlabs.ColorDeducto	Leikur byggður á rökrænni innleiðslu
+org.sugarlabs.Dimensions	Leikur sem passar við mynstur
+org.sugarlabs.Finance	Lærðu grunnatriði fjárhagsáætlunargerðar
+org.sugarlabs.FotoToon	Búðu til þína eigin myndasögu
+org.sugarlabs.FractionBounce	Leikur um brot
+org.sugarlabs.ImplodeActivity	Sprengdu kubba af sama lit þar til þeir eru allir horfnir
+org.sugarlabs.Maze	Einfaldur völundarhús leikur
+org.sugarlabs.Measure	Oscilloscope forrit til að sjá hljóðnemainntak
+org.sugarlabs.Memorize	Finndu pör sem passa
+org.sugarlabs.MusicBlocks	Safn verkfæra til að kanna grundvallaratriði tónlistarhugtök á skemmtilegan hátt.
+org.sugarlabs.MusicKeyboard	Spilaðu tónlist með þessu píanólyklaborði
+org.sugarlabs.Paint	Ljúft málaraverkfæri
+org.sugarlabs.Physics	Sannaðu að Sir Isaac Newton sé rétt
+org.sugarlabs.Pippy	Talaðu við tölvuna þína í Python
+org.sugarlabs.Pukllanapac	Renna-þrautaleikur
+org.sugarlabs.ReadETexts	Lestu þúsundir ókeypis rafbóka
+org.sugarlabs.Sliderule	Vélræn reiknivél
+org.sugarlabs.SolarSystem	Lærðu um pláneturnar
+org.sugarlabs.Speak	Fjörugt andlit sem talar hvað sem þú skrifar
+org.sugarlabs.StoryActivity	Segðu sögu
+org.sugarlabs.SwiftFeet	Farðu á fætur og dansaðu!
+org.sugarlabs.TurtlePondActivity	Umkringdu skjaldbökuna áður en hún rennur af skjánum
+org.sugarlabs.Words	Fjöltyng ótengd orðabók
+org.supertuxproject.SuperTux	Stökk-og-hlaup leikur með Tux the Penguin í aðalhlutverki
+org.surge_synth_team.surge-xt	Surge XT Synthesizer sjálfstæður
+org.synfig.SynfigStudio	Búðu til og breyttu 2D hreyfimyndum og tónverkum
+org.syphon.Syphon	spjallaðu með friðhelgi þína og frelsi ósnortið
+org.tabos.maxcontrol	Stýrihugbúnaður fyrir Max! tæki
+org.tabos.roger	Dagbók, Fax-hugbúnaður og Símtalsskjár fyrir AVM FRITZ!Box eða samhæft
+org.tabos.saldo	Athugaðu bankareikningana þína
+org.tabos.twofun	Snertibundinn viðbragðsleikur fyrir tvo leikmenn.
+org.taisei_project.Taisei	Bullet hell shoot 'em up leikur sem gerist í Tōhō alheiminum
+org.telegram.desktop	Hratt. Öruggt. Öflugur.
+org.telesculptor.TeleSculptor	Ljósmyndafræði hönnuð með áherslu á loftmyndband
+org.tenacityaudio.Tenacity	Taktu upp og breyttu hljóðskrám
+org.texstudio.TeXstudio	LaTeX ritstjóri
+org.thentrythis.Samplebrain	Sérsniðið sýnishornsmöppunarapp hannað af Aphex Twin
+org.thonny.Thonny	Python IDE fyrir byrjendur
+org.tigervnc.vncviewer	Tengstu við VNC netþjón og sýndu ytra skrifborð
+org.tildearrow.furnace	Opinn uppspretta chiptune rekja spor einhvers
+org.tomviz.Tomviz	Ókeypis og opinn uppspretta tomographic visualization á nanóskala efnum
+org.tordini.flavio.Minitube	YouTube app
+org.torproject.torbrowser-launcher	Forrit sem hjálpar þér að hlaða niður, halda þér uppfærðum og keyra Tor vafrabúntið
+org.tribler.Tribler	Í átt að því að gera Bittorrent nafnlaust og ómögulegt að leggja niður.
+org.tropy.Tropy	Skoðaðu rannsóknarmyndirnar þínar
+org.tryton.Tryton-68	Viðskiptavinur fyrir Tryton umsóknarvettvanginn
+org.tryton.Tryton-70	Viðskiptavinur fyrir Tryton umsóknarvettvanginn
+org.tug.texworks	Einfalt umhverfi til að breyta, setja inn og forskoða TeX skjöl
+org.turbowarp.TurboWarp	Scratch mod með þýðanda til að keyra verkefni hraðar, dimma stillingu, fullt af viðbótum og fleira
+org.tuxemon.Tuxemon	Tuxemon er ókeypis, opinn uppspretta skrímsli-bardaga RPG.
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon keppinautur
+org.tuxfamily.StuntRally	Kappakstursleikur með rally akstursstíl
+org.tuxfamily.XMoto	2D motocross vettvangsleikur
+org.tuxpaint.Tuxpaint	Teikniforrit fyrir krakka
+org.tvbrowser.TVBrowser	Ókeypis EPG
+org.twinery.Twine	Twine er opinn hugbúnaður til að segja gagnvirkar, ólínulegar sögur
+org.ultimatepp.TheIDE	IDE fyrir þverpalla U++ forritaþróunarramma
+org.unitystation.StationHub	Sjósetja fyrir opinn uppspretta leikinn Unitystation
+org.unknown_horizons.UnknownHorizons	Opinn uppspretta rauntíma hagkerfishermunarleikur
+org.upnproutercontrol.UPnPRouterControl	Einfalt forrit sem stjórnar UPnP samhæfðum beinum
+org.upscayl.Upscayl	Ókeypis og opinn uppspretta AI Image Upscaler
+org.v1993.NXDumpClient	Viðskiptavinur fyrir undirboð yfir USB með nxdumptool
+org.verapdf.veraPDF	veraPDF er skráarsniðsprófari fyrir PDF/A skjalavistunarstaðal
+org.vergecurrency.verge-qt	VergeCurrency, öruggur og notendavænn stafrænn gjaldmiðill.
+org.vertcoin.vertcoin-qt	Fullgildir Vertcoin jafningi-til-jafningi nethnút, veski og GUI
+org.videolan.VLC	VLC fjölmiðlaspilari, opinn margmiðlunarspilari
+org.viking.Viking	GPS Data Editor og Analyzer
+org.vim.Vim	Textaritillinn sem er alls staðar nálægur
+org.vinegarhq.Vinegar	Lítill og hraðvirkur stígvél fyrir Roblox
+org.virt_manager.virt-viewer	Fjaraðgangur sýndarvélar
+org.virtualxt.VirtualXT	Turbo PC/XT keppinautur
+org.wesnoth.Wesnoth	Snúningsbundinn herkænskuleikur með miklu fantasíuþema
+org.wezfurlong.wezterm	GPU-hröðun þvert á palla flugstöðvahermi og multiplexer
+org.wfview.wfview	Open Source tengi fyrir Icom senditæki
+org.widelands.Widelands	Uppbyggingartæknileikur í rauntíma
+org.winehq.Wine	Keyra Windows forrit á Linux, BSD, Solaris og Mac OS X
+org.wireshark.Wireshark	Wireshark er fremsti samskiptagreiningartæki heims
+org.worldpossible.ScriptLauncher	Tól til að keyra skeljaforskriftir með rótarréttindi
+org.wxhexeditor.wxHexEditor	Háþróaður stór skrá hex ritstjóri
+org.xfce.mousepad	Mousepad er einfaldur textaritill fyrir Xfce skjáborðsumhverfið
+org.xfce.ristretto	Hratt og léttur myndskoðari
+org.xiphos.Xiphos	Leiðbeiningar um biblíunám
+org.xnec2c.Xnec2c	Margþráð EM tól byggt á NEC2 til að líkja loftnetsgeislumynstur
+org.xonotic.Xonotic	Fjölspilunarleikur, deathmatch stilltur fyrstu persónu skotleikur
+org.x.Warpinator	Senda og taka við skrám um netið
+org.yamagi.YamagiQ2	Yamagi Quake II er annar viðskiptavinur fyrir Quake II frá id Software
+org.yuzu_emu.yuzu	Nintendo Switch keppinautur
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) er vinsælt ókeypis öryggistæki.
+org.zdoom.GZDoom	Klassísk fyrstu persónu skotvél fyrir alla klassíska Id leiki
+org.zealdocs.Zeal	Skjalavafri
+org.zim_wiki.Zim	Skrifaðu glósur í skrifborðs wiki
+org.zirael.bkchem.BKChem	Sameindateikniforrit
+org.zotero.Zotero	Safna, skipuleggja, vitna í og deila rannsóknum
+org.zrythm.Zrythm	Stafræn hljóðvinnustöð
+org.zulip.Zulip	Zulip Desktop Client fyrir Linux
+page.codeberg.DrRac27.Karoto	Innkaupalistaforrit fyrir Linux farsíma
+page.codeberg.Imaginer.Imaginer	Ímyndaðu þér með gervigreind
+page.codeberg.JakobDev.CCLite	ComputerCraft keppinautur
+page.codeberg.JakobDev.jdAnimatedImageEditor	Einfalt forrit til að búa til hreyfimyndir
+page.codeberg.JakobDev.jdAppStreamEdit	Myndrænt forrit til að búa til og breyta AppStream skrám
+page.codeberg.JakobDev.jdDBusDebugger	Háþróaður D-Bus kembiforrit
+page.codeberg.JakobDev.jdDesktopEntryEdit	Myndrænt forrit til að búa til og breyta skrifborðsfærslum
+page.codeberg.JakobDev.jdDiff	Grafískur áhorfandi á mismunandi vettvangi
+page.codeberg.JakobDev.jdEolConverter	Breytir lok línu allra skráa í möppu
+page.codeberg.JakobDev.jdFlatpakSnapshot	Forrit til að búa til skyndimyndir af Flatpak öppum
+page.codeberg.JakobDev.jdMinecraftLauncher	Klassískt Minecraft Launcher
+page.codeberg.JakobDev.jdMrpackInstaller	Settu upp Modrinth modpacks
+page.codeberg.JakobDev.jdNBTExplorer	Ritstjóri fyrir Minecraft NBT skrár
+page.codeberg.JakobDev.jdPixelUpscaler	Hágæða myndir á pixla
+page.codeberg.JakobDev.jdProcessFileWatcher	Fylgstu með og sýndu rauntíma skráaaðgang fyrir hvaða ferli sem er
+page.codeberg.JakobDev.jdReplace	Með jdReplace geturðu skipt út texta í öllum skrám möppu
+page.codeberg.JakobDev.jdSimpleAutostart	Breyta færslum sjálfvirkrar ræsingar
+page.codeberg.JakobDev.jdTextEdit	Háþróaður textaritill
+page.codeberg.lazyt.ubpm	Stjórna blóðþrýstingsgögnum
+page.codeberg.libre_menu_editor.LibreMenuEditor	Sérsníða valmyndina
+page.codeberg.papojari.Find_Billy	Pixel art 2d platformer leikur.
+page.codeberg.Qwel.egui_picross	Grunnleikur picross, nonogram, griddler
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita Leikur með þema í kringum hund
+page.codeberg.tpikonen.geobug	Athugaðu staðsetningu þína og vistaðu hana á GPX lag
+page.codeberg.tpikonen.satellite	Athugaðu GPS móttökuna þína og vistaðu lögin þín
+page.codeberg.yeldham.Librerama	Ókeypis/frítt hraðskreiða spilakassasafn af smáleikjum
+party.supertux.supertuxparty	Veisluleikur með FLOSS lukkudýr í aðalhlutverki
+pl.art.lach.slawek.V2BlankBrowser	Web Browser, sem ekki rusl skjár
+pl.nieto.fityk	Ólínuleg ferilfesting og gagnagreining
+pl.youkai.lanchat	LAN spjall og skráaflutningur
+pl.youkai.nscan	Netskanni.
+pm.mirko.Atoms	Stjórna Chroot og ílátum.
+pro.vpup.vpuppr	VTuber forrit gert með Godot 3.4
+radio.k0swe.Kel_Agent	Útvarpsáhugamaður á vefnum
+re.chiaki.Chiaki	Ókeypis og opinn hugbúnaður fyrir PlayStation Remote Play
+re.rizin.cutter	Ókeypis og opinn uppspretta Reverse Engineering pallur knúinn af Rizin og Qt
+re.sonny.Commit	Skuldbinda skilaboð ritstjóri
+re.sonny.Junction	Umsóknarval
+re.sonny.OhMySVG	Minnka stærð SVG
+re.sonny.Playhouse	Leikvöllur fyrir HTML/CSS/JavaScript
+re.sonny.Retro	Sérhannaðar retro stafræn klukka
+re.sonny.Tangram	Vafri fyrir festu flipa þína
+re.sonny.Workbench	Lærðu og frumgerð með GNOME tækni
+rest.insomnia.Insomnia	Open Source API viðskiptavinur og hönnunarvettvangur fyrir GraphQL, REST og gRPC.
+rocks.koreader.KOReader	Skjalaskoðari fyrir DjVu, PDF, EPUB og fleira
+ro.fxdata.taskmonitor.viewer	Sýndu TaskMonitor gögn
+ro.go.hmlendea.DL-Desktop	Óopinber skrifborðsforrit fyrir tungumálanámsforritið Duolingo
+ro.go.hmlendea.SokoGrump	Sokoban-líkur rökfræði leikur með Grumpy Cat
+ro.hume.cosmin.ShoppingList	Innkaupalistaforrit fyrir GNU/Linux farsíma
+ru.proninyaroslav.libretrack	Einkaforrit fyrir pakkanakningar á milli vettvanga
+ru.sview.sView	Stereoscopic Media Player
+ru.yandex.Browser	Vefvafri frá Yandex
+sa.sy.bluerecorder	Einfaldur skjáupptökutæki fyrir Linux skjáborð. Styður Wayland & Xorg
+se.cendio.tlclient	Linux ytri skrifborðsþjónninn byggður á opnum hugbúnaði
+se.emijoh.mpw	Reiknaðu lykilorð vefsvæðis þegar þú þarft á því að halda.
+se.manyver.Manyverse	dreifð félagslegt net
+se.sjoerd.GIScan	Lestu og greindu GISAXS gögn sem eru geymd á cbf sniði
+se.sjoerd.Graphs	Teikna og vinna með gögn
+sh.cider.Cider	Opinn uppspretta og samfélagsmiðaður Apple Music viðskiptavinur
+sh.fhs.KatawaShoujoReEngineered	Nútímaleg útgáfa af klassískri sjónrænni skáldsögu í bishoujo-stíl
+sh.ppy.osu	Rhythm leikur sem er ókeypis til að vinna. Rhythm er bara *smell* í burtu!
+sh.xaviers.Opentapes	Hlustaðu á Hip-Hop mixtapes
+si.tano.Vremenar	Sýndu veðurskilyrði og veðurspá á korti á fljótlegan og einfaldan hátt
+site.someones.Lonewolf	Skipuleggðu og fylgdu verkefnum þínum með auðveldum og sveigjanleika
+sm.puri.Chatty	Skilaboðaforrit fyrir farsíma og skjáborð
+social.whalebird.WhalebirdDesktop	Whalebird er Mastodon, Pleroma og Misskey viðskiptavinur fyrir skjáborðið
+so.libdb.gtkcord4	GTK4 Discord viðskiptavinur í Go
+so.onekey.Wallet	Allt-í-einn dulritunarveski.
+space.fips.Fips	OpenGL-undirstaða FITS myndskoðari
+space.nouspiro.tenmon	FITS/XISF myndskoðari, breytir, vísitölu og leit
+studio.kx.carla	Gestgjafi fyrir hljóðviðbót
+tech.feliciano.pocket-casts	Podcast spilari á netinu
+tk.deat.Jazz2Resurrection	Endurútfærsla á Jazz Jackrabbit 2
+tr.gov.uyap.Editor	UYAP Document Editor er forrit til að sýna og búa til UDF skjöl í UYAP kerfi.
+tv.kodi.Kodi	Fullkomin afþreyingarmiðstöð
+tv.plex.PlexDesktop	Plex viðskiptavinur fyrir borðtölvur
+tv.plex.PlexHTPC	Plex HTPC viðskiptavinur fyrir stóra skjáinn
+tw.ddnet.ddnet	Erfiðasta samstarfsverkefni 2D platformer alltaf
+ua.org.brezblock.q4wine	Tól fyrir vínforrit og forskeytistjórnun
+uk.co._69_studios.kublit	Glænýr frumlegur ráðgáta leikur frá 69 Studios
+uk.co.electronstudio.ComicReaderUltimate	Áhugasamur CBZ áhorfandi
+uk.co.mangobrain.Infector	Spilaðu hið klassíska tveggja til fjögurra manna borðspil Ataxx
+uk.co.parallelrealities.games.edgar	2D ævintýravettvangsleikur
+uk.co.powdertoy.tpt	Sandkassaleikur í eðlisfræði
+uk.et1.big-finish-downloader	GTK app til að hlaða niður Big Finish safninu þínu
+uk.jnthn.backgammony	Kotra framhlið með fjölspilunarstuðningi
+uk.me.doof.Lander	Lunar Lander spilakassaleikur í stíl.
+uk.org.greenend.chiark.sgtatham.putty	SSH, Telnet og Rlogin viðskiptavinur
+uk.org.greenend.chiark.sgtatham.puzzles	Þrautaleikjasafn
+uk.org.zint.zint-qt	Strikamerki rafall
+us.ihmc.cmap.CmapTools	Leyfir notendum að búa til og deila hugtakakortum.
+us.zoom.Zoom	Vídeófundur, veffundur, veffundur, skjádeild
+vet.rsc.OpenRSC.Launcher	Sjósetja fyrir Open RuneScape Classic Servers
+vn.hoabinh.quan.CoBang	QR kóða skanni fyrir Linux skjáborð
+website.i2pd.i2pd	Ósýnilegt internet
+work.openpaper.Paperwork	Persónulegur skjalastjóri
+ws.openarena.OpenArena	Ókeypis og opinn fyrstu persónu skotleikur
+xyz.aguno.CubeTimer	Eins og StackMat en fyrir Linux
+xyz.armcord.ArmCord	ArmCord er sérsniðinn viðskiptavinur hannaður til að auka Discord upplifun þína á meðan allt er létt.
+xyz.audiostellar.AudioStellar	AI-knúinn tilraunasýnistæki
+xyz.eclipium.Hieroctive	Fyndinn minnisleikur til að læra myndmerki!
+xyz.eclipium.TetraSwap	Einfaldur en krefjandi framúrstefnulegur ráðgáta leikur!
+xyz.hyperplay.HyperPlay	Web3 leikjaforrit frá framtíðinni. Farðu með veskið þitt, NFT, tákn og afrek í hverjum leik.
+xyz.ketok.Speedtest	Mældu nettengingarhraðann þinn
+xyz.kusma.aurora	Aurora eftir Excess
+xyz.ljoonal.neospeeps	Létt forrit sem sýnir NeosVR kíki og lotur
+xyz.mx_moment.moment	Matrix viðskiptavinur sem er sérhannaður og hægt að nota á lyklaborði
+xyz.rescribe.rescribe	Hágæða OCR fyrir myndir, PDF skjöl og Google bækur.
+xyz.safeworlds.hiit	Tímamælir fyrir hástyrktar millibilsþjálfun
+xyz.safeworlds.midiconn	Sýndar MIDI miðstöð
+xyz.slothlife.Jogger	Fitness rekja spor einhvers
+xyz.splashmapper.Splash	Hugbúnaður til að kortleggja myndband
+xyz.stuerz.BilligSweeper	Ódýr klón af Minesweeper
+xyz.tytanium.DoorKnocker	Athugaðu framboð á gáttum
+xyz.woxel.Woxel	Open Source 3D voxel ritstjóri í ætt við Minecraft
+xyz.xclicker.xclicker	Fljótur gui sjálfvirkur smellur fyrir x11 linux skjáborð
+xyz.z3ntu.razergenie	Stilltu og stjórnaðu Razer tækjunum þínum

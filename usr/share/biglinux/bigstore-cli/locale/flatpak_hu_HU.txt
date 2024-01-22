@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Jelszókezelő: Óvja jelszavait minden platformon és eszközön
+app.bbsync.BlackboardSync	Töltse le a Blackboard Learn tartalmat készülékére
+app.bluebubbles.BlueBubbles	BlueBubbles kliens Linuxhoz
+app.cantara.Cantara	Egyszerű, könnyű, de erőteljes program dalbemutatóhoz templomokban, kis csoportokban vagy karaoke bulikon.
+app.drey.Biblioteca	Dokumentációnézegető a GNOME-hoz
+app.drey.Blurble	Szokitaláló játék
+app.drey.Damask	Háttérképek automatikus beállítása internetes forrásokból
+app.drey.Dialect	Fordítás nyelvek között
+app.drey.EarTag	Hangfájl címkék szerkesztése
+app.drey.Elastic	Rugós animációk tervezése
+app.drey.KeyRack	Alkalmazástitkok megtekintése és szerkesztése
+app.drey.MultiplicationPuzzle	Oldj meg egy matematikai rejtélyt
+app.drey.Warp	Gyors és biztonságos fájlátvitel
+app.feeddeck.feeddeck	Kövesse RSS és közösségi média hírcsatornáit
+app.getclipboard.Clipboard	Bármit, bármikor és bárhol kivághat, másolhat és beilleszthet
+app.getspace.Space	Szóközök szerinti ismétlés a kártyákhoz
+app.gummi.gummi	Az egyszerű LaTeX szerkesztő
+app.kaiteki.Kaiteki	Kényelmes SNS kliens mindenhez, mindenhol
+app.lith.Lith	WeeChat Relay Client
+app.midterm.MidtermDesktop	Ingyenes jegyzetkészítő alkalmazás tanuláshoz.
+app.moosync.moosync	Testreszabható zenelejátszó
+app.organicmaps.desktop	Ingyenes offline térképalkalmazás utazók, turisták, túrázók, sofőrök és kerékpárosok számára
+app.rednotebook.RedNotebook	Grafikus napló és napló
+app.riftshare.RiftShare	Egyszerű, biztonságos, ingyenes fájlmegosztás. Platformok közötti fájlmegosztás mágikus féreglyuk segítségével
+app.vup.Vup	Nyílt forráskódú, végpontokig titkosított felhőalapú tárolási alkalmazás integrált médiaszerverrel
+app.xemu.xemu	Eredeti Xbox emulátor
+app.ytmdesktop.ytmdesktop	Ingyenes többplatformos asztali lejátszó a YouTube Musichoz
+app.ywallet.Ywallet	Könnyű pénztárca Ycash és Zcash számára
+ar.com.pilas_engine.App	Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida
+ar.com.softwareperonista.Rockarrolla	Jukebox-szerű zenelejátszó
+ar.com.tuxguitar.TuxGuitar	A TuxGuitar egy ingyenes és nyílt forráskódú tablatúraszerkesztő.
+art.taunoerik.tauno-monitor	Egyszerű, önálló soros portos monitor.
+art.taunoerik.tauno-serial-plotter	Egyszerű soros plotter Arduino és más hasonló eszközök számára.
+ar.xjuan.Cambalache	GTK felhasználói felületek létrehozása
+at.priv.toastfreeware.ConfClerk	A ConfClerk egy olyan alkalmazás, amely offline módban is elérhetővé teszi a konferencia menetrendjét
+at.ssh_mitm.server	SSH-MITM – az ssh ellenőrzések egyszerűvé teszik
+at.vintagestory.VintageStory	Vadon túlélési homokozó játék
+au.edu.uq.esys.escript	Az esys-escript egy python modul matematikai modellek megvalósításához végeselem módszerrel
+br.app.pw3270.terminal	Hozzáférés a TN3270 gazdagépekhez
+br.com.gualandi.Xjump	Egy ugráló játék modern grafikus rendszerekhez
+br.gov.cti.invesalius	3D orvosi képalkotó rekonstrukciós szoftver
+br.gov.fazenda.receita.irpf2022	Adja be az adókat Brazíliában
+br.gov.fazenda.receita.irpf2023	Adja be az adókat Brazíliában
+ca._0ldsk00l.Nestopia	Egy Nintendo Entertainment System emulátor
+ca.desrt.dconf-editor	Grafikus eszköz a dconf adatbázis szerkesztéséhez
+cafe.avery.Delfin	Streameljen filmeket és tévéműsorokat a Jellyfintől
+ca.hamaluik.Timecop	Egy időkövető alkalmazás, amely tiszteletben tartja a magánéletét, és anélkül végzi el a munkát, hogy túlságosan felkapaszkodna
+ca.littlesvr.asunder	Az Asunder egy grafikus audio CD-ripper és kódoló
+camp.nook.nookdesktop	A Nook egy olyan alkalmazás, amely óránként lejátssza az Animal Crossing témákat.
+ca.parallel_launcher.ParallelLauncher	Modern N64 emulátor
+cat.xtec.clic.JClic	Oktatási tevékenységek és játékok iskolai tanulók és pedagógusok számára
+ca.uwaterloo.Raven	Modellező keretrendszer a vízgyűjtő-hidrológia szimulálására
+cc.arduino.arduinoide	Nyílt forráskódú elektronikai prototípus-készítő platform
+cc.arduino.IDE2	Nyílt forráskódú elektronikai prototípus-készítő platform
+cc.craftos_pc.CraftOS-PC	Fejlett ComputerCraft emulátor
+cc.craftos_pc.CraftOS-PC-Accelerated	Fejlett ComputerCraft emulátor
+cc.nift.nsm	Dinamikus és statikus webhelygenerátor
+cc.retroshare.retroshare-gui	Biztonságos kommunikáció mindenki számára
+cern.root.ROOT	Adatelemzési keretrendszer
+chat.delta.desktop	Delta Chat e-mail alapú üzenetküldő
+chat.quadrix.Quadrix	Minimális, egyszerű, többplatformos chat-kliens a Matrix protokollhoz
+chat.revolt.RevoltDesktop	Revolt asztali alkalmazás
+chat.rocket.RocketChat	Nyílt forráskódú csapatkommunikáció
+chat.schildi.desktop	A SchildiChat egy Matrix kliens, amely az Elementre épül, és hagyományosabb azonnali üzenetküldési élményt nyújt.
+chat.tandem.Client	Virtuális iroda távoli csapatok számára
+ch.imatt.ClipQR	QR-kódok beolvasása a képernyőn és a kamerából.
+ch.openboard.OpenBoard	Interaktív tábla iskolák és egyetemek számára
+ch.protonmail.protonmail-bridge	Zökkenőmentesen titkosítja és visszafejti a leveleit, amint azok belépnek és elhagyják a számítógépet
+ch.protonmail.protonmail-import-export-app	Importáljon e-maileket biztonságos ProtonMail postafiókjába, vagy készítsen offline biztonsági másolatot az Import-Export alkalmazással.
+ch.theologeek.Manuskript	Nyílt forráskódú eszköz írók számára
+ch.threema.threema-web-desktop	A Threema for desktop egy asztali kliens a Threema számára, egy adatvédelemre összpontosító, végpontok közötti titkosított mobil üzenetküldőhöz, amelyet Svájcban tárolnak és fejlesztettek ki. NEM HIVATALOS CSOMAG.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Játssz a Minecrafttal, és alkosd meg saját világodat!
+ch.x29a.playitslowly	Zene lejátszása eltérő sebességgel
+cn.lceda.LCEDAPro	Egy egyszerűbb és hatékonyabb online nyomtatott áramkör-tervező eszköz
+cn.navclub.ldbfx	Vizuális adatbázis-kezelő eszköz
+cn.ottercorp.xivlaunchercn	Indító és zökkenőmentes Linux-integráció a Final Fantasy XIV Online-hoz (kínai verzió)
+cn.xfangfang.wiliwili	Harmadik féltől származó Bilibili kliens, amelyet kifejezetten vezérlő felhasználók számára terveztek
+codes.loers.Karlender	Kezelje ütemtervét
+codes.loers.Punchclock	Kövesse nyomon a feladataihoz szükséges időt.
+codes.merritt.adventurelist	Teendőlista, amely szinkronizálódik az összes eszközével
+codes.merritt.bargain	Könnyen összehasonlíthatja a tételeket vásárláskor
+codes.merritt.FeelingFinder	Gyors és gyönyörű hangulatjel-választó
+codes.merritt.Nyrna	A játékok és alkalmazások felfüggesztése
+codes.nora.gDiceRoller	Dobj sokféle formájú és méretű kockát minden lehetséges kombinációban.
+co.headsetapp.headset	Fejhallgató. Fedezz fel és gyűjts zenét a YouTube-on.
+co.luoja.Telyn	Vizuális szerkesztő parametrikus varrásmintákhoz
+com.abagames.noiz2sa	Egy frenetikus absztrakt lövöldözős játék
+com.abagames.rRootage	Győzd le az automatikusan létrehozott hatalmas csatahajókat.
+com.abisource.AbiWord	Egy szövegszerkesztő
+com.adamcake.Bolt	Nyílt forráskódú, harmadik féltől származó Jagex indító
+com.adilhanney.ricochlime	Kielégítő szörnylövő
+com.adilhanney.saber	A kézíráshoz készült jegyzetalkalmazás
+com.adilhanney.super_nonogram	Oldj meg korlátlan számú, eljárásilag generált nonogram rejtvényt!
+com.adilhanney.timing	Tanulja meg azonosítani a másodperc alatti időintervallumokat
+com.adobe.Flash-Player-Projector	Lejátszó az Adobe Flash segítségével létrehozott tartalomhoz
+com.adobe.Reader	PDF-nézegető
+com.adrienplazas.Metronome	A tempó tartása
+com.agatanawrot.karambola	Segíts Karambolának abban a küldetésében, hogy megmentse érzelmi gyümölcsös barátait a sötét gondolatok hatalmától ebben a rövid, kézzel rajzolt point-and-click rejtvényes kalandban.
+com.agateau.nanonote	Egy minimalista jegyzetelési alkalmazás.
+com.agateau.PixelWheels	A Pixel Wheels egy retro, felülről lefelé irányuló versenyjáték.
+com.airtame.Client	Az Airtame egy vezeték nélküli adatfolyam-megoldás
+com.albiononline.AlbionOnline	MMORPG nyílt középkori fantasy játék
+com.alientrap.nexuiz-classic	Többjátékos első személyű lövöldözős játék
+com.alovoa.alovoa-electron	Nyílt forráskódú online társkereső alkalmazás
+com.amazon.Workspaces	Bárhol, bármikor, bármilyen eszközről elérheti asztalát
+com.ampl.ide	Egyszerű és áttekinthető továbbfejlesztett modellező felület AMPL felhasználók számára
+com.anydesk.Anydesk	Csatlakozás távolról számítógéphez
+com.arteeh.Flasher	Egy egyszerű alkalmazás a PineTime okosóra ST-Link segítségével történő villogtatásához
+com.arviceblot.eso-addon-manager	A The Elder Scrolls Online többplatformos, nem hivatalos addonkezelője.
+com.atlauncher.ATLauncher	A Minecraft indítóprogramja, amely több különböző modpackot integrál, lehetővé téve a modpackok egyszerű és gyors letöltését és telepítését.
+com.authy.Authy	Twilio Authy kétfaktoros hitelesítési asztali alkalmazás
+com.avocode.Avocode	Adja le és vizsgálja meg a terveket
+com.axosoft.GitKraken	Repokezeléshez, alkalmazáson belüli kódszerkesztéshez és problémakövetéshez.
+com.baidu.NetDisk	Baidu Netdisk asztali kliens
+com.bambulab.BambuStudio	Készítsen tökéletes 3D-nyomatokat!
+com.basemark.BasemarkGPU	GPU teljesítményértékelési eszköz
+com.behringer.XAirEdit	Behringer XR keverők felhasználói felület
+com.belmoussaoui.ashpd.demo	Játssz a portálokkal
+com.belmoussaoui.Authenticator	Kétlépcsős kódok előállítása
+com.belmoussaoui.Decoder	QR-kódok beolvasása és előállítása
+com.belmoussaoui.Obfuscate	Személyes információk cenzúrázása
+com.belmoussaoui.ReadItLater	Webes cikkek mentése és olvasása
+com.belmoussaoui.snowglobe	Virtualization viewer using QEMU over DBus
+com.biglybt.BiglyBT	Feature filled, open source, ad-free, bittorrent client
+com.bitwarden.desktop	A secure and free password manager for all of your devices
+com.bitwig.BitwigStudio	Modern music production and performance
+com.bixense.PasswordCalculator	Calculate strong passwords for each alias from your single secret
+com.bjareholt.johan.SimpleDiary	Simple and lightweight diary app
+com.bktus.gpgfrontend	An OpenPGP Crypto Tool
+com.bladecoder.adventure-editor	Classic point and click adventure game engine and editor
+com.blitterstudio.amiberry	An Amiga emulator for Linux
+com.blockstream.Green	A simple and secure Bitcoin and Liquid Network wallet
+com.borgbase.Vorta	Backup client
+com.boxy_svg.BoxySVG	Scalable Vector Graphics editor
+com.brave.Browser	The web browser from Brave
+com.brosix.Brosix	An all-in-one, secure instant messenger
+com.budgetwithbuckets.Buckets	Quick, simple and private family budgeting app
+com.calibre_ebook.calibre	Minden egy helyen, amire csak szüksége lehet
+com.carpeludum.KegaFusion	An emulator for Sega 8 and 16-bit consoles
+com.cassidyjames.butler	Társ az otthoni asszisztenshez
+com.cassidyjames.plausible	Egyszerű és adatvédelmi szempontból kímélő alternatíva a Google Analytics helyett
+com.cburch.Logisim	Logisim egy grafikus eszköz logikai áramkörök tervezésére és szimulálására
+com.chatterino.chatterino	Csevegő kliens a twitch.tv számára
+com.chez.GrafX2	256 színű rajzolásra specializálódott bittérképes festőprogram
+com.chmouel.gnomeNextMeetingApplet	Mutassa meg a következő eseményeit a panelen
+com.chowdsp.BYOD	BYOD: Bring Your Own Distortion, Standalone
+com.chroniclogic.Zatikon	Sakkszerű, fantáziajáték az ellenség várának meghódításáról
+com.clarahobbs.chessclock	Mérje a sakkjátszmák idejét
+com.claudiocambra.brickbuster	Egy téglatörő játék, szórakoztató és addiktív!
+com.cocoatech.deckr	A Deckr chrome beépülő modullal használt asztali alkalmazás
+com.codemouse92.timecard	Szépen nyomon követheti az időt.
+com.coeck_studios.Dinonuggys-Journey	Egy pixel art 2d platformer játék.
+com.corsixth.corsixth	A Theme Hospital nyílt forráskódú klónja
+com.cuperino.qprompt	Személyes teleprompter szoftver minden videó készítő számára
+com.daidouji.oneko	cica, amely követi az egérmutató játékát az asztalon
+com.darhon.drfinance	Kezelje személyes fiókjait
+com.darhon.syncbackup	Biztonsági mentés és tükrözés a meghajtókról
+com.dec05eba.gpu_screen_recorder	Árnyjáték-szerű képernyőrögzítő Linuxra. A leggyorsabb képernyőrögzítő Linuxra
+com.dhsdevelopments.Climaxima	Maxima CAS kezelőfelülete
+com.diffingo.fwbackups	Funkciókban gazdag, felhasználóbarát biztonsági mentési program
+com.discordapp.Discord	Üzenetküldő, hang- és videokliens
+com.diy_fever.DIYLayoutCreator	Áramköri elrendezés tervező eszköz, amely támogatja a nyomtatott áramköri lapokat, a vero-táblát, a pont-pont, a perf-kártyát és a gitár kapcsolási rajzokat
+com.djoffe.gnukem	Retro stílusú 2D görgető platform lövöldözős játék
+com.dosbox.DOSBox	x86/DOS emulátor hanggal és grafikával
+com.dosbox_x.DOSBox-X	x86/DOS emulátor hanggal és grafikával
+com.doycho.euterpe.gtk	Médialejátszó kliens az Euterpe médiaszerverhez.
+com.dreamsourcelab.DSView	Nyílt forráskódú többfunkciós hangszer mindenki számára
+com.dropbox.Client	Bármilyen számítógépről elérheti fájljait
+com.eduke32.EDuke32	Az EDuke32 egy fantasztikus, ingyenes homebrew játékmotor
+com.ekonomikas.merkato	Kövesse nyomon a befektetéseit
+com.elsevier.MendeleyDesktop	Mendeley egy ingyenes referenciamenedzser és egy tudományos közösségi hálózat
+com.eminfedar.vaktisalah	a Cross-Platform Prayer Times alkalmazás
+com.emqx.MQTTX	Elegáns, többplatformos MQTT 5.0 asztali kliens
+com.endlessm.photos	Könnyen szerkesztheti és megoszthatja kedvenc fényképeit
+com.endlessnetwork.aqueducts	Egy magával ragadó kirakós kalandjáték, amelyben feltöröd magad, hogy megmentsd a napot!
+com.endlessnetwork.dragonsapprentice	Egy olyan RPG, mint a rejtvényfejtő kazamatában mászó játék, és még sok más!
+com.endlessnetwork.fablemaker	Lépjen be Aesopus meséinek világába, mint még soha! Interaktív történetek, amelyekben személyre szabhatja a karaktereket, szövegeket és hangokat, feltörve a kódját ebben az elnyelő és oktató alkalmazásban.
+com.endlessnetwork.frogsquash	Egy addiktív crossy roads játék egy csavarral
+com.endlessnetwork.MidnightmareTeddy	Lődd le és éld túl
+com.endlessnetwork.missilemath	Repülőgépes lövöldözős játék
+com.endlessnetwork.passage	Hadd végig magad ezen az oldalsó görgetős akció-kaland lövöldözős játékon
+com.endlessnetwork.tankwarriors	Vezetés, lövöldözés, robbanások és programozás – mindez egy játékban
+com.endlessnetwork.whitehouse	A CSS varázslatával feltörheti világát egy egyedülálló szín- és fényroadban, amely rejtett tárgyakat és nyomokat tár fel.
+com.enjoyingfoss.feeel	Egy egyszerű otthoni edzés/torna alkalmazás, amely tiszteletben tartja a magánéletét
+com.enjoyingfoss.Parlera	Egy társasjáték, ahol a barátaid leírják és kitalálod; Vagy fordítva
+com.epicgames.ut2004	Első személyű arénás lövöldözős játék
+com.epicgames.ut99	Első személyű arénás lövöldözős játék
+com.etlegacy.ETLegacy	ET: A Legacy egy nyílt forráskódú projekt, amely a Wolfenstein: Enemy Territory kódján alapul, amelyet 2010-ben adtak ki a GPLv3 feltételei szerint.
+com.expidusos.calculator	ExpidusOS kalkulátor
+com.expidusos.file_manager	ExpidusOS fájlkezelő
+com.feaneron.Boatswain	Az Elgato Stream Deckek vezérlése
+com.felipekinoshita.Kana	Tanuljon japán karaktereket
+com.felipekinoshita.Wildcard	Tesztelje reguláris kifejezéseit
+com.fightcade.Fightcade	Játssz arcade játékokat online.
+com.flashforge.FlashPrint	Szeletelő a FlashForge 3D nyomtatókhoz
+com.frac_tion.teleport	Fájlok megosztása a helyi hálózaton keresztül
+com.freerdp.FreeRDP	FreeRDP (Remote Desktop Protocol) kliens Linuxhoz
+com.frogatto.Frogatto	Old-school 2D platformjáték
+com.fyralabs.SkiffDesktop	Az adatvédelem elsőrendű, végpontok közötti titkosított e-mail
+com.gamestarmechanic.gamestarmechanic	Tanulj meg videojátékokat tervezni
+com.geekbench.Geekbench6	Platformok közötti rendszer-benchmark
+com.georgefb.mangareader	Manga Reader a helyi fájlokhoz
+com.georgefb.quickaccess	Globális menü, amely gyors hozzáférést biztosít a mappákhoz és az egyéni parancsokhoz.
+com.getmailspring.Mailspring	A legjobb e-mail alkalmazás az emberek és a munkacsoportok számára
+com.getpostman.Postman	Platform API-k létrehozásához és használatához
+com.ghostery.browser	Teljesen privát böngészési élmény a Ghosterytől
+com.giadamusic.Giada	A hardcore hurokgéped
+com.gigitux.youp	Whatsapp
+com.gitfiend.GitFiend	Egy emberek számára tervezett Git kliens
+com.github._0negal.Viper	A Viper a Northstar indítója és frissítője, és nem sokkal több annál.
+com.github._4lex4.ScanTailor-Advanced	Interaktív utófeldolgozó eszköz a szkennelt oldalakhoz
+com.github.ADBeveridge.Raider	Biztonságosan törölje fájljait
+com.github.afrantzis.Bless	Gtk# Hex Editor
+com.github.aharotias2.parapara	Képnézegető könyvtár nélkül
+com.github.ahrm.sioyek	PDF-nézegető, amelyet kutatási cikkek és műszaki könyvek olvasására terveztek
+com.github.alainm23.byte	Fedezze fel újra a zenéjét
+com.github.alainm23.planner	Soha többé ne aggódj amiatt, hogy elfelejtesz dolgokat
+com.github.Alcaro.Flips	Foltozó az IPS és BPS fájlokhoz
+com.github.alecaddd.sequeler	Barátságos SQL kliens
+com.github.alexhuntley.Plots	Egyszerű ábrákrajzolás
+com.github.alexkdeveloper.astronum	Program egyszerű asztrológiai és numerológiai számításokhoz
+com.github.alexkdeveloper.desktop-files-creator	Egyszerű alkalmazás asztali fájlok létrehozásához GNU/Linux rendszeren
+com.github.alexkdeveloper.dice	Egyszerű kockajáték
+com.github.alexkdeveloper.dwxmlcreator	Egyszerű dinamikus háttérkép készítő
+com.github.alexkdeveloper.easter	A katolikus húsvét dátumának kiszámítása
+com.github.alexkdeveloper.forgetpass	Egyszerű jelszógenerátor webhelyekhez
+com.github.alexkdeveloper.goldsearch	Egy játék, amelyben aranyat kell keresned
+com.github.alexkdeveloper.notepad	Könnyen készíthet szöveges jegyzeteket
+com.github.alexkdeveloper.recorder	Egyszerű hangrögzítő
+com.github.alexkdeveloper.relaxator	Lazítson a nyugtató hangokra
+com.github.alexkdeveloper.somafm	Egy egyszerű rádió beépített állomásokkal a somafm.com webhelyről
+com.github.alexkdeveloper.sudoku	Sudoku játék
+com.github.AlizaMedicalImaging.AlizaMS	DICOM néző
+com.github.AmatCoder.mednaffe	Előtér (GUI) a mednafen emulátorhoz (tartozék)
+com.github.amikha1lov.RecApp	Felhasználóbarát, GTK nyelven írt nyílt forráskódú képernyősugárzó Linuxhoz
+com.github.Anuken.Mindustry	Mindudry: egy homokozós toronyvédelmi játék
+com.github.appadeia.Taigo	A Taigo egy virtuális kisállat az asztalon
+com.github.arminstraub.krop	Eszköz a PDF-fájlok vágásához
+com.github.arshubham.cipher	Szöveg kódolása és dekódolása
+com.github.arshubham.gitignore	.gitignore hivatkozás a különböző nyelvekhez
+com.github.artemanufrij.graphui	Grafikonábrázolás
+com.github.artemanufrij.playmymusic	Zenelejátszó helyi zenefájlok, online rádiók és audio CD-k hallgatásához
+com.github.artemanufrij.playmyvideos	Videolejátszó helyi videofájlok megtekintéséhez
+com.github.artemanufrij.regextester	Egy egyszerű alkalmazás a reguláris kifejezések tesztelésére
+com.github.avojak.paint-spill	A színkitöltő kirakós játék
+com.github.avojak.warble	A szókitaláló játék
+com.github.babluboy.bookworm	Fókuszált e-könyv olvasó
+com.github.bajoja.indicator-kdeconnect	AppIndicator a KDE Connect számára
+com.github.bcedu.valasimplehttpserver	Hozzáférhet fájljaihoz ugyanazon a hálózaton lévő bármely eszközről
+com.github.bcedu.vgrive	Google Drive-kliens automatikus szinkronizálással Linuxhoz
+com.github.benpocalypse.Huely	Színezd ki a teredet
+com.github.birros.WebArchives	Egy internetes archívumnézegető
+com.github.bjaraujo.Bombermaaan	Ügyességi játék
+com.github.Bleuzen.FFaudioConverter	Batch audio konverter és effektus processzor
+com.github.bluesabre.darkbar	Sötétítse az alkalmazások címsorait az Ön preferenciája alapján
+com.github.buddhi1980.mandelbulber2	Ingyenes és nyílt forráskódú 3D fraktál generátor
+com.github.bvschaik.julius	A Julius a Caesar III nyílt forráskódú újramegvalósítása
+com.github.calo001.fondo	Keresse meg a legszebb háttérképeket
+com.github.calo001.luna	Egy csodálatos naptár widget
+com.github.carlos157oliveira.Calculus	Deriváltak és integrálok kiszámítása
+com.github.cassidyjames.clairvoyant	Tegyél fel kérdéseket, kapj pszichés válaszokat
+com.github.cassidyjames.dippi	Számítsa ki a megjelenítési információkat, például a DPI-t és a képarányt
+com.github.cfcurtis.pdfstitcher	A PDF Stitcher egy segédprogram a PDF varrásminták összefűzésére és vonaltulajdonságainak módosítására
+com.github.childishgiant.mixer	Módosítsa az alkalmazások hangerejét
+com.github.chipmuenk.pyfda	Python szűrőtervező elemző eszköz
+com.github.christianrauch.Jahresarbeit-2003	Keresse meg az összefüggő négyzetek legnagyobb területét
+com.github.corna.Vivado	Xilinx Design Suite hardverfejlesztéshez
+com.github.coslyk.MoonPlayer	Videolejátszó online videók lejátszásához és letöltéséhez YouTube-ról, Youku-ról stb.
+com.github.cubitect.cubiomes-viewer	Hatékony Minecraft magkereső és térképnézegető.
+com.github.d4nj1.tlpui	GTK-UI a TLP konfigurációs fájlok egyszerű módosításához.
+com.github.dahenson.agenda	Intézd el a dolgokat
+com.github.dail8859.NotepadNext	Egy többplatformos, a Notepad++ újraimplementációja
+com.github.Darazaki.Spedread	GTK gyorsolvasó szoftver: Olvass, mint egy speedrunner!
+com.github.dariasteam.cowsrevenge	Indie platformer Pixel Art játék
+com.github.dawidd6.checksumo	A megadott fájl ellenőrzése adott hash-hez képest
+com.github.debauchee.barrier	Korlát – Ossza meg az egeret és a billentyűzetet a helyi hálózaton keresztül
+com.github.devalien.workspaces	Mindig legyen készen a munkára
+com.github.dimkr.gplaces	Terminál alapú Gemini kliens
+com.github.donadigo.appeditor	Alkalmazás menü szerkesztése
+com.github.dynobo.normcap	Szöveg kibontása a képernyő bárhonnan
+com.github.edenalencar.identifications	Ez egy eszköz a minőségbiztosítási csapat és a fejlesztők számára
+com.github.Eloston.UngoogledChromium	Könnyű megközelítés a Google webszolgáltatástól való függésének megszüntetésére
+com.github.elth0r0.iqpuzzle	Egy elterelő I.Q. kihívást jelentő pentomino puzzle
+com.github.emmanueltouzery.cigale	Tekintse át korábbi tevékenységeit
+com.github.emmanueltouzery.hotwire	A Hotwire lehetővé teszi néhány népszerű protokoll hálózati forgalmának egyszerű tanulmányozását
+com.github.emmanueltouzery.projectpad	A Projectpad lehetővé teszi a titkos hitelesítő adatok és a szerverinformációk kezelését, amelyeket szoftverfejlesztőként vagy rendszergazdaként kell kezelnie.
+com.github.eneshecan.WhatsAppForLinux	Nem hivatalos WhatsApp asztali alkalmazás Linuxhoz
+com.github.fabiocolacio.marker	Hatékony leértékelés-szerkesztő a GNOME-asztalhoz.
+com.github.finefindus.eyedropper	Színek kiválasztása és formázása
+com.github.Flacon	A Flacon kivonja az egyes számokat egyetlen nagy hangfájlból, amely a teljes zenei albumot tartalmazza, és külön hangfájlként menti el
+com.github.flxzt.rnote	Vázlatolj és készíts kézzel írt jegyzeteket
+com.github.fontmatrix.Fontmatrix	Betűtípus-kezelő alkalmazás
+com.github.fries1234.ncsa-mosaic	Az NSCA Mosaic webböngésző
+com.github.gabutakut.gabutdm	Egyszerű és gyors letöltéskezelő
+com.github.geigi.cozy	Hallgass hangoskönyveket
+com.github.giacomogroppi.writernote-qt	A Writernote egy többplatformos alkalmazás, amellyel hangfelvétellel jegyzeteket készíthet, később szöveggé lefordíthatja, és intelligens módon hallgathatja meg.
+com.github.gijsgoudzwaard.image-optimizer	Egyszerű veszteségmentes képtömörítés
+com.github.git_cola.git-cola	Elegáns és erőteljes Git GUI
+com.github.gmg137.netease-cloud-music-gtk	Netease felhő zenelejátszó Rust + GTK alapú
+com.github.gpuvis.Gpuvis	Egy GPU Trace Visualizer
+com.github.GradienceTeam.Gradience	Változtassa meg könnyedén az Adwaita kinézetét
+com.github.gyunaev.spivak	Karaoke játékos
+com.github.hluk.copyq	Speciális vágólapkezelő
+com.github.hopsan.Hopsan	Modellező és szimulációs eszköz folyadékenergiához és mechatronikai rendszerekhez
+com.github.horaciodrs.tradesim	A Linux kereskedési szimulátor
+com.github.hugolabe.Wike	Keressen és olvasson a Wikipédia cikkeiben
+com.github.huluti.Coulr	Élvezze a színeket és érezze jól magát!
+com.github.huluti.Curtail	Tömörítse a képeket
+com.github.HypatiaProject.hypatia	Kutatási segédeszköz, amely kontextust és információkat nyújt érdekes témákról.
+com.github.ilai_deutel.kibi	Szövegszerkesztő ≤1024 kódsorból, Rust nyelven írva
+com.github.inercia.k3x	Helyi Kubernetes-fürtök menedzsere k3d-vel
+com.github.iortcw.iortcw	Játékmotor a Return to Castle Wolfensteinhez
+com.github.IsmaelMartinez.teams_for_linux	Nem hivatalos Microsoft Teams kliens Linuxhoz Electron használatával
+com.github.iwalton3.jellyfin-media-player	Asztali kliens Jellyfin médiaszerverhez
+com.github.iwalton3.jellyfin-mpv-shim	Csak átküldhető kliens a Jellyfin Media Serverhez
+com.github.JannikHv.Gydl	Töltsön le tartalmat olyan webhelyekről, mint a YouTube
+com.github.jeromerobert.pdfarranger	PDF egyesítése, átrendezése, felosztása, elforgatása és körülvágása
+com.github.jkotra.eovpn	OpenVPN Configuration Manager
+com.github.jkotra.unlockr	PDF jelszó eltávolító
+com.github.jmlich.geotagging	Hogy megtalálja azt a helyet, ahol a fényképet készítette
+com.github.jms55.Sandbox	Egy homokos szimulációs játék
+com.github.johnfactotum.Foliate	Olvasson e-könyveket stílusosan
+com.github.johnfactotum.QuickLookup	Keressen gyorsan szavakat
+com.github.Johnn3y.Forklift	Videó és hang letöltő alkalmazás
+com.github.joseexposito.touche	Többérintéses gesztusok
+com.github.jpakkane.glyphtracer	Betűk képeinek átalakítása betűtípussá
+com.github.junrrein.PDFSlicer	Egyszerű eszköz a PDF-dokumentumok oldalainak kibontására, egyesítésére, elforgatására és átrendezésére
+com.github.juzzlin.DustRacing2D	Hagyományos felülről lefelé haladó autóverseny-játék pályaszerkesztővel
+com.github.k4zmu2a.spacecadetpinball	Játékmotor Space Cadet Pinballhoz
+com.github.kagami.boram	Platformok közötti grafikus WebM konverter.
+com.github.kalibari.audok	Ingyenes, nyílt forráskódú zenelejátszó
+com.github.keriew.augustus	Az Augustus a Caesar III nyílt forráskódú újramegvalósítása a játékmenet módosításával
+com.github.kmwallio.thiefmd	A markdown szerkesztő, amit érdemes ellopni.
+com.github.KRTirtho.Spotube	🎧 Nyílt forráskódú Spotify kliens, amely nem igényel prémiumot és nem használ Electront! Asztali és mobilra is elérhető!
+com.github.labyrinth_team.labyrinth	Könnyű gondolattérképező eszköz
+com.github.lachhebo.Gabtag	Hangcímkéző eszköz
+com.github.libresprite.LibreSprite	Animált sprite szerkesztő és pixel art eszköz
+com.github.liferooter.textpieces	Alakítsa át a szöveget véletlenszerű webhelyek használata nélkül
+com.github.LongSoft.UEFITool	UEFI firmware képnézegető és szerkesztő
+com.github.louis77.tuner	Fedezze fel és hallgassa az internetes rádióállomásokat
+com.github.lxgr_linux.pokete	Terminál alapú Pokemon-szerű játék
+com.github.makhber.Makhber	Tudományos adatok megjelenítése és elemzése
+com.github.maoschanz.drawing	Képernyőképek vagy mémek szerkesztése
+com.github.maoschanz.DynamicWallpaperEditor	Hozzon létre vagy szerkesszen XML dinamikus háttérképeket (háttér-diavetítéseket) a GNOME-asztalhoz
+com.github.marhkb.Pods	Kövesse nyomon podman-tárolóit
+com.github.marinm.songrec	Nyílt forráskódú, nem hivatalos Shazam kliens Linuxhoz, Rust nyelven írva.
+com.github.marktext.marktext	Következő generációs markdown szerkesztő
+com.github.matfantinel.moneta	Kövesse nyomon a valós világ valutáinak árfolyamait az asztalon
+com.github.matfantinel.reminduck	Emlékezzen a dolgaira imádnivalóan bosszantó módon.
+com.github.Matoking.protontricks	Egy egyszerű wrapper, amely a Proton-kompatibilis játékokhoz trükközik
+com.github.mdh34.hackup	Olvassa el a Hacker News-t az asztalról
+com.github.mdh34.quickdocs	Gyorsan olvassa el a fejlesztői dokumentumokat
+com.github.mgropp.PdfJumbler	Egyszerű eszköz a PDF-fájlok oldalainak átrendezéséhez, egyesítéséhez, törléséhez és elforgatásához
+com.github.miguelmota.Cointop	Terminál alapú alkalmazás a kriptovaluták nyomon követésére
+com.github.mikacousin.olc	Irányítsd a világítási műsorokat
+com.github.mtkennerly.ludusavi	Készítsen biztonsági másolatot a számítógépes videojáték mentési adatairól
+com.github.muriloventuroso.easyssh	SSH-kapcsolatkezelő
+com.github.muriloventuroso.givemelyrics	Dalszövegek a dalokhoz
+com.github.muriloventuroso.pdftricks	Trükkök PDF fájlokhoz
+com.github.Murmele.Gittyup	A Graphical Git kliens célja, hogy segítsen megérteni és kezelni a forráskód előzményeit
+com.github.Murmele.scram	Parancssor és grafikus eszköz a valószínűségi kockázatelemzéshez
+com.github.naaando.lyrics	A dalok éneklésének gyönyörű módja
+com.github.needleandthread.vocal	Kiváló podcast kliens a modern ingyenes asztali számítógépekhez
+com.github.neithern.g4music	Elegánsan játssza le zenéjét
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x konverter ncnn verzió
+com.github.nrittsti.NTag	Az NTag egy többplatformos grafikus címkeszerkesztő, amely a mindennapi élet használati eseteire összpontosít.
+com.github.ojubaorg.Othman	Elektronikus Korán böngésző
+com.github.opentyrian.OpenTyrian	A DOS shoot-em-up Tyrian nyílt forráskódú portja.
+com.github.optyfr.JRomManager	A Mame és a Retrogaming Rom Manager
+com.github.paolostivanin.OTPClient	GTK+ alkalmazás TOTP és HOTP tokenek kezelésére beépített titkosítással.
+com.github.petebuffon.yafc	A YAFC egy Factorio számológép, tervező és elemző. A YAFC fő célja az erősen módosított játékokkal való megbirkózás.
+com.github.phase1geo.minder	Készítse el, fejlessze és vizualizálja ötleteit
+com.github.philip_scott.notes-up	Az Ön új notebookja
+com.github.philip_scott.spice-up	Készítsen egyszerű és gyönyörű prezentációkat
+com.github.PintaProject.Pinta	Képek szerkesztése és digitális festés
+com.github.polymeilex.neothesia	GPU gyorsított midi vizualizáló
+com.github.PopoutApps.popout3d	Közönséges fényképezőgéppel készített fényképekből 3D képeket hoz létre.
+com.github.powertab.powertabeditor	Gitár tablatúra megtekintése és szerkesztése
+com.github.qarmin.czkawka	Többfunkciós alkalmazás másolatok, üres mappák, hasonló képek, törött fájlok stb.
+com.github.qarmin.szyszka	Egyszerű, de hatékony fájlátnevezés, Rust nyelven írva
+com.github.quaternion	Qt-alapú kliens mátrix hálózatokhoz
+com.github.Qv2ray	A Qv2ray egy többplatformos v2ray grafikus felület, amely Qt nyelven íródott.
+com.github.rafostar.Clapper	Egyszerű és modern GNOME médialejátszó
+com.github.raibtoffoletto.litteris	Levelezős levelezés megszervezése
+com.github.rajsolai.response	Tesztelje weboldala reagálóképességét
+com.github.rajsolai.textsnatcher	Szöveg kiragadása egyetlen húzással
+com.github.ransome1.sleek	teendőkezelő a todo.txt szintaxison alapuló Linuxhoz, ingyenes és nyílt forráskódú (FOSS)
+com.github.reds.LogisimEvolution	Digitális logikai tervező és szimulátor
+com.github.reduz.ChibiTracker	A ChibiTracker egy hordozható IT (Impulse Tracker) klón
+com.github.rhyme_player.rhyme	A zenéd otthona.
+com.github.rkoesters.xkcd-gtk	Olvassa el az xkcd-t: romantikáról, szarkazmusról, matematikáról és nyelvről szóló webképregényt
+com.github.robertsanseries.ciano	Multimédiás fájl konvertáló
+com.github.rogercrocker.badabib	BibTeX bejegyzések megtekintése és szerkesztése
+com.github.Rosalie241.RMG	Könnyen használható és többplatformos mupen64plus előtér C++ és Qt nyelven
+com.github.ryanakca.slingshot	2D-s lövöldözős játék gravitációval
+com.github.ryonakano.konbucase	Konvertálja a kis- és nagybetűket a szövegben
+com.github.ryonakano.pinit	Rögzítse kedvenc hordozható alkalmazásai parancsikonjait az alkalmazásindítóhoz
+com.github.ryonakano.reco	Rögzítse a beszélgetéseket, hogy később emlékezzen a tartalomra
+com.github.sakya.corechess	Nyílt forráskódú sakk grafikus felhasználói felület sakkmotorokhoz
+com.github.scrivanolabs.scrivano	Jegyzetkészítő alkalmazás azoknak, akik előnyben részesítik a kézírást a gépelés helyett.
+com.github.sdv43.whaler	Docker konténerkezelés
+com.github.shonumi.gbe-plus	Game Boy (színes, haladó) emulátor
+com.github.sixpounder.GameOfLife	Játssz Conway's Game of Life játékkal
+com.github.skullernet.q2pro	Továbbfejlesztett Quake 2 kliens
+com.github.skylot.jadx	Dex a Java decompilerhez
+com.github.subhadeepjasu.pebbles	Végezzen könnyedén haladó számításokat
+com.github.suzie97.communique	RSS-olvasó platformok közötti szinkronizálással
+com.github.taiko2k.avvie	Vágja le a képeket avatarokhoz vagy háttérképekhez
+com.github.taiko2k.tauonmb	Játssz zenét stílusosan
+com.github.tchx84.Flatseal	A Flatpak engedélykezelője
+com.github.tenderowl.frog	Szöveg kibontása a képekből
+com.github.tenderowl.norka	Folyamatos szövegszerkesztő
+com.github.tglima.Myfluttercrypto	A MyFlutterCrypto egy többplatformos alkalmazás, amely lehetővé teszi a szövegek egyszerű titkosítását és visszafejtését.
+com.github.theCalcaholic.StreamDeck	Adja hozzá a Streaming webszolgáltatásokat a Steamhez
+com.github.theironrobin.siglo	Szinkronizálja a PineTime-ot PinePhone-jával
+com.github.themix_project.Oomox	testreszabhatja az ikonokat, az xrdb és a GTK témákat
+com.github.tmewett.BrogueCE	Brogue: Community Edition – a sokak által kedvelt minimalista roguelike játék közösségvezető ága
+com.github.treagod.spectator	Kényelmesen tesztelje REST API-jait!
+com.github.unrud.djpdf	Kisméretű, kereshető PDF-fájlok létrehozása a beolvasott dokumentumokból
+com.github.unrud.RemoteTouchpad	Irányítsd az egeret és a billentyűzetet okostelefonról
+com.github.unrud.VideoDownloader	Videók letöltése a YouTube és sok más webhelyről
+com.github.utsushi.Utsushi	Képgyűjtő segédprogramok az Epson számára
+com.github.varnholt.dynablaster_revenge	A Dynablaster játék remake-je
+com.github.vikdevelop.photopea_app	Ingyenes alternatíva az Adobe Photoshop felhasználók számára
+com.github.vikdevelop.timer	Egyszerű visszaszámláló
+com.github.vkohaupt.vokoscreenNG	Könnyen használható screencast készítő
+com.github.vladimiry.ElectronMail	Nem hivatalos asztali kliens a ProtonMailhez
+com.github.weclaw1.ImageRoll	Képnézegető alapvető képkezelési eszközökkel
+com.github.wwmm.easyeffects	Audioeffektusok PipeWire alkalmazásokhoz
+com.github.wwmm.pulseeffects	Audioeffektusok PulseAudio alkalmazásokhoz
+com.github.Xenoveritas.abuse	Sötét 2D oldalra görgető platformjáték
+com.github.xournalpp.xournalpp	Készítsen kézzel írott jegyzeteket
+com.github.yucefsourani.albasheer-electronic-quran-browser	Elektronikus Korán böngésző
+com.github.zadam.trilium	Építsd fel személyes tudásbázisodat
+com.github.z.Cumulonimbus	Egy egyszerű, gyönyörű podcast alkalmazás
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + egyszerű tálcajelző
+com.github.ztefn.haguichi	Grafikus frontend a Hamachi számára
+com.gitlab.adnan338.Invoicer	Készítse el fizetési számláit
+com.gitlab.adnan338.Nixwriter	Hozzon létre indítható Linux-képeket
+com.gitlab.azymohliad.Qwertone	A számítógépet hangszerré varázsolja
+com.gitlab.bitseater.meteo	Ismerje meg a következő órák és napok előrejelzését adatokkal és térképekkel
+com.gitlab.ColinDuquesnoy.MellowPlayer	Felhőzenei integráció az asztali számítógéphez
+com.gitlab.coringao.cavestory-nx	Nosztalgikus mellékakciós kalandjáték
+com.gitlab.coringao.JAG	Arcade és Puzzle 2D játék, amelyben meg kell törni az összes céldarabot
+com.gitlab.cutecom.cutecom	Grafikus soros terminál
+com.gitlab.davem.ClamTk	A ClamTk egy grafikus felület a Clam Antivirushoz
+com.gitlab.guillermop.MasterKey	Jelszókezelő alkalmazás
+com.gitlab.j0chn.nextcloud_password_client	Kezelje Nextcloud jelszavait az asztalon
+com.gitlab.kendellfab.restscope	Egy egyszerű http/rest tesztelőeszköz D-vel és GtkD-vel.
+com.gitlab.librebob.Athenaeum	A Steam ingyenes helyettesítője
+com.gitlab.maevemi.publictransport	tömegközlekedési alkalmazás (jelenleg) Németországban
+com.gitlab.Murmele.UDPLogger	Az UDPLogger egy könnyű, nagy teljesítményű UDP adatok naplózója. Ezenkívül az adatok a telkeken is megjeleníthetők.
+com.gitlab.tipp10.tipp10	Érintse meg a Gépelési oktató lehetőséget
+com.gluonhq.SceneBuilder	A Scene Builder egy nyílt forráskódú eszköz, amely lehetővé teszi a JavaFX felhasználói felületek drag and drop tervezését.
+com.google.AndroidStudio	Integrált fejlesztői környezet a Google Android platformjához
+com.google.Chrome	A Google webböngészője
+com.google.ChromeDev	A Google webböngészője
+com.google.EarthPro	3D-s bolygónézegető
+com.googleplaymusicdesktopplayer.GPMDP	Futtassa a Google Play Zenét önálló asztali alkalmazásként
+com.grangerhub.Tremulous	Aliens vs Humans, First Person Shooter játék a valós idejű stratégia elemeivel
+com.hack_computer.Clubhouse	Az úti cél, ahol a gyerekek megtanulják, hogyan kell kódolni
+com.hack_computer.OperatingSystemApp	A rendszer segítségével Ön is részese lehet annak a varázslatnak, amely folyamatosan dúdolja számítógépét!
+com.hack_computer.Sidetrack	Menekülj el a gödrök és robotok labirintusából!
+com.hamrick.VueScan	Szkennelő szoftver 6000+ szkennerhez
+com.helix_editor.Helix	Egy posztmodern szövegszerkesztő
+com.her01n.BatteryInfo	Információkat jelenít meg a rendszer akkumulátoráról.
+com.heroicgameslauncher.hgl	Nyílt forráskódú Epic Games, GOG és Amazon Prime Games Launcher.
+com.hostbuf.FinalShell	FinalShell ssh eszközök
+com.howlingmoonsoftware.CrayonBall	Gyors tempójú match-4 rejtvényfejtő
+com.hunterwittenborn.Celeste	Szinkronizálja felhőfájljait
+com.icanblink.blink	Blink SIP kliens
+com.icons8.Lunacy	Ingyenes tervezőszoftver, amely az AI-eszközökkel és a beépített grafikával fenntartja a folyamatot
+com.identicalsoftware.anagramarama	Készítsen szavakat betűk összevisszaságából
+com.inform7.IDE	Írj interaktív fikciót
+com.inklestudios.Inky	Írjon interaktív narratívát az inkle jelölőnyelvén
+com.inochi2d.inochi-creator	Eszköz Inochi2D bábok létrehozásához és szerkesztéséhez
+com.interversehq.qView	Praktikus és minimális képnézegető
+com.inventwithpython.flippy	A klasszikus Reversi társasjáték klónja
+com.invoiceninja.InvoiceNinja	Hozzon létre számlákat, fogadjon el fizetéseket, kövesse nyomon a költségeket és az időfeladatokat
+com.irccloud.desktop	Modern, mindig elérhető IRC ügyfélszolgálat
+com.itextpdf.RUPS	Az iText RUPS egy eszköz a PDF struktúrájának megtekintéséhez
+com.itopia.client	Kliens Remote Desktop Protocol (RDP) szerverekhez
+com.jagex.RuneScape	Ingyenesen játszható fantasy MMORPG
+com.jaquadro.NBTExplorer	Grafikus NBT szerkesztő minden Minecraft NBT adatforráshoz
+com.jetbrains.CLion	Többplatformos IDE C és C++ számára
+com.jetbrains.DataGrip	IntelliJ alapú IDE adatbázisokhoz és SQL-hez
+com.jetbrains.GoLand	Képes és ergonomikus Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	Képes és ergonómikus Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Képes és ergonómikus Java IDE vállalati, webes és mobilfejlesztéshez
+com.jetbrains.PhpStorm	PHP IDE a szakmai fejlődéshez
+com.jetbrains.PyCharm-Community	A legintelligensebb Python IDE
+com.jetbrains.PyCharm-Professional	A legintelligensebb Python IDE
+com.jetbrains.Rider	Gyors és hatékony, többplatformos .NET IDE
+com.jetbrains.RubyMine	Élvezze a Ruby 2.x és a Rails 6.x, a Sinatra, a React, az Angular, a Puppet, a Docker és egyebek első osztályú támogatását
+com.jetbrains.WebStorm	A legokosabb JavaScript IDE
+com.jetpackduba.Gitnuro	Többplatformos Git kliens
+com.jgraph.drawio.desktop	Diagramok létrehozása és megosztása
+com.jonathankang.Weibird	Natív GTK+ Weibo kliens
+com.jpexs.decompiler.flash	Dekomponálja és szerkessze az SWF fájlokat
+com.js8call.JS8Call	A JS8 digitális módot használó szoftver, amely gyenge jelet biztosít a billentyűzetről a billentyűzetre üzenetküldést a rádióamatőröknek
+com.katawa_shoujo.KatawaShoujo	Bishoujo stílusú vizuális regény
+com.kavilgroup.gelectrical	Villamos elosztó hálózat tervezése és elemzése
+com.kavilgroup.gestimator	Civil Becslő szoftver
+com.kolor.AutopanoPro	Professzionális képfűző szoftver a Kolor cégtől
+com.kristianduske.TrenchBroom	Szintszerkesztő Quake-alapú játékokhoz
+com.ktechpit.colorwall	Az Ultimate Desktop Wallpaper Application
+com.ktechpit.orion	Teljes torrent kliens és streamer Linux Desktophoz
+com.ktechpit.torrhunt	Torrent kereső
+com.ktechpit.ultimate-media-downloader	Online videó és hang letöltő Linuxhoz, több mint 1300 webhely támogatása
+com.ktechpit.whatsie	Qt Whatsapp webkliens Linux asztali számítógéphez
+com.ktechpit.wonderwall	Háttérképkezelő
+com.lakoliu.Furtherance	Kövesse nyomon az idejét nyomon követés nélkül
+com.leinardi.gkraken	Lehetővé teszi az NZXT Kraken X szivattyú hűtésének vezérlését Linux rendszerről.
+com.leinardi.gst	A rendszer segédprogramja különféle hardverkomponensek igénybevételére és figyelésére szolgál
+com.leinardi.gwe	A rendszer segédprogramja információszolgáltatásra, a ventilátorok vezérlésére és az NVIDIA kártya túlhajtására szolgál
+com.leinardi.gx52	Lehetővé teszi a LED-ek és az MFD vezérlését a Logitech X52 és X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Egy ingyenes és egyszerűen használható videolejátszó a Haskell-lel
+com.librumreader.librum	Modern e-könyv olvasó és könyvtárvezető
+com.lixgame.Lix	Lemmings-szerű játék rejtvényekkel, szerkesztővel, többjátékossal
+com.locomalito.abbayedesmorts	Egy elavult videojáték a történelem sötét szakaszához
+com.logseq.Logseq	Egy lokális első, nem lineáris, körvonalazó jegyzetfüzet személyes tudásbázisának rendszerezéséhez és megosztásához
+com.lunarclient.LunarClient	Modpack a Minecraft összes modern verziójához!
+com.makemkv.MakeMKV	DVD és Blu-ray MKV konverter és hálózati streamer
+com.maplerain.telsis_translator_flutter	Alkalmazás, amely lefordítja a Violet Evergarden sorozatban használt Telsis nyelvet
+com.mardojai.DiccionarioLengua	Busca palabras en el DLE
+com.mardojai.ForgeSparks	Get Git forges értesítések
+com.mastermindzh.tidal-hifi	A listen.tidal.com webes verziója Hi-Fi (High and Max) támogatással
+com.mattermost.Desktop	Nyílt forráskódú platform a fejlesztői együttműködéshez
+com.mattjakeman.ExtensionManager	Böngésszen, telepítsen és kezeljen GNOME Shell-bővítményeket
+com.meetfranz.Franz	Messenger asztali számítógépre
+com.microsoft.AzureStorageExplorer	Grafikus eszköz az Azure felhőalapú tárolási erőforrások kezeléséhez
+com.microsoft.Edge	Bemutatjuk az új Microsoft Edge webböngészőt. Ideje többet várni. Több magánélet. Több irányítás. Több termelékenység. Több érték.
+com.microsoft.EdgeDev	Bemutatjuk az új Microsoft Edge webböngészőt. Ideje többet várni. Több magánélet. Több irányítás. Több termelékenység. Több érték.
+com.milesalan.mepo	Gyors, egyszerű és feltörhető OSM térképnézegető Linuxra
+com.moddb.TotalChaos	A túlélési horror egy távoli, Fort Oasis néven ismert szigeten játszódik
+com.moddb.TotalChaosRetro	A túlélési horror egy távoli, Fort Oasis néven ismert szigeten játszódik
+com.mojang.Minecraft	Hozd létre saját világodat az egyik legnépszerűbb videojátékban
+com.mongodb.Compass	A MongoDB GUI
+com.moonlight_stream.Moonlight	Streameljen játékokat és egyéb alkalmazásokat egy másik, Sunshine vagy GeForce Experience rendszert futtató számítógépről
+com.mousepawmedia.omission	Megtévesztően egyszerű szórejtvény.
+com.mudeprolinux.whakarere	GTK4 Whatsapp kliens
+community.pathofbuilding.PathOfBuilding	Path of Building (Community) – Hatékony építési tervező a Path of Exile számára
+com.musixmatch.Musixmatch	Élvezze a dalszövegeit mindenhol
+com.napster.napster-bigscreen-electron	Napster kézi számítógépéhez
+com.neatdecisions.Detwinner	Keresse meg és távolítsa el az ismétlődő fájlokat és hasonló képeket
+com.netease.CloudMusic	A Netease által fejlesztett népszerű online zenelejátszó
+com.nextcloud.desktopclient.nextcloud	Nextcloud asztali szinkronizálási kliens
+com.nitrokey.nitrokey-app	Kezelje Nitrokey eszközeit
+com.nordpass.NordPass	Egy könnyen használható jelszókezelő, amelyet kiberbiztonsági szakértők hoztak Önnek.
+com.notepadqq.Notepadqq	Fejlett szövegszerkesztő
+com.notesnook.Notesnook	Teljesen nyílt forráskódú és végpontok között titkosított jegyzetkészítés alternatívája az Evernote-nak
+com.obsproject.Studio	Élő közvetítés és videó rögzítő szoftver
+com.okta.developer.CLI	Az Okta CLI a legegyszerűbb módja az Okta használatának!
+com.openwall.John	John the Ripper Jumbo jelszótörő
+com.opera.Opera	Az Opera webböngészője
+com.oppzippy.OpenSCQ30	A Soundcore Q30 fejhallgató vezérlési beállításai
+com.orama_interactive.Pixelorama	2D sprite szerkesztő animáció támogatással
+com.outerwildsmods.owmods_gui	Egy könnyen használható alkalmazás az Outer Wilds modok telepítéséhez és futtatásához
+com.ownrwallet.wallet	Virtuális valuták küldése, fogadása, visszavonása, cseréje és vásárlása. Csak Ön szabályozza a hozzáférést és az eszközöket
+com.ozmartians.VidCutter	Médiavágó + Asztalos
+com.parallax.PropellerIDE	A Parallax Propeller platform kódjának fejlesztése, fordítása és feltöltése.
+com.parsecgaming.parsec	Egyszerű, alacsony késleltetésű játékstreamelés
+com.pikatorrent.PikaTorrent	Modern, egyszerű, csatlakoztatott és elektromos BitTorrent alkalmazás ⚡
+com.pinegrow.Pinegrow	Vizuális webszerkesztő szakemberek számára
+com.play0ad.zeroad	Valós idejű stratégiai játék az ókori hadviselésről
+com.playonlinux.PlayOnLinux4	Grafikus kezelőfelület a Wine számára
+com.plexamp.Plexamp	Plexamp - Egy gyönyörű Plex zenelejátszó audiofileknek, kurátoroknak és hipsztereknek
+com.pojtinger.felicitas.Multiplex	Nézz torrenteket a barátaiddal
+com.pokemmo.PokeMMO	A PokeMMO egy ingyenesen játszható mmorpg, csatlakozz egy növekvő közösséghez, miközben szintet lépsz, és fedezz fel új szörnyeket
+com.polyphone_soundfonts.polyphone	Készítse el saját hangszereit kedvenc zenéinek lejátszásához
+com.powerball253.eternalmodmanager	Platformok közötti modkezelő a DOOM Eternal számára.
+com.poweriso.PowerISO	Mindent az egyben CD/DVD/Blu-Ray eszköz
+com.protonvpn.www	Megbízható és könnyen használható VPN-alkalmazás Linuxhoz
+com.prusa3d.PrusaSlicer	Készítsen tökéletes 3D-nyomatokat!
+com.pypyrev.linuxdcpp	Fájlmegosztó kliens a Direct Connect hálózathoz
+com.q3rally.Q3Rally	Túlélő autóverseny
+com.qq.QQ	Online azonnali üzenetküldő szolgáltatás
+com.qq.QQmusic	Online zenei streaming szolgáltatás
+com.quexten.Goldwarden	Bitwarden kompatibilis asztali kliens
+com.quixel.Bridge	A tökéletes híd a Megascans és kedvenc eszközei között
+com.qzandronum.Q-Zandronum	Zandronum 3.0 villa továbbfejlesztett netkóddal, konfigurálható mozgással és sok apró finomítással
+com.rabbit_company.passky	A Passky egy egyszerű, modern, könnyű, nyílt forráskódú és biztonságos jelszókezelő.
+com.rafaelmardojai.Blanket	Hallgass különböző hangokat
+com.rafaelmardojai.SharePreview	Tesztelje a közösségi média kártyákat helyben
+com.rafaelmardojai.WebfontKitGenerator	Egyszerűen hozhat létre @font-face készleteket
+com.raggesilver.BlackBox	Egy gyönyörű GTK 4 terminál
+com.ranfdev.Geopard	Gemini böngésző
+com.ranfdev.Lobjur	Egy egyszerű lobste.rs kliens
+com.ranfdev.Notify	Értesítések fogadása az ntfy.sh webhelyről.
+com.rawtherapee.RawTherapee	Fejlett nyers fotófejlesztő program
+com.realm667.Wolfenstein_Blade_of_Agony	Történetvezérelt FPS, amelyet a 90-es évek és a 2000-es évek elejének második világháborús lövöldözői ihlettek
+com.redis.RedisInsight	Fejlesztői grafikus felület a Redishez, a Redistől.
+com.remnantsoftheprecursors.ROTP	Az eredeti Master of Orion Strategy játék csiszolt modernizálása 1993-ból.
+com.retrodev.blastem	Sega Mega Drive/Genesis és Master System emulátor
+com.revolutionarygamesstudio.ThriveLauncher	Evolúciós szimulációs játék. Vegye át az irányítást faja felett a környezetben, és szerkessze a faja egészét. Versenyezz más fejlődő fajokkal egy idegen bolygó erőforrásaiért.
+com.riverbankcomputing.PyQt.BaseApp	Megosztott platform a PyQt-ot használó alkalmazásokhoz
+com.rocksandpaper.syndic	Érintésbarát RSS/Atom olvasó
+com.roguetemple.HyperRogue	Nem euklideszi grafikus rogue-szerű játék
+com.rosegardenmusic.rosegarden	MIDI és audio szekvencer és jelölésszerkesztő
+com.rq3.Reaction	Filmrealizmus első személyű lövöldözős játék
+com.rtosta.zapzap	Whatsapp üzenetküldő
+com.sayonara_player.Sayonara	Könnyű Qt Audio lejátszó
+com.scoutshonour.Digital	Egy számítógépes rejtély/romantika öt perccel 1988 jövőjébe kerül
+com.scoutshonour.dtipbijays	A Digital: A Love Story egyfajta spirituális folytatása, amely egy tekintélyes magángimnáziumban és a közösségi oldalakon játszódik 2027-ben.
+com.seafile.Client	Seafile fájlszinkronizálás és asztali kliens megosztása
+com.seal_one.SealOne	Szoftver Seal One hardver alapú aláírási eszközökhöz
+com.serveftp.officefactoring	App faktoring, értékpapírosítás, ESC vagy FIDC
+com.sevenkfans.sevenkaa	Középkori valós idejű stratégiai játék
+com.seventhstring.Transcribe	Lemásol! - szoftver, amely segíti a felvett zene átírását
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG, pixel art grafikával, sok változatossággal és újrajátszhatósággal
+com.sigil_ebook.Sigil	Többplatformos EPUB ebook szerkesztő
+com.sigmyne.crush	Adatcsökkentés és képalkotás egyes csillagászati kamerákhoz
+com.simplenote.Simplenote	A jegyzetek vezetésének legegyszerűbb módja
+com.sindresorhus.Caprine	Elegáns Facebook Messenger asztali alkalmazás
+com.sireliah.Dragit	Intuitív fájlmegosztó alkalmazás a helyi hálózathoz
+com.skype.Client	Hívjon és üzenetet küldjön a Skype-felhasználóknak, videocsevegési támogatással
+com.slack.Slack	Csapatkommunikáció a 21. században
+com.sleepfiles.OSCAR	A nyílt forráskódú CPAP-elemző riporter
+com.slugchess.SlugChess	Sakk Fog-of-War és megkevert tisztekkel
+com.snes9x.Snes9x	Super Nintendo emulátor
+com.solvespace.SolveSpace	Ingyenes (GPLv3) parametrikus 3d CAD eszköz
+com.sourcepole.kadas	Térképkészítő alkalmazás nem szakosodott felhasználók számára
+com.spacestation14.Launcher	Többjátékos katasztrófa szimulátor
+com.spotify.Client	Online zenei streaming szolgáltatás
+com.springrts.SpringLobby	Játssz online RTS játékokat a Spring motorral
+com.steamdeckrepo.manager	Telepítse a rendszerindító videókat a Steam Deckre a Steam Deck Repo webhely API segítségével.
+com.steamgriddb.SGDBoop	Alkalmazza a SteamGridDB eszközöket a Steamre
+com.steamgriddb.steam-rom-manager	Egy alkalmazás ROM-ok kezelésére a Steamben
+com.stepmania.StepMania	Ritmus- és táncjáték
+com.stremio.Service	Freedom to Stream
+com.stremio.Stremio	Azonnal nézhet videókat, filmeket, TV-sorozatokat és TV-csatornákat
+com.strlen.TreeSheets	Szabad formájú adatszervező
+com.st.STM32CubeIDE	Integrált fejlesztési környezet az STM32-hez
+com.sublimemerge.App	A Sublime Merge egy Git kliens, a Sublime Text készítőitől
+com.sublimetext.three	Kifinomult szövegszerkesztő kódhoz, jelöléshez és prózához
+com.sudovanilla.penpot-desktop	Tervezési szabadság csapatoknak
+com.supermodel3.Supermodel	Egy Sega Model 3 Arcade emulátor
+com.sweethome3d.Sweethome3d	Sweet Home 3D belsőépítészeti alkalmazás
+com.sweetscape.ZeroOneZeroEditor	Professzionális szöveg- és hexadecimális szerkesztés bináris sablonokkal
+com.synology.CloudStationBackup	A valós idejű biztonsági mentés megóvja Önt a hatalmas adatvesztéstől
+com.synology.SynologyAssistant	Eszköz a Synology NAS kezelésére a helyi hálózaton
+com.synology.SynologyDrive	Hatékony privát felhőtárhely ismétlődő díjak nélkül
+com.syntevo.SmartGit	Végezze el kötelezettségvállalását
+com.syntevo.SmartSynchronize	Könyvtárak összehasonlítása a Smart Way segítségével
+com.system76.Popsicle	Flash több USB-eszköz párhuzamosan
+com.szibele.e-juice-calc	Ingyenes és egyszerűen használható E-Juice számológép
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim Desktop alkalmazás
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP alkalmazás
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP alkalmazás
+com.teeworlds.Teeworlds	Online többjátékos lövöldözős játék
+com.tencent.wemeet	Felhőalapú HD konferenciatermék, amely a Tencent több mint 20 éves audiovizuális kommunikációs tapasztalatát hasznosítja
+com.tercad.fingrom	Platformagnosztikus pénzügyi számviteli alkalmazás
+com.thebrokenrail.MCPIReborn	Fun Blocks
+com.thewavewarden.Odin2	Odin 2 szintetizátor
+com.thincast.client	Ingyenes RDP (Remote Desktop Protocol) kliens Linux, macOS és Windows rendszerekhez
+com.tic80.TIC_80	Fantasy számítógép apró játékok készítéséhez, lejátszásához és megosztásához
+com.ticktick.TickTick	Csodálatos teendők és feladatok listája, hogy mindent elvégezzen, és jól megszervezze az életét.
+com.todoist.Todoist	„A legjobb teendőlista alkalmazás jelenleg” – The Verge
+com.toggl.TogglDesktop	Egyszerű és intuitív időkövető szoftver
+com.tomjwatson.Emote	Modern előugró hangulatjel-választó
+com.tonikelope.MegaBasterd	Fájlok letöltése, feltöltése vagy streamelése a MEGA.nz webhelyről
+com.tracktion.Waveform	Digitális audio munkaállomás minden zenei alkotó számára
+com.transmissionbt.Transmission	Fájlok letöltése és megosztása BitTorrenten keresztül
+com.tutanota.Tutanota	Biztonságos e-mail, naptár és névjegyek
+com.tux4kids.tuxmath	A TuxMath egy arcade játék, amely segít a gyerekeknek gyakorolni a matematikai tényeket
+com.tux4kids.tuxtype	Oktatási gépelés oktató játék Tux főszereplésével
+com.tuxpusher.TuxPusher	Egy szórakoztató érmenyomó játék Tuxszal!
+com.tuxpusher.TuxPusherAF	515 egyedi díj + 6 pingvin
+com.ugetdm.uGet	Letöltéskezelő
+com.ulduzsoft.Birdtray	A rendszertálcán lévő új e-mail értesítés a Thunderbird számára
+com.ultimaker.cura	Szeletelő a 3D nyomtatási projektek előkészítéséhez
+com.umlet.Umlet	Ingyenes UML eszköz a gyors UML diagramokhoz
+com.unity.UnityHub	Valós idejű játékmotor
+com.uploadedlobster.peek	Egyszerű képernyőrögzítő könnyen használható felülettel
+com.usebottles.bottles	Windows szoftverek futtatása
+com.usebruno.Bruno	Gyors és Git-barát API-kliens
+com.vagueentertainment.Framed	Digitális képkeret az NFTshowroom művészetéhez és személyes munkájához
+com.valvesoftware.Steam	Indító a Steam szoftverterjesztési szolgáltatáshoz
+com.valvesoftware.SteamLink	Streamelj játékokat egy másik számítógépről a Steammel
+com.varnamproject.Varnam	Könnyen beírhatja az indiai nyelveket
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, egy nagy kompatibilitású Gameboy Advance emulátor
+com.vesc_project.VescTool	A VESC® Tool a BLDC-Tool teljesen új és 100%-ban átdolgozott helyettesítője
+com.viber.Viber	Összekötjük az embereket, függetlenül attól, hogy kik vagy honnan származnak
+com.vicr123.thebeat	Audio lejátszó
+com.viewizard.AstroMenace	Hardcore 3D űrgörgős lövöldözős űrhajó-frissítési lehetőségekkel
+com.virustotal.VirusTotalUploader	Fájlok feltöltése a virustotal.com webhelyre
+com.visualstudio.code	Kódszerkesztés. Újradefiniált.
+com.visualstudio.code-oss	Visual Studio kód. Kódszerkesztés. Újradefiniált.
+com.vivaldi.Vivaldi	Erőteljes, személyes és privát webböngésző
+com.vixalien.decibels	Hangfájlok lejátszása
+com.vixalien.sticky	Rögzítse a jegyzeteket az asztalra
+com.voxdsp.aigeneratedgame	Mentsd meg kertbarátaidat a szellemektől!
+com.voxdsp.AstroImpact	Egy többjátékos űrjáték, védd meg a bolygót a bejövő aszteroidáktól!
+com.voxdsp.Borg	A Korg ER-1 által ihletett hordozható (SDL) hangszintetizátor/hanggenerátor
+com.voxdsp.Borg0	A hordozható (SDL) hangszintetizátor/hanggenerátor lehetővé teszi a felhasználók számára oszcillátorok és borítékok rajzolását.
+com.voxdsp.CubeShooter	3D Arcade stílusú lövöldözős
+com.voxdsp.PoryDrive	Egy autós játék, ahol el kell kapnod Porygont!
+com.voxdsp.SeriousShooter	Uncle Sam által jóváhagyott 3D FPS
+com.voxdsp.Snowboarder	Egy egyszerű 3D-s snowboardos játék
+com.voxdsp.Snowling	Egy bowling szerencsejáték
+com.voxdsp.Spaceminer	3D űrbányász játék
+com.voxdsp.Tuxocide	3D FPS háború dúl az Antarktiszon...
+com.voxdsp.TuxScape	Egy mitikus kaland Tuxként!
+com.voxdsp.TuxVsDragon	Öld meg a Vörös Sárkány Tuxot!
+com.voxdsp.VoxelPaint	Fess 3D-ben voxelekkel!
+com.voxdsp.VoxelPaintPro	Fessen 3D-ben egyszínű voxelekkel!
+com.vscodium.codium	Kódszerkesztés. Újradefiniált. Kevesebb a telemetria.
+com.vysp3r.ProtonPlus	Egy egyszerű Wine és Proton alapú kompatibilitási eszközök kezelője
+com.vzhd1701.gridplayer	Videók lejátszása egymás mellett
+com.w1hkj.fldigi	Amatőr rádiós hangkártya kommunikáció
+com.w1hkj.flrig	Amatőr rádióberendezés vezérlés
+com.whitemagicsoftware.kmcaster	Egér és billentyűzet események megjelenítése a képernyőn
+com.wickeditor.WickEditor	Eszköz játékok, animációk és a kettő között lévő dolgok létrehozásához!
+com.wings3d.WINGS	Fejlett felosztási modellező
+com.wire.WireDesktop	A legbiztonságosabb együttműködési platform
+com.wiz.Note	Kiváló felhőhasználaton alapuló PKM (személyes tudásmenedzsment) asztali környezet
+com.wps.Office	WPS Office Suite
+com.writerduet.writersolo	Kiterjedt asztali alkalmazás a forgatókönyv teljes megírásához vagy a különböző forgatókönyv-formátumok közötti konvertáláshoz, mint például a végleges vázlat fdx vagy szökőkút
+com.xnview.XnConvert	Könnyen kötegelt feldolgozása képek és metaadatok szerkesztése
+com.xnview.XnRetro	Lenyűgöző képeket készíthet vintage vagy azonnali hatással
+com.xnview.XnSketch	Változtassa fényképeit rajzfilmekké vagy vázlatokká
+com.xnview.XnViewMP	Képek megtekintése és rendszerezése
+com.xunlei.Thunder	Xunlei letöltés.迅雷下载.
+com.yacreader.YACReader	Még egy képregényolvasó
+com.yktoo.ymuse	Egyszerű, funkcionális és lendületes GTK front-end (kliens) a Music Player Daemonhoz
+com.ylsoftware.qmmp.Qmmp	Qt alapú multimédia lejátszó
+com.yubico.yubioath	Grafikus felület az OATH kódok YubiKey segítségével történő megjelenítéséhez
+com.zandronum.Zandronum	Útmutató az újiskolai többjátékos Doom online játékban
+com.zerobrane.studio	Könnyű, Lua-alapú IDE a Lua számára
+com.zettlr.Zettlr	Markdown szerkesztő a 21. században
+com.zhqli.wikit	Univerzális szótár
+com.zoho.Notebook	A legszebb jegyzetkészítő alkalmazás az eszközökön
+com.zquestclassic.ZQuest	Egy játékmotor a népszerű klasszikus kalandjátékhoz hasonló játékok létrehozásához
+cool.ldr.lfy	Fordító szoftver gnome-hoz
+cz.cvut.edu.comparch.qtrvsim	RISC-V CPU szimulátor oktatási célokra
+cz.krupkat.Xpano	Automatizált fényképfűző eszköz
+cz.zeropage.Formiko	reStructuredText és MarkDown szerkesztő és élő előnézet
+de._0x539.gobby	Szövegfájlok közös szerkesztése
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Egyszerű számológép órák és percek összeadásához
+de.akaflieg_freiburg.enroute	Repülési navigációs alkalmazás VFR-pilóták számára
+de.bforartists.Bforartists	Teljes, ingyenes és nyílt forráskódú 3D programcsomag
+de.billardgl.Billardgl	Szórakoztató 3D biliárd játék
+de.blobbyvolley.BlobbyVolley2	A fej-fej többjátékos röplabda játék.
+de.breitbandmessung.Breitbandmessung	Lehetővé teszi az internet sebességének mérését.
+de.bund.ausweisapp.ausweisapp2	Hivatalos hitelesítő alkalmazás német személyi igazolványhoz és tartózkodási engedélyhez
+de.create3000.titania	Szerkessze, tekintse meg és navigáljon X3D és VRML világokban
+de.fabrik19.mos-Launcher	A Mobilitysuite programozáshoz használható
+de.finnik.PassVault	A PassVault segítségével biztonságosan és egyszerűen kezelheti jelszavait
+de.flinkebits.AvaEmailArchivar	E-mailek archiválása és visszaállítása IMAP-postafiókokból
+de.gunibert.Hackgregator	Hacker News Reader
+de.haeckerfelix.AudioSharing	A számítógép hangjának megosztása
+de.haeckerfelix.Fragments	Egy BitTorrent kliens
+de.haeckerfelix.Shortwave	Internetes rádió hallgatása
+de.halaszovich.PMbrowser	Nyissa meg, böngésszen és exportáljon PM dat fájlokat
+de.ifw_dresden.nagstamon	A Nagstamon egy állapotfigyelő az asztali számítógépekhez.
+de.k_bo.Televido	Hozzáférés a német nyelvű köztévéhez
+de.klayout.KLayout	Maszk-elrendezések megjelenítője és szerkesztője
+de.lernsoftware_filius.Filius	A Filius egy oktatási célú hálózati szimulátor.
+de.linuxguides.RechnungsAssistent	Német számlagenerátor
+de.manuel_kehl.go-for-it	Stílusos teendők listája beépített termelékenységi időzítővel
+de.marlam.gencolormap	Színes térképgenerátor
+de.marlam.qv	2D Data Visualizer
+de.mediathekview.MediathekView	Hozzáférés a Mediathek nyilvános német TV-hez
+de.nicokimmel.shadowcast-electron	Genki ShadowCast videófolyamát mutatja
+de.peterge.combined	Kombinált! egy blokk kirakós játék. A cél az, hogy blokkokat csatlakoztasson, hogy magasabb blokkokat kapjon a táblán.
+de.philippun1.Snoop	Lapozz át a fájljaid között
+de.philippun1.turtle	Kezelje git-tárolóit
+de.rwth_aachen.ient.RDPlot	Az RDPlot egy eszköz a torzítási sebesség görbéinek ábrázolására
+de.rwth_aachen.ient.YUView	QT alapú, többplatformos YUV lejátszó fejlett analitikai eszközkészlettel
+de.schmidhuberj.DieBahn	Utazzon vonattal kapcsolatos összes információjával egy helyen
+de.schmidhuberj.Flare	Csevegés barátaival a Signal szolgáltatásban
+de.schmidhuberj.tubefeeder	Kövesd a videó készítőit
+de.sesu8642.feudaltactics	Stratégiai játék számtalan egyedi és kihívást jelentő pályával.
+de.shorsh.discord-screenaudio	Egyedi diszcord kliens, amely támogatja a hanggal való streamelést Linuxon
+de.syping.gta5view	Nyissa meg és szerkessze a GTA V profilokat
+de.tumexam.cli	A TUMexam kliens a hallgatók és a vizsgák kezelésére.
+de.unifreiburg.ellipticcurve	Elliptikus görbéket vázol fel, és lehetővé teszi a csoporttörvényükkel való kísérletezést
+de.uni_heidelberg.zah.GaiaSky	Nyílt forráskódú 3D univerzum szimulátor asztali számítógépekhez és VR-hez, több mint egymilliárd objektum támogatásával
+dev.alextren.Spot	Hallgass zenét a Spotify-on
+dev.ares.ares	többrendszerű konzol emulációs csomag
+dev.atoft.Reactions	Egyszerű GIF keresés.
+dev.aunetx.deezer	Online zenei streaming szolgáltatás
+dev.bambosh.UnofficialHomestuckCollection	A Homestuck és a kapcsolódó művek offline gyűjteménye
+dev.boxi.Boxi	Terminál emulátor a Toolboxhoz
+dev.bragefuglseth.Fretboard	Nézz utána a gitárakkordoknak
+dev.bsnes.bsnes	Super Nintendo emulátor
+dev.Cogitri.Health	Fitneszcélok követése
+dev.deedles.Trayscale	Egy nem hivatalos GUI burkoló a Tailscale CLI körül.
+dev.edfloreshz.Done	A teendőlisták újragondolva
+dev.ensoft.ecode	Könnyű, többplatformos kódszerkesztő a modern hardverekhez, a válaszkészségre és a teljesítményre összpontosítva.
+dev.gbstudio.gb-studio	Gyorsan és egyszerűen használható drag and drop retro játékkészítő a Game Boyhoz
+dev.geopjr.Collision	Ellenőrizze a fájlok hash-ét
+dev.geopjr.Tuba	Böngéssz a Fediverse-ben
+dev.goats.xivlauncher	Indító és zökkenőmentes Linux-integráció a Final Fantasy XIV Online-hoz
+dev.hdos.HDOS	High Detail Old School Runescape kliens
+dev.jamiethalacker.window_painter	Töltse fel a táblát azonos színű festékkel
+dev.k8slens.OpenLens	A Kubernetes IDE
+dev.krtirtho.Flemozi	Speciális⚡ Hangulatjelválasztó😀 Linux🐧, Windows🪟 és macOS számára🍎
+dev.lapce.lapce	Villámgyors és hatékony kódszerkesztő Rust nyelven
+dev.lasheen.qr	QR-kód olvasó/generátor
+dev.levz.TinyImageFinder	Képkereső előnézettel
+dev.linwood.butterfly	Erőteljes, minimalista, többplatformos, nyílt forráskódú jegyzetkészítő alkalmazás
+dev.lizardbyte.app.Sunshine	Saját házigazda játék stream házigazda a Moonlight számára.
+dev.lukebriggs.pepys	Egy egyszerű leértékelési napló
+dev.mrquantumoff.mcmodpackmanager	Könnyedén kezelheti modpackjait!
+dev.mufeed.Wordbook	Keressen definíciókat bármely angol kifejezéshez
+dev.paullee.scraterpreter.Scrape	A Scraterpreter egy tolmács, amely .sb3 (Scratch) projekteket futtat.
+dev.paullee.scraterpreter.Scrapec	A Scraterpreterc a Scraterpreter fordítója.
+dev.pulsar_edit.Pulsar	Egy közösség által vezetett, hiperhackelhető szövegszerkesztő
+dev.rzia.minesector	Snazzy Minesweeper alapú játék
+dev.salaniLeo.forecast	Időjárás alkalmazás a GNOME-hoz
+dev.salaniLeo.immagini	Könyvtár és létrehozó eszköz az AppImage alkalmazásokhoz
+dev.schlaubi.Tonbrett	Companion App a Discord Soundboard Bot számára
+dev.serebit.Waycheck	Megjeleníti a Wayland kompozitor által megvalósított protokollokat
+dev.slimevr.SlimeVR	Egy alkalmazás a teljes test követésének megkönnyítésére a virtuális valóságban
+dev.stewlab.PortaWar	Üdvözöljük a kéziszámítógépek háborújában!
+dev.storyapps.starc	All-in-One íróalkalmazás
+dev.tchx84.Portfolio	Fájlok kezelése útközben
+dev.vencord.Vesktop	Snappier Discord alkalmazás a Vencorddal
+dev.vieb.Vieb	Vim ihlette elektronböngésző
+dev.zelikos.rollit	Eldobni a kockát
+de.wger.flutter	Fitness/edzés, táplálkozás és súlykövető
+de.willuhn.Jameica	Az OSGI-hez hasonló alkalmazás-platform
+de.wwwtech.ColorMate	A CSS-színek konvertálása a jelölések között
+de.zwarf.picplanner	Tervezze meg a következő fényképezési helyszíneket
+dk.tangramgames.mrrescue	Arcade stílusú tűzoltó játék
+edu.berkeley.BOINC	Hozzájáruljon számítási teljesítményéhez számos tudományos területen kutatást végző projektekhez
+edu.mit.Scratch	Hozzon létre történeteket, játékokat és animációkat, és ossza meg másokkal szerte a világon
+edu.princeton.physics.WSJTX	Gyenge jelű rádióamatőr működés
+edu.stanford.Almond	A nyílt virtuális asszisztens
+edu.stanford.protege	Funkciókban gazdag ontológiaszerkesztő környezet
+engineer.atlas.Nyxt	A hacker böngészője
+es.estoes.wallpaperDownloader	Töltse le, kezelje és módosítsa háttérképeit automatikusan az internetről
+eu.ad5001.LogarithmPlotter	Síkbeli ábrázolásszoftver Bode-ábrák, sorozatok és eloszlási funkciók készítéséhez
+eu.betterbird.Betterbird	A Betterbird a Mozilla Thunderbird puha villája. Egyszerűen jobb.
+eu.cichy1173.tabela	Egyszerű alkalmazás, amely megjeleníti a CSV-tartalmat a táblázatban
+eu.ithz.umftpd	Hozzáférés a fájlokhoz egy másik eszközről
+eu.ngdevelopment.tsukitag	Anime imageboard böngésző, aggregátor, letöltő, címkéző, konvertáló, gyűjteménykezelő. Böngésszen és hozzon létre saját gyűjteményeket, konfiguráljon munkaterületeket a képek letöltéséhez sablontámogatással.
+eu.nimmerfort.blackbody	Termogram néző
+eu.ototu.Quteqoin	Alkalmazás öntsön lire les tribunes
+eu.planete_kraus.Tarot	Játssz egy Tarot játékot a mesterséges intelligencia ellen
+eu.scarpetta.PDFMixTool	Alkalmazás általános szerkesztési műveletek végrehajtására PDF-fájlokon
+eu.skribisto.skribisto	Szoftver íráshoz
+eu.stethewwolf.gresistor	Ellenállás színkódok kalkulátor
+eu.usdx.UltraStarDeluxe	Karaoke program, amely értékeli a teljesítményét
+eu.vcmi.VCMI	Nyílt forráskódú játékmotor a Heroes of Might and Magic III-hoz
+fi.mooc.tmc.tmc-cli-rust	CLI a TestMyCode programozási hozzárendelés kiértékelőhöz.
+fi.skyjake.Lagrange	Egy gyönyörű Gemini kliens
+fm.cancel.Ripcord	Alternatív asztali csevegőkliens a Slack (és a Discord) számára
+fm.helio.Workstation	Helio Project ingyenes zeneszerző szoftver
+fm.reaper.Reaper	Digitális audio munkaállomás
+fr.dwightstudio.JArmEmu	Egyszerű Java nyelven írt ARMv7 szimulátor, oktatási célra
+fr.fgrabenstaetter.DigitalAssets	Kriptovaluták árak és statisztikák
+fr.free.brouits.qspeakers	Hangszóró tervező szoftver
+fr.free.Homebank	Ingyenes, egyszerű, személyes könyvelés, mindenki számára
+fr.free.hxc2001.HxCFloppyEmulator	Szoftver és hardver megoldás a régi hajlékonylemez cseréjéhez
+fr.free.qccrypt.Qccrypt	QT alapú grafikus frontend a ccrypt eszközhöz
+fr.handbrake.ghb	Videó átkódoló
+fr.henri2h.minestrix	A Matrixon alapuló, adatvédelemre összpontosító közösségi média
+fr.inria.corese.CoreseCommand	Fedezze fel a szemantikus web erejét
+fr.inria.corese.CoreseGui	Fedezze fel a szemantikus web erejét
+fr.masson_informatique.WhosWho	Hozzon létre PDF dokumentumokat emberek képeivel és a megfelelő névvel, más néven ki kicsoda, évkönyv vagy facebook
+fr.natron.Natron	Nyílt forráskódú videó-összeállító szoftver
+fr.romainvigier.MetadataCleaner	Metaadatok megtekintése és tisztítása a fájlokból
+fr.romainvigier.zap	Hangok lejátszása hangtábláról
+fr.rubet.rpn	Fordított lengyel jelölésű CLI számológép
+fr.sgued.ten_forward	NAT-PMP átjáró vezérlése
+fun.vnote.app.VNote	Kellemes jegyzetelési platform
+fyi.zoey.Boop-GTK	Az IvanMathy's Boop portja a GTK-hoz, egy szkriptelhető scratchpad fejlesztőknek.
+fyi.zoey.TeX-Match	Keresse meg a LaTeX szimbólumokat vázlatokkal
+games.zetsubou.AnAdventurersGallantry	A kegyvesztett lovag a képzésben Oren kap egy második esélyt az életre kalandorként ebben a fantasy vizuális regényben
+games.zetsubou.HumanityMustPerish	Komikus vizuális regény egy középiskolás lánynak öltözött androidról, aki az emberiség elpusztítására készül
+games.zetsubou.MaxMassacre	Szörnyekkel teli fantáziavilágban játszódó vizuális regény
+games.zetsubou.SablesGrimoireDemo	Szörnylány vizuális regény, amely egy varázsakadémián játszódik
+games.zetsubou.WanderNoMore	Vizuális regény, amely egy szélhámos szamuráj történetét meséli el
+garden.turtle.Jellybean	Tartsa számon az újratölthető tételeket
+ga.rpmtw.rpmlauncher	Egy jobb Minecraft Launcher, amely több platformot és számos funkciót támogat, amelyeket felfedezhet!
+gg.guilded.Guilded	Üzenetküldő, hang- és videokliens
+gg.minion.Minion	AddOn menedzser a The Elder Scrolls Online és a World of Warcraft számára
+gg.tesseract.Tesseract	Első személyű lövöldözős játék kooperatív játékon belüli térképszerkesztéssel
+global.worldcoin.worldcoin-core	Határok választják el, technológia egyesíti
+hu.irl.cameractrls	Kameravezérlők Linuxhoz
+hu.kramo.Cartridges	Indítsa el az összes játékát
+id.sideka.App	Faluirányítási Platform
+il.co.ravkavonline.RavKavOnline	Töltse fel Rav-Kav kártyáját otthon, és utazzon kényelmesen
+im.bernard.Funkcio	Függvények rajzolása pontokból
+im.bernard.Nostalgia	Állítsa be a történelmi GNOME háttérképeket
+im.dino.Dino	Modern XMPP csevegőprogram
+im.fluffychat.Fluffychat	Csevegés barátaival
+im.gitter.Gitter	Kommunikációs termék közösségek és csapatok számára a GitHubon.
+im.kaidan.kaidan	Felhasználóbarát és modern csevegőalkalmazás minden eszközhöz
+im.pidgin.Pidgin	Azonnaliüzenet-küldő kliens
+im.riot.Riot	Létrehozhat, megoszthat, kommunikálhat, cseveghet és hívhat biztonságosan, és kapcsolódhat más alkalmazásokhoz
+im.srain.Srain	Modern GTK-ban írt IRC kliens
+in.bharatkalluri.shortcircuit	Fejlesztői scratchpad
+in.bharatkalluri.splash	Állítson be magas színvonalú asztali háttereket az Unsplash alkalmazásból!
+in.cinny.Cinny	Egy újabb Matrix kliens egyszerű, elegáns és biztonságos felülettel.
+info.beyondallreason.bar	A teljes megsemmisülést inspirálta RTS, amelyre vártál
+info.bibletime.BibleTime	Bibliatanulmányozó program
+info.cemu.Cemu	Nintendo Wii U emulátor
+info.colobot.Colobot	Gyarmatosíts botokkal
+info.febvre.Komikku	Olvassa el kedvenc mangáját
+info.mumble.Mumble	Alacsony késleltetésű titkosított VoIP kliens
+info.olasagasti.revelation	Jelszókezelő
+info.portfolio_performance.PortfolioPerformance	Kövesse nyomon egy befektetési portfólió teljesítményét
+info.puredata.Pd	Valós idejű grafikus programozási környezet élő interaktív számítógépes zenéhez
+info.puredata.Pd-extended	Nyílt forráskódú vizuális programozási nyelv multimédiához
+info.rttr.Return-To-The-Roots	Rajongói projekt, amely újravalósítja a The Settlers 2 játékot
+info.smplayer.SMPlayer	Nagyszerű médialejátszó
+info.urbanterror.UrbanTerror	Taktikai első személyű lövöldözős játék akciófilm elemekkel
+ink.scribl.Scribl	Készítsen egyszerű oktatóvideókat
+in.p1x.TanksOfFreedom	Indie turn alapú stratégia izometrikus pixel művészetben
+in.srev.guiscrcpy	Android képernyőtükrözési szoftver
+io.appflowy.AppFlowy	Nyílt forráskódú fogalom alternatívája
+io.atom.Atom	Feltörhető szövegszerkesztő a 21. században
+io.bassi.Amberol	Zenét játszik, és semmi több
+io.beekeeperstudio.Studio	Álmai SQL-szerkesztője és adatbázis-kezelője
+io.blockloader.BlockLoader	A legjobb Minecraft mod menedzser
+io.botfather.Botfather	Univerzális automatizálási keretrendszer
+io.conduktor.Conduktor	Egy gyönyörű és teljes funkcionalitású asztali kliens az Apache Kafka számára
+io.crow_translate.CrowTranslate	Egyszerű és könnyű fordító
+io.dbeaver.DBeaverCommunity	Univerzális adatbázis-kezelő
+io.defn.Franz	Az Apache Kafka asztali kliense
+io.edcd.EDMarketConnector	Frissíti az EDDN-t a játékból származó adatokkal
+io.emeric.toolblex	Bluetooth Low Energy készülék szkenner és elemző
+io.emeric.watchflower	Növényfigyelő alkalmazás Bluetooth Low Energy érzékelőkhöz és hőmérőkhöz, mint például a Xiaomi "Flower Care" vagy a Parrot "Flower Power"
+io.enpass.Enpass	Az Enpass egy jelszókezelő a jelszavak és egyéb hitelesítő adatok biztonságos tárolására és kezelésére.
+io.exodus.Exodus	All-in-one alkalmazás a blokklánc-eszközök biztosításához, kezeléséhez és cseréjéhez
+io.frama.tractor.carburetor	Az Onion Routing alkalmazás
+io.freetubeapp.FreeTube	Nyílt forráskódú YouTube-alkalmazás az adatvédelem érdekében
+io.gdevelop.ide	Gyors és egyszerű játékkészítés
+io.gdevs.GDLauncher	A GDLauncher egy egyszerű, mégis erőteljes Minecraft egyéni indító, amely nagy hangsúlyt fektet a felhasználói élményre.
+io.github._0xzer0x.qurancompanion	Platformok közötti asztali offline Korán olvasó és lejátszó
+io.github.aandrew_me.ytdn	Töltsön le videókat és hanganyagokat több száz webhelyről
+io.github.achetagames.epic_asset_manager	Kezelje Epic eszközeit
+io.github.Adda0.Stardrop	A Stardrop nem hivatalos villája egyedi változtatásokkal
+io.github.adrienverge.PhotoCollage	Grafikus eszköz fotókollázs plakátok készítéséhez
+io.github.aerocyber.sitemarker	Nyílt forráskódú könyvjelzőkezelő
+io.github.aggalex.Wineglass	A Wine grafikus felhasználói felülete
+io.github.alainm23.planify	Felejtsd el a dolgok elfelejtését
+io.github.alexkdeveloper.gomoku	Gomoku játék
+io.github.alexkdeveloper.radio	Egy egyszerű rádió a radio-browser.info webhely állomásaival
+io.github.alexkdeveloper.zodiac	Egy egyszerű program horoszkópok készítéséhez
+io.github.am2r_community_developers.AM2RLauncher	Előtér az AM2R frissítéseinek és módosításainak kezelésére
+io.github.am2r_community_developers.Atomic	Modcsomagoló eszközlánc AM2R modokhoz.
+io.github.amit9838.weather	Gyönyörű és könnyű időjárási alkalmazás
+io.github.andreibachim.shortcut	Alkalmazási parancsikonok létrehozása
+io.github.Andrettin.Wyrmsun	Történelemen, mitológián és fikción alapuló stratégiai játék
+io.github.anirbandey1.ChatbotClient	Elektronburkoló a ChatGPT webhelyhez
+io.github.antimicrox.antimicrox	Grafikus program a játékvezérlő gombjainak billentyűzethez, egérhez, szkriptekhez és makrókhoz való hozzárendelésére
+io.github.appoutlet.GameOutlet	Találja meg a legjobb árakat PC-játékokon
+io.github.Archeb.opentrace	Platformok közötti grafikus felhasználói felület burkolója a NextTrace-hez
+io.github.Arisotura.CoinKiller	Szintszerkesztő NSMB2-hez
+io.github.arunsivaramanneo.GPUViewer	A glxinfo, vulkaninfo, clinfo és es2_info felülete
+io.github.Bavarder.Bavarder	Csevegés egy MI-vel
+io.github.benini.scid	Egy sakk adatbázis-alkalmazás
+io.github.betaflight.BetaflightConfigurator	Crossplatform konfigurációs eszköz a Betaflight repülésvezérlő rendszerhez
+io.github.bkueng.qMasterPassword	Állapot nélküli fő jelszókezelő
+io.github.Bollos00.LibreMines	Ingyenes/Libre és nyílt forráskódú szoftveres Qt alapú Minesweeper játék GNU/Linux, FreeBSD és Windows rendszerekre.
+io.github.bothlab.pomidaq	Videók megtekintése és rögzítése az UCLA miniszkópokból
+io.github.bothlab.syntalos	Szinkronizált adatgyűjtés különböző forrásokból és rugalmas kísérletirányítás
+io.github.brainstormtrooper.facteur	Sablonalapú e-maileket küld a címzettek listájának
+io.github.brunoherbelin.Vimix	Videó élő keverő
+io.github.btpf.alexandria	Minimalista eBook olvasó
+io.github.bytezz.IPLookup	Keressen információt egy IP-címről
+io.github.carterbox.Electricity_Clock	A használati idő monitorozása az áramdíjak tekintetében
+io.github.cboxdoerfer.FSearch	Grafikus fájlkereső alkalmazás
+io.github.celluloid_player.Celluloid	GTK+ felület az mpv-hez
+io.github.cges30901.hmtimer	Grafikus leállítási időzítő
+io.github.chris2511.xca	X Tanúsítvány és kulcskezelés
+io.github.ciromattia.kcc	Egy alkalmazás, amely lehetővé teszi PNG, JPG, GIF, CBZ, CBR és CB7 fájlok EPUB vagy MOBI formátumú e-könyvekké alakítását
+io.github.cleomenezesjr.Escambo	API-k tesztelése és fejlesztése
+io.github.cloose.CuteMarkEd	Qt Markdown szerkesztő
+io.github.cmus.cmus	Konzolos zenelejátszó
+io.github.Cockatrice.cockatrice	Virtuális asztallap többjátékos kártyajátékokhoz
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.ctlcltd.e2se	Műholdas csatornalista szerkesztő: Enigma2, Neutrino, dreambox
+io.github.cudatext.CudaText-Qt5	Nyílt forráskódú és többplatformos szövegszerkesztő
+io.github.cxong.cdogs-sdl	Klasszikus fej feletti futás és fegyver játék
+io.github.dagargo.Elektroid	Minta és MIDI eszközkezelő
+io.github.daviddesimone.opencloudsaves	A mentett játékok szinkronizálására szolgáló eszköz az eszközök között
+io.github.davidoc26.wallpaper_selector	Letölti és alkalmazza a háttérképeket
+io.github.dbchoco.muezzin	Iszlám áhítatok alkalmazása
+io.github.dbchoco.Salawat	Iszlám áhítatok alkalmazása
+io.github.ddanilov.soundscape	Asztali hangkép alkalmazás
+io.github.dfandrich.gpscorrelate	A GPS Correlate EXIF GPS helycímkéket csatol a képekhez
+io.github.dgsasha.Remembrance	Állítson be emlékeztetőket magának
+io.github.dida_code.OpstaKultura	Játék, tudás vetélkedő
+io.github.diegoivan.GaticTacToe	Játssz Tic-tac-toe-t barátaiddal
+io.github.diegoivanme.flowtime	Töltsd okosan az időt
+io.github.diegoivan.pdf_metadata_editor	PDF dokumentum metaadatainak szerkesztése
+io.github.diegopvlk.Dosage	Kövesse nyomon a kezeléseket
+io.github.dimtpap.coppwr	Alacsony szintű vezérlő GUI a PipeWire számára
+io.github.divverent.aaaaxy	Nemlineáris puzzle platformer, amely lehetetlen terekben játszódik
+io.github.dlippok.photometric-viewer	Tekintse meg a fotometriai fájlokat
+io.github.dman95.SASM	Egyszerű cross-platform IDE NASM, MASM, GAS és FASM assembly nyelvekhez
+io.github.dosbox-staging	DOS/x86 emulátor, amely a könnyű használhatóságra összpontosít
+io.github.Dretch.MonomerFlatpakExample	Monomer Flatpak példa Alkalmazás.
+io.github.dtsudo.ChessCompStompWithHacks	Győzd le a sakk AI-t hackekkel!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Speedrun végig 10 szinten a mentési állapotok segítségével!
+io.github.dubstar_04.design	2D CAD GNOME-hoz
+io.github.dummerle.rare	GUI a legendás, nyílt forráskódú Epic Games alternatívához
+io.github.dvlv.boxbuddyrs	Grafikus Distrobox Manager
+io.github.dweymouth.supersonic	Könnyű, többplatformos asztali kliens Subsonic és Jellyfin zeneszerverekhez
+io.github.dyegoaurelio.simple-wireplumber-gui	Egy egyszerű GTK4 GUI a PipeWire-hez
+io.github.ec_.Quake3e.OpenArena	Ingyenes és nyílt forráskódú első személyű lövöldözős játék
+io.github.eminfedar.vaktisalah-gtk-rs	A Vakt-i Salah (Prayer Times) GTK4 verziója
+io.github.endless_sky.endless_sky	Űrkutatás és harci játék
+io.github.erkin.ponysay	cowsay reimplementáció pónik számára
+io.github.everestapi.Olympus	Platformok közötti Celeste Mod Manager
+io.github.ezQuake	egy modern QuakeWorld kliens, amely a versenyképes online játékra összpontosít
+io.github.f3d_app.f3d	Gyors és minimalista 3D-s megjelenítő
+io.github.fabiangreffrath.Doom	Korlát eltávolító, továbbfejlesztett felbontású Doom forrásport
+io.github.fabrialberio.pinapp	Alkalmazás-parancsikonok létrehozása és szerkesztése
+io.github.FailurePoint.RandomNumberFive	Véletlenszám-generátor Linux asztali számítógépekhez!
+io.github.fastrizwaan.WineZGUI	Wine GUI a Zenity használatával
+io.github.ferraridamiano.ConverterNOW	Egyszerű, azonnali és gyors mértékegység-átalakító!
+io.github.Figma_Linux.figma_linux	Web alapú együttműködési tervezési eszköz
+io.github.fin_ger.OvGUCanteen	Tekintse meg az OvGU Mensa menüt egy kis GTK alkalmazásban
+io.github.fizzyizzy05.binary	Számbázis konverter
+io.github.fkinoshita.Telegraph	Írj és dekódolj morze
+io.github.flattool.Warehouse	Kezeldje a Flatpak-jeit
+io.github.Fndroid.clash_for_windows	A Clash grafikus kliense, Electron alapú.
+io.github.Foldex.AdwSteamGtk	Adja meg Steamnek az Adwaita kezelést
+io.github.Foldex.r2mod	Eső veszélye 2 Mod Manager
+io.github.foldynl.QLog	Rádióamatőr napló
+io.github.foxxmd.multiscrobbler	Számos forrásból származó zenét scrolloz sok ügyfélnek
+io.github.fragglet.sdl_sopwith	A klasszikus kétfedelű shoot ‘em-up
+io.github.fralonra.PpdEditor	2D papírbaba szerkesztő
+io.github.fralonra.WgShadertoy	Shadertoy által ihletett WGSL játszótér
+io.github.freedoom.FreeDM	Deathmatch játék a Doom motoron alapul
+io.github.freedoom.Phase1	Első személyű lövöldözős játék a Doom motoron
+io.github.freedoom.Phase2	Első személyű lövöldözős játék a Doom motoron
+io.github.fsobolev.TimeSwitch	Állítson be egy időzítő után futtatandó feladatot
+io.github.gamingdoom.Datcord	Egy nyílt forráskódú Discord kliens, amely Firefoxot használ
+io.github.garglk.Gargoyle	Egy interaktív fikciós lejátszó
+io.github.gen2brain.cbconvert	Képregény konverter
+io.github.gerryferdinandus.bittorrent-tracker-editor	Nyomkövető hozzáadása vagy eltávolítása torrent fájlokból.
+io.github.giantpinkrobots.bootqt	Hozzon létre indítható meghajtókat
+io.github.giantpinkrobots.flatsweep	Flatpak maradék tisztítószer
+io.github.giantpinkrobots.varia	Fájlok letöltése gyorsan és hatékonyan
+io.github.gillesdegottex.FMIT	Ingyenes Hangszerhangoló (FMIT), egy eszköz hangszerek hangolására
+io.github.glitterware.Passy	Offline jelszókezelő platformok közötti szinkronizálással
+io.github.GoldenGnu.jEveAssets	A jEveAssets egy játékon kívüli eszközkezelő az Eve-Online számára
+io.github.gopher64.gopher64	Nintendo 64 emulátor
+io.github.gssh_linux.gssh	Python-alkalmazás, amellyel egy (igazán) egyszerű grafikus felületről csatlakozhat ssh-kiszolgálókhoz
+io.github.gtkwave.GTKWave	Elektronikus hullámforma néző a szimulációs eredmények megtekintéséhez
+io.github.guillaumechereau.Goxel	Nyílt forráskódú 3D-s voxelszerkesztő
+io.github.hakandundar34coding.mini-system-monitor	CPU, RAM, lemez, hálózati használat figyelése
+io.github.hakandundar34coding.system-monitoring-center	Többcélú rendszerfigyelő
+io.github.hakuneko.HakuNeko	Platformok közötti letöltő mangákhoz és animékhez különböző webhelyekről
+io.github.helpseeker.Gyre	Letöltő a Coub videókhoz
+io.github.hermitdemschoenenleben.linien	Spektroszkópiai zár
+io.github.Hexchat	IRC kliens
+io.github.hmlendea.geforcenow-electron	Nem hivatalos, Electron nyelven írt GeForce NOW alkalmazás
+io.github.hrkfdn.ncspot	A többplatformos ncurses Spotify kliens
+io.github.huderlem.porymap	Térképszerkesztő a 3. generációs Pokémon dekompilációs projektekhez
+io.github.hurricangame.hurrican	Ingyenes ugrás és lövöldözés játék, amelyet a Poke53280 készített
+io.github.hvdwofl.jExifToolGUI	Egyszerű kezelőfelület az ExifTool számára
+io.github.hydrusnetwork.hydrus	A média rendszerezése az asztalon
+io.github.hypengw.Qcm	Qt kliens a netease felhő zenéhez
+io.github.Icalingua.Icalingua	Linux kliens QQ-hoz és még sok máshoz
+io.github.idevecore.CurrencyConverter	Egy egyszerű valutaváltó Google-alapú adatok felhasználásával
+io.github.igaldino.CoyoteTM	Kezelje a feladatokat, mint egy prérifarkas
+io.github.igorlogius.scr2ppm	A legapróbb X11 képernyőrögzítés aka. screenshot segédprogram
+io.github.ihhub.Fheroes2	Az fheroes2 a Heroes of Might és a Magic II játékmotor egy alkotása
+io.github.ilius.pyglossary	Eszköz a szótárfájlok, más néven szószedetek konvertálására.
+io.github.ImEditor	Egyszerű és sokoldalú képszerkesztő
+io.github.iSlammedMyKindle.godotGem	Vezérlőkliens egy xbox360 vezérlő emulálásához Windowshoz
+io.github.ja2_stracciatella.JA2-Stracciatella	Továbbfejlesztett, többplatformos, stabil Jagged Alliance 2 futási környezet
+io.github.jacalz.rymdport	Gyors, titkosított fájlátvitel
+io.github.JaGoLi.ytdl_gui	Egyszerűen használható, többplatformos grafikus felület a youtube-dl-hez.
+io.github.JakubMelka.Pdf4qt	Nyílt forráskódú PDF-szerkesztő
+io.github.janbar.noson	SONOS vezérlő
+io.github.java_decompiler.jd-gui	Egy önálló grafikus segédprogram, amely a CLASS fájlokból jeleníti meg a Java forrásokat
+io.github.jean28518.Linux-Assistant	Napi linux segéd hatékony integrált kereséssel, rutinokkal és ellenőrzésekkel
+io.github.jeffshee.Hidamari	Videó háttérkép Linuxhoz
+io.github.jhaygood86.mauborgne	2FA OTP kódgenerátor
+io.github.jliljebl.Flowblade	Videószerkesztő - Gyors, precíz, stabil
+io.github.jonmagon.kdiskmark	Lemez-benchmark eszköz
+io.github.jorchube.monitorets	Mindig egy pillantással áttekintheti a rendszererőforrások használatát
+io.github.jordanl2.ModularCalculator	Erőteljes, szkriptelhető, moduláris számológép tudományos, mérnöki vagy számítástechnikai munkákhoz.
+io.github.jotd666.gods-deluxe	A platformjáték remake-je
+io.github.jtdx_project.JTDX	jtdx (villás WSJT-X rádióamatőr kommunikációhoz)
+io.github.julian_hochhaus.LG4X_V2	Python csomag XPS-görbeillesztés elemzéséhez
+io.github.kaii_lb.hgui	Egy alkalmazás a hidzsri és a gregorián dátumok közötti egyszerű és offline konverzióhoz (és fordítva)!
+io.github.kalaksi.Lightkeeper	Önálló, testreszabható szerverfelügyeleti eszköz
+io.github.kaschpal.timetable	Naptár/tervező tanárok és esetleg diákok számára
+io.github.kevinsmia1939.PySimpleCV	Plot Ciklikus voltammogram és akkumulátor ciklus
+io.github.KikoPlayProject.KikoPlay	NEM CSAK egy teljes értékű Danmu lejátszó
+io.github.koromelodev.mindmate	Nem hivatalos alkalmazás a ChatGPT-hez
+io.github.kotatogram	Kotatogram Desktop messenger
+io.github.ktgw0316.LightZone	Fényképezőgép RAW képfeldolgozó processzor
+io.github.kukuruzka165.materialgram	Nem hivatalos Telegram asztali üzenetküldő alkalmazás
+io.github.labsquare.CutePeaks	önálló Sanger nyomkövetési megjelenítő
+io.github.lainsce.Colorway	Színpárosítások létrehozása
+io.github.lainsce.Countdown	Kövesse nyomon az eseményeket, amíg meg nem történtek, vagy amióta megtörténtek
+io.github.lainsce.DotMatrix	A vonalak és ívek kreativitás játszótere
+io.github.lainsce.Emulsion	Raktározza fel a színeket
+io.github.lainsce.Khronos	Jegyezze fel a feladatok elvégzéséhez szükséges időt
+io.github.lainsce.Notejot	Jegyezze fel az ötleteit
+io.github.lainsce.Quilter	Koncentrálj az írásodra
+io.github.lemmygtk.lemoa	Gtk kliens Lemmy számára
+io.github.leolost2605.gradebook	Kövesse nyomon az osztályzatait
+io.github.leonardschardijn.Chirurgien	A bináris fájlformátumok megértése és kezelése
+io.github.lethal_guitar.RigelEngine	A Duke Nukem II klasszikus DOS-játék modern újramegvalósítása
+io.github.letslearn_app.letslearn	Nyílt forráskódú jegyzetalkalmazás rendezett megjelenéssel
+io.github.libvibrant.vibrantLinux	Rendszer segédprogram az X11 képernyők színtelítettségének beállításához
+io.github.limads.Queries	Munkaasztal a relációs adatbázisokkal való interakcióhoz.
+io.github.listen1.Listen1	Egy az összes ingyenes zenéhez Kínában
+io.github.loot.loot	Moding segédprogram Starfield és néhány Elder Scrolls és Fallout játékhoz
+io.github.lruzicka.Needly	egy Pythonban írt openQA tűszerkesztő
+io.github.ltiber.Pwall	böngészhet a fényképek/videók között
+io.github.lunarequest.NightPDF	Sötét módú PDF olvasó
+io.github.lxndr.gswatcher	Egy egyszerű játékszerver-monitor és egy adminisztrációs eszköz.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	A Doom BFA egy Doom 3 BFG GPL forrásport
+io.github.magnush.mhWaveEdit	Az mhWaveEdit egy grafikus program hangfájlok szerkesztésére
+io.github.mahmoudbahaa.outlook_for_linux	Nem hivatalos Microsoft Outlook kliens Linuxhoz Electron használatával
+io.github.mak448a.QTCord	Discord kliens
+io.github.MakovWait.Godots	Godot játékmotor verziókezelő
+io.github.mandruis7.xbox-cloud-gaming-electron	Nyílt forráskódú Xbox Cloud Electron kliens
+io.github.manisandro.gImageReader	Grafikus (gtk) frontend a tesseract-ocr-hez
+io.github.markummitchell.Engauge_Digitizer	interaktív módon konvertálhat egy bittérképes grafikont vagy térképet számokká
+io.github.martinrotter.rssguard	Egyszerű, mégis hatékony hírfolyam olvasó
+io.github.martinrotter.rssguardlite	Egyszerű, mégis hatékony hírfolyam-olvasó (nincs beépített webböngésző)
+io.github.martinrotter.textosaurus	Egyszerű, többplatformos szövegszerkesztő Qt és QScintilla alapú
+io.github.maurycyliebner.enve	2D animáció
+io.github.mgerhardy.vengi.voxedit	voxel szerkesztő
+io.github.mideb.digitales_register	Inoffizieller Client für das Digitale Register
+io.github.mightycreak.Diffuse	Grafikus eszköz szöveges fájlok egyesítésére és összehasonlítására
+io.github.mihnea_radulescu.imagefanreloaded	Könnyű lapos képnézegető, amely támogatja a többmagos feldolgozást
+io.github.mimbrero.WhatsAppDesktop	Nem hivatalos WhatsApp Web Desktop kliens.
+io.github.mki1967.mki3dgame	Egy egyszerű OpenGL játék tokenek keresésére 3D szakaszokban
+io.github.mmarco94.tambourine	Egyszerű zenelejátszó a könyvtáradhoz
+io.github.mmstick.FontFinder	Betűtípus böngésző
+io.github.mpobaschnig.Vaults	Tartsa biztonságban a fontos fájlokat
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] A CBETA API-kat használó buddhista szövegolvasó.
+io.github.mrvladus.List	Kezelje feladatait
+io.github.muse_sequencer.Muse	Digitális audio munkaállomás
+io.github.myst6re.makoureactor	A Final Fantasy helyszíni szerkesztője VII
+io.github.naikari.Naikari	2-D szabad formájú űrrejtélyes játék
+io.github.najepaliya.kleaner	Kép-metaadat-tisztító
+io.github.narunlifescience.AlphaPlot	Az AlphaPlot egy ingyenes alkalmazás a tudományos adatok elemzéséhez és megjelenítéséhez
+io.github.nate_xyz.Chromatic	Finomhangolja hangszereit
+io.github.nate_xyz.Conjure	Varázslatosan átalakítja a képeket
+io.github.nate_xyz.Paleta	Könnyedén hozhat létre színpalettákat
+io.github.nate_xyz.Resonance	Harmonizálja hallgatási élményét
+io.github.nearinfinitybrowser.nearinfinity	Egy Infinity Engine erőforrásböngésző és szerkesztő
+io.github.neil_morrison44.pocket-sync	Grafikus felhasználói felület az analóg zsebbel való műveletekhez
+io.github.NhekoReborn.Nheko	Asztali kliens a Matrix protokollhoz
+io.github.NickKarpowicz.LightwaveExplorer	Hatékony, felhasználóbarát megoldás a nemlineáris fény-anyag interakcióhoz
+io.github.nokse22.asciidraw	Rajzoljon ASCII karakterekkel
+io.github.nokse22.inspector	A rendszerre vonatkozó információk megtekintése
+io.github.nokse22.minitext	Múlékony karcoló pad
+io.github.nokse22.teleprompter	Görgető szöveg megjelenítése a képernyőn
+io.github.nokse22.trivia-quiz	Válaszolj a végtelen kérdésekre
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	D-Star kliens PC-hez
+io.github.noxworld_dev.OpenNox	Az OpenNox egy Nox játékmotor modern megvalósítása
+io.github.nroduit.Weasis	Ingyenes/ingyenes/nyílt orvosi DICOM-nézegető
+io.github.nuttyartist.notes	Jegyzetkészítő alkalmazás. Írd le a gondolataidat
+io.github.obiwankennedy.HotShots	Erőteljes és egyszerűen használható screenshot szoftver
+io.github.onionware_github.onionmedia	Ingyenes média letöltő és konvertáló - Cross Platform
+io.github.openhv.OpenHV	Nyílt forráskódú 90-es évek Pixelart Sci-Fi valós idejű stratégiai játék
+io.github.OpenToonz	2D animáció
+io.github.orontee.Argos	Könnyű előlap a Mopidy zeneszerverhez
+io.github.paledega.alpine-rootfs	Alpine linux alrendszer
+io.github.parnassius.SysDVR-Qt	Stream Váltson játékokat számítógépére USB-n vagy hálózaton keresztül
+io.github.pastthepixels.InfiniteShooter	Egy leegyszerűsített lövöldözős játék Godot motorral.
+io.github.paulwedeck.settlers-remake	A The Settlers III remake-je Windowsra, Linuxra, Macre és Androidra
+io.github.pd_l2ork.Pd_L2Ork	Pure Data alapú nyílt forráskódú vizuális programozási nyelv multimédiához
+io.github.peazip.PeaZip	Ingyenes fájlarchiváló segédprogram, nyissa meg, bontsa ki a RAR TAR ZIP archívumokat
+io.github.petitlapin.Li-ri	Gyerekjáték, vezessen játék famotort
+io.github.phastmike.tags	Színes naplók címkék alapján
+io.github.philipk.boilr	Adj hozzá nem steam játékokat a steam könyvtáradhoz
+io.github.Pithos	Pandora rádió kliens
+io.github.polypixeldev.Polypass	Egy egyszerű, biztonságos és könnyen használható jelszókezelő
+io.github.pragha_music_player.pragha	Kezelje és hallgassa zenéit
+io.github.prateekmedia.appimagepool	Egy egyszerű, modern AppImageHub kliens.
+io.github.prateekmedia.pstube	Youtube kliens flutter segítségével készült
+io.github.pr_starfighter.starfighter	Space shoot 'em up játék.
+io.github.punesemu.puNES	Nintendo Entertaiment System emulátor
+io.github.purplehorrorrus.Meridius	Zenelejátszó a vk.com-hoz
+io.github.pwr_solaar.solaar	Linux-kezelő Logitech billentyűzetekhez, egerekhez és görgetőpadokhoz
+io.github.pyfa_org.Pyfa	Python illesztési asszisztens az EVE számára: Online
+io.github.Qalculate	Erőteljes és könnyen használható számológép
+io.github.Qalculate.qalculate-qt	Erőteljes és könnyen használható számológép
+io.github.qier222.YesPlayMusic	Kiváló megjelenésű, harmadik féltől származó Netease CloudMusic lejátszó
+io.github.qnapi	Szoftver a filmek feliratainak letöltéséhez és automatikus párosításához
+io.github.qtox.qTox	Erőteljes Tox chat kliens, amely követi a Tox tervezési irányelveit.
+io.github.quodlibet.ExFalso	Tagok szerkesztése hangfájljaidban
+io.github.quodlibet.QuodLibet	Hallgasd, böngészd vagy szerkeszd zenéidet
+io.github.qwersyk.Newelle	Csevegőbot, amely vezérli a számítógépet
+io.github.rafaelfassi.QLogExplorer	Gyors naplóböngésző fejlett eszközökkel
+io.github.randovania.Randovania	Véletlenszerűsítő platform számos játékhoz
+io.github.Rangi42.polished-map	Pokecrystal térképek és csempekészletek szerkesztése
+io.github.Rangi42.polished-map-plusplus	Pokecrystal térképek és csempekészletek szerkesztése
+io.github.Rangi42.tilemap-studio	Cilemap szerkesztő Game Boy, Color, Advance, DS és SNES projektekhez
+io.github.realmazharhussain.GdmSettings	Szabja testre bejelentkezési képernyőjét
+io.github.retgal.Dayon	A távsegítség egyszerűen!
+io.github.retux_game.retux	Akcióplatformer a Linux kabalája, Tux főszereplésével
+io.github.rinigus.OSMScoutServer	Térképkiszolgáló, amely csempéket, geokódert és útválasztót biztosít
+io.github.rinigus.PureMaps	Térképek és navigáció
+io.github.ripose_jp.Memento	Mpv alapú videólejátszó japán tanuláshoz
+io.github.Rirusha.Cassette	Nem hivatalos Yandex.Music kliens
+io.github.RobertBeckebans.RBDoom3BFG-GL	A DOOM-3-BFG modernizációs erőfeszítése
+io.github.rocket.editor	Rakéta szerkesztő
+io.github.RodZill4.Material-Maker	Eljárási textúrageneráló és hálófestő eszköz
+io.github.sameboy.SameBoy	Game Boy és Game Boy Color emulátor
+io.github.santiagocezar.maniatic-launcher	Indító a Retro Engine (v5) dekompilálásához
+io.github.seadve.Breathing	Lazítson és meditáljon
+io.github.seadve.Kooha	Vegye fel a képernyőjét elegánsan
+io.github.seadve.Mousai	Dalok azonosítása másodpercek alatt
+io.github.searchandrescue2.sar2	Mentőhelikopter szimulátor
+io.github.Sebicodes99.Prt	Python socket alkalmazás, amely lehetővé teszi egy barátjának, hogy parancsokat hajtson végre a rendszeren anélkül, hogy megnyitná a portokat vagy ssh-kiszolgálót használna, egyszerű grafikus felhasználói felülettel
+io.github.sharkwouter.Minigalaxy	Egy egyszerű GOG kliens Linuxhoz
+io.github.sharkwouter.oceanpop	Pihentető mérkőzés 3 kirakós játék egy csavarral
+io.github.shiftey.Desktop	Egyszerű együttműködés az asztalról
+io.github.shiiion.primehack	Dolphin Emu villa különféle Metroid Prime modokhoz
+io.github.sigmasd.IRust	Rust Repl
+io.github.sigmasd.stimulator	Tartsa ébren az asztalt
+io.github.signus_game.signus	Körökre osztott stratégiai játék
+io.github.sil_car.SqueezeVid	Normalizálja a videókat minimális, vetítéssel kompatibilis minőségre.
+io.github.simple64.simple64	Nintendo 64 emulátor
+io.github.sithlord48.blackchocobo	A Save Editor for Final Fantasy VII
+io.github.slgobinath.SafeEyes	Ingyenes és nyílt forráskódú eszköz Linux-felhasználók számára az ismétlődő terhelési sérülések (RSI) csökkentésére és megelőzésére.
+io.github.Snaggly.PS2_Pnacher	Pnaches alkalmazása közvetlenül a PS2 ISO-kra.
+io.github.snesrev.Zelda3	A Zelda3 a Zelda – A Link to the Past című film visszafejtett klónja
+io.github.Soundux	Többplatformos hangtábla
+io.github.spacingbat3.webcord	Electronnal készült webalapú Discord és Fosscord kliens
+io.github.srb2.rphys	Játékmenet átalakítása a Sonic Robo Blast 2-höz
+io.github.stella_emu.Stella	Többplatformos Atari 2600 VCS emulátor
+io.github.streetpea.Chiaki4deck	Ingyenes és nyílt forráskódú kliens PlayStation Remote Play-hez, Steam Deckhez módosítva
+io.github.Sunderland93.sway-input-config	Bemeneti eszköz konfigurátor a Sway számára
+io.github.swanux.hbud	Egyszerű audio/video lejátszó és karaoke alkalmazás Python és GTK4 nyelven
+io.github.tcobbs.LDView	LDraw modellnézegető
+io.github.tdesktop_x64.TDesktop	A Telegram üzenetküldő alkalmazás nem hivatalos asztali verziója
+io.github.technic.e2designer	Skin szerkesztő az enigma2-hez, Qt5-tel írva
+io.github.tfuxu.Halftone	Adjon képeinek pixel art-szerű stílust
+io.github.thaunknown.miru	Miru – Bittorrent streaming szoftver macskáknak
+io.github.TheThirdOne.rars	RISC-V Assembler és Runtime Simulator
+io.github.thetumultuousunicornofdarkness.cpu-x	Információkat gyűjt a CPU-ról, az alaplapról és egyebekről
+io.github.TheWisker.Cavasik	CAVA alapú audiovizualizáló
+io.github.thiefmd.themegenerator	Stílusok létrehozása a stílus segítségével.
+io.github.tlcfem.suanPan	🧮 Nyílt forráskódú, párhuzamos és heterogén végeselem-elemzési keretrendszer
+io.github.tntwise.REAL-Video-Enhancer	Ingyenes és nyílt forráskódú videójavító eszköz
+io.github.torrent_file_editor.Torrent-file-editor	Szerkessze és hozzon létre .torrent fájlokat
+io.github.trackballs.Trackballs	Irányíts egy márványlabdát egy labirintuson
+io.github.tralph3.Steam_Metadata_Editor	Egy könnyen használható grafikus felhasználói felület, amely szerkeszti a Steam alkalmazásaid metaadatait
+io.github.TransmissionRemoteGtk	Távolról kezelheti a Transmission BitTorrent klienst
+io.github.trevorsandy.LPub3D	LPub3D – LDraw építési utasításszerkesztő
+io.github.trigg.discover_overlay	Grafikus átfedés a Discord hangcsevegéshez.
+io.github.troyeguo.koodo-reader	Többplatformos e-könyv-olvasó
+io.github.trytonvanmeer.DungeonJournal	Egy 5e karakterkezelő
+io.github.TTimo.GtkRadiant	Szintszerkesztő ID Tech alapú játékokhoz, beleértve a Quake sorozatot is
+io.github.twanvl.MagicSetEditor2	Egyedi kártyák készítésére használt program
+io.github.unicornyrainbow.secrets	Könnyen generálhat jelszavakat az Ön igényei szerint
+io.github.unknownskl.greenlight	A Greenlight egy nyílt forráskódú kliens az xCloud és az Xbox otthoni streaminghez
+io.github.unrud.RecentFilter	Fájlok és mappák kizárása a legutóbb használt fájlokból
+io.github.vemonet.EmojiMart	Modern előugró hangulatjel-választó asztali számítógépekhez, az Emoji Mart webkomponensen alapuló.
+io.github.veusz.Veusz	Tudományos tervezési csomag
+io.github.vikdevelop.SaveDesktop	Mentse el az asztali környezet aktuális konfigurációját
+io.github.vinser.burnfix	Próbálja kijavítani a képernyő képvisszamaradásait és beégetését, keressen képernyőhibákat
+io.github.vinser.pixyne	Gyorsan áttekintheti a fényképmappákat, biztonságosan törölheti a rossz és hasonló képeket, rögzítheti a felvételi dátumokat
+io.github.voxelcubes.deepqt	Használja ki a DeepL API erejét ezzel a barátságos felhasználói felülettel
+io.github.voxelcubes.panelcleaner	AI-alapú eszköz a manga panelek tisztításához
+io.github.webcamoid.Webcamoid	Készítsen fényképeket és rögzítsen videókat webkamerájával
+io.github.weclaw1.ScoreTracker	Alkalmazás a játékosok pontszámainak követésére kártya- és társasjátékokban
+io.github.wereturtle.ghostwriter	Zavarmentes szövegszerkesztő Markdownhoz
+io.github.wh201906.serialtest	Többplatformos teszteszköz soros porthoz, Bluetooth-hoz, TCP-hez és UDP-hez
+io.github.wojciech_graj.OrbVis	Valós idejű műholdas pálya vizualizáló
+io.github.wxmaxima_developers.wxMaxima	Grafikus felhasználói felület a Maxima számára, egy hatékony számítógépes algebra rendszerhez
+io.github.xaos_project.XaoS	Gyors interaktív, valós idejű fraktál zoomer/morpher
+io.github.xiaoyifang.goldendict_ng	Speciális szótárkereső program
+io.github.xolatgames.marknpaul	Legyél te a varázsló!
+io.github.xverizex.nem_desktop	Csevegés a barátokkal.
+io.github.xverizex.RetroSpriteEditor	Pixel szerkesztő retro konzolokhoz
+io.github.xyproto.zsnes	Super Nintendo emulátor
+io.github.yairm210.unciv	Körökre osztott stratégiai játék
+io.github.yamanqd.antware	FPS játék.
+io.github.Youda008.DoomRunner	A ZDoom és származékai előre beállított grafikus indítóprogramja
+io.github.zaps166.QMPlay2	Videó és audio lejátszó
+io.github.zhrexl.thisweekinmylife	Ez egy kaban stílusú tervező, ahová a felhasználó feladatokat tartalmazó kártyákat helyezhet be.
+io.github.zyedidia.micro	Modern és intuitív terminál alapú szövegszerkesztő
+io.gitlab.adhami3310.Converter	Konvertálja és kezelje a képeket
+io.gitlab.adhami3310.Footage	Csinosítsa ki a videóit
+io.gitlab.adhami3310.Impression	Hozzon létre indítható meghajtókat
+io.gitlab.azymohliad.WatchMate	Kezelje PineTime-ját
+io.gitlab.ballz.Ballz	Platform/rejtvényjáték, ahol egy guruló labdát irányítasz
+io.gitlab.celleron56.libretile	nyílt forráskódú csempe játékmotor dolog
+io.gitlab.coolreader_ng.crqt-ng	Platformos nyílt forráskódú e-könyv olvasó
+io.gitlab.cyberphantom52.sudoku_solver	Egy egyszerű Sudoku Sovler
+io.gitlab.daikhan.stable	Játssz videókat/zenét stílusosan
+io.gitlab.dev_nis.one-click-backup	Egyszerű program a mappák biztonsági mentéséhez egy külső helyre másolással
+io.gitlab.floodlight.Presenter	Ingyenes, ingyenes, nyílt forráskódú prezentációs és dalszöveg program
+io.gitlab.Goodvibes	Játssz internetes rádiókat
+io.gitlab.gregorni.Calligraphy	Alakítsa át szövegét ASCII bannerekké
+io.gitlab.gregorni.Letterpress	Készítsen gyönyörű ASCII művészetet
+io.gitlab.gwendalj.package-transporter	Vigye át alkalmazásait a telepítések között
+io.gitlab.idevecore.Pomodoro	A Pomodoro egy termelékenység-központú időzítő
+io.gitlab.jazztickets.choria	Végül egy MMORPG, ami a köszörülésről és a házimunkák elvégzéséről szól.
+io.gitlab.jazztickets.emptyclip	Az Empty Clip egy felülről lefelé irányuló lövöldözős akció-RPG.
+io.gitlab.jazztickets.irrlamb	3D-s fizikai játék, amelyben egy kék energiagömböt irányítasz, hogy megérintsd az összes izzó gömböt
+io.gitlab.jazztickets.openflap	Egy játék a pattogó labdákról soha véget nem érő csövek résein keresztül
+io.gitlab.leesonwai.Sums	Számoljon postfix jelöléssel
+io.gitlab.leesonwai.Tactics	Építsd fel a foci felállásodat
+io.gitlab.librewolf-community	LibreWolf webböngésző
+io.gitlab.news_flash.NewsFlash	Tartsa lépést hírfolyamaival
+io.gitlab.o20.word	Nyílt forráskódú MS Word 2019 klón... Linuxra
+io.gitlab.osslugaru.Lugaru	Harmadik személy nindzsa nyúl harci játék
+io.gitlab.persiangolf.voicegen	Könnyen konvertálja a szöveget beszéddé
+io.gitlab.stone_kingdoms.StoneKingdoms	Nyílt forráskódú Stronghold rajongói remake
+io.gitlab.theevilskeleton.Upscaler	Előkelő és javított képek
+io.gitlab.Turtlico	Programozási eszköz a tanuláshoz
+io.gitlab.zehkira.Monophony	Streamelj zenét a YouTube Music szolgáltatásból
+io.howl.Editor	Könnyű szerkesztő billentyűzet-központú, minimalista felülettel
+io.itch.azagaya.Laigter	Eszköz normál, tükrös, okklúziós és parallaxis térképek generálására 2D textúrákhoz
+io.itch.doctorm64.skippybot	Skippy egy epikus küldetésben van, hogy megfejtse valódi sorsát.
+io.itch.domestique_baston.domestique_baston	1 vs. 1 harci játék
+io.itch.drwhut.TabletopClub	Játssz asztali játékokat egy fizikai alapú 3D homokozóban
+io.itch.itch	Telepítsen, frissítsen és játsszon indie játékokat
+io.itch.keyikedalube_ndang.Type-Off	Egy rövid, 6 perces gépelési sebességű játék
+io.itch.nordup.TheGates	Utazz el a fejlesztők által a világ minden tájáról létrehozott különböző világokba!
+io.jamulus.Jamulus	Jamulus. Internet Jam Session szoftver
+io.jor.bugdom	Mentsd meg Bugdomot Thorax gonosz tűzhangyáitól
+io.jor.bugdom2	Kövesd a Bully Bee-t, és szerezd vissza a hátizsákodat!
+io.jor.mightymike	Nagy teljesítményű akciómentő egy megőrült játékboltban!
+io.jor.nanosaur	Küldj dinoszaurusz tojásokat a jövőbe, mielőtt egy meteor eléri a Földet!
+io.jor.nanosaur2	Repülj egy pterodactilt, aki tele van csúcstechnológiás fegyverekkel
+io.jor.ottomatic	Mentsd meg a Földet az X bolygó óriásagyának karmaitól
+io.kapsa.drive	Zero Knowledge E2E titkosított tárhely, amely kompatibilis bármely S3 szolgáltatóval
+io.kinvolk.Headlamp	Könnyen használható és bővíthető webes felhasználói felület a Kubernetes számára
+io.kopia.KopiaUI	Biztonsági megoldás
+io.liri.Calculator	Végezzen számtani vagy tudományos számításokat
+io.liri.Text	Szövegfájlok szerkesztése
+io.lmms.LMMS	Zenei produkciós alkalmazás
+io.mango3d.LycheeSlicer	Erőteljes és sokoldalú szeletelő gyanta és filament 3D nyomtatókhoz
+io.mgba.mGBA	Nintendo Game Boy Advance emulátor
+io.missioncenter.MissionCenter	Rendszer erőforrás-használat figyelése
+io.mpv.Mpv	Ingyenes, nyílt forráskódú és többplatformos médialejátszó
+io.mrarm.mcpelauncher	Töltse le és játsszon Minecraft Bedrock Edition-t GNU/Linux rendszeren
+io.naox.InnerBreeze	Egy meditációs alkalmazás a Wim Hof légzési gyakorlat irányításához és nyomon követéséhez
+io.neovim.nvim	A Vim-fork a bővíthetőségre és a használhatóságra összpontosított
+io.openrct2.OpenRCT2	Építési és menedzsment szimulációs videojáték, amely a vidámparkok kezelését szimulálja
+io.osdn.simplesok	Egyszerű sokoban játék
+io.otsaloma.gaupol	Szöveg alapú feliratok szerkesztője
+io.otsaloma.nfoview	Néző NFO fájlokhoz
+io.photoflare.photoflare	Egyszerű, de hatékony Cross Platform képszerkesztő
+io.podman_desktop.PodmanDesktop	Kezelje a Podmant és más konténermotorokat egyetlen felhasználói felületről és tálcáról
+io.poez.Poezio	A Poezio egy ingyenes konzolos XMPP kliens
+io.posidon.Paper	Jegyzeteket készítsen a Markdown alkalmazásban
+io.qt.Designer	GUI-k tervezése Qt alkalmazásokhoz
+io.qt.Linguist	Fordítások hozzáadása a Qt alkalmazásokhoz
+io.qt.qdbusviewer	D-Bus alkalmazások hibakeresése
+io.qt.QtCreator	Platformokon átívelő, teljes integrált fejlesztői környezetet (IDE) biztosít az alkalmazásfejlesztők számára, hogy több platformra és eszközre készítsenek alkalmazásokat
+io.qt.qtwebengine.BaseApp	Megosztott platform a Qt WebEngine-t használó alkalmazásokhoz
+io.sourceforge.chart_geany.chart-geany	A Chart Geany egy ingyenes többplatformos szoftvermegoldás piaci technikai elemzéshez, diagramkészítéshez és portfóliómenedzserhez
+io.sourceforge.clonekeenplus	Egy Engine játszott a Commander Keen és a Cosmos the Cosmic Adventure játéksorozattal
+io.sourceforge.pentobi	Számítógépes ellenfél a Blokus társasjátékhoz
+io.sourceforge.pipewalker.PipeWalker	Kapcsolati kirakós játék
+io.sourceforge.Pixelitor	A Pixelitor egy nyílt forráskódú képszerkesztő
+io.sourceforge.pysolfc.PySolFC	Pasziánsz játék összeállítás
+io.sourceforge.qoobar.Qoobar	A Qoobar egy egyszerű címkeszerkesztő klasszikus zenéhez
+io.sourceforge.trigger_rally.TriggerRally	Gyors iramú egyjátékos rally versenyjáték
+io.sourceforge.YSoccer	Retro stílusú foci játék
+io.sourceforge.zaz	Kirakós játék, ahol a játékosnak hármasokba kell rendeznie a labdákat.
+io.stoplight.studio	Stoplight Stúdió. Könnyed API tervezés.
+io.thp.numptyphysics	Egy zsírkréta-rajzon alapuló fizikai kirakós játék
+io.trustable.stpadocumentationtool	Rendszerelméleti folyamatelemző eszköz, amely megkönnyíti az STPA-t és automatizálja a dokumentációt
+io.typora.Typora	Egy minimális Markdown olvasási és írási alkalmazás
+io.unobserved.espansoGUI	GUI interfész az espanso számára
+io.vikunja.Vikunja	A nyílt forráskódú teendők alkalmazás
+io.wasabiwallet.WasabiWallet	Nyílt forráskódú, nem őrizetbe vett, adatvédelemre összpontosító Bitcoin pénztárca asztali számítógépekhez, amely megbízható CoinJoint valósít meg.
+io.wavebox.Wavebox	A web-desktop kommunikáció következő generációja
+io.webtorrent.WebTorrent	Streaming torrent alkalmazás
+ir.imansalmani.IPlan	A személyes élet és a munkafolyamat javításának terve
+it.cuteworks.pacmanlogviewer	Vizsgálja meg a pacman naplót
+it.fabiodistasio.AntaresSQL	Modern, gyors és termelékenységvezérelt SQL-kliens az UX-re összpontosítva
+it.mijorus.collector	Drag and Drop a következő szintre
+it.mijorus.gearlever	Az AppImages kezelése
+it.mijorus.smile	Hangulatjel-választó
+it.mijorus.whisper	Hallgassa meg a mikrofonját
+jp.yvt.OpenSpades	Nyílt forráskódú voxellövő
+la.ogri.strongbox	Addon manager a World of Warcraft számára
+life.bolls.bolls	Egy webalkalmazás a Biblia olvasásához, teljes hangsúllyal csak Isten Igéjére. Sola scriptura
+lv.martinsz.millionaire	Válaszoljon minden kérdésre, hogy 1 millió dollárt nyerjen.
+md.obsidian.Obsidian	Markdown alapú tudásbázis
+me.acristoffers.Lachesis	Moirai felügyelő
+me.ahola.aphototoollibre	Fényképszerkesztő Linuxra
+me.broken_by.PdfMetadataEditor	PDF metaadatok szerkesztése
+media.emby.EmbyServer	Nyílt média megoldás
+media.emby.EmbyTheater	Nyílt média megoldás
+me.dusansimic.DynamicWallpaper	Dinamikus háttérkép készítő Gnome 42-höz
+me.hergert.Schemes	Tervezési stílussémák a GtkSourceView számára
+me.hyliu.fluentreader	Modern asztali RSS olvasó
+me.iepure.devtoolbox	Fejlesztőeszközök kéznél
+me.iepure.Ticketbooth	Kövesse nyomon kedvenc műsorait
+me.kozec.syncthingtk	GUI és értesítési terület ikon a szinkronizáláshoz
+me.leucoso.Grock	Megjeleníti az Egyesült Királyság geológiai térképeit.
+me.mitya57.ReText	Egyszerű Markdown és reStructuredText szövegszerkesztő
+me.njean.shootingpactris	Coop retro játék Tetris, Pacman és shmup játékmenettel.
+me.orszulak.keyring	Egyszerűen szép vagy gyönyörűen egyszerű OTP generátor.
+me.ppvan.psequel	Futtassa az SQL-lekérdezést
+me.sanchezrodriguez.passes	Kezelje digitális bérleteit
+me.simakis.dropboxignore	Minden a hiányzó .dropboxignore fájlról szól.
+me.timschneeberger.GalaxyBudsClient	Nem hivatalos Galaxy Buds Manager Windows és Linux rendszerhez
+me.timschneeberger.jdsp4linux	Nyílt forráskódú hangeffektus processzor a Pipewire-hez
+ml.mdwalters.EightBall	Könnyen hozzon döntéseket
+ml.mdwalters.Lemonade	Kövesse a Lemmyről szóló vitákat
+ml.prevete.Daty	Ingyenes Wikidata szerkesztő.
+mobi.snowball.Snowball	Egy új sebességű futási játék, amely hasonlít egy platformhurok/buzz vezetékes játékhoz
+moe.clover.mm3d	3D-s modellszerkesztő és animátor játékokhoz
+moe.karaokes.mugen	Karaoke session menedzser és játékos
+moe.tundra.Tundra	Automatikusan frissítse animelistáit
+mx.pwmc.Svgvi	SVG-nézegető és szerkesztő XML-deklarációkat használva
+net._86box._86Box	Emulátor klasszikus IBM PC-klónokhoz
+net.agalwood.Motrix	Teljes funkcionalitású letöltéskezelő
+net.ankiweb.Anki	Erőteljes, intelligens flash kártyák
+net.bartkessels.getit	HTTP-kérések küldése API-végpontokhoz
+net.baseart.Glide	Filmek és hangfájlok lejátszása
+net.biniou.LeBiniou	Felhasználóbarát, hatékony zenevizualizációs / VJ-eszköz
+net.blix.BlueMail	BlueMail e-mail és naptár alkalmazás
+net.blockattack.game	Gyors tempójú match-3/blockfall játék
+net.blockbench.Blockbench	Blockbench - Egy dobozos 3D-s modellszerkesztő
+net.blockout.BlockOutII	Az eredeti BlockOut játék ingyenes adaptációja
+net.blumia.pineapple-pictures	Képnézegető
+net.brinkervii.grapejuice	A Roblox Player és a Roblox Studio indítóprogramja
+net.cebix.basilisk	68k-s Macintosh emulátor
+net.christianbeier.Gromit-MPX	A Gromit-MPX egy eszköz, amellyel megjegyzéseket készíthet a képernyőn
+net.christianbeier.MultiVNC	Többplatformos Multicast-kompatibilis VNC-nézegető
+net.codeindustry.MasterPDFEditor	PDF dokumentumok megtekintése, létrehozása, módosítása, aláírása, szkennelése, OCR és nyomtatása
+net.corluma.Corluma	Irányítsd a Philip's Hues, LIFX, Nanoleafs és Arduinos alkalmazásokat.
+net.cozic.joplin_desktop	nyílt forráskódú jegyzetkészítő és teendők alkalmazás
+net.crossfireatlas.crossfire	Roguelike többfelhasználós RPG
+net.cubers.assault.AssaultCube	Gyors arcade első személyű lövöldözős játék
+net.daase.journable	Egy egyszerű napló
+net.danigm.loop	Egy egyszerű hanghurkos gép GNOME-hoz
+net.danigm.timetrack	A GNOME idősávja
+net.darkradiant.DarkRadiant	3D szintű szerkesztő a The Dark Mod és a Doom 3 számára
+net.davidotek.pupgui2	Wine- és Proton-alapú kompatibilitási eszközök telepítése
+net.dengine.Doomsday	A Doom, Heretic és Hexen továbbfejlesztett forrásportja
+net.devolutions.RDM	Központosítsa, kezelje és biztonságossá tegye a távoli kapcsolatokat
+net.displaycal.DisplayCAL	Kijelző kalibrálása és profilozása a pontosságra és sokoldalúságra összpontosítva
+net.drawpile.drawpile	Együttműködési rajz
+net.epson.epsonscan2	Szoftver Epson szkennerekhez és többfunkciós nyomtatókhoz
+net.fasterland.converseen	Batch képfeldolgozó processzor
+net.filebot.FileBot	A tökéletes TV és film átnevezése
+net.freerct.FreeRCT	Vidámpark stratégiai játék
+net.fsuae.FS-UAE	FS-UAE Amiga emulátor
+net.gaijin.WarThunder	A War Thunder a legátfogóbb ingyenesen játszható, platformfüggetlen MMO katonai játék.
+net.giuspen.cherrytree	Hierarchikus jegyzetelés
+net.goatattack.goatattack	Többjátékos Pixel Art lövöldözős játék
+net.gradator.gtkatlantic	Egy játék, mint a Monopoly
+net.granjow.slowmovideo	A slowmoVideo egy nyílt forráskódú program, amely lassított videókat hoz létre a felvételekből.
+net.gwyddion.Gwyddion	Program az SPM (Scanning Probe Microscopy) adatok megjelenítéséhez és elemzéséhez
+net.hovancik.Stretchly	A szünetidő emlékeztető alkalmazás
+net.huitsi.ParallelOverhead	Végtelen futó játék
+net.imaginaryinfinity.Squiid	Végezzen haladó algebrai és RPN számításokat
+net.jami.Jami	Adatvédelem-orientált hang-, video-, csevegés- és konferenciaplatform
+net.jammr.jammr	Játssz zenészekkel az interneten keresztül
+net.jenyay.Outwiker	Személyes wiki és vázlat.
+net.kirgroup.confy	Konferencia menetrendek néző
+net.krafting.Playlifin	YouTube lejátszási listák szinkronizálása a Jellyfin szolgáltatással
+net.krafting.PlaylifinVoyager	Lejátszási listák átvitele a Jellyfinbe vagy onnan
+net.krafting.PleasureDVR	DVR a Chaturbate webhelyhez
+net.kubux.Muehle	Játssz egy Nine Men's Morris játékot.
+net.kuribo64.melonDS	Nintendo DS és DSi emulátor
+net.kvirc.KVIrc	A KVIrc egy ingyenes hordozható IRC kliens
+net.launchpad.Gnuclad	Cladogram fa generátor
+net.line72.campcounselor	Bandcamp.com kívánságlista-kezelő
+net.longturn.freeciv21	Freeciv21 – Freeciv a 21. századhoz
+net.lugsole.bible_gui	Biblia alkalmazás, amely több fordítást és nyelvet támogat
+net.lutris.Lutris	Videojáték-megőrző platform
+net.mancubus.SLADE	Ez egy Doom szerkesztő
+net.mediaarea.AVIMetaEdit	Az AVI-fájlok metaadatainak beágyazása, érvényesítése és exportálása
+net.mediaarea.BWFMetaEdit	A BWF-fájlok metaadatainak beágyazása, érvényesítése és exportálása
+net.mediaarea.DVAnalyzer	DV adatfolyamok elemzése és hibák jelentése
+net.mediaarea.MediaConch	Megvalósítás-ellenőrző, házirend-ellenőrző, riporter és javító
+net.mediaarea.MediaInfo	A legrelevánsabb műszaki és címkeadatok kényelmes, egységes megjelenítése a video- és audiofájlokhoz
+net.mediaarea.MOVMetaEdit	Univerzális hirdetésazonosító metaadatok beágyazása és szerkesztése MOV- vagy MP4-fájlokba
+net.mediaarea.QCTools	Minőség-ellenőrzési eszközök a videók megőrzéséhez
+net.meijn.onvifviewer	Megtekintheti és vezérelheti a hálózati kamerákat az ONVIF protokoll használatával
+net.meshlab.MeshLab	Ingyenes és nyílt forráskódú 3D háromszög alakú hálók feldolgozása és szerkesztése
+net.minetest.Minetest	Többszereplős, végtelen világú blokk-sandbox játék
+net.mkiol.SpeechNote	Jegyzetkészítés, olvasás és fordítás az offline Speech to Text, Text to Speech és Gépi fordítás segítségével
+net.mullvad.MullvadBrowser	Szabadítsa meg az internetet a tömeges megfigyelés alól
+net.natesales.Aviator	Videó másodpilóta: AV1/OPUS Video Encoder
+net.nokyan.Resources	Figyelje a rendszer erőforrásait és folyamatait
+net.olofson.KoboDeluxe	Harmadik személy görgető 2D lövöldözős játék
+net.openra.OpenRA	A korai Westwood valós idejű stratégiai játékok újragondolása
+net.oz9aec.Gpredict	Valós idejű műholdas nyomkövető és pálya-előrejelző program
+net.pcsx2.PCSX2	PlayStation 2 emulátor
+net.peercoin.peercoin-qt	Peercoin, zöld kriptopénz a fenntartható jövőért.
+net.pioneerspacesim.Pioneer	Magányos űrkaland játék
+net.pistegamez.PekkaKana2	Jump 'n run játék a régi klasszikus platformerek szellemében készült
+net.poedit.Poedit	Egyszerű fordításszerkesztő
+net.puddletag.puddletag	Erőteljes ID3 címkeszerkesztő
+net.purrdata.PurrData	Pure Data alapú nyílt forráskódú vizuális programozási nyelv multimédiához
+net.qsl.QSSTV	Program SSTV és HAMDRM vételére és továbbítására
+net.redeclipse.RedEclipse	Első személyű lövöldözős játék agilis játékmenettel és beépített szerkesztővel
+net.retrodeck.retrodeck	A RetroDECK olyan környezetet hoz létre, amely katalógusba helyezi és közvetlenül a Steam Decken játszhatja retro játékait
+net.rpcs3.RPCS3	Nyílt forráskódú Sony PlayStation 3 emulátor
+net.rpdev.OpenTodoList	Teendőlista és jegyzetelési alkalmazás
+net.runelite.RuneLite	RuneLite OSRS kliens
+net.sapples.LiveCaptions	Élő feliratozás asztali számítógépre
+net.scribus.Scribus	Nyílt forráskódú oldalelrendezés és asztali közzététel (DTP)
+net.seamly.seamly2d	Varróminta tervező szoftver
+net.sf.fuse_emulator	Sinclair ZX Spectrum emulátor
+net.sf.metronomek	Triviális megjelenésű metronóm természetes hangokkal és kifinomult lehetőségekkel
+net.sf.nootka	Alkalmazás megtanulni a klasszikus pontszám jelölést
+net.sf.VICE	Sokoldalú Commodore emulátor
+net.shrew.ike.qikea	Alkalmazás távoli webhely konfigurációk kezelésére
+net.sonic_pi.SonicPi	Kód alapú zenekészítő és előadói eszköz
+net.sonobus.SonoBus	Ingyenes és nyílt forráskódú hálózati audio streaming
+net.sourceforge.artha.Artha	A nyílt tezaurusz
+net.sourceforge.atanks	Körökre osztott tüzérségi stratégiai játék
+net.sourceforge.audmes.audmes	Audio mérőrendszer
+net.sourceforge.btanks	Szórakoztató görgetős játék harckocsikkal
+net.sourceforge.Chessx	Ingyenes sakk adatbázis
+net.sourceforge.chromium-bsu	Gyors tempójú, arcade stílusú, felülről gördülő űrlövöldözős játék
+net.sourceforge.dmidiplayer	Drumstick Multiplatform MIDI fájllejátszó
+net.sourceforge.DuneLegacy	Modern Dune II reimplementáció
+net.sourceforge.efaxgtk	Faxolás Linux/Unix rendszerrel
+net.sourceforge.electrip.Electrip	Irányítsd a vasúti modelledet játékvezérlőkkel!
+net.sourceforge.ExtremeTuxRacer	Nagy sebességű sarkvidéki versenyjáték a Tux Raceren
+net.sourceforge.Fillets	Puzzle játék 70 szinten
+net.sourceforge.fretsonfire	A Frets on Fire egy játék a zenei készségekkel és a gyors ujjakkal. A játék célja, hogy a lehető legpontosabban gitározzon a billentyűzettel.
+net.sourceforge.fspclient	FTP-szerű interfész FSP-hez
+net.sourceforge.GrandOrgue	Pipe orgona szimulátor
+net.sourceforge.Hugin	Panoráma fotófűző és még sok más
+net.sourceforge.jpdftweak.jPdfTweak	Swiss Army Knife PDF fájlokhoz
+net.sourceforge.Kino	Kino DV nemlineáris videószerkesztő GNU/Linux és BSD platformokhoz
+net.sourceforge.Klavaro	Érintős gépelés oktató
+net.sourceforge.kmetronome	Drumstick MIDI Metronome az ALSA Sequenceren
+net.sourceforge.kmidimon	A Drumstick MIDI Monitor egy ALSA szekvenszert használó MIDI monitor Linuxhoz
+net.sourceforge.lgames.LBreakoutHD	Arkanoid / Breakout egyaránt játék
+net.sourceforge.lgames.LGeneral	Körökre osztott stratégiai játékmotor (mint a Panzer General)
+net.sourceforge.lgames.LPairs2	Klasszikus memóriajáték
+net.sourceforge.lgames.LTris	Ügyességi játék leeső kockákkal
+net.sourceforge.Lifeograph	Digitális napló és jegyzetelés
+net.sourceforge.liferea	RSS feed olvasó
+net.sourceforge.mars-game	2D-s shooter fantasztikus vizuális effektusokkal
+net.sourceforge.mcomix	Képregény és általános célú képnézegető
+net.sourceforge.molsketch	2D molekuláris szerkezetek szerkesztője
+net.sourceforge.OpenLieroX	Oldalra gördülő lövöldözős játék, ahol számos fegyverrel felfegyverzett férgeket irányíthatsz
+net.sourceforge.osmo	Személyes szervező
+net.sourceforge.paulstretch	Ez egy program extrém hangnyújtásra (például 50x) és speciális effektusok alkalmazására a hangok spektrális simításával.
+net.sourceforge.pdfchain	A PDF Chain egy grafikus felhasználói felület a PDF Toolkit (PDFtk) számára.
+net.sourceforge.Pdfedit	PDF-szerkesztő, amely képes böngészni/szerkeszteni a nyers pdf-objektumok fáját
+net.sourceforge.projectM	Zenei megjelenítő, amely 3D-s gyorsított iteratív kép alapú megjelenítést használ
+net.sourceforge.qtpfsgui.LuminanceHDR	Hozzon létre HDR képeket
+net.sourceforge.QtSpim	Egy önálló szimulátor, amely MIPS32 programokat futtat
+net.sourceforge.quakespasm.Quakespasm	Az eredeti Quake motor modern portja
+net.sourceforge.Ri-li	Kidsgame, vezessen egy játék fa motort
+net.sourceforge.roccat.roccat-tools	Alkalmazások Roccat eszközök konfigurálásához.
+net.sourceforge.scidavis	Alkalmazás tudományos adatok elemzésére és megjelenítésére
+net.sourceforge.SDL-Ball	Téglabontó játék szép grafikával
+net.sourceforge.squirrel_sql	Az SQuirreL SQL Client egy grafikus felhasználói felület, amely lehetővé teszi a JDBC-kompatibilis adatbázisok struktúrájának megtekintését, a táblázatokban található adatok böngészését, SQL-parancsok kiadását stb. Támogatja a MySQL-t, a PostgreSQL-t, a MariaDB-t és az SQLite-t.
+net.sourceforge.Teo	Thomson TO8D emulátor
+net.sourceforge.tomatoes.IHaveNoTomatoes	Paradicsomtörő játék
+net.sourceforge.torcs	A nyílt versenyautó szimulátor
+net.sourceforge.TuxFootball	Egy nagyszerű 2D foci (néha focinak is nevezik) játék
+net.sourceforge.uhexen2.uhexen2	A Hexen II modernizált forráskikötője
+net.sourceforge.VMPK	Virtuális MIDI zongorabillentyűzet: MIDI eseménygenerátor és -vevő
+net.sourceforge.wavbreaker	GUI eszköz WAV, MP2 és MP3 fájlok felosztásához
+net.sourceforge.wxEDID	Extended Display Identification Data (EDID) fájlok olvasása és szerkesztése
+net.stabyourself.nottetris2	Fizika alapú Tetris
+net.studio08.xbplay	Távoli lejátszás a konzolról vagy az xCloudról
+net.supertuxkart.SuperTuxKart	Egy 3D-s, nyílt forráskódú gokartverseny játék
+net.tedomum.CapBattleship	Csatahajó játék, kalóz témával
+net.unvanquished.Unvanquished	Gyors tempójú, első személyű stratégiai játék
+net.veloren.airshipper	A Airshipper a Veloren hivatalos indítója.
+net.veloren.veloren	A Veloren egy Rust nyelven írt többjátékos voxel RPG. Olyan játékok ihlették, mint a Cube World, a Legend of Zelda: Breath of the Wild, a Dwarf Fortress és a Minecraft.
+net.warsow.Warsow	Gyors tempójú 3D első személyű lövöldözős játék
+net.waterfox.waterfox	Könnyű, ingyenes és nyílt forráskódú webböngésző, amely a modern webhez készült.
+net.werwolv.ImHex	Egy hatszögletű szerkesztő visszafejtőknek és programozóknak
+network.bisq.Bisq	Decentralizált bitcoin cserehálózat.
+network.koesling.shm-modbus	Eszközök gyűjteménye a modbus TCP/RTU kliens szimulálásához
+network.loki.Session	Privát üzenetküldő
+net.worldofpadman.WoP	Hihetetlenül gondosan megtervezett és színes ingyenes, szórakoztató lövöldözős játék fiataloknak és lelkes embereknek
+net.wz2100.wz2100	Irányítsd a projekt erőit a világ újjáépítéséért vívott csatában.
+net.xm1math.Texmaker	Latex szerkesztő
+net.xmind.XMind	Mind Mapping & Brainstorming
+net.xmind.XMind8	Csodálatos ötletbörze és gondolattérképező eszköz.
+net.zgcoder.skycheckers	Lődd le az ellenséget a színpadról
+nl.brixit.powersupply	Linux energiaellátási alrendszer hibakeresője
+nl.brixit.wiremapper	Linux kliens Pockethernet hálózati tesztelőhöz
+nl.g4d.Girens	Nézze meg Plex tartalmát
+nl.hjdskes.gcolor3	Válasszon színeket a színválasztóból vagy a képernyőről
+nl.lostboys.rollemup	Klasszikus flipper játék a 90-es évek végéről.
+nl.openoffice.bluefish	Szövegszerkesztő számos web- és szoftverfejlesztési extrával
+nl.sarine.gpx-viewer	Egy egyszerű gpx megjelenítő
+nl.v0yd.Capsule	Gyógyszerkövető
+no.mifi.losslesscut	Takarítson meg helyet a video- és audiofájlok gyors és veszteségmentes vágásával
+nz.mega.MEGAsync	Egyszerű automatizált szinkronizálás a számítógépek és a MEGA Cloud Drive között.
+one.ablaze.floorp	Floorp böngésző
+one.alynx.FlipClock	Az SDL2 által támogatott flip-clock képernyővédő.
+one.flipperzero.qFlipper	Grafikus asztali alkalmazás a Flipper Zero firmware frissítéséhez PC-n keresztül
+one.jiri.easydict-gtk	Az első nyílt forráskódú fordító, amely teljesen nyitott szótári adatokkal is.
+one.mixin.messenger	Mixin Messenger
+online.athn.browser.gnome	ATHN böngésző gnome-hoz
+org._2006Scape.Launcher	A 2006Scape egy ingyenes Runescape 2006 emulációs szerver
+org._2009scape.Launcher	Indító a Runescape 2009 emulációs kiszolgálókhoz
+org.adishatz.syncpasswd	Frissítse a jelszavakat
+org.alienarena.alienarena	Ultragyors tempójú aréna FPS
+org.aliflang.lang	Alif (ألف), arab programozási nyelv
+org.altaqwaa.Altaqwaa	Korán, adhkar és áhítatok
+org.americanmonk.TipitakaPaliReader	Ez egy olyan alkalmazás, amellyel elolvashatja a Theraváda buddhista Tipitaka Pāḷi szövegeket, és könnyedén megkaphatja a meghatározásokat
+org.apache.directory.studio	Egy teljes címtár-eszköz platform
+org.apache.jmeter	Terhelésvizsgálati és teljesítménymérő alkalmazás
+org.apache.netbeans	NetBeans – Apache Java IDE. Együtt illeszkedik a darabokhoz
+org.ardour.Ardour	Digitális audio munkaállomás
+org.armagetronad.ArmagetronAdvanced	3D Lightcycle játék
+org.arrl.trustedqsl	Ham Radio Contact érvényesítési eszközök
+org.artsoft.rocksndiamonds	Gem gyűjtő puzzle játék
+org.asc_hq.ASC	Körökre osztott stratégiai játék
+org.atheme.audacious	Könnyű hanglejátszó
+org.audacityteam.Audacity	Az Audacity a világ legnépszerűbb hangszerkesztő és rögzítő alkalmazása
+org.audiveris.audiveris	Optikai zenefelismerő (OMR) alkalmazás
+org.avidemux.Avidemux	Többcélú videószerkesztő és -feldolgozó szoftver
+org.b3log.siyuan	Adatvédelem előtt álló személyes tudáskezelő rendszer, amely támogatja a finomszemcsés blokkszintű referenciát és a Markdown WYSIWYG-t
+org.beeref.BeeRef	Egy egyszerű referencia képnézegető
+org.bino3d.bino	3D videó lejátszó
+org.bionus.Grabber	Nagyon testreszabható imageboard/booru letöltő hatékony fájlelnevezési funkciókkal
+org.bitbucket.mystery_keeper.VapourSynthEditor	VapourSynth szkriptek szerkesztője
+org.bitcoincore.bitcoin-qt	A Bitcoin peer-to-peer hálózati csomópont, pénztárca és grafikus felhasználói felület teljes körű érvényesítése
+org.bitfighter.Bitfighter	többjátékos vektorgrafikus űrjáték
+org.blackcoin.blackcoin-more	Valódi decentralizált digitális valuta
+org.blackfennec.app	Bővíthető félig strukturált adatszerkesztő környezet
+org.bleachbit.BleachBit	Megtisztítja a fájlokat a lemezterület felszabadítása és a magánélet megőrzése érdekében
+org.blender.Blender	Ingyenes és nyílt forráskódú 3D-s készítőcsomag
+org.bluej.BlueJ	Java IDE kezdőknek
+org.bluesabre.MenuLibre	Fejlett FreeDesktop.org-kompatibilis menüszerkesztő
+org.briarproject.Briar	Biztonságos üzenetküldés, bárhol
+org.btchd.btchd-qt	Csatlakozzon a BitcoinHD P2P hálózathoz
+org.buhocms.BuhoCMS	Helyi CMS statikus webhelygenerátorokhoz
+org.bunkus.mkvtoolnix-gui	Matroska fájlkészítő és eszközök
+org.bzdev.CVRDecode	Dekóder a kaliforniai digitális COVID-19 vakcina rekordokhoz
+org.bzflag.BZFlag	Egy 3D első személyű tankcsata játék
+org.caione.GScope	GTK interfész a cscope-hoz
+org.chocolate_doom.ChocolateDoom	Konzervatív Doom Source Port
+org.chromium.Chromium	A Chromium projekt webböngészője
+org.citra_emu.citra	Nintendo 3DS emulátor
+org.claws_mail.Claws-Mail	A Claws Mail egy GTK+-on alapuló e-mail kliens (és hírolvasó).
+org.clementine_player.Clementine	Zenefájlok és internetes rádió lejátszása
+org.cloudcompare.CloudCompare	3D pontfelhő és háló feldolgozó szoftver
+org.cockpit_project.CockpitClient	Csatlakozás ssh-n keresztül a Cockpit segítségével a szerverekhez
+org.codeberg.dimkard.glossaico	Nyelvtanulási alkalmazás
+org.codeblocks.codeblocks	IDE C, C++ és Fortran számára
+org.contourterminal.Contour	A Contour egy modern és valójában gyors, modális, virtuális terminál emulátor, mindennapi használatra
+org.coolero.Coolero	A Coolero egy program a hűtőberendezések figyelésére és vezérlésére
+org.cryptomator.Cryptomator	Többplatformos kliensoldali titkosítási eszköz, amely felhőtárolókhoz optimalizált
+org.cubocore.CoreAction	Oldalsó sáv néhány praktikus kütyüvel
+org.cubocore.CoreArchiver	Egy egyszerű fájltömörítő/kicsomagoló segédprogram
+org.cubocore.CoreFM	Egyszerű, könnyű, könnyen használható fájlkezelő
+org.cubocore.CoreHunt	Könnyen használható gyors fájlkereső eszköz
+org.cubocore.CoreImage	Egyszerű, könnyű, könnyen használható képnézegető
+org.cubocore.CoreInfo	Egy egyszerű metaadat-nézegető fájlokhoz
+org.cubocore.CoreKeyboard	Egy egyszerű virtuális billentyűzet szójavaslatokkal
+org.cubocore.CorePad	Egyszerű, könnyű, de hatékony szövegszerkesztő
+org.cubocore.CorePaint	Egyszerű festőeszköz
+org.cubocore.CorePDF	Egyszerű, könnyű PDF-nézegető
+org.cubocore.CoreRenamer	Egyszerű, könnyű kötegelt fájl átnevezés
+org.cubocore.CoreShot	Egyszerű, könnyű képernyőrögzítő segédprogram X11-hez
+org.cubocore.CoreStats	Egyszerű, könnyű rendszer-erőforrás-nézegető
+org.cubocore.CoreTime	Idővel kapcsolatos feladatkezelő
+org.cvfosammmm.Porto	Szerkessze a Jupyter-jegyzetfüzeteket az asztalon
+org.cvfosammmm.Setzer	Egyszerű, de teljes értékű LaTeX szerkesztő
+org.cznic.Datovka	Ingyenes grafikus felhasználói felület adatdobozokhoz
+org.d3cod3.Mosaic	OpenFrameworks alapú vizuális javítási kreatív-kódoló platform
+org.darkdimension.rue	Kártyajáték a levonásról, szerelemről és megbánásról.
+org.darktable.Darktable	Digitális fényképező képeinek rendezése, kidolgozása
+org.dash.electrum.electrum_dash	Könnyű Dash kliens
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+org.debian.TuxPuck	3D Shufflepuck Pong játék
+org.deidentifier.arx	ARX adat anonimizáló eszköz
+org.deluge_torrent.deluge	Teljes funkcionalitású BitTorrent kliens
+org.denemo.Denemo	Zenei kotta létrehozása
+org.desmume.DeSmuME	Nintendo DS emulátor
+org.develz.Crawl	Roguelike börtönkutató játék
+org.dhewm3.Dhewm3	A dhewm 3 egy Doom 3 GPL forrásport
+org.diasurgical.DevilutionX	Diablo/Hellfire forrásport modern operációs rendszerekhez
+org.DolphinEmu.dolphin-emu	GameCube / Wii / Triforce emulátor
+org.duckstation.DuckStation	PlayStation emulátor
+org.dupot.beatmatchtopass	Győzd le mindegyiket
+org.dupot.littleadventure	RPG Pixel Art kis játék
+org.dust3d.dust3d	Gyors 3D modellező eszköz
+org.easycoding.TunedSwitcher	Egyszerű segédprogram a Tuned szolgáltatás kezeléséhez
+org.eclipse.iot.fourdiac.Ide	Nyílt forráskódú IEC 61499 kompatibilis PLC IDE
+org.eclipse.Java	Minden Java fejlesztő alapvető eszközei, beleértve a Java IDE-t, a Git klienst, az XML-szerkesztőt, a Maven és a Gradle integrációt
+org.eclipse.Javascript	Minden JavaScript-fejlesztő alapvető eszközei, beleértve a JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown nyelvek támogatását
+org.eclipse.sumo	Mikroszkopikus forgalomszimuláció
+org.electrum.electrum	Könnyű Bitcoin kliens
+org.emilien.Password	Erős jelszó a maximális biztonság érdekében
+org.emilien.SpaceLaunch	Mikor száll fel a következő rakéta az egekbe?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(k) tesztelőeszköz
+org.endlessos.Key	Felügyelt tanulás bármikor, bárhol
+org.enjoyingfoss.FOSStriangulator	Eszköz háromszögelt illusztrációk készítéséhez fényképekből
+org.entangle_photo.Manager	Tethered Camera Control & Capture
+org.equeim.Tremotesf	Távoli GUI a Transmission BitTorrent klienshez
+org.eu.encom.spectral	IM kliens a Matrix protokollhoz
+org.eu.getcatalyst.Catalyst	Könnyű és felhasználóközpontú webböngésző, amelyet Electron hajt
+org.eu.wabarc.wayback	Egy saját üzemeltetésű eszközkészlet weboldalak archiválásához az Internet Archívumba, az archive.today-ba, az IPFS-be és a helyi fájlrendszerekbe
+org.exaile.Exaile	Zene-, és stream lejátszás, és tag módosítás
+org.exbin.BinEd	Bináris/Hex szerkesztő
+org.expresslrs.ExpressLRSConfigurator	Platformok közötti konfigurációs eszköz az ExpressLRS firmware-hez
+org.eyecreate.qiflora	Mobilbarát alkalmazás növények megfigyelésére Mi Flora eszközökkel.
+org.eyecreate.vehiclevoyage	Kövesse nyomon a jármű szerviztörténetét.
+org.famistudio.FamiStudio	FamiStudio NES zeneszerkesztő
+org.fcitx.Fcitx5	Beviteli mód
+org.fdroid.Repomaker	Könnyedén hozhat létre F-Droid repókat
+org.featherwallet.Feather	Monero asztali pénztárca
+org.fedoraproject.MediaWriter	Egy eszköz indítható live USB meghajtó készítéséhez a Fedora egy változatával
+org.ferdium.Ferdium	Messenger asztali számítógépre
+org.filezillaproject.Filezilla	Gyors és megbízható FTP kliens
+org.filmulator.Filmulator	A Filmulator grafikus felhasználói felületű adaptációja, egy filmemulátor, amely az összes pozitívumot tartalmazza, a negatívumok egyikét sem
+org.firestormviewer.FirestormViewer	Kliens a 3D virtuális világok eléréséhez
+org.fkoehler.KTailctl	GUI a Tailscale mesh hálózathoz
+org.flameshot.Flameshot	Erőteljes és egyszerűen használható screenshot szoftver
+org.flarerpg.Flare	2D akció-szerepjáték
+org.flathub.flatpak-external-data-checker	Egy eszköz annak ellenőrzésére, hogy a Flatpak jegyzékekben használt külső adatok még mindig naprakészek-e
+org.flatpak.qtdemo	Flatpak fejlesztői bemutató
+org.flightgear.FlightGear	Ingyenes és rendkívül kifinomult repülésszimulátor
+org.flozz.calcleaner	Egy egyszerű grafikus eszköz a régi események törlésére a CalDAV-naptárakból
+org.flozz.yoga-image-optimizer	JPEG, PNG és WebP képek konvertálása és optimalizálása
+org.flycast.Flycast	Sega Dreamcast, Naomi és Atomiswave emulátor
+org.fontforge.FontForge	Vázlatos betűtípus-szerkesztő
+org.freac.freac	Audio konverter és CD ripper
+org.free_astro.siril	Csillagászati kép(elő)feldolgozó program
+org.freecadweb.FreeCAD	Nyílt forráskódú parametrikus 3D CAD modellező
+org.freeciv.gtk322	Gtk+-3.22 alapú kliens a Freeciv játékhoz
+org.freeciv.qt	Qt alapú kliens a Freeciv játékhoz
+org.freecol.FreeCol	A FreeCol körökre osztott stratégiai játék.
+org.freedesktop.adriconf	Fejlett DRI konfigurátor
+org.freedesktop.appstream.cli	Egy segédprogram az AppStream metaadatokkal való munkához
+org.freedesktop.appstream.generator	Gyors AppStream metaadat-generátor
+org.freedesktop.appstream-glib	AppStream fájlellenőrző és eszközök
+org.freedesktop.Bustle	Rajzolja meg a D-busz tevékenységének sorrendi diagramjait
+org.freedesktop.dabrain34.GstPipelineStudio	Rajzolja meg saját GStreamer folyamatát...
+org.freedesktop.dabrain34.squared	Próbálja meg kitölteni a négyzetet számokkal
+org.freedesktop.fwupd	Frissítse az eszköz firmware-jét Linuxon
+org.freedesktop.GstDebugViewer	Vizsgálja meg a GStreamer hibakeresési napló adatait
+org.freedesktop.Piper	Játékos egér konfigurációs segédprogram
+org.freedesktop.Tuhi	Segédprogram rajzok letöltéséhez a Wacom Ink készülékcsaládból
+org.freedownloadmanager.Manager	Az FDM egy hatékony, modern letöltésgyorsító és -szervező.
+org.freefilesync.FreeFileSync	Vizuális mappa összehasonlítás és szinkronizálás
+org.freeorion.FreeOrion	Körökre osztott űrbirodalom és galaktikus hódítás (4X) számítógépes játék
+org.freeplane.App	Mind Mapping, Tudásmenedzsment, Projektmenedzsment. Fejlessze, rendszerezze és kommunikálja ötleteit és tudását a leghatékonyabb módon
+org.frescobaldi.Frescobaldi	LilyPond zeneszerkesztő
+org.fritzing.Fritzing	Elektronikus tervezőeszköz
+org.frozen_bubble.frozen-bubble	Egy addiktív játék a fagyott buborékokról
+org.gabmus.gfeeds	Hírolvasó a GNOME-hoz
+org.gabmus.giara	Egy alkalmazás a Reddithez
+org.gabmus.hydrapaper	Háttérképkezelő több monitoros támogatással
+org.gabmus.notorious	Billentyűzet centrikus hangjegyek
+org.gabmus.swatch	Színpaletta kezelő
+org.gabmus.unifydmin	GNOME alkalmazás több heterogén szerver egyszerű vezérléséhez
+org.gabmus.whatip	Információ az IP-ről
+org.gahshomar.Gahshomar	Egy perzsa/dzsalali/fárszi naptár
+org.gajim.Gajim	Funkciógazdag XMPP üzenetküldő
+org.gaphor.Gaphor	Egyszerű UML és SysML modellező eszköz
+org.geany.Geany	A fast and lightweight IDE
+org.geeqie.Geeqie	A lightweight image viewer
+org.genivi.DLTViewer	Diagnostic Log and Trace viewing program
+org.geogebra.GeoGebra	Dynamic mathematics software
+org.gephi.Gephi	The Open Graph Viz Platform
+org.getmonero.Monero	Monero: the secure, private, untraceable cryptocurrency
+org.getoutline.OutlineClient	Access to the free and open Internet
+org.getoutline.OutlineManager	Set up your Outline Servers on the cloud and manage who has access to the server
+org.getzola.zola	A fast static site generator in a single binary with everything built-in
+org.ghidra_sre.Ghidra	Ghidra Software Reverse Engineering Suite
+org.gimp.GIMP	Képek létrehozása és fotók szerkesztése
+org.gmusicbrowser.gmusicbrowser	Jukebox for large collection of music
+org.gna.Warmux	A 2D game where funny characters launch funny weapons
+org.gnode.NixView	Viewer for nix datafiles
+org.gnome.Aisleriot	Sok különféle pasziánszjáték
+org.gnome.atomix	Építsen molekulákat egyedülálló atomokból
+org.gnome.baobab	Mappaméretek és elérhető lemezterület vizsgálata
+org.gnome.Boxes	Virtualizáció egyszerűen
+org.gnome.BreakTimer	Computer break reminders for GNOME
+org.gnome.Builder	Integrált fejlesztői környezet a GNOME-hoz
+org.gnome.Calculator	Aritmetikai, tudományos vagy pénzügyi számítások végrehajtása
+org.gnome.Calendar	Naptár a GNOME-hoz
+org.gnome.Calls	Make phone and SIP calls
+org.gnome.Characters	Karaktertérkép alkalmazás
+org.gnome.Cheese	Képek készítése és videók felvétele webkamerával, vicces grafikai effektusokkal
+org.gnome.Chess	A klasszikus kétszemélyes sakk játék
+org.gnome.clocks	Az idő nyomon követése
+org.gnome.ColorViewer	Telepített színprofilok vizsgálata és összehasonlítása
+org.gnome.Connections	Más asztalok megtekintése és használata
+org.gnome.Contacts	Névjegyek kezelése
+org.gnome.Crosswords	Solve crossword puzzles
+org.gnome.Crosswords.Editor	Create crossword puzzles
+org.gnome.DejaDup	Védje meg magát az adatvesztés ellen
+org.gnome.design.AppIconPreview	Egy eszköz alkalmazások ikonjainak tervezéséhez
+org.gnome.design.Contrast	Kontraszt ellenőrzése két szín között
+org.gnome.design.Emblem	Projektprofilképek előállítása
+org.gnome.design.IconLibrary	Szimbolikus ikonok az alkalmazásaihoz
+org.gnome.design.Lorem	Helykitöltő szöveg előállítása
+org.gnome.design.Palette	Színpaletta eszköz
+org.gnome.design.SymbolicPreview	Szimbolikák könnyen érthetően
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	Fejlesztői eszköz API dokumentációk böngészéséhez és kereséséhez
+org.gnome.dspy	Egy D-busz felfedező a GNOME-hoz
+org.gnome.EasyTAG	Hangfájlok metaadatainak szerkesztése
+org.gnome.eog	Képek böngészése és forgatása
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	A világháló böngészése
+org.gnome.Evince	Dokumentummegjelenítő a népszerű dokumentumformátumokhoz
+org.gnome.Evolution	E-mailek, névjegyek és határidők kezelése
+org.gnome.Extensions	Saját GNOME kiterjesztések kezelése
+org.gnome.FileRoller	Tömörített archívumfájlok megnyitása, módosítása és létrehozása
+org.gnome.Firmware	Install firmware on devices
+org.gnome.five-or-more	Színes labdák leszedése a tábláról azok egymás mellé helyezésével
+org.gnome.FontManager	A simple font management application for Gtk+ Desktop Environments
+org.gnome.font-viewer	Telepített betűkészletek megjelenítése
+org.gnome.Four-in-a-row	Alkosson azonos színű sorokat a győzelemhez
+org.gnome.Fractal	Matrix csoportos üzenetküldő alkalmazás
+org.gnome.frogr	Egy Flickr feltöltő a GNOME-hoz
+org.gnome.gbrainy	A gbrainy a memória, az aritmetikai, szóbeli és logikai képességek fejlesztéséhez készült játék.
+org.gnome.Geary	E-mailek küldése és fogadása
+org.gnome.gedit	Szövegszerkesztő
+org.gnome.Genius	Genius is a general purpose calculator program
+org.gnome.GHex	Bináris fájlok megfigyelése és szerkesztése
+org.gnome.gitg	Grafikus felhasználói felület a Githez
+org.gnome.gitlab.bazylevnik0.Convolution	Maze escaping game
+org.gnome.gitlab.Cowsay	Cowsay, a state of the art Cowsay generator using GNOME conventions
+org.gnome.gitlab.dqpb.GMetronome	A tempo measurement tool for composers and musicians
+org.gnome.gitlab.ilhooq.Bookup	Simplify your note-taking with Markdown syntax
+org.gnome.gitlab.johannesjh.favagtk	Do your finances using fava and beancount
+org.gnome.gitlab.powimod.aion-task	Cyclic task manager
+org.gnome.gitlab.somas.Apostrophe	Markdown szerkesztése a stílusban
+org.gnome.gitlab.YaLTeR.Identity	Képek és videók összehasonlítása
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Videók gyors vágása
+org.gnome.glabels-3	Címkék, névjegykártyák és borítók készítése
+org.gnome.Glade	Felhasználóifelület-tervek készítése GTK+ alkalmazásokhoz
+org.gnome.Gnote	Egyszerű jegyzetkezelő alkalmazás
+org.gnome.GTG	Személyi feladat- és teendőlista-szervező
+org.gnome.gThumb	Képek megtekintése és rendszerezése
+org.gnome.Gtranslator	Programkönyvtárak és programok fordítása
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Japán eredetű logikai játék a számokkal
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Csúsztassa el az elemeket a fejtörő megoldásához
+org.gnome.LightsOff	Kapcsolja le az összes lámpát
+org.gnome.Logs	A rendszer részletes eseménynaplóinak megtekintése
+org.gnome.Lollypop	Zenegyűjtemény rendszerezése és lejátszása
+org.gnome.Loupe	Képek megtekintése
+org.gnome.Mahjongg	Párosítsa a köveket és tisztítsa meg a táblát
+org.gnome.Maps	Helyek keresése a világ minden pontján
+org.gnome.meld	Fájlok összehasonlítása és összefésülése
+org.gnome.Mines	Elrejtett aknák eltávolítása az aknamezőről
+org.gnome.moserial	Soros terminál
+org.gnome.Music	Zenegyűjtemény rendszerezése és lejátszása
+org.gnome.NautilusPreviewer	Lehetőség biztosítása különféle típusú fájlok gyors megtekintéséhez
+org.gnome.NetworkDisplays	Az asztal tartalmának továbbítása Wi-Fi-megjelenítő képes eszközökre
+org.gnome.Nibbles	Kukac irányítása egy labirintusban
+org.gnome.Notes	Jegyzetfüzet a GNOME-hoz
+org.gnome.OCRFeeder	A teljes OCR készlet
+org.gnome.OfficeRunner	Zárja le a laptop fedelét és kezdjen futni
+org.gnome.Photos	Fényképek elérése, rendszerezése és megosztása a GNOME-ban
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Hallgassa kedvenc műsorait
+org.gnome.Polari	Beszéljen emberekkel IRC-n
+org.gnome.PowerStats	Energiagazdálkodás megfigyelése
+org.gnome.Quadrapassel	Lehulló blokkok egymáshoz illesztése
+org.gnome.Recipes	A GNOME imád főzni
+org.gnome.Reversi	Uralja a táblát a klasszikus Reversi játékban, vagy játsszon a fordított változattal
+org.gnome.Rhythmbox3	Zenék rendszerezése és lejátszása
+org.gnome.Robots	Kerülje el a robotokat és ütköztesse egymásnak őket
+org.gnome.seahorse.Application	Jelszavak és titkosítási kulcsok kezelése
+org.gnome.Shotwell	Digitálisfénykép-rendező
+org.gnome.SimpleScan	Készítsen digitális másolatot a fényképeiről és dokumentumairól
+org.gnome.Snapshot	Képek és videók rögzítése
+org.gnome.Solanum	A munkaidő és a szünetek kiegyensúlyozása
+org.gnome.SoundJuicer	CD-beolvasó letisztult felülettel és egyszerű beállításokkal
+org.gnome.SoundRecorder	Egy egyszerű, modern hangrögzítő a GNOME-hoz
+org.gnome.Sudoku	Tesztelje logikai képességeit ezzel a számrács-fejtörővel
+org.gnome.SwellFoop	Tisztítsa meg a képernyőt az egyező színű és formájú csempecsoportok eltávolításával
+org.gnome.Tali	Dobjon a kockával és szerezzen pontokat
+org.gnome.Taquin	Csúsztassa a csempéket a megfelelő helyükre
+org.gnome.Tau	GTK frontend for the xi text editor
+org.gnome.Tetravex	Rendezze át a darabokat a négyzet kitöltéséhez
+org.gnome.TextEditor	Szövegfájlok szerkesztése
+org.gnome.Todo	Feladatok kezelése
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Filmek lejátszása
+org.gnome.TwentyFortyEight	Szerezze meg a 2048-as csempét
+org.gnome.Weather	Időjárási viszonyok és előrejelzés megjelenítése
+org.gnome.World.Citations	A bibliográfia kezelése
+org.gnome.World.Iotas	Simple note taking
+org.gnome.World.PikaBackup	Tartsa biztonságban az adatait
+org.gnome.World.Secrets	Kezelje a jelszavait
+org.gnucash.GnuCash	Igazgassa pénzügyeit, számláit és befektetéseit
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	Egy nagy pontosságú táblázatkezelő program
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Graphical frontend to GnuPG
+org.gnu.pspp	A GNU PSPP egy mintaadatok statisztikai elemzésére szolgáló program
+org.godotengine.Godot	Godot game engine editor
+org.godotengine.Godot3	Godot game engine editor
+org.godotengine.Godot3Sharp	Godot game engine editor
+org.godotengine.GodotSharp	Godot game engine editor
+org.goldcoinproject.goldcoin-qt	Discover the Gold Standard of Digital Currency.
+org.goldendict.GoldenDict	Dictionary lookup program
+org.gottcode.Connectagram	Unscramble words placed in patterns
+org.gottcode.CuteMaze	Find targets in a maze
+org.gottcode.FocusWriter	Teljesképernyős szövegszerkesztő
+org.gottcode.Gottet	Clear the board of falling blocks
+org.gottcode.Hexalate	Forgassa a köröket a színek illesztéséhez
+org.gottcode.Kapow	Keep track of time spent on projects
+org.gottcode.NovProg	Wordcount graphing program
+org.gottcode.Peg-E	Jump pegs to eliminate them
+org.gottcode.Simsu	Fill in numbers to solve puzzles
+org.gottcode.Tanglet	A Boggle egyjátékos változata
+org.gottcode.Tetzle	Jigsaw puzzle with tetromino pieces
+org.gpodder.gpodder	Media aggregator and podcast client
+org.gpodder.gpodder-adaptive	Médiagyűjtő és podcast kliens mobilra és asztali számítógépre egyaránt
+org.gramps_project.Gramps	Származástani kezel, származástani kutatást és elemzést hajt végre
+org.greenfoot.Greenfoot	Greenfoot
+org.grisbi.Grisbi	Személyes pénzügyvezető
+org.groestlcoin.electrum-grs	Könnyű Groestlcoin kliens
+org.groestlcoin.groestlcoin-qt	A Groestlcoin peer-to-peer hálózati csomópont, pénztárca és grafikus felhasználói felület teljes ellenőrzése
+org.gtaf.quran	Tanulmányozza a Koránt szóról szó elemzéssel, színes tajweeddel, tafsirral és hanggal
+org.gtimelog.GTimeLog	Feltűnően nyomon követheti az idejét
+org.gtkhash.gtkhash	Üzenetkivonatok vagy ellenőrző összegek kiszámítása
+org.guerinoni.qTsConverter	Egy egyszerű eszköz a qt fordítási fájl (ts) más formátumba (xlsx / csv) konvertálásához és fordítva.
+org.guitarix.Guitarix	virtuális sokoldalú erősítés Jack/Linux számára
+org.gustavoperedo.FontDownloader	Telepítsen betűtípusokat online forrásokból
+org.hdfgroup.HDFView	HDF-fájlok böngészése és szerkesztése
+org.hedgewars.Hedgewars	Vicces körökre osztott tüzérségi játék harcoló sündisznókkal!
+org.hikounomizu.HikouNoMizu	Platform alapú, anime stílusú verekedős játék
+org.hlwd.sonofman	Biblia több nyelven, ingyenes, offline, reklám nélkül, angol, francia, olasz, spanyol, portugál nyelven a terminálhoz.
+org.homelinuxserver.vance.biblereader	Olvasd az Igét
+org.horizon_eda.HorizonEDA	Ingyenes EDA csomag
+org.hydrogenmusic.Hydrogen	A fejlett dobgép
+org.icculus.tennix	Többjátékos teniszjáték
+org.imitationpickles.barbie	Segíts Barbie-nak, a csikóhalnak, hogy a buborékokon lebegjen a Holdra
+org.inkscape.Inkscape	Vektorgrafikai szerkesztő
+org.ioquake3.ioquake3	Ingyenes és nyílt forráskódú Quake 3 alapú motor
+org.jabref.jabref	Grafikus Java alkalmazás BibTeX és biblatex (.bib) adatbázisok kezelésére
+org.jacktrip.JackTrip	Csatlakozz és játssz más zenészekkel
+org.jamovi.jamovi	Valós idejű statisztikai táblázat
+org.jaspstats.JASP	Szabványos statisztikai elemzések, klasszikus és Bayes-féle
+org.jdownloader.JDownloader	Letölthető kezelőeszköz
+org.jellyfin.JellyfinServer	A szabad szoftveres médiarendszer
+org.jflap.JFLAP	Formális nyelvek tesztelése
+org.jitsi.jitsi-meet	Jitsi Meet – Biztonságos, egyszerű és méretezhető videokonferenciák
+org.jreleaser.cli	Projektek kiadása gyorsan és egyszerűen a JReleaser segítségével
+org.js.nuclear.Nuclear	Elektron alapú zenelejátszó
+org.jupyter.JupyterLab	Electron alapú JupyterLab asztali alkalmazás
+org.karapulse.Karapulse	Karaoke lejátszó beépített webes távoli klienssel
+org.kde.akregator	Hírolvasó alkalmazás
+org.kde.alligator	Hírolvasó mobil eszközökre
+org.kde.angelfish	Webböngésző mobileszközökre
+org.kde.arianna	Ebook olvasó
+org.kde.ark	Fájltömörítő
+org.kde.artikulate	Artikulate kiejtés oktató
+org.kde.atlantik	Monopoly®-like Board Games
+org.kde.audiotube	Convergent YouTube Music client
+org.kde.blinken	Memory Enhancement Game
+org.kde.bomber	Bombázós játék
+org.kde.bovo	Ötöt egy sorba táblajáték
+org.kde.cantor	KDE Frontend to Mathematical Software
+org.kde.choqok	Micro-blogging client
+org.kde.digikam	Photo Management Program
+org.kde.dolphin	Fájlkezelő
+org.kde.elisa	Zenelejáts online rádió támogatással
+org.kde.falkon	Web Browser
+org.kde.filelight	Show disk usage and delete unused files
+org.kde.francis	Track your time
+org.kde.gcompris	Oktató játékcsomag 2-10 éves gyerekek számára
+org.kde.granatier	Bomberman-klón
+org.kde.gwenview	Képmegjelenítő
+org.kde.haruna	Open source media player built with Qt/QML and libmpv
+org.kde.Ikona	Ikona is a design companion to help you design icons
+org.kde.index	Fájlkezelő
+org.kde.isoimagewriter	Write an ISO Image to a USB Disk
+org.kde.itinerary	Digital travel assistant
+org.kde.juk	Zenelejátszó
+org.kde.kaffeine	Multimedia Player
+org.kde.kalgebra	Grafikus számológép
+org.kde.kalk	Funkciógazdag számológép
+org.kde.kalzium	Periodic Table of Elements
+org.kde.kamoso	Use your webcam to take pictures and make videos
+org.kde.kanagram	Szókirakó játék
+org.kde.kapman	Pac-Man Clone
+org.kde.kasts	Podcast application
+org.kde.katomic	Sokoban-like Logic Game
+org.kde.kbibtex	BibTeX editor by KDE to edit bibliographies used with LaTeX
+org.kde.kblackbox	Fekete dobozos logikai játék
+org.kde.kblocks	Játék lehulló elemekkel
+org.kde.kbounce	KBounce is a single player arcade game with the elements of puzzle
+org.kde.kbreakout	KBreakOut is a Breakout-like game by KDE
+org.kde.kbruch	Gyakorlat törtekkel
+org.kde.kcachegrind	Profiler Frontend
+org.kde.kcalc	Tudományos számológép
+org.kde.kclock	Állítson be ébresztőket és időzítőket, használjon stoppert és kezeljen világórákat
+org.kde.kcolorchooser	Színválasztó és palettaszerkesztő
+org.kde.kdenlive	Video Editor
+org.kde.kdevelop	Featureful, plugin-extensible IDE for C/C++ and other programming languages
+org.kde.kdiamond	KDiamond is a three-in-a-row game by KDE
+org.kde.kdiff3	A file and folder comparison and merge tool
+org.kde.keysmith	Kétfaktoros kódgeneráló a Plasma Mobile-hoz és Desktophoz
+org.kde.kfind	Fájl- és mappakereső
+org.kde.kfourinline	KFourInLine is a four-in-a-row game by KDE
+org.kde.kgeography	Geography learning tool
+org.kde.kgeotag	Photo geotagging program
+org.kde.kget	Download Manager
+org.kde.kgoldrunner	Hunt Gold, Dodge Enemies and Solve Puzzles
+org.kde.kgraphviewer	A Graphviz DOT graph viewer
+org.kde.khangman	Akasztófajáték
+org.kde.kid3	Edit audio file metadata
+org.kde.kig	Interactive Geometry
+org.kde.kigo	Go Board Game
+org.kde.kile	TeX/LaTeX Editor
+org.kde.killbots	Outsmart the killer robots to win
+org.kde.kimagemapeditor	HTML Image Map Editor
+org.kde.kiriki	Yahtzee-like Dice Game
+org.kde.kiten	Segédprogram a japán nyelv tanulásához
+org.kde.kjumpingcube	Territory Capture Game
+org.kde.kleopatra	Tanúsítványkezelő és egységes kriptográfiai kezelőfelület
+org.kde.klettres	Tanulja meg az ABC-t
+org.kde.klickety	Klickety is an adaptation of the clickomania game
+org.kde.klines	Tactical Game
+org.kde.kmahjongg	Majong kirakó
+org.kde.kmines	Aknakeresőszerű játék
+org.kde.kmplayer	Interface for MPlayer by KDE
+org.kde.kmplot	Mathematical Function Plotter
+org.kde.kmymoney	Personal finance manager based on double-entry bookkeeping
+org.kde.knavalbattle	Battle Ship Game
+org.kde.knetwalk	KNetWalk is a game for system administrators
+org.kde.knights	Chess game
+org.kde.koko	Image Gallery
+org.kde.kolf	Miniature Golf
+org.kde.kollision	Casual ball game
+org.kde.kolourpaint	Rajzolóprogram
+org.kde.kommit	Git GUI client
+org.kde.kompare	Diff/Patch Frontend
+org.kde.kongress	KDE Conference companion application
+org.kde.konquest	Galactic Strategy Game
+org.kde.konsole	Terminál
+org.kde.kontact	Handle all your emails, calendars, contacts and more within a single window
+org.kde.kontrast	A Color Contrast Checker
+org.kde.konversation	IRC kliens
+org.kde.kpat	Pasziánsz kártyajáték
+org.kde.kphotoalbum	KDE image management software
+org.kde.krdc	Csatlakozás másik számítógéphez RDP-vel vagy VNC-vel
+org.kde.krename	A powerful batch file renamer
+org.kde.kreversi	Reversi Board Game
+org.kde.krita	Digital Painting, Creative Freedom
+org.kde.kronometer	Chronometer
+org.kde.kruler	Screen Ruler
+org.kde.ksirk	World Domination Strategy Game
+org.kde.ksnakeduel	Tron-like Game
+org.kde.ksquares	Connect the dots to create squares
+org.kde.kst	Interactive Data Visualization and Analysis
+org.kde.kstars	Desktop Planetarium
+org.kde.ksudoku	Számrejtvények kitöltése egy és kilenc közötti számokkal
+org.kde.kteatime	Teafőző
+org.kde.ktimetracker	Personal Time Tracker
+org.kde.ktorrent	Bittorrent kliens
+org.kde.ktouch	Touch Typing Tutor
+org.kde.ktrip	Public transport navigator
+org.kde.ktuberling	A simple constructor game suitable for children and adults alike
+org.kde.kturtle	Educational Programming Environment
+org.kde.kubrick	3-D Game based on Rubik's Cube
+org.kde.kuiviewer	Qt Designer UI File Viewer
+org.kde.kwalletmanager5	Jelszókezelő eszköz
+org.kde.kweather	View real-time weather forecasts and other information
+org.kde.kwordquiz	Flash Card Trainer
+org.kde.kwrite	Szövegszerkesztő
+org.kde.kxstitch	A cross stitch pattern creator
+org.kde.labplot2	Interactive Data Visualization and Analysis
+org.kde.lokalize	Számítógéppel támogatott fordítórendszer
+org.kde.lskat	German card game Skat for two players
+org.kde.marble	Virtual Globe
+org.kde.massif-visualizer	A visualizer for Valgrind Massif data files
+org.kde.minuet	Music Education Software
+org.kde.neochat	Kliens a matrixhoz, a decentralizált kommunikációs protokollhoz
+org.kde.okteta	Hexaszerkesztő
+org.kde.okular	Dokumentummegjelenítő
+org.kde.palapeli	Jigsaw puzzle game
+org.kde.parley	Vocabulary Trainer
+org.kde.peruse	Comic Book Reader
+org.kde.picmi	Számlogika alapú kirakós játék
+org.kde.pix	Image Gallery
+org.kde.plasmatube	YouTube videók lejátszása
+org.kde.qmlkonsole	Mobil terminálalkalmazás
+org.kde.rocs	Rocs Graph Theory
+org.kde.ruqola	Rocket Chat Client
+org.kde.skanpage	Multi-page document scanning application
+org.kde.skrooge	Single-entry bookkeeping for home use
+org.kde.subtitlecomposer	Video subtitle editor that supports basic and advanced editing operations
+org.kde.SymbolEditor	A cross stitch symbol editor
+org.kde.tellico	Gyűjteménykezelő
+org.kde.telly-skout	A convergent Kirigami TV guide
+org.kde.tokodon	Mastodon ügyfél
+org.kde.umbrello	UML modellező
+org.kde.vvave	Játssza le zenei gyűjteményét
+org.kde.yakuake	Legördülő terminál
+org.keepassxc.KeePassXC	A „KeePass Password Safe” Windows alkalmazás közösség által vezérelt portja
+org.KekikAkademi.BTKSorgu	A cél webhely elérhető Törökországban? (BTK)
+org.KekikAkademi.eFatura	E-számla használati lekérdezés az adó- vagy TR-azonosító számtól
+org.kekikakademi.ntvHaber	Breaking News török nyelven az NTV.com.tr oldalról
+org.kicad.KiCad	EDA programcsomag sematikus és áramköri tervezéshez
+org.kiwix.desktop	Offline tartalom megtekintése
+org.kosmospredanie.Yakblt	Egy egyszerű golyókerülő játék
+org.kryogenix.hushboard	Gépelés közben némítsa el a mikrofont
+org.kryogenix.Pick	Színválasztó
+org.kryogenix.utm_no	Távolítsa el a nyomkövetési paramétereket a másolt URL-ekből
+org.ksnip.ksnip	Platformok közötti képernyőkép eszköz annotációs funkciókkal
+org.lamport.tla.toolbox	A TLA+ Toolbox egy IDE (integrált fejlesztői környezet) a TLA+ eszközökhöz
+org.laptop.TurtleArtActivity	Egy logó ihlette teknős, amely színes képeket rajzol összeilleszthető vizuális programozási blokkokkal
+org.learningequality.Kolibri	Offline oktatási technológiai platform
+org.leocad.LeoCAD	Tervezz virtuális modelleket, amelyeket LEGO kockákból építhetsz
+org.librecad.librecad	2D számítógéppel segített tervezés (CAD)
+org.librehunt.Organizer	Egy segédprogram a fájlok rendezett kategóriákba rendezéséhez
+org.libreoffice.LibreOffice	A LibreOffice hatékonyságnövelő programcsomag
+org.librepcb.LibrePCB	Tervezési vázlatok és PCB-k
+org.libretrainsim.Libre-TrainSim	Ingyenes Train Simulator mindenki számára
+org.libretro.RetroArch	Frontend emulátorokhoz, játékmotorokhoz és médialejátszókhoz
+org.libsdl.Maelstrom	Kiváló minőségű aszteroidák klón
+org.libvips.vipsdisp	Képnézegető
+org.linux_hardware.hw-probe	Ellenőrizze a számítógép hardverének működőképességét és keresse meg az illesztőprogramokat
+org.linuxshowplayer.LinuxShowPlayer	Színpadi produkciókhoz tervezett dákójátszó
+org.localsend.localsend_app	Fájlok megosztása a közeli eszközökkel
+org.love2d.love2d	A LÖVE egy fantasztikus 2D-s játékkeret a Lua számára.
+org.lyx.LyX	A dokumentumfeldolgozó
+org.mamedev.MAME	A MAME egy többcélú emulációs keretrendszer.
+org.manaplus.ManaPlus	Kibővített kliens a The Mana World és hasonló szerverekhez
+org.mapeditor.Tiled	Általános célú térképszerkesztő
+org.mattbas.Glaxnimate	Vektoros animáció szerkesztő
+org.mattdm.icebreaker	Egy addiktív akció-rejtvényjáték pattogó pingvinekkel
+org.mavlink.qgroundcontrol	UAS földi irányító állomás
+org.megaglest.MegaGlest	Valós idejű stratégiai játék (RTS)
+org.megamek.MegaMek	Harcolj óriási robotok, tankok és/vagy gyalogság segítségével egy hatszögletű térképen.
+org.mersenne.mprime	Ingyenes Mersenne Prime keresőszoftver
+org.metal3d.scoreboard	Egy egyszerű eredménytábla bármely játék pontjainak számlálásához
+org.mfek.MFEKglif	Glyph szerkesztő a Modular Font Editor K projekthez
+org.midori_browser.Midori	Gyors és könnyű webböngésző
+org.milkytracker.MilkyTracker	Fast Tracker II ihlette zenekövető
+org.mixxx.Mixxx	Minden, ami az élő DJ mixek előadásához kell
+org.mmass.mMass	Nyílt forráskódú tömegspektrometriai eszköz
+org.mobsya.ThymioSuite	A Thymio programozási felületeinek egyszerű elérése
+org.moneymanagerex.MMEX	Pénzügyek megszervezése és pénzforgalom nyomon követése
+org.mosh.mosh	A Mobile Shell
+org.mozilla.firefox	Gyors, privát és biztonságos webböngésző
+org.mozilla.Thunderbird	A Thunderbird egy ingyenes és nyílt forráskódú e-mail-, hírfolyam-, csevegő- és naptári kliens
+org.mpdevil.mpdevil	Egyszerű zeneböngésző MPD-hez
+org.msweet.htmldoc	HTML konvertáló szoftver
+org.munadi.Munadi	Egyszerű Athan alkalmazás
+org.musescore.MuseScore	Készítsen, játsszon és nyomtasson gyönyörű kottákat
+org.musicbrainz.Picard	A MusicBrainz zenei címkézője
+org.mypaint.MyPaint	Festészeti program digitális művészek számára
+org.naev.Naev	2D akció/rpg space kereskedelmi harci játék
+org.nanuc.Axolotl	Az Axolotl egy többplatformos Signal kliens
+org.netsurf_browser.NetSurf	kis webböngésző CSS támogatással
+org.neverball.Neverball	Ügyesen vezessen egy guruló labdát számos sima 3D-s szinten
+org.nickvision.cavalier	Vizualizálja a hangot a CAVA segítségével
+org.nickvision.money	Kezelje személyes pénzügyeit
+org.nickvision.tagger	Jelölje meg zenéjét
+org.nickvision.tubeconverter	Internetes médiatartalmak letöltése
+org.nicotine_plus.Nicotine	Grafikus kliens a Soulseek P2P hálózathoz
+org.nmap.Zenmap	Többplatformos grafikus felhasználói felület az Nmap Security Scannerhez
+org.nomacs.ImageLounge	A nomacs egy ingyenes, nyílt forráskódú képnézegető
+org.nongnu.enigma	Puzzle játék
+org.nongnu.gsequencer.gsequencer	Advanced Gtk+ Sequencer
+org.nongnu.Xlog	Naplózó program rádióamatőröknek
+org.nsnam.NetAnim	A NetAnim egy offline animátor az ns-3 számára
+org.nuspell.Nuspell	helyesírás-ellenőrző
+org.octave.Octave	Interaktív programozási környezet számszerű számításokhoz
+org.olivevideoeditor.Olive	Nemlineáris videószerkesztő
+org.omegat.OmegaT	Egy egyszerű, nyílt forráskódú fordítási memória-kezelő és CAT-eszköz
+org.onionshare.OnionShare	Biztonságosan és névtelenül megoszthat fájlokat, tárolhat webhelyeket, és cseveghet barátaival
+org.onlyoffice.desktopeditors	Irodai hatékonyságnövelő csomag
+org.openandroidinstaller.OpenAndroidInstaller	Szép és egyszerű az alternatív Android disztribúciók telepítése
+org.openchemistry.Avogadro2	Ingyenes és nyílt forráskódú molekuláris szerkesztő
+org.openclonk.OpenClonk	Többjátékos akciójáték, ahol kicsi és fürge humanoidokat irányítasz
+org.opencpn.OpenCPN	Egy tömör Chartplotter és navigációs szoftver
+org.openfodder.OpenFodder	A Cannon Fodder DOS-os stratégiai játék nyílt forráskódú portja.
+org.openhantek.OpenHantek6022	DSO szoftver Hantek USB digitális jeloszcilloszkópokhoz 6022BE/BL
+org.openjkdf2.OpenJKDF2	A „Jedi Knight: Dark Forces II” platformok közötti újramegvalósítása
+org.openkj.OpenKJ	Professzionális karaoke hosting szoftver
+org.openmsx.openMSX	Emulálja az MSX minden aspektusát nagy pontossággal
+org.openmw.OpenMW	A The Elder Scrolls III: Morrowind újraimplementációja
+org.opennumismat.OpenNumismat	Érmegyűjtő szoftver saját katalógusának rendezéséhez és kezeléséhez
+org.openrgb.OpenRGB	Nyílt forráskódú RGB világításvezérlés, amely nem függ a gyártó szoftverétől.
+org.openscad.OpenSCAD	A Programers Solid 3D CAD modellező
+org.openscopeproject.TrguiNG	Távoli GUI az átvitelhez torrent démon
+org.openshot.OpenShot	Könnyen használható, gyorsan megtanulható és meglepően hatékony videószerkesztő
+org.openstreetmap.josm	Java OpenStreetMap szerkesztő
+org.opensurge2d.OpenSurge	Egy szórakoztató 2D retro platformer, amelyet a Sonic játékok és egy játékkészítő rendszer ihlettek
+org.opentransactions.metier	Több pénznemű blokklánc pénztárca és Open-Transactions kliens
+org.openttd.OpenTTD	A Transport Tycoon Deluxe-on alapuló nyílt forráskódú szimulációs játék
+org.otfried.Ipe	Az Ipe bővíthető rajzszerkesztő
+org.pairinteraction.Pairinteraction	A Rydberg interakciós kalkulátor
+org.paraview.ParaView	Adatelemzés és vizualizáció
+org.parlatype.Parlatype	Médialejátszó a beszéd átírásához
+org.pegasus_frontend.Pegasus	Platformokon átívelő, testreszabható grafikus felület az emulátorok indításához
+org.pencil2d.Pencil2D	Bittérképet és vektorgrafikát támogató 2D animációs szoftver
+org.phoenicis.playonlinux	Telepítse és futtassa a Windows szoftvert Linuxon
+org.photoqt.PhotoQt	Képek megtekintése és kezelése
+org.pipewire.Helvum	Patchbay a PipeWire számára
+org.pitivi.Pitivi	Saját videók létrehozása és szerkesztése
+org.pjbroad.EternallandsClient	Az Eternal Lands egy ingyenesen játszható, grafikus MMORPG
+org.plomgrading.PlomClient	Osztályozó ügyfél a Plom online osztályozó rendszerhez
+org.polymc.PolyMC	Egyéni indító a Minecraft számára, amely lehetővé teszi a Minecraft több telepítésének egyszerű kezelését egyszerre
+org.ppsspp.PPSSPP	PlayStation Portable emulátor
+org.prismlauncher.PrismLauncher	Egyéni indító a Minecraft számára, amely lehetővé teszi a Minecraft több telepítésének egyszerű kezelését egyszerre
+org.processing.processingide	Nyílt forráskódú szoftver prototípus-készítő platform
+org.profex_xrd.Profex	Nyílt forráskódú XRD és Rietveld finomítás
+org.pulseaudio.pavucontrol	Állítsa be a hardvereszközök és alkalmazások hangerejét
+org.purei.Play	Playstation 2 emulátor
+org.pydpainter.PyDPainter	Használható, Pythonban írt pixel art festékprogram
+org.pymol.PyMOL	Molekuláris vizualizáció és sugárkövetés
+org.pyzo.pyzo	Egy Python IDE, amelynek célja az egyszerűség és az interaktivitás
+org.qbittorrent.qBittorrent	Nyílt forráskódú Bittorrent kliens
+org.qelectrotech.QElectroTech	Elektromos diagram szerkesztő
+org.qgis.qgis	Egy szabad és nyílt forráskódú térinformatikai rendszer
+org.qownnotes.QOwnNotes	Egyszerű szöveges fájl jegyzettömb Markdown támogatással és Nextcloud / ownCloud integrációval
+org.quassel_irc.QuasselClient	Modern elosztott IRC kliens
+org.quetoo.Quetoo	Ingyenes first person shooter Mac-re, PC-re és Linuxra
+org.qutebrowser.qutebrowser	Billentyűzet-vezérelt webböngésző
+org.qxmledit.QXmlEdit	XML szerkesztő
+org.raceintospace.Raceintospace	Egy játék az 1960-as évek űrversenyének felelevenítésére
+org.racket_lang.Racket	Nyelv-orientált programozási nyelv
+org.radare.iaito	Qt és C++ grafikus felület a radare2 reverse engineering keretrendszerhez
+org.raspberrypi.rpi-imager	Raspberry Pi képalkotó segédprogram
+org.remmina.Remmina	Távoli asztali kliens
+org.rncbc.qpwgraph	PipeWire Graph Qt grafikus felület
+org.rncbc.qsynth	Fluidsynth Qt GUI interfész
+org.rncbc.qtractor	Audio/MIDI többsávos szekvenszer
+org.robocode.Robocode	Építsd meg a legjobbat - rombold le a többit!
+org.rolisteam.rolisteam	Ügyféltárs a Rolisteam szerverhez
+org.ryujinx.Ryujinx	Egy Nintendo Switch emulátor
+org.sabnzbd.sabnzbd	Ingyenes és egyszerű bináris hírolvasó
+org.sauerbraten.Sauerbraten	Ingyenes többjátékos és egyjátékos első személyű lövöldözős játék, a Cube FPS utódja
+org.scantailor.ScanTailor	Interaktív utófeldolgozó eszköz a szkennelt oldalakhoz
+org.scilab.Scilab	Tudományos szoftvercsomag numerikus számításokhoz
+org.scintilla.SciTE	SCIntilla alapú szövegszerkesztő
+org.scummvm.ScummVM	Tolmács számos kalandjátékhoz és szerepjátékhoz
+org.sdrangel.SDRangel	TX és RX szoftver által meghatározott rádió
+org.seul.crimson	Körök alapú taktikai háborús játék
+org.shadered.SHADERed	HLSL és GLSL shader létrehozására és tesztelésére szolgáló eszköz
+org.shadowsocks.qt5client	Natív és többplatformos shadowsocks grafikus felhasználói felület, fejlett funkciókkal.
+org.shotcut.Shotcut	Videó szerkesztő
+org.signal.Signal	Privát üzenetküldő
+org.sigxcpu.Livi	Egyszerű GTK4 alapú videolejátszó mobiltelefonokhoz
+org.sil.Bloom	Műveltségi anyagok fejlesztése nyelvi közösségek számára
+org.sil.FieldWorks	Nyelvi és kulturális adatkezelés
+org.skytemple.Randomizer	Randomizer a Pokémon Mystery Dungeon Explorers of Sky számára
+org.skytemple.SkyTemple	ROM szerkesztő a Pokémon Mystery Dungeon Explorers of Sky számára
+org.soapui.SoapUI	A SoapUI OS egy funkcionális tesztelési megoldás API-khoz és webszolgáltatásokhoz
+org.solarus_games.solarus.Launcher	Böngésszen és játsszon Solarus küldetésgyűjteményében.
+org.sonic3air.Sonic3AIR	A Sonic 3 & Knuckles rajongók által készített szélesképernyős remasterje.
+org.soundconverter.SoundConverter	Hangfájlok konvertálása
+org.sparkleshare.SparkleShare	Magic saját hosztolt Git-fájl szinkronizálása
+org.speedcrunch.SpeedCrunch	Egy nagy pontosságú tudományos számológép
+org.speed_dreams.SpeedDreams	A Speed Dreams egy többplatformos 3D, nyílt forráskódú motorsport szimulációs és versenyjáték
+org.sqlitebrowser.sqlitebrowser	A DB Browser for SQLite egy egyszerű grafikus felhasználói felület szerkesztő SQLite adatbázisokhoz
+org.squeakland.Etoys	Tanuljon vizuális programozással
+org.squey.Squey	Fedezze fel adatait
+org.squidowl.halloy	Rust nyelven írt IRC kliens
+org.srb2.SRB2	A Doom Legacy módosított változatán alapuló 3D Sonic the Hedgehog fangame
+org.srb2.SRB2Kart	Gokartverseny-modell, amely a Sonic Robo Blast 2 3D-s Sonic the Hedgehog fangame-en alapul
+org.srb2.SRB2Kart-galaxy	Módosított SRB2Kart számos egyedi funkcióval
+org.srb2.SRB2Kart-galaxy_azerty	Módosított SRB2Kart számos egyedi funkcióval kiegészítve azerty francia billentyűzetkiosztással
+org.srb2.SRB2Kart-Saturn	Módosított SRB2Kart számos egyedi funkcióval
+org.srb2.SRB2Persona	A Persona által ihletett mod a Sonic Robo Blast 2 3D Sonic the Hedgehog fangame-en alapul
+org.standardnotes.standardnotes	Egyszerű és privát hely jegyzetei, gondolatai és élete munkájához
+org.stellarium.Stellarium	Planetárium a munkaasztalon
+org.stochas.Stochas	Stochas szekvenszer
+org.strawberrymusicplayer.strawberry	Zenelejátszó és gyűjteményszervező
+org.subsurface_divelog.Subsurface	A búvárszámítógép adatainak kezelése és megjelenítése
+org.subtitld.Subtitld	A Subtitld egy szoftver feliratok létrehozására és szerkesztésére
+org.sugarlabs.AbacusActivity	Egy eszköz egyszerű számtani számításokhoz
+org.sugarlabs.Chart	Készítse el diagramjait
+org.sugarlabs.Chess	Egy édes sakkjáték
+org.sugarlabs.ColorDeducto	Logikai indukción alapuló játék
+org.sugarlabs.Dimensions	Minta illesztő játék
+org.sugarlabs.Finance	Ismerje meg a pénzügyi tervezés alapjait
+org.sugarlabs.FotoToon	Készítse el saját képregényét
+org.sugarlabs.FractionBounce	Játék a törtekről
+org.sugarlabs.ImplodeActivity	Robbantsd fel az azonos színű blokkokat, amíg el nem fogynak
+org.sugarlabs.Maze	Egy egyszerű labirintus játék
+org.sugarlabs.Measure	Oszcilloszkóp program a mikrofon bemenet megjelenítésére
+org.sugarlabs.Memorize	Találja meg a megfelelő párokat
+org.sugarlabs.MusicBlocks	Eszközgyűjtemény az alapvető zenei fogalmak szórakoztató felfedezéséhez.
+org.sugarlabs.MusicKeyboard	Játssz zenét ezzel a zongorabillentyűzettel
+org.sugarlabs.Paint	Édes festőeszköz
+org.sugarlabs.Physics	Bizonyítsa be Sir Isaac Newtonnak, hogy igaza van
+org.sugarlabs.Pippy	Beszéljen a számítógépével Pythonban
+org.sugarlabs.Pukllanapac	Csúszó-rejtvényjáték
+org.sugarlabs.ReadETexts	Olvasson több ezer ingyenes e-könyvet
+org.sugarlabs.Sliderule	Mechanikus számológép
+org.sugarlabs.SolarSystem	Ismerje meg a bolygókat
+org.sugarlabs.Speak	Egy animált arc, amely bármit is ír, amit ír
+org.sugarlabs.StoryActivity	Elmondani egy történetet
+org.sugarlabs.SwiftFeet	Állj talpra és táncolj!
+org.sugarlabs.TurtlePondActivity	Vedd körül a teknőst, mielőtt kifutna a képernyőről
+org.sugarlabs.Words	Többnyelvű offline szótár
+org.supertuxproject.SuperTux	Ugorj és fuss játék Tux, a pingvin főszereplésével
+org.surge_synth_team.surge-xt	Surge XT szintetizátor önálló
+org.synfig.SynfigStudio	2D animációk és kompozíciók létrehozása és szerkesztése
+org.syphon.Syphon	csevegjen a magánéletével és a szabadságával
+org.tabos.maxcontrol	Vezérlőszoftver Max! eszközöket
+org.tabos.roger	Napló, faxszoftver és hívásfigyelő AVM FRITZ!Boxhoz vagy kompatibilis
+org.tabos.saldo	Ellenőrizze bankszámláit
+org.tabos.twofun	Érintés alapú reakciójáték két játékos számára.
+org.taisei_project.Taisei	Bullet hell shoot 'em up játék, amely a Tōhō univerzumban játszódik
+org.telegram.desktop	Gyors. Biztonságos. Erős.
+org.telesculptor.TeleSculptor	A fotogrammetria a légi videóra összpontosítva
+org.tenacityaudio.Tenacity	Hangfájlok rögzítése és szerkesztése
+org.texstudio.TeXstudio	LaTeX szerkesztő
+org.thentrythis.Samplebrain	Az Aphex Twin által tervezett egyéni cefrézőalkalmazás minta
+org.thonny.Thonny	Python IDE kezdőknek
+org.tigervnc.vncviewer	Csatlakozzon a VNC-kiszolgálóhoz, és jelenítse meg a távoli asztalt
+org.tildearrow.furnace	Nyílt forráskódú chiptune tracker
+org.tomviz.Tomviz	Nanoméretű anyagok ingyenes és nyílt forráskódú tomográfiás vizualizációja
+org.tordini.flavio.Minitube	YouTube alkalmazás
+org.torproject.torbrowser-launcher	Egy program, amely segít a Tor Browser Bundle letöltésében, frissítésében és futtatásában
+org.tribler.Tribler	A Bittorrent névtelenné és lehetetlenné tétele felé.
+org.tropy.Tropy	Fedezze fel kutatási fotóit
+org.tryton.Tryton-68	Kliens a Tryton alkalmazásplatformhoz
+org.tryton.Tryton-70	Kliens a Tryton alkalmazásplatformhoz
+org.tug.texworks	Egyszerű környezet a TeX dokumentumok szerkesztéséhez, szedéséhez és előnézetéhez
+org.turbowarp.TurboWarp	A Scratch egy modja fordítóval a projektek gyorsabb futtatásához, sötét mód, egy csomó kiegészítő stb.
+org.tuxemon.Tuxemon	A Tuxemon egy ingyenes, nyílt forráskódú szörnyek elleni RPG.
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon emulátor
+org.tuxfamily.StuntRally	Versenyjáték rally vezetési stílussal
+org.tuxfamily.XMoto	2D motocross platform játék
+org.tuxpaint.Tuxpaint	Rajzolóprogram gyerekeknek
+org.tvbrowser.TVBrowser	Ingyenes EPG
+org.twinery.Twine	A Twine egy nyílt forráskódú eszköz interaktív, nemlineáris történetek elmondására
+org.ultimatepp.TheIDE	IDE a többplatformos U++ alkalmazásfejlesztési keretrendszerhez
+org.unitystation.StationHub	Indító a nyílt forráskódú Unitystation játékhoz
+org.unknown_horizons.UnknownHorizons	Open Source Real-Time Economy Simulation Game
+org.upnproutercontrol.UPnPRouterControl	A simple program that manages UPnP compliant routers
+org.upscayl.Upscayl	Free and Open Source AI Image Upscaler
+org.v1993.NXDumpClient	Client for dumping over USB with nxdumptool
+org.verapdf.veraPDF	veraPDF is a file-format validator for PDF/A archiving standard
+org.vergecurrency.verge-qt	VergeCurrency, A secure and user-friendly digital currency.
+org.vertcoin.vertcoin-qt	Fully validating Vertcoin peer-to-peer network node, wallet and GUI
+org.videolan.VLC	VLC media player, the open-source multimedia player
+org.viking.Viking	GPS Data Editor and Analyzer
+org.vim.Vim	The ubiquitous text editor
+org.vinegarhq.Vinegar	A feature-packed small and fast bootstrapper for Roblox
+org.virt_manager.virt-viewer	Virtuális gépek távoli elérése
+org.virtualxt.VirtualXT	Turbo PC/XT emulator
+org.wesnoth.Wesnoth	Fantasy stílusú, körökre osztott, stratégiai játék
+org.wezfurlong.wezterm	A GPU-accelerated cross-platform terminal emulator and multiplexer
+org.wfview.wfview	Open Source interface for Icom transceivers
+org.widelands.Widelands	Valós idejű építkező stratégiai játék
+org.winehq.Wine	Run Windows applications on Linux, BSD, Solaris and Mac OS X
+org.wireshark.Wireshark	Wireshark is the world's foremost protocol analyzer
+org.worldpossible.ScriptLauncher	A tool for running shell scripts with root privileges
+org.wxhexeditor.wxHexEditor	Fejlett nagy fájl hexadecimális szerkesztő
+org.xfce.mousepad	A Mousepad egy egyszerű szövegszerkesztő az Xfce asztali környezethez
+org.xfce.ristretto	Gyors és könnyű képnézegető
+org.xiphos.Xiphos	Bibliatanulmányozási útmutató
+org.xnec2c.Xnec2c	NEC2-n alapuló többszálas EM eszköz az antenna sugárzási mintáinak modellezésére
+org.xonotic.Xonotic	Többjátékos, deathmatch orientált első személyű lövöldözős játék
+org.x.Warpinator	Fájlok küldése és fogadása a hálózaton
+org.yamagi.YamagiQ2	A Yamagi Quake II egy alternatív kliens az id Software Quake II-hez
+org.yuzu_emu.yuzu	Nintendo Switch emulátor
+org.zaproxy.ZAP	A Zed Attack Proxy (ZAP) egy népszerű ingyenes biztonsági eszköz.
+org.zdoom.GZDoom	Klasszikus első személyű lövöldözős motor minden klasszikus Id-játékhoz
+org.zealdocs.Zeal	Dokumentációs böngésző
+org.zim_wiki.Zim	Írjon jegyzeteket egy asztali wikibe
+org.zirael.bkchem.BKChem	Molekula rajzoló program
+org.zotero.Zotero	Gyűjtse össze, rendszerezze, idézze és ossza meg kutatásait
+org.zrythm.Zrythm	Digitális audio munkaállomás
+org.zulip.Zulip	Zulip Desktop Client Linuxhoz
+page.codeberg.DrRac27.Karoto	Bevásárlólista alkalmazás Linux mobilra
+page.codeberg.Imaginer.Imaginer	Képzeld el az AI-val
+page.codeberg.JakobDev.CCLite	ComputerCraft emulátor
+page.codeberg.JakobDev.jdAnimatedImageEditor	Egy egyszerű program animált képek készítésére
+page.codeberg.JakobDev.jdAppStreamEdit	Grafikus program AppStream fájlok létrehozásához és szerkesztéséhez
+page.codeberg.JakobDev.jdDBusDebugger	Fejlett D-Bus hibakereső
+page.codeberg.JakobDev.jdDesktopEntryEdit	Grafikus program asztali bejegyzések létrehozására és szerkesztésére
+page.codeberg.JakobDev.jdDiff	Grafikus keresztplatformos diff néző
+page.codeberg.JakobDev.jdEolConverter	A könyvtárban lévő összes fájl sorvégét konvertálja
+page.codeberg.JakobDev.jdFlatpakSnapshot	A Flatpak alkalmazások pillanatképeinek létrehozására szolgáló program
+page.codeberg.JakobDev.jdMinecraftLauncher	Klasszikus stílusú Minecraft Launcher
+page.codeberg.JakobDev.jdMrpackInstaller	Telepítse a Modrinth modpackat
+page.codeberg.JakobDev.jdNBTExplorer	Szerkesztő a Minecraft NBT fájlokhoz
+page.codeberg.JakobDev.jdPixelUpscaler	Előkelő képek pixelenként
+page.codeberg.JakobDev.jdProcessFileWatcher	Könnyedén nyomon követheti és megjelenítheti a valós idejű fájlhozzáférést bármely folyamathoz
+page.codeberg.JakobDev.jdReplace	A jdReplace segítségével lecserélheti a szöveget a könyvtár összes fájljában
+page.codeberg.JakobDev.jdSimpleAutostart	Az automatikus indítási bejegyzések szerkesztése
+page.codeberg.JakobDev.jdTextEdit	Fejlett szövegszerkesztő
+page.codeberg.lazyt.ubpm	Vérnyomásadatok kezelése
+page.codeberg.libre_menu_editor.LibreMenuEditor	A menü testreszabása
+page.codeberg.papojari.Find_Billy	Egy pixel art 2d platformer játék.
+page.codeberg.Qwel.egui_picross	Picross, nonogram, griddler alapjáték
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita játék egy kutya körül
+page.codeberg.tpikonen.geobug	Ellenőrizze a helyét, és mentse el egy GPX-sávba
+page.codeberg.tpikonen.satellite	Ellenőrizze a GPS-vételt, és mentse el a nyomokat
+page.codeberg.yeldham.Librerama	Ingyenes/ingyenes, gyors tempójú arcade minijátékok gyűjteménye
+party.supertux.supertuxparty	Egy társasjáték FLOSS kabalafiguráival
+pl.art.lach.slawek.V2BlankBrowser	Webböngésző, amely nem kéri a képernyőt
+pl.nieto.fityk	Nemlineáris görbeillesztés és adatelemzés
+pl.youkai.lanchat	LAN chat és fájlátvitel
+pl.youkai.nscan	Hálózati szkenner.
+pm.mirko.Atoms	A Chroot és a tárolók kezelése.
+pro.vpup.vpuppr	VTuber alkalmazás Godot 3.4-el készült
+radio.k0swe.Kel_Agent	Egy rádióamatőr webügynök
+re.chiaki.Chiaki	Ingyenes és nyílt forráskódú kliens a PlayStation Remote Play számára
+re.rizin.cutter	Ingyenes és nyílt forráskódú Reverse Engineering Platform, amelyet a Rizin és a Qt működtet
+re.sonny.Commit	Üzenetszerkesztő véglegesítése
+re.sonny.Junction	Alkalmazásválasztó
+re.sonny.OhMySVG	Csökkentse az SVG-k méretét
+re.sonny.Playhouse	Játszótér a HTML/CSS/JavaScript számára
+re.sonny.Retro	Testreszabható retro digitális szegmensóra
+re.sonny.Tangram	Böngésző a rögzített lapokhoz
+re.sonny.Workbench	Tanuljon és prototípust készítsen a GNOME technológiákkal
+rest.insomnia.Insomnia	Nyílt forráskódú API-kliens és tervezőplatform GraphQL-hez, REST-hez és gRPC-hez.
+rocks.koreader.KOReader	Dokumentumnézegető DjVu, PDF, EPUB és sok más számára
+ro.fxdata.taskmonitor.viewer	Vizualizálja a TaskMonitor adatait
+ro.go.hmlendea.DL-Desktop	Nem hivatalos asztali kliens a Duolingo nyelvtanuló alkalmazáshoz
+ro.go.hmlendea.SokoGrump	Sokoban-szerű logikai játék a Grumpy Cat-tel
+ro.hume.cosmin.ShoppingList	Bevásárlólista alkalmazás GNU/Linux mobileszközökhöz
+ru.proninyaroslav.libretrack	Privát, többplatformos csomagkövető alkalmazás
+ru.sview.sView	Sztereoszkópikus médialejátszó
+ru.yandex.Browser	A Yandex webböngészője
+sa.sy.bluerecorder	Egy egyszerű képernyőrögzítő Linux asztali számítógépekhez. Támogatja a Wayland és Xorg
+se.cendio.tlclient	A Linux távoli asztali szerver nyílt forráskódú technológiára épül
+se.emijoh.mpw	Számítsa ki a webhely jelszavát, amikor szüksége van rá.
+se.manyver.Manyverse	decentralizált közösségi hálózat
+se.sjoerd.GIScan	Olvassa el és elemezze a cbf formátumban tárolt GISAXS adatokat
+se.sjoerd.Graphs	Ábrázolja és kezelje az adatokat
+sh.cider.Cider	Nyílt forráskódú és közösségorientált Apple Music kliens
+sh.fhs.KatawaShoujoReEngineered	A klasszikus bishoujo stílusú vizuális regény modern változata
+sh.ppy.osu	Ingyenesen nyerhető ritmusjáték. A ritmus csak egy *kattintás*nyira van!
+sh.xaviers.Opentapes	Hallgass hip-hop mixtape-eket
+si.tano.Vremenar	Az időjárási körülmények és az előrejelzés megjelenítése térképen gyorsan és egyszerűen
+site.someones.Lonewolf	Könnyen és rugalmasan megszervezheti és nyomon követheti feladatait
+sm.puri.Chatty	Üzenetküldő alkalmazás mobiltelefonra és asztali számítógépre
+social.whalebird.WhalebirdDesktop	A Whalebird egy Mastodon, Pleroma és Misskey kliens asztali számítógépekhez
+so.libdb.gtkcord4	GTK4 Discord kliens a Go-ban
+so.onekey.Wallet	All-in-one kriptopénztárca.
+space.fips.Fips	OpenGL alapú FITS képnézegető
+space.nouspiro.tenmon	FITS/XISF képnézegető, konvertáló, index és keresés
+studio.kx.carla	Audio Plugin Host
+tech.feliciano.pocket-casts	Online podcast lejátszó
+tk.deat.Jazz2Resurrection	A Jazz Jackrabbit 2 újbóli megvalósítása
+tr.gov.uyap.Editor	Az UYAP Document Editor egy olyan alkalmazás, amely UYAP rendszerben UDF dokumentumokat jelenít meg és hoz létre.
+tv.kodi.Kodi	Végső szórakoztató központ
+tv.plex.PlexDesktop	Plex kliens asztali számítógépekhez
+tv.plex.PlexHTPC	Plex HTPC kliens nagy képernyőre
+tw.ddnet.ddnet	A valaha volt legnehezebb kooperatív 2D platformer
+ua.org.brezblock.q4wine	Segédprogram a Wine alkalmazásokhoz és az előtagok kezeléséhez
+uk.co._69_studios.kublit	Vadonatúj eredeti kirakós játék a 69 Studios-tól
+uk.co.electronstudio.ComicReaderUltimate	Egy véleményes CBZ néző
+uk.co.mangobrain.Infector	Játssz a klasszikus, 2-4 fős Ataxx társasjátékkal
+uk.co.parallelrealities.games.edgar	2D Adventure Platform Game
+uk.co.powdertoy.tpt	Fizikai homokozó játék
+uk.et1.big-finish-downloader	Egy GTK alkalmazás a Big Finish Collection letöltéséhez
+uk.jnthn.backgammony	Backgammon frontend többjátékos támogatással
+uk.me.doof.Lander	Lunar Lander stílusú arcade játék.
+uk.org.greenend.chiark.sgtatham.putty	SSH, Telnet és Rlogin kliens
+uk.org.greenend.chiark.sgtatham.puzzles	Puzzle játék gyűjtemény
+uk.org.zint.zint-qt	Vonalkód generátor
+us.ihmc.cmap.CmapTools	Lehetővé teszi a felhasználók számára koncepciótérképek létrehozását és megosztását.
+us.zoom.Zoom	Videokonferencia, webkonferencia, webináriumok, képernyőmegosztás
+vet.rsc.OpenRSC.Launcher	Indító az Open RuneScape Classic szerverekhez
+vn.hoabinh.quan.CoBang	QR-kód olvasó Linux asztali számítógépekhez
+website.i2pd.i2pd	Láthatatlan Internet
+work.openpaper.Paperwork	Személyes dokumentumkezelő
+ws.openarena.OpenArena	Ingyenes és nyílt forráskódú első személyű lövöldözős játék
+xyz.aguno.CubeTimer	Mint egy StackMat, de Linuxra
+xyz.armcord.ArmCord	Az ArmCord egy egyedi kliens, amelyet úgy terveztek, hogy fokozza a Discord élményt, miközben mindent könnyűvé tesz.
+xyz.audiostellar.AudioStellar	AI meghajtású kísérleti mintavevő
+xyz.eclipium.Hieroctive	Egy vicces memóriajáték a hieroglifák megtanulásához!
+xyz.eclipium.TetraSwap	Egy egyszerű, de kihívásokkal teli futurisztikus kirakós játék!
+xyz.hyperplay.HyperPlay	Web3 játékindító a jövőből. Vigye magával pénztárcáját, NFT-jét, tokenjeit és eredményeit minden játékba.
+xyz.ketok.Speedtest	Mérje meg internetkapcsolat sebességét
+xyz.kusma.aurora	Aurora az Excesstől
+xyz.ljoonal.neospeeps	Egy könnyű alkalmazás, amely felsorolja a NeosVR betekintést és munkameneteket
+xyz.mx_moment.moment	Testreszabható és billentyűzettel kezelhető Matrix kliens
+xyz.rescribe.rescribe	Kiváló minőségű OCR képekhez, PDF-ekhez és Google Könyvekhez.
+xyz.safeworlds.hiit	Időzített óra a nagy intenzitású intervallum edzéshez
+xyz.safeworlds.midiconn	Virtuális MIDI hub
+xyz.slothlife.Jogger	Fitness tracker
+xyz.splashmapper.Splash	Videó-térképező szoftver
+xyz.stuerz.BilligSweeper	A Minesweeper olcsó klónja
+xyz.tytanium.DoorKnocker	Ellenőrizze a portálok elérhetőségét
+xyz.woxel.Woxel	A Minecrafthoz hasonló nyílt forráskódú 3D-s voxelszerkesztő
+xyz.xclicker.xclicker	Gyors gui autoclicker x11 linux asztali gépekhez
+xyz.z3ntu.razergenie	Konfigurálja és vezérelje Razer eszközeit

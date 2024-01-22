@@ -1,0 +1,2494 @@
+app.authpass.AuthPass	Upravitelj lozinki: čuvajte svoje lozinke na sigurnom na svim platformama i uređajima
+app.bbsync.BlackboardSync	Preuzmite svoj Blackboard Learn sadržaj na svoj uređaj
+app.bluebubbles.BlueBubbles	BlueBubbles klijent za Linux
+app.cantara.Cantara	Jednostavan, lagan, ali snažan program za prezentaciju pjesama u crkvama, malim grupama ili na karaoke zabavama.
+app.drey.Biblioteca	Preglednik dokumentacije za GNOME
+app.drey.Blurble	Igra pogađanja riječi
+app.drey.Damask	Automatski postavite pozadinske slike s internetskih izvora
+app.drey.Dialect	Prevodite s jednog jezika na drugi
+app.drey.EarTag	Uređivač oznaka audio datoteka
+app.drey.Elastic	Dizajnirajte proljetne animacije
+app.drey.KeyRack	Pregledajte i uredite tajne aplikacije
+app.drey.MultiplicationPuzzle	Riješi matematičku misteriju
+app.drey.Warp	Brz i siguran prijenos datoteka
+app.feeddeck.feeddeck	Pratite svoje RSS i feedove društvenih medija
+app.getclipboard.Clipboard	Izrežite, kopirajte i zalijepite bilo što, bilo kada i bilo gdje
+app.getspace.Space	Ponavljanje s razmakom za Flash kartice
+app.gummi.gummi	Jednostavan LaTeX editor
+app.kaiteki.Kaiteki	Udoban SNS klijent za sve, posvuda
+app.lith.Lith	WeeChat Relay klijent
+app.midterm.MidtermDesktop	Besplatna aplikacija za bilježenje za učenje.
+app.moosync.moosync	Prilagodljiv glazbeni player
+app.organicmaps.desktop	Besplatna izvanmrežna aplikacija za karte za putnike, turiste, planinare, vozače i bicikliste
+app.rednotebook.RedNotebook	Grafički dnevnik i dnevnik
+app.riftshare.RiftShare	Jednostavno, sigurno, besplatno dijeljenje datoteka. Razmjena datoteka na različitim platformama pomoću čarobne crvotočine
+app.vup.Vup	Open-source end-to-end-kriptirana aplikacija za pohranu u oblaku s integriranim medijskim poslužiteljem
+app.xemu.xemu	Originalni Xbox emulator
+app.ytmdesktop.ytmdesktop	Besplatni stolni player za više platformi za YouTube Music
+app.ywallet.Ywallet	Lagani novčanik za Ycash i Zcash
+ar.com.pilas_engine.App	Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida
+ar.com.softwareperonista.Rockarrolla	Svirač glazbe poput džuboksa
+ar.com.tuxguitar.TuxGuitar	TuxGuitar je besplatni uređivač tabulatura otvorenog koda.
+art.taunoerik.tauno-monitor	Jednostavan samostalni monitor serijskog porta.
+art.taunoerik.tauno-serial-plotter	Jednostavan serijski crtač za Arduino i druge slične uređaje.
+ar.xjuan.Cambalache	Stvorite GTK korisnička sučelja
+at.priv.toastfreeware.ConfClerk	ConfClerk je aplikacija koja rasporede konferencija čini dostupnima izvan mreže
+at.ssh_mitm.server	SSH-MITM - ssh revizije su jednostavne
+at.vintagestory.VintageStory	Igra u sandboxu za preživljavanje u divljini
+au.edu.uq.esys.escript	esys-escript je python modul za implementaciju matematičkih modela metodom konačnih elemenata
+br.app.pw3270.terminal	Pristup TN3270 hostovima
+br.com.gualandi.Xjump	Igra skakanja za moderne grafičke sustave
+br.gov.cti.invesalius	Softver za rekonstrukciju 3D medicinske slike
+br.gov.fazenda.receita.irpf2022	Prijavite svoje poreze u Brazilu
+br.gov.fazenda.receita.irpf2023	Prijavite svoje poreze u Brazilu
+ca._0ldsk00l.Nestopia	Emulator Nintendo Entertainment System
+ca.desrt.dconf-editor	Grafički alat za uređivanje dconf baze podataka
+cafe.avery.Delfin	Streaming filmova i TV emisija s Jellyfina
+ca.hamaluik.Timecop	Aplikacija za praćenje vremena koja poštuje vašu privatnost i obavlja posao bez previše kićenja
+ca.littlesvr.asunder	Asunder je grafički audio CD riper i koder
+camp.nook.nookdesktop	Nook je aplikacija koja svaki sat reproducira teme Animal Crossinga.
+ca.parallel_launcher.ParallelLauncher	Moderni N64 emulator
+cat.xtec.clic.JClic	Edukativne aktivnosti i igre za učenike i nastavnike
+ca.uwaterloo.Raven	Okvir za modeliranje za simulaciju hidrologije sliva
+cc.arduino.arduinoide	Platforma za izradu prototipova elektronike otvorenog koda
+cc.arduino.IDE2	Platforma za izradu prototipova elektronike otvorenog koda
+cc.craftos_pc.CraftOS-PC	Napredni ComputerCraft emulator
+cc.craftos_pc.CraftOS-PC-Accelerated	Napredni ComputerCraft emulator
+cc.nift.nsm	Generator dinamičkih i statičkih stranica
+cc.retroshare.retroshare-gui	Sigurna komunikacija za sve
+cern.root.ROOT	Okvir za analizu podataka
+chat.delta.desktop	Messenger temeljen na e-pošti Delta Chat
+chat.quadrix.Quadrix	Minimalni, jednostavni klijent za chat s više platformi za Matrix protokol
+chat.revolt.RevoltDesktop	Revolt desktop aplikacija
+chat.rocket.RocketChat	Timska komunikacija otvorenog koda
+chat.schildi.desktop	SchildiChat je Matrix klijent temeljen na Elementu s tradicionalnijim iskustvom razmjene izravnih poruka.
+chat.tandem.Client	Virtualni ured za udaljene timove
+ch.imatt.ClipQR	Skenirajte QR kodove na zaslonu i s kamere.
+ch.openboard.OpenBoard	Interaktivna bijela ploča za škole i sveučilišta
+ch.protonmail.protonmail-bridge	Besprijekorno šifrira i dekriptira vašu poštu dok ulazi i izlazi iz vašeg računala
+ch.protonmail.protonmail-import-export-app	Uvezite e-poštu u svoju sigurnu pristiglu poštu ProtonMail ili napravite izvanmrežne sigurnosne kopije pomoću aplikacije Import-Export.
+ch.theologeek.Manuskript	Alat otvorenog koda za pisce
+ch.threema.threema-web-desktop	Threema za stolno računalo je stolni klijent za Threema, end-to-end enkriptirani mobilni messenger usmjeren na privatnost koji se hostira i razvija u Švicarskoj. NESLUŽBENI PAKET.
+ch.tigerjython.TigerJython2	TigerJython IDE
+ch.tlaun.TL	Igrajte Minecraft i stvorite vlastiti svijet!
+ch.x29a.playitslowly	Reproducirajte glazbu različitom brzinom
+cn.lceda.LCEDAPro	Jednostavniji i moćniji online alat za dizajn PCB-a
+cn.navclub.ldbfx	Vizualni alat za upravljanje bazom podataka
+cn.ottercorp.xivlaunchercn	Pokretač i besprijekorna integracija Linuxa za Final Fantasy XIV Online (verzija za Kinu)
+cn.xfangfang.wiliwili	Bilibili klijent treće strane dizajniran posebno za korisnike kontrolera
+codes.loers.Karlender	Upravljajte svojim rasporedom
+codes.loers.Punchclock	Pratite vrijeme za svoje zadatke.
+codes.merritt.adventurelist	Popis obveza koji se sinkronizira sa svim vašim uređajima
+codes.merritt.bargain	Jednostavno usporedite artikle prilikom kupovine
+codes.merritt.FeelingFinder	Brz i lijep alat za odabir emotikona
+codes.merritt.Nyrna	Obustavite igre i aplikacije
+codes.nora.gDiceRoller	Bacajte kockice različitih oblika i veličina u svim mogućim kombinacijama.
+co.headsetapp.headset	Slušalice. Otkrijte i skupljajte glazbu na YouTubeu.
+co.luoja.Telyn	Vizualni uređivač parametarskih krojeva za šivanje
+com.abagames.noiz2sa	Frenetična apstraktna pucačina
+com.abagames.rRootage	Porazite automatski stvorene goleme bojne brodove.
+com.abisource.AbiWord	Program za obradu teksta
+com.adamcake.Bolt	Jagex pokretač treće strane otvorenog koda
+com.adilhanney.ricochlime	Zadovoljavajući pucač na čudovišta
+com.adilhanney.saber	Aplikacija za bilješke napravljena za rukopis
+com.adilhanney.super_nonogram	Riješite neograničene proceduralno generirane nonogramske zagonetke!
+com.adilhanney.timing	Naučite prepoznati vremenske intervale od manje od sekunde
+com.adobe.Flash-Player-Projector	Player za sadržaj kreiran pomoću Adobe Flasha
+com.adobe.Reader	PDF preglednik
+com.adrienplazas.Metronome	Zadržite tempo
+com.agatanawrot.karambola	Pomozite Karamboli u njegovoj misiji da spasi svoje emotivne prijatelje voće i voće od moći mračnih misli u ovoj kratkoj ručno crtanoj puzzle avanturi s pokaži i klikni
+com.agateau.nanonote	Minimalistička aplikacija za bilježenje.
+com.agateau.PixelWheels	Pixel Wheels je retro top-down trkaća igra.
+com.airtame.Client	Airtam je rješenje za bežično strujanje
+com.albiononline.AlbionOnline	MMORPG otvorena srednjovjekovna fantastična igra
+com.alientrap.nexuiz-classic	Pucačina za više igrača iz prvog lica
+com.alovoa.alovoa-electron	Internetska aplikacija za upoznavanje otvorenog koda
+com.amazon.Workspaces	Pristupite svojoj radnoj površini bilo gdje, bilo kada, s bilo kojeg uređaja
+com.ampl.ide	Jednostavno i izravno poboljšano sučelje za modeliranje za korisnike AMPL-a
+com.anydesk.Anydesk	Povežite se s računalom na daljinu
+com.arteeh.Flasher	Jednostavna aplikacija za flashanje PineTime pametnog sata sa ST-Linkom
+com.arviceblot.eso-addon-manager	Višeplatformski, neslužbeni upravitelj dodataka za The Elder Scrolls Online.
+com.atlauncher.ATLauncher	Pokretač za Minecraft koji integrira više različitih modpackova kako bi vam omogućio jednostavno i brzo preuzimanje i instaliranje modpackova.
+com.authy.Authy	Twilio Authy stolna aplikacija za autentifikaciju u dva faktora
+com.avocode.Avocode	Predajte i pregledajte svaki dizajn
+com.axosoft.GitKraken	Za repo upravljanje, uređivanje koda u aplikaciji i praćenje problema.
+com.baidu.NetDisk	Baidu Netdisk desktop klijent
+com.bambulab.BambuStudio	Dobijte savršene 3D ispise!
+com.basemark.BasemarkGPU	Alat za procjenu performansi GPU-a
+com.behringer.XAirEdit	Behringer XR mikseri korisničko sučelje
+com.belmoussaoui.ashpd.demo	Igrajte se s portalima
+com.belmoussaoui.Authenticator	Stvorite dvofaktorne kodove
+com.belmoussaoui.Decoder	Skenirajte i stvorite QR kodove
+com.belmoussaoui.Obfuscate	Cenzurirajte privatne informacije
+com.belmoussaoui.ReadItLater	Spremite i čitajte web članke
+com.belmoussaoui.snowglobe	Virtualizacijski preglednik koji koristi QEMU preko DBus-a
+com.biglybt.BiglyBT	Pun značajki, open source, bittorrent klijent bez reklama
+com.bitwarden.desktop	Siguran i besplatan upravitelj lozinki za sve vaše uređaje
+com.bitwig.BitwigStudio	Moderna glazbena produkcija i izvedba
+com.bixense.PasswordCalculator	Izračunajte jake lozinke za svaki alias iz svoje pojedinačne tajne
+com.bjareholt.johan.SimpleDiary	Jednostavna i lagana aplikacija za dnevnik
+com.bktus.gpgfrontend	OpenPGP kripto alat
+com.bladecoder.adventure-editor	Klasični motor i uređivač avanturističkih igrica point and click
+com.blitterstudio.amiberry	Amiga emulator za Linux
+com.blockstream.Green	Jednostavan i siguran Bitcoin i Liquid Network novčanik
+com.borgbase.Vorta	Sigurnosni klijent
+com.boxy_svg.BoxySVG	Skalabilni uređivač vektorske grafike
+com.brave.Browser	Web preglednik tvrtke Brave
+com.brosix.Brosix	Sve u jednom, sigurni instant messenger
+com.budgetwithbuckets.Buckets	Brza, jednostavna i privatna aplikacija za obiteljski proračun
+com.calibre_ebook.calibre	Rješenje na jednom mjestu za sve vaše potrebe za e-knjigama
+com.carpeludum.KegaFusion	Emulator za Sega 8 i 16-bitne konzole
+com.cassidyjames.butler	Suputnik za kućnog pomoćnika
+com.cassidyjames.plausible	Jednostavna alternativa Google Analyticsu koja štiti privatnost
+com.cburch.Logisim	Logisim je grafički alat za projektiranje i simulaciju logičkih sklopova
+com.chatterino.chatterino	Chat klijent za twitch.tv
+com.chez.GrafX2	Program za crtanje bitmapa specijaliziran za crtanje u 256 boja
+com.chmouel.gnomeNextMeetingApplet	Pokažite svoje sljedeće događaje na svojoj ploči
+com.chowdsp.BYOD	BYOD: Bring Your Own Distortion, Standalone
+com.chroniclogic.Zatikon	Šahovska fantazijska igra osvajanja neprijateljskog dvorca
+com.clarahobbs.chessclock	Vremenske igre šaha na ploči
+com.claudiocambra.brickbuster	Igra razbijanja cigli, zabavna i zarazna!
+com.cocoatech.deckr	Aplikacija za stolna računala koja se koristi s dodatkom Deckr chrome
+com.codemouse92.timecard	Lijepo pratite vrijeme.
+com.coeck_studios.Dinonuggys-Journey	Pixel art 2d platformer igra.
+com.corsixth.corsixth	Open source klon Theme Hospital
+com.cuperino.qprompt	Softver za osobni teleprompter za sve kreatore videa
+com.daidouji.oneko	maca koja prati vašu igračku miša na radnoj površini
+com.darhon.drfinance	Upravljajte svojim osobnim računima
+com.darhon.syncbackup	Sigurnosno kopirajte i zrcalite svoje pogone
+com.dec05eba.gpu_screen_recorder	Snimač zaslona nalik igri sjena za Linux. Najbrži snimač zaslona za Linux
+com.dhsdevelopments.Climaxima	Sučelje za Maxima CAS
+com.diffingo.fwbackups	Program za izradu sigurnosnih kopija bogat značajkama, jednostavan za korištenje
+com.discordapp.Discord	Klijent za poruke, glas i video
+com.diy_fever.DIYLayoutCreator	Alat za dizajn rasporeda krugova koji podržava PCB, vero-ploču, point-to-point, perf-ploču i dijagrame ožičenja gitare
+com.djoffe.gnukem	2D platformska pucačina u retro stilu
+com.dosbox.DOSBox	x86/DOS emulator sa zvukom i grafikom
+com.dosbox_x.DOSBox-X	x86/DOS emulator sa zvukom i grafikom
+com.doycho.euterpe.gtk	Media player klijent za Euterpe medijski poslužitelj.
+com.dreamsourcelab.DSView	Višenamjenski instrument otvorenog koda za svakoga
+com.dropbox.Client	Pristupite svojim datotekama s bilo kojeg računala
+com.eduke32.EDuke32	EDuke32 je izvrstan, besplatan homebrew motor za igre
+com.ekonomikas.merkato	Pratite svoja ulaganja
+com.elsevier.MendeleyDesktop	Mendeley je besplatni upravitelj referenci i akademska društvena mreža
+com.eminfedar.vaktisalah	aplikacija Vremena molitve za više platformi
+com.emqx.MQTTX	Elegantan višeplatformski MQTT 5.0 stolni klijent
+com.endlessm.photos	Jednostavno uređujte i dijelite sve svoje omiljene fotografije
+com.endlessnetwork.aqueducts	Zanimljiva puzzle avanturistička igra u kojoj hakiranjem možete spasiti dan!
+com.endlessnetwork.dragonsapprentice	RPG poput rješavanja zagonetki igra puzanja po tamnici, i više!
+com.endlessnetwork.fablemaker	Uđite u svijet Ezopovih basni kao nikada prije! Interaktivne priče u kojima možete prilagoditi likove, tekstove i zvukove, hakirajući njegov kod u ovoj privlačnoj i obrazovnoj aplikaciji.
+com.endlessnetwork.frogsquash	Zarazna igra križnih cesta s dodatkom
+com.endlessnetwork.MidnightmareTeddy	Pucaj i preživi
+com.endlessnetwork.missilemath	Pucačka igra letenja avionom
+com.endlessnetwork.passage	Hakirajte svoj put kroz ovu akcijsku avanturističku pucačku igru s pomicanjem sa strane
+com.endlessnetwork.tankwarriors	Vožnja, pucanje, eksplozije i programiranje - sve u jednoj igri
+com.endlessnetwork.whitehouse	Koristeći magiju CSS-a, hakirajte svoj svijet u jedinstveni prasak boja i svjetla otkrivajući skrivene predmete i tragove.
+com.enjoyingfoss.feeel	Jednostavna aplikacija za vježbanje kod kuće koja poštuje vašu privatnost
+com.enjoyingfoss.Parlera	Igra za zabavu u kojoj vaši prijatelji opisuju, a vi pogađate; ili obrnuto
+com.epicgames.ut2004	Pucačina u areni iz prvog lica
+com.epicgames.ut99	Pucačina u areni iz prvog lica
+com.etlegacy.ETLegacy	ET: Legacy je projekt otvorenog koda temeljen na kodu igre Wolfenstein: Enemy Territory koji je objavljen 2010. pod uvjetima GPLv3.
+com.expidusos.calculator	ExpidusOS kalkulator
+com.expidusos.file_manager	Upravitelj datoteka ExpidusOS
+com.feaneron.Boatswain	Upravljajte svojim Elgato Stream Deck uređajima
+com.felipekinoshita.Kana	Naučite japanske znakove
+com.felipekinoshita.Wildcard	Testirajte svoje regularne izraze
+com.fightcade.Fightcade	Igrajte arkadne igre online.
+com.flashforge.FlashPrint	Slicer za FlashForge 3D pisače
+com.frac_tion.teleport	Dijelite datoteke preko lokalne mreže
+com.freerdp.FreeRDP	FreeRDP (Remote Desktop Protocol) klijent za Linux
+com.frogatto.Frogatto	Stara 2D platformska igra
+com.fyralabs.SkiffDesktop	Privatnost na prvom mjestu šifrirana e-pošta s kraja na kraj
+com.gamestarmechanic.gamestarmechanic	Naučite dizajnirati video igre
+com.geekbench.Geekbench6	Referentna vrijednost sustava za više platformi
+com.georgefb.mangareader	Manga Reader za lokalne datoteke
+com.georgefb.quickaccess	Globalni izbornik koji vam omogućuje brzi pristup mapama i prilagođenim naredbama.
+com.getmailspring.Mailspring	Najbolja aplikacija za e-poštu za ljude i timove na poslu
+com.getpostman.Postman	Platforma za izradu i korištenje API-ja
+com.ghostery.browser	Ghostery potpuno privatno iskustvo pregledavanja
+com.giadamusic.Giada	Vaš hardcore loop stroj
+com.gigitux.youp	što ima
+com.gitfiend.GitFiend	Git klijent dizajniran za ljude
+com.github._0negal.Viper	Viper je pokretač i ažuriranje za Northstar, i ništa više od toga.
+com.github._4lex4.ScanTailor-Advanced	Interaktivni alat za naknadnu obradu skeniranih stranica
+com.github.ADBeveridge.Raider	Izbriši datoteke sigurno
+com.github.afrantzis.Bless	Gtk# Heksadecimalni uređivač
+com.github.aharotias2.parapara	Preglednik slika bez knjižnice
+com.github.ahrm.sioyek	PDF preglednik dizajniran za čitanje znanstvenih radova i tehničkih knjiga
+com.github.alainm23.byte	Ponovno otkrijte svoju glazbu
+com.github.alainm23.planner	Nikad više ne brinite o zaboravljanju stvari
+com.github.Alcaro.Flips	Krpar za IPS i BPS datoteke
+com.github.alecaddd.sequeler	Prijateljski SQL klijent
+com.github.alexhuntley.Plots	Jednostavno crtanje grafikona
+com.github.alexkdeveloper.astronum	Program za jednostavne astrološke i numerološke izračune
+com.github.alexkdeveloper.desktop-files-creator	Jednostavna aplikacija za stvaranje desktop datoteka na GNU/Linuxu
+com.github.alexkdeveloper.dice	Jednostavna igra s kockicama
+com.github.alexkdeveloper.dwxmlcreator	Jednostavan kreator dinamičke pozadine
+com.github.alexkdeveloper.easter	Izračunajte datum katoličkog Uskrsa
+com.github.alexkdeveloper.forgetpass	Jednostavan generator lozinki za web stranice
+com.github.alexkdeveloper.goldsearch	Igra u kojoj trebate tražiti zlato
+com.github.alexkdeveloper.notepad	Jednostavno stvaranje tekstualnih bilješki
+com.github.alexkdeveloper.recorder	Jednostavan audio snimač
+com.github.alexkdeveloper.relaxator	Opustite se uz umirujuće zvukove
+com.github.alexkdeveloper.somafm	Jednostavan radio s ugrađenim postajama s web stranice somafm.com
+com.github.alexkdeveloper.sudoku	Sudoku igra
+com.github.AlizaMedicalImaging.AlizaMS	DICOM preglednik
+com.github.AmatCoder.mednaffe	Sučelje (GUI) za mednafen emulator (uključeno)
+com.github.amikha1lov.RecApp	Jednostavan Open Source screencaster za Linux napisan u GTK
+com.github.Anuken.Mindustry	Mindustry: igra za obranu tornjeva u pješčaniku
+com.github.appadeia.Taigo	Taigo je virtualni ljubimac za vašu radnu površinu
+com.github.arminstraub.krop	Alat za izrezivanje PDF datoteka
+com.github.arshubham.cipher	Kodiranje i dekodiranje teksta
+com.github.arshubham.gitignore	.gitignore referenca za razne jezike
+com.github.artemanufrij.graphui	Vizualizacija grafikona
+com.github.artemanufrij.playmymusic	Glazbeni player za slušanje lokalnih glazbenih datoteka, online radija i audio CD-ova
+com.github.artemanufrij.playmyvideos	Video player za gledanje lokalnih video datoteka
+com.github.artemanufrij.regextester	Jednostavna aplikacija za testiranje regularnih izraza
+com.github.avojak.paint-spill	Puzzle igra puna boja
+com.github.avojak.warble	Igra pogađanja riječi
+com.github.babluboy.bookworm	Fokusirani čitač e-knjiga
+com.github.bajoja.indicator-kdeconnect	AppIndicator za KDE Connect
+com.github.bcedu.valasimplehttpserver	Pristupite svojim datotekama s bilo kojeg uređaja na istoj mreži
+com.github.bcedu.vgrive	Google Drive klijent s automatskom sinkronizacijom za Linux
+com.github.benpocalypse.Huely	Obojite svoj prostor
+com.github.birros.WebArchives	Preglednik web arhiva
+com.github.bjaraujo.Bombermaaan	Arkadna igra
+com.github.Bleuzen.FFaudioConverter	Skupni audio pretvarač i procesor efekata
+com.github.bluesabre.darkbar	Zatamnite naslovne trake aplikacija prema svojim željama
+com.github.buddhi1980.mandelbulber2	Besplatni generator 3D fraktala otvorenog koda
+com.github.bvschaik.julius	Julius je open source ponovna implementacija Caesara III
+com.github.calo001.fondo	Pronađite najljepše pozadine
+com.github.calo001.luna	Spektakularni programčić kalendara
+com.github.carlos157oliveira.Calculus	Izračunati derivacije i integrale
+com.github.cassidyjames.clairvoyant	Postavljajte pitanja, dobivajte psihičke odgovore
+com.github.cassidyjames.dippi	Izračunajte informacije o prikazu kao što su DPI i omjer slike
+com.github.cfcurtis.pdfstitcher	PDF Stitcher je uslužni program za spajanje i promjenu svojstava linija PDF uzoraka za šivanje
+com.github.childishgiant.mixer	Promijenite glasnoću aplikacija
+com.github.chipmuenk.pyfda	Alat za analizu dizajna Python filtera
+com.github.christianrauch.Jahresarbeit-2003	Nađi najveću površinu povezanih kvadrata
+com.github.corna.Vivado	Xilinx Design Suite za razvoj hardvera
+com.github.coslyk.MoonPlayer	Video player za reprodukciju i preuzimanje online videa s YouTubea, Youkua itd.
+com.github.cubitect.cubiomes-viewer	Učinkovit Minecraft alat za traženje sjemena i preglednik karata.
+com.github.d4nj1.tlpui	GTK-UI za jednostavnu promjenu TLP konfiguracijskih datoteka.
+com.github.dahenson.agenda	Odraditi posao
+com.github.dail8859.NotepadNext	Višeplatformska, ponovna implementacija Notepada++
+com.github.Darazaki.Spedread	GTK softver za brzo čitanje: Čitajte kao brzi trkač!
+com.github.dariasteam.cowsrevenge	Indie platformska Pixel Art igra
+com.github.dawidd6.checksumo	Provjerite navedenu datoteku u odnosu na dani hash
+com.github.debauchee.barrier	Barijera - Dijelite miša i tipkovnicu preko lokalne mreže
+com.github.devalien.workspaces	Budite uvijek spremni za posao
+com.github.dimkr.gplaces	Gemini klijent temeljen na terminalu
+com.github.donadigo.appeditor	Uredite izbornik aplikacije
+com.github.dynobo.normcap	Izdvojite tekst s bilo kojeg mjesta na zaslonu
+com.github.edenalencar.identifications	To je alat za QA tim i programere
+com.github.Eloston.UngoogledChromium	Jednostavan pristup uklanjanju ovisnosti o Google web servisu
+com.github.elth0r0.iqpuzzle	Zadivljujući I.Q. izazovna pentomino slagalica
+com.github.emmanueltouzery.cigale	Pregledajte svoju prošlu aktivnost
+com.github.emmanueltouzery.hotwire	Hotwire vam omogućuje proučavanje mrežnog prometa nekoliko popularnih protokola na jednostavan način
+com.github.emmanueltouzery.projectpad	Projectpad omogućuje upravljanje tajnim vjerodajnicama i informacijama o poslužitelju s kojima trebate rukovati kao programer softvera ili sysadmin.
+com.github.eneshecan.WhatsAppForLinux	Neslužbena WhatsApp desktop aplikacija za Linux
+com.github.fabiocolacio.marker	Snažan uređivač oznaka za radnu površinu GNOME.
+com.github.finefindus.eyedropper	Odaberite i formatirajte boje
+com.github.Flacon	Flacon izdvaja pojedinačne pjesme iz jedne velike audio datoteke koja sadrži cijeli album glazbe i sprema ih kao zasebne audio datoteke
+com.github.flxzt.rnote	Skicirajte i vodite rukom pisane bilješke
+com.github.fontmatrix.Fontmatrix	Aplikacija za upravljanje fontovima
+com.github.fries1234.ncsa-mosaic	Web preglednik NSCA Mosaic
+com.github.gabutakut.gabutdm	Jednostavan i brz upravitelj preuzimanja
+com.github.geigi.cozy	Slušajte audio knjige
+com.github.giacomogroppi.writernote-qt	Writernote je multiplatformska aplikacija koja vam omogućuje da pravite bilješke snimanjem zvuka, kasnije ih prevodite u tekst i slušate na inteligentan način.
+com.github.gijsgoudzwaard.image-optimizer	Jednostavna kompresija slike bez gubitaka
+com.github.git_cola.git-cola	Elegantan i moćan Git GUI
+com.github.gmg137.netease-cloud-music-gtk	Netease glazbeni player u oblaku temeljen na Rust + GTK
+com.github.gpuvis.Gpuvis	A GPU Trace Visualizer
+com.github.GradienceTeam.Gradience	S lakoćom promijenite izgled Adwaita aplikacija
+com.github.gyunaev.spivak	Karaoke player
+com.github.hluk.copyq	Advanced clipboard manager
+com.github.hopsan.Hopsan	A modelling and simulation tool for fluid power and mechatronic systems
+com.github.horaciodrs.tradesim	The Linux Trading Simulator
+com.github.hugolabe.Wike	Traži i čitaj članke Wikipedije
+com.github.huluti.Coulr	Uživaj u bojama i osjeti radost!
+com.github.huluti.Curtail	Komprimiraj slike
+com.github.HypatiaProject.hypatia	A research helper tool that provides context and information about interesting topics.
+com.github.ilai_deutel.kibi	A text editor in ≤1024 lines of code, written in Rust
+com.github.inercia.k3x	Manager for local Kubernetes clusters with k3d
+com.github.iortcw.iortcw	Game engine for Return to Castle Wolfenstein
+com.github.IsmaelMartinez.teams_for_linux	Unofficial Microsoft Teams client for Linux using Electron
+com.github.iwalton3.jellyfin-media-player	Desktop client for Jellyfin media server
+com.github.iwalton3.jellyfin-mpv-shim	Cast-only client for Jellyfin Media Server
+com.github.JannikHv.Gydl	Download content from sites like YouTube
+com.github.jeromerobert.pdfarranger	Sjedinjavanje, preraspoređivanje, rastavljanje, okretanje i obrezivanje PDF dokumenata
+com.github.jkotra.eovpn	OpenVPN Configuration Manager
+com.github.jkotra.unlockr	Uklanjanje lozinki iz PDF datoteka
+com.github.jmlich.geotagging	Da pronađete mjesto gdje ste snimili fotografiju
+com.github.jms55.Sandbox	Igra simulacije pijeska
+com.github.johnfactotum.Foliate	Čitaj e-knjige u stilu
+com.github.johnfactotum.QuickLookup	Brzo potražite riječi
+com.github.Johnn3y.Forklift	Aplikacija za preuzimanje video i audio zapisa
+com.github.joseexposito.touche	Višedodirne geste
+com.github.jpakkane.glyphtracer	Pretvorite slike slova u font
+com.github.junrrein.PDFSlicer	Jednostavan alat za izdvajanje, sjedinjavanje, okretanje i mijenjanje redoslijeda stranica PDF dokumenata
+com.github.juzzlin.DustRacing2D	Tradicionalna top-down igra utrkivanja automobila uključujući uređivač razina
+com.github.k4zmu2a.spacecadetpinball	Pogon igre za Space Cadet Pinball
+com.github.kagami.boram	Grafički WebM konverter za više platformi.
+com.github.kalibari.audok	Besplatan glazbeni player otvorenog koda
+com.github.keriew.augustus	Augustus je open source ponovna implementacija Caesara III s promjenama u igri
+com.github.kmwallio.thiefmd	Uređivač vrijedan krađe.
+com.github.KRTirtho.Spotube	🎧 Spotify klijent otvorenog koda koji ne zahtijeva Premium niti koristi Electron! Dostupno i za desktop i za mobitel!
+com.github.labyrinth_team.labyrinth	Lagan alat za mapiranje uma
+com.github.lachhebo.Gabtag	Alat za audio označavanje
+com.github.libresprite.LibreSprite	Uređivač animiranih spriteova i alat za pikselnu umjetnost
+com.github.liferooter.textpieces	Transformirajte tekst bez korištenja nasumičnih web stranica
+com.github.LongSoft.UEFITool	Preglednik i uređivač slika firmvera UEFI
+com.github.louis77.tuner	Otkrijte i slušajte internetske radio postaje
+com.github.lxgr_linux.pokete	Igra poput Pokemona temeljena na terminalu
+com.github.makhber.Makhber	Vizualizacija i analiza znanstvenih podataka
+com.github.maoschanz.drawing	Uredi snimke zaslona ili memova
+com.github.maoschanz.DynamicWallpaperEditor	Izradi ili uredi dinamične XML pozadine („pozadinske prezentacije”) za radnu površinu GNOME
+com.github.marhkb.Pods	Pratite svoje podman spremnike
+com.github.marinm.songrec	Neslužbeni Shazam klijent otvorenog koda za Linux, napisan u Rustu.
+com.github.marktext.marktext	Uređivač markdowna sljedeće generacije
+com.github.matfantinel.moneta	Pratite tečajeve valuta stvarnog svijeta na radnoj površini
+com.github.matfantinel.reminduck	Zapamtite svoje stvari na nevjerojatno dosadan način.
+com.github.Matoking.protontricks	Jednostavan omotač koji radi winetricks stvari za igre koje podržavaju Proton
+com.github.mdh34.hackup	Čitajte Hacker News s radne površine
+com.github.mdh34.quickdocs	Brzo pročitajte dokumentaciju razvojnog programera
+com.github.mgropp.PdfJumbler	Jednostavan alat za preuređivanje, spajanje, brisanje i rotiranje stranica u PDF datotekama
+com.github.miguelmota.Cointop	Aplikacija temeljena na terminalu za praćenje kriptovaluta
+com.github.mikacousin.olc	Kontrolirajte svoje rasvjetne emisije
+com.github.mtkennerly.ludusavi	Izradite sigurnosnu kopiju podataka za spremanje videoigara na računalu
+com.github.muriloventuroso.easyssh	Upravljanje SSH vezama
+com.github.muriloventuroso.givemelyrics	Tekstovi tvojih pjesama
+com.github.muriloventuroso.pdftricks	Trikovi za PDF datoteke
+com.github.Murmele.Gittyup	Grafički Git klijent dizajniran da vam pomogne razumjeti i upravljati poviješću svog izvornog koda
+com.github.Murmele.scram	Naredbeni redak i grafički alat za probailističku analizu rizika
+com.github.naaando.lyrics	Prekrasan način pjevanja vaših pjesama
+com.github.needleandthread.vocal	Sjajan Podcast klijent za moderno besplatno stolno računalo
+com.github.neithern.g4music	Elegantno svirajte svoju glazbu
+com.github.nihui.waifu2x-ncnn-vulkan	waifu2x pretvarač ncnn verzija
+com.github.nrittsti.NTag	NTag je višeplatformski grafički uređivač oznaka usmjeren na slučajeve svakodnevnog života.
+com.github.ojubaorg.Othman	Elektronički preglednik Kur'ana
+com.github.opentyrian.OpenTyrian	Priključak otvorenog koda za DOS shoot-em-up Tyrian.
+com.github.optyfr.JRomManager	Mame i Retrogaming Rom Manager
+com.github.paolostivanin.OTPClient	GTK+ aplikacija za upravljanje TOTP i HOTP tokenima s ugrađenom enkripcijom.
+com.github.petebuffon.yafc	YAFC je Factorio kalkulator, planer i analizator. Glavni cilj YAFC-a je nositi se s jako modificiranim igrama.
+com.github.phase1geo.minder	Kreirajte, razvijajte i vizualizirajte svoje ideje
+com.github.philip_scott.notes-up	Vaša nova bilježnica
+com.github.philip_scott.spice-up	Stvorite jednostavne i lijepe prezentacije
+com.github.PintaProject.Pinta	Uređujte slike i slikajte digitalno
+com.github.polymeilex.neothesia	GPU ubrzani midi vizualizator
+com.github.PopoutApps.popout3d	Stvara 3D slike od fotografija snimljenih običnim fotoaparatom.
+com.github.powertab.powertabeditor	Pregledajte i uredite tabulature gitare
+com.github.qarmin.czkawka	Višenamjenska aplikacija za pronalaženje duplikata, praznih mapa, sličnih slika, oštećenih datoteka itd.
+com.github.qarmin.szyszka	Jednostavan, ali moćan alat za preimenovanje datoteka, napisan u Rustu
+com.github.quaternion	Klijent temeljen na Qt-u za Matrix mreže
+com.github.Qv2ray	Qv2ray je višeplatformsko v2ray grafičko sučelje napisano u Qt-u.
+com.github.rafostar.Clapper	Jednostavan i moderan GNOME media player
+com.github.raibtoffoletto.litteris	Organizirano dopisivanje
+com.github.rajsolai.response	Testirajte responzivnost svoje web stranice
+com.github.rajsolai.textsnatcher	Ugrabite tekst samo povlačenjem
+com.github.ransome1.sleek	upravitelj zadataka temeljen na sintaksi todo.txt za Linux, besplatan i otvorenog koda (FOSS)
+com.github.reds.LogisimEvolution	Digitalni logički dizajner i simulator
+com.github.reduz.ChibiTracker	ChibiTracker je prijenosni IT (Impulse Tracker) klon
+com.github.rhyme_player.rhyme	Dom vaše glazbe.
+com.github.rkoesters.xkcd-gtk	Read xkcd: web-strip romantike, sarkazma, matematike i jezika
+com.github.robertsanseries.ciano	Konverter multimedijskih datoteka
+com.github.rogercrocker.badabib	Pregledajte i uredite BibTeX unose
+com.github.Rosalie241.RMG	Jednostavan za korištenje i više platformi sučelje mupen64plus napisano u C++ & Qt
+com.github.ryanakca.slingshot	2D svemirska pucačka igra s gravitacijom
+com.github.ryonakano.konbucase	Pretvorite velika i mala slova u svom tekstu
+com.github.ryonakano.pinit	Prikvačite prečace za svoje omiljene prijenosne aplikacije na pokretač aplikacija
+com.github.ryonakano.reco	Snimite razgovore kako biste kasnije zapamtili sadržaj
+com.github.sakya.corechess	Šahovski GUI otvorenog koda za šahovske motore
+com.github.scrivanolabs.scrivano	Aplikacija za bilježenje za one koji više vole pisati rukopis nego tipkati.
+com.github.sdv43.whaler	Upravljanje Docker kontejnerom
+com.github.shonumi.gbe-plus	Game Boy (Color, Advance) emulator
+com.github.sixpounder.GameOfLife	Igrajte Conwayevu igru života
+com.github.skullernet.q2pro	Poboljšani Quake 2 klijent
+com.github.skylot.jadx	Decompiler iz Dexa u Java
+com.github.subhadeepjasu.pebbles	Izvedite napredne izračune s lakoćom
+com.github.suzie97.communique	RSS čitač sa sinkronizacijom na više platformi
+com.github.taiko2k.avvie	Izrežite slike za avatare ili pozadine
+com.github.taiko2k.tauonmb	Svirajte svoju glazbu sa stilom
+com.github.tchx84.Flatseal	Upravljanje dopuštenjima za Flatpak
+com.github.tenderowl.frog	Izdvojite tekst iz slika
+com.github.tenderowl.norka	Kontinuirani uređivač teksta
+com.github.tglima.Myfluttercrypto	MyFlutterCrypto je aplikacija za više platformi koja vam omogućuje šifriranje i dekriptiranje tekstova na jednostavan način.
+com.github.theCalcaholic.StreamDeck	Dodajte web usluge strujanja u Steam
+com.github.theironrobin.siglo	Sinkronizirajte PineTime sa svojim PinePhoneom
+com.github.themix_project.Oomox	prilagoditi ikone, xrdb i GTK teme
+com.github.tmewett.BrogueCE	Brogue: Community Edition - fork omiljene minimalističke roguelike igre koju vodi zajednica
+com.github.treagod.spectator	Udobno testirajte svoje REST API-je!
+com.github.unrud.djpdf	Stvorite male PDF-ove koje je moguće pretraživati iz skeniranih dokumenata
+com.github.unrud.RemoteTouchpad	Upravljajte mišem i tipkovnicom s pametnog telefona
+com.github.unrud.VideoDownloader	Preuzimanje videa s web stranice poput YouTubea i drugih
+com.github.utsushi.Utsushi	Pomoćni programi za dobivanje slika za Epson
+com.github.varnholt.dynablaster_revenge	Remake igre Dynablaster
+com.github.vikdevelop.photopea_app	Besplatna alternativa za korisnike programa Adobe Photoshop
+com.github.vikdevelop.timer	Jednostavan mjerač vremena
+com.github.vkohaupt.vokoscreenNG	Kreator screencasta jednostavan za korištenje
+com.github.vladimiry.ElectronMail	Neslužbeni desktop klijent za ProtonMail
+com.github.weclaw1.ImageRoll	Preglednik slika s osnovnim alatima za obradu slika
+com.github.wwmm.easyeffects	Zvučni efekti za PipeWire aplikacije
+com.github.wwmm.pulseeffects	Zvučni efekti za Pulseaudio aplikacije
+com.github.Xenoveritas.abuse	Dark 2D platformska igra sa bočnim pomicanjem
+com.github.xournalpp.xournalpp	Vodite bilješke pisane rukom
+com.github.yucefsourani.albasheer-electronic-quran-browser	Elektronički preglednik Kur'ana
+com.github.zadam.trilium	Izgradite svoju osobnu bazu znanja
+com.github.z.Cumulonimbus	Jednostavna, lijepa podcast aplikacija
+com.github.zocker_160.SyncThingy	SyncThingy = Synthing + jednostavan indikator ladice
+com.github.ztefn.haguichi	Grafičko sučelje za Hamachi
+com.gitlab.adnan338.Invoicer	Izradite svoje fakture za plaćanje
+com.gitlab.adnan338.Nixwriter	Stvorite slike Linuxa za podizanje sustava
+com.gitlab.azymohliad.Qwertone	Pretvara vaše računalo u glazbeni instrument
+com.gitlab.bitseater.meteo	Saznajte prognozu za sljedeće sate i dane s podacima i kartama
+com.gitlab.ColinDuquesnoy.MellowPlayer	Integracija glazbe u oblak za vašu radnu površinu
+com.gitlab.coringao.cavestory-nx	Nostalgična avanturistička igra sporedne akcije
+com.gitlab.coringao.JAG	Arkadna i puzzle 2D igra u kojoj morate razbiti sve dijelove mete
+com.gitlab.cutecom.cutecom	Grafički serijski terminal
+com.gitlab.davem.ClamTk	Jednostavno grafičko korisničko sučelje za Clam Antivirus (ClamAV)
+com.gitlab.guillermop.MasterKey	Aplikacija za upravljanje lozinkama
+com.gitlab.j0chn.nextcloud_password_client	Upravljajte svojim Nextcloud lozinkama na radnoj površini
+com.gitlab.kendellfab.restscope	Jednostavan alat za testiranje http/rest napravljen s D i GtkD.
+com.gitlab.librebob.Athenaeum	Besplatna zamjena za Steam
+com.gitlab.maevemi.publictransport	aplikacija za javni prijevoz (trenutno) za Njemačku
+com.gitlab.Murmele.UDPLogger	UDPLogger je lagani Logger UDP podataka visokih performansi. Dodatni podaci mogu se vizualizirati na dijagramima.
+com.gitlab.tipp10.tipp10	Dodirnite Učitelj tipkanja
+com.gluonhq.SceneBuilder	Scene Builder je alat otvorenog koda koji omogućuje dizajn JavaFX korisničkih sučelja povlačenjem i ispuštanjem.
+com.google.AndroidStudio	Integrirano razvojno okruženje za Googleovu Android platformu
+com.google.Chrome	Web preglednik iz Googlea
+com.google.ChromeDev	Web preglednik iz Googlea
+com.google.EarthPro	3D preglednik planeta
+com.googleplaymusicdesktopplayer.GPMDP	Pokrenite Google Play glazbu kao samostalnu aplikaciju za stolno računalo
+com.grangerhub.Tremulous	Aliens vs Humans, pucačina iz prvog lica s elementima strategije u stvarnom vremenu
+com.hack_computer.Clubhouse	Odredište za djecu da nauče kodirati
+com.hack_computer.OperatingSystemApp	Sustav vam omogućuje da budete dio magije koja održava vaše računalo neprekidnim radom!
+com.hack_computer.Sidetrack	Pobjegnite iz labirinta jama i robota!
+com.hamrick.VueScan	Softver za skeniranje za više od 6000 skenera
+com.helix_editor.Helix	Postmoderni uređivač teksta
+com.her01n.BatteryInfo	Prikazuje informacije o bateriji sustava.
+com.heroicgameslauncher.hgl	Pokretač Epic Games, GOG i Amazon Prime Games otvorenog koda.
+com.hostbuf.FinalShell	FinalShell ssh alati
+com.howlingmoonsoftware.CrayonBall	Brza zagonetka spoji četiri
+com.hunterwittenborn.Celeste	Sinkronizirajte svoje datoteke u oblaku
+com.icanblink.blink	Blink SIP klijent
+com.icons8.Lunacy	Besplatni softver za dizajn koji održava vaš tok pomoću AI alata i ugrađene grafike
+com.identicalsoftware.anagramarama	Sastavite riječi od gomile slova
+com.inform7.IDE	Pišite interaktivnu fikciju
+com.inklestudios.Inky	Napišite interaktivni narativ u inkleovom označnom jeziku
+com.inochi2d.inochi-creator	Alat za izradu i uređivanje Inochi2D lutaka
+com.interversehq.qView	Praktičan i minimalan preglednik slika
+com.inventwithpython.flippy	Klon klasične društvene igre Reversi
+com.invoiceninja.InvoiceNinja	Izradite fakture, prihvatite plaćanja, pratite troškove i vremenske zadatke
+com.irccloud.desktop	Moderna, uvijek povezana IRC klijentska usluga
+com.itextpdf.RUPS	iText RUPS je alat za pregled PDF strukture
+com.itopia.client	Klijent za poslužitelje protokola udaljene radne površine (RDP).
+com.jagex.RuneScape	Besplatan fantasy MMORPG
+com.jaquadro.NBTExplorer	Grafički NBT uređivač za sve Minecraft NBT izvore podataka
+com.jetbrains.CLion	Međuplatformski IDE za C i C++
+com.jetbrains.DataGrip	IDE temeljen na IntelliJ-u za baze podataka i SQL
+com.jetbrains.GoLand	Sposoban i ergonomski Go IDE
+com.jetbrains.IntelliJ-IDEA-Community	Sposoban i ergonomski Java IDE
+com.jetbrains.IntelliJ-IDEA-Ultimate	Sposoban i ergonomski Java IDE za razvoj poduzeća, weba i mobilnih uređaja
+com.jetbrains.PhpStorm	PHP IDE za profesionalni razvoj
+com.jetbrains.PyCharm-Community	Najinteligentniji Python IDE
+com.jetbrains.PyCharm-Professional	Najinteligentniji Python IDE
+com.jetbrains.Rider	Brz i moćan, višeplatformski .NET IDE
+com.jetbrains.RubyMine	Uživajte u prvoklasnoj podršci za Ruby 2.x i Rails 6.x, Sinatra, React, Angular, Puppet, Docker i više
+com.jetbrains.WebStorm	Najpametniji JavaScript IDE
+com.jetpackduba.Gitnuro	Multiplatformski Git klijent
+com.jgraph.drawio.desktop	Stvorite i dijelite dijagrame
+com.jonathankang.Weibird	Izvorni GTK+ Weibo klijent
+com.jpexs.decompiler.flash	Dekompilirajte i uredite SWF datoteke
+com.js8call.JS8Call	Softver koji koristi digitalni način rada JS8 koji pruža slanje poruka s tipkovnice na tipkovnicu slabog signala radioamaterskim operaterima
+com.katawa_shoujo.KatawaShoujo	Vizualni roman u stilu bishoujoa
+com.kavilgroup.gelectrical	Projektiranje i analiza elektrodistribucijske mreže
+com.kavilgroup.gestimator	Softver za civilnu procjenu
+com.kolor.AutopanoPro	Profesionalni softver za spajanje slika tvrtke Kolor
+com.kristianduske.TrenchBroom	Uređivač razina za igre temeljene na Quakeu
+com.ktechpit.colorwall	Vrhunska aplikacija za pozadinu radne površine
+com.ktechpit.orion	Potpuni torrent klijent i streamer za Linux desktop
+com.ktechpit.torrhunt	Torrent tražilica
+com.ktechpit.ultimate-media-downloader	Online video i audio downloader za Linux, podrška za 1300+ web stranica
+com.ktechpit.whatsie	Qt Whatsapp web klijent za Linux desktop
+com.ktechpit.wonderwall	Upravitelj pozadine
+com.lakoliu.Furtherance	Pratite svoje vrijeme bez praćenja
+com.leinardi.gkraken	Omogućuje kontrolu hlađenja NZXT Kraken X pumpe iz Linuxa.
+com.leinardi.gst	Sistemski uslužni program dizajniran za stres i nadzor različitih hardverskih komponenti
+com.leinardi.gwe	Sistemski uslužni program dizajniran za pružanje informacija, kontrolu ventilatora i overklok vaše NVIDIA kartice
+com.leinardi.gx52	Omogućuje kontrolu LED dioda i MFD za Logitech X52 i X52 Pro H.O.T.A.S.
+com.lettier.movie-monad	Besplatan i jednostavan za korištenje video player napravljen pomoću Haskella
+com.librumreader.librum	Moderan čitač e-knjiga i upravitelj knjižnice
+com.lixgame.Lix	Igra poput Lemmingsa sa zagonetkama, uređivačem, više igrača
+com.locomalito.abbayedesmorts	Zastarjela video igra za mračni prolaz povijesti
+com.logseq.Logseq	Lokalna prva, nelinearna bilježnica za organiziranje i dijeljenje vaše osobne baze znanja
+com.lunarclient.LunarClient	Modpack za sve moderne verzije Minecrafta!
+com.makemkv.MakeMKV	DVD i Blu-ray u MKV pretvarač i mrežni streamer
+com.maplerain.telsis_translator_flutter	Aplikacija koja prevodi na i s jezika Telsis koji se koristi u seriji Violet Evergarden
+com.mardojai.DiccionarioLengua	Busca palabras en el DLE
+com.mardojai.ForgeSparks	Dobijte Git Forges obavijesti
+com.mastermindzh.tidal-hifi	Web verzija listen.tidal.com s podrškom za Hi-Fi (High i Max).
+com.mattermost.Desktop	Platforma otvorenog koda za suradnju programera
+com.mattjakeman.ExtensionManager	Pregledajte, instalirajte i upravljajte GNOME Shell Extensions
+com.meetfranz.Franz	Messenger za desktop
+com.microsoft.AzureStorageExplorer	Grafički alat za upravljanje resursima za pohranu u oblaku Azure
+com.microsoft.Edge	Predstavljamo novi web preglednik Microsoft Edge. Vrijeme je da očekujete više. Više privatnosti. Više kontrole. Više produktivnosti. Više vrijednosti.
+com.microsoft.EdgeDev	Predstavljamo novi web preglednik Microsoft Edge. Vrijeme je da očekujete više. Više privatnosti. Više kontrole. Više produktivnosti. Više vrijednosti.
+com.milesalan.mepo	Brz, jednostavan i hakiran OSM preglednik karata za Linux
+com.moddb.TotalChaos	Survival horor smješten na udaljeni otok poznat kao Fort Oasis
+com.moddb.TotalChaosRetro	Survival horor smješten na udaljeni otok poznat kao Fort Oasis
+com.mojang.Minecraft	Stvorite vlastiti svijet u jednoj od najpopularnijih videoigara
+com.mongodb.Compass	MongoDB GUI
+com.moonlight_stream.Moonlight	Streaming igrica i drugih aplikacija s drugog računala koje pokreće Sunshine ili GeForce Experience
+com.mousepawmedia.omission	Varljivo jednostavna zagonetka riječi.
+com.mudeprolinux.whakarere	GTK4 Whatsapp klijent
+community.pathofbuilding.PathOfBuilding	Path of Building (Zajednica) - moćan planer izgradnje za Path of Exile
+com.musixmatch.Musixmatch	Uživajte u svojim tekstovima posvuda
+com.napster.napster-bigscreen-electron	Napster za vaš dlanovnik
+com.neatdecisions.Detwinner	Pronađite i uklonite duplicirane datoteke i slične slike
+com.netease.CloudMusic	Popularni mrežni glazbeni player koji je razvio Netease
+com.nextcloud.desktopclient.nextcloud	Nextcloud klijent za sinkronizaciju radne površine
+com.nitrokey.nitrokey-app	Upravljajte svojim Nitrokey uređajima
+com.nordpass.NordPass	Upravitelj zaporki jednostavan za korištenje koji su vam donijeli stručnjaci za kibernetičku sigurnost.
+com.notepadqq.Notepadqq	Napredni uređivač teksta
+com.notesnook.Notesnook	Alternativa Evernoteu potpuno otvorenog koda i end-to-end šifrirana bilježka
+com.obsproject.Studio	Softver za prijenos uživo i video snimanje
+com.okta.developer.CLI	Okta CLI je najlakši način da počnete s Oktom!
+com.openwall.John	John the Ripper Jumbo alat za probijanje lozinki
+com.opera.Opera	Web preglednik iz Opere
+com.oppzippy.OpenSCQ30	Kontrolirajte postavke Soundcore Q30 slušalica
+com.orama_interactive.Pixelorama	2D sprite editor s podrškom za animaciju
+com.outerwildsmods.owmods_gui	Aplikacija jednostavna za korištenje za instaliranje i pokretanje modova Outer Wilds
+com.ownrwallet.wallet	Šaljite, primajte, podižite, mijenjajte i kupujte virtualne valute. Samo vi kontrolirate pristup i imovinu
+com.ozmartians.VidCutter	Rezač medija + stolar
+com.parallax.PropellerIDE	Razvijte, kompajlirajte i učitajte kod za platformu Parallax Propeller.
+com.parsecgaming.parsec	Jednostavan streaming igre niske latencije
+com.pikatorrent.PikaTorrent	Moderna, jednostavna, povezana i električna BitTorrent aplikacija ⚡
+com.pinegrow.Pinegrow	Vizualni web uređivač za profesionalce
+com.play0ad.zeroad	Strateška igra drevnog ratovanja u stvarnom vremenu
+com.playonlinux.PlayOnLinux4	Grafičko sučelje za Wine
+com.plexamp.Plexamp	Plexamp - prekrasan Plex glazbeni player za audiofile, kustose i hipstere
+com.pojtinger.felicitas.Multiplex	Gledajte torrente sa svojim prijateljima
+com.pokemmo.PokeMMO	PokeMMO je besplatna mmorpg igra, pridružite se rastućoj zajednici dok napredujete i otkrivate nova čudovišta
+com.polyphone_soundfonts.polyphone	Stvorite vlastite instrumente za sviranje omiljene glazbe
+com.powerball253.eternalmodmanager	Menadžer modifikacija na više platformi za DOOM Eternal.
+com.poweriso.PowerISO	Sve-u-jednom CD/DVD/Blu-Ray alat
+com.protonvpn.www	Pouzdana i jednostavna VPN aplikacija za Linux
+com.prusa3d.PrusaSlicer	Dobijte savršene 3D ispise!
+com.pypyrev.linuxdcpp	Klijent za dijeljenje datoteka za mrežu Direct Connect
+com.q3rally.Q3Rally	Trkaća igra preživljavanja
+com.qq.QQ	Online usluga razmjene izravnih poruka
+com.qq.QQmusic	Online servis za strujanje glazbe
+com.quexten.Goldwarden	Bitwarden kompatibilan stolni klijent
+com.quixel.Bridge	Savršen most između Megascan-a i vaših omiljenih alata
+com.qzandronum.Q-Zandronum	Zandronum 3.0 vilica s poboljšanim mrežnim kodom, pokretima koji se mogu konfigurirati i mnogim malim izmjenama
+com.rabbit_company.passky	Passky je jednostavan, moderan, lagan, open-source i siguran upravitelj lozinki.
+com.rafaelmardojai.Blanket	Slušaj razne zvukove
+com.rafaelmardojai.SharePreview	Testiraj kartice za društvene medije lokalno
+com.rafaelmardojai.WebfontKitGenerator	Stvori @font-face pakete jednostavno
+com.raggesilver.BlackBox	Prekrasan GTK 4 terminal
+com.ranfdev.Geopard	Preglednik Gemini
+com.ranfdev.Lobjur	Jednostavan lobste.rs klijent
+com.ranfdev.Notify	Primajte obavijesti od ntfy.sh.
+com.rawtherapee.RawTherapee	Napredni program za razvijanje sirovih fotografija
+com.realm667.Wolfenstein_Blade_of_Agony	FPS vođen pričom inspiriran pucačinama iz Drugog svjetskog rata iz 90-ih i ranih 2000-ih
+com.redis.RedisInsight	GUI programera za Redis, od Redisa.
+com.remnantsoftheprecursors.ROTP	Uglađena modernizacija izvorne igre Master of Orion Strategy iz 1993.
+com.retrodev.blastem	Sega Mega Drive/Genesis i emulator Master System
+com.revolutionarygamesstudio.ThriveLauncher	Igra simulacije evolucije. Preuzmite kontrolu nad svojom vrstom u okolišu i uredite svoju vrstu kao cjelinu. Natječite se s drugim vrstama u razvoju za resurse na stranom planetu.
+com.riverbankcomputing.PyQt.BaseApp	Zajednička platforma za aplikacije koje koriste PyQt
+com.rocksandpaper.syndic	RSS/Atom čitač prilagođen dodiru
+com.roguetemple.HyperRogue	Neeuklidska grafička igrica poput lupeža
+com.rosegardenmusic.rosegarden	MIDI i audio sekvencer i uređivač zapisa
+com.rq3.Reaction	Filmska realistična pucačina iz prvog lica
+com.rtosta.zapzap	WhatsApp Messenger
+com.sayonara_player.Sayonara	Lagani Qt Audio player
+com.scoutshonour.Digital	Računalna misterija/romansa smještena pet minuta u budućnost 1988
+com.scoutshonour.dtipbijays	Svojevrsni duhovni nastavak filma Digital: Ljubavna priča, smješten u prestižnu privatnu srednju školu i na društvene mreže 2027.
+com.seafile.Client	Seafile datoteka za sinkronizaciju i dijeljenje desktop klijenta
+com.seal_one.SealOne	Softver za uređaje za potpis koji se temelje na hardveru Seal One
+com.serveftp.officefactoring	Aplikacija za faktoring, sekuritizaciju, ESC ili FIDC
+com.sevenkfans.sevenkaa	Srednjovjekovna strateška igra u stvarnom vremenu
+com.seventhstring.Transcribe	Prepiši! - softver za pomoć pri transkripciji snimljene glazbe
+com.shatteredpixel.shatteredpixeldungeon	Roguelike RPG, s pixel art grafikom i puno raznolikosti i mogućnosti ponovnog igranja
+com.sigil_ebook.Sigil	Višeplatformski uređivač EPUB e-knjiga
+com.sigmyne.crush	Redukcija podataka i slikanje za odabrane astronomske kamere
+com.simplenote.Simplenote	Najjednostavniji način za vođenje bilješki
+com.sindresorhus.Caprine	Elegantna stolna aplikacija Facebook Messenger
+com.sireliah.Dragit	Intuitivna aplikacija za dijeljenje datoteka za lokalnu mrežu
+com.skype.Client	Nazovite i pošaljite poruke korisnicima Skypea, uz podršku za video chat
+com.slack.Slack	Timska komunikacija za 21. stoljeće
+com.sleepfiles.OSCAR	CPAP Analysis Reporter otvorenog koda
+com.slugchess.SlugChess	Šah s Fog-of-War i izmiješanim časnicima
+com.snes9x.Snes9x	Super Nintendo emulator
+com.solvespace.SolveSpace	Besplatni (GPLv3) parametarski 3d CAD alat
+com.sourcepole.kadas	Aplikacija za mapiranje za nespecijalizirane korisnike
+com.spacestation14.Launcher	Simulator katastrofe za više igrača
+com.spotify.Client	Online servis za strujanje glazbe
+com.springrts.SpringLobby	Igrajte online RTS igre s Spring motorom
+com.steamdeckrepo.manager	Instalirajte videozapise za pokretanje na svoj Steam Deck pomoću API-ja web stranice Steam Deck Repo.
+com.steamgriddb.SGDBoop	Primijenite sredstva SteamGridDB na Steam
+com.steamgriddb.steam-rom-manager	Aplikacija za upravljanje ROM-ovima u Steamu
+com.stepmania.StepMania	Igra ritma i plesa
+com.stremio.Service	Sloboda strujanja
+com.stremio.Stremio	Gledajte videozapise, filmove, TV serije i TV kanale odmah
+com.strlen.TreeSheets	Organizator podataka slobodnog oblika
+com.st.STM32CubeIDE	Integrirano razvojno okruženje za STM32
+com.sublimemerge.App	Sublime Merge je Git klijent od kreatora Sublime Texta
+com.sublimetext.three	Sofisticirani uređivač teksta za kod, označavanje i prozu
+com.sudovanilla.penpot-desktop	Sloboda dizajna za timove
+com.supermodel3.Supermodel	Arkadni emulator Sega Model 3
+com.sweethome3d.Sweethome3d	Sweet Home 3D aplikacija za dizajn interijera
+com.sweetscape.ZeroOneZeroEditor	Profesionalno uređivanje teksta i heksadecimalno uređivanje s binarnim predlošcima
+com.synology.CloudStationBackup	Sigurnosna kopija u stvarnom vremenu koja vas spašava od velikog gubitka podataka
+com.synology.SynologyAssistant	Alat za upravljanje Synology NAS-om u lokalnoj mreži
+com.synology.SynologyDrive	Moćna privatna pohrana u oblaku bez ponavljajućih naknada
+com.syntevo.SmartGit	Obavite svoju obvezu
+com.syntevo.SmartSynchronize	Usporedba imenika na pametan način
+com.system76.Popsicle	Flash više USB uređaja paralelno
+com.szibele.e-juice-calc	Besplatan i jednostavan za korištenje E-Juice kalkulatora
+com.tdameritrade.ThinkOrSwim	ThinkOrSwim Desktop aplikacija
+com.teamspeak.TeamSpeak	TeamSpeak5 VoIP aplikacija
+com.teamspeak.TeamSpeak3	TeamSpeak VoIP aplikacija
+com.teeworlds.Teeworlds	Online pucačka igra za više igrača
+com.tencent.wemeet	HD konferencijski proizvod temeljen na oblaku koji iskorištava Tencentovo više od 20 godina iskustva u audiovizualnim komunikacijama
+com.tercad.fingrom	Aplikacija za financijsko računovodstvo neovisna o platformi
+com.thebrokenrail.MCPIReborn	Zabava s blokovima
+com.thewavewarden.Odin2	Odin 2 sintisajzer
+com.thincast.client	Besplatni RDP (Remote Desktop Protocol) klijent za Linux, macOS i Windows
+com.tic80.TIC_80	Fantasy računalo za izradu, igranje i dijeljenje malih igrica
+com.ticktick.TickTick	Vaš prekrasan popis obaveza i zadataka za obavljanje svih stvari i dobro organiziranje života.
+com.todoist.Todoist	“Najbolja aplikacija za popis obaveza trenutno” - The Verge
+com.toggl.TogglDesktop	Jednostavan i intuitivan softver za praćenje vremena
+com.tomjwatson.Emote	Moderni alat za odabir emotikona u skočnom prozoru
+com.tonikelope.MegaBasterd	Preuzmite, učitajte ili streamajte datoteke s MEGA.nz
+com.tracktion.Waveform	Digitalna audio radna stanica za sve glazbene stvaraoce
+com.transmissionbt.Transmission	Preuzimajte i dijelite datoteke preko BitTorrenta
+com.tutanota.Tutanota	Sigurna e-pošta, kalendar i kontakti
+com.tux4kids.tuxmath	TuxMath je arkadna igra koja pomaže djeci vježbati svoje matematičke činjenice
+com.tux4kids.tuxtype	Edukativna igra učitelja tipkanja s Tuxom u glavnoj ulozi
+com.tuxpusher.TuxPusher	Zabavna igra guranja novčića s Tuxom!
+com.tuxpusher.TuxPusherAF	515 jedinstvenih nagrada + 6 pingvina
+com.ugetdm.uGet	Upravitelj preuzimanja
+com.ulduzsoft.Birdtray	Obavijest o novoj e-pošti za Thunderbird na paleti sustava
+com.ultimaker.cura	Slicer za pripremu vaših projekata 3D ispisa
+com.umlet.Umlet	Besplatni UML alat za brze UML dijagrame
+com.unity.UnityHub	Motor za igre u stvarnom vremenu
+com.uploadedlobster.peek	Program za snimanje ekrana s jednostavnim sučeljem
+com.usebottles.bottles	Pokrenite Windows softver
+com.usebruno.Bruno	Brz API klijent prilagođen Gitu
+com.vagueentertainment.Framed	Digitalni okvir za slike za vašu NFTshowroom umjetnost i osobni rad
+com.valvesoftware.Steam	Pokretač za uslugu distribucije softvera Steam
+com.valvesoftware.SteamLink	Streaming igara s drugog računala pomoću Steama
+com.varnamproject.Varnam	Jednostavno upišite indijske jezike
+com.vba_m.visualboyadvance-m	VisualBoyAdvance-M, Gameboy Advance emulator visoke kompatibilnosti
+com.vesc_project.VescTool	VESC® Alat potpuno je nova i 100% revidirana zamjena za BLDC-Alat
+com.viber.Viber	Povezujemo ljude, bez obzira tko su i odakle su
+com.vicr123.thebeat	Audio Player
+com.viewizard.AstroMenace	Hardcore 3D svemirska pucačina s mogućnostima nadogradnje svemirskog broda
+com.virustotal.VirusTotalUploader	Učitajte datoteke na virustotal.com
+com.visualstudio.code	Uređivanje koda. Redefinirano.
+com.visualstudio.code-oss	Visual Studio Code. Uređivanje koda. Redefinirano.
+com.vivaldi.Vivaldi	Snažan, osobni i privatni web preglednik
+com.vixalien.decibels	Reproducirajte audio datoteke
+com.vixalien.sticky	Prikvačite bilješke na radnu površinu
+com.voxdsp.aigeneratedgame	Spasite svoje vrtne prijatelje od duhova!
+com.voxdsp.AstroImpact	Svemirska igra za više igrača, obranite planet od nadolazećih asteroida!
+com.voxdsp.Borg	Prijenosni (SDL) audio sintesajzer/ton generator inspiriran Korg ER-1
+com.voxdsp.Borg0	Prijenosni (SDL) audio sintesajzer/ton generator omogućuje korisnicima crtanje oscilatora i omotnica.
+com.voxdsp.CubeShooter	3D pucačina u stilu arkade
+com.voxdsp.PoryDrive	Igra automobila u kojoj morate uhvatiti Porygon!
+com.voxdsp.SeriousShooter	3D FPS odobrio Uncle Sam
+com.voxdsp.Snowboarder	Jednostavna 3D igra snowboardinga
+com.voxdsp.Snowling	Igra kuglanja na sreću
+com.voxdsp.Spaceminer	3D igra svemirskog rudarenja
+com.voxdsp.Tuxocide	3D FPS rat koji bjesni na Antarktiku...
+com.voxdsp.TuxScape	Mitska avantura kao Tux!
+com.voxdsp.TuxVsDragon	Ubijte Red Dragon Tuxa!
+com.voxdsp.VoxelPaint	Slikajte u 3D pomoću voksela!
+com.voxdsp.VoxelPaintPro	Slikajte u 3D pomoću jednobojnih voksela!
+com.vscodium.codium	Uređivanje koda. Redefinirano. Telemetrija manje.
+com.vysp3r.ProtonPlus	Jednostavan upravitelj alata za kompatibilnost temeljen na Wineu i Protonu
+com.vzhd1701.gridplayer	Reproducirajte videozapise jedan pored drugog
+com.w1hkj.fldigi	Radioamaterske komunikacije zvučnom karticom
+com.w1hkj.flrig	Radioamatersko upravljanje opremom
+com.whitemagicsoftware.kmcaster	Prikaz događaja miša i tipkovnice na zaslonu
+com.wickeditor.WickEditor	Alat za kreiranje igara, animacija i svega između!
+com.wings3d.WINGS	Napredni modeler podjela
+com.wire.WireDesktop	Najsigurnija platforma za suradnju
+com.wiz.Note	Izvrsno PKM (personal knowledge management) desktop okruženje temeljeno na korištenju oblaka
+com.wps.Office	Uredski paket WPS
+com.writerduet.writersolo	Opsežna aplikacija za stolna računala za potpuno pisanje scenarija ili pretvorbu između različitih formata scenarija kao što je konačni nacrt fdx ili fontana
+com.xnview.XnConvert	Jednostavna skupna obrada slika i uređivanje metapodataka
+com.xnview.XnRetro	Stvorite zapanjujuće slike s vintage ili trenutnim efektom
+com.xnview.XnSketch	Pretvorite svoje fotografije u crtiće ili skice
+com.xnview.XnViewMP	Pregledajte i organizirajte svoje slike
+com.xunlei.Thunder	Xunlei preuzimanje.迅雷下载。
+com.yacreader.YACReader	Još jedan čitač stripova
+com.yktoo.ymuse	Jednostavan, funkcionalan i brz GTK front-end (klijent) za Music Player Daemon
+com.ylsoftware.qmmp.Qmmp	Multimedijski player temeljen na Qt-u
+com.yubico.yubioath	Grafičko sučelje za prikaz OATH kodova s YubiKeyem
+com.zandronum.Zandronum	Vodeći u novoškolskom Doomu za više igrača na mreži
+com.zerobrane.studio	Lagani IDE za Lua baziran na Lua
+com.zettlr.Zettlr	Markdown uređivač za 21. stoljeće
+com.zhqli.wikit	Univerzalni rječnik
+com.zoho.Notebook	Najljepša aplikacija za bilježenje na svim uređajima
+com.zquestclassic.ZQuest	Pogon za stvaranje igara sličnih popularnoj klasičnoj pustolovnoj igri
+cool.ldr.lfy	Softver za prevođenje za gnome
+cz.cvut.edu.comparch.qtrvsim	RISC-V CPU simulator za obrazovne svrhe
+cz.krupkat.Xpano	Automatizirani alat za spajanje fotografija
+cz.zeropage.Formiko	uređivač reStructuredText i MarkDown i preglednik uživo
+de._0x539.gobby	Suradnički uređujte tekstualne datoteke
+de.akaflieg_freiburg.cavok.add_hours_and_minutes	Jednostavan kalkulator za zbrajanje sati i minuta
+de.akaflieg_freiburg.enroute	Aplikacija za navigaciju leta za VFR pilote
+de.bforartists.Bforartists	Kompletan, besplatan 3D paket otvorenog koda
+de.billardgl.Billardgl	Zabavna 3D igra bilijara
+de.blobbyvolley.BlobbyVolley2	Odbojkaška igra za više igrača jedan na jedan.
+de.breitbandmessung.Breitbandmessung	Omogućuje mjerenje brzine interneta.
+de.bund.ausweisapp.ausweisapp2	Službena aplikacija za provjeru autentičnosti za njemačku osobnu iskaznicu i boravišnu dozvolu
+de.create3000.titania	Uređujte, pregledavajte i krećite se u svjetovima X3D i VRML
+de.fabrik19.mos-Launcher	Koristi se za razvoj s Mobilitysuiteom
+de.finnik.PassVault	Upravljajte svojim lozinkama sigurno i jednostavno uz PassVault
+de.flinkebits.AvaEmailArchivar	Arhiviranje i vraćanje e-pošte iz IMAP poštanskih sandučića
+de.gunibert.Hackgregator	Čitač hakerskih vijesti
+de.haeckerfelix.AudioSharing	Dijelite svoj računalni zvuk
+de.haeckerfelix.Fragments	BitTorrent klijent
+de.haeckerfelix.Shortwave	Slušajte internetski radio
+de.halaszovich.PMbrowser	Otvarajte, pregledavajte i izvozite PM dat datoteke
+de.ifw_dresden.nagstamon	Nagstamon je monitor statusa za radnu površinu.
+de.k_bo.Televido	Pristup javnoj TV na njemačkom jeziku
+de.klayout.KLayout	Preglednik i uređivač za izgled maske
+de.lernsoftware_filius.Filius	Filius je mrežni simulator za obrazovne svrhe.
+de.linuxguides.RechnungsAssistent	Njemački generator faktura
+de.manuel_kehl.go-for-it	Moderan popis zadataka s ugrađenom štopericom za mjerenje produktivnosti
+de.marlam.gencolormap	Generator karte u boji
+de.marlam.qv	Vizualizator 2D podataka
+de.mediathekview.MediathekView	Pristup javnoj njemačkoj TV Mediathek
+de.nicokimmel.shadowcast-electron	Prikazuje videostream ShadowCasta Genkija
+de.peterge.combined	Kombinirano! je blok puzzle igra. Vaš cilj je povezati blokove kako biste dobili više blokove na ploči.
+de.philippun1.Snoop	Pronjuškajte po svojim datotekama
+de.philippun1.turtle	Upravljajte svojim git spremištima
+de.rwth_aachen.ient.RDPlot	RDPlot je alat za iscrtavanje krivulja distorzije brzine
+de.rwth_aachen.ient.YUView	YUV player temeljen na QT platformi s naprednim skupom analitičkih alata
+de.schmidhuberj.DieBahn	Putujte sa svim informacijama o vlakovima na jednom mjestu
+de.schmidhuberj.Flare	Razgovarajte sa svojim prijateljima na Signalu
+de.schmidhuberj.tubefeeder	Pratite kreatore videa
+de.sesu8642.feudaltactics	Strateška igra s bezbroj jedinstvenih i izazovnih razina.
+de.shorsh.discord-screenaudio	Prilagođeni discord klijent koji podržava strujanje sa zvukom na Linuxu
+de.syping.gta5view	Otvorite i uredite GTA V profile
+de.tumexam.cli	Klijent za TUMexam za upravljanje studentima i ispitima.
+de.unifreiburg.ellipticcurve	Skicira eliptične krivulje i omogućuje eksperimentiranje s njihovim grupnim zakonom
+de.uni_heidelberg.zah.GaiaSky	3D simulator svemira otvorenog koda za desktop i VR s podrškom za više od milijardu objekata
+dev.alextren.Spot	Slušajte glazbu na Spotifyju
+dev.ares.ares	paket za emulaciju višesustavne konzole
+dev.atoft.Reactions	Jednostavno pretraživanje GIF-ova.
+dev.aunetx.deezer	Online servis za strujanje glazbe
+dev.bambosh.UnofficialHomestuckCollection	Izvanmrežna zbirka Homestucka i srodnih radova
+dev.boxi.Boxi	Emulator terminala za korištenje s Toolboxom
+dev.bragefuglseth.Fretboard	Potraži akorde za gitaru
+dev.bsnes.bsnes	Super Nintendo emulator
+dev.Cogitri.Health	Pratite svoje fitness ciljeve
+dev.deedles.Trayscale	Neslužbeni GUI omotač oko Tailscale CLI.
+dev.edfloreshz.Done	Ponovno osmišljeni popisi obaveza
+dev.ensoft.ecode	Lagani uređivač koda za više platformi dizajniran za moderan hardver s fokusom na odziv i performanse.
+dev.gbstudio.gb-studio	Kreator retro igrica povuci i ispusti brz i jednostavan za korištenje za Game Boy
+dev.geopjr.Collision	Provjeri hasheve tvojih datoteka
+dev.geopjr.Tuba	Pregledajte Fediverse
+dev.goats.xivlauncher	Pokretač i besprijekorna integracija Linuxa za Final Fantasy XIV Online
+dev.hdos.HDOS	Visoko detaljan Old School Runescape klijent
+dev.jamiethalacker.window_painter	Napunite ploču istom bojom boje
+dev.k8slens.OpenLens	Kubernetes IDE
+dev.krtirtho.Flemozi	Napredni⚡ Birač emotikona😀 za Linux🐧, Windows🪟 i macOS🍎
+dev.lapce.lapce	Munjevito brz i moćan uređivač koda napisan u Rustu
+dev.lasheen.qr	Skener/generator QR kodova
+dev.levz.TinyImageFinder	Traženje slika s pregledom
+dev.linwood.butterfly	Snažna, minimalistička, višeplatformska aplikacija otvorenog koda za bilježenje
+dev.lizardbyte.app.Sunshine	Domaćin prijenosa igre s vlastitim hostom za Moonlight.
+dev.lukebriggs.pepys	Jednostavan dnevnik ocjenjivanja
+dev.mrquantumoff.mcmodpackmanager	Upravljajte svojim modpackovima s lakoćom!
+dev.mufeed.Wordbook	Traženje definicija za bilo koji engleski izraz
+dev.paullee.scraterpreter.Scrape	Scraterpreter je tumač koji pokreće .sb3 (Scratch) projekte.
+dev.paullee.scraterpreter.Scrapec	Scraterpreterc je kompajler za Scraterpreter.
+dev.pulsar_edit.Pulsar	Hiper-hakirani uređivač teksta koji vodi zajednica
+dev.rzia.minesector	Snazzy igra temeljena na Minesweeperu
+dev.salaniLeo.forecast	Aplikacija za vremensku prognozu za GNOME
+dev.salaniLeo.immagini	Biblioteka i alat za izradu aplikacija AppImage
+dev.schlaubi.Tonbrett	Popratna aplikacija za Discord Soundboard Bot
+dev.serebit.Waycheck	Prikazuje protokole koje implementira Waylandov sastavljač
+dev.slimevr.SlimeVR	Aplikacija za omogućavanje praćenja cijelog tijela u virtualnoj stvarnosti
+dev.stewlab.PortaWar	Dobrodošli u rat dlanovnika!
+dev.storyapps.starc	Sveobuhvatna aplikacija za pisanje
+dev.tchx84.Portfolio	Upravljajte datotekama u pokretu
+dev.vencord.Vesktop	Snappier Discord aplikacija s Vencordom
+dev.vieb.Vieb	Preglednik Electron inspiriran Vimom
+dev.zelikos.rollit	Bacite kockice
+de.wger.flutter	Praćenje fitnessa/vježbanja, prehrane i težine
+de.willuhn.Jameica	Aplikacijska platforma slična OSGI-ju
+de.wwwtech.ColorMate	Pretvorite CSS boje između zapisa
+de.zwarf.picplanner	Planirajte sljedeće lokacije za fotografiranje
+dk.tangramgames.mrrescue	Igra gašenja požara u arkadnom stilu
+edu.berkeley.BOINC	Doprinesite računalnom snagom projektima istraživanja u mnogim znanstvenim područjima
+edu.mit.Scratch	Stvorite priče, igre i animacije, podijelite ih s drugima diljem svijeta
+edu.princeton.physics.WSJTX	Rad amaterskog radija sa slabim signalom
+edu.stanford.Almond	Otvoreni virtualni pomoćnik
+edu.stanford.protege	Okruženje za uređivanje ontologije bogato značajkama
+engineer.atlas.Nyxt	Hakerski preglednik
+es.estoes.wallpaperDownloader	Automatski preuzimajte, upravljajte i mijenjajte svoje pozadine s interneta
+eu.ad5001.LogarithmPlotter	2D logaritamski skalirani softver za crtanje za izradu Bodeovih dijagrama, nizova i funkcija distribucije
+eu.betterbird.Betterbird	Betterbird je soft fork Mozilla Thunderbirda. Jednostavno bolje.
+eu.cichy1173.tabela	Jednostavna aplikacija koja prikazuje CSV sadržaj u tablici
+eu.ithz.umftpd	Pristupite svojim datotekama s drugog uređaja
+eu.ngdevelopment.tsukitag	Anime imageboard preglednik, agregator, downloader, tagger, pretvarač, upravitelj zbirke. Pregledavajte i stvarajte vlastite zbirke, konfigurirajte radne prostore za preuzimanje slika s podrškom za izradu predložaka.
+eu.nimmerfort.blackbody	Pregledač termograma
+eu.ototu.Quteqoin	Aplikacija pour lire les tribunes
+eu.planete_kraus.Tarot	Igrajte partiju tarota protiv umjetne inteligencije
+eu.scarpetta.PDFMixTool	Aplikacija za izvođenje uobičajenih operacija uređivanja PDF datoteka
+eu.skribisto.skribisto	Softver za pisanje
+eu.stethewwolf.gresistor	Kalkulator kodova boja otpornika
+eu.usdx.UltraStarDeluxe	Karaoke program koji ocjenjuje vašu izvedbu
+eu.vcmi.VCMI	Open-source game engine za Heroes of Might and Magic III
+fi.mooc.tmc.tmc-cli-rust	CLI za TestMyCode evaluator programskih zadataka.
+fi.skyjake.Lagrange	Prekrasna Gemini klijentica
+fm.cancel.Ripcord	Alternativni desktop chat klijent za Slack (i Discord)
+fm.helio.Workstation	Helio Project besplatni softver za skladanje glazbe
+fm.reaper.Reaper	Digitalna audio radna stanica
+fr.dwightstudio.JArmEmu	Jednostavan ARMv7 simulator napisan u Javi, namijenjen za obrazovne svrhe
+fr.fgrabenstaetter.DigitalAssets	Cijene i statistika kriptovaluta
+fr.free.brouits.qspeakers	Softver za dizajn zvučnika
+fr.free.Homebank	Besplatno, jednostavno, osobno računovodstvo, za svakoga
+fr.free.hxc2001.HxCFloppyEmulator	Programsko i hardversko rješenje za zamjenu stare diskete
+fr.free.qccrypt.Qccrypt	Grafičko sučelje temeljeno na QT-u za ccrypt alat
+fr.handbrake.ghb	Video transkoder
+fr.henri2h.minestrix	Društveni mediji usmjereni na privatnost temeljeni na Matrixu
+fr.inria.corese.CoreseCommand	Otključajte snagu semantičkog weba
+fr.inria.corese.CoreseGui	Otključajte snagu semantičkog weba
+fr.masson_informatique.WhosWho	Stvori PDF dokumente sa slikama i imenima osoba, poznatih i kao „Tko je tko”, „Godišnjak” ili „Knjiga lica”
+fr.natron.Natron	Softver otvorenog koda za komponiranje videa
+fr.romainvigier.MetadataCleaner	Prikaži i izbriši metapodatke u datotekama
+fr.romainvigier.zap	Reproducirajte zvukove sa zvučne ploče
+fr.rubet.rpn	CLI kalkulator obrnute poljske notacije
+fr.sgued.ten_forward	Upravljajte NAT-PMP pristupnikom
+fun.vnote.app.VNote	Ugodna platforma za bilježenje
+fyi.zoey.Boop-GTK	Port of IvanMathy's Boop na GTK, blok za pisanje za programere.
+fyi.zoey.TeX-Match	Pronađite LaTeX simbole skicirajući
+games.zetsubou.AnAdventurersGallantry	Osramoćeni vitez na obuci Oren dobiva drugu priliku za život kao pustolov u ovom fantastičnom vizualnom romanu
+games.zetsubou.HumanityMustPerish	Komični vizualni roman o androidu odjevenom kao srednjoškolka dok se sprema uništiti čovječanstvo
+games.zetsubou.MaxMassacre	Vizualni roman smješten u svijet mašte pun čudovišta
+games.zetsubou.SablesGrimoireDemo	Vizualni roman Djevojka čudovište koji se odvija u magičnoj akademiji
+games.zetsubou.WanderNoMore	Vizualni roman koji priča priču o odmetnutom samuraju
+garden.turtle.Jellybean	Vodite računa o artiklima koji se mogu obnoviti
+ga.rpmtw.rpmlauncher	Bolji Minecraft pokretač koji podržava više platformi i mnoge funkcije koje možete istražiti!
+gg.guilded.Guilded	Klijent za poruke, glas i video
+gg.minion.Minion	AddOn upravitelj za The Elder Scrolls Online i World of Warcraft
+gg.tesseract.Tesseract	Pucačina iz prvog lica s kooperativnim uređivanjem karte u igri
+global.worldcoin.worldcoin-core	Odvojeni granicama, ujedinjeni tehnologijom
+hu.irl.cameractrls	Kontrole kamere za Linux
+hu.kramo.Cartridges	Pokreni sve svoje igre
+id.sideka.App	Platforma upravljanja selom
+il.co.ravkavonline.RavKavOnline	Učitajte svoju Rav-Kav karticu kod kuće i putujte udobno
+im.bernard.Funkcio	Crtanje funkcija iz točaka
+im.bernard.Nostalgia	Postavite povijesne GNOME pozadine
+im.dino.Dino	Moderni XMPP klijent za chat
+im.fluffychat.Fluffychat	Razgovarajte sa svojim prijateljima
+im.gitter.Gitter	Komunikacijski proizvod za zajednice i timove na GitHubu.
+im.kaidan.kaidan	Jednostavna i moderna aplikacija za chat za svaki uređaj
+im.pidgin.Pidgin	Klijent za razmjenu trenutnih poruka
+im.riot.Riot	Stvarajte, dijelite, komunicirajte, razgovarajte i pozivajte na siguran način i premostite druge aplikacije
+im.srain.Srain	Moderni IRC klijent napisan u GTK
+in.bharatkalluri.shortcircuit	Podloga za razvojne programere
+in.bharatkalluri.splash	Postavite pozadinu radne površine visoke rezolucije iz Unsplasha!
+in.cinny.Cinny	Još jedan Matrix klijent s jednostavnim, elegantnim i sigurnim sučeljem.
+info.beyondallreason.bar	RTS inspiriran Total Annihilationom koji ste čekali
+info.bibletime.BibleTime	Program proučavanja Biblije
+info.cemu.Cemu	Nintendo Wii U Emulator
+info.colobot.Colobot	Kolonizirajte botovima
+info.febvre.Komikku	Čitajte svoju omiljenu mangu
+info.mumble.Mumble	Šifrirani VoIP klijent niske latencije
+info.olasagasti.revelation	Upravitelj lozinki
+info.portfolio_performance.PortfolioPerformance	Pratite uspješnost investicijskog portfelja
+info.puredata.Pd	Grafičko programsko okruženje u stvarnom vremenu za interaktivnu računalnu glazbu uživo
+info.puredata.Pd-extended	Vizualni programski jezik otvorenog koda za multimediju
+info.rttr.Return-To-The-Roots	Projekt obožavatelja koji ponovno implementira igru The Settlers 2
+info.smplayer.SMPlayer	Sjajan media player
+info.urbanterror.UrbanTerror	Taktička pucačina iz prvog lica s elementima akcijskog filma
+ink.scribl.Scribl	Stvorite jednostavne videozapise s uputama
+in.p1x.TanksOfFreedom	Indie naizmjenična strategija u izometrijskoj pikselnoj umjetnosti
+in.srev.guiscrcpy	Android softver za zrcaljenje zaslona
+io.appflowy.AppFlowy	Alternativa ideji otvorenog koda
+io.atom.Atom	Uređivač teksta za 21. stoljeće koji se može hakirati
+io.bassi.Amberol	Slušajte glazbu i ništa više od toga
+io.beekeeperstudio.Studio	SQL uređivač i upravitelj baze podataka iz vaših snova
+io.blockloader.BlockLoader	Najbolji Minecraft mod manager
+io.botfather.Botfather	Univerzalni okvir za automatizaciju
+io.conduktor.Conduktor	Prekrasan i potpuno opremljen stolni klijent za Apache Kafku
+io.crow_translate.CrowTranslate	Jednostavan i lagan prevoditelj
+io.dbeaver.DBeaverCommunity	Univerzalni upravitelj baze podataka
+io.defn.Franz	Stolni klijent za Apache Kafku
+io.edcd.EDMarketConnector	Ažurira EDDN podacima iz vaše igre
+io.emeric.toolblex	Skener i analizator Bluetooth Low Energy uređaja
+io.emeric.watchflower	Aplikacija za praćenje biljaka za Bluetooth Low Energy senzore i termometre kao što su Xiaomi 'Flower Care' ili Parrot 'Flower Power'
+io.enpass.Enpass	Enpass je upravitelj zaporki za sigurno pohranjivanje i upravljanje vašim zaporkama i drugim vjerodajnicama.
+io.exodus.Exodus	Sveobuhvatna aplikacija za osiguranje, upravljanje i razmjenu blockchain imovine
+io.frama.tractor.carburetor	Aplikacija Onion Routing
+io.freetubeapp.FreeTube	YouTube aplikacija otvorenog koda za privatnost
+io.gdevelop.ide	Brzo i jednostavno pravljenje igara
+io.gdevs.GDLauncher	GDLauncher je jednostavan, ali snažan Minecraft prilagođeni pokretač s jakim fokusom na korisničko iskustvo.
+io.github._0xzer0x.qurancompanion	Višeplatformski desktop offline čitač i player Kur'ana
+io.github.aandrew_me.ytdn	Preuzmite video i audio zapise sa stotina stranica
+io.github.achetagames.epic_asset_manager	Upravljajte svojom Epic imovinom
+io.github.Adda0.Stardrop	Neslužbeni fork Stardropa s prilagođenim promjenama
+io.github.adrienverge.PhotoCollage	Grafički alat za izradu foto kolaž plakata
+io.github.aerocyber.sitemarker	Upravitelj oznaka otvorenog koda
+io.github.aggalex.Wineglass	GUI za Wine
+io.github.alainm23.planify	Zaboravite na zaboravljanje stvari
+io.github.alexkdeveloper.gomoku	Igra Gomoku
+io.github.alexkdeveloper.radio	Jednostavan radio sa postajama s web stranice radio-browser.info
+io.github.alexkdeveloper.zodiac	Jednostavan program za crtanje horoskopa
+io.github.am2r_community_developers.AM2RLauncher	Sučelje za rad s AM2R ažuriranjima i modifikacijama
+io.github.am2r_community_developers.Atomic	Lanac alata za pakiranje modova za AM2R modove.
+io.github.amit9838.weather	Prekrasna i lagana aplikacija za vremensku prognozu
+io.github.andreibachim.shortcut	Napravite prečace za aplikacije
+io.github.Andrettin.Wyrmsun	Strateška igra temeljena na povijesti, mitologiji i fikciji
+io.github.anirbandey1.ChatbotClient	Elektronski omotač za ChatGPT web mjesto
+io.github.antimicrox.antimicrox	Grafički program koji se koristi za mapiranje gumba gamepada na tipkovnicu, miš, skripte i makronaredbe
+io.github.appoutlet.GameOutlet	Pronađite najbolje cijene igara za računala
+io.github.Archeb.opentrace	Višeplatformski GUI omotač za NextTrace
+io.github.Arisotura.CoinKiller	Uređivač razina za NSMB2
+io.github.arunsivaramanneo.GPUViewer	Sučelje za glxinfo, vulkaninfo, clinfo i es2_info
+io.github.Bavarder.Bavarder	Čavrljanje s umjetnom inteligencijom
+io.github.benini.scid	Aplikacija šahovske baze podataka
+io.github.betaflight.BetaflightConfigurator	Međuplatformski konfiguracijski alat za sustav kontrole leta Betaflight
+io.github.bkueng.qMasterPassword	Upravitelj glavnih lozinki bez stanja
+io.github.Bollos00.LibreMines	Besplatna/Libre i softverska igra otvorenog koda bazirana na Qt-u Minesweeper dostupna za GNU/Linux, FreeBSD i Windows sustave.
+io.github.bothlab.pomidaq	Pregledajte i snimajte videozapise s miniskopa UCLA
+io.github.bothlab.syntalos	Sinkronizirano prikupljanje podataka iz različitih izvora i fleksibilna kontrola eksperimenta
+io.github.brainstormtrooper.facteur	Šalje e-poštu temeljenu na predlošku popisu primatelja
+io.github.brunoherbelin.Vimix	Video mikser uživo
+io.github.btpf.alexandria	Minimalistički čitač e-knjiga
+io.github.bytezz.IPLookup	Pronađite informacije o IP adresi
+io.github.carterbox.Electricity_Clock	Praćenje vremena korištenja za cijene električne energije
+io.github.cboxdoerfer.FSearch	Aplikacija za grafičko pretraživanje datoteka
+io.github.celluloid_player.Celluloid	GTK+ sučelje za mpv
+io.github.cges30901.hmtimer	Grafički mjerač vremena za isključivanje
+io.github.chris2511.xca	X Upravljanje certifikatima i ključevima
+io.github.ciromattia.kcc	Aplikacija koja vam omogućuje pretvaranje vaših PNG, JPG, GIF, CBZ, CBR i CB7 datoteka u e-knjige formata EPUB ili MOBI
+io.github.cleomenezesjr.Escambo	Testirajte i razvijajte API-je
+io.github.cloose.CuteMarkEd	Qt Markdown Editor
+io.github.cmus.cmus	Konzolni glazbeni player
+io.github.Cockatrice.cockatrice	Virtualni stol za kartaške igre za više igrača
+io.github.congard.qnvsm	Nvidia System Monitor Qt
+io.github.ctlcltd.e2se	Urednik popisa satelitskih kanala: Enigma2, Neutrino, dreambox
+io.github.cudatext.CudaText-Qt5	Uređivač teksta otvorenog koda i više platformi
+io.github.cxong.cdogs-sdl	Klasična trči i pucaj igra iznad glave
+io.github.dagargo.Elektroid	Upravitelj uzorka i MIDI uređaja
+io.github.daviddesimone.opencloudsaves	Alat koji se koristi za sinkronizaciju spremljenih igara na vašim uređajima
+io.github.davidoc26.wallpaper_selector	Preuzima i primjenjuje pozadine
+io.github.dbchoco.muezzin	Primjena vremena islamske molitve
+io.github.dbchoco.Salawat	Primjena vremena islamske molitve
+io.github.ddanilov.soundscape	Aplikacija za zvučnu sliku za radnu površinu
+io.github.dfandrich.gpscorrelate	GPS Correlate slikama pridaje EXIF GPS oznake lokacije
+io.github.dgsasha.Remembrance	Postavite podsjetnike za sebe
+io.github.dida_code.OpstaKultura	Igra, kviz znanja
+io.github.diegoivan.GaticTacToe	Igrajte Tic-tac-toe sa svojim prijateljima
+io.github.diegoivanme.flowtime	Provedite svoje vrijeme mudro
+io.github.diegoivan.pdf_metadata_editor	Uredi metapodatke PDF dokumenata
+io.github.diegopvlk.Dosage	Pratite svoje tretmane
+io.github.dimtpap.coppwr	GUI niske razine kontrole za PipeWire
+io.github.divverent.aaaaxy	Nelinearna platformska zagonetka koja se odvija u nemogućim prostorima
+io.github.dlippok.photometric-viewer	Pogledajte fotometrijske datoteke
+io.github.dman95.SASM	Jednostavan međuplatformski IDE za NASM, MASM, GAS i FASM asemblerske jezike
+io.github.dosbox-staging	DOS/x86 emulator fokusiran na jednostavnost korištenja
+io.github.Dretch.MonomerFlatpakExample	Monomer Flatpak Primjer primjene.
+io.github.dtsudo.ChessCompStompWithHacks	Porazite šahovsku umjetnu inteligenciju pomoću hakova!
+io.github.dtsudo.TuxPlanetSpeedrunAnyPercent	Protrčite svoj put kroz 10 razina pomoću stanja spremanja!
+io.github.dubstar_04.design	2D CAD za GNOME
+io.github.dummerle.rare	GUI za Legendary, alternativu Epic Games otvorenog koda
+io.github.dvlv.boxbuddyrs	Grafički upravitelj distribucije
+io.github.dweymouth.supersonic	Lagani višeplatformski stolni klijent za Subsonic i Jellyfin glazbene poslužitelje
+io.github.dyegoaurelio.simple-wireplumber-gui	Jednostavan GTK4 GUI za PipeWire
+io.github.ec_.Quake3e.OpenArena	Besplatna pucačina iz prvog lica otvorenog koda
+io.github.eminfedar.vaktisalah-gtk-rs	GTK4 verzija Vakt-i Salah (vremena molitve)
+io.github.endless_sky.endless_sky	Igra istraživanja svemira i borbe
+io.github.erkin.ponysay	cowsay reimplementation za ponije
+io.github.everestapi.Olympus	Celeste Mod Manager za više platformi
+io.github.ezQuake	moderan QuakeWorld klijent usmjeren na natjecateljsku online igru
+io.github.f3d_app.f3d	Brz i minimalistički 3D preglednik
+io.github.fabiangreffrath.Doom	Doom izvorni priključak poboljšane razlučivosti koji uklanja ograničenja
+io.github.fabrialberio.pinapp	Stvorite i uredite prečace aplikacija
+io.github.FailurePoint.RandomNumberFive	Generator slučajnih brojeva za Linux desktop!
+io.github.fastrizwaan.WineZGUI	Wine GUI koristeći Zenity
+io.github.ferraridamiano.ConverterNOW	Jednostavan, neposredan i brz pretvarač jedinica!
+io.github.Figma_Linux.figma_linux	Alat za kolaborativni dizajn temeljen na webu
+io.github.fin_ger.OvGUCanteen	Pregledajte izbornik OvGU Mensa u maloj aplikaciji GTK
+io.github.fizzyizzy05.binary	Pretvarač baze brojeva
+io.github.fkinoshita.Telegraph	Pišite i dekodirajte Morse
+io.github.flattool.Warehouse	Upravljajte svim stvarima s Flatpakom
+io.github.Fndroid.clash_for_windows	Clashov grafički klijent, temeljen na Electronu.
+io.github.Foldex.AdwSteamGtk	Dajte Steamu Adwaita tretman
+io.github.Foldex.r2mod	Risk of Rain 2 Mod Manager
+io.github.foldynl.QLog	Dnevnik radioamatera
+io.github.foxxmd.multiscrobbler	Scrobbles glazbu iz mnogih izvora za mnoge klijente
+io.github.fragglet.sdl_sopwith	Klasični dvokrilac shoot 'em-up
+io.github.fralonra.PpdEditor	2D uređivač papirnate lutke
+io.github.fralonra.WgShadertoy	WGSL igralište inspirirano Shadertoyem
+io.github.freedoom.FreeDM	Igra Deathmatch temeljena na Doom engineu
+io.github.freedoom.Phase1	Pucačina iz prvog lica temeljena na Doom engineu
+io.github.freedoom.Phase2	Pucačina iz prvog lica temeljena na Doom engineu
+io.github.fsobolev.TimeSwitch	Postavite zadatak koji će se pokrenuti nakon odbrojavanja
+io.github.gamingdoom.Datcord	Discord klijent otvorenog koda koji koristi Firefox
+io.github.garglk.Gargoyle	Interaktivni igrač fikcije
+io.github.gen2brain.cbconvert	Pretvarač stripova
+io.github.gerryferdinandus.bittorrent-tracker-editor	Dodajte ili uklonite tracker iz torrent datoteka.
+io.github.giantpinkrobots.bootqt	Stvorite pogone za podizanje sustava
+io.github.giantpinkrobots.flatsweep	Flatpak sredstvo za čišćenje ostataka
+io.github.giantpinkrobots.varia	Preuzmite datoteke brzo i učinkovito
+io.github.gillesdegottex.FMIT	Free Musical Instrument Tuner (FMIT), alat za ugađanje glazbenih instrumenata
+io.github.glitterware.Passy	Izvanmrežni upravitelj lozinki sa sinkronizacijom na više platformi
+io.github.GoldenGnu.jEveAssets	jEveAssets je upravitelj imovine izvan igre za Eve-Online
+io.github.gopher64.gopher64	Emulator Nintendo 64
+io.github.gssh_linux.gssh	Python aplikacija koja vam omogućuje povezivanje sa ssh poslužiteljima iz (stvarno) jednostavnog GUI-ja
+io.github.gtkwave.GTKWave	Elektronički preglednik valnog oblika za pregled rezultata simulacije
+io.github.guillaumechereau.Goxel	Open Source 3D voxel editor
+io.github.hakandundar34coding.mini-system-monitor	Praćenje CPU-a, RAM-a, diska, korištenja mreže
+io.github.hakandundar34coding.system-monitoring-center	Monitor sustava s više značajki
+io.github.hakuneko.HakuNeko	Višeplatformski program za preuzimanje manga i animea s raznih web stranica
+io.github.helpseeker.Gyre	Program za preuzimanje videozapisa s Couba
+io.github.hermitdemschoenenleben.linien	Brava za spektroskopiju
+io.github.Hexchat	IRC klijent
+io.github.hmlendea.geforcenow-electron	Neslužbena aplikacija GeForce NOW napisana u Electronu
+io.github.hrkfdn.ncspot	Višeplatformski ncurses Spotify klijent
+io.github.huderlem.porymap	Uređivač karata za projekte dekompilacije Pokémon generacije 3
+io.github.hurricangame.hurrican	Besplatna igra skok i pucanje koju je kreirao Poke53280
+io.github.hvdwofl.jExifToolGUI	Jednostavno sučelje za ExifTool
+io.github.hydrusnetwork.hydrus	Organizirajte medije na radnoj površini
+io.github.hypengw.Qcm	Qt klijent za netease glazbu u oblaku
+io.github.Icalingua.Icalingua	Linux klijent za QQ i više
+io.github.idevecore.CurrencyConverter	Jednostavan pretvarač valuta koji koristi podatke temeljene na Googleu
+io.github.igaldino.CoyoteTM	Upravljajte zadacima poput kojota
+io.github.igorlogius.scr2ppm	Najmanji X11 snimak zaslona tzv. uslužni program za snimanje zaslona
+io.github.ihhub.Fheroes2	fheroes2 je rekreacija motora igre Heroes of Might and Magic II
+io.github.ilius.pyglossary	Alat za pretvaranje datoteka rječnika poznatih kao glosari.
+io.github.ImEditor	Jednostavan i svestran program za obradu slika
+io.github.iSlammedMyKindle.godotGem	Klijent kontrolera za emulaciju kontrolera xbox360 za Windows
+io.github.ja2_stracciatella.JA2-Stracciatella	Poboljšano, višeplatformsko, stabilno vrijeme izvođenja Jagged Alliance 2
+io.github.jacalz.rymdport	Brzi, šifrirani prijenosi datoteka
+io.github.JaGoLi.ytdl_gui	Grafičko sučelje za više platformi jednostavno za korištenje za youtube-dl.
+io.github.JakubMelka.Pdf4qt	PDF uređivač otvorenog koda
+io.github.janbar.noson	Kontroler za SONOS
+io.github.java_decompiler.jd-gui	Samostalni grafički uslužni program koji prikazuje Java izvore iz CLASS datoteka
+io.github.jean28518.Linux-Assistant	Dnevni pomoćnik za Linux s moćnim integriranim pretraživanjem, rutinama i provjerama
+io.github.jeffshee.Hidamari	Video pozadina za Linux
+io.github.jhaygood86.mauborgne	Generator 2FA OTP koda
+io.github.jliljebl.Flowblade	Video uređivač - brz, precizan, stabilan
+io.github.jonmagon.kdiskmark	Disk benchmark alat
+io.github.jorchube.monitorets	Uvijek na prvi pogled imate korištenje resursa sustava
+io.github.jordanl2.ModularCalculator	Snažan modularni kalkulator s mogućnošću skriptiranja namijenjen znanstvenim, inženjerskim ili računalnim poslovima.
+io.github.jotd666.gods-deluxe	Remake platformske igre
+io.github.jtdx_project.JTDX	jtdx (račvasti WSJT-X za amatersku radio komunikaciju)
+io.github.julian_hochhaus.LG4X_V2	Python paket za analizu prilagodbe XPS krivulje
+io.github.kaii_lb.hgui	Aplikacija napravljena za jednostavnu i izvanmrežnu konverziju između hidžri i gregorijanskih datuma (i obrnuto)!
+io.github.kalaksi.Lightkeeper	Samostalan, prilagodljiv alat za upravljanje poslužiteljem
+io.github.kaschpal.timetable	Kalendar/planer za nastavnike i možda studente
+io.github.kevinsmia1939.PySimpleCV	Nacrtajte ciklički voltamogram i ciklus baterije
+io.github.KikoPlayProject.KikoPlay	NE SAMO Danmu Player s punim značajkama
+io.github.koromelodev.mindmate	Neslužbena aplikacija za ChatGPT
+io.github.kotatogram	Kotatogram Desktop messenger
+io.github.ktgw0316.LightZone	RAW procesor slike fotoaparata
+io.github.kukuruzka165.materialgram	Neslužbena aplikacija za razmjenu poruka Telegram Desktop
+io.github.labsquare.CutePeaks	samostalni Sangerov preglednik tragova
+io.github.lainsce.Colorway	Generiraj parove boja
+io.github.lainsce.Countdown	Pratite događaje dok se ne dogode ili nakon što se dogode
+io.github.lainsce.DotMatrix	Kreativno igralište sa crtama i krivuljama
+io.github.lainsce.Emulsion	Opskrbi se bojama
+io.github.lainsce.Khronos	Zabilježi vrijeme potrebno za obavljanje zadataka
+io.github.lainsce.Notejot	Zapiši svoje ideje
+io.github.lainsce.Quilter	Usredotočite se na svoje pisanje
+io.github.lemmygtk.lemoa	Gtk klijent za Lemmyja
+io.github.leolost2605.gradebook	Pratite svoje ocjene
+io.github.leonardschardijn.Chirurgien	Razumjeti i manipulirati binarnim formatima datoteka
+io.github.lethal_guitar.RigelEngine	Moderna re-implementacija klasične DOS igre Duke Nukem II
+io.github.letslearn_app.letslearn	Opensource aplikacija za bilješke urednog izgleda
+io.github.libvibrant.vibrantLinux	Uslužni program sustava za podešavanje zasićenosti boja X11 zaslona
+io.github.limads.Queries	Radna površina za interakciju s relacijskim bazama podataka.
+io.github.listen1.Listen1	Jedan za svu besplatnu glazbu u Kini
+io.github.loot.loot	Uslužni program za modificiranje za Starfield i neke igre Elder Scrolls i Fallout
+io.github.lruzicka.Needly	openQA uređivač igle napisan u Pythonu
+io.github.ltiber.Pwall	pregledajte svoje fotografije/video zapise
+io.github.lunarequest.NightPDF	Tamni način rada PDF čitač
+io.github.lxndr.gswatcher	Jednostavan monitor poslužitelja igara i administrativni alat.
+io.github.maddecoder.Classic-RBDOOM-3-BFG	Doom BFA je Doom 3 BFG GPL izvorni port
+io.github.magnush.mhWaveEdit	mhWaveEdit je grafički program za uređivanje zvučnih datoteka
+io.github.mahmoudbahaa.outlook_for_linux	Neslužbeni Microsoft Outlook klijent za Linux koji koristi Electron
+io.github.mak448a.QTCord	Discord klijent
+io.github.MakovWait.Godots	Godot upravitelj verzija motora igre
+io.github.mandruis7.xbox-cloud-gaming-electron	Xbox Cloud Electron klijent otvorenog koda
+io.github.manisandro.gImageReader	Grafičko (gtk) sučelje za tesseract-ocr
+io.github.markummitchell.Engauge_Digitizer	interaktivno pretvoriti bitmap grafikon ili kartu u brojeve
+io.github.martinrotter.rssguard	Jednostavan, ali moćan čitač vijesti
+io.github.martinrotter.rssguardlite	Jednostavan, ali moćan čitač feedova vijesti (bez ugrađenog web preglednika)
+io.github.martinrotter.textosaurus	Jednostavan višeplatformski uređivač teksta temeljen na Qt i QScintilla
+io.github.maurycyliebner.enve	2D animacija
+io.github.mgerhardy.vengi.voxedit	voxel editor
+io.github.mideb.digitales_register	Inoffizieller Client für das Digitale Register
+io.github.mightycreak.Diffuse	Grafički alat za spajanje i uspoređivanje tekstualnih datoteka
+io.github.mihnea_radulescu.imagefanreloaded	Lagani preglednik slika temeljen na karticama, podržava višejezgrenu obradu
+io.github.mimbrero.WhatsAppDesktop	Neslužbeni WhatsApp Web Desktop klijent.
+io.github.mki1967.mki3dgame	Jednostavna OpenGL igra traženja tokena u 3D fazama
+io.github.mmarco94.tambourine	Jednostavan glazbeni player za vašu knjižnicu
+io.github.mmstick.FontFinder	Preglednik fontova
+io.github.mpobaschnig.Vaults	Čuvajte važne datoteke na sigurnom
+io.github.mrmyhuang.cbetar2	[中文] 一款電子佛典閱讀器，使用 CBETA APIs。[EN] Budistički čitač teksta koji koristi CBETA API-je.
+io.github.mrvladus.List	Upravljaj svojim zadacima
+io.github.muse_sequencer.Muse	Digitalna audio radna stanica
+io.github.myst6re.makoureactor	Urednik polja za Final Fantasy VII
+io.github.naikari.Naikari	2-D svemirska misteriozna igra slobodnog oblika
+io.github.najepaliya.kleaner	Čistač slikovnih metapodataka
+io.github.narunlifescience.AlphaPlot	AlphaPlot je besplatna aplikacija za analizu i vizualizaciju znanstvenih podataka
+io.github.nate_xyz.Chromatic	Fino ugodite svoje instrumente
+io.github.nate_xyz.Conjure	Magično transformirajte slike
+io.github.nate_xyz.Paleta	Generirajte palete boja s lakoćom
+io.github.nate_xyz.Resonance	Uskladite svoje iskustvo slušanja
+io.github.nearinfinitybrowser.nearinfinity	Infinity Engine preglednik resursa i uređivač
+io.github.neil_morrison44.pocket-sync	GUI za obavljanje stvari s Analogue Pocketom
+io.github.NhekoReborn.Nheko	Desktop klijent za Matrix protokol
+io.github.NickKarpowicz.LightwaveExplorer	Učinkovito rješenje jednostavno za nelinearnu interakciju svjetlosti i tvari
+io.github.nokse22.asciidraw	Crtajte koristeći ASCII znakove
+io.github.nokse22.inspector	Pogledajte informacije o vašem sustavu
+io.github.nokse22.minitext	Efemerna ploča za struganje
+io.github.nokse22.teleprompter	Prikažite pomični tekst na zaslonu
+io.github.nokse22.trivia-quiz	Odgovarajte na beskrajna pitanja
+io.github.nokse22.ultimate-tic-tac-toe	(Tic Tac Toe)²
+io.github.nostar.DroidStar	D-Star klijent za PC
+io.github.noxworld_dev.OpenNox	OpenNox je moderna implementacija Nox motora za igre
+io.github.nroduit.Weasis	Besplatni/besplatni/otvoreni medicinski DICOM preglednik
+io.github.nuttyartist.notes	Aplikacija za bilježenje. Zapiši svoje misli
+io.github.obiwankennedy.HotShots	Snažan i jednostavan softver za snimanje zaslona
+io.github.onionware_github.onionmedia	Besplatan alat za preuzimanje i pretvaranje medija - više platforma
+io.github.openhv.OpenHV	Otvoreni izvorni kod Pixelart Sci-Fi strateška igra u stvarnom vremenu iz 90-ih
+io.github.OpenToonz	2D animacija
+io.github.orontee.Argos	Lagan front-end za Mopidy glazbeni poslužitelj
+io.github.paledega.alpine-rootfs	Alpine linux podsustav
+io.github.parnassius.SysDVR-Qt	Stream Prebacite igre na svoje računalo putem USB-a ili mreže
+io.github.pastthepixels.InfiniteShooter	Jednostavna pucačina napravljena s Godot motorom.
+io.github.paulwedeck.settlers-remake	Remake The Settlers III za Windows, Linux, Mac i Android
+io.github.pd_l2ork.Pd_L2Ork	Vizualni programski jezik otvorenog koda za multimediju, temeljen na Pure Data
+io.github.peazip.PeaZip	Besplatni uslužni program za arhiviranje datoteka, otvaranje, izdvajanje RAR TAR ZIP arhiva
+io.github.petitlapin.Li-ri	Igra za djecu, voziti motor igračku na drvo
+io.github.phastmike.tags	Dnevnici u boji na temelju oznaka
+io.github.philipk.boilr	Dodajte igre koje nisu Steam u svoju Steam knjižnicu
+io.github.Pithos	Pandora radio klijent
+io.github.polypixeldev.Polypass	Jednostavan, siguran i lak za korištenje upravitelj lozinki
+io.github.pragha_music_player.pragha	Upravljajte i slušajte svoju glazbu
+io.github.prateekmedia.appimagepool	Jednostavan, moderan AppImageHub klijent.
+io.github.prateekmedia.pstube	Youtube klijent napravljen pomoću fluttera
+io.github.pr_starfighter.starfighter	Igra pucanja u svemir.
+io.github.punesemu.puNES	Emulator sustava Nintendo Entertainment System
+io.github.purplehorrorrus.Meridius	Glazbeni player za vk.com
+io.github.pwr_solaar.solaar	Linux upravitelj za Logitech tipkovnice, miševe i trackpadove
+io.github.pyfa_org.Pyfa	Pomoćnik za podešavanje Pythona za EVE: Online
+io.github.Qalculate	Snažan i jednostavan kalkulator
+io.github.Qalculate.qalculate-qt	Snažan i jednostavan kalkulator
+io.github.qier222.YesPlayMusic	Netease CloudMusic Player treće strane visokog izgleda
+io.github.qnapi	Softver za preuzimanje i automatsko uparivanje titlova s filmovima
+io.github.qtox.qTox	Snažni Tox klijent za chat koji slijedi Tox smjernice dizajna.
+io.github.quodlibet.ExFalso	Uredite oznake u svojim audio datotekama
+io.github.quodlibet.QuodLibet	Slušajte, pregledavajte ili uređujte svoju audio zbirku
+io.github.qwersyk.Newelle	Chat bot koji kontrolira vaše računalo
+io.github.rafaelfassi.QLogExplorer	Brzi log explorer s naprednim alatima
+io.github.randovania.Randovania	Platforma za nasumični odabir za mnoštvo igara
+io.github.Rangi42.polished-map	Uredite pokecrystal karte i skupove pločica
+io.github.Rangi42.polished-map-plusplus	Uredite pokecrystal karte i skupove pločica
+io.github.Rangi42.tilemap-studio	Uređivač tilemapa za Game Boy, Color, Advance, DS i SNES projekte
+io.github.realmazharhussain.GdmSettings	Prilagodite svoj zaslon za prijavu
+io.github.retgal.Dayon	Pomoć na daljinu postala je lakša!
+io.github.retux_game.retux	Akcijski platformer s maskotom Linuxa, Tuxom, u glavnoj ulozi
+io.github.rinigus.OSMScoutServer	Poslužitelj karata koji nudi pločice, geokoder i usmjerivač
+io.github.rinigus.PureMaps	Karte i navigacija
+io.github.ripose_jp.Memento	Videoplayer baziran na mpv-u za učenje japanskog jezika
+io.github.Rirusha.Cassette	Neslužbeni Yandex.Music klijent
+io.github.RobertBeckebans.RBDoom3BFG-GL	Napor modernizacije DOOM-3-BFG
+io.github.rocket.editor	Urednik rakete
+io.github.RodZill4.Material-Maker	Proceduralno generiranje teksture i alat za slikanje mreže
+io.github.sameboy.SameBoy	Game Boy i Game Boy Color emulator
+io.github.santiagocezar.maniatic-launcher	Pokretač za dekompilaciju Retro Enginea (v5)
+io.github.seadve.Breathing	Opusti se i meditiraj
+io.github.seadve.Kooha	Snimi ekran na elegantan način
+io.github.seadve.Mousai	Prepoznaj pjesme u trenu
+io.github.searchandrescue2.sar2	Simulator spasilačkog helikoptera
+io.github.Sebicodes99.Prt	Python socket aplikacija koja dopušta prijatelju da izvrši naredbu na vašem sustavu bez otvaranja portova ili korištenja ssh poslužitelja, uz jednostavno GUI
+io.github.sharkwouter.Minigalaxy	Jednostavan GOG klijent za Linux
+io.github.sharkwouter.oceanpop	Opuštajuća zagonetka spajanja 3 s dodatkom
+io.github.shiftey.Desktop	Jednostavna suradnja s vaše radne površine
+io.github.shiiion.primehack	Dolphin Emu fork za razne Metroid Prime modifikacije
+io.github.sigmasd.IRust	Repl. rđe
+io.github.sigmasd.stimulator	Održava radnu površinu budnom
+io.github.signus_game.signus	Strateška igra na poteze
+io.github.sil_car.SqueezeVid	Normalizirajte videozapise na minimalnu kvalitetu kompatibilnu s projekcijom.
+io.github.simple64.simple64	Emulator Nintendo 64
+io.github.sithlord48.blackchocobo	Uređivač spremanja za Final Fantasy VII
+io.github.slgobinath.SafeEyes	Besplatan alat otvorenog koda za korisnike Linuxa za smanjenje i sprječavanje ponavljajućeg naprezanja (RSI).
+io.github.Snaggly.PS2_Pnacher	Primjena Pnachesa izravno na PS2 ISO.
+io.github.snesrev.Zelda3	Zelda3 je obrnuti inženjerski klon Zelde - Veza s prošlošću
+io.github.Soundux	Zvučna ploča za više platformi
+io.github.spacingbat3.webcord	Web-based Discord i Fosscord klijent napravljen s Electronom
+io.github.srb2.rphys	Mod za reviziju igranja za Sonic Robo Blast 2
+io.github.stella_emu.Stella	Višeplatformski Atari 2600 VCS emulator
+io.github.streetpea.Chiaki4deck	Besplatni klijent otvorenog koda za PlayStation Remote Play modificiran za Steam Deck
+io.github.Sunderland93.sway-input-config	Konfigurator ulaznog uređaja za Sway
+io.github.swanux.hbud	Jednostavan audio/video player i aplikacija za karaoke napisana u Pythonu i GTK4
+io.github.tcobbs.LDView	LDraw preglednik modela
+io.github.tdesktop_x64.TDesktop	Neslužbena desktop verzija aplikacije Telegram za razmjenu poruka
+io.github.technic.e2designer	Skin editor za enigma2 napisan s Qt5
+io.github.tfuxu.Halftone	Dajte svojim slikama stil poput pikselne umjetnosti
+io.github.thaunknown.miru	Miru - Bittorrent streaming softver za mačke
+io.github.TheThirdOne.rars	RISC-V Asembler i Runtime Simulator
+io.github.thetumultuousunicornofdarkness.cpu-x	Prikuplja podatke o procesoru, matičnoj ploči i još mnogo toga
+io.github.TheWisker.Cavasik	Audio vizualizator temeljen na CAVA-i
+io.github.thiefmd.themegenerator	Generirajte stilove sa stilom.
+io.github.tlcfem.suanPan	🧮 Okvir otvorenog koda, paralelna i heterogena analiza konačnih elemenata
+io.github.tntwise.REAL-Video-Enhancer	Besplatni alat za poboljšanje videozapisa otvorenog koda
+io.github.torrent_file_editor.Torrent-file-editor	Uređujte i stvarajte .torrent datoteke
+io.github.trackballs.Trackballs	Vodite mramornu kuglu kroz labirint
+io.github.tralph3.Steam_Metadata_Editor	GUI jednostavan za korištenje koji uređuje metapodatke vaših Steam aplikacija
+io.github.TransmissionRemoteGtk	Udaljeno upravljajte Transmission BitTorrent klijentom
+io.github.trevorsandy.LPub3D	LPub3D - uređivač uputa za izgradnju LDraw
+io.github.trigg.discover_overlay	Grafički sloj za glasovni chat na Discordu.
+io.github.troyeguo.koodo-reader	Višeplatformski čitač e-knjiga
+io.github.trytonvanmeer.DungeonJournal	Upravitelj znakova 5e
+io.github.TTimo.GtkRadiant	Uređivač razina za igre temeljene na ID Techu, uključujući seriju Quake
+io.github.twanvl.MagicSetEditor2	Program koji se koristi za izradu prilagođenih kartica
+io.github.unicornyrainbow.secrets	Jednostavno generirajte lozinke na temelju svojih potreba
+io.github.unknownskl.greenlight	Greenlight je klijent otvorenog koda za xCloud i Xbox kućni streaming
+io.github.unrud.RecentFilter	Isključite datoteke i mape iz nedavno korištenih datoteka
+io.github.vemonet.EmojiMart	Moderan skočni alat za odabir emotikona za stolno računalo, temeljen na web komponenti Emoji Mart.
+io.github.veusz.Veusz	Paket za znanstveno crtanje
+io.github.vikdevelop.SaveDesktop	Spremite trenutnu konfiguraciju vašeg desktop okruženja
+io.github.vinser.burnfix	Pokušajte popraviti zadržavanje slike na zaslonu i urezanu sliku, potražite nedostatke na zaslonu
+io.github.vinser.pixyne	Brzo pregledajte mape s fotografijama, sigurno izbrišite loše i slične snimke, popravite datume snimanja
+io.github.voxelcubes.deepqt	Iskoristite snagu DeepL API-ja s ovim prijateljskim korisničkim sučeljem
+io.github.voxelcubes.panelcleaner	Alat pokretan umjetnom inteligencijom za čišćenje manga ploča
+io.github.webcamoid.Webcamoid	Snimite fotografije i videozapise svojom web kamerom
+io.github.weclaw1.ScoreTracker	Aplikacija za praćenje rezultata igrača u kartaškim i društvenim igrama
+io.github.wereturtle.ghostwriter	Uređivač teksta za Markdown bez ometanja
+io.github.wh201906.serialtest	Alat za testiranje više platformi za serijski priključak, Bluetooth, TCP i UDP
+io.github.wojciech_graj.OrbVis	Vizualizator orbite satelita u stvarnom vremenu
+io.github.wxmaxima_developers.wxMaxima	Grafičko korisničko sučelje za Maxima, moćan računalni algebarski sustav
+io.github.xaos_project.XaoS	Brzi interaktivni fraktalni zoomer/morpher u stvarnom vremenu
+io.github.xiaoyifang.goldendict_ng	Napredni program za traženje rječnika
+io.github.xolatgames.marknpaul	Postanite čarobnjak!
+io.github.xverizex.nem_desktop	Razgovarajte s prijateljima.
+io.github.xverizex.RetroSpriteEditor	Pixel Editor za retro konzole
+io.github.xyproto.zsnes	Super Nintendo emulator
+io.github.yairm210.unciv	Strateška igra na poteze
+io.github.yamanqd.antware	FPS igra.
+io.github.Youda008.DoomRunner	Unaprijed orijentiran grafički pokretač ZDooma i derivata
+io.github.zaps166.QMPlay2	Video i audio player
+io.github.zhrexl.thisweekinmylife	Ovo je planer u stilu kabana, u koji korisnik može umetnuti kartice sa zadacima.
+io.github.zyedidia.micro	Moderan i intuitivan terminalski uređivač teksta
+io.gitlab.adhami3310.Converter	Pretvorite i manipulirajte slikama
+io.gitlab.adhami3310.Footage	Ugladite svoje videozapise
+io.gitlab.adhami3310.Impression	Stvorite pogone za podizanje sustava
+io.gitlab.azymohliad.WatchMate	Upravljajte svojim PineTimeom
+io.gitlab.ballz.Ballz	Platforma/slagalica u kojoj kontrolirate kotrljajuću lopticu
+io.gitlab.celleron56.libretile	opensource tile game engine stvarčica
+io.gitlab.coolreader_ng.crqt-ng	Višeplatformski čitač e-knjiga otvorenog koda
+io.gitlab.cyberphantom52.sudoku_solver	Jednostavan Sudoku Sovler
+io.gitlab.daikhan.stable	Reproducirajte videozapise/glazbu sa stilom
+io.gitlab.dev_nis.one-click-backup	Jednostavan program za sigurnosno kopiranje mapa na vanjsku lokaciju njihovim kopiranjem
+io.gitlab.floodlight.Presenter	Besplatan program otvorenog koda za prezentacije i tekstove pjesama
+io.gitlab.Goodvibes	Sviraj internetske radio stanice
+io.gitlab.gregorni.Calligraphy	Pretvorite svoj tekst u ASCII bannere
+io.gitlab.gregorni.Letterpress	Stvorite prekrasnu ASCII umjetnost
+io.gitlab.gwendalj.package-transporter	Prenesite svoje aplikacije između instalacija
+io.gitlab.idevecore.Pomodoro	Pomodoro je mjerač vremena usmjeren na produktivnost
+io.gitlab.jazztickets.choria	Napokon, MMORPG koji se vrti oko brušenja i obavljanja kućanskih poslova.
+io.gitlab.jazztickets.emptyclip	Empty Clip je akcijska RPG pucačina odozgo prema dolje.
+io.gitlab.jazztickets.irrlamb	3D igra fizike u kojoj upravljate plavom kuglom energije u pokušaju da dotaknete sve svjetleće kugle
+io.gitlab.jazztickets.openflap	Igra o skakutanju loptica kroz praznine beskrajnih cijevi
+io.gitlab.leesonwai.Sums	Izračunaj s postfiksnom notacijom
+io.gitlab.leesonwai.Tactics	Izgradite svoju nogometnu postavu
+io.gitlab.librewolf-community	LibreWolf web preglednik
+io.gitlab.news_flash.NewsFlash	Budite u toku sa svojim feedovima
+io.gitlab.o20.word	Open Source MS Word 2019 klon... za Linux
+io.gitlab.osslugaru.Lugaru	Igra borbe ninja zeca iz trećeg lica
+io.gitlab.persiangolf.voicegen	Jednostavno pretvorite tekst u govor
+io.gitlab.stone_kingdoms.StoneKingdoms	Remake obožavatelja Stronghold otvorenog koda
+io.gitlab.theevilskeleton.Upscaler	Poboljšajte i poboljšajte slike
+io.gitlab.Turtlico	Programski alat za učenje
+io.gitlab.zehkira.Monophony	Streaming glazbe s usluge YouTube Music
+io.howl.Editor	Lagani uređivač s minimalističkim sučeljem usmjerenim na tipkovnicu
+io.itch.azagaya.Laigter	Alat za generiranje normalnih, zrcalnih, okluzijskih i paralaksnih mapa za 2D teksture
+io.itch.doctorm64.skippybot	Skippy je u epskoj potrazi da otkrije svoju pravu sudbinu.
+io.itch.domestique_baston.domestique_baston	Igra borbe 1 protiv 1
+io.itch.drwhut.TabletopClub	Igrajte stolne igre u 3D sandboxu temeljenom na fizici
+io.itch.itch	Instalirajte, ažurirajte i igrajte nezavisne igre
+io.itch.keyikedalube_ndang.Type-Off	Kratka igra brzine tipkanja od 6 minuta
+io.itch.nordup.TheGates	Putujte u različite svjetove koje su stvorili programeri iz cijelog svijeta!
+io.jamulus.Jamulus	Jamulus. Internet Jam Session softver
+io.jor.bugdom	Spasite Bugdoma od Thoraxovih zlih vatrenih mrava
+io.jor.bugdom2	Pronađite Bully Bee i vratite svoju naprtnjaču!
+io.jor.mightymike	Snažna akcija spašavanja u poludjeloj trgovini igračaka!
+io.jor.nanosaur	Pošalji jaja dinosaura u budućnost prije nego što meteor udari u Zemlju!
+io.jor.nanosaur2	Letite pterodaktilom koji je nakrcan visokotehnološkim oružjem
+io.jor.ottomatic	Spasite Zemlju iz kandži Divovskog mozga s Planete X
+io.kapsa.drive	Zero Knowledge E2E šifrirana pohrana kompatibilna s bilo kojim S3 pružateljem
+io.kinvolk.Headlamp	Jednostavno za korištenje i proširivo web sučelje za Kubernetes
+io.kopia.KopiaUI	Sigurnosno rješenje
+io.liri.Calculator	Izvodite aritmetičke ili znanstvene izračune
+io.liri.Text	Uređivanje tekstualnih datoteka
+io.lmms.LMMS	Aplikacija za glazbenu produkciju
+io.mango3d.LycheeSlicer	Snažan i svestran rezač za 3D pisače sa smolom i filamentom
+io.mgba.mGBA	Nintendo Game Boy Advance Emulator
+io.missioncenter.MissionCenter	Pratite korištenje resursa sustava
+io.mpv.Mpv	Besplatan medijski player otvorenog koda i više platformi
+io.mrarm.mcpelauncher	Preuzmite i igrajte Minecraft Bedrock Edition na GNU/Linuxu
+io.naox.InnerBreeze	Aplikacija za meditaciju koja vodi i prati vašu praksu disanja Wim Hof
+io.neovim.nvim	Vim-fork usmjeren na proširivost i upotrebljivost
+io.openrct2.OpenRCT2	Video igra simulacije izgradnje i upravljanja koja simulira upravljanje zabavnim parkom
+io.osdn.simplesok	Jednostavna igra sokoban
+io.otsaloma.gaupol	Uređivač za tekstualne titlove
+io.otsaloma.nfoview	Preglednik za NFO datoteke
+io.photoflare.photoflare	Jednostavan, ali moćan uređivač slika za više platformi
+io.podman_desktop.PodmanDesktop	Upravljajte Podmanom i drugim spremnicima s jednog korisničkog sučelja i ladice
+io.poez.Poezio	Poezio je besplatni konzolni XMPP klijent
+io.posidon.Paper	Vodite bilješke u Markdownu
+io.qt.Designer	Dizajnirajte GUI za Qt aplikacije
+io.qt.Linguist	Dodajte prijevode Qt aplikacijama
+io.qt.qdbusviewer	Debug D-Bus aplikacija
+io.qt.QtCreator	Pruža višeplatformsko, potpuno integrirano razvojno okruženje (IDE) za programere aplikacija za stvaranje aplikacija za više platformi i uređaja
+io.qt.qtwebengine.BaseApp	Zajednička platforma za aplikacije koje koriste Qt WebEngine
+io.sourceforge.chart_geany.chart-geany	Chart Geany besplatno je softversko rješenje za više platformi za tehničku analizu tržišta, izradu grafikona i upravljanje portfeljem
+io.sourceforge.clonekeenplus	Motor koji se koristi za igranje serije igara Commander Keen i Cosmos the Cosmic Adventure
+io.sourceforge.pentobi	Računalni protivnik za društvenu igru Blokus
+io.sourceforge.pipewalker.PipeWalker	Puzzle igra veze
+io.sourceforge.Pixelitor	Pixelitor je uređivač slika otvorenog koda
+io.sourceforge.pysolfc.PySolFC	Kompilacija pasijansa
+io.sourceforge.qoobar.Qoobar	Qoobar je jednostavan uređivač oznaka za klasičnu glazbu
+io.sourceforge.trigger_rally.TriggerRally	Brza trkaća igra za jednog igrača
+io.sourceforge.YSoccer	Nogometna igra u retro stilu
+io.sourceforge.zaz	Puzzle igra u kojoj igrač mora posložiti loptice u trojke.
+io.stoplight.studio	Stoplight Studio. Dizajn API-ja bez napora.
+io.thp.numptyphysics	Fizička zagonetka temeljena na crtanju bojicama
+io.trustable.stpadocumentationtool	Alat za teoretsku analizu procesa sustava - koji olakšava STPA i automatizira dokumentaciju
+io.typora.Typora	Minimalna Markdown aplikacija za čitanje i pisanje
+io.unobserved.espansoGUI	GUI sučelje za espanso
+io.vikunja.Vikunja	Aplikacija s obavezama otvorenog koda
+io.wasabiwallet.WasabiWallet	Bitcoin novčanik otvorenog koda, bez skrbništva, fokusiran na privatnost za stolna računala, koji implementira CoinJoin bez povjerenja.
+io.wavebox.Wavebox	Sljedeća generacija web-stolne komunikacije
+io.webtorrent.WebTorrent	Aplikacija za strujanje torrenta
+ir.imansalmani.IPlan	Vaš plan za poboljšanje osobnog života i tijeka rada
+it.cuteworks.pacmanlogviewer	Pregledajte pacmanov dnevnik
+it.fabiodistasio.AntaresSQL	Moderan, brz i produktivni SQL klijent s fokusom na UX
+it.mijorus.collector	Povucite i ispustite na sljedeću razinu
+it.mijorus.gearlever	Upravljanje AppImages
+it.mijorus.smile	Birač emotikona
+it.mijorus.whisper	Slušajte svoj mikrofon
+jp.yvt.OpenSpades	Voxel pucačina otvorenog koda
+la.ogri.strongbox	Upravitelj dodataka za World of Warcraft
+life.bolls.bolls	Web aplikacija za čitanje Biblije s potpunim naglaskom samo na Božju Riječ. Sola scriptura
+lv.martinsz.millionaire	Odgovorite na sva pitanja i osvojite milijun dolara.
+md.obsidian.Obsidian	Baza znanja temeljena na markdownu
+me.acristoffers.Lachesis	Moirai nadzornik
+me.ahola.aphototoollibre	Uređivač fotografija za Linux
+me.broken_by.PdfMetadataEditor	Uredite PDF metapodatke
+media.emby.EmbyServer	Otvoreno medijsko rješenje
+media.emby.EmbyTheater	Otvoreno medijsko rješenje
+me.dusansimic.DynamicWallpaper	Kreator dinamičke pozadine za Gnome 42
+me.hergert.Schemes	Sheme stila dizajna za GtkSourceView
+me.hyliu.fluentreader	Moderni stolni RSS čitač
+me.iepure.devtoolbox	Razvojni alati na dohvat ruke
+me.iepure.Ticketbooth	Pratite svoje omiljene emisije
+me.kozec.syncthingtk	GUI i ikona područja obavijesti za Syncthing
+me.leucoso.Grock	Prikazuje geološke karte Ujedinjenog Kraljevstva.
+me.mitya57.ReText	Jednostavan uređivač teksta za Markdown i reStructuredText
+me.njean.shootingpactris	Coop retro igra s Tetrisom, Pacmanom i shmup igricom.
+me.orszulak.keyring	Jednostavno lijep ili prekrasno jednostavan OTP generator.
+me.ppvan.psequel	Pokrenite svoj SQL upit
+me.sanchezrodriguez.passes	Upravljajte svojim digitalnim propusnicama
+me.simakis.dropboxignore	Sve je zbog nestale datoteke .dropboxignore.
+me.timschneeberger.GalaxyBudsClient	Neslužbeni Galaxy Buds Manager za Windows i Linux
+me.timschneeberger.jdsp4linux	Procesor audio efekata otvorenog koda za Pipewire
+ml.mdwalters.EightBall	Lako donosite odluke
+ml.mdwalters.Lemonade	Pratite rasprave o Lemmyju
+ml.prevete.Daty	Besplatni uređivač Wikidata.
+mobi.snowball.Snowball	Nova igra brzinskog trčanja slična igri platformske petlje/buzz wire
+moe.clover.mm3d	Urednik 3D modela i animator za igre
+moe.karaokes.mugen	Voditelj i svirač karaoke sesije
+moe.tundra.Tundra	Automatski ažurirajte svoje popise animea
+mx.pwmc.Svgvi	SVG preglednik i uređivač koji koristi XML deklaracije
+net._86box._86Box	Emulator za klasične IBM PC klonove
+net.agalwood.Motrix	Upravitelj preuzimanja sa svim značajkama
+net.ankiweb.Anki	Snažne, inteligentne flash kartice
+net.bartkessels.getit	Pošaljite HTTP zahtjeve API krajnjim točkama
+net.baseart.Glide	Reproducirajte filmove i audio datoteke
+net.biniou.LeBiniou	Jednostavan, moćan alat za vizualizaciju glazbe / VJing
+net.blix.BlueMail	Aplikacija za e-poštu i kalendar BlueMail
+net.blockattack.game	Brza utakmica-3/blockfall igra
+net.blockbench.Blockbench	Blockbench - kutijasti uređivač 3D modela
+net.blockout.BlockOutII	Besplatna adaptacija originalne igre BlockOut
+net.blumia.pineapple-pictures	Preglednik slika
+net.brinkervii.grapejuice	Pokretač za Roblox Player i Roblox Studio
+net.cebix.basilisk	68k Macintosh emulator
+net.christianbeier.Gromit-MPX	Gromit-MPX je alat za izradu bilješki na ekranu
+net.christianbeier.MultiVNC	Višeplatformski VNC preglednik s omogućenim multicastom
+net.codeindustry.MasterPDFEditor	Pregledavajte, stvarajte, mijenjajte, potpisujte, skenirajte, OCR i ispisujte PDF dokumente
+net.corluma.Corluma	Kontrolirajte Philip's Hues, LIFX, Nanoleafs i Arduino.
+net.cozic.joplin_desktop	open source aplikacija za vođenje bilješki i zadataka
+net.crossfireatlas.crossfire	Roguelike višekorisnički RPG
+net.cubers.assault.AssaultCube	Brza arkadna pucačina iz prvog lica
+net.daase.journable	Jednostavan bullet dnevnik
+net.danigm.loop	Jednostavan stroj za audio petlju za GNOME
+net.danigm.timetrack	Vremenska staza za GNOME
+net.darkradiant.DarkRadiant	Uređivač 3D razina za The Dark Mod i Doom 3
+net.davidotek.pupgui2	Instalirajte alate za kompatibilnost temeljene na Wineu i Protonu
+net.dengine.Doomsday	Poboljšani izvorni port za Doom, Heretic i Hexen
+net.devolutions.RDM	Centralizirajte, upravljajte i osigurajte udaljene veze
+net.displaycal.DisplayCAL	Kalibracija i profiliranje zaslona s fokusom na točnost i svestranost
+net.drawpile.drawpile	Zajedničko crtanje
+net.epson.epsonscan2	Softver za Epson skenere i višenamjenske pisače
+net.fasterland.converseen	Skupni procesor slike
+net.filebot.FileBot	Vrhunski preimenovanje TV i filmova
+net.freerct.FreeRCT	Strateška igra za tematski park
+net.fsuae.FS-UAE	FS-UAE Amiga Emulator
+net.gaijin.WarThunder	War Thunder je najopsežnija besplatna višeplatformska MMO vojna igra.
+net.giuspen.cherrytree	Hijerarhijsko bilježenje
+net.goatattack.goatattack	Pixel Art pucačina za više igrača
+net.gradator.gtkatlantic	Igra poput Monopola
+net.granjow.slowmovideo	slowmoVideo je OpenSource program koji iz vaše snimke stvara usporene videozapise.
+net.gwyddion.Gwyddion	Program za SPM (scanning probe microscopy) vizualizaciju i analizu podataka
+net.hovancik.Stretchly	Aplikacija za podsjetnik na vrijeme pauze
+net.huitsi.ParallelOverhead	Beskrajna trkačka igra
+net.imaginaryinfinity.Squiid	Izvršite napredne algebarske i RPN izračune
+net.jami.Jami	Glasovna, video, chat i konferencijska platforma orijentirana na privatnost
+net.jammr.jammr	Svirajte s glazbenicima preko interneta
+net.jenyay.Outwiker	Osobni wiki i preglednik.
+net.kirgroup.confy	Preglednik rasporeda konferencija
+net.krafting.Playlifin	Sinkronizirajte YouTube popise za reprodukciju s Jellyfinom
+net.krafting.PlaylifinVoyager	Prijenos popisa pjesama na/iz Jellyfina
+net.krafting.PleasureDVR	DVR za web stranicu Chaturbate
+net.kubux.Muehle	Igrajte igru Nine Men's Morris.
+net.kuribo64.melonDS	Nintendo DS i DSi emulator
+net.kvirc.KVIrc	KVIrc je besplatni prijenosni IRC klijent
+net.launchpad.Gnuclad	Generator kladogramskog stabla
+net.line72.campcounselor	Bandcamp.com upravitelj popisa želja
+net.longturn.freeciv21	Freeciv21 - Freeciv za 21. stoljeće
+net.lugsole.bible_gui	Biblijska aplikacija koja podržava više prijevoda i jezika
+net.lutris.Lutris	Platforma za očuvanje videoigra
+net.mancubus.SLADE	To je Doom editor
+net.mediaarea.AVIMetaEdit	Ugradite, provjerite i izvezite metapodatke AVI datoteka
+net.mediaarea.BWFMetaEdit	Ugradite, provjerite i izvezite metapodatke BWF datoteka
+net.mediaarea.DVAnalyzer	Analizirajte DV streamove i prijavite pogreške
+net.mediaarea.MediaConch	Provjera implementacije, provjera pravila, izvjestitelj i popravljač
+net.mediaarea.MediaInfo	Prikladan objedinjeni prikaz najrelevantnijih tehničkih i tag podataka za video i audio datoteke
+net.mediaarea.MOVMetaEdit	Ugradite i uredite metapodatke Universal Ad ID-a u MOV ili MP4 datoteke
+net.mediaarea.QCTools	Alati za kontrolu kvalitete za očuvanje videa
+net.meijn.onvifviewer	Pregledajte i upravljajte mrežnim kamerama pomoću ONVIF protokola
+net.meshlab.MeshLab	Besplatna obrada i uređivanje 3D trokutastih mreža otvorenog koda
+net.minetest.Minetest	Blok igra pješčanika s beskonačnim svijetom za više igrača
+net.mkiol.SpeechNote	Bilježenje, čitanje i prevođenje uz izvanmrežni govor u tekst, tekst u govor i strojno prevođenje
+net.mullvad.MullvadBrowser	Oslobodite internet od masovnog nadzora
+net.natesales.Aviator	Vaš video kopilot: AV1/OPUS video koder
+net.nokyan.Resources	Pratite svoje sistemske resurse i procese
+net.olofson.KoboDeluxe	2D pucačina s pomicanjem iz treće osobe
+net.openra.OpenRA	Ponovno zamišljanje ranih Westwoodovih strateških igara u stvarnom vremenu
+net.oz9aec.Gpredict	Program za praćenje satelita i predviđanje orbite u stvarnom vremenu
+net.pcsx2.PCSX2	PlayStation 2 emulator
+net.peercoin.peercoin-qt	Peercoin, zelena kripto za održivu budućnost.
+net.pioneerspacesim.Pioneer	Igra usamljene svemirske avanture
+net.pistegamez.PekkaKana2	Jump 'n run igra napravljena u duhu starih klasičnih platformera
+net.poedit.Poedit	Jednostavan uređivač prijevoda
+net.puddletag.puddletag	Snažan uređivač ID3 oznaka
+net.purrdata.PurrData	Vizualni programski jezik otvorenog koda za multimediju, temeljen na Pure Data
+net.qsl.QSSTV	Program za prijem i odašiljanje SSTV i HAMDRM
+net.redeclipse.RedEclipse	Pucačina iz prvog lica s agilnim igranjem i ugrađenim uređivačem
+net.retrodeck.retrodeck	RetroDECK donosi okruženje za katalogiziranje i igranje vaših retro igara izravno na vašem Steam Decku
+net.rpcs3.RPCS3	Open-source Sony PlayStation 3 Emulator
+net.rpdev.OpenTodoList	Popis obveza i aplikacija za bilježenje
+net.runelite.RuneLite	RuneLite OSRS klijent
+net.sapples.LiveCaptions	Live Captioning za stolno računalo
+net.scribus.Scribus	Izgled stranice otvorenog koda i stolno izdavaštvo (DTP)
+net.seamly.seamly2d	Softver za dizajn krojeva za šivanje
+net.sf.fuse_emulator	Sinclair ZX Spectrum Emulator
+net.sf.metronomek	Metronom trivijalnog izgleda s prirodnim zvukovima i sofisticiranim mogućnostima
+net.sf.nootka	Aplikacija za učenje klasične partiturne notacije
+net.sf.VICE	Svestrani Commodore emulator
+net.shrew.ike.qikea	Aplikacija za upravljanje konfiguracijama udaljenog mjesta
+net.sonic_pi.SonicPi	Alat za stvaranje i izvođenje glazbe temeljen na kodu
+net.sonobus.SonoBus	Besplatan mrežni audio streaming otvorenog koda
+net.sourceforge.artha.Artha	Otvoreni tezaurus
+net.sourceforge.atanks	Naizmjenična artiljerijska strateška igra
+net.sourceforge.audmes.audmes	Audio mjerni sustav
+net.sourceforge.btanks	Zabavna igra pomicanja s borbenim tenkovima
+net.sourceforge.Chessx	Besplatna šahovska baza podataka
+net.sourceforge.chromium-bsu	Brza svemirska pucačina u arkadnom stilu s pomicanjem na vrhu
+net.sourceforge.dmidiplayer	Drumstick Multiplatform MIDI File Player
+net.sourceforge.DuneLegacy	Moderna ponovna implementacija Dune II
+net.sourceforge.efaxgtk	Faksiranje s Linuxom/Unixom
+net.sourceforge.electrip.Electrip	Upravljajte svojim modelom željeznice pomoću gamepada!
+net.sourceforge.ExtremeTuxRacer	Brza arktička trkaća igra temeljena na Tux Raceru
+net.sourceforge.Fillets	Puzzle igra sa 70 razina
+net.sourceforge.fretsonfire	Frets on Fire igra je glazbene vještine i brzih prstiju. Cilj igre je svirati gitaru s klavijaturom što je točnije moguće.
+net.sourceforge.fspclient	Sučelje slično FTP-u za FSP
+net.sourceforge.GrandOrgue	Simulator orgulja
+net.sourceforge.Hugin	Panoramski spajač fotografija i više
+net.sourceforge.jpdftweak.jPdfTweak	Švicarski vojni nož za PDF datoteke
+net.sourceforge.Kino	Kino DV nelinearni video editor za GNU/Linux i BSD platforme
+net.sourceforge.Klavaro	Učitelj tipkanja dodirom
+net.sourceforge.kmetronome	MIDI metronom za palicu temeljen na ALSA sekvenceru
+net.sourceforge.kmidimon	Drumstick MIDI Monitor je MIDI monitor za Linux koji koristi ALSA sekvencer
+net.sourceforge.lgames.LBreakoutHD	Arkanoid / Breakout ista igra
+net.sourceforge.lgames.LGeneral	Motor za naizmjenične strateške igre (kao što je Panzer General)
+net.sourceforge.lgames.LPairs2	Klasična igra memorije
+net.sourceforge.lgames.LTris	Igra vještine s padajućim blokovima
+net.sourceforge.Lifeograph	Digitalni dnevnik i bilježenje
+net.sourceforge.liferea	RSS čitač feedova
+net.sourceforge.mars-game	2D svemirska pucačina sa fantastičnim vizualnim efektima
+net.sourceforge.mcomix	Preglednik stripova i slika opće namjene
+net.sourceforge.molsketch	2D uređivač molekularnih struktura
+net.sourceforge.OpenLieroX	Bočna pucačina u kojoj kontrolirate crve naoružane nizom oružja
+net.sourceforge.osmo	Osobni rokovnik
+net.sourceforge.paulstretch	Ovo je program za ekstremno rastezanje zvuka (poput 50x) i za primjenu specijalnih efekata spektralnim izglađivanjem zvukova.
+net.sourceforge.pdfchain	PDF Chain je grafičko korisničko sučelje za PDF Toolkit (PDFtk)
+net.sourceforge.Pdfedit	PDF uređivač s mogućnošću pregledavanja/uređivanja stabla neobrađenih pdf objekata
+net.sourceforge.projectM	Glazbeni vizualizator koji koristi 3D ubrzano renderiranje temeljeno na iterativnoj slici
+net.sourceforge.qtpfsgui.LuminanceHDR	Stvorite HDR slike
+net.sourceforge.QtSpim	Samostalni simulator koji pokreće MIPS32 programe
+net.sourceforge.quakespasm.Quakespasm	Moderna luka originalnog Quake motora
+net.sourceforge.Ri-li	Dječja igra, vozi motor igračku na drvo
+net.sourceforge.roccat.roccat-tools	Aplikacije za konfiguriranje Roccat uređaja.
+net.sourceforge.scidavis	Aplikacija za znanstvenu analizu i vizualizaciju podataka
+net.sourceforge.SDL-Ball	Igra razbijanja cigli s lijepom grafikom
+net.sourceforge.squirrel_sql	SQuirreL SQL klijent je GUI koji vam omogućuje pregled strukture JDBC kompatibilne baze podataka, pregledavanje podataka u tablicama, izdavanje SQL naredbi itd. Podržava MySQL, PostgreSQL, MariaDB i SQLite.
+net.sourceforge.Teo	Thomson TO8D emulator
+net.sourceforge.tomatoes.IHaveNoTomatoes	Igra razbijanja rajčica
+net.sourceforge.torcs	Otvoreni simulator trkaćih automobila
+net.sourceforge.TuxFootball	Sjajna 2D nogometna igra (ponekad se naziva i nogomet).
+net.sourceforge.uhexen2.uhexen2	Modernizirana izvorna luka Hexen II
+net.sourceforge.VMPK	Virtualna MIDI klavirska tipkovnica: generator i prijemnik MIDI događaja
+net.sourceforge.wavbreaker	GUI alat za dijeljenje WAV, MP2 i MP3 datoteka
+net.sourceforge.wxEDID	Čitajte i uređujte datoteke Extended Display Identification Data (EDID).
+net.stabyourself.nottetris2	Tetris temeljen na fizici
+net.studio08.xbplay	Igrajte na daljinu s vaše konzole ili xClouda
+net.supertuxkart.SuperTuxKart	3D trkaća karting igra otvorenog koda
+net.tedomum.CapBattleship	Igra bojnog broda, s piratskom temom
+net.unvanquished.Unvanquished	Brza strateška igra iz prvog lica
+net.veloren.airshipper	Airshipper je službeni lansirni uređaj za Veloren.
+net.veloren.veloren	Veloren je voxel RPG za više igrača napisan u Rustu. Inspiriran je igrama kao što su Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress i Minecraft.
+net.warsow.Warsow	Brza 3D pucačina iz prvog lica
+net.waterfox.waterfox	Lagani, besplatni web-preglednik otvorenog koda napravljen za moderni web.
+net.werwolv.ImHex	Heksadecimalni uređivač za obrnute inženjere i programere
+network.bisq.Bisq	Decentralizirana mreža za razmjenu bitcoina.
+network.koesling.shm-modbus	Zbirka alata za simulaciju Modbus TCP/RTU klijenta
+network.loki.Session	Privatni glasnik
+net.worldofpadman.WoP	Nevjerojatno pažljivo dizajnirana i šarena besplatna zabavna pucačina za mlade i mlade u srcu
+net.wz2100.wz2100	Zapovijedajte snagama Projekta u borbi za obnovu svijeta.
+net.xm1math.Texmaker	Latex editor
+net.xmind.XMind	Mind Map & Brainstorming
+net.xmind.XMind8	Nevjerojatan alat za razmišljanje i mapiranje uma.
+net.zgcoder.skycheckers	Uništite neprijatelje s pozornice
+nl.brixit.powersupply	Program za ispravljanje pogrešaka podsustava napajanja Linuxa
+nl.brixit.wiremapper	Linux klijent za Pockethernet mrežni tester
+nl.g4d.Girens	Gledajte svoj Plex sadržaj
+nl.hjdskes.gcolor3	Odaberite boje iz alata za odabir ili na zaslonu
+nl.lostboys.rollemup	Klasična igra flipera s kraja 90-ih.
+nl.openoffice.bluefish	Uređivač teksta s mnogim dodacima za web i razvoj softvera
+nl.sarine.gpx-viewer	Jednostavan gpx preglednik
+nl.v0yd.Capsule	Praćenje lijekova
+no.mifi.losslesscut	Uštedite prostor brzim obrezivanjem video i audio datoteka bez gubitaka
+nz.mega.MEGAsync	Jednostavna automatizirana sinkronizacija između vaših računala i vašeg MEGA Cloud Drivea.
+one.ablaze.floorp	Floorp preglednik
+one.alynx.FlipClock	Čuvar zaslona s preklopnim satom koji podržava SDL2.
+one.flipperzero.qFlipper	Grafička desktop aplikacija za ažuriranje firmvera Flipper Zero putem računala
+one.jiri.easydict-gtk	Prvi prevoditelj otvorenog koda koji je potpuno otvoren i s podacima iz rječnika.
+one.mixin.messenger	Mixin glasnik
+online.athn.browser.gnome	ATHN preglednik za gnome
+org._2006Scape.Launcher	2006Scape je besplatni poslužitelj za emulaciju Runescape 2006
+org._2009scape.Launcher	Pokretač za poslužitelje za emulaciju Runescape 2009
+org.adishatz.syncpasswd	Ažurirajte lozinke
+org.alienarena.alienarena	Ultra brz arena FPS
+org.aliflang.lang	Alif(ألف), arapski programski jezik
+org.altaqwaa.Altaqwaa	Kur'an, adhkar i vrijeme molitve
+org.americanmonk.TipitakaPaliReader	Ovo je aplikacija za čitanje theravāda budističkih tekstova Tipitaka Pāḷi i dobivanje definicija bez napora
+org.apache.directory.studio	Potpuna alatna platforma imenika
+org.apache.jmeter	Primjena testiranja opterećenja i mjerenja performansi
+org.apache.netbeans	NetBeans - Apache Java IDE. Spaja dijelove zajedno
+org.ardour.Ardour	Digitalna audio radna stanica
+org.armagetronad.ArmagetronAdvanced	3D igra Lightcycle
+org.arrl.trustedqsl	Radioamaterski alat za provjeru valjanosti kontakata
+org.artsoft.rocksndiamonds	Puzzle igra skupljanja dragulja
+org.asc_hq.ASC	Strateška igra na poteze
+org.atheme.audacious	Lagani audio player
+org.audacityteam.Audacity	Audacity je najpopularnija aplikacija za uređivanje i snimanje zvuka na svijetu
+org.audiveris.audiveris	Aplikacija za optičko prepoznavanje glazbe (OMR).
+org.avidemux.Avidemux	Višenamjenski softver za uređivanje i obradu videa
+org.b3log.siyuan	Sustav za upravljanje osobnim znanjem na prvom mjestu u zaštiti privatnosti, podržava detaljnu referencu na razini bloka i Markdown WYSIWYG
+org.beeref.BeeRef	Jednostavan preglednik referentnih slika
+org.bino3d.bino	3D video player
+org.bionus.Grabber	Vrlo prilagodljiv imageboard/booru downloader sa snažnim značajkama imenovanja datoteka
+org.bitbucket.mystery_keeper.VapourSynthEditor	Uređivač za VapourSynth skripte
+org.bitcoincore.bitcoin-qt	Potpuna provjera valjanosti Bitcoin peer-to-peer mrežnog čvora, novčanika i GUI-ja
+org.bitfighter.Bitfighter	vektorska svemirska igra za više igrača
+org.blackcoin.blackcoin-more	Prava decentralizirana digitalna valuta
+org.blackfennec.app	Proširivo okruženje za uređivanje polustrukturiranih podataka
+org.bleachbit.BleachBit	Čisti datoteke kako bi oslobodio prostor na disku i zadržao privatnost
+org.blender.Blender	Besplatan paket za 3D izradu otvorenog koda
+org.bluej.BlueJ	Java IDE za početnike
+org.bluesabre.MenuLibre	Napredni uređivač izbornika usklađen s FreeDesktop.org
+org.briarproject.Briar	Sigurna razmjena poruka, bilo gdje
+org.btchd.btchd-qt	Povežite se na BitcoinHD P2P mrežu
+org.buhocms.BuhoCMS	Lokalni CMS za generatore statičkih stranica
+org.bunkus.mkvtoolnix-gui	Kreator i alati Matroska datoteka
+org.bzdev.CVRDecode	Dekoder za kalifornijske digitalne zapise o cjepivima protiv COVID-19
+org.bzflag.BZFlag	3D igra borbe tenkova u prvom licu
+org.caione.GScope	GTK sučelje za cscope
+org.chocolate_doom.ChocolateDoom	Conservative Doom Source Port
+org.chromium.Chromium	Web preglednik iz projekta Chromium
+org.citra_emu.citra	Nintendo 3DS emulator
+org.claws_mail.Claws-Mail	Claws Mail je klijent e-pošte (i čitač vijesti), temeljen na GTK+
+org.clementine_player.Clementine	Reproducira glazbene datoteke i internetski radio
+org.cloudcompare.CloudCompare	3D oblak točaka i softver za obradu mreže
+org.cockpit_project.CockpitClient	Povežite se putem ssh-a na poslužitelje uz Cockpit
+org.codeberg.dimkard.glossaico	Aplikacija za učenje jezika
+org.codeblocks.codeblocks	IDE za C, C++ i Fortran
+org.contourterminal.Contour	Contour je moderan i zapravo brz, modalni, virtualni emulator terminala, za svakodnevnu upotrebu
+org.coolero.Coolero	Coolero je program za nadzor i kontrolu vaših rashladnih uređaja
+org.cryptomator.Cryptomator	Alat za šifriranje na strani klijenta s više platformi optimiziran za pohranu u oblaku
+org.cubocore.CoreAction	Bočna traka s nekim praktičnim napravama
+org.cubocore.CoreArchiver	Jednostavan uslužni program za sažimanje/vađenje datoteka
+org.cubocore.CoreFM	Jednostavan i lagan upravitelj datoteka jednostavan za korištenje
+org.cubocore.CoreHunt	Alat za brzo pretraživanje datoteka jednostavan za korištenje
+org.cubocore.CoreImage	Jednostavan, lagan preglednik slika jednostavan za korištenje
+org.cubocore.CoreInfo	Jednostavan preglednik meta podataka za datoteke
+org.cubocore.CoreKeyboard	Jednostavna virtualna tipkovnica s prijedlozima riječi
+org.cubocore.CorePad	Jednostavan lagan, ali moćan uređivač teksta
+org.cubocore.CorePaint	Jednostavan alat za slikanje
+org.cubocore.CorePDF	Jednostavan lagani PDF preglednik
+org.cubocore.CoreRenamer	Jednostavan lagani alat za preimenovanje skupnih datoteka
+org.cubocore.CoreShot	Jednostavan lagani uslužni program za snimanje zaslona za X11
+org.cubocore.CoreStats	Jednostavan lagan preglednik resursa sustava
+org.cubocore.CoreTime	Upravitelj zadataka vezan uz vrijeme
+org.cvfosammmm.Porto	Uredite Jupyterove bilježnice na radnoj površini
+org.cvfosammmm.Setzer	Jednostavan, ali potpuno opremljen LaTeX editor
+org.cznic.Datovka	Besplatno grafičko korisničko sučelje za kutije s podacima
+org.d3cod3.Mosaic	Platforma za kreativno kodiranje temeljena na OpenFrameworks Visual Patching
+org.darkdimension.rue	Kartaška igra o odbitku, ljubavi i žaljenju.
+org.darktable.Darktable	Organizirajte i razvijajte slike s digitalnih fotoaparata
+org.dash.electrum.electrum_dash	Lagani Dash klijent
+org.davmail.DavMail	DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP pristupnik za razmjenu
+org.debian.TuxPuck	3D igra Shufflepuck Pong
+org.deidentifier.arx	ARX alat za anonimizaciju podataka
+org.deluge_torrent.deluge	Potpuno opremljen BitTorrent klijent
+org.denemo.Denemo	Stvorite glazbene zapise
+org.desmume.DeSmuME	Nintendo DS emulator
+org.develz.Crawl	Roguelike igra istraživanja tamnice
+org.dhewm3.Dhewm3	dhewm 3 je izvorni port Doom 3 GPL
+org.diasurgical.DevilutionX	Diablo/Hellfire izvorni priključak za moderne operativne sustave
+org.DolphinEmu.dolphin-emu	Emulator GameCube / Wii / Triforce
+org.duckstation.DuckStation	PlayStation Emulator
+org.dupot.beatmatchtopass	Pobijedi ih sve
+org.dupot.littleadventure	RPG Pixel Art mala igra
+org.dust3d.dust3d	Alat za brzo 3D modeliranje
+org.easycoding.TunedSwitcher	Jednostavan uslužni program za upravljanje uslugom Tuned
+org.eclipse.iot.fourdiac.Ide	OpenSource IEC 61499 kompatibilan PLC IDE
+org.eclipse.Java	Osnovni alati za bilo kojeg Java programera, uključujući Java IDE, Git klijent, XML Editor, Maven i Gradle integraciju
+org.eclipse.Javascript	Osnovni alati za bilo kojeg JavaScript programera, uključujući podršku za JavaScript, TypeScript, HTML, CSS, XML, Yaml, Markdown jezike
+org.eclipse.sumo	Mikroskopska simulacija prometa
+org.electrum.electrum	Lagani Bitcoin klijent
+org.emilien.Password	Jaka lozinka za maksimalnu sigurnost
+org.emilien.SpaceLaunch	Kada će se sljedeća raketa vinuti u nebo?
+org.emptyflow.ArdorQuery	Rest API, GraphQL, HTTP(s) alat za testiranje
+org.endlessos.Key	Određeno učenje bilo kada, bilo gdje
+org.entangle_photo.Manager	Kontrola i snimanje povezane kamere
+org.enjoyingfoss.FOSStriangulator	Alat za izradu trokutastih ilustracija od fotografija
+org.equeim.Tremotesf	Udaljeni GUI za Transmission BitTorrent klijent
+org.eu.encom.spectral	IM klijent za Matrix protokol
+org.eu.getcatalyst.Catalyst	Lagani web preglednik usmjeren na korisnika koji pokreće Electron
+org.eu.wabarc.wayback	Samostalni skup alata za arhiviranje web stranica u Internet Archive, archive.today, IPFS i lokalne datotečne sustave
+org.exaile.Exaile	Slušaj, istraži ili upravljaj svojom audio zbirkom
+org.exbin.BinEd	Binary/Hex Editor
+org.expresslrs.ExpressLRSConfigurator	Međuplatformski konfiguracijski alat za ExpressLRS firmware
+org.eyecreate.qiflora	Mobilna aplikacija za praćenje biljaka pomoću uređaja Mi Flora.
+org.eyecreate.vehiclevoyage	Pratite servisnu povijest vozila.
+org.famistudio.FamiStudio	FamiStudio NES glazbeni uređivač
+org.fcitx.Fcitx5	Ulazna metoda
+org.fdroid.Repomaker	Kreirajte F-Droid repo s lakoćom
+org.featherwallet.Feather	Monero desktop novčanik
+org.fedoraproject.MediaWriter	Alat stvaranja pokretljivog USB uređaja za izdanja Fedore
+org.ferdium.Ferdium	Messenger za desktop
+org.filezillaproject.Filezilla	Brz i pouzdan FTP klijent
+org.filmulator.Filmulator	GUI adaptacija Filmulatora, filmskog emulatora sa svim pozitivnim stranama i bez negativnih strana
+org.firestormviewer.FirestormViewer	Klijent za pristup 3D virtualnim svjetovima
+org.fkoehler.KTailctl	GUI za mrežastu mrežu Tailscale
+org.flameshot.Flameshot	Snažan i jednostavan softver za snimanje zaslona
+org.flarerpg.Flare	2D akcijska igra uloga
+org.flathub.flatpak-external-data-checker	Alat za provjeru jesu li vanjski podaci korišteni u Flatpak manifestima još uvijek ažurni
+org.flatpak.qtdemo	Flatpak Developer Demo
+org.flightgear.FlightGear	Besplatan i vrlo sofisticiran simulator letenja
+org.flozz.calcleaner	Jednostavan grafički alat za brisanje starih događaja iz CalDAV kalendara
+org.flozz.yoga-image-optimizer	Pretvorite i optimizirajte JPEG, PNG i WebP slike
+org.flycast.Flycast	Sega Dreamcast, Naomi i Atomiswave emulator
+org.fontforge.FontForge	Program za uređivanje fontova
+org.freac.freac	Audio pretvarač i CD riper
+org.free_astro.siril	Program (pred)obrade astronomskih slika
+org.freecadweb.FreeCAD	Parametarski 3D CAD modelar otvorenog koda
+org.freeciv.gtk322	Klijent temeljen na Gtk+-3.22 za igru Freeciv
+org.freeciv.qt	Klijent temeljen na Qt-u za igru Freeciv
+org.freecol.FreeCol	FreeCol strateška igra na poteze.
+org.freedesktop.adriconf	Napredni DRI konfigurator
+org.freedesktop.appstream.cli	Uslužni program za rad s AppStream metapodacima
+org.freedesktop.appstream.generator	Brzi AppStream generator metapodataka
+org.freedesktop.appstream-glib	Alati za provjeru valjanosti datoteka AppStream
+org.freedesktop.Bustle	Nacrtajte dijagrame sekvenci D-Bus aktivnosti
+org.freedesktop.dabrain34.GstPipelineStudio	Nacrtajte vlastiti GStreamer cjevovod...
+org.freedesktop.dabrain34.squared	Pokušajte popuniti kvadratić brojevima
+org.freedesktop.fwupd	Ažurirajte firmver uređaja na Linuxu
+org.freedesktop.GstDebugViewer	Pregledajte informacije o zapisniku otklanjanja pogrešaka GStreamera
+org.freedesktop.Piper	Uslužni program za konfiguraciju miša za igre
+org.freedesktop.Tuhi	Uslužni program za preuzimanje crteža s niza Wacom Ink uređaja
+org.freedownloadmanager.Manager	FDM je moćan moderni akcelerator i organizator preuzimanja.
+org.freefilesync.FreeFileSync	Vizualna usporedba mapa i sinkronizacija
+org.freeorion.FreeOrion	Računalna igra svemirskog carstva i galaktičkog osvajanja (4X) na poteze
+org.freeplane.App	Mind Mapping, upravljanje znanjem, upravljanje projektima. Razvijte, organizirajte i komunicirajte svoje ideje i znanje na najučinkovitiji način
+org.frescobaldi.Frescobaldi	LilyPond Glazbeni uređivač
+org.fritzing.Fritzing	Alat za elektronički dizajn
+org.frozen_bubble.frozen-bubble	Zarazna igra o smrznutim mjehurićima
+org.gabmus.gfeeds	Čitač vijesti za GNOME
+org.gabmus.giara	Aplikacija za Reddit
+org.gabmus.hydrapaper	Upravitelj pozadine s podrškom za više monitora
+org.gabmus.notorious	Bilješke u središtu tipkovnice
+org.gabmus.swatch	Upravitelj palete boja
+org.gabmus.unifydmin	GNOME aplikacija za jednostavno upravljanje višestrukim heterogenim poslužiteljima
+org.gabmus.whatip	Informacije o vašem IP-u
+org.gahshomar.Gahshomar	Perzijski/Jalali/Farsi kalendar
+org.gajim.Gajim	Potpuno opremljen XMPP klijent za chat
+org.gaphor.Gaphor	Jednostavan alat za UML i SysML modeliranje
+org.geany.Geany	Brz i lagan IDE
+org.geeqie.Geeqie	Lagani preglednik slika
+org.genivi.DLTViewer	Dijagnostički dnevnik i program za gledanje tragova
+org.geogebra.GeoGebra	Softver za dinamičku matematiku
+org.gephi.Gephi	Platforma Open Graph Viz
+org.getmonero.Monero	Monero: sigurna, privatna kriptovaluta bez mogućnosti praćenja
+org.getoutline.OutlineClient	Pristup besplatnom i otvorenom Internetu
+org.getoutline.OutlineManager	Postavite svoje Outline poslužitelje u oblaku i odredite tko ima pristup poslužitelju
+org.getzola.zola	Brzi generator statičnih stranica u jednom binarnom obliku sa svime ugrađenim
+org.ghidra_sre.Ghidra	Ghidra softverski paket za obrnuto inženjerstvo
+org.gimp.GIMP	Stvaraj slike i uređuj fotografije
+org.gmusicbrowser.gmusicbrowser	Jukebox za veliku zbirku glazbe
+org.gna.Warmux	2D igra u kojoj smiješni likovi bacaju smiješno oružje
+org.gnode.NixView	Preglednik nix podatkovnih datoteka
+org.gnome.Aisleriot	Igrajte više različitih varijanti pasijansa
+org.gnome.atomix	Gradite molekule od pojedinačnih atoma
+org.gnome.baobab	Provjerite mapu i dostupan prostor na disku
+org.gnome.Boxes	Virtualizaciju čini jednostavnijom
+org.gnome.BreakTimer	Podsjetnici za prekid računala za GNOME
+org.gnome.Builder	Integrirano razvojno okruženje (IDE) za GNOME
+org.gnome.Calculator	Izvodite aritmetičke, znanstvene ili financijske izračune
+org.gnome.Calendar	Kalendar za GNOME
+org.gnome.Calls	Upućujte telefonske i SIP pozive
+org.gnome.Characters	Aplikacija za umetanje znakova
+org.gnome.Cheese	Snimite fotografije i videozapise pomoću svoje web kamere, sa šarenim grafičkim efektima
+org.gnome.Chess	Igrajte klasičnu partiju šaha za dvoje na ploči
+org.gnome.clocks	Nastavite pratiti vrijeme
+org.gnome.ColorViewer	Provjerite i testirajte instalirane profile boja
+org.gnome.Connections	Pogledajte i koristite druge radne površine
+org.gnome.Contacts	Upravljajte svojim kontaktima
+org.gnome.Crosswords	Rješavati križaljke
+org.gnome.Crosswords.Editor	Izradite križaljke
+org.gnome.DejaDup	Zaštitite se od gubitka podataka
+org.gnome.design.AppIconPreview	Alat za dizajn ikona aplikacije
+org.gnome.design.Contrast	Provjerite kontrast između dvije boje
+org.gnome.design.Emblem	Stvorite avatare projekta
+org.gnome.design.IconLibrary	Simbolične ikone za vaše aplikacije
+org.gnome.design.Lorem	Stvorite zamjenski tekst
+org.gnome.design.Palette	Alat paleta boja
+org.gnome.design.SymbolicPreview	Jednostavno stvorite simboličke ikone
+org.gnome.design.Typography	Typography tool
+org.gnome.design.VectorSlicer	Export multi-page PDFs from an SVG
+org.gnome.Devhelp	Devhelp je alat razvijatelja za pregledavanje i pretraživanje API dokumentacije
+org.gnome.dspy	A D-Bus explorer for GNOME
+org.gnome.EasyTAG	Uredi metapodatke glazbene datoteke
+org.gnome.eog	Pregledajte i zakrenite slike
+org.gnome.Eolie	Web browser
+org.gnome.Epiphany	Pregledavanje weba
+org.gnome.Evince	Preglednik dokumenata za popularne formate dokumenata
+org.gnome.Evolution	Upravljajte svojom e-poštom, kontaktima i rasporedom
+org.gnome.Extensions	Upravljajte svojim GNOME proširenjima
+org.gnome.FileRoller	Otvorite, promijenjite i stvorite zapakiranu arhivu datoteka
+org.gnome.Firmware	Instalirajte firmvere na uređajima
+org.gnome.five-or-more	Uklonite obojene lopte s ploče formirajući redke
+org.gnome.FontManager	Jednostavan program za upravljanje fontovima u Gtk+ desktop okruženjima
+org.gnome.font-viewer	Pregledajte slova na vašem sustavu
+org.gnome.Four-in-a-row	Učinite redak od istih boja za pobjedu
+org.gnome.Fractal	Matrix aplikacija za grupnu razmjenu poruka
+org.gnome.frogr	Flickr učitavač za GNOME
+org.gnome.gbrainy	gbrainy je igra za vježbanje pamćenja, aritmetičkih, verbalnih i logičkih vještina.
+org.gnome.Geary	Primi i pošalji e-poštu
+org.gnome.gedit	Uređivač teksta
+org.gnome.Genius	Genius je kalkulator opće namjene
+org.gnome.GHex	Pregledajte i uredite binarne datoteke
+org.gnome.gitg	Grafičko korisničko sučelje za git
+org.gnome.gitlab.bazylevnik0.Convolution	Igra bijega iz labirinta
+org.gnome.gitlab.Cowsay	Cowsay, vrhunski Cowsay generator koji koristi GNOME konvencije
+org.gnome.gitlab.dqpb.GMetronome	Alat za mjerenje tempa za skladatelje i glazbenike
+org.gnome.gitlab.ilhooq.Bookup	Pojednostavite svoje bilježenje uz Markdown sintaksu
+org.gnome.gitlab.johannesjh.favagtk	Obavljajte svoje financije koristeći fava i beancount
+org.gnome.gitlab.powimod.aion-task	Upravitelj cikličkih zadataka
+org.gnome.gitlab.somas.Apostrophe	Uredite Markdown elegantno
+org.gnome.gitlab.YaLTeR.Identity	Usporedi slike i videa
+org.gnome.gitlab.YaLTeR.VideoTrimmer	Skrati video brzo
+org.gnome.glabels-3	Izradite naljepnice, posjetnice i medijske naslovnice
+org.gnome.Glade	Kreirajte ili otvorite dizajn korisničkog sučelja za GTK+ aplikacije
+org.gnome.Gnote	Jednostavna aplikacija za bilježenje
+org.gnome.GTG	Organizator osobnih zadataka i TODO popisa stavki
+org.gnome.gThumb	Pregledavajte i organizirajte svoje slike
+org.gnome.Gtranslator	Prevedite i lokalizirajte aplikacije i biblioteke
+org.gnome.Hamster	Your personal time keeping tool
+org.gnome.HexGL	Space racing game
+org.gnome.Hitori	Igrajte Hitori igru slagalice
+org.gnome.Keysign	OpenPGP Keysigning helper
+org.gnome.Klotski	Pomičite blokove kako bi riješili slagalicu
+org.gnome.LightsOff	Isključite sva svjetla
+org.gnome.Logs	Pogledajte opširnije događaje na sustavu
+org.gnome.Lollypop	Sviraj i organiziraj svoju zbirku glazbe
+org.gnome.Loupe	View images
+org.gnome.Mahjongg	Uparite iste pločice i očistite ploču
+org.gnome.Maps	Potražite mjesta diljem svijeta
+org.gnome.meld	Compare and merge your files
+org.gnome.Mines	Uklonite skrivene mine iz minskog polja
+org.gnome.moserial	Serial terminal
+org.gnome.Music	Slušajte i organizirajte svoju glazbenu kolekciju
+org.gnome.NautilusPreviewer	Omogućuje brz pregled različitih vrsta datoteka
+org.gnome.NetworkDisplays	Emitirajte prikaz radne površine na bežične zaslone
+org.gnome.Nibbles	Upravljajte i vodite crve po labirintu
+org.gnome.Notes	Bilješke za GNOME
+org.gnome.OCRFeeder	The complete OCR suite
+org.gnome.OfficeRunner	Zatvorite poklopac svojeg prijenosnog računala i potrčite
+org.gnome.Photos	Pristupite, organizirajte i dijelite svoje fotografije na GNOMU
+org.gnome.Pinpoint	Help hackers give excellent presentations
+org.gnome.Podcasts	Slušajte svoje omiljene emisije
+org.gnome.Polari	Razgovarajte s ljudima na IRC-u
+org.gnome.PowerStats	Promatraj upravljanje energijom
+org.gnome.Quadrapassel	Posložite zajedno padajuće blokove
+org.gnome.Recipes	GNOME voli kuhati
+org.gnome.Reversi	Dominirajte pločom u klasičnoj Reversi igri ili igrajte obrnutu varijantu
+org.gnome.Rhythmbox3	Organizirajte i reproducirajte svoju glazbenu kolekciju
+org.gnome.Robots	Izbjegavajte robote i potrudite se da se međusobno sudare
+org.gnome.seahorse.Application	Upravljajte svojim lozinkama i ključevima šifriranja
+org.gnome.Shotwell	Organizator digitalnih forografija
+org.gnome.SimpleScan	Napravite digitalnu kopiju svojih fotografija i dokumenata
+org.gnome.Snapshot	Take pictures and videos
+org.gnome.Solanum	Uskladite radno vrijeme s pauzom
+org.gnome.SoundJuicer	CD riper s jednostavnim sučeljem i osobitostima
+org.gnome.SoundRecorder	Jednostavan, moderan snimatelj zvuka za GNOME
+org.gnome.Sudoku	Testirajte svoje logičke sposobnosti u ovoj slagalici s brojevima
+org.gnome.SwellFoop	Očistite ploču uklanjanje grupa obojanih i oblikovanih pločica
+org.gnome.Tali	Bacajte kocke i sakupljajte bodove
+org.gnome.Taquin	Pomičite pločice na njihova odgovarajuća mjesta
+org.gnome.Tau	GTK frontend for the xi text editor
+org.gnome.Tetravex	Promijenite poredak pločica kako bi odgovarale kvadratu
+org.gnome.TextEditor	Uređivanje tekstovnih datoteka
+org.gnome.Todo	Upravljajte svojim zadacima
+org.gnome.Tomboy	Desktop note-taking application
+org.gnome.Totem	Gledajte filmove
+org.gnome.TwentyFortyEight	Složite ploču 2048
+org.gnome.Weather	Pogledajte vašu lokalnu vremensku prognozu
+org.gnome.World.Citations	Upravljajte svojom bibliografijom
+org.gnome.World.Iotas	Simple note taking
+org.gnome.World.PikaBackup	Držite svoje podatke sigurnima
+org.gnome.World.Secrets	Upravljajte svojim lozinkama
+org.gnucash.GnuCash	Upravljaj novčanim sredstvima, kontima i ulaganjima
+org.gnu.emacs	An extensible text editor
+org.gnumeric.Gnumeric	A High-Precision Spreadsheet Program
+org.gnunet.Messenger	A GTK based GUI for the Messenger service of GNUnet.
+org.gnupg.GPA	Grafičko sučelje za GnuPG
+org.gnu.pspp	GNU PSPP je program za statističku analizu uzorkovanih podataka
+org.godotengine.Godot	Godot uređivač motora igre
+org.godotengine.Godot3	Godot uređivač motora igre
+org.godotengine.Godot3Sharp	Godot uređivač motora igre
+org.godotengine.GodotSharp	Godot uređivač motora igre
+org.goldcoinproject.goldcoin-qt	Otkrijte zlatni standard digitalne valute.
+org.goldendict.GoldenDict	Program za traženje rječnika
+org.gottcode.Connectagram	Raščistite riječi postavljene u obrasce
+org.gottcode.CuteMaze	Pronađite ciljeve u labirintu
+org.gottcode.FocusWriter	Program za obradu teksta preko cijelog zaslona
+org.gottcode.Gottet	Očistite ploču od padajućih blokova
+org.gottcode.Hexalate	Zavrtite krugove kako biste uskladili boje
+org.gottcode.Kapow	Pratite vrijeme provedeno na projektima
+org.gottcode.NovProg	Program za grafički prikaz broja riječi
+org.gottcode.Peg-E	Preskačite klinove kako biste ih eliminirali
+org.gottcode.Simsu	Ispunite brojeve da biste riješili zagonetke
+org.gottcode.Tanglet	Varijanta igre Boggle za jednog igrača
+org.gottcode.Tetzle	Slagalica s dijelovima tetromino
+org.gpodder.gpodder	Medijski agregator i podcast klijent
+org.gpodder.gpodder-adaptive	Medijski agregator i podcast klijent za mobitele i stolna računala
+org.gramps_project.Gramps	Upravljaj rodoslovnim podacima, izvodi rodoslovna istraživanja i analizu
+org.greenfoot.Greenfoot	Greenfoot
+org.grisbi.Grisbi	Voditelj osobnih financija
+org.groestlcoin.electrum-grs	Lagani Groestlcoin klijent
+org.groestlcoin.groestlcoin-qt	Potpuna provjera Groestlcoin peer-to-peer mrežnog čvora, novčanika i GUI-ja
+org.gtaf.quran	Proučavajte Kur'an kroz analizu riječi po riječi, obojeni tadžvid, tefsir i audio
+org.gtimelog.GTimeLog	Nenametljivo pratite svoje vrijeme
+org.gtkhash.gtkhash	Izračunaj sažetke poruka ili kontrolne sume
+org.guerinoni.qTsConverter	Jednostavan alat za pretvaranje qt datoteke prijevoda (ts) u drugi format (xlsx / csv) i obrnuto.
+org.guitarix.Guitarix	virtualno svestrano pojačanje za Jack/Linux
+org.gustavoperedo.FontDownloader	Instalirajte fontove iz online izvora
+org.hdfgroup.HDFView	Pregledajte i uredite HDF datoteke
+org.hedgewars.Hedgewars	Smiješna naizmjenična artiljerijska igra s borbenim ježevima!
+org.hikounomizu.HikouNoMizu	Borilačka igra u stilu animea temeljena na platformi
+org.hlwd.sonofman	Biblija na više jezika, besplatno, izvan mreže, bez oglašavanja, na engleskom, francuskom, talijanskom, španjolskom, portugalskom za Terminal.
+org.homelinuxserver.vance.biblereader	Čitaj Riječ
+org.horizon_eda.HorizonEDA	Besplatan EDA paket
+org.hydrogenmusic.Hydrogen	Napredna bubnjarska mašina
+org.icculus.tennix	Teniska igra za više igrača
+org.imitationpickles.barbie	Pomozi morskom konjiću Barbie da na mjehurićima odlebdi do Mjeseca
+org.inkscape.Inkscape	Uređivač vektorske grafike
+org.ioquake3.ioquake3	Besplatni motor temeljen na Quake 3 otvorenog koda
+org.jabref.jabref	Grafička Java aplikacija za upravljanje BibTeX i biblatex (.bib) bazama podataka
+org.jacktrip.JackTrip	Povežite se i svirajte s drugim glazbenicima
+org.jamovi.jamovi	Statistička proračunska tablica u stvarnom vremenu
+org.jaspstats.JASP	Standardne statističke analize, klasične i Bayesove
+org.jdownloader.JDownloader	Alat za upravljanje preuzimanjem
+org.jellyfin.JellyfinServer	Medijski sustav slobodnog softvera
+org.jflap.JFLAP	Testiranje formalnih jezika
+org.jitsi.jitsi-meet	Jitsi Meet - sigurne, jednostavne i skalabilne video konferencije
+org.jreleaser.cli	Objavite projekte brzo i jednostavno uz JReleaser
+org.js.nuclear.Nuclear	Glazbeni player baziran na elektronu
+org.jupyter.JupyterLab	JupyterLab desktop aplikacija, temeljena na Electronu
+org.karapulse.Karapulse	Karaoke player s ugrađenim udaljenim web klijentom
+org.kde.akregator	Čitač vijesti
+org.kde.alligator	Čitač feedova za mobilne uređaje
+org.kde.angelfish	Web preglednik za mobilne uređaje
+org.kde.arianna	Ebook čitač
+org.kde.ark	Alat za arhiviranje
+org.kde.artikulate	Artikulate Pronunciation Trainer
+org.kde.atlantik	Društvene igre nalik na Monopoly®
+org.kde.audiotube	Konvergentni YouTube Music klijent
+org.kde.blinken	Igra za poboljšanje pamćenja
+org.kde.bomber	Arkadna igra bombardiranja
+org.kde.bovo	Društvena igra pet u nizu
+org.kde.cantor	KDE sučelje za matematički softver
+org.kde.choqok	Klijent mikro-blogiranja
+org.kde.digikam	Program za upravljanje fotografijama
+org.kde.dolphin	Upravitelj datoteka
+org.kde.elisa	Prekrasan glazbeni player bez gluposti s podrškom za online radio
+org.kde.falkon	Web-preglednik
+org.kde.filelight	Prikaži korištenje diska i izbriši neiskorištene datoteke
+org.kde.francis	Pratite svoje vrijeme
+org.kde.gcompris	Obrazovna igra s više aktivnosti za djecu od 2 do 10
+org.kde.granatier	Klon Bombermana
+org.kde.gwenview	Preglednik slika
+org.kde.haruna	Media player otvorenog koda izgrađen s Qt/QML i libmpv
+org.kde.Ikona	Ikona je dizajnerski suputnik koji vam pomaže dizajnirati ikone
+org.kde.index	Upravljajte svojim datotekama
+org.kde.isoimagewriter	Zapišite ISO sliku na USB disk
+org.kde.itinerary	Digitalni pomoćnik za putovanja
+org.kde.juk	Glazbeni player
+org.kde.kaffeine	Multimedijski player
+org.kde.kalgebra	Kalkulator grafikona
+org.kde.kalk	Kalkulator bogat značajkama
+org.kde.kalzium	Periodni sustav elemenata
+org.kde.kamoso	Koristite svoju web-kameru za snimanje slika i video zapisa
+org.kde.kanagram	Igra reda slova
+org.kde.kapman	Pac-Man klon
+org.kde.kasts	Podcast aplikacija
+org.kde.katomic	Logička igra poput Sokobana
+org.kde.kbibtex	KDE-ov uređivač BibTeX-a za uređivanje bibliografija koje se koriste s LaTeX-om
+org.kde.kblackbox	Logička igra Blackbox
+org.kde.kblocks	Igra padajućih blokova
+org.kde.kbounce	KBounce je arkadna igra za jednog igrača s elementima slagalice
+org.kde.kbreakout	KBreakOut je KDE-ova igra slična Breakoutu
+org.kde.kbruch	Vježba Razlomci
+org.kde.kcachegrind	Sučelje Profilera
+org.kde.kcalc	Znanstveni kalkulator
+org.kde.kclock	Postavite alarme i mjerače vremena, koristite štopericu i upravljajte svjetskim satovima
+org.kde.kcolorchooser	Izbornik boja i uređivač paleta
+org.kde.kdenlive	Video Editor
+org.kde.kdevelop	Izvrsno IDE koje se može proširiti dodacima za C/C++ i druge programske jezike
+org.kde.kdiamond	KDiamond je KDE igra tri u nizu
+org.kde.kdiff3	Alat za usporedbu i spajanje datoteka i mapa
+org.kde.keysmith	Dvofaktorski generator koda za Plasma Mobile i Desktop
+org.kde.kfind	Pronađite datoteke/mape
+org.kde.kfourinline	KFourInLine je KDE igra četiri u nizu
+org.kde.kgeography	Alat za učenje geografije
+org.kde.kgeotag	Program za geooznačavanje fotografija
+org.kde.kget	Upravitelj preuzimanja
+org.kde.kgoldrunner	Lovite zlato, izbjegavajte neprijatelje i rješavajte zagonetke
+org.kde.kgraphviewer	Graphviz DOT preglednik grafikona
+org.kde.khangman	Igra vješala
+org.kde.kid3	Uređivanje metapodataka audio datoteke
+org.kde.kig	Interaktivna geometrija
+org.kde.kigo	Go Društvena igra
+org.kde.kile	TeX/LaTeX uređivač
+org.kde.killbots	Nadmudrite robote ubojice da biste pobijedili
+org.kde.kimagemapeditor	HTML uređivač karte slika
+org.kde.kiriki	Igra s kockicama poput Yahtzeeja
+org.kde.kiten	Japanski alat za referencu i proučavanje
+org.kde.kjumpingcube	Igra zauzimanja teritorija
+org.kde.kleopatra	Upravitelj certifikata i Unified Crypto GUI
+org.kde.klettres	Naučite abecedu
+org.kde.klickety	Klickety je adaptacija igre clickomania
+org.kde.klines	Taktička igra
+org.kde.kmahjongg	Mahjong Solitaire
+org.kde.kmines	Igra poput Minolovaca
+org.kde.kmplayer	Sučelje za MPlayer by KDE
+org.kde.kmplot	Ploter matematičkih funkcija
+org.kde.kmymoney	Voditelj osobnih financija po principu dvojnog knjigovodstva
+org.kde.knavalbattle	Igra borbenog broda
+org.kde.knetwalk	KNetWalk je igra za administratore sustava
+org.kde.knights	Igra šaha
+org.kde.koko	Galerija slika
+org.kde.kolf	Mini golf
+org.kde.kollision	Ležerna igra loptom
+org.kde.kolourpaint	Program za bojanje
+org.kde.kommit	Git GUI klijent
+org.kde.kompare	Diff/Patch Frontend
+org.kde.kongress	Prateća aplikacija za KDE konferenciju
+org.kde.konquest	Galaktička strateška igra
+org.kde.konsole	Terminal
+org.kde.kontact	Rukujte svom e-poštom, kalendarima, kontaktima i više u jednom prozoru
+org.kde.kontrast	Provjera kontrasta boja
+org.kde.konversation	IRC klijent
+org.kde.kpat	Kartaška igra Solitaire
+org.kde.kphotoalbum	KDE softver za upravljanje slikama
+org.kde.krdc	Povežite se pomoću RDP-a ili VNC-a na drugo računalo
+org.kde.krename	Snažan alat za preimenovanje skupnih datoteka
+org.kde.kreversi	Društvena igra Reversi
+org.kde.krita	Digitalno slikanje, kreativna sloboda
+org.kde.kronometer	Kronometar
+org.kde.kruler	Ravnalo zaslona
+org.kde.ksirk	Strateška igra svjetske dominacije
+org.kde.ksnakeduel	Igra slična Tronu
+org.kde.ksquares	Spojite točkice kako biste stvorili kvadrate
+org.kde.kst	Interaktivna vizualizacija i analiza podataka
+org.kde.kstars	Planetarij za stolno računalo
+org.kde.ksudoku	Ispunite numeričku slagalicu s brojevima od jedan do devet
+org.kde.kteatime	Kuhalo za čaj
+org.kde.ktimetracker	Osobni mjerač vremena
+org.kde.ktorrent	BitTorrent klijent
+org.kde.ktouch	Dodirnite Učitelj tipkanja
+org.kde.ktrip	Navigator javnog prijevoza
+org.kde.ktuberling	Jednostavna igra konstruktora pogodna za djecu i odrasle
+org.kde.kturtle	Obrazovno programsko okruženje
+org.kde.kubrick	3-D igra temeljena na Rubikovoj kocki
+org.kde.kuiviewer	Qt Designer UI preglednik datoteka
+org.kde.kwalletmanager5	Alat za upravljanje novčanikom
+org.kde.kweather	Pogledajte vremensku prognozu i druge informacije u stvarnom vremenu
+org.kde.kwordquiz	Flash Card Trainer
+org.kde.kwrite	Uređivač teksta
+org.kde.kxstitch	Kreator uzoraka križića
+org.kde.labplot2	Interaktivna vizualizacija i analiza podataka
+org.kde.lokalize	Sustav za prevođenje pomoću računala
+org.kde.lskat	Njemačka kartaška igra Skat za dva igrača
+org.kde.marble	Virtualni globus
+org.kde.massif-visualizer	Vizualizator za podatkovne datoteke Valgrind Massif
+org.kde.minuet	Softver za glazbeno obrazovanje
+org.kde.neochat	Klijent za matrix, decentralizirani komunikacijski protokol
+org.kde.okteta	Heksadecimalni uređivač
+org.kde.okular	Preglednik dokumenata
+org.kde.palapeli	Slagalica
+org.kde.parley	Vježbač rječnika
+org.kde.peruse	Čitač stripova
+org.kde.picmi	Puzzle igra bazirana na logici brojeva
+org.kde.pix	Galerija slika
+org.kde.plasmatube	Gledajte YouTube videozapise
+org.kde.qmlkonsole	Aplikacija za mobilni terminal
+org.kde.rocs	Rocsova teorija grafova
+org.kde.ruqola	Rocket Chat klijent
+org.kde.skanpage	Aplikacija za skeniranje dokumenata s više stranica
+org.kde.skrooge	Jednostavno knjigovodstvo za kućnu upotrebu
+org.kde.subtitlecomposer	Uređivač video titlova koji podržava osnovne i napredne operacije uređivanja
+org.kde.SymbolEditor	Uređivač simbola vezanih križićima
+org.kde.tellico	Voditelj zbirke
+org.kde.telly-skout	Konvergentni Kirigami TV vodič
+org.kde.tokodon	Klijent Mastodonta
+org.kde.umbrello	UML Modeler
+org.kde.vvave	Pustite svoju glazbenu kolekciju
+org.kde.yakuake	Padajući terminal
+org.keepassxc.KeePassXC	Port upravljan zajednicom Windows aplikacije “KeePass Password Safe”
+org.KekikAkademi.BTKSorgu	Je li ciljna web stranica dostupna u Turskoj? (BTK)
+org.KekikAkademi.eFatura	Upit o korištenju e-fakture s poreznog ili TR identifikacijskog broja
+org.kekikakademi.ntvHaber	Najnovije vijesti na turskom s NTV.com.tr
+org.kicad.KiCad	EDA paket za dizajn shema i tiskanih ploča
+org.kiwix.desktop	Pregled izvanmrežnog sadržaja
+org.kosmospredanie.Yakblt	Jednostavna igra izbjegavanja metaka
+org.kryogenix.hushboard	Isključite mikrofon dok tipkate
+org.kryogenix.Pick	Birač boja
+org.kryogenix.utm_no	Uklonite parametre praćenja iz kopiranih URL-ova
+org.ksnip.ksnip	Alat za snimke zaslona na različitim platformama sa značajkama za bilješke
+org.lamport.tla.toolbox	TLA+ Toolbox je IDE (integrirano razvojno okruženje) za TLA+ alate
+org.laptop.TurtleArtActivity	Kornjača nadahnuta logotipom koja crta šarene slike sa spojenim vizualnim blokovima za programiranje
+org.learningequality.Kolibri	Offline obrazovna tehnološka platforma
+org.leocad.LeoCAD	Dizajnirajte virtualne modele koje možete izgraditi s LEGO kockama
+org.librecad.librecad	2D projektiranje potpomognuto računalom (CAD)
+org.librehunt.Organizer	Uslužni program za organiziranje datoteka u zgodne kategorije
+org.libreoffice.LibreOffice	LibreOffice proizvodni paket
+org.librepcb.LibrePCB	Dizajn sheme i PCB-a
+org.libretrainsim.Libre-TrainSim	Besplatan simulator vlaka za sve
+org.libretro.RetroArch	Sučelje za emulatore, motore igara i media playere
+org.libsdl.Maelstrom	Visokokvalitetni klon asteroida
+org.libvips.vipsdisp	Preglednik slika
+org.linux_hardware.hw-probe	Provjerite operativnost računalnog hardvera i pronađite upravljačke programe
+org.linuxshowplayer.LinuxShowPlayer	Cue player dizajniran za scenske produkcije
+org.localsend.localsend_app	Dijelite datoteke s uređajima u blizini
+org.love2d.love2d	LÖVE je sjajan okvir za 2D igru za Lua.
+org.lyx.LyX	Procesor dokumenata
+org.mamedev.MAME	MAME je višenamjenski okvir za emulaciju.
+org.manaplus.ManaPlus	Prošireni klijent za The Mana World i slične poslužitelje
+org.mapeditor.Tiled	Uređivač karata opće namjene
+org.mattbas.Glaxnimate	Uređivač vektorske animacije
+org.mattdm.icebreaker	Zarazna akcijska puzzle igra koja uključuje pingvine koji poskakuju
+org.mavlink.qgroundcontrol	UAS zemaljska kontrolna stanica
+org.megaglest.MegaGlest	Strateška igra u stvarnom vremenu (RTS)
+org.megamek.MegaMek	Borite se koristeći goleme robote, tenkove i/ili pješaštvo na heksadecimalnoj karti.
+org.mersenne.mprime	Besplatni softver za pretraživanje Mersenneovog prajma
+org.metal3d.scoreboard	Jednostavan semafor za brojanje bodova za bilo koju igru
+org.mfek.MFEKglif	Uređivač glifa za projekt Modular Font Editor K
+org.midori_browser.Midori	Brz i lagan web preglednik
+org.milkytracker.MilkyTracker	Alata za praćenje glazbe inspirirana Fast Tracker II
+org.mixxx.Mixxx	Sve što vam je potrebno za izvođenje DJ mikseva uživo
+org.mmass.mMass	Alat za masenu spektrometriju otvorenog koda
+org.mobsya.ThymioSuite	Jednostavan pristup Thymio programskim sučeljima
+org.moneymanagerex.MMEX	Organizirajte financije i pratite novčani tok
+org.mosh.mosh	Mobilna školjka
+org.mozilla.firefox	Brz, privatan i siguran web-preglednik
+org.mozilla.Thunderbird	Thunderbird je besplatan klijent za e-poštu, izvor vijesti, chat i kalendar otvorenog koda
+org.mpdevil.mpdevil	Jednostavan glazbeni preglednik za MPD
+org.msweet.htmldoc	Softver za pretvorbu HTML-a
+org.munadi.Munadi	Jednostavna aplikacija Athan
+org.musescore.MuseScore	Stvorite, reproducirajte i ispišite prekrasne note
+org.musicbrainz.Picard	MusicBrainzov glazbeni označavač
+org.mypaint.MyPaint	Program za slikanje za digitalne umjetnike
+org.naev.Naev	2D akcijska/rpg svemirska borbena igra
+org.nanuc.Axolotl	Axolotl je Crossplattform Signal klijent
+org.netsurf_browser.NetSurf	mali web preglednik s CSS podrškom
+org.neverball.Neverball	Vješto vodite loptu koja se kotrlja kroz mnoge glatke 3D razine
+org.nickvision.cavalier	Vizualizirajte zvuk s CAVA-om
+org.nickvision.money	Upravljaj osobnim financijama
+org.nickvision.tagger	Označite svoju glazbu
+org.nickvision.tubeconverter	Preuzmite video i audio s weba
+org.nicotine_plus.Nicotine	Grafički klijent za Soulseek mrežu
+org.nmap.Zenmap	GUI za više platformi za Nmap sigurnosni skener
+org.nomacs.ImageLounge	nomacs je besplatni preglednik slika otvorenog koda
+org.nongnu.enigma	Puzzle igra
+org.nongnu.gsequencer.gsequencer	Napredni Gtk+ sekvencer
+org.nongnu.Xlog	Program za snimanje za radioamatere
+org.nsnam.NetAnim	NetAnim je offline animator za ns-3
+org.nuspell.Nuspell	provjera pravopisa
+org.octave.Octave	Interaktivno programsko okruženje za numeričke proračune
+org.olivevideoeditor.Olive	Nelinearni uređivač videa
+org.omegat.OmegaT	Jednostavan upravitelj prijevodne memorije otvorenog koda i CAT alat
+org.onionshare.OnionShare	Sigurno i anonimno dijelite datoteke, hostirajte web stranice i razgovarajte s prijateljima
+org.onlyoffice.desktopeditors	Uredski paket za produktivnost
+org.openandroidinstaller.OpenAndroidInstaller	Čini instalaciju alternativnih distribucija Androida lijepom i jednostavnom
+org.openchemistry.Avogadro2	Besplatan molekularni uređivač otvorenog koda
+org.openclonk.OpenClonk	Akcijska igra za više igrača u kojoj upravljate malim i okretnim humanoidima
+org.opencpn.OpenCPN	Sažeti softver za crtanje i navigaciju
+org.openfodder.OpenFodder	Priključak otvorenog koda DOS strateške igre Cannon Fodder.
+org.openhantek.OpenHantek6022	DSO softver za Hantek USB digitalne signalne osciloskope 6022BE/BL
+org.openkj.OpenKJ	Profesionalni softver za hosting karaoka
+org.openmsx.openMSX	Emulirajte sve aspekte MSX-a s visokom točnošću
+org.openmw.OpenMW	Ponovna implementacija The Elder Scrolls III: Morrowind
+org.opennumismat.OpenNumismat	Softver za skupljanje novčića za organiziranje i upravljanje vlastitim katalogom
+org.openrgb.OpenRGB	Kontrola RGB rasvjete otvorenog koda koja ne ovisi o softveru proizvođača.
+org.openscad.OpenSCAD	The Programmers Solid 3D CAD Modeller
+org.openscopeproject.TrguiNG	Udaljeni GUI za Transmission torrent daemon
+org.openshot.OpenShot	Jednostavan za korištenje, brz za učenje i iznenađujuće moćan uređivač videozapisa
+org.openstreetmap.josm	Java OpenStreetMap Editor
+org.opensurge2d.OpenSurge	Zabavni 2D retro platformer inspiriran Sonic igrama i sustavom za kreiranje igara
+org.opentransactions.metier	Multi-valutni blockchain novčanik i Open-Transactions klijent
+org.openttd.OpenTTD	Simulacijska igra otvorenog koda temeljena na Transport Tycoon Deluxe
+org.openjkdf2.OpenJKDF2	Reimplementacija igre "Jedi Knight: Dark Forces II" na više platformi
+org.otfried.Ipe	Ipe proširivi uređivač crteža
+org.pairinteraction.Pairinteraction	Rydbergov kalkulator interakcije
+org.paraview.ParaView	Analiza i vizualizacija podataka
+org.parlatype.Parlatype	Media player za transkripciju govora
+org.pegasus_frontend.Pegasus	Višeplatformsko, prilagodljivo grafičko sučelje za pokretanje emulatora
+org.pencil2d.Pencil2D	Softver za 2D animaciju koji podržava bitmap i vektorsku grafiku
+org.phoenicis.playonlinux	Instalirajte i pokrenite Windows softver na Linuxu
+org.photoqt.PhotoQt	Pregledajte slike i upravljajte njima
+org.pipewire.Helvum	Patchbay za PipeWire
+org.pitivi.Pitivi	Stvorite i uredite vlastite filmove
+org.pjbroad.EternallandsClient	Eternal Lands je besplatni grafički MMORPG
+org.plomgrading.PlomClient	Klijent za ocjenjivanje za online sustav ocjenjivanja Plom
+org.polymc.PolyMC	Prilagođeni pokretač za Minecraft koji vam omogućuje jednostavno upravljanje višestrukim instalacijama Minecrafta odjednom
+org.ppsspp.PPSSPP	PlayStation Portable emulator
+org.prismlauncher.PrismLauncher	Prilagođeni pokretač za Minecraft koji vam omogućuje jednostavno upravljanje višestrukim instalacijama Minecrafta odjednom
+org.processing.processingide	Platforma za izradu prototipova softvera otvorenog koda
+org.profex_xrd.Profex	XRD otvorenog koda i Rietveldovo usavršavanje
+org.pulseaudio.pavucontrol	Prilagodite razinu glasnoće hardverskih uređaja i aplikacija
+org.purei.Play	Emulator Playstation 2
+org.pydpainter.PyDPainter	Upotrebljiv program za slikanje pixel arta napisan u Pythonu
+org.pymol.PyMOL	Molekularna vizualizacija i praćenje zraka
+org.pyzo.pyzo	Python IDE usmjeren na jednostavnost i interaktivnost
+org.qbittorrent.qBittorrent	Bittorrent klijent otvorenog koda
+org.qelectrotech.QElectroTech	Urednik elektro sheme
+org.qgis.qgis	Besplatan geografski informacijski sustav otvorenog koda
+org.qownnotes.QOwnNotes	Bilježnica s običnom tekstualnom datotekom s podrškom za Markdown i integracijom Nextcloud / ownCloud
+org.quassel_irc.QuasselClient	Moderni distribuirani IRC klijent
+org.quetoo.Quetoo	Besplatna pucačina iz prvog lica za Mac, PC i Linux
+org.qutebrowser.qutebrowser	Web preglednik upravljan tipkovnicom
+org.qxmledit.QXmlEdit	XML editor
+org.raceintospace.Raceintospace	Igra za ponovno proživljavanje svemirske utrke iz 1960-ih
+org.racket_lang.Racket	Jezično orijentirani programski jezik
+org.radare.iaito	Qt i C++ GUI za radare2 okvir obrnutog inženjeringa
+org.raspberrypi.rpi-imager	Raspberry Pi uslužni program za obradu slika
+org.remmina.Remmina	Klijent za upravljanje udaljenom radnom površinom
+org.rncbc.qpwgraph	PipeWire Graph Qt GUI sučelje
+org.rncbc.qsynth	Fluidsynth Qt GUI sučelje
+org.rncbc.qtractor	Audio/MIDI sekvencer s više zapisa
+org.robocode.Robocode	Gradite najbolje - uništite ostalo!
+org.rolisteam.rolisteam	Klijent pratilac Rolisteam poslužitelja
+org.ryujinx.Ryujinx	Nintendo Switch Emulator
+org.sabnzbd.sabnzbd	Besplatan i jednostavan binarni čitač vijesti
+org.sauerbraten.Sauerbraten	Besplatna pucačina iz prvog lica za više igrača i za jednog igrača, nasljednik Cube FPS
+org.scantailor.ScanTailor	Interaktivni alat za naknadnu obradu skeniranih stranica
+org.scilab.Scilab	Znanstveni programski paket za numerička izračunavanja
+org.scintilla.SciTE	Uređivač teksta temeljen na SCIntili
+org.scummvm.ScummVM	Tumač za brojne pustolovne igre i igre uloga
+org.sdrangel.SDRangel	TX & RX softverski definirani radio
+org.seul.crimson	Naizmjenična taktička ratna igra
+org.shadered.SHADERed	Alat za izradu i testiranje HLSL i GLSL shadera
+org.shadowsocks.qt5client	Izvorni i višeplatformski shadowsocks GUI klijent s naprednim značajkama.
+org.shotcut.Shotcut	Video uređivač
+org.signal.Signal	Privatni glasnik
+org.sigxcpu.Livi	Jednostavan video player za mobilne telefone temeljen na GTK4
+org.sil.Bloom	Razvoj materijala za pismenost za jezične zajednice
+org.sil.FieldWorks	Upravljanje jezičnim i kulturnim podacima
+org.skytemple.Randomizer	Randomizer za Pokémon Mystery Dungeon Explorers of Sky
+org.skytemple.SkyTemple	ROM Editor za Pokémon Mystery Dungeon Explorers of Sky
+org.soapui.SoapUI	SoapUI OS je rješenje za funkcionalno testiranje API-ja i web usluga
+org.solarus_games.solarus.Launcher	Pregledajte i igrajte svoju zbirku Solarus zadataka.
+org.sonic3air.Sonic3AIR	Remaster Sonic 3 & Knuckles koji su izradili fanovi za široki ekran.
+org.soundconverter.SoundConverter	Pretvorite audio datoteke
+org.sparkleshare.SparkleShare	Čarobna sinkronizacija Git datoteka s vlastitim hostom
+org.speedcrunch.SpeedCrunch	Znanstveni kalkulator visoke preciznosti
+org.speed_dreams.SpeedDreams	Speed Dreams je 3D višeplatformska simulacija motosporta i trkaća igra otvorenog koda
+org.sqlitebrowser.sqlitebrowser	DB Browser za SQLite je lagani GUI editor za SQLite baze podataka
+org.squeakland.Etoys	Učite uz vizualno programiranje
+org.squey.Squey	Istražite svoje podatke
+org.squidowl.halloy	IRC klijent napisan u Rustu
+org.srb2.SRB2	Fan igra 3D Sonic the Hedgehog temeljena na modificiranoj verziji Doom Legacyja
+org.srb2.SRB2Kart	Mod karting utrka temeljen na 3D igri obožavatelja Sonic the Hedgehog Sonic Robo Blast 2
+org.srb2.SRB2Kart-galaxy	Modificirani SRB2Kart koji dodaje mnoge prilagođene značajke
+org.srb2.SRB2Kart-galaxy_azerty	Modificirani SRB2Kart koji dodaje mnoge prilagođene značajke s azerty francuskim rasporedom tipkovnice
+org.srb2.SRB2Kart-Saturn	Modificirani SRB2Kart koji dodaje mnoge prilagođene značajke
+org.srb2.SRB2Persona	Mod nadahnut Personom temeljen na 3D igri obožavatelja Sonic the Hedgehog Sonic Robo Blast 2
+org.standardnotes.standardnotes	Jednostavno i privatno mjesto za vaše bilješke, misli i životna djela
+org.stellarium.Stellarium	Desktop Planetarij
+org.stochas.Stochas	Stochas sekvencer
+org.strawberrymusicplayer.strawberry	Glazbeni svirač i organizator zbirke
+org.subsurface_divelog.Subsurface	Upravljanje i prikaz podataka ronilačkog računala
+org.subtitld.Subtitld	Subtitld je softver za izradu i uređivanje titlova
+org.sugarlabs.AbacusActivity	Alat za jednostavne aritmetičke izračune
+org.sugarlabs.Chart	Izradite svoje grafikone
+org.sugarlabs.Chess	Slatka igra šaha
+org.sugarlabs.ColorDeducto	Igra temeljena na logičkoj indukciji
+org.sugarlabs.Dimensions	Igra spajanja uzoraka
+org.sugarlabs.Finance	Naučite osnove financijskog planiranja
+org.sugarlabs.FotoToon	Stvorite vlastiti strip
+org.sugarlabs.FractionBounce	Igra o razlomcima
+org.sugarlabs.ImplodeActivity	Implodirajte blokove iste boje dok svi ne nestanu
+org.sugarlabs.Maze	Jednostavna igra labirinta
+org.sugarlabs.Measure	Osciloskopski program za vizualizaciju ulaza mikrofona
+org.sugarlabs.Memorize	Pronađite podudarne parove
+org.sugarlabs.MusicBlocks	Zbirka alata za istraživanje temeljnih glazbenih koncepata na zabavan način.
+org.sugarlabs.MusicKeyboard	Svirajte glazbu s ovom klavirskom tipkovnicom
+org.sugarlabs.Paint	Slatki alat za slikanje
+org.sugarlabs.Physics	Dokažite da je Sir Isaac Newton točan
+org.sugarlabs.Pippy	Razgovarajte sa svojim računalom u Pythonu
+org.sugarlabs.Pukllanapac	Klizna zagonetka
+org.sugarlabs.ReadETexts	Pročitajte tisuće besplatnih e-knjiga
+org.sugarlabs.Sliderule	Mehanički kalkulator
+org.sugarlabs.SolarSystem	Učite o planetima
+org.sugarlabs.Speak	Animirano lice koje govori sve što upišete
+org.sugarlabs.StoryActivity	Ispričati priču
+org.sugarlabs.SwiftFeet	Stani na noge i zapleši!
+org.sugarlabs.TurtlePondActivity	Okružite kornjaču prije nego što pobjegne preko ekrana
+org.sugarlabs.Words	Višejezični izvanmrežni rječnik
+org.supertuxproject.SuperTux	Igra skok-i-trči u kojoj glumi pingvin Tux
+org.surge_synth_team.surge-xt	Samostalni sintesajzer Surge XT
+org.synfig.SynfigStudio	Izrada i uređivanje 2D animacija i kompozicija
+org.syphon.Syphon	razgovarajte s netaknutom svojom privatnošću i slobodom
+org.tabos.maxcontrol	Kontrolni softver za Max! uređaja
+org.tabos.roger	Dnevnik, softver za faksiranje i nadzor poziva za AVM FRITZ!Box ili kompatibilan
+org.tabos.saldo	Provjerite svoje bankovne račune
+org.tabos.twofun	Igra reakcije na dodir za dva igrača.
+org.taisei_project.Taisei	Bullet hell shoot 'em up igra smještena u Tōhō svemir
+org.telegram.desktop	Brzo. Siguran. Snažan.
+org.telesculptor.TeleSculptor	Fotogrametrija osmišljena s fokusom na video snimke iz zraka
+org.tenacityaudio.Tenacity	Snimajte i uređujte audio datoteke
+org.texstudio.TeXstudio	LaTeX editor
+org.thentrythis.Samplebrain	Prilagođena aplikacija za gnječenje uzoraka koju je dizajnirao Aphex Twin
+org.thonny.Thonny	Python IDE za početnike
+org.tigervnc.vncviewer	Povežite se na VNC poslužitelj i prikažite udaljenu radnu površinu
+org.tildearrow.furnace	Praćenje chiptunea otvorenog koda
+org.tomviz.Tomviz	Besplatna i otvorena tomografska vizualizacija materijala u nanorazmjerima
+org.tordini.flavio.Minitube	aplikacija YouTube
+org.torproject.torbrowser-launcher	Program koji će vam pomoći da preuzmete, ažurirate i pokrenete Tor Browser Bundle
+org.tribler.Tribler	Prema tome da Bittorrent postane anoniman i da ga je nemoguće ugasiti.
+org.tropy.Tropy	Istražite svoje istraživačke fotografije
+org.tryton.Tryton-68	Klijent za Tryton Application Platform
+org.tryton.Tryton-70	Klijent za Tryton Application Platform
+org.tug.texworks	Jednostavno okruženje za uređivanje, slaganje i pregled TeX dokumenata
+org.turbowarp.TurboWarp	Mod Scratch s kompajlerom za brže pokretanje projekata, tamni način rada, hrpa dodataka i više
+org.tuxemon.Tuxemon	Tuxemon je besplatni RPG otvorenog koda za borbu protiv čudovišta.
+org.tuxfamily.hatari	Atari ST/STE/TT/Falcon emulator
+org.tuxfamily.StuntRally	Trkaća igra s reli stilom vožnje
+org.tuxfamily.XMoto	2D motocross platformska igra
+org.tuxpaint.Tuxpaint	Program za crtanje za djecu
+org.tvbrowser.TVBrowser	Besplatan EPG
+org.twinery.Twine	Twine je alat otvorenog koda za pričanje interaktivnih, nelinearnih priča
+org.ultimatepp.TheIDE	IDE za okvir za razvoj aplikacija U++ za više platformi
+org.unitystation.StationHub	Pokretač za igru otvorenog koda Unitystation
+org.unknown_horizons.UnknownHorizons	Igra simulacije ekonomije u stvarnom vremenu otvorenog koda
+org.upnproutercontrol.UPnPRouterControl	Jednostavan program koji upravlja UPnP usmjerivačima
+org.upscayl.Upscayl	Besplatni alat za povećanje vrijednosti AI slike otvorenog koda
+org.v1993.NXDumpClient	Klijent za ispisivanje preko USB-a s nxdumptoolom
+org.verapdf.veraPDF	veraPDF je validator formata datoteke za standard arhiviranja PDF/A
+org.vergecurrency.verge-qt	VergeCurrency, sigurna digitalna valuta prilagođena korisniku.
+org.vertcoin.vertcoin-qt	Potpuna provjera Vertcoin peer-to-peer mrežnog čvora, novčanika i GUI-ja
+org.videolan.VLC	VLC media player, open-source multimedijski player
+org.viking.Viking	Uređivač i analizator GPS podataka
+org.vim.Vim	Sveprisutni uređivač teksta
+org.vinegarhq.Vinegar	Mali i brzi bootstrapper pun značajki za Roblox
+org.virt_manager.virt-viewer	Udaljeni pristup virtualnim strojevima
+org.virtualxt.VirtualXT	Turbo PC/XT emulator
+org.wesnoth.Wesnoth	Strateška igra na poteze s visokom temom fantazije
+org.wezfurlong.wezterm	Multiplatformski terminalski emulator i multiplekser ubrzan GPU-om
+org.wfview.wfview	Open Source sučelje za Icom primopredajnike
+org.widelands.Widelands	Strateška igra u stvarnom vremenu
+org.winehq.Wine	Pokretanje Windows aplikacija na Linux, BSD, Solaris i Mac OS X
+org.wireshark.Wireshark	Wireshark je vodeći svjetski analizator protokola
+org.worldpossible.ScriptLauncher	Alat za pokretanje skripti ljuske s root privilegijama
+org.wxhexeditor.wxHexEditor	Napredni heksadecimalni uređivač velikih datoteka
+org.xfce.mousepad	Mousepad je jednostavan uređivač teksta za Xfce radno okruženje.
+org.xfce.ristretto	Brz i lagan preglednik slika
+org.xiphos.Xiphos	Vodič za proučavanje Biblije
+org.xnec2c.Xnec2c	Višenitni EM alat temeljen na NEC2 za modeliranje dijagrama zračenja antene
+org.xonotic.Xonotic	Pucačina iz prvog lica za više igrača orijentirana na smrtnu utakmicu
+org.x.Warpinator	Šaljite i primajte datoteke putem mreže
+org.yamagi.YamagiQ2	Yamagi Quake II je alternativni klijent za id Software Quake II
+org.yuzu_emu.yuzu	Nintendo Switch emulator
+org.zaproxy.ZAP	Zed Attack Proxy (ZAP) popularan je besplatni sigurnosni alat.
+org.zdoom.GZDoom	Klasični mehanizam za pucanje u prvom licu za sve klasične Id igre
+org.zealdocs.Zeal	Preglednik dokumentacije
+org.zim_wiki.Zim	Pišite bilješke u wikiju za radnu površinu
+org.zirael.bkchem.BKChem	Program za crtanje molekula
+org.zotero.Zotero	Prikupljajte, organizirajte, citirajte i dijelite istraživanja
+org.zrythm.Zrythm	Digitalna audio radna stanica
+org.zulip.Zulip	Zulip Desktop klijent za Linux
+page.codeberg.DrRac27.Karoto	Aplikacija popisa za kupnju za mobilni Linux
+page.codeberg.Imaginer.Imaginer	Zamislite s AI
+page.codeberg.JakobDev.CCLite	ComputerCraft Emulator
+page.codeberg.JakobDev.jdAnimatedImageEditor	Jednostavan program za stvaranje animiranih slika
+page.codeberg.JakobDev.jdAppStreamEdit	Grafički program za stvaranje i uređivanje AppStream datoteka
+page.codeberg.JakobDev.jdDBusDebugger	Napredni D-Bus program za ispravljanje pogrešaka
+page.codeberg.JakobDev.jdDesktopEntryEdit	Grafički program za stvaranje i uređivanje unosa na radnoj površini
+page.codeberg.JakobDev.jdDiff	Grafički preglednik razlika između platformi
+page.codeberg.JakobDev.jdEolConverter	Pretvara kraj retka svih datoteka u direktoriju
+page.codeberg.JakobDev.jdFlatpakSnapshot	Program za izradu snimki Flatpak aplikacija
+page.codeberg.JakobDev.jdMinecraftLauncher	Klasičan Minecraft pokretač
+page.codeberg.JakobDev.jdMrpackInstaller	Instalirajte Modrinth modpacks
+page.codeberg.JakobDev.jdNBTExplorer	Uređivač za Minecraft NBT datoteke
+page.codeberg.JakobDev.jdPixelUpscaler	Vrhunske slike po pikselu
+page.codeberg.JakobDev.jdProcessFileWatcher	Bez napora nadzirite i prikazujte pristup datoteci u stvarnom vremenu za bilo koji proces
+page.codeberg.JakobDev.jdReplace	Pomoću jdReplace možete zamijeniti tekst u svim datotekama direktorija
+page.codeberg.JakobDev.jdSimpleAutostart	Uredite unose za automatsko pokretanje
+page.codeberg.JakobDev.jdTextEdit	Napredni uređivač teksta
+page.codeberg.lazyt.ubpm	Upravljanje podacima o krvnom tlaku
+page.codeberg.libre_menu_editor.LibreMenuEditor	Prilagodite jelovnik
+page.codeberg.papojari.Find_Billy	Pixel art 2d platformer igra.
+page.codeberg.Qwel.egui_picross	Osnovna igra picross, nonogram, griddler
+page.codeberg.SOrg.DogGTK	GTK4 + Libadwaita Igra s temom psa
+page.codeberg.tpikonen.geobug	Provjerite svoju lokaciju i spremite je na GPX stazu
+page.codeberg.tpikonen.satellite	Provjerite svoj GPS prijem i spremite svoje tragove
+page.codeberg.yeldham.Librerama	Besplatna/besplatna brza arkadna zbirka mini igara
+party.supertux.supertuxparty	Igra za zabavu u kojoj glume FLOSS maskote
+pl.art.lach.slawek.V2BlankBrowser	Web preglednik koji ne prikazuje neželjeni zaslon
+pl.nieto.fityk	Prilagodba nelinearne krivulje i analiza podataka
+pl.youkai.lanchat	LAN chat i prijenos datoteka
+pl.youkai.nscan	Mrežni skener.
+pm.mirko.Atoms	Upravljajte Chrootom i spremnicima.
+pro.vpup.vpuppr	VTuber aplikacija napravljena s Godotom 3.4
+radio.k0swe.Kel_Agent	Radioamaterski web agent
+re.chiaki.Chiaki	Besplatni klijent otvorenog koda za PlayStation Remote Play
+re.rizin.cutter	Besplatna platforma za obrnuti inženjering otvorenog koda koju pokreću Rizin i Qt
+re.sonny.Commit	Uređivač commit poruka
+re.sonny.Junction	Birač programa
+re.sonny.OhMySVG	Smanjite veličinu SVG-ova
+re.sonny.Playhouse	Igralište za HTML/CSS/JavaScript
+re.sonny.Retro	Prilagodljiv retro digitalni segmentni sat
+re.sonny.Tangram	Preglednik za vaše prikvačene kartice
+re.sonny.Workbench	Učite i izradite prototip s GNOME tehnologijama
+rest.insomnia.Insomnia	Open Source API klijent i platforma za dizajn za GraphQL, REST i gRPC.
+rocks.koreader.KOReader	Preglednik dokumenata za DjVu, PDF, EPUB i više
+ro.fxdata.taskmonitor.viewer	Vizualizirajte podatke TaskMonitora
+ro.go.hmlendea.DL-Desktop	Neslužbeni stolni klijent za aplikaciju Duolingo za učenje jezika
+ro.go.hmlendea.SokoGrump	Logička igra nalik Sokobanu s Grumpy Catom
+ro.hume.cosmin.ShoppingList	Aplikacija popisa za kupovinu za GNU/Linux mobilne uređaje
+ru.proninyaroslav.libretrack	Privatna aplikacija za praćenje paketa na više platformi
+ru.sview.sView	Stereoskopski Media Player
+ru.yandex.Browser	Web preglednik tvrtke Yandex
+sa.sy.bluerecorder	Jednostavan snimač zaslona za Linux desktop. Podržava Wayland & Xorg
+se.cendio.tlclient	Linux udaljeni desktop poslužitelj izgrađen na tehnologiji otvorenog koda
+se.emijoh.mpw	Izračunajte lozinku web-mjesta, kada vam je potrebna.
+se.manyver.Manyverse	decentralizirana društvena mreža
+se.sjoerd.GIScan	Čitajte i analizirajte GISAXS podatke pohranjene u cbf formatu
+se.sjoerd.Graphs	Crtajte i manipulirajte podacima
+sh.cider.Cider	Apple Music klijent otvorenog koda i usmjeren na zajednicu
+sh.fhs.KatawaShoujoReEngineered	Moderna verzija klasičnog vizualnog romana u stilu bishoujoa
+sh.ppy.osu	Ritam igra u kojoj možete besplatno pobijediti. Ritam je udaljen samo *klik*!
+sh.xaviers.Opentapes	Slušajte hip-hop mixtape
+si.tano.Vremenar	Prikažite vremenske prilike i prognozu na karti na brz i jednostavan način
+site.someones.Lonewolf	Organizirajte i pratite svoje zadatke s lakoćom i fleksibilnošću
+sm.puri.Chatty	Aplikacija za razmjenu poruka za mobitel i desktop
+social.whalebird.WhalebirdDesktop	Whalebird je Mastodon, Pleroma i Misskey klijent za stolna računala
+so.libdb.gtkcord4	GTK4 Discord klijent u Gou
+so.onekey.Wallet	Sveobuhvatni kripto novčanik.
+space.fips.Fips	FITS preglednik slika temeljen na OpenGL-u
+space.nouspiro.tenmon	FITS/XISF preglednik slika, pretvarač, indeks i pretraživanje
+studio.kx.carla	Domaćin audio dodataka
+tech.feliciano.pocket-casts	Online podcast player
+tk.deat.Jazz2Resurrection	Ponovna implementacija Jazz Jackrabbita 2
+tr.gov.uyap.Editor	UYAP Document Editor je aplikacija za prikaz i stvaranje UDF dokumenata u UYAP sustavu.
+tv.kodi.Kodi	Vrhunski centar za zabavu
+tv.plex.PlexDesktop	Plex klijent za stolna računala
+tv.plex.PlexHTPC	Plex HTPC klijent za veliki ekran
+tw.ddnet.ddnet	Najteži co-op 2D platformer ikada
+ua.org.brezblock.q4wine	Uslužni program za Wine aplikacije i upravljanje prefiksima
+uk.co._69_studios.kublit	Potpuno nova originalna puzzle igra iz 69 Studios
+uk.co.electronstudio.ComicReaderUltimate	Uvjerljivi gledatelj CBZ-a
+uk.co.mangobrain.Infector	Igrajte klasičnu društvenu igru Ataxx za dva do četiri igrača
+uk.co.parallelrealities.games.edgar	2D avanturistička platformska igra
+uk.co.powdertoy.tpt	Igra pješčanika fizike
+uk.et1.big-finish-downloader	GTK aplikacija za preuzimanje vaše Big Finish kolekcije
+uk.jnthn.backgammony	Sučelje za backgammon s podrškom za više igrača
+uk.me.doof.Lander	Arkadna igra u stilu Lunar Lander.
+uk.org.greenend.chiark.sgtatham.putty	SSH, Telnet i Rlogin klijent
+uk.org.greenend.chiark.sgtatham.puzzles	Zbirka puzzle igara
+uk.org.zint.zint-qt	Generator crtičnog koda
+us.ihmc.cmap.CmapTools	Korisnicima omogućuje stvaranje i dijeljenje konceptualnih mapa.
+us.zoom.Zoom	Videokonferencije, web konferencije, webinari, dijeljenje zaslona
+vet.rsc.OpenRSC.Launcher	Pokretač za Open RuneScape Classic poslužitelje
+vn.hoabinh.quan.CoBang	Skener QR koda za desktop Linux
+website.i2pd.i2pd	Nevidljivi Internet
+work.openpaper.Paperwork	Upravitelj osobnih dokumenata
+ws.openarena.OpenArena	Besplatna pucačina iz prvog lica otvorenog koda
+xyz.aguno.CubeTimer	Kao StackMat, ali za Linux
+xyz.armcord.ArmCord	ArmCord je prilagođeni klijent osmišljen kako bi poboljšao vaše Discord iskustvo dok je sve lagano.
+xyz.audiostellar.AudioStellar	Eksperimentalni uzorkivač pokretan umjetnom inteligencijom
+xyz.eclipium.Hieroctive	Smiješna igra pamćenja za učenje hijeroglifa!
+xyz.eclipium.TetraSwap	Jednostavna, ali izazovna futuristička puzzle igra!
+xyz.hyperplay.HyperPlay	Web3 pokretač igara iz budućnosti. Nosite svoj novčanik, NFT-ove, tokene i postignuća u svaku igru.
+xyz.ketok.Speedtest	Izmjerite brzinu internetske veze
+xyz.kusma.aurora	Aurora by Excess
+xyz.ljoonal.neospeeps	Lagana aplikacija koja navodi NeosVR vire i sesije
+xyz.mx_moment.moment	Prilagodljiv Matrix klijent kojim se upravlja pomoću tipkovnice
+xyz.rescribe.rescribe	OCR visoke kvalitete za slike, PDF-ove i Google knjige.
+xyz.safeworlds.hiit	Tajmer za intervalni trening visokog intenziteta
+xyz.safeworlds.midiconn	Virtualni MIDI hub
+xyz.slothlife.Jogger	Praćenje fitnessa
+xyz.splashmapper.Splash	Softver za video mapiranje
+xyz.stuerz.BilligSweeper	Jeftini klon Minesweepera
+xyz.tytanium.DoorKnocker	Provjerite dostupnost portala
+xyz.woxel.Woxel	Open Source 3D voxel editor sličan Minecraftu
+xyz.xclicker.xclicker	Brzi GUI automatski kliker za x11 linux stolna računala
+xyz.z3ntu.razergenie	Konfigurirajte i kontrolirajte svoje Razer uređaje

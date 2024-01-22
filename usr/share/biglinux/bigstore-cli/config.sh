@@ -27,6 +27,11 @@
 
 PATH="$PATH:/usr/share/biglinux/bigstore-cli"
 
-cacheFolder='/var/tmp/pamac'
+cacheFolder='/var/tmp/pamac/'
+
+cacheFolderHome="$HOME/.cache/bigstore-cli/"
+if [[ ! -d $cacheFolderHome ]]; then
+    mkdir -p "$cacheFolderHome"
+fi
 
 localeFolder='/usr/share/biglinux/bigstore-cli/locale/'

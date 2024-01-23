@@ -29,6 +29,7 @@
 aurSearchScript="/usr/share/biglinux/bigstore-cli/aur_search.sh"
 pacmanSearchScript="/usr/share/biglinux/bigstore-cli/pacman_search.sh"
 flatpakSearchScript="/usr/share/biglinux/bigstore-cli/flatpak_search.sh"
+snapSearchScript="/usr/share/biglinux/bigstore-cli/snap_search.sh"
 
 # Checking if the -j parameter was provided
 jsonMode=false
@@ -47,6 +48,7 @@ if [ $# -eq 0 ] || [ "$1" == "--help" ]; then
     echo "    --aur       Search only in AUR"
     echo "    --flatpak   Search only in Flatpak"
     echo "    --pacman    Search only in Pacman"
+    echo "    --snap      Search only in Snap"
     echo "    --all       Search in both AUR and Pacman"
     echo "    -j          Output in JSON format"
     exit 0
@@ -63,6 +65,9 @@ elif [ "$1" == "--pacman" ]; then
 elif [ "$1" == "--flatpak" ]; then
     searchMode="flatpak"
     shift # Remove the --flatpak parameter
+elif [ "$1" == "--snap" ]; then
+    searchMode="snap"
+    shift # Remove the --flatpak parameter
 elif [ "$1" == "--all" ]; then
     searchMode="all"
     shift # Remove the --all parameter
@@ -76,10 +81,13 @@ execute_search() {
         $pacmanSearchScript "$@"
     elif [ "$searchMode" = "flatpak" ]; then
         $flatpakSearchScript "$@"
+    elif [ "$searchMode" = "snap" ]; then
+        $snapSearchScript "$@"
     else
         $aurSearchScript "$@"
         $pacmanSearchScript "$@"
         $flatpakSearchScript "$@"
+        $snapSearchScript "$@"
     fi
 }
 

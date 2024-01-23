@@ -184,7 +184,7 @@ else
             totalInstalled += 1;
             if (up == "true") {
                 installed="installed ";
-                update=" new version "gray version " ";
+                update=" new version  "gray version " ";
                 version=iver;
                 count -= 10;
             } else {

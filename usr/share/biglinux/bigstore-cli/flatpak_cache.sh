@@ -84,9 +84,9 @@ elif [[ "$1" == "disable-translate" ]]; then
     DisableTranslate="true"
 
 elif [[ "$1" =~ "help" ]]; then
-    echo "Usage: aur_cache_with_translation.sh [language code]
-    Example: aur_cache_with_translation.sh pt_BR
-    Example: aur_cache_with_translation.sh disable-translate
+    echo "Usage: aur_cache.sh [language code]
+    Example: aur_cache.sh pt_BR
+    Example: aur_cache.sh disable-translate
     Not use any argument to use the system locale.
     Files for translation must be in the folder: $localeFolder"
     exit 0
@@ -172,7 +172,7 @@ if [[ "$DisableTranslate" == "false" ]]; then
 
 else
 
-    awk -v installedPackages="$TmpInstalledFlatpak" -v updatePackages="$TmpUpdateFlatpak" -v localeFile="$localeFile" '
+    awk -v installedPackages="$TmpInstalledFlatpak" -v updatePackages="$TmpUpdateFlatpak" '
     BEGIN {
         FS = "\t"; # Define o separador de campos como tab
 

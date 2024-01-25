@@ -97,7 +97,6 @@ if [[ "$DisableTranslate" == "false" ]]; then
         }
         close(installedPackages);
 
-
         # Read the translations file line by line
         while (getline < localeFile) {
 
@@ -122,6 +121,9 @@ if [[ "$DisableTranslate" == "false" ]]; then
         # installed = $6;
         if (FNR > 1 && !first) print ","; # Adiciona vírgula antes de cada objeto JSON, exceto o primeiro
         first = 0; # Reseta a flag após o primeiro objeto
+
+        # Escape invalid JSON characters
+        gsub(/(["\\])/,"\\\\&", $2);
 
         # Use translated description if available, otherwise use original description
         description_to_use = (translations[$3] != "") ? translations[$3] : $2;
@@ -157,6 +159,9 @@ else
     {
         if (FNR > 1 && !first) print ","; # Adiciona vírgula antes de cada objeto JSON, exceto o primeiro
         first = 0; # Reseta a flag após o primeiro objeto
+
+        # Escape invalid JSON characters
+        gsub(/(["\\])/,"\\\\&", $2);
 
         # Cria o objeto JSON para o pacote atual
         printf "{\"p\":\"%s\",\"d\":\"%s\",\"pkg\":\"%s\",\"v\":\"%s\",\"icon\":\"%s\",\"i\":%s}",

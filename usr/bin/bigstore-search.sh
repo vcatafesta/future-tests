@@ -25,11 +25,26 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+# Load config file
+source /usr/share/biglinux/bigstore-cli/config.sh
+
+# Load JSON file for search
+pacmanResult="$cacheFolderHome/pacmanResult.txt"
+aurResult="$cacheFolderHome/aurResult.txt"
+flatpakResult="$cacheFolderHome/flatpakResult.txt"
+snapResult="$cacheFolderHome/snapResult.txt"
+
 # Defining the paths of the scripts
 aurSearchScript="/usr/share/biglinux/bigstore-cli/aur_search.sh"
 pacmanSearchScript="/usr/share/biglinux/bigstore-cli/pacman_search.sh"
 flatpakSearchScript="/usr/share/biglinux/bigstore-cli/flatpak_search.sh"
 snapSearchScript="/usr/share/biglinux/bigstore-cli/snap_search.sh"
+
+# Initialize search mode flags
+searchAur=false
+searchPacman=false
+searchFlatpak=false
+searchSnap=false
 
 # Checking if the -j parameter was provided
 jsonMode=false
@@ -38,57 +53,73 @@ if [ "$1" = "-j" ]; then
     shift # Remove the -j parameter from the arguments
 fi
 
-# No argument or --help
-if [ $# -eq 0 ] || [ "$1" == "--help" ]; then
-    echo "Usage: $0 [options] [search term]"
-    echo "Without arguments, it will search all."
-    echo ""
-    echo "Options:"
-    echo "    --help      Show this help message"
-    echo "    --aur       Search only in AUR"
-    echo "    --flatpak   Search only in Flatpak"
-    echo "    --pacman    Search only in Pacman"
-    echo "    --snap      Search only in Snap"
-    echo "    --all       Search in both AUR and Pacman"
-    echo "    -j          Output in JSON format"
-    exit 0
+# Process each argument
+for arg in "$@"
+do
+    case $arg in
+        --aur)
+            searchAur=true
+            shift # Remove the --aur parameter
+            ;;
+        --pacman)
+            searchPacman=true
+            shift # Remove the --pacman parameter
+            ;;
+        --flatpak)
+            searchFlatpak=true
+            shift # Remove the --flatpak parameter
+            ;;
+        --snap)
+            searchSnap=true
+            shift # Remove the --snap parameter
+            ;;
+        --help)
+            echo "Usage: $0 [options] [search term]"
+            echo "Without arguments, it will search all."
+            echo ""
+            echo "Options:"
+            echo "    --help      Show this help message"
+            echo "    --aur       Search only in AUR"
+            echo "    --flatpak   Search only in Flatpak"
+            echo "    --pacman    Search only in Pacman"
+            echo "    --snap      Search only in Snap"
+            echo "    -j          Output in JSON format"
+            exit 0
+            ;;
+        *)
+            # Unknown option or search term
+            ;;
+    esac
+done
+
+# If no specific search mode is selected, search all
+if ! $searchAur && ! $searchPacman && ! $searchFlatpak && ! $searchSnap; then
+    searchAur=true
+    searchPacman=true
+    searchFlatpak=true
+    searchSnap=true
 fi
 
-# Determining search mode
-searchMode="all"
-if [ "$1" == "--aur" ]; then
-    searchMode="aur"
-    shift # Remove the --aur parameter
-elif [ "$1" == "--pacman" ]; then
-    searchMode="pacman"
-    shift # Remove the --pacman parameter
-elif [ "$1" == "--flatpak" ]; then
-    searchMode="flatpak"
-    shift # Remove the --flatpak parameter
-elif [ "$1" == "--snap" ]; then
-    searchMode="snap"
-    shift # Remove the --flatpak parameter
-elif [ "$1" == "--all" ]; then
-    searchMode="all"
-    shift # Remove the --all parameter
-fi
-
-# Executing the search based on the mode
+# Execute the search based on selected modes
 execute_search() {
-    if [ "$searchMode" = "aur" ]; then
-        $aurSearchScript "$@"
-    elif [ "$searchMode" = "pacman" ]; then
-        $pacmanSearchScript "$@"
-    elif [ "$searchMode" = "flatpak" ]; then
-        $flatpakSearchScript "$@"
-    elif [ "$searchMode" = "snap" ]; then
-        $snapSearchScript "$@"
-    else
-        $aurSearchScript "$@"
-        $pacmanSearchScript "$@"
-        $flatpakSearchScript "$@"
-        $snapSearchScript "$@"
+    if $searchAur; then
+        $aurSearchScript "$@" > $aurResult &
     fi
+    if $searchPacman; then
+        $pacmanSearchScript "$@" > $pacmanResult &
+    fi
+    if $searchFlatpak; then
+        $flatpakSearchScript "$@" > $flatpakResult &
+    fi
+    if $searchSnap; then
+        $snapSearchScript "$@" > $snapResult &
+    fi
+    wait
+
+    [ $searchAur = true ] && cat "$aurResult"
+    [ $searchPacman = true ] && cat "$pacmanResult"
+    [ $searchFlatpak = true ] && cat "$flatpakResult"
+    [ $searchSnap = true ] && cat "$snapResult"
 }
 
 # Processing the output based on the mode
@@ -97,7 +128,6 @@ if $jsonMode; then
     echo '['
     execute_search -j "$@" | LANG=C sort | LANG=C cut -d' ' -f2-
     echo '{}]'
-
 else
     # Normal Terminal Mode
     execute_search "$@" | LANG=C sort -r | LANG=C cut -d' ' -f2- | LANG=C sed 's|\t,,,|\n    |g'

@@ -38,7 +38,10 @@ json_mod_time=$(stat -c %Y "$FileToSaveCacheFiltered")
 flatpak_info=$(LANG=C flatpak history --columns=time -vv 2>&1)
 
 # Get the date of the last flatpak command
-flatpak_last_time=$(date -d "$(echo "$flatpak_info" | tail -n1)" +%s)
+flatpak_last_time=$(date -d "$(echo "$flatpak_info" | tail -n1)" +%s 2> /dev/null)
+
+# If flatpak_last_time is empty, set it to 0
+flatpak_last_time=${flatpak_last_time:=0}
 
 # Check if the JSON file is older than the last flatpak command
 if [ "$json_mod_time" -lt "$flatpak_last_time" ]; then
@@ -48,7 +51,7 @@ if [ "$json_mod_time" -lt "$flatpak_last_time" ]; then
 else
     # List active flatpak installations and check appstream folders
     echo "$flatpak_info" | rg 'F: Opening' | rg -o '/.*' | while read -r line; do
-        appstream_folder="${line}/appstream"
+        appstream_folder="$line/appstream"
 
         # Check if the appstream folder exists
         if [ -d "$appstream_folder" ]; then

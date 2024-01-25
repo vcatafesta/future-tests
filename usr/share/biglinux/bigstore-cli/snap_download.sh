@@ -78,6 +78,6 @@ fi
 
 # Filter the results of the files and create a cache file that will be used in searches
 # jq -r '._embedded."clickindex:package"[]| .title + "|" + .snap_id + "|" + .media[0].url + "|" + .summary + "|" + .version + "|" + .package_name + "|"' $FolderToSaveFiles* | sort -u >$FileToSaveCache
-jq -r '._embedded."clickindex:package"[]| .title + "\t" + .summary + "\t" + .package_name + "\t" + .snap_id + "\t" + .version + "\t" + .media[0].url' /home/bruno/.cache/bigstore-cli/snap_list_files/snap_list/* | sort -u >$AllSnapCache
+jq -r '._embedded."clickindex:package"[]| .title + "\t" + .summary + "\t" + .package_name + "\t" + .snap_id + "\t" + .version + "\t" + .media[0].url' /home/bruno/.cache/bigstore-cli/snap_list_files/snap_list/* | sd '"' '' | sort -u >$AllSnapCache
 
 # grep -Fwf /usr/share/bigbashview/bcc/apps/big-store/snap_list.txt "$FileToSaveCache" >"$FileToSaveCacheFiltered"

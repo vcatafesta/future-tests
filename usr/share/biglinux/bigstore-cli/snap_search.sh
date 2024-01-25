@@ -105,7 +105,7 @@ if $json_output; then
         # If the package is installed, count -= 10
         # If the package have update, count -= 10
         # This make easy to sort the results
-        count = 49;
+        count = 50;
 
         # For each term, if the package name match with term, count -= 1
         for (i in t) {
@@ -125,7 +125,6 @@ if $json_output; then
         # Print the count and all information from json line
         print count, $0;
     }'
-    # }' | LANG=C sort | LANG=C cut -d' ' -f2- # Sort the results by count, to show the best results first and remove the count
 
 else
     # eval run the crazy ripgrep command, and awk read the results
@@ -181,7 +180,7 @@ else
         # If the package is installed, count -= 10
         # If the package have update, count -= 10
         # This make easy to sort the results
-        count = 49;
+        count = 50;
 
         # For each term, if the package name match with term, count -= 1
         for (i in t) {
@@ -204,5 +203,4 @@ else
     } END {
             print "\n01   " gray "Snap\t\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
-    # }' | LANG=C sort -r | LANG=C cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

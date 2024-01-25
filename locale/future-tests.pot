@@ -15,101 +15,6 @@ msgstr  "Project-Id-Version: future-tests\n"
         "Content-Transfer-Encoding: 8bit\n"
 
 #
-# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
-msgid   "Instalação Personalizada"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
-msgid   "Gerenciador de login"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid   "Manutenção"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid   "Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que "
-        "facilitam a manutenção do sistema\n"
-        "          instalado."
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid   "Restaurar"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid   "Dicas de Instalação"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid   "Utilize partição BTRFS para ter compressão automática e pontos de "
-        "restauração. Não crie partição\n"
-        "          /boot separada. Não crie partição SWAP, utilizamos "
-        "gerênciamento dinâmico de memória virtual."
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
-msgid   "Instalar"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid   "Opções avançadas"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid   "É um usuário avançado e deseja fazer uma instalação personalizada? "
-        "Possuimos diversas possibilidades\n"
-        "          para o sistema atender suas necessidades."
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid   "Avançado"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-msgid   "Esse é um sistema colaborativo, se precisar de ajuda consulte nosso "
-        "fórum: https://forum.biglinux.com.br."
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-msgid   "Contamos com você para ter um sistema cada vez melhor!"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid   "O sistema está em modo"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid   "e com o kernel"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid   "Voltar"
-msgstr  ""
-
-#
 # File: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html, line: 0
 msgid   "Icon"
 msgstr  ""
@@ -255,21 +160,6 @@ msgid   "Web"
 msgstr  ""
 
 #
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
-msgid   "Remover"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
-msgid   "Fim dos resultados"
-msgstr  ""
-
-#
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
-msgid   "Nenhum resultado"
-msgstr  ""
-
-#
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
 msgid   "Início"
 msgstr  ""
@@ -342,4 +232,114 @@ msgstr  ""
 #
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
 msgid   "Dev"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid   "Remover"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Instalar"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid   "Fim dos resultados"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
+msgid   "Nenhum resultado"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
+msgid   "Instalação Personalizada"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
+msgid   "Gerenciador de login"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Esse é um sistema colaborativo, se precisar de ajuda consulte nosso "
+        "fórum: https://forum.biglinux.com.br."
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Contamos com você para ter um sistema cada vez melhor!"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid   "O sistema está em modo"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid   "e com o kernel"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Manutenção"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+msgid   "Voltar"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Opções avançadas"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que "
+        "facilitam a manutenção do sistema\n"
+        "          instalado."
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Restaurar"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Dicas de Instalação"
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Utilize partição BTRFS para ter compressão automática e pontos de "
+        "restauração. Não crie partição\n"
+        "          /boot separada. Não crie partição SWAP, utilizamos "
+        "gerênciamento dinâmico de memória virtual."
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "É um usuário avançado e deseja fazer uma instalação personalizada? "
+        "Possuimos diversas possibilidades\n"
+        "          para o sistema atender suas necessidades."
+msgstr  ""
+
+#
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+msgid   "Avançado"
 msgstr  ""

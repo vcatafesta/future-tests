@@ -17,22 +17,365 @@ msgstr ""
 "X-Generator: attranslate\n"
 
 # 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html:0
+msgid "Icon"
+msgstr "アイコン"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Repository:"
+msgstr "リポジトリ："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Name:"
+msgstr "名前："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Version:"
+msgstr "バージョン："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Description:"
+msgstr "説明: __________："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Architecture:"
+msgstr "建築："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "URL:"
+msgstr "URL:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "License:"
+msgstr "ライセンス："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Groups:"
+msgstr "グループ："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Provides:"
+msgstr "以下を提供します。"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Depends On:"
+msgstr "異なります："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Optional Dependencies:"
+msgstr "オプションの依存関係:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Required By:"
+msgstr "以下で必須です。"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Optional For:"
+msgstr "オプション:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Conflicts With:"
+msgstr "競合:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Replaces:"
+msgstr "置き換えます："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Download Size:"
+msgstr "ダウンロードサイズ:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Installed Size:"
+msgstr "インストール済みサイズ:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Packager:"
+msgstr "パッケージャ："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Build Date:"
+msgstr "ビルド日:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "MD5 Sum:"
+msgstr "MD5 合計:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "SHA-256 Sum:"
+msgstr "SHA-256 合計:"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Signatures:"
+msgstr "署名："
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Close"
+msgstr "閉める"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Nativos"
+msgstr "ネイティボス"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Aur"
+msgstr "アウル"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Flatpak"
+msgstr "フラットパック"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Snap"
+msgstr "スナップ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Web"
+msgstr "ウェブ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Início"
+msgstr "イニシオ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Atualizações"
+msgstr "Atualizações"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Instalados"
+msgstr "インスタラドス"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Histórico"
+msgstr "ヒストリコ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Ajustes"
+msgstr "アジュステス"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Categorias"
+msgstr "カテゴリア"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Internet"
+msgstr "インターネット"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Escritório"
+msgstr "エスクリトリオ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Gráfico"
+msgstr "グラフィコ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Multimídia"
+msgstr "マルチミディア"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Jogos"
+msgstr "ジョゴス"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Sistema"
+msgstr "システマ"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Desenvolvimento"
+msgstr "Desenvolvimento"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Multimídia "
+msgstr "マルチミディア "
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Dev"
+msgstr "開発"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr "取り去る"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "取り付ける"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Fim dos resultados"
+msgstr "Fim dos resultados"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Nenhum resultado"
+msgstr "Nenhum resultado"
+
+# 
 # File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
 msgid "Instalação Personalizada"
 msgstr "Instalação Personalizada"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
 msgid "Gerenciador de login"
 msgstr "Gerenciador de login"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid ""
+"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
+"https://forum.biglinux.com.br."
+msgstr ""
+"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
+"https://forum.biglinux.com.br."
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Contamos com você para ter um sistema cada vez melhor!"
+msgstr "Contamos com você para ter um sistema cada vez melhor!"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+msgid "O sistema está em modo"
+msgstr "O sistema está em modo"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+msgid "e com o kernel"
+msgstr "e com o カーネル"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid "Manutenção"
 msgstr "製造"
 
 # 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+msgid "Voltar"
+msgstr "ヴォルター"
+
+# 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Opções avançadas"
+msgstr "Opções avançadas"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid ""
 "Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do "
 "sistema\n"
@@ -44,16 +387,19 @@ msgstr ""
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid "Restaurar"
 msgstr "レスタウラル"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid "Dicas de Instalação"
 msgstr "Dicas de Instalação"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid ""
 "Utilize partição BTRFS para ter compressão automática e pontos de restauração. Não crie partição\n"
 "          /boot separada. Não crie partição SWAP, utilizamos gerênciamento dinâmico de memória "
@@ -65,16 +411,13 @@ msgstr ""
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid "Instalar"
 msgstr "インスタラー"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-msgid "Opções avançadas"
-msgstr "Opções avançadas"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid ""
 "É um usuário avançado e deseja fazer uma instalação personalizada? Possuimos diversas "
 "possibilidades\n"
@@ -85,274 +428,6 @@ msgstr ""
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid "Avançado"
 msgstr "アバンサド"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-msgstr ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid "Contamos com você para ter um sistema cada vez melhor!"
-msgstr "Contamos com você para ter um sistema cada vez melhor!"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid "O sistema está em modo"
-msgstr "O sistema está em modo"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid "e com o kernel"
-msgstr "e com o カーネル"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-msgid "Voltar"
-msgstr "ヴォルター"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html, line: 0
-msgid "Icon"
-msgstr "アイコン"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Repository:"
-msgstr "リポジトリ："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Name:"
-msgstr "名前："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Version:"
-msgstr "バージョン："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Description:"
-msgstr "説明: __________："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Architecture:"
-msgstr "建築："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "URL:"
-msgstr "URL:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "License:"
-msgstr "ライセンス："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Groups:"
-msgstr "グループ："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Provides:"
-msgstr "以下を提供します。"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Depends On:"
-msgstr "異なります："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Optional Dependencies:"
-msgstr "オプションの依存関係:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Required By:"
-msgstr "以下で必須です。"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Optional For:"
-msgstr "オプション:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Conflicts With:"
-msgstr "競合:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Replaces:"
-msgstr "置き換えます："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Download Size:"
-msgstr "ダウンロードサイズ:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Installed Size:"
-msgstr "インストール済みサイズ:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Packager:"
-msgstr "パッケージャ："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Build Date:"
-msgstr "ビルド日:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "MD5 Sum:"
-msgstr "MD5 合計:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/pkginfo.html, line: 0
-msgid "SHA-256 Sum:"
-msgstr "SHA-256 合計:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Signatures:"
-msgstr "署名："
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-msgid "Close"
-msgstr "閉める"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Nativos"
-msgstr "ネイティボス"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Aur"
-msgstr "アウル"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Flatpak"
-msgstr "フラットパック"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Snap"
-msgstr "スナップ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-msgid "Web"
-msgstr "ウェブ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html, line: 0
-msgid "Remover"
-msgstr "除去"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-msgid "Fim dos resultados"
-msgstr "Fim dos resultados"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-msgid "Nenhum resultado"
-msgstr "Nenhum resultado"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Início"
-msgstr "イニシオ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Atualizações"
-msgstr "Atualizações"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Instalados"
-msgstr "インスタラドス"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Histórico"
-msgstr "ヒストリコ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Ajustes"
-msgstr "アジュステス"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Categorias"
-msgstr "カテゴリア"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Internet"
-msgstr "インターネット"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Escritório"
-msgstr "エスクリトリオ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Gráfico"
-msgstr "グラフィコ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Multimídia"
-msgstr "マルチミディア"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Jogos"
-msgstr "ジョゴス"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Sistema"
-msgstr "システマ"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Desenvolvimento"
-msgstr "Desenvolvimento"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Multimídia "
-msgstr "マルチミディア "
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-msgid "Dev"
-msgstr "開発"

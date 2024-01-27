@@ -183,13 +183,16 @@ msgid "Dev"
 msgstr "Dev"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remover"
-msgstr "Remover"
+msgid "Remove"
+msgstr "Remove"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Instalar"
-msgstr "Instalar"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "Install"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
 msgid "Fim dos resultados"
@@ -274,6 +277,10 @@ msgstr ""
 "restauração. Não crie partição\n"
 "          /boot separada. Não crie partição SWAP, utilizamos gerênciamento "
 "dinâmico de memória virtual."
+
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Instalar"
+msgstr "Instalar"
 
 #: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 msgid ""

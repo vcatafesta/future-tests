@@ -18,7 +18,7 @@ if [[ $type = pacman ]]; then
     # Check if a specific file exists
     if [[ -e /usr/share/swcatalog/icons/archlinux-arch-extra/64x64/$query\_$query.png ]]; then
         # Print an HTML image tag with the source attribute set to the specific file path
-        echo "<img class=\"large\" src=\"/usr/share/swcatalog/icons/archlinux-arch-extra/64x64/$query\_$query.png\" loading=\"lazy\">"
+        echo "<img class=\"large\" src=\"/usr/share/swcatalog/icons/archlinux-arch-extra/64x64/${query}_$query.png\" loading=\"lazy\">"
         exit
     fi
 
@@ -47,4 +47,4 @@ elif [[ $type = flatpak ]]; then
 fi
 
 # Print a default HTML div element with the class "makeIcon" and the first three characters of the 'query' variable as its content
-echo "<div id="pkgInfoIcon" class=\"makeIcon\" x-bind:x-on:change=\"makeIcon(\$el)\">${query:0:3}</div>"
+echo "<div id="pkgInfoIcon" class=\"makeIcon center\" x-bind:x-on:change=\"makeIcon(\$el)\">${query:0:3}</div>"

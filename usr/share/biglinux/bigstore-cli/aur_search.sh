@@ -81,15 +81,15 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","u":"|","vt":"|","pp":"|","od":"|","m":"|"' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","u":"|","vt":"|","pp":"|","od":"|","m":"|"' -v terms="$(accents_regex.sh $*)" '
 
     # $0 is the entire line                         - Complete line
-    # $1 is the first field, before "p":"           - Package
-    # $2 is the second field, before ","d":"        - Description
-    # $3 is the third field, before ","v":"         - Version
-    # $4 is the fourth field, before ","i":"        - Installed ( true or false )
-    # $5 is the fifth field, before ","iver":"      - Installed version
-    # $6 is the sixth field, before ","up":"        - Update available ( true or false )
+    # $1 is the first field, before "p":"
+    # $2 is the first field, before "p":"           - Package
+    # $3 is the second field, before ","d":"        - Description
+    # $4 is the third field, before ","v":"         - Version
+    # $5 is the fourth field, before ","i":"        - Installed ( true or false )
+    # $6 is the sixth field, before ","u":"         - Update version
     # $7 is the seventh field, before ","vote":"    - Votes
     # $8 is the eighth field, before ","pop":"      - Popularity
     # $9 is the ninth field, before ","ood":"       - Out of date in unix timestamp
@@ -119,12 +119,12 @@ if $json_output; then
         }
 
         # If the package is installed, count -= 10
-        if ($7 == "true") {
+        if ($5 == "true") {
             count -= 10;
         }
 
         # If the package have update, count -= 10
-        if ($5 == "true") {
+        if ($6 != "") {
             count -= 10;
         }
 
@@ -136,7 +136,7 @@ else
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","u":"|","vt":"|","pp":"|","od":"|","m":"|"' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","u":"|","vt":"|","pp":"|","od":"|","m":"|"' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -167,12 +167,11 @@ else
         description = $3;
         version = $4;
         installed = $5; # true or false
-        iver = $6; # installed version
-        up = $7; # update available
-        vote = $8; # votes
-        pop = $9; # popularity
-        ood = $10; # out of date in unix timestamp
-        maint = $11; # maintainer
+        up = $6; # update available
+        vote = $7; # votes
+        pop = $8; # popularity
+        ood = $9; # out of date in unix timestamp
+        maint = $10; # maintainer
 
         count = 50;
         for (i in t) {
@@ -181,10 +180,9 @@ else
         if (installed == "true") {
             count -= 10;
             totalInstalled += 1;
-            if (up == "true") {
+            if (up != "") {
                 installed="installed ";
-                update=" new version  "gray version " ";
-                version=iver;
+                update=" new version  "gray up " ";
                 count -= 10;
             } else {
                 update = "";
@@ -194,17 +192,17 @@ else
             installed="";
             totalNotInstalled += 1;
         }
-        if (ood != "null") {
+        if (ood != "") {
             ood = "  Out of date since " strftime("%F",ood);
         } else {
             ood = "";
         }
-        if (maint == "null") {
-            maint = "\x1b[31m Orphan";
+        if (maint == "") {
+            maint = "\x1b[31mOrphan";
         }
 
         # Removendo a contagem do print final
-        print count, blue "AUR" gray "/" yellow package "  " green installed gray version " " yellow update resetColor " (" gray "Votes " resetColor vote gray " Pop " resetColor pop gray " Maintainer " resetColor maint ")" red ood resetColor "\t,,," description "\t,,,";
+        print count, blue "AUR" gray "/" yellow package "  " green installed gray version " " yellow update resetColor " (" gray "Votes " resetColor vote gray " Pop " resetColor pop gray " Maintainer " resetColor maint resetColor")" red ood resetColor "\t,,," description "\t,,,";
 
     # END run one time after the last line is read
     } END {

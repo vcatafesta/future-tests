@@ -81,15 +81,16 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | rg -v ',"d":"",' | awk -v FS='"p":"|","d":"|","id":"|","v":"|","b":"|","o":"|","i":"|","u":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | rg -v ',"d":"",' | awk -v FS='"p":"|","d":"|","id":"|","v":"|","b":"|","o":"|","i":"|","u":"|","t":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # package = $2;
     # description = $3;
-    # id = $4;
     # version = $5;
-    # installed = $6;
-    # iver = $7;
-    # repo = $8;
+    # id = $4;
+    # installed = $8;
+    # update = $9;
+    # branch = $6;
+    # repo = $7;
 
     # BEGIN run one time before the first line is read
     BEGIN { 
@@ -115,12 +116,12 @@ if $json_output; then
         }
 
         # If the package is installed, count -= 10
-        if ($6 == "true") {
+        if ($8 == "true") {
             count -= 10;
         }
 
         # If the package have update, count -= 10
-        if ($7 == "true") {
+        if ($9 != "") {
             count -= 10;
         }
 
@@ -134,7 +135,7 @@ else
     # FS is the field separator, any characters beetween | is a field separator
     flatpak_cache_verify.sh
 
-    eval $search_cmd | rg -v ',"d":"",' | awk -v FS='"p":"|","d":"|","id":"|","v":"|","b":"|","o":"|","i":"|","u":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | rg -v ',"d":"",' | awk -v FS='"p":"|","d":"|","id":"|","v":"|","b":"|","o":"|","i":"|","u":"|","t":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {

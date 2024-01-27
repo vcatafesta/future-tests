@@ -1,0 +1,308 @@
+0ad	משחק אסטרטגיה לוחמה עתיקה בזמן אמת
+a4wd1-ros	ROS עבור רובוט A4WD1
+acrordrdc	Adobe Acrobat Reader הוא קורא PDF ושירותי אינטרנט שפותחו על ידי Adobe Inc.
+aetherp2p	Aether היא רשת עמית לעמית של קהילות עצמאיות בניהול עצמי.
+aisle-sense	ווסנס
+aliyundrive-webdav	阿里云盘 WebDAV
+amparepdftoimage	המר בקלות PDF ללא הגבלה לתמונה בכמה קליקים בלבד
+anik2	תוכנית ג לכתב כמויות
+ao	אפליקציית Microsoft To-Do לשולחן העבודה האלגנטית
+appimage2deb	כלי CLI להמרת קבצי AppImage לחבילות deb
+ares	כלי הצפנה מבוסס CLI כתוב ב-Rust
+artemisgcp	artemisgcp
+askgod	מערכת ניקוד Askgod - לקוח
+atomify	אטום LAMMPS
+authy	Authy Desktop
+awsiot	רשום אוטומטית את המכשיר שלך עם AWS IoT.
+b2	Micro Emulator b2 BBC
+barmer-ecare	ארגן את תאריך ההרשמה שלך עם המטופל האלקטרוני.
+battleships-resurrection	גרסה נהדרת של משחק הלוח הקלאסי Battleships
+beebeep	מסנג\'ר משרדי BeeBEEP בחינם
+biblemate	עוזר ידידותי לקריאה ולימוד התנ"ך שלך
+confidential-bitcoin	ביטקוין חסוי
+blanket	שומעים צלילים שונים
+bluemail	BlueMail היא אפליקציית דוא"ל חינמית, מאובטחת ואוניברסלית המסוגלת לנהל מספר בלתי מוגבל של חשבונות דוא"ל
+boltstorm	Boltstorm הוא משחק שפותח במהלך Ludum Dare 34 ב-72 שעות משחק ג\'אם
+bbl	BOSH טוען אתחול CLI
+broker	שרת API עם קוד אפס בזמן אמת
+bulkurlopener	אפליקציה פשוטה וקלה לשימוש המאפשרת למשתמש לפתוח רשימה של כתובות URL בלחיצה אחת.
+bytz	BYTZ, מטבע דיגיטלי לתוכן מדיה
+cannonball	מנוע ה-OutRun המשופר
+carnet	אפליקציה רבת עוצמה לרישום הערות עם סנכרון, עורך מקוון ואפליקציית אנדרואיד
+ccache	מטמון מהדר C/C++ מהיר
+certbot-dns-aliyun	תוסף Aliyun DNS Authenticator עבור Certbot
+certbot-dns-njalla	תוסף Njalla DNS Authenticator עבור Certbot
+chameleon	מנוע זיקית
+checkbox20	זמן ריצה של תיבת סימון וספקים ציבוריים
+chezmoi	נהל את קבצי הנקודות שלך במכונות מרובות בצורה מאובטחת.
+chunk-nordic	עוד מנהרת TCP דרך HTTP(S).
+clari3d-lite-64	ברוכים הבאים לחבילת ההתקנה הראשית של Clari3D Lite.
+clipboard	מנהל הלוח הטוב ביותר עבור הטרמינל
+clpeak	כלי בנצ\'מרק למדידת יכולות שיא של התקני opencl
+codename-nuclear	שם קוד: Nuclear היא הרפתקת פעולה-פלטפורמה
+colorgrab	כלי לחילוץ צבעים מתמונה
+comunik	תִקשׁוֹרֶת
+convertermulti	זה נעשה כדי להיות קל, מהיר ומיידי לשימוש: פשוט התחל להקליד ומיד תהיה לך המרה בזמן אמת עם
+couchdb	מסד נתונים RESTful מונחה מסמכים - Apache CouchDB הופעל. זמן להרגע.
+cpu-monitoring-webapp	WebAPP פשוט לניטור השימוש במערכת
+crossoverapp	🎯 שכבת-על לכל מסך.
+csbooks	קורא ספרים אלקטרוני וקומיקס חכם
+curl	כלי CLI להעברת נתונים עם תחביר כתובת URL (HTTP, HTTPS וכו\')
+cyberstorm2	משחק מדע בדיוני
+dashkiosk-image-config-isircu	תצורה בסיסית עבור שרת התקני dashkiosk
+dbgate	DBGate
+dehasher	תוכנית זו מבטלת את האלגוריתם שלי. כדי להפעיל סוג dehasher בטרמינל.
+deployer	אשף פריסת אפליקציית הפריסה ב-Google Play ועוד קצת.
+device-config-ui	ממשק משתמש מותאם אישית עבור הצמדת תצורת מכשיר
+sword	חרב דיאלוג
+dippi	חשב מידע תצוגה כמו DPI ויחס רוחב-גובה
+djlbench	ערכת כלים למידוד למידת מכונה
+docker	זמן ריצה של מיכל Docker
+donaldsebleung-com	האתר האישי שלי הוקם מחדש, הפעם נכתב באביב
+douban-fm	Douban FM עבור אובונטו.
+drm-info	זרוק מידע על מכשירי DRM
+dune-2000	משחק אסטרטגיה קלאסי
+earthcal	נהל זמן על ידי סנכרון עם מחזורי כדור הארץ.
+echo2ui	מהדהד בממשק המשתמש במקרה של קריסת אפליקציה
+linux-einstein	איינשטיין - NewtonOS בפלטפורמות אחרות
+electron-update-mechanism-example	דוגמה למנגנון שדרוג אלקטרוני
+emoj	אמוטיקונים
+enum4linux	מונה מידע ממערכות Windows וסמבה
+escaneamento	SAAS_סריקה
+exercism	לקוח שורת הפקודה עבור https://exercism.io
+factory-serial-vault	כספת טורית למפעל
+fcbnetmap	כלי למיפוי יציאות מתג ליציאות מארח באמצעות lldp בפריסת FCB
+fetch-btc	מאתר מחירי BTC
+file-manager	מנהל קבצים עבור לינוקס
+fiwe	סטודיו Fiwe
+flightgear	FlightGear
+flutter-portal-test	אפליקציה לבדיקת תמיכת פורטל ב-Flutter
+formdev	FormDev
+freecad	יוצר קוד פתוח פרמטרי 3D CAD
+friendsreferee	חברים שופט
+full-discography	גלה את הדיסקוגרפיה המלאה של האמנים שאתה אוהב!
+galaxian	גרסה מחודשת למשחק הארקייד הקלאסי
+gasparilla-quest-for-the-key	משחק פאזל שולה מוקשים יפה מאוד
+gcompris	משחק חינוכי רב פעילות לילדים בגילאי 2 עד 10
+genio-test-tool	כלי בדיקות Genio
+ghfetch	כלי CLI לאחזר מידע מ-GitHub
+gistdeck	GistDeck
+gitlive	GitLive היא תוכנית לעזור למפתחים.
+glate	Google Translate עבור Linux Desktop
+gnash-raymii	גנאש - דב 18.04 ארוז מחדש במהירות
+gnome-nibbles	להוביל תולעת דרך מבוך
+goathtool	Port of Oathtool, להפקת סיסמאות חד פעמיות (OTP) בשורת הפקודה.
+gogs	שרת git וממשק משתמש מבוסס golang
+google-docs	יישום עיבוד תמלילים עבור לינוקס
+gotop-cjbassi	צג פעילות גרפי מבוסס טרמינלים בהשראת gtop ו-vtop
+grafana-agent	סוכן טלמטריה
+green-collectives	הגדלת פרודוקטיביות עבור חובבי צבא וירי
+gsequencer-4	רצף Gtk+ מתקדם
+guardata	אחסון נתוני ענן אמין
+hacker-the-game	משחק הדמיית פריצה
+haruna	נגן מדיה בקוד פתוח המופעל על ידי Qt/QML ו-libmpv
+hearts	משחק קלפי הלבבות הקלאסי. ניתן לשחק בו במצב לא מקוון ומקוון.
+hello-ayman	GNU Hello, Hello World snap
+hello-db	GNU Hello, Hello World snap
+hello-halong-snap	Dọn nhà Hạ Long
+hello-jessereitz	GNU Hello, Hello World snap
+hello-masahiro	GNU Hello, Hello World snap
+hello-pleddy	GNU Hello, Hello World snap
+hello-snap	GNU שלום-סנאפ, הלו, סנאפ! תַצלוּם
+hello-ubuntome	GNU Hello, Hello World snap
+helm3	מנהל החבילות של Kubernetes
+hi	אפליקציה מיידית ראשונה לבדיקת עדכון אוטומטי
+hon-lxd-toolbox	Peel Tools Swiss Knife
+htop	מציג תהליכים אינטראקטיבי
+humble-toolbox	ארגז כלים צנוע
+icecream-sundae-snap	צג שורת פקודה לגלידה.
+intellij-idea-ultimate	Java IDE מסוגל וארגונומי לפיתוח ארגוני, אינטרנט ומובייל
+image-sieve	כלי לסיווג תמונות וארכיון בתיקיית יעד
+inadyn	לקוח DNS דינמי אוטומטי דרך האינטרנט
+innova	מחדשת
+ionosctl	כלי IONOS Cloud CLI.
+iputils	חבילת iputils היא קבוצה של כלי עזר קטנים שימושיים עבור רשתות לינוקס.
+itrue-gstreamer	אוסף הכלים של Gstreamer
+jami-gnome	Jami (לקוח GNOME), תוכנת תקשורת מבוזרת מאובטחת ולקוח SIP
+jentool	כלי שורת פקודה לביצוע משימות תחזוקה בסיסיות של Jenkins
+joao-hello	שלום גנו
+jr-node-api	ארוז במהירות Node.js REST API
+juju-crashdump	אסוף יומנים ומידע אחר על ניפוי באגים ממודל Juju
+jx-ide	JX IDE היא סביבת פיתוח גרפית עבור UNIX.
+kanagram	משחק סדר אותיות
+kcharselect	בוחר תווים
+kerberosio	מערכת מעקב וידאו אוטונומית בקוד פתוח
+kf5-5-110-qt-5-15-11-core22	KDE 5 Frameworks
+kif	CLI עוזר לך לנהל מידע בין Wrike ל-Gitlab
+klickety	משחק פאזל של SameGame
+mir-kiosk-kodi	Kodi ארוז כ-IoT GUI
+kontrast	בודק ניגודיות צבעים
+kruler	סרגל מסך
+ktuberling	משחק בנייה פשוט המתאים לילדים ולמבוגרים
+kubernetes-test	בדיקת kubernetes
+kxstitch	יוצר דפוסי תפרים צולבים
+landing-team-tools	כלים שימושיים שונים בעולם הנחיתה של Ubuntu-Touch.
+latch	תקשורת צוות מאובטחת
+learningml-desktop	LearningMLDesktop
+letter-rip	משחק מילים נחמד
+libresprite-simosx	עורך ספרייט מונפש וכלי אמנות פיקסלים
+linkedin-webapp	אפליקציית האינטרנט של LinkedIn עבור טלפון אובונטו
+litebmc-fwupd-egw-3200	כלי לעדכון קושחה של liteBMC
+lngcnv	בלשנות - אנגלית, לטינית, פולנית, קצ\'ואה, ספרדית, טיקונה
+lokalize	מערכת תרגום בעזרת מחשב
+lpshipit	כלי שימושי למיזוג ובדיקה של חברי פרלמנט משטח השקה
+lxd-demo-server	הפעלות הדגמת תוכנה מקוונות באמצעות LXD
+magarena	משחק קלפים אספנות לשחקן יחיד
+makhber	מכבר
+mdview	הצג קבצי סימון בדפדפן משורת הפקודה.
+matrix-synapse-ec0	Reference Matrix Home Server
+mcomix-tabetai	מציג תמונות הניתן להתאמה אישית וקל לשימוש שתוכנן במיוחד לטיפול בקומיקס.
+medicapptoolsdatasets	MedicAppToolsDatasets
+messenger-collabee	Collabee Messenger
+micropolis	Micropolis, משחק הדמיית העיר המקורי מבית Maxis Software
+mikutter	לקוח מרובה שירותים פשוט, חזק וחזק (Mastodon, Twitter)
+minicom-snap	תוכנית שירות מסוף טורית של Minicom עבור ליבת אובונטו
+mir-test-tools	מיר מבחן סקריפטים ויישומים
+mmongodb	MongoDB
+monexec	מפקח אור עם רישום אוטומטי לקונסול אופציונלי
+moonplayer	שחקן ירח
+movx	MovX
+mtail	logtail-ing עבור יצואן מדדים
+mup-accounts	mup IRC ו-Telegram bot - צד חיבור החשבון
+mvs-texturing-mardy	MVS Texturing - 3D Reconstruction Texturing
+mypdfsigner	MyPDFSigner הוא כלי לחתימת PDF באמצעות מאגרי מפתחות PKCS\#11 ו-PKCS\#12.
+namebench-snap	namebench, כלי השוואת שירותי DNS
+ndsi-process-exporter	Prometheus Process Exporter
+net2o	net2o snap
+net-worth	קבל סקירה מהירה של המתכות היקרות ונכסי הקריפטו שלך!
+next-neuron	שער אבטחה מבוסס ubuntu core20
+niki	כל נגני המולטימדיה
+node-env	כלי ליצירת סביבת צומת בשרת אובונטו
+nope	לא
+notus	דגמי את התפשטות COVID-19 כדי ליצור פריסות חדרים מרובים בטוחים יותר.
+number-zerk	משחק פאזל יפהפה
+oai-sim	סימולטור/אמולטור מערכת OpenAirInterface L2
+octopusco	אפליקציית לוח המחוונים octopusCo עבור לינוקס.
+olang	שפת תכנות פונקציונלית מכוונת מערכת
+onlyoffice-ds	חבילת משרד מקוונת המאפשרת ליצור, להציג ולערוך מסמכים.
+opencomic	OpenComic
+open-karaoke-producer	פתח את מפיק קריוקי
+openstack-toolkit	ערכת כלי ניפוי באגים של Openstack
+oracle-cloud-agent	Oracle Cloud Agent
+osv-scanner	סורק פגיעות עבור תלות בפרויקט
+p65pas	קומפיילר חוצה פלטפורמות Pascal למעבד 6502
+paintpp	שיבוט חוצה פלטפורמות של Paint.net
+para	כלי שימושי לניתוח מנהלי חבילות תוכנה.
+pastel	כלי שורת פקודה להפקה, ניתוח, המרה ומניפולציה של צבעים.
+pdftk-snap	שרת PDFtk
+performous-snap	משחק מוסיקה וקצב בקוד פתוח.
+pi2	חבילת תמיכה של Raspberry Pi 2
+pijul	פשוט, מבוזר, מהיר. בחר כל שלושה.
+pixelorama	עורך Pixelorama sprite
+plotjuggler-ros	כלי ההדמיה של סדרות זמן שמגיע לך (כלול ROS Noetic)
+poke	עורך בינארי של GNU Poke
+portal-puzzle	בעולם הדיגיטלי אתה לא צריך להיות מוגבל על ידי קופסה אנלוגית
+powershell	PowerShell לכל המערכות!
+printtree	הדפס עץ
+prometheus-grok-exporter	ייצא מדדי Prometheus מנתוני יומן מנותחים
+protogrid	Protogrid - הפלטפורמה ליישומים ארגוניים
+publisher-subscriber	דוגמה ל-ROS
+pycharm-educational	כלי קל ומקצועי ללימוד והוראת תכנות עם Python
+pyresistors	חשב את הערך והסובלנות של נגדים חשמליים לפי קודי הצבע שלהם
+qcheckers	דַמקָה
+qperf-johanburati	מדידת ביצועי RDMA ו-IP
+qtiplot-wrap	חֲבִילָה
+quickfixgo-qf	דוגמאות ליישומי QuickFIX/Go.
+raftt	אתה מקודד. אנחנו נדאג לאיכות הסביבה.
+rayyansaidi-desktop	Rayyansaidi Desktop
+recomand	אפליקציה מומלצת
+regattastart	סטראטסטארט
+reporter	בדוק אתרים בצורה פשוטה ומהירה
+reversu	ReversU הוא משחק אסטרטגיה עם שבבי שחור ולבן
+ripping	פינג כלים
+rocketchat-desktop	לקוח שולחן עבודה רשמי עבור Rocket.Chat
+rosbackup	כלי גיבוי לתצורת RouterOS
+ros-humble-ros-base-dev	הגרסה הצנועה על בסיס ROS של ROS 2.
+rpi-imager	Raspberry Pi Imager
+rubenanapu-hallo	מגרש מעלית בקו יחיד עבור תמונת המצב המדהימה שלך
+rview	עדכון
+samizdat-server	Samizdat מערבל DNS
+sayonara	נגן מוזיקה ומנהל ספרייה מהיר וקל משקל.
+screencloud	אפליקציית שיתוף צילומי מסך קלה לשימוש
+sdrangel	SDRangel
+sendall	מסנג\'ר סנדל
+sessioncharts	SessionCharts היא אפליקציית ספרי שירים לצפייה בדפי מילים, תרשימי אקורדים, מנגינות, כרטיסיות ורשימות סט.
+share-preview	בדוק כרטיסי מדיה חברתית באופן מקומי
+shortpwd	מדפיס את ספריית העבודה הנוכחית חתוכה באליפסיס באמצע.
+simili-finder	מצא את הקובץ באותו שם
+simple-web-server	שרת אינטרנט פשוט (סטטי).
+skrooge	Skrooge הוא מנהל כספים אישי שפותח על ידי KDE
+slumpsand-linklist	רשימת קישורים עוזרת לך לשלוט בקישורים...
+ruben-snake-cmd	גרסת שורת הפקודה של משחק הנחש הקלאסי
+snap-store-proxy-client	לקוח מנהל Proxy של Snap Store
+sokoban-bk	משחק אסטרטגיה יפה מאוד
+sonarr	PVR חכם למשתמשי קבוצות דיון ו-bittorrent
+spaceminer	משחק כריית חלל תלת מימד.
+spirv-tools	פרויקט SPIR-V Tools מספק API ופקודות לעיבוד מודולי SPIR-V.
+sqlitr	sqlitr הוא כלי שאילתה טריוויאלי עבור SQLite. זה נוצר כהדגמה עבור neilotoole/xcgo.
+sshguard-robertliu	מגן מפני התקפות כוח גסות נגד ssh
+starruler2	סט 4X/RTS בקנה מידה גדול בחלל
+step-stephenmuss	אולר שוויצרי אפס אמון לעבודה עם X509, OAuth, JWT, OATH OTP וכו\'.
+streambop	StreamBop
+stuntrally	פגישת פעלולים
+suligap-python3-qrcode	מחולל קוד QR טהור Python
+supertpv-desktop-client	לקוח supertpv-desktop
+svls	SystemVerilog Language Server
+syncappkiosk	סנכרון אפליקציית קיוסק
+t2sz	הוא דוחס כל קובץ לקובץ .zstd הניתן לחיפוש
+tank-d8	פעולת ארקייד דו-ממדית מלמעלה למטה
+tauno-monitor	צג יציאה טורית עצמאית ופשוט
+teamtime	תסריט למעקב אחר זמן עבור צוות המופץ ברחבי העולם.
+ttvplayer	נגן TelemetriaTV
+termplay	הפעל תמונה/סרטון בטרמינל שלך!
+test-adrianhungate	מגרש מעלית בקו יחיד עבור תמונת המצב המדהימה שלך
+lee	GNU Hello, Hello World snap
+test-oskar	מגרש מעלית בקו יחיד עבור תמונת המצב המדהימה שלך
+test-snapd-gnome-online-accounts	בדוק את ממשק gnome-online-accounts-service
+teststeve5	ה-Snap החשוב ביותר ביקום ה-Snap
+the-battle-for-the-solar-system	יורה חלל דו מימדי מבוסס משימה
+the-powder-toy	משחק סימולציית פיזיקה דו מימדית בקוד פתוח!
+thunderbird	אפליקציית האימייל של Mozilla Thunderbird
+timelogger	רושם זמן
+tiptop-deluxe	עוד משחק התאמת PopCap נהדר
+todolist	מטלות
+total-concentration	משחק פאזל יפהפה
+trader-linux	המשחק של הסוחר
+trello-cli	ממשק שורת הפקודה עבור Trello
+trivy	Aquasecurity Trivy Vulnerability Scanner
+tunuk-data-producer	יצרן נתוני IoT לניטור יחידות תחבורה ציבורית
+tvheadend	שרת הזרמת טלוויזיה תואם ל-DVB, ATSC, IPTV ו-SAT>IP
+ubports-installer	הדרך הקלה להתקין את Ubuntu Touch במכשירי UBports.
+ubuntu-package-changelog	קבל יומני שינוי של חבילות אובונטו עבור סדרות, כיסים וחבילות שונות
+uk-salary-calculator	חשב את השכר נטו שלך לאחר מס וביטוח לאומי.
+universalconverter	המרת יחידות בצורה ויזואלית, מתוחכמת וצבעונית!
+upfadm	כלי לאתחול אשכולות UPF.
+ust2dsa	מחולל מסדי נתונים של Debsecan עבור אובונטו CVE Tracker
+vaidikcare	Vaidik Care
+velbus-tcp	אפליקציית Python המחברת התקנה של Velbus עם TCP
+videos349	עורך וידאו פשוט.
+visual-lvm-remote	מנהל GUI LVM מרחוק
+vmsscheduler	מתזמן למנהלי חברות תעופה וירטואליות
+vscode-html-languageserver	שרת שפת HTML חולץ מ- VSCode
+walk	דפדפן מסוף
+waybackpy	ממשק שורת הפקודה של Wayback Machine API
+web-kiosk	קיוסק אינטרנט
+wethr-lool	מגרש מעלית בקו יחיד עבור תמונת המצב המדהימה שלך
+which-command-gpt	באיזו פקודה להשתמש במסוף לינוקס? - איזו פקודת GPT - ענה על זה עבורך
+wing-personal7	Python IDE בחינם לסטודנטים ותחביבים
+wmx-kiosk-session	מנהל חלונות wmx מוביל בהפעלת Busybox עבור mir-kiosk
+worldcoin	מופרדים בגבולות, מאוחדים בטכנולוגיה
+wuzz	כלי cli אינטראקטיבי לבדיקת HTTP
+xibo-player	קורא שילוט דיגיטלי של Xibo
+xt	חסום קואורדינטות עבור ממיר פורמט אחר.
+yaya	עוד אפליקציה בסגנון Yahtzee
+youtubedr	הורדת סרטוני יוטיוב
+zaz-jz	Zaz - כי האקרים גם צריכים לשחק עם כדורים!
+zephyr-crosstool-xtensa-intel-apl-adsp	Zephyr Xtensa Intel APL ADSP Cross-Compiler ערכת כלים
+znc-albaguirre	מאבטח IRC מתקדם
+zzbots	שלב והפוך את היישומים שלך לאוטומטיים

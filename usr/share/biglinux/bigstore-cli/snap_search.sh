@@ -81,7 +81,7 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"n":"|","d":"|","p":"|","v":"|","ic":"|","i":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"n":"|","d":"|","p":"|","v":"|","ic":"|","i":"|","u":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # package = $2;
     # description = $3;
@@ -128,7 +128,7 @@ else
     # FS is the field separator, any characters beetween | is a field separator
     # flatpak_cache_verify.sh
 
-    eval $search_cmd | awk -v FS='"n":"|","d":"|","p":"|","id":"|","v":"|","ic":"|","i":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"n":"|","d":"|","p":"|","v":"|","ic":"|","i":"|","u":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -156,15 +156,6 @@ else
     # Now start the main loop, which is run for each line of the pacman output
     {
         # Store the fields in variables, to make the code more readable
-
-    # package = $2;
-    # description = $3;
-    # pkg = $4;
-    # version = $5;
-    # icon = $6
-    # installed = $7;
-
-
         package = $2;
         description = $3;
         pkg = $4;

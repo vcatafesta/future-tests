@@ -34,6 +34,8 @@ aurResult="$cacheFolderHome/aurResult.txt"
 flatpakResult="$cacheFolderHome/flatpakResult.txt"
 snapResult="$cacheFolderHome/snapResult.txt"
 
+numberOfTotalResults="$cacheFolderHome/numberOfTotalResults.json"
+
 # Defining the paths of the scripts
 aurSearchScript="/usr/share/biglinux/bigstore-cli/aur_search.sh"
 pacmanSearchScript="/usr/share/biglinux/bigstore-cli/pacman_search.sh"
@@ -115,20 +117,54 @@ execute_search() {
         $snapSearchScript "$@" > $snapResult &
     fi
     wait
+    
+    if $jsonMode; then
 
-    [ $searchAur = true ] && cat "$aurResult"
-    [ $searchPacman = true ] && cat "$pacmanResult"
-    [ $searchFlatpak = true ] && cat "$flatpakResult"
-    [ $searchSnap = true ] && cat "$snapResult"
+        if [[ $searchAur = true ]]; then
+            numberOfResultsAur=$(LANG=C wc -l "$aurResult" | cut -f1 -d" ")
+            sort "$aurResult" | head -n500
+        fi
+        if [[ $searchPacman = true ]]; then
+            numberOfResultsPacman=$(LANG=C wc -l "$pacmanResult" | cut -f1 -d" ")
+            sort "$pacmanResult" | head -n500
+        fi
+        if [[ $searchFlatpak = true ]]; then
+            numberOfResultsFlatpak=$(LANG=C wc -l "$flatpakResult" | cut -f1 -d" ")
+            sort "$flatpakResult" | head -n500
+        fi
+        if [[ $searchSnap = true ]]; then
+            numberOfResultsSnap=$(LANG=C wc -l "$snapResult" | cut -f1 -d" ")
+            sort "$snapResult" | head -n500
+        fi
+        
+        # Print the number of results for each search mode in json format
+        echo "
+            {\"numberOfResults\": {
+                \"AUR\": \"$numberOfResultsAur\",
+                \"Pacman\": \"$numberOfResultsPacman\",
+                \"Flatpak\": \"$numberOfResultsFlatpak\",
+                \"Snap\": \"$numberOfResultsSnap\"
+                }
+            }
+        " > $numberOfTotalResults
+
+    else
+
+        [ $searchAur = true ] && cat "$aurResult"
+        [ $searchPacman = true ] && cat "$pacmanResult"
+        [ $searchFlatpak = true ] && cat "$flatpakResult"
+        [ $searchSnap = true ] && cat "$snapResult"
+
+    fi
 }
 
 # Processing the output based on the mode
 if $jsonMode; then
     # JSON Mode
     echo '['
-    execute_search -j "$@" | LANG=C sort | LANG=C cut -d' ' -f2-
-    echo '{}]'
+    execute_search -j "$@" | LANG=C sort | LANG=C cut -d' ' -f2- | sed '$ s/,$//'
+    echo ']'
 else
-    # Normal Terminal Mode
-    execute_search "$@" | LANG=C sort -r | LANG=C cut -d' ' -f2- | LANG=C sed 's|\t,,,|\n    |g'
+    # Terminal Mode
+    execute_search "$@" | LANG=C sort -r | LANG=C cut -d' ' -f2- | LANG=C sed 's|\t,,,|\n    |g' | sed '$ s/,$//'
 fi

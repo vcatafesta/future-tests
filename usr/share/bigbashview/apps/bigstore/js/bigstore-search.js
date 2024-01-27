@@ -72,9 +72,9 @@ function getItems() {
       console.log(item);
       this.showPkgInfoModal = false; // Clean before modal
       this.pkgInfo = item;
-      if (item.s === "pacman") {
+      if (item.t === "p") {
         this.getPacmanInfo();
-      } else if (item.s === "aur") {
+      } else if (item.t === "a") {
         this.getAurInfo();
         if (item.i === "true") {
           this.getPacmanInfo();

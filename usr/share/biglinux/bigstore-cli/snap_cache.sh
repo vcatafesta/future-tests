@@ -129,9 +129,9 @@ if [[ "$DisableTranslate" == "false" ]]; then
         gsub(/(["\\])/,"\\\\&", description_to_use);
 
         # Create the JSON object for the current package
-        printf "{\"n\":\"%s\",\"d\":\"%s\",\"p\":\"%s\",\"v\":\"%s\",\"ic\":\"%s\",\"i\":%s,\"t\":\"s\"}",
+        printf "{\"n\":\"%s\",\"d\":\"%s\",\"p\":\"%s\",\"v\":\"%s\",\"ic\":\"%s\",\"i\":%s,\"u\":\"\",\"t\":\"s\"}",
             $1, description_to_use, $3, $5, $6,
-            (installed[$1] ? "\"true\"" : "\"\"");
+            (installed[$3] ? "\"true\"" : "\"\"");
     }
 
     END {
@@ -164,7 +164,7 @@ else
         gsub(/(["\\])/,"\\\\&", $2);
 
         # Create the JSON object for the current package
-        printf "{\"n\":\"%s\",\"d\":\"%s\",\"p\":\"%s\",\"v\":\"%s\",\"ic\":\"%s\",\"i\":%s,\"t\":\"s\"}",
+        printf "{\"n\":\"%s\",\"d\":\"%s\",\"p\":\"%s\",\"v\":\"%s\",\"ic\":\"%s\",\"i\":%s,\"u\":\"\",\"t\":\"s\"}",
             $1, $2, $3, $5, $6,
             (installed[$3] ? "\"true\"" : "\"\""),
     }

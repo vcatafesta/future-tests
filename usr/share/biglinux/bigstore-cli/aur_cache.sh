@@ -189,9 +189,9 @@ if [[ "$DisableTranslate" == "false" ]]; then
             # out separator have lot of \ because need scape the "
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description_to_use\
-                                "\",\"v\":\""version\
-                                "\",\"i\":\"true\",\"iv\":\""installed_version\
-                                "\",\"u\":\""update_available\
+                                "\",\"v\":\""installed_version\
+                                "\",\"i\":\"true"\
+                                "\",\"u\":\""version\
                                 "\",\"vt\":\""numvotes\
                                 "\",\"pp\":\""popularity\
                                 "\",\"od\":\""outofdate\
@@ -203,7 +203,7 @@ if [[ "$DisableTranslate" == "false" ]]; then
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description_to_use\
                                 "\",\"v\":\""version\
-                                "\",\"i\":\"\",\"iv\":\""\
+                                "\",\"i\":\""\
                                 "\",\"u\":\""\
                                 "\",\"vt\":\""numvotes\
                                 "\",\"pp\":\""popularity\
@@ -278,9 +278,9 @@ else
             # out separator have lot of \ because need scape the "
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description\
-                                "\",\"v\":\""version\
-                                "\",\"i\":\"true\",\"iv\":\""installed_version\
-                                "\",\"u\":\""update_available\
+                                "\",\"v\":\""installed_version\
+                                "\",\"i\":\"true"\
+                                "\",\"u\":\""version\
                                 "\",\"vt\":\""numvotes\
                                 "\",\"pp\":\""popularity\
                                 "\",\"od\":\""outofdate\
@@ -288,11 +288,12 @@ else
                                 "\",\"t\":\"a\"}";
 
         } else {
+
             # Same as above, but for packages that are not installed
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description\
                                 "\",\"v\":\""version\
-                                "\",\"i\":\"\",\"iv\":\""\
+                                "\",\"i\":\""\
                                 "\",\"u\":\""\
                                 "\",\"vt\":\""numvotes\
                                 "\",\"pp\":\""popularity\

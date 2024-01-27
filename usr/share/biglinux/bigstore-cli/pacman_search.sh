@@ -81,13 +81,13 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","r":"|","g":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","u":"|","r":"|","g":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # package = $2;
     # description = $3;
     # version = $4;
     # installed = $5;
-    # iv = $6;
+    # updateVersion = $6;
     # repo = $7;
 
     # BEGIN run one time before the first line is read
@@ -118,7 +118,7 @@ if $json_output; then
         }
 
         # If the package have update, count -= 10
-        if ($6 != "null") {
+        if ($6 != "") {
             count -= 10;
         }
 
@@ -130,7 +130,7 @@ else
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","r":"|","g":"|","t":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","u":"|","r":"|","g":"|","t":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -161,7 +161,7 @@ else
         description = $3;
         version = $4;
         installed = $5;
-        iv = $6;
+        updateVersion = $6;
         repo = $7;
 
         # Count is 49 for pacman, 50 is AUR, less number have more priority
@@ -183,9 +183,8 @@ else
             totalInstalled += 1;
 
             # If the package have update, count -= 10
-            if (iv != "null") {
-                update = "repo version  " gray version;
-                version = iv;
+            if (updateVersion != "") {
+                update = "new version  " gray updateVersion;
                 count -= 10;
             } else {
                 update = "";

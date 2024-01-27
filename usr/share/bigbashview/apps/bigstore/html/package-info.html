@@ -7,22 +7,14 @@
 
 <div class="overlay"></div>
 <dialog id="pkginfo" class="no-border no-padding center-align top-align">
-    <template x-if="showPkgInfoModal">
-
-
-
-
-
-
-
-        
+    <template x-if="showPkgInfoModal">        
         <div class="padding">
             <div class="row no-padding">
                 <!-- Item Icon -->
                 <div x-html="pkgInfo.iconHTML"></div>
                 <div class="max truncate">
                     <!-- Item Title -->
-                    <h5 class="small small-padding-bottom" x-text="formatTitle(pkgInfo.p)"></h5>
+                    <h5 class="small small-bottom-distance" x-text="formatTitle(pkgInfo.p)"></h5>
                     <div class="row no-margin">
                         <!-- Package Format -->
                         <div x-html="packageFormat(pkgInfo.s)"></div>
@@ -57,7 +49,7 @@
                         x-text="pacmanInfo.Provides.join(', ')"></span></div>
                 <div x-show="pacmanInfo['Depends On'].length > 0">
                     <span stonejs>Depends On:</span>
-                    <ul>
+                    <ul class="vertical">
                         <template x-for="dep in pacmanInfo['Depends On']">
                             <li x-text="dep"></li>
                         </template>
@@ -65,7 +57,7 @@
                 </div>
                 <div x-show="pacmanInfo['Optional Deps'].length > 0">
                     <span stonejs>Optional Dependencies:</span>
-                    <ul>
+                    <ul class="vertical">
                         <template x-for="optDep in pacmanInfo['Optional Deps']">
                             <li x-text="optDep"></li>
                         </template>
@@ -73,7 +65,7 @@
                 </div>
                 <div x-show="pacmanInfo['Required By'].length > 0">
                     <span stonejs>Required By:</span>
-                    <ul>
+                    <ul class="vertical">
                         <template x-for="reqBy in pacmanInfo['Required By']">
                             <li x-text="reqBy"></li>
                         </template>
@@ -81,7 +73,7 @@
                 </div>
                 <div x-show="pacmanInfo['Optional For'].length > 0">
                     <span stonejs>Optional For:</span>
-                    <ul>
+                    <ul class="vertical">
                         <template x-for="optFor in pacmanInfo['Optional For']">
                             <li x-text="optFor"></li>
                         </template>

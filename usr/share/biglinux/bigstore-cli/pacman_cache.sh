@@ -32,11 +32,14 @@
 # Load config file
 . /usr/share/biglinux/bigstore-cli/config.sh
 
-# Folder to save list of packages
 FileToSaveCacheFiltered="$cacheFolder/pacman_filtered.json"
+
+FileToSaveUpdatesAvailable="$cacheFolder/pacman_updates.cache"
+
 
 # Translate descriptions
 DisableTranslate="false"
+
 
 # Check if the first argument is empty
 if [[ -z $1 ]]; then
@@ -87,10 +90,11 @@ fi
 if [[ ! -e $cacheFolder ]]; then
     mkdir -p $cacheFolder
 fi
+    LANG=C pacman -Qu > $FileToSaveUpdatesAvailable
 
 # Function to transform the pacman output into a JSON array, using jq
 pacmanJson() {
-    LANG=C pacman -Ss $1 | jq -Rsc '
+    LANG=C pacman -Ss | jq -Rsc '
     # Split the input by newline, filter out empty lines, and then reduce it
     reduce (split("\n") | .[] | select(. != "")) as $line ([]; 
 
@@ -110,11 +114,10 @@ pacmanJson() {
       {
         "repo": ($line | split("/")[0]), # Extract the repository name
         "package": ($line | split("/")[1] | split(" ")[0]), # Extract the package name
-        "version": ($line | split(" ")[1] | split(" ")[0]), # Extract the version
         "installed": ($line | contains(" [installed") | tostring), # Check if the package is installed
-        "iver": (if $line | contains(" [installed: ") # Extract the installed version if available
+        "version": (if $line | contains(" [installed: ") # Extract the installed version if available
                              then ($line | split(" [installed: ")[1] | split("]")[0])
-                             else null end)
+                             else ($line | split(" ")[1] | split(" ")[0]) end)
       } as $package_info | 
 
       # Append the package info to the result array
@@ -129,10 +132,16 @@ if [[ "$DisableTranslate" == "false" ]]; then
     # Call the pacmanJson function to get pacman output in JSON format, and pipe it to awk
     # Specify the field separator to get individual fields from the JSON output
     # In -v localeFile="$localeFile", pass the locale file path to awk, the file with the translations
-    pacmanJson | awk -v FS='"repo":"|","package":"|","version":"|","installed":"|","iver":"|","description":"|"},' -v localeFile="$localeFile" '
+    pacmanJson | awk -v FS='"repo":"|","package":"|","version":"|","installed":"|","description":"|"},' -v localeFile="$localeFile" -v updatesFile="$FileToSaveUpdatesAvailable" '
 
     # BEGIN is run before the first line is read, and just execute one time
     BEGIN {
+
+        # Read the updates file line by line
+        while (getline < updatesFile) {
+            split($0, a, " ");
+            updates[a[1]] = a[4];
+        }
 
         # Read the translations file line by line
         while (getline < localeFile) {
@@ -153,10 +162,9 @@ if [[ "$DisableTranslate" == "false" ]]; then
         # Store the fields in variables, to make the code more readable
         repo = $2;
         package = $3;
-        description = $7;
-        version = $4;
-        installed = $5;
-        iver = $6;
+        description = $6;
+        version = $5;
+        installed = $4;
 
         # Escape double quotes and other escape sequences in the descriptions
         gsub(/(["\\])/,"\\\\&", description);
@@ -165,17 +173,22 @@ if [[ "$DisableTranslate" == "false" ]]; then
         # Use translated description if available, otherwise use original description
         description_to_use = (translations[package] != "") ? translations[package] : description;
 
-        # Append the package info to the output string
-        # The separator variable is used to add a comma and newline after each package info
-        # out separator have lot of \ because need scape the "
-        out = out separator     "{\"p\":\""package\
+        # Verfify to not add duplicated packages and print json line
+        update_info = (package in updates) ? updates[package] : "";
+
+        # Verfify to not add duplicated packages and print json line
+        if (!(package in processed_packages)) {
+            processed_packages[package] = 1;
+            out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description_to_use\
                                 "\",\"v\":\""version\
                                 "\",\"i\":\""installed\
-                                "\",\"iv\":\""iver\
+                                "\",\"u\":\""update_info\
                                 "\",\"r\":\""repo\
                                 "\",\"t\":\"p\"}";
-        separator = ",\n";
+            separator = ",\n";
+        }
+
     }
 
     # END is run after the last line is read, and just execute one time
@@ -196,10 +209,17 @@ else
 
     # Call the pacmanJson function to get pacman output in JSON format, and pipe it to awk
     # Specify the field separator to get individual fields from the JSON output
-    pacmanJson | awk -v FS='"repo":"|","package":"|","version":"|","installed":"|","iver":"|","description":"|"},' '
+    pacmanJson | awk -v FS='"repo":"|","package":"|","version":"|","installed":"|","iver":"|","description":"|"},' -v updatesFile="$FileToSaveUpdatesAvailable" '
 
     # BEGIN is run before the first line is read, and just execute one time
     BEGIN {
+
+        # Read the updates file line by line
+        while (getline < updatesFile) {
+            split($0, a, " ");
+            updates[a[1]] = a[4];
+        }
+
         # Initialize the output string with an opening bracket
         out = "[\n";
     }
@@ -208,24 +228,28 @@ else
     {
         repo = $2;
         package = $3;
-        description_to_use = $7;
-        version = $4;
-        installed = $5;
-        iver = $6;
+        description_to_use = $6;
+        version = $5;
+        installed = $4;
 
         # Escape double quotes and other escape sequences in the descriptions
         gsub(/(["\\])/,"\\\\&", description_to_use);
 
-        # Add a closing bracket to the output string, to close the JSON array
-        # We add an empty object at the end, because is faster than remove the last comma
-        out = out separator "{\"p\":\""package\
-                            "\",\"d\":\""description_to_use\
-                            "\",\"v\":\""version\
-                            "\",\"i\":\""installed\
-                            "\",\"iv\":\""iver\
-                            "\",\"r\":\""repo\
-                            "\",\"t\":\"p\"}";
-        separator = ",\n";
+        # Verfify to not add duplicated packages and print json line
+        update_info = (package in updates) ? updates[package] : "";
+
+        # Verfify to not add duplicated packages and print json line
+        if (!(package in processed_packages)) {
+            processed_packages[package] = 1;
+            out = out separator "{\"p\":\""package\
+                                "\",\"d\":\""description_to_use\
+                                "\",\"v\":\""version\
+                                "\",\"i\":\""installed\
+                                "\",\"u\":\""update_info\
+                                "\",\"r\":\""repo\
+                                "\",\"t\":\"p\"}";
+            separator = ",\n";
+        }
     }
 
     # END is run after the last line is read, and just execute one time

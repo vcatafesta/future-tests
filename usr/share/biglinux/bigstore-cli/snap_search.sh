@@ -81,7 +81,7 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","pkg":"|","v":"|","icon":"|","i":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"n":"|","d":"|","p":"|","v":"|","ic":"|","i":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # package = $2;
     # description = $3;
@@ -109,16 +109,12 @@ if $json_output; then
 
         # For each term, if the package name match with term, count -= 1
         for (i in t) {
-            if ($2 ~ t[i]) count -= 1;
+            if (tolower($2) ~ t[i]) count -= 1;
+            if (tolower($4) ~ t[i]) count -= 1;
         }
 
         # If the package is installed, count -= 10
-        if ($5 == "true") {
-            count -= 10;
-        }
-
-        # If the package have update, count -= 10
-        if ($6 != "null") {
+        if ($7 == "true") {
             count -= 10;
         }
 
@@ -132,7 +128,7 @@ else
     # FS is the field separator, any characters beetween | is a field separator
     # flatpak_cache_verify.sh
 
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","pkg":"|","id":"|","v":"|","icon":"|","i":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"n":"|","d":"|","p":"|","id":"|","v":"|","ic":"|","i":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -184,7 +180,8 @@ else
 
         # For each term, if the package name match with term, count -= 1
         for (i in t) {
-            if (package ~ t[i]) count -= 1;
+            if (tolower(package) ~ t[i]) count -= 1;
+            if (tolower(pkg) ~ t[i]) count -= 1;
         }
 
         # If the package is installed, count -= 10

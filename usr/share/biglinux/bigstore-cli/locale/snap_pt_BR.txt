@@ -3839,7 +3839,7 @@ p2pool	Pool descentralizado para mineração de Monero.
 p3x-onenote	P3X OneNote
 p3x-redis-ui	IU P3X Redis
 p65pas	Compilador cruzado Pascal de plataforma cruzada para CPU 6502
-p7zip-desktop	P7Zip - Área de Trabalho
+p7zip-desktop	P7Zip - Área de trabalho
 pa-applet	miniaplicativo de áudio de pulso
 pablodraw	PabloDraw - o aplicativo de desenho ANSI
 pacewar	Num futuro distante, duas facções lutam pelo controle do espaço

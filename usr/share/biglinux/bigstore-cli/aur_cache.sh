@@ -162,8 +162,8 @@ if [[ "$DisableTranslate" == "false" ]]; then
         version = $3;
         numvotes = $4;
         popularity = $5;
-        outofdate = $6;
-        maintainer = $7;
+        outofdate = ($6 == "null") ? "" : $6;
+        maintainer = ($7 == "null") ? "" : $7;
 
         # Escape double quotes and other escape sequences in the descriptions
         gsub(/(["\\])/,"\\\\&", description);
@@ -182,7 +182,7 @@ if [[ "$DisableTranslate" == "false" ]]; then
             close(cmd);
 
             # Check if an update is available
-            update_available = (result > 0) ? "true" : "false";
+            update_available = (result > 0) ? "true" : "";
 
             # Append the package info to the output string
             # The separator variable is used to add a comma and newline after each package info
@@ -190,24 +190,26 @@ if [[ "$DisableTranslate" == "false" ]]; then
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description_to_use\
                                 "\",\"v\":\""version\
-                                "\",\"i\":\"true\",\"iver\":\""installed_version\
-                                "\",\"up\":\""update_available\
-                                "\",\"vote\":\""numvotes\
-                                "\",\"pop\":\""popularity\
-                                "\",\"ood\":\""outofdate\
-                                "\",\"maint\":\""maintainer"\"}";
+                                "\",\"i\":\"true\",\"iv\":\""installed_version\
+                                "\",\"u\":\""update_available\
+                                "\",\"vt\":\""numvotes\
+                                "\",\"pp\":\""popularity\
+                                "\",\"od\":\""outofdate\
+                                "\",\"m\":\""maintainer\
+                                "\",\"t\":\"a\"}";
 
         } else {
             # Same as above, but for packages that are not installed
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description_to_use\
                                 "\",\"v\":\""version\
-                                "\",\"i\":\"false\",\"iver\":\""null\
-                                "\",\"up\":\""null\
-                                "\",\"vote\":\""numvotes\
-                                "\",\"pop\":\""popularity\
-                                "\",\"ood\":\""outofdate\
-                                "\",\"maint\":\""maintainer"\"}";
+                                "\",\"i\":\"\",\"iv\":\""\
+                                "\",\"u\":\""\
+                                "\",\"vt\":\""numvotes\
+                                "\",\"pp\":\""popularity\
+                                "\",\"od\":\""outofdate\
+                                "\",\"m\":\""maintainer\
+                                "\",\"t\":\"a\"}";
         }
         separator = ",\n";
     }
@@ -253,8 +255,8 @@ else
         version = $3;
         numvotes = $4;
         popularity = $5;
-        outofdate = $6;
-        maintainer = $7;
+        outofdate = ($6 == "null") ? "" : $6;
+        maintainer = ($7 == "null") ? "" : $7;
 
         # Escape double quotes and other escape sequences in the descriptions
         gsub(/(["\\])/,"\\\\&", description);
@@ -277,24 +279,27 @@ else
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description\
                                 "\",\"v\":\""version\
-                                "\",\"i\":\"true\",\"iver\":\""installed_version\
-                                "\",\"up\":\""update_available\
-                                "\",\"vote\":\""numvotes\
-                                "\",\"pop\":\""popularity\
-                                "\",\"ood\":\""outofdate\
-                                "\",\"maint\":\""maintainer"\"}";
+                                "\",\"i\":\"true\",\"iv\":\""installed_version\
+                                "\",\"u\":\""update_available\
+                                "\",\"vt\":\""numvotes\
+                                "\",\"pp\":\""popularity\
+                                "\",\"od\":\""outofdate\
+                                "\",\"m\":\""maintainer\
+                                "\",\"t\":\"a\"}";
 
         } else {
             # Same as above, but for packages that are not installed
             out = out separator "{\"p\":\""package\
                                 "\",\"d\":\""description\
                                 "\",\"v\":\""version\
-                                "\",\"i\":\"false\",\"iver\":\""null\
-                                "\",\"up\":\""null\
-                                "\",\"vote\":\""numvotes\
-                                "\",\"pop\":\""popularity\
-                                "\",\"ood\":\""outofdate\
-                                "\",\"maint\":\""maintainer"\"}";
+                                "\",\"i\":\"\",\"iv\":\""\
+                                "\",\"u\":\""\
+                                "\",\"vt\":\""numvotes\
+                                "\",\"pp\":\""popularity\
+                                "\",\"od\":\""outofdate\
+                                "\",\"m\":\""maintainer\
+                                "\",\"t\":\"a\"}";
+
         }
         separator = ",\n";
     }

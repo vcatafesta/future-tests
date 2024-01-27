@@ -81,14 +81,15 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iver":"|","r":"|","g":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | rg -v ',"d":"",' | awk -v FS='"p":"|","d":"|","id":"|","v":"|","b":"|","o":"|","i":"|","u":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # package = $2;
     # description = $3;
-    # version = $4;
-    # installed = $5;
-    # iver = $6;
-    # repo = $7;
+    # id = $4;
+    # version = $5;
+    # installed = $6;
+    # iver = $7;
+    # repo = $8;
 
     # BEGIN run one time before the first line is read
     BEGIN { 
@@ -109,23 +110,23 @@ if $json_output; then
 
         # For each term, if the package name match with term, count -= 1
         for (i in t) {
-            if ($2 ~ t[i]) count -= 1;
+            if (tolower($2) ~ t[i]) count -= 1;
+            if (tolower($4) ~ t[i]) count -= 1;
         }
 
         # If the package is installed, count -= 10
-        if ($5 == "true") {
+        if ($6 == "true") {
             count -= 10;
         }
 
         # If the package have update, count -= 10
-        if ($6 != "null") {
+        if ($7 == "true") {
             count -= 10;
         }
 
         # Print the count and all information from json line
         print count, $0;
     }'
-    # }' | LANG=C sort | LANG=C cut -d' ' -f2- # Sort the results by count, to show the best results first and remove the count
 
 else
     # eval run the crazy ripgrep command, and awk read the results
@@ -133,7 +134,7 @@ else
     # FS is the field separator, any characters beetween | is a field separator
     flatpak_cache_verify.sh
 
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","id":"|","v":"|","branch":"|","origin":"|","i":"|","up":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | rg -v ',"d":"",' | awk -v FS='"p":"|","d":"|","id":"|","v":"|","b":"|","o":"|","i":"|","u":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -178,7 +179,8 @@ else
 
         # For each term, if the package name match with term, count -= 1
         for (i in t) {
-            if (package ~ t[i]) count -= 1;
+            if (tolower(package) ~ t[i]) count -= 1;
+            if (tolower(id) ~ t[i]) count -= 1;
         }
 
         # If the package is installed, count -= 10
@@ -206,5 +208,4 @@ else
     } END {
             print "\n01   " gray "Flatpak\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
-    # }' | LANG=C sort -r | LANG=C cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

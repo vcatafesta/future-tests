@@ -121,7 +121,7 @@ pacmanJson() {
       . + [$package_info]
     end
   )
-' | sed 's|,{"repo":"|,\n{"repo":"|g;s|:null,|:"null",|g' # Split any package in one line and change null to "null"
+' | sed 's|,{"repo":"|,\n{"repo":"|g;s|:null,|:"",|g;s|:"false",|:"",|g' # Split any package in one line and change null to "null"
 }
 
 # If the locale file exists, and not manual disabled the translation, use the translated description
@@ -172,9 +172,9 @@ if [[ "$DisableTranslate" == "false" ]]; then
                                 "\",\"d\":\""description_to_use\
                                 "\",\"v\":\""version\
                                 "\",\"i\":\""installed\
-                                "\",\"iver\":\""iver\
+                                "\",\"iv\":\""iver\
                                 "\",\"r\":\""repo\
-                                "\"}";
+                                "\",\"t\":\"p\"}";
         separator = ",\n";
     }
 
@@ -222,8 +222,9 @@ else
                             "\",\"d\":\""description_to_use\
                             "\",\"v\":\""version\
                             "\",\"i\":\""installed\
-                            "\",\"iver\":\""iver\
-                            "\",\"r\":\""repo"\"}";
+                            "\",\"iv\":\""iver\
+                            "\",\"r\":\""repo\
+                            "\",\"t\":\"p\"}";
         separator = ",\n";
     }
 

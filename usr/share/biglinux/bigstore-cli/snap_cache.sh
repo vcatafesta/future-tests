@@ -88,12 +88,12 @@ if [[ "$DisableTranslate" == "false" ]]; then
 
     awk -v installedPackages="$InstalledSnap" -v localeFile="$localeFile" '
     BEGIN {
-        FS = "\t"; # Define o separador de campos como tab
+        FS = "\t"; # Use separator as tab
 
-        # Ler pacotes instalados
+        # Read installed packages
         while (getline < installedPackages) {
             split($0, a, FS);
-            installed[a[1]] = 1; # Usa o ID do pacote como chave
+            installed[a[1]] = 1; # Use package ID as key
         }
         close(installedPackages);
 
@@ -107,11 +107,11 @@ if [[ "$DisableTranslate" == "false" ]]; then
             translations[a[1]] = a[2];
         }
 
-        print "["; # Início do JSON array
-        first = 1; # Para controlar a vírgula antes dos objetos JSON
+        # print "["; # Start of JSON array
+        first = 1; # To control the comma before JSON objects
     }
 
-    # Processa a lista completa de pacotes
+    # Process the complete list of packages
     {
         # name = $1;
         # description = $2;
@@ -119,59 +119,58 @@ if [[ "$DisableTranslate" == "false" ]]; then
         # pkgid = $4;
         # version = $5;
         # installed = $6;
-        if (FNR > 1 && !first) print ","; # Adiciona vírgula antes de cada objeto JSON, exceto o primeiro
-        first = 0; # Reseta a flag após o primeiro objeto
-
-        # Escape invalid JSON characters
-        gsub(/(["\\])/,"\\\\&", $2);
+        if (FNR > 1 && !first) print ","; # Add comma before each JSON object, except the first
+        first = 0; # Reset flag after the first object
 
         # Use translated description if available, otherwise use original description
         description_to_use = (translations[$3] != "") ? translations[$3] : $2;
 
-        # Cria o objeto JSON para o pacote atual
-        printf "{\"p\":\"%s\",\"d\":\"%s\",\"pkg\":\"%s\",\"v\":\"%s\",\"icon\":\"%s\",\"i\":%s}",
+        # Escape invalid JSON characters
+        gsub(/(["\\])/,"\\\\&", description_to_use);
+
+        # Create the JSON object for the current package
+        printf "{\"n\":\"%s\",\"d\":\"%s\",\"p\":\"%s\",\"v\":\"%s\",\"ic\":\"%s\",\"i\":%s,\"t\":\"s\"}",
             $1, description_to_use, $3, $5, $6,
-            (installed[$1] ? "\"true\"" : "\"false\"");
+            (installed[$1] ? "\"true\"" : "\"\"");
     }
 
     END {
-        print "]"; # Fecha o JSON array
+        print ","; # Close the JSON array
     }' "$AllSnapCache" | sort -u >$FileToSaveCacheFiltered
 
 else
 
     awk -v installedPackages="$InstalledSnap" '
     BEGIN {
-        FS = "\t"; # Define o separador de campos como tab
+        FS = "\t"; # Use separator as tab
 
-        # Ler pacotes instalados
+        # Read installed packages
         while (getline < installedPackages) {
             split($0, a, FS);
-            installed[a[1]] = 1; # Usa o ID do pacote como chave
+            installed[a[1]] = 1; # Use package ID as key
         }
         close(installedPackages);
 
-        print "["; # Início do JSON array
-        first = 1; # Para controlar a vírgula antes dos objetos JSON
+        # print "["; # Start of JSON array
+        first = 1; # To control the comma before JSON objects
     }
 
-    # Processa a lista completa de pacotes
+    # Process the complete list of packages
     {
-        if (FNR > 1 && !first) print ","; # Adiciona vírgula antes de cada objeto JSON, exceto o primeiro
-        first = 0; # Reseta a flag após o primeiro objeto
+        if (FNR > 1 && !first) print ","; # Add comma before each JSON object, except the first
+        first = 0; # Reset flag after the first object
 
         # Escape invalid JSON characters
         gsub(/(["\\])/,"\\\\&", $2);
 
-        # Cria o objeto JSON para o pacote atual
-        printf "{\"p\":\"%s\",\"d\":\"%s\",\"pkg\":\"%s\",\"v\":\"%s\",\"icon\":\"%s\",\"i\":%s}",
+        # Create the JSON object for the current package
+        printf "{\"n\":\"%s\",\"d\":\"%s\",\"p\":\"%s\",\"v\":\"%s\",\"ic\":\"%s\",\"i\":%s,\"t\":\"s\"}",
             $1, $2, $3, $5, $6,
-            (installed[$3] ? "\"true\"" : "\"false\""),
-            (updates[updateKey] ? "\"true\"" : "\"false\"");
+            (installed[$3] ? "\"true\"" : "\"\""),
     }
 
     END {
-        print "]"; # Fecha o JSON array
+        print ","; # Close the JSON array
     }' "$AllSnapCache" | sort -u >$FileToSaveCacheFiltered
 
 fi

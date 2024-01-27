@@ -38,9 +38,9 @@ if [[ $type = pacman ]]; then
 elif [[ $type = flatpak ]]; then
 
     # Check if a specific file exists
-    if [[ -e /var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query ]]; then
+    if [[ -e /var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query.png ]]; then
         # Print an HTML image tag with the source attribute set to the specific file path
-        echo "<img class=\"large\" src=\"/var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query\" loading=\"lazy\">"
+        echo "<img class=\"large\" src=\"/var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query.png\" loading=\"lazy\">"
         exit
     fi
 

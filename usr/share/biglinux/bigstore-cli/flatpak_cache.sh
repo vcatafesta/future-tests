@@ -37,10 +37,10 @@ TmpUpdateFlatpak="$cacheFolderHome/flatpak_Update_pkgs.cache"
 # Similiar to apt update or pacman -Sy
 # flatpak remote-ls --updates
 
-{ # All packages
-    flatpak remote-ls --app --columns=name,description,application,version,branch,origin | sort -u >$TmpAllFlatpak
+{ # All packages, use two sort commands to repeated app select the latest version
+    flatpak remote-ls --app --columns=name,description,application,version,branch,origin | sort -r | sort -uk1,3 -t $'\t' >$TmpAllFlatpak
     if [[ $? != 0 ]]; then
-        flatpak remote-ls --cached --app --columns=name,description,application,version,branch,origin | sort -u >$TmpAllFlatpak
+        flatpak remote-ls --cached --app --columns=name,description,application,version,branch,origin | sort -r | sort -uk1,3 -t $'\t' >$TmpAllFlatpak
         if [[ $? != 0 ]]; then
             exit 1
         fi
@@ -112,20 +112,20 @@ if [[ "$DisableTranslate" == "false" ]]; then
 
     awk -v installedPackages="$TmpInstalledFlatpak" -v updatePackages="$TmpUpdateFlatpak" -v localeFile="$localeFile" '
     BEGIN {
-        FS = "\t"; # Define o separador de campos como tab
+        FS = "\t"; # Define separator as tab
 
-        # Ler pacotes instalados
+        # Read installed packages
         while (getline < installedPackages) {
             split($0, a, FS);
-            installed[a[3]] = 1; # Usa o ID do pacote como chave
+            installed[a[3]] = 1; # Use package ID as key
         }
         close(installedPackages);
 
-        # Ler pacotes com atualizações disponíveis
+        # Read packages with updates available
         while (getline < updatePackages) {
             split($0, a, FS);
-            updateKey = a[3] FS a[5] FS a[6]; # Cria uma chave única usando id, branch e origin
-            updates[updateKey] = 1; # Marca a atualização disponível para essa chave
+            updateKey = a[3] FS a[5] FS a[6]; # Create a unique key using id, branch and origin
+            updates[updateKey] = 1; # Mark update available for this key
         }
         close(updatePackages);
 
@@ -139,11 +139,11 @@ if [[ "$DisableTranslate" == "false" ]]; then
             translations[a[1]] = a[2];
         }
 
-        print "["; # Início do JSON array
-        first = 1; # Para controlar a vírgula antes dos objetos JSON
+        # print "["; # Start of JSON array
+        first = 1; # To control the comma before the JSON objects
     }
 
-    # Processa a lista completa de pacotes
+    # Process the complete list of packages
     {
         # name = $1;
         # description = $2;
@@ -151,66 +151,72 @@ if [[ "$DisableTranslate" == "false" ]]; then
         # version = $4;
         # branch = $5;
         # origin = $6;
-        if (FNR > 1 && !first) print ","; # Adiciona vírgula antes de cada objeto JSON, exceto o primeiro
-        first = 0; # Reseta a flag após o primeiro objeto
+        if (FNR > 1 && !first) print ","; # Add comma before each JSON object, except the first
+        first = 0; # Reset flag after the first object
 
         # Use translated description if available, otherwise use original description
         description_to_use = (translations[$3] != "") ? translations[$3] : $2;
 
-        updateKey = $3 FS $5 FS $6; # Cria uma chave única para o pacote atual usando id, branch e origin
+        # Escape invalid JSON characters
+        gsub(/(["\\])/,"\\\\&", description_to_use);
 
-        # Cria o objeto JSON para o pacote atual
-        printf "{\"p\":\"%s\",\"d\":\"%s\",\"id\":\"%s\",\"v\":\"%s\",\"branch\":\"%s\",\"origin\":\"%s\",\"i\":%s,\"up\":%s}",
+        updateKey = $3 FS $5 FS $6; # Create a unique key for the current package using id, branch and origin
+
+        # Create the JSON object for the current package
+        printf "{\"p\":\"%s\",\"d\":\"%s\",\"id\":\"%s\",\"v\":\"%s\",\"b\":\"%s\",\"o\":\"%s\",\"i\":%s,\"u\":%s,\"t\":\"f\"}",
             $1, description_to_use, $3, $4, $5, $6,
-            (installed[$3] ? "\"true\"" : "\"false\""),
-            (updates[updateKey] ? "\"true\"" : "\"false\"");
+            (installed[$3] ? "\"true\"" : "\"\""),
+            (updates[updateKey] ? "\"true\"" : "\"\"");
     }
 
     END {
-        print "]"; # Fecha o JSON array
+        print ","; # Add comma before the next JSON array
     }' "$TmpAllFlatpak" | sort -u >$FileToSaveCacheFiltered
 
 else
 
     awk -v installedPackages="$TmpInstalledFlatpak" -v updatePackages="$TmpUpdateFlatpak" '
     BEGIN {
-        FS = "\t"; # Define o separador de campos como tab
+        FS = "\t"; # Define separator as tab
 
-        # Ler pacotes instalados
+        # Read installed packages
         while (getline < installedPackages) {
             split($0, a, FS);
             installed[a[3]] = 1; # Usa o ID do pacote como chave
         }
         close(installedPackages);
 
-        # Ler pacotes com atualizações disponíveis
+        # Read packages with updates available
         while (getline < updatePackages) {
             split($0, a, FS);
-            updateKey = a[3] FS a[5] FS a[6]; # Cria uma chave única usando id, branch e origin
-            updates[updateKey] = 1; # Marca a atualização disponível para essa chave
+            updateKey = a[3] FS a[5] FS a[6]; # Create a unique key using id, branch and origin
+            updates[updateKey] = 1; # Mark update available for this key
         }
         close(updatePackages);
 
-        print "["; # Início do JSON array
-        first = 1; # Para controlar a vírgula antes dos objetos JSON
+        # print "["; # Start of JSON array
+        first = 1; # To control the comma before the JSON objects
     }
 
-    # Processa a lista completa de pacotes
+    # Process the complete list of packages
     {
-        if (FNR > 1 && !first) print ","; # Adiciona vírgula antes de cada objeto JSON, exceto o primeiro
-        first = 0; # Reseta a flag após o primeiro objeto
+        if (FNR > 1 && !first) print ","; # Add comma before each JSON object, except the first
+        first = 0; # Reset flag after the first object
 
-        updateKey = $3 FS $5 FS $6; # Cria uma chave única para o pacote atual usando id, branch e origin
+        updateKey = $3 FS $5 FS $6; # Create a unique key for the current package using id, branch and origin
 
-        # Cria o objeto JSON para o pacote atual
-        printf "{\"p\":\"%s\",\"d\":\"%s\",\"id\":\"%s\",\"v\":\"%s\",\"branch\":\"%s\",\"origin\":\"%s\",\"i\":%s,\"updateAvailable\":%s}",
+        # Escape invalid JSON characters
+        gsub(/(["\\])/,"\\\\&", $2);
+
+        # Create the JSON object for the current package
+        printf "{\"p\":\"%s\",\"d\":\"%s\",\"id\":\"%s\",\"v\":\"%s\",\"b\":\"%s\",\"o\":\"%s\",\"i\":%s,\"u\":%s,\"t\":\"f\"}",
             $1, $2, $3, $4, $5, $6,
-            (installed[$3] ? "\"true\"" : "\"false\""),
-            (updates[updateKey] ? "\"true\"" : "\"false\"");
+            (installed[$3] ? "\"true\"" : "\"\""),
+            (updates[updateKey] ? "\"true\"" : "\"\"");
     }
 
     END {
-        print "]"; # Fecha o JSON array
+        # print "]"; # End of JSON array
     }' "$TmpAllFlatpak" | sort -u >$FileToSaveCacheFiltered
 
 fi

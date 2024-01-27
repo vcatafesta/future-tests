@@ -12,16 +12,16 @@
         <!-- Search Bar -->
         <div class="field prefix fill round max">
             <i>search</i>
-            <input id="search" type="search" @input.debounce.250ms="filterAutocomplete" id="searchInput"
-                x-ref="searchInput" x-on:keyup.enter="performSearch()" placeholder="Search...">
+            <input id="search" type="search" id="searchInput" x-ref="searchInput" x-on:keyup.enter="performSearch()"
+                placeholder="Search...">
         </div>
-        
+
         <!-- Color Mode Button -->
         <button class="transparent circle" onclick="setColorMode()">
             <i id="dark" style="display: none">light_mode</i>
             <i id="light">dark_mode</i>
         </button>
-        
+
         <!-- View Mode Button -->
         <button class="transparent circle">
             <i id="grid_view" style="display: none">list</i>
@@ -42,7 +42,7 @@
                 <div class="tiny-padding white-text" stonejs>Nativos</div>
                 <div class="tiny-padding right-margin white-text"><span x-text="pacmanCount"></span></div>
             </label>
-            
+
             <!-- Aur Checkbox -->
             <label class="switch icon round bgcolor-pkg-aur">
                 <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig" />
@@ -53,7 +53,7 @@
                 <div class="tiny-padding white-text" stonejs>Aur</div>
                 <div class="tiny-padding right-margin white-text"><span x-text="aurCount"></span></div>
             </label>
-            
+
             <!-- Flatpak Checkbox -->
             <label class="switch icon round bgcolor-pkg-flatpak">
                 <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig" />
@@ -64,7 +64,7 @@
                 <div class="tiny-padding white-text" stonejs>Flatpak</div>
                 <div class="tiny-padding right-margin white-text"><span x-text="flatpakCount"></span></div>
             </label>
-            
+
             <!-- Snap Checkbox -->
             <label class="switch icon round bgcolor-pkg-snap">
                 <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig" />
@@ -86,7 +86,6 @@
                 <div class="tiny-padding white-text" stonejs>Web</div>
                 <div class="tiny-padding right-margin white-text">0</div>
             </label>
-            <!-- <button x-on:click="getItems().fetchData()">Reload</button> -->
         </div>
     </nav>
 </header>

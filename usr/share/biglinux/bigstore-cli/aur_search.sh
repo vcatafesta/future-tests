@@ -81,7 +81,7 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iver":"|","up":"|","vote":"|","pop":"|","ood":"|","maint":"|"' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","u":"|","vt":"|","pp":"|","od":"|","m":"|"' -v terms="$(accents_regex.sh $*)" '
 
     # $0 is the entire line                         - Complete line
     # $1 is the first field, before "p":"           - Package
@@ -131,13 +131,12 @@ if $json_output; then
         # Print the count and all information from json line
         print count, $0;
     }'
-    # }' | LANG=C sort | LANG=C cut -d' ' -f2- # Sort the results by count, to show the best results first and remove the count
 
 else
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iver":"|","up":"|","vote":"|","pop":"|","ood":"|","maint":"|"' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","u":"|","vt":"|","pp":"|","od":"|","m":"|"' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -211,6 +210,4 @@ else
     } END {
             print "\n01   " gray "AUR\t\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
-
-    # }' | sort -rn | cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

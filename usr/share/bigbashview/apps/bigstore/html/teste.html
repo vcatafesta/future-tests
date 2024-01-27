@@ -1,0 +1,33 @@
+<!-- FILEPATH: /usr/share/bigbashview/apps/bigstore/html/header.html -->
+<!-- This file represents the header section of the BigStore application. It includes the project name, generic header (CSS and JS), and project-specific JavaScript file for the BigStore search functionality. The body class is dynamically set based on the result of the getColor.sh script. -->
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Set the project name -->
+    <script> let projectName = 'future-tests'; </script>
+
+    <!-- Include the generic header (CSS and JS) -->
+    <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
+
+    <!-- Include project-specific JavaScript file -->
+    <script src="js/bigstore-search.js"></script>
+</head>
+
+<body class="large-text <?include bash getColor.sh?>">
+
+
+    <div
+    x-data="{
+      books: []
+    }"
+    x-init="
+      fetch('/usr/bin/bigstore-search.sh?-j firefox')
+        .then(res => res.json())
+        .then(res => {
+          books = res.items.map(p => item.p)
+        })
+    "
+  >
+    <div x-text="JSON.stringify(books)"></div>
+  </div>
+

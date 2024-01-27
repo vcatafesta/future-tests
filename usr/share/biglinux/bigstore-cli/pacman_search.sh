@@ -81,13 +81,13 @@ if $json_output; then
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iver":"|","r":"|","g":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","r":"|","g":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # package = $2;
     # description = $3;
     # version = $4;
     # installed = $5;
-    # iver = $6;
+    # iv = $6;
     # repo = $7;
 
     # BEGIN run one time before the first line is read
@@ -125,13 +125,12 @@ if $json_output; then
         # Print the count and all information from json line
         print count, $0;
     }'
-    # }' | LANG=C sort | LANG=C cut -d' ' -f2- # Sort the results by count, to show the best results first and remove the count
 
 else
     # eval run the crazy ripgrep command, and awk read the results
     # The awk part of code is just to classify the results in json
     # FS is the field separator, any characters beetween | is a field separator
-    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iver":"|","r":"|","g":"|"},' -v terms="$(accents_regex.sh $*)" '
+    eval $search_cmd | awk -v FS='"p":"|","d":"|","v":"|","i":"|","iv":"|","r":"|","g":"|","t":"|"},' -v terms="$(accents_regex.sh $*)" '
 
     # BEGIN run one time before the first line is read
     BEGIN {
@@ -162,7 +161,7 @@ else
         description = $3;
         version = $4;
         installed = $5;
-        iver = $6;
+        iv = $6;
         repo = $7;
 
         # Count is 49 for pacman, 50 is AUR, less number have more priority
@@ -184,9 +183,9 @@ else
             totalInstalled += 1;
 
             # If the package have update, count -= 10
-            if (iver != "null") {
+            if (iv != "null") {
                 update = "repo version  " gray version;
-                version = iver;
+                version = iv;
                 count -= 10;
             } else {
                 update = "";
@@ -204,5 +203,4 @@ else
     } END {
             print "\n01   " gray "Pacman\tinstalled: " resetColor totalInstalled gray "\tNot installed: " resetColor totalNotInstalled gray "\tTotal: " resetColor totalInstalled + totalNotInstalled;
     }'
-    # }' | LANG=C sort -r | LANG=C cut -d'' -f2- | LANG=C sed 's|\t,,,|\n    |g'
 fi

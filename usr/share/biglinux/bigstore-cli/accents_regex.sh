@@ -39,6 +39,10 @@
 # Like, ./script.sh Bruno
 # The output will be: br[uúùûüųū][nñń][oóòôõöøœ]
 
+# This script converts a word to lowercase and replaces accented characters with their corresponding regular expressions.
+# It uses a mapping of letters and their regex patterns to perform the replacements.
+# The resulting word with regex is printed to the console.
+
 # Turn all characters to lowercase
 word=${*,,}
 

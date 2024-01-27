@@ -7,13 +7,6 @@
 <template x-for="item in displayedItems">
     <div class="s12 m6 l4">
         <article class="mini-round cursor-alias onhover-elevate1" x-on:click="showModal(item);" data-ui="#pkginfo">
-            <!-- Checkbox -->
-            <!-- <div class="absolute right tiny-padding right-margin">
-                <label class="switch icon round gray">
-                    <input type="checkbox" /><span><i></i></span>
-                </label>
-            </div> -->
-
             <div class="row no-padding">
                 <!-- Item Icon -->
                 <div x-bind:x-on:show="fetchIcon(item)" x-html="item.iconHTML"></div>
@@ -22,7 +15,7 @@
                     <h5 class="small small-padding-bottom" x-text="formatTitle(item.p)"></h5>
                     <div class="row no-margin">
                         <!-- Package Format -->
-                        <div x-html="packageFormat(item.s)"></div>
+                        <div x-html="packageFormat(item.t)"></div>
                         <!-- Item Version -->
                         <label x-text="item.v"></label>
                     </div>
@@ -54,7 +47,7 @@
 </div>
 
 <!-- End of Results Message -->
-<div class="center-align" x-show="search !== '' && endOfResults && displayedItems.length > 0">
+<div class="center-align" x-show="search !== '' && this.endOfResults && displayedItems.length > 0">
     <p stonejs>Fim dos resultados</p>
 </div>
 

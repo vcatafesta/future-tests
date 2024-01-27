@@ -51,7 +51,10 @@ sudo localectl set-locale "$localeCode.UTF-8"
 export LANG="$localeCode.UTF-8" LANGUAGE="$localeCode.UTF-8"
 
 # Get all Snap application id with descriptions
-jq -r '.[] | .pkg + "\t" + .d' ~/.cache/bigstore-cli/snap_filtered.json >$allSnapToTranslate
+echo '[' > ~/.cache/bigstore-cli/snap_filtered-to-translate.json
+cat ~/.cache/bigstore-cli/snap_filtered.json >> ~/.cache/bigstore-cli/snap_filtered-to-translate.json
+echo '{}]' >> ~/.cache/bigstore-cli/snap_filtered-to-translate.json
+jq -r '.[] | .p + "\t" + .d' ~/.cache/bigstore-cli/snap_filtered-to-translate.json >$allSnapToTranslate
 
 # Load translated IDs and descriptions into an associative array
 declare -A translatedIds

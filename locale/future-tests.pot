@@ -195,6 +195,10 @@ msgid "Install"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
 msgid "Fim dos resultados"
 msgstr ""
 

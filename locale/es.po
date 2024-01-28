@@ -293,6 +293,10 @@ msgstr "Actualizar"
 msgid "Install"
 msgstr "Instalar"
 
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr "Actualizar: "
+
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0

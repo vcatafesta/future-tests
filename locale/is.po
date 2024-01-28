@@ -23,6 +23,22 @@ msgstr ""
 msgid "Icon"
 msgstr "Teikn"
 
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Upgrade"
+msgstr "Uppfærsla"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr "Fjarlægja"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "Embætti"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr "Uppfæra: "
+
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
@@ -156,12 +172,6 @@ msgid "Signatures:"
 msgstr "Undirskrift:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Close"
-msgstr "Loka"
-
-# 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
 msgid "Nativos"
@@ -280,22 +290,6 @@ msgstr "Multimídia "
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
 msgid "Dev"
 msgstr "Dev"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remove"
-msgstr "Fjarlægja"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Upgrade"
-msgstr "Uppfærsla"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Install"
-msgstr "Embætti"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update: "
-msgstr "Uppfæra: "
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

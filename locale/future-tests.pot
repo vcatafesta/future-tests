@@ -11,6 +11,26 @@ msgid "Icon"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Upgrade"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
 msgid "Repository:"
 msgstr ""
 
@@ -98,10 +118,6 @@ msgstr ""
 msgid "Signatures:"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Close"
-msgstr ""
-
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
 msgid "Nativos"
 msgstr ""
@@ -180,22 +196,6 @@ msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
 msgid "Dev"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remove"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Upgrade"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Install"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update: "
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0

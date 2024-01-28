@@ -23,6 +23,22 @@ msgstr ""
 msgid "Icon"
 msgstr "Εικόνα"
 
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Upgrade"
+msgstr "Αναβαθμίζω"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr "Αφαιρώ"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "Εγκαθιστώ"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr "Ενημερώνω: "
+
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
@@ -156,12 +172,6 @@ msgid "Signatures:"
 msgstr "Υπογραφές:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Close"
-msgstr "Κλείνω"
-
-# 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
 msgid "Nativos"
@@ -280,22 +290,6 @@ msgstr "Multimídia "
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
 msgid "Dev"
 msgstr "Ανάπτυξη"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remove"
-msgstr "Αφαιρώ"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Upgrade"
-msgstr "Αναβαθμίζω"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Install"
-msgstr "Εγκαθιστώ"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update: "
-msgstr "Ενημερώνω: "
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0

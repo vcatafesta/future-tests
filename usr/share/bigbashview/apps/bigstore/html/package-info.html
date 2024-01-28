@@ -6,98 +6,168 @@
     installed size, packager, build date, and checksums. The dialog includes a close button to dismiss it. -->
 
 <div class="overlay"></div>
-<dialog id="pkginfo" class="no-border no-padding center-align top-align">
-    <template x-if="showPkgInfoModal">        
-        <div class="padding">
-            <div class="row no-padding">
+<dialog id="pkginfo" class="package-results-modal middle center no-padding">
+    <template x-if="showPkgInfoModal">
+        <!-- top bar in results with different color by package type -->
+        <div class="package-results-modal">
+            <!-- Left bar in results with different color by package type -->
+            <div class="left-bar-package-results-modal center-align" :class="{
+                    'bgcolor-pkg-aur': pkgInfo.t === 'a',
+                    'bgcolor-pkg-native': pkgInfo.t === 'p',
+                    'bgcolor-pkg-flatpak': pkgInfo.t === 'f',
+                    'bgcolor-pkg-snap': pkgInfo.t === 's',
+                    'bgcolor-pkg-web': pkgInfo.t === 'w'}">
+
                 <!-- Item Icon -->
-                <div x-html="pkgInfo.iconHTML"></div>
-                <div class="max truncate">
-                    <!-- Item Title -->
-                    <h5 class="small small-bottom-distance" x-text="formatTitle(pkgInfo.p)"></h5>
-                    <div class="row no-margin">
-                        <!-- Package Format -->
-                        <div x-html="packageFormat(pkgInfo.s)"></div>
-                        <!-- Item Version -->
-                        <label x-text="pkgInfo.v"></label>
+                <div class="small-padding" x-bind:x-on:show="fetchIcon(item)" x-html="pkgInfo.iconHTML">
+                </div>
+
+                <!-- Package Format -->
+                <div class="small-opacity" x-html="packageFormat(pkgInfo.t)"></div>
+
+                <!-- Install/Update/Remove Button -->
+                <div class="package-results-button">
+                    <nav>
+                        <template x-if="pkgInfo.u != null && pkgInfo.u !== '' ">
+                            <button class="package-results-button-format-modal tertiary orange9"><i
+                                    class="package-results-button-icon">update</i><br><span
+                                    stonejs>Upgrade</span></button>
+                        </template>
+                    </nav>
+                </div>
+
+                <div class="package-results-button">
+                    <nav>
+                        <template x-if="pkgInfo.i === 'true'">
+                            <button class="package-results-button-format-modal tertiary red9"><i
+                                    class="package-results-button-icon">delete</i><br><span
+                                    stonejs>Remove</span></button>
+                        </template>
+                        <template x-if="pkgInfo.i !== 'true'">
+                            <button class="package-results-button-format-modal tertiary green8"><i
+                                    class="package-results-button-icon">download</i><br><span
+                                    stonejs>Install</span></button>
+                        </template>
+                    </nav>
+                </div>
+            </div>
+
+
+            <div class="right-bar-package-results-modal">
+
+
+                <!-- Item Version -->
+                <!-- <div class="row right-align no-margin top right small-padding"> -->
+                <!-- Show repository -->
+                <!-- <div class="medium-opacity" x-text="pkgInfo.r"></div> -->
+                <!-- <label class="medium-opacity" x-text="pkgInfo.v"></label> -->
+
+                <!-- Close button for the dialog -->
+                <a class="close-modal-icon right small-padding" data-ui="#pkginfo"
+                    x-on:click="showPkgInfoModal = false;"><i>close</i></a>
+                <!-- </div> -->
+
+                <div>
+                    <h5 class="package-results-modal-title" x-text="formatTitle(pkgInfo.p)"></h5>
+                </div>
+
+                <div class="package-results-content">
+                    <h6 class="small small-line no-margin right-bar-package-result-text"
+                        x-text="formatDescription(pkgInfo.d)"></h6>
+
+                    <!-- pkgInfo.t is type, a is Aur and p is Pacman -->
+                    <template x-if="pkgInfo.u != '' && pkgInfo.t == 'a'">
+                        <div class="row medium-opacity absolute no-margin bottom right small-padding">
+                            <!-- Show update version AUR -->
+                            <span stonejs>Update: </span>
+                            <div x-text="pkgInfo.u"></div>
+                        </div>
+                    </template>
+
+                    <!-- pkgInfo.t is type, a is Aur and p is Pacman -->
+                    <template x-if="pkgInfo.t == 'p'">
+                        <div class="row medium-opacity absolute no-margin bottom right small-padding">
+
+                        </div>
+                    </template>
+
+
+
+                <template x-if="showPkgInfoModalPart2">
+                    <div class="left-align">
+                        <!-- Display package information -->
+                        <!-- <p x-text="pacmanInfo.Description"></p> -->
+                        <div><span stonejs>Repository:</span> <span x-text="pacmanInfo.Repository"></span></div>
+                        <div><span stonejs>Name:</span> <span x-text="pacmanInfo.Name"></span></div>
+                        <div><span stonejs>Version:</span> <span x-text="pacmanInfo.Version"></span></div>
+                        <div><span stonejs>Description:</span> <span x-text="pacmanInfo.Description"></span></div>
+                        <div><span stonejs>Architecture:</span> <span x-text="pacmanInfo.Architecture"></span></div>
+                        <div><span stonejs>URL:</span> <a x-bind:href="pacmanInfo.URL" x-text="pacmanInfo.URL"></a>
+                        </div>
+                        <div x-show="pacmanInfo.Licenses.length > 0"><span stonejs>License:</span> <span
+                                x-text="pacmanInfo.Licenses"></span></div>
+                        <div x-show="pacmanInfo.Groups.length > 0"><span stonejs>Groups:</span> <span
+                                x-text="pacmanInfo.Groups.join(', ')"></span></div>
+                        <div x-show="pacmanInfo.Provides.length > 0"><span stonejs>Provides:</span> <span
+                                x-text="pacmanInfo.Provides.join(', ')"></span></div>
+                        <div x-show="pacmanInfo['Depends On'].length > 0">
+                            <span stonejs>Depends On:</span>
+                            <ul class="vertical">
+                                <template x-for="dep in pacmanInfo['Depends On']">
+                                    <li x-text="dep"></li>
+                                </template>
+                            </ul>
+                        </div>
+                        <div x-show="pacmanInfo['Optional Deps'].length > 0">
+                            <span stonejs>Optional Dependencies:</span>
+                            <ul class="vertical">
+                                <template x-for="optDep in pacmanInfo['Optional Deps']">
+                                    <li x-text="optDep"></li>
+                                </template>
+                            </ul>
+                        </div>
+                        <div x-show="pacmanInfo['Required By'].length > 0">
+                            <span stonejs>Required By:</span>
+                            <ul class="vertical">
+                                <template x-for="reqBy in pacmanInfo['Required By']">
+                                    <li x-text="reqBy"></li>
+                                </template>
+                            </ul>
+                        </div>
+                        <div x-show="pacmanInfo['Optional For'].length > 0">
+                            <span stonejs>Optional For:</span>
+                            <ul class="vertical">
+                                <template x-for="optFor in pacmanInfo['Optional For']">
+                                    <li x-text="optFor"></li>
+                                </template>
+                            </ul>
+                        </div>
+                        <div x-show="pacmanInfo['Conflicts With'].length > 0">
+                            <span stonejs>Conflicts With:</span> <span
+                                x-text="pacmanInfo['Conflicts With'].join(', ')"></span>
+                        </div>
+                        <div x-show="pacmanInfo.Replaces.length > 0">
+                            <span stonejs>Replaces:</span> <span x-text="pacmanInfo.Replaces.join(', ')"></span>
+                        </div>
+                        <div><span stonejs>Download Size:</span> <span x-text="pacmanInfo['Download Size']"></span>
+                        </div>
+                        <div><span stonejs>Installed Size:</span> <span x-text="pacmanInfo['Installed Size']"></span>
+                        </div>
+                        <div><span stonejs>Packager:</span> <span x-text="pacmanInfo.Packager"></span></div>
+                        <div><span stonejs>Build Date:</span> <span x-text="pacmanInfo['Build Date']"></span></div>
+                        <div><span stonejs>MD5 Sum:</span> <span x-text="pacmanInfo['MD5 Sum']"></span></div>
+                        <div><span stonejs>SHA-256 Sum:</span> <span x-text="pacmanInfo['SHA-256 Sum']"></span>
+                        </div>
+                        <div><span stonejs>Signatures:</span> <span x-text="pacmanInfo.Signatures"></span></div>
                     </div>
+
+
+
                 </div>
             </div>
-
-            <div class="left-align">
-                <!-- Display package description -->
-                <span x-text="pkgInfo.d"></span>
-                <!-- Display install button with localized text -->
-                <span x-text="pkgInfo.i === 'true' ? _('Remove') : _('Install')"></span>
-            </div>
-
-            <div class="left-align">
-                <!-- Display package information -->
-                <!-- <p x-text="pacmanInfo.Description"></p> -->
-                <div><span stonejs>Repository:</span> <span x-text="pacmanInfo.Repository"></span></div>
-                <div><span stonejs>Name:</span> <span x-text="pacmanInfo.Name"></span></div>
-                <div><span stonejs>Version:</span> <span x-text="pacmanInfo.Version"></span></div>
-                <div><span stonejs>Description:</span> <span x-text="pacmanInfo.Description"></span></div>
-                <div><span stonejs>Architecture:</span> <span x-text="pacmanInfo.Architecture"></span></div>
-                <div><span stonejs>URL:</span> <a x-bind:href="pacmanInfo.URL" x-text="pacmanInfo.URL"></a>
-                </div>
-                <div x-show="pacmanInfo.Licenses.length > 0"><span stonejs>License:</span> <span
-                        x-text="pacmanInfo.Licenses"></span></div>
-                <div x-show="pacmanInfo.Groups.length > 0"><span stonejs>Groups:</span> <span
-                        x-text="pacmanInfo.Groups.join(', ')"></span></div>
-                <div x-show="pacmanInfo.Provides.length > 0"><span stonejs>Provides:</span> <span
-                        x-text="pacmanInfo.Provides.join(', ')"></span></div>
-                <div x-show="pacmanInfo['Depends On'].length > 0">
-                    <span stonejs>Depends On:</span>
-                    <ul class="vertical">
-                        <template x-for="dep in pacmanInfo['Depends On']">
-                            <li x-text="dep"></li>
-                        </template>
-                    </ul>
-                </div>
-                <div x-show="pacmanInfo['Optional Deps'].length > 0">
-                    <span stonejs>Optional Dependencies:</span>
-                    <ul class="vertical">
-                        <template x-for="optDep in pacmanInfo['Optional Deps']">
-                            <li x-text="optDep"></li>
-                        </template>
-                    </ul>
-                </div>
-                <div x-show="pacmanInfo['Required By'].length > 0">
-                    <span stonejs>Required By:</span>
-                    <ul class="vertical">
-                        <template x-for="reqBy in pacmanInfo['Required By']">
-                            <li x-text="reqBy"></li>
-                        </template>
-                    </ul>
-                </div>
-                <div x-show="pacmanInfo['Optional For'].length > 0">
-                    <span stonejs>Optional For:</span>
-                    <ul class="vertical">
-                        <template x-for="optFor in pacmanInfo['Optional For']">
-                            <li x-text="optFor"></li>
-                        </template>
-                    </ul>
-                </div>
-                <div x-show="pacmanInfo['Conflicts With'].length > 0">
-                    <span stonejs>Conflicts With:</span> <span x-text="pacmanInfo['Conflicts With'].join(', ')"></span>
-                </div>
-                <div x-show="pacmanInfo.Replaces.length > 0">
-                    <span stonejs>Replaces:</span> <span x-text="pacmanInfo.Replaces.join(', ')"></span>
-                </div>
-                <div><span stonejs>Download Size:</span> <span x-text="pacmanInfo['Download Size']"></span>
-                </div>
-                <div><span stonejs>Installed Size:</span> <span x-text="pacmanInfo['Installed Size']"></span></div>
-                <div><span stonejs>Packager:</span> <span x-text="pacmanInfo.Packager"></span></div>
-                <div><span stonejs>Build Date:</span> <span x-text="pacmanInfo['Build Date']"></span></div>
-                <div><span stonejs>MD5 Sum:</span> <span x-text="pacmanInfo['MD5 Sum']"></span></div>
-                <div><span stonejs>SHA-256 Sum:</span> <span x-text="pacmanInfo['SHA-256 Sum']"></span>
-                </div>
-                <div><span stonejs>Signatures:</span> <span x-text="pacmanInfo.Signatures"></span></div>
-            </div>
-
-            <!-- Close button for the dialog -->
-            <button class="border" data-ui="#pkginfo" x-on:click="showPkgInfoModal = false;" stonejs>Close</button>
+        </div>
         </div>
     </template>
+                        <!-- Display package information -->
+                    </template>
 </dialog>

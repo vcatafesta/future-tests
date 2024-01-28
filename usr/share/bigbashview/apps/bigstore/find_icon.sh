@@ -11,14 +11,14 @@ if [[ $type = pacman ]]; then
     # Check if the file specified in the 'line' variable exists
     if [[ -e $line ]]; then
         # Print an HTML image tag with the source attribute set to the value of 'line'
-        echo "<img class=\"large\" src=\"$line\" loading=\"lazy\">"
+        echo "<img class=\"medium\" src=\"$line\" loading=\"lazy\">"
         exit
     fi
 
     # Check if a specific file exists
     if [[ -e /usr/share/swcatalog/icons/archlinux-arch-extra/64x64/$query\_$query.png ]]; then
         # Print an HTML image tag with the source attribute set to the specific file path
-        echo "<img class=\"large\" src=\"/usr/share/swcatalog/icons/archlinux-arch-extra/64x64/${query}_$query.png\" loading=\"lazy\">"
+        echo "<img class=\"medium\" src=\"/usr/share/swcatalog/icons/archlinux-arch-extra/64x64/${query}_$query.png\" loading=\"lazy\">"
         exit
     fi
 
@@ -30,7 +30,7 @@ if [[ $type = pacman ]]; then
     # Check if the file specified in the 'line' variable exists
     if [[ -e $line ]]; then
         # Print an HTML image tag with the source attribute set to the value of 'line'
-        echo "<img class=\"large\" src=\"$line\" loading=\"lazy\">"
+        echo "<img class=\"medium\" src=\"$line\" loading=\"lazy\">"
         exit
     fi
 
@@ -40,7 +40,7 @@ elif [[ $type = flatpak ]]; then
     # Check if a specific file exists
     if [[ -e /var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query.png ]]; then
         # Print an HTML image tag with the source attribute set to the specific file path
-        echo "<img class=\"large\" src=\"/var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query.png\" loading=\"lazy\">"
+        echo "<img class=\"medium\" src=\"/var/lib/flatpak/appstream/flathub/x86_64/active/icons/64x64/$query.png\" loading=\"lazy\">"
         exit
     fi
 

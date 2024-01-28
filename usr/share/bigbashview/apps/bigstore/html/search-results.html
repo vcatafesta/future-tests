@@ -16,36 +16,38 @@
                     'bgcolor-pkg-flatpak': item.t === 'f',
                     'bgcolor-pkg-snap': item.t === 's',
                     'bgcolor-pkg-web': item.t === 'w'}">
+                    <!-- Item Icon -->
+                    <div class="package-results-icon" x-bind:x-on:show="fetchIcon(item)" x-html="item.iconHTML">
+                    </div>
 
                     <!-- Package Format -->
-                    <div x-html="packageFormat(item.t)"></div>
+                    <div class="small-opacity" x-html="packageFormat(item.t)"></div>
 
-                    <!-- Item Icon -->
-                    <div class="middle center small-padding" x-bind:x-on:show="fetchIcon(item)" x-html="item.iconHTML">
-                    </div>
+
 
                     <!-- Install/Update/Remove Button -->
                     <div class="package-results-button">
                         <nav>
                             <template x-if="item.i === 'true' && item.u == '' ">
                                 <button class="package-results-button-format tertiary red9"><i
-                                        class="package-results-button-icon">delete</i><br><span
+                                        class="package-results-button-icon">delete</i><br><span class="small-opacity"
                                         stonejs>Remove</span></button>
                             </template>
                             <template x-if="item.u != null && item.u !== '' ">
                                 <button class="package-results-button-format tertiary orange9"><i
-                                        class="package-results-button-icon">update</i><br><span
-                                        stonejs>Upgrade</span></button>
+                                        class="package-results-button-icon">update</i><br><span class="small-opacity"
+                                        stonejs>Upgrade</span>
+                                </button>
                             </template>
                             <template x-if="item.i !== 'true'">
                                 <button class="package-results-button-format tertiary green8"><i
-                                        class="package-results-button-icon">download</i><br><span
+                                        class="package-results-button-icon">download</i><br><span class="small-opacity"
                                         stonejs>Install</span></button>
                             </template>
                         </nav>
                     </div>
                 </div>
-                <div class="right-bar-package-results small-padding">
+                <div class="right-bar-package-results">
                     <h5 class="small small-bottom-distance" x-text="formatTitle(item.p)"></h5>
                     <h6 class="small small-line no-margin" x-text="formatDescription(item.d)"></h6>
                 </div>
@@ -55,12 +57,26 @@
                     <label x-text="item.v"></label>
                 </div>
 
-                <!-- Item.t is type, a is Aur and p is Pacman, show update version for both -->
-                <template x-if="item.u != '' && item.t == 'a' || item.t == 'p' && item.u != ''">
+                <!-- Item.t is type, a is Aur and p is Pacman -->
+                <template x-if="item.u != '' && item.t == 'a'">
                     <div class="row medium-opacity absolute no-margin bottom right small-padding">
-                        <!-- Show update version -->
+                        <!-- Show update version AUR -->
                         <span stonejs>Update: </span>
                         <div x-text="item.u"></div>
+                    </div>
+                </template>
+
+                <!-- Item.t is type, a is Aur and p is Pacman -->
+                <template x-if="item.t == 'p'">
+                    <div class="row medium-opacity absolute no-margin bottom right small-padding">
+
+                        <!-- Show repository -->
+                        <div x-text="item.r"></div>
+
+                        <!-- Show update version Pacman -->
+                        <template x-if="item.u != ''">
+                            <div x-text="item.u"></div>
+                        </template>
                     </div>
                 </template>
             </div>

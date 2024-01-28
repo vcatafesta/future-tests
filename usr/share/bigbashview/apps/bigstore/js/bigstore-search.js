@@ -5,6 +5,7 @@ function getItems() {
   window.items = {
     search: "",
     showPkgInfoModal: false,
+    showPkgInfoModalPart2: false,
     bigstoreData: [],
     filteredItemsCount: 0,
     maxItems: 30,
@@ -34,7 +35,6 @@ function getItems() {
           method: "POST",
           body: JSON.stringify(config),
         });
-
       } catch (error) {
         console.error("Fail to save os load config:", error);
       }
@@ -69,16 +69,40 @@ function getItems() {
     // Function to show modal and load the additional info for the selected item
     showModal(item) {
       console.log(item);
-      this.showPkgInfoModal = false; // Clean before modal
+      // this.pkgInfo = {};
+      // this.pacmanInfo = {};
+      this.showPkgInfoModal = true;
+      this.showPkgInfoModalPart2 = false;
       this.pkgInfo = item;
       if (item.t === "p") {
         this.getPacmanInfo();
       } else if (item.t === "a") {
-        this.getAurInfo();
         if (item.i === "true") {
           this.getPacmanInfo();
+        } else {
+          this.getAurInfo();
         }
       }
+    },
+
+    // Function to get the additional info from Pacman
+    getPacmanInfo() {
+      fetch("json_info_pacman.sh?" + this.pkgInfo.p)
+        .then((response) => response.json())
+        .then((json) => {
+          this.pacmanInfo = json;
+          this.showPkgInfoModalPart2 = true;
+        });
+    },
+
+    // Function to get the additional info from AUR
+    getAurInfo() {
+      fetch("json_info_aur.sh?" + this.pkgInfo.p)
+        .then((response) => response.json())
+        .then((json) => {
+          this.aurInfo = json;
+          this.showPkgInfoModalPart2 = true;
+        });
     },
 
     init() {
@@ -100,26 +124,6 @@ function getItems() {
         );
         this.observer.observe(this.triggerElement);
       }
-    },
-
-    // Function to get the additional info from Pacman
-    getPacmanInfo() {
-      fetch("json_info_pacman.sh?" + this.pkgInfo.p)
-        .then((response) => response.json())
-        .then((json) => {
-          this.pacmanInfo = json;
-          this.showPkgInfoModal = true;
-        });
-    },
-
-    // Function to get the additional info from AUR
-    getAurInfo() {
-      fetch("json_info_aur.sh?" + this.pkgInfo.p)
-        .then((response) => response.json())
-        .then((json) => {
-          this.aurInfo = json;
-          this.showPkgInfoModal = true;
-        });
     },
 
     // Function to fetch data for all enabled repositories

@@ -7,7 +7,7 @@ function getItems() {
     showPkgInfoModal: false,
     bigstoreData: [],
     filteredItemsCount: 0,
-    maxItems: 20,
+    maxItems: 30,
     open: false,
     pkgInfo: {},
     item: {},
@@ -35,7 +35,6 @@ function getItems() {
           body: JSON.stringify(config),
         });
 
-        this.maxItems = 20;
       } catch (error) {
         console.error("Fail to save os load config:", error);
       }
@@ -79,6 +78,27 @@ function getItems() {
         if (item.i === "true") {
           this.getPacmanInfo();
         }
+      }
+    },
+
+    init() {
+      // Context
+      const ctx = this;
+
+      // Trigger Element
+      this.triggerElement = this.$refs.scrollContainer.querySelector(
+        "#infinite-scroll-trigger"
+      );
+
+      // Intersection Observer Supported
+      if ("IntersectionObserver" in window) {
+        this.observer = new IntersectionObserver(
+          function () {
+            ctx.loadMore();
+          },
+          { threshold: [0] }
+        );
+        this.observer.observe(this.triggerElement);
       }
     },
 
@@ -135,6 +155,10 @@ function getItems() {
     },
 
     performSearch(searchQuery) {
+      // Reset max items on any search
+      this.maxItems = 30;
+      // Scroll to top on search
+      window.scrollTo(0, 0);
       if (searchQuery !== undefined) {
         this.search = searchQuery;
       } else {
@@ -193,9 +217,12 @@ function getItems() {
         let response;
         let html;
         if (item.ic) {
-          item.iconHTML = '<img class="large" src="' + item.ic + '" loading="lazy">';
+          item.iconHTML =
+            '<img class="large" src="' + item.ic + '" loading="lazy">';
         } else if (item.id) {
-          response = await fetch(`./find_icon.sh?type=flatpak&query=${item.id}`);
+          response = await fetch(
+            `./find_icon.sh?type=flatpak&query=${item.id}`
+          );
           html = await response.text();
           item.iconHTML = html;
         } else {

@@ -46,18 +46,23 @@
                     </div>
                 </div>
                 <div class="right-bar-package-results small-padding">
-                    <h5 class="small" x-text="formatTitle(item.p)"></h5>
-                    <h6 class="small" x-text="formatDescription(item.d)"></h6>
+                    <h5 class="small small-bottom-distance" x-text="formatTitle(item.p)"></h5>
+                    <h6 class="small small-line no-margin" x-text="formatDescription(item.d)"></h6>
                 </div>
 
                 <!-- Item Version -->
-                <div class="row small-opacity absolute  no-margin top right small-padding">
+                <div class="row medium-opacity absolute no-margin top right small-padding">
                     <label x-text="item.v"></label>
-                    <!-- Item.t is type, a is Aur and p is Pacman, show update version for both -->
-                    <template x-if="item.u !== '' && item.t == 'a' || item.t == 'p'">
-                        <div x-text="item.u"></div>
-                    </template>
                 </div>
+
+                <!-- Item.t is type, a is Aur and p is Pacman, show update version for both -->
+                <template x-if="item.u != '' && item.t == 'a' || item.t == 'p' && item.u != ''">
+                    <div class="row medium-opacity absolute no-margin bottom right small-padding">
+                        <!-- Show update version -->
+                        <span stonejs>Update: </span>
+                        <div x-text="item.u"></div>
+                    </div>
+                </template>
             </div>
         </article>
     </div>

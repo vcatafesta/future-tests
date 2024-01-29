@@ -68,11 +68,17 @@ do
             shift # Remove the --pacman parameter
             ;;
         --flatpak)
-            searchFlatpak=true
+            # Verify if Flatpak is installed
+            if [[ -e /usr/bin/snap ]]; then
+                searchFlatpak=true
+            fi
             shift # Remove the --flatpak parameter
             ;;
         --snap)
-            searchSnap=true
+            # Verify if Snap is installed
+            if [[ -e /usr/bin/snap ]]; then
+                searchSnap=true
+            fi
             shift # Remove the --snap parameter
             ;;
         --help)

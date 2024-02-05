@@ -92,74 +92,150 @@
                     </template>
 
 
+                    <template x-if="showPkgInfoModalPart2">
+                        <div class="left-align">
+                            <!-- Display package information -->
 
-                <template x-if="showPkgInfoModalPart2">
-                    <div class="left-align">
-                        <!-- Display package information -->
-                        <!-- <p x-text="pacmanInfo.Description"></p> -->
-                        <div><span stonejs>Repository:</span> <span x-text="pacmanInfo.Repository"></span></div>
-                        <div><span stonejs>Name:</span> <span x-text="pacmanInfo.Name"></span></div>
-                        <div><span stonejs>Version:</span> <span x-text="pacmanInfo.Version"></span></div>
-                        <div><span stonejs>Description:</span> <span x-text="pacmanInfo.Description"></span></div>
-                        <div><span stonejs>Architecture:</span> <span x-text="pacmanInfo.Architecture"></span></div>
-                        <div><span stonejs>URL:</span> <a x-bind:href="pacmanInfo.URL" x-text="pacmanInfo.URL"></a>
+                            <template x-if="pacmanInfoAppstream.screenshots">
+                                <div x-data="{
+                                        activeImage: 0,
+                                        screenshots: pacmanInfoAppstream.screenshots,
+                                        showModal: false,
+                                        intervalFunc: null,
+                                        openModal() {
+                                            this.showModal = true;
+                                        },
+                                        closeModal() {
+                                            this.showModal = false;
+                                        },
+                                        initCarousel() {
+                                            this.adjustHeight();
+                                            this.intervalFunc = setInterval(() => {
+                                                this.nextImage();
+                                            }, 10000); // Mudança automática a cada 10 segundos
+                                        },
+                                        nextImage() {
+                                            this.activeImage = (this.activeImage + 1) % this.screenshots.length;
+                                            this.adjustHeight();
+                                        },
+                                        adjustHeight() {
+                                            // Implemente a lógica para ajustar a altura aqui, se necessário.
+                                        },
+                                        goToImage(index) {
+                                            this.activeImage = index;
+                                            this.adjustHeight();
+                                        }
+                                    }" x-ref="carousel" x-init="initCarousel()" @resize.window="adjustHeight()"
+                                    class="carousel" style="position: relative;">
+                                    <template x-for="(screenshot, index) in screenshots" :key="index">
+                                        <img :src="screenshot" :alt="'Screenshot ' + (index + 1)" class="center" x-bind:class="{ 'is-active': index === activeImage }"
+                                            x-show="index === activeImage" @click="openModal()"
+                                            style="position: absolute; max-width: 100%; cursor: zoom-in;"
+                                            x-transition:enter="no-opacity" x-transition:enter-start="opacity" x-transition:enter-end="no-opacity"
+                                            x-transition:leave="opacity" x-transition:leave-start="no-opacity" x-transition:leave-end="opacity">
+                                    </template>
+                            
+                                    <!-- Navigation dots -->
+                                    <div class="carousel-indicators" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); display: flex; justify-content: center;">
+                                        <template x-for="(screenshot, index) in screenshots" :key="'dot-' + index">
+                                            <span class="dot" :class="{ 'active': index === activeImage }" @click="goToImage(index)"
+                                                  style="height: 10px; width: 10px; margin: 0 5px; background-color: #bbb; border-radius: 50%; display: inline-block; cursor: pointer;"></span>
+                                        </template>
+                                    </div>
+                            
+                                    <!-- Modal for viewing image -->
+                                    <div x-show="showModal" @click="closeModal()" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); display: flex; justify-content: center; align-items: center; z-index: 10;">
+                                        <div @click.stop style="position: relative; max-width: 90%; max-height: 90%; overflow: auto;">
+                                            <img :src="screenshots[activeImage]" style="max-width: 100%; max-height: 100%;">
+                                            <button @click="closeModal()" style="position: absolute; top: 0; right: 0; background-color: #fff; border: none; cursor: pointer;">Close</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </template>
+                            
+                            <style>
+                            /* Style for active dot */
+                            .dot.active, .dot:hover {
+                                background-color: #717171; /* Active dot color */
+                            }
+                            .carousel img {
+                                transition: opacity 0.5s ease-in-out;
+                            }
+                            </style>
+                            
+                            
+                            <template x-if="pacmanInfoAppstream.description != ''">
+                                <div class="small-padding">
+                                    <!-- Show update version AUR -->
+                                    <div x-html="pacmanInfoAppstream.description"></div>
+                                </div>
+                            </template>
+
+                            <!-- <p x-text="pacmanInfo.Description"></p> -->
+                            <div><span stonejs>Repository:</span> <span x-text="pacmanInfo.Repository"></span></div>
+                            <div><span stonejs>Name:</span> <span x-text="pacmanInfo.Name"></span></div>
+                            <div><span stonejs>Version:</span> <span x-text="pacmanInfo.Version"></span></div>
+                            <div><span stonejs>Description:</span> <span x-text="pacmanInfo.Description"></span></div>
+                            <div><span stonejs>Architecture:</span> <span x-text="pacmanInfo.Architecture"></span></div>
+                            <div><span stonejs>URL:</span> <a x-bind:href="pacmanInfo.URL" x-text="pacmanInfo.URL"></a>
+                            </div>
+                            <div x-show="pacmanInfo.Licenses.length > 0"><span stonejs>License:</span> <span
+                                    x-text="pacmanInfo.Licenses"></span></div>
+                            <div x-show="pacmanInfo.Groups.length > 0"><span stonejs>Groups:</span> <span
+                                    x-text="pacmanInfo.Groups.join(', ')"></span></div>
+                            <div x-show="pacmanInfo.Provides.length > 0"><span stonejs>Provides:</span> <span
+                                    x-text="pacmanInfo.Provides.join(', ')"></span></div>
+                            <div x-show="pacmanInfo['Depends On'].length > 0">
+                                <span stonejs>Depends On:</span>
+                                <ul class="vertical">
+                                    <template x-for="dep in pacmanInfo['Depends On']">
+                                        <li x-text="dep"></li>
+                                    </template>
+                                </ul>
+                            </div>
+                            <div x-show="pacmanInfo['Optional Deps'].length > 0">
+                                <span stonejs>Optional Dependencies:</span>
+                                <ul class="vertical">
+                                    <template x-for="optDep in pacmanInfo['Optional Deps']">
+                                        <li x-text="optDep"></li>
+                                    </template>
+                                </ul>
+                            </div>
+                            <div x-show="pacmanInfo['Required By'].length > 0">
+                                <span stonejs>Required By:</span>
+                                <ul class="vertical">
+                                    <template x-for="reqBy in pacmanInfo['Required By']">
+                                        <li x-text="reqBy"></li>
+                                    </template>
+                                </ul>
+                            </div>
+                            <div x-show="pacmanInfo['Optional For'].length > 0">
+                                <span stonejs>Optional For:</span>
+                                <ul class="vertical">
+                                    <template x-for="optFor in pacmanInfo['Optional For']">
+                                        <li x-text="optFor"></li>
+                                    </template>
+                                </ul>
+                            </div>
+                            <div x-show="pacmanInfo['Conflicts With'].length > 0">
+                                <span stonejs>Conflicts With:</span> <span
+                                    x-text="pacmanInfo['Conflicts With'].join(', ')"></span>
+                            </div>
+                            <div x-show="pacmanInfo.Replaces.length > 0">
+                                <span stonejs>Replaces:</span> <span x-text="pacmanInfo.Replaces.join(', ')"></span>
+                            </div>
+                            <div><span stonejs>Download Size:</span> <span x-text="pacmanInfo['Download Size']"></span>
+                            </div>
+                            <div><span stonejs>Installed Size:</span> <span
+                                    x-text="pacmanInfo['Installed Size']"></span>
+                            </div>
+                            <div><span stonejs>Packager:</span> <span x-text="pacmanInfo.Packager"></span></div>
+                            <div><span stonejs>Build Date:</span> <span x-text="pacmanInfo['Build Date']"></span></div>
+                            <div><span stonejs>MD5 Sum:</span> <span x-text="pacmanInfo['MD5 Sum']"></span></div>
+                            <div><span stonejs>SHA-256 Sum:</span> <span x-text="pacmanInfo['SHA-256 Sum']"></span>
+                            </div>
+                            <div><span stonejs>Signatures:</span> <span x-text="pacmanInfo.Signatures"></span></div>
                         </div>
-                        <div x-show="pacmanInfo.Licenses.length > 0"><span stonejs>License:</span> <span
-                                x-text="pacmanInfo.Licenses"></span></div>
-                        <div x-show="pacmanInfo.Groups.length > 0"><span stonejs>Groups:</span> <span
-                                x-text="pacmanInfo.Groups.join(', ')"></span></div>
-                        <div x-show="pacmanInfo.Provides.length > 0"><span stonejs>Provides:</span> <span
-                                x-text="pacmanInfo.Provides.join(', ')"></span></div>
-                        <div x-show="pacmanInfo['Depends On'].length > 0">
-                            <span stonejs>Depends On:</span>
-                            <ul class="vertical">
-                                <template x-for="dep in pacmanInfo['Depends On']">
-                                    <li x-text="dep"></li>
-                                </template>
-                            </ul>
-                        </div>
-                        <div x-show="pacmanInfo['Optional Deps'].length > 0">
-                            <span stonejs>Optional Dependencies:</span>
-                            <ul class="vertical">
-                                <template x-for="optDep in pacmanInfo['Optional Deps']">
-                                    <li x-text="optDep"></li>
-                                </template>
-                            </ul>
-                        </div>
-                        <div x-show="pacmanInfo['Required By'].length > 0">
-                            <span stonejs>Required By:</span>
-                            <ul class="vertical">
-                                <template x-for="reqBy in pacmanInfo['Required By']">
-                                    <li x-text="reqBy"></li>
-                                </template>
-                            </ul>
-                        </div>
-                        <div x-show="pacmanInfo['Optional For'].length > 0">
-                            <span stonejs>Optional For:</span>
-                            <ul class="vertical">
-                                <template x-for="optFor in pacmanInfo['Optional For']">
-                                    <li x-text="optFor"></li>
-                                </template>
-                            </ul>
-                        </div>
-                        <div x-show="pacmanInfo['Conflicts With'].length > 0">
-                            <span stonejs>Conflicts With:</span> <span
-                                x-text="pacmanInfo['Conflicts With'].join(', ')"></span>
-                        </div>
-                        <div x-show="pacmanInfo.Replaces.length > 0">
-                            <span stonejs>Replaces:</span> <span x-text="pacmanInfo.Replaces.join(', ')"></span>
-                        </div>
-                        <div><span stonejs>Download Size:</span> <span x-text="pacmanInfo['Download Size']"></span>
-                        </div>
-                        <div><span stonejs>Installed Size:</span> <span x-text="pacmanInfo['Installed Size']"></span>
-                        </div>
-                        <div><span stonejs>Packager:</span> <span x-text="pacmanInfo.Packager"></span></div>
-                        <div><span stonejs>Build Date:</span> <span x-text="pacmanInfo['Build Date']"></span></div>
-                        <div><span stonejs>MD5 Sum:</span> <span x-text="pacmanInfo['MD5 Sum']"></span></div>
-                        <div><span stonejs>SHA-256 Sum:</span> <span x-text="pacmanInfo['SHA-256 Sum']"></span>
-                        </div>
-                        <div><span stonejs>Signatures:</span> <span x-text="pacmanInfo.Signatures"></span></div>
-                    </div>
 
 
 
@@ -168,6 +244,6 @@
         </div>
         </div>
     </template>
-                        <!-- Display package information -->
-                    </template>
+    <!-- Display package information -->
+    </template>
 </dialog>

@@ -76,9 +76,11 @@ function getItems() {
       this.pkgInfo = item;
       if (item.t === "p") {
         this.getPacmanInfo();
+        this.getPacmanInfoAppstream();
       } else if (item.t === "a") {
         if (item.i === "true") {
           this.getPacmanInfo();
+          this.getPacmanInfoAppstream();
         } else {
           this.getAurInfo();
         }
@@ -87,14 +89,20 @@ function getItems() {
 
     // Function to get the additional info from Pacman
     getPacmanInfo() {
-      fetch("json_info_pacman.sh?" + this.pkgInfo.p)
+      fetch("/usr/share/biglinux/bigstore-cli/pkg_info_pacman.sh?" + this.pkgInfo.p)
         .then((response) => response.json())
         .then((json) => {
           this.pacmanInfo = json;
           this.showPkgInfoModalPart2 = true;
         });
     },
-
+    getPacmanInfoAppstream() {
+      fetch("/usr/share/biglinux/bigstore-cli/pkg_info_pacman_appstream.sh?" + this.pkgInfo.p)
+        .then((response) => response.json())
+        .then((json) => {
+          this.pacmanInfoAppstream = json;
+        });
+    },
     // Function to get the additional info from AUR
     getAurInfo() {
       fetch("json_info_aur.sh?" + this.pkgInfo.p)

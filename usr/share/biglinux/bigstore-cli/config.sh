@@ -25,13 +25,18 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 #  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-PATH="$PATH:/usr/share/biglinux/bigstore-cli"
+big_store_folder="/usr/share/biglinux/bigstore-cli"
+
+PATH="$PATH:$big_store_folder"
 
 cacheFolder='/var/tmp/pamac/'
+localeFolder="$big_store_folder/locale"
+awk_folder="$big_store_folder/awk"
+jq_folder="$big_store_folder/jq"
+
 
 cacheFolderHome="$HOME/.cache/bigstore-cli/"
 if [[ ! -d $cacheFolderHome ]]; then
     mkdir -p "$cacheFolderHome"
 fi
 
-localeFolder='/usr/share/biglinux/bigstore-cli/locale/'

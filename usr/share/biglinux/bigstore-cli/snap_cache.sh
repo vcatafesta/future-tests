@@ -84,14 +84,14 @@ fi
 
 wait
 
-if [[ "$DisableTranslate" == "false" ]]; then
+if [[ "$DisableTranslate" == "false" ]] && [[ -e $localeFile ]]; then
 
     awk_translate="-v localeFile=$localeFile"
-    awk_file='awk/snap_cache_with_translate.awk'
+    awk_file='/usr/share/biglinux/bigstore-cli/awk/snap_cache_with_translate.awk'
 else
 
     awk_translate=''
-    awk_file='awk/snap_cache_without_translate.awk'
+    awk_file='/usr/share/biglinux/bigstore-cli/awk/snap_cache_without_translate.awk'
 fi
 
 awk -v installedPackages="$InstalledSnap" $awk_translate -f $awk_file "$AllSnapCache" | sort -u >$FileToSaveCacheFiltered

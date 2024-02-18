@@ -109,14 +109,14 @@ fi
 wait
 
 # If the locale file exists, and not manual disabled the translation, use the translated description
-if [[ "$DisableTranslate" == "false" ]]; then
+if [[ "$DisableTranslate" == "false" ]] && [[ -e $localeFile ]]; then
 
     awk_translate="-v localeFile=$localeFile"
-    awk_file='awk/flatpak_cache_with_translate.awk'
+    awk_file='/usr/share/biglinux/bigstore-cli/awk/flatpak_cache_with_translate.awk'
 else
 
     awk_translate=''
-    awk_file='awk/flatpak_cache_without_translate.awk'
+    awk_file='/usr/share/biglinux/bigstore-cli/awk/flatpak_cache_without_translate.awk'
 fi
 
 # Filter all with awk

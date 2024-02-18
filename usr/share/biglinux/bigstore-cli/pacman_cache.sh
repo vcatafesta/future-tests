@@ -94,18 +94,18 @@ fi
 
 # Function to transform the pacman output into a JSON array, using jq
 pacmanJson() {
-    LANG=C pacman -Ss | jq -Rsc -f jq/pacman_cache.jq | sed 's|,{"repo":"|,\n{"repo":"|g;s|:null,|:"",|g;s|:"false",|:"",|g' # Split any package in one line and change null to "null"
+    LANG=C pacman -Ss | jq -Rsc -f /usr/share/biglinux/bigstore-cli/jq/pacman_cache.jq | sed 's|,{"repo":"|,\n{"repo":"|g;s|:null,|:"",|g;s|:"false",|:"",|g' # Split any package in one line and change null to "null"
 }
 
 # If the locale file exists, and not manual disabled the translation, use the translated description
-if [[ "$DisableTranslate" == "false" ]]; then
+if [[ "$DisableTranslate" == "false" ]] && [[ -e $localeFile ]]; then
 
     awk_translate="-v localeFile=$localeFile"
-    awk_file='awk/pacman_cache_with_translate.awk'
+    awk_file='/usr/share/biglinux/bigstore-cli/awk/pacman_cache_with_translate.awk'
 else
 
     awk_translate=''
-    awk_file='awk/pacman_cache_without_translate.awk'
+    awk_file='/usr/share/biglinux/bigstore-cli/awk/pacman_cache_without_translate.awk'
 fi
 
 # To generate JSON without translation, we don't really need awk

@@ -6,8 +6,12 @@
 -->
 <template x-for="item in displayedItems">
     <div class="s12 m6 l4">
-        <article class="cursor-alias onhover-elevate1 no-padding" x-on:click="showModal(item);" data-ui="#pkginfo">
-            <div class="package-results">
+        <article class="no-padding">
+            <div :class="{
+                'small-shadow-blue': markedForInstall.some(pkg => pkg.p === item.p && pkg.type === item.t) ||
+                markedForRemoval.some(pkg => pkg.p === item.p && pkg.type === item.t) ||
+                markedForUpdate.some(pkg => pkg.p === item.p && pkg.type === item.t)
+            }" class="package-results">
 
                 <!-- Left bar in results with different color by package type -->
                 <div class="left-bar-package-results center-align" :class="{
@@ -16,41 +20,46 @@
                     'bgcolor-pkg-flatpak': item.t === 'f',
                     'bgcolor-pkg-snap': item.t === 's',
                     'bgcolor-pkg-web': item.t === 'w'}">
+
                     <!-- Item Icon -->
-                    <div class="package-results-icon" x-bind:x-on:show="fetchIcon(item)" x-html="item.iconHTML">
+                    <div class="package-results-icon cursor-zoom-in" x-bind:x-on:show="fetchIcon(item)" x-html="item.iconHTML" x-on:click="showModal(item);" data-ui="#pkginfo">
                     </div>
 
                     <!-- Package Format -->
                     <div class="small-opacity" x-html="packageFormat(item.t)"></div>
 
-
-
                     <!-- Install/Update/Remove Button -->
                     <div class="package-results-button">
                         <nav>
-                            <template x-if="item.i === 'true' && item.u == '' ">
-                                <button class="package-results-button-format tertiary red9"><i
-                                        class="package-results-button-icon">delete</i><br><span class="small-opacity"
-                                        stonejs>Remove</span></button>
-                            </template>
-                            <template x-if="item.u != null && item.u !== '' ">
-                                <button class="package-results-button-format tertiary orange9"><i
-                                        class="package-results-button-icon">update</i><br><span class="small-opacity"
-                                        stonejs>Upgrade</span>
+                            <template x-if="item.i !== 'true'">
+                                <button @click="toggleMarkForInstall(item)" :class="markedForInstall.some(pkg => pkg.p === item.p && pkg.type === item.t) ? 'green10' : 'green9'" class="package-results-button-format tertiary wave">
+                                    <i :class="{'transition-icon': true, 'rotate-icon': markedForInstall.some(pkg => pkg.p === item.p && pkg.type === item.t)}" x-text="markedForInstall.some(pkg => pkg.p === item.p && pkg.type === item.t) ? 'check' : 'download'"></i><br>
+                                    <span stonejs>Install</span>
                                 </button>
                             </template>
-                            <template x-if="item.i !== 'true'">
-                                <button class="package-results-button-format tertiary green8"><i
-                                        class="package-results-button-icon">download</i><br><span class="small-opacity"
-                                        stonejs>Install</span></button>
+
+                            <template x-if="item.i === 'true' && item.u == '' ">
+                                <button @click="toggleMarkForRemoval(item)" :class="markedForRemoval.some(pkg => pkg.p === item.p && pkg.type === item.t) ? 'red8' : 'red9'" class="package-results-button-format tertiary wave">
+                                    <i :class="{'transition-icon': true, 'rotate-icon': markedForRemoval.some(pkg => pkg.p === item.p && pkg.type === item.t)}" x-text="markedForRemoval.some(pkg => pkg.p === item.p && pkg.type === item.t) ? 'check' : 'delete'"></i><br>
+                                    <span stonejs>Remove</span>
+                                </button>
+                            </template>
+
+
+                            <template x-if="item.u != null && item.u !== '' ">
+                                <button @click="toggleMarkForUpdate(item)" :class="markedForUpdate.some(pkg => pkg.p === item.p && pkg.type === item.t) ? 'orange8' : 'orange9'" class="package-results-button-format tertiary wave">
+                                    <i :class="{'transition-icon': true, 'rotate-icon': markedForUpdate.some(pkg => pkg.p === item.p && pkg.type === item.t)}" x-text="markedForUpdate.some(pkg => pkg.p === item.p && pkg.type === item.t) ? 'check' : 'update'"></i><br>
+                                    <span stonejs>Update</span>
+                                </button>
                             </template>
                         </nav>
                     </div>
                 </div>
-                <div class="right-bar-package-results">
+                <div class="right-bar-package-results cursor-zoom-in" x-on:click="showModal(item);" data-ui="#pkginfo">
                     <h5 class="small small-bottom-distance" x-text="formatTitle(item.p)"></h5>
                     <h6 class="small small-line no-margin" x-text="formatDescription(item.d)"></h6>
                 </div>
+
 
                 <!-- Item Version -->
                 <div class="row medium-opacity absolute no-margin top right small-padding">
@@ -83,6 +92,13 @@
         </article>
     </div>
 </template>
+
+<div class="fixed center bottom">
+    <p>Pacotes para instalar: <span x-text="markedForInstall.length"></span></p>
+    <p>Pacotes para remover: <span x-text="markedForRemoval.length"></span></p>
+    <p>Pacotes para atualizar: <span x-text="markedForUpdate.length"></span></p>
+    <button @click="showDetailedList()">Mostrar Detalhes</button>
+</div>
 
 <!-- Scroll Container -->
 <div class="center-align" x-ref="scrollContainer">

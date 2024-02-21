@@ -7,6 +7,9 @@ function getItems() {
     showPkgInfoModal: false,
     showPkgInfoModalPart2: false,
     bigstoreData: [],
+    markedForInstall: [],
+    markedForRemoval: [],
+    markedForUpdate: [],
     filteredItemsCount: 0,
     maxItems: 30,
     open: false,
@@ -66,6 +69,58 @@ function getItems() {
       }
     },
 
+    // Updated to work as a toggle
+    toggleMarkForInstall(item) {
+      let isMarked = this.markedForInstall.some(
+        (pkg) => pkg.p === item.p && pkg.type === item.t
+      );
+      if (isMarked) {
+        // If it's already marked for installation, remove it from the list
+        this.markedForInstall = this.markedForInstall.filter(
+          (pkg) => pkg.p !== item.p || pkg.type !== item.t
+        );
+      } else {
+        // Otherwise, add it to the list and remove from other states if necessary
+        this.markedForInstall.push({ p: item.p, type: item.t });
+      }
+    },
+    toggleMarkForRemoval(item) {
+      let isMarked = this.markedForRemoval.some(
+        (pkg) => pkg.p === item.p && pkg.type === item.t
+      );
+      if (isMarked) {
+        // If it's already marked for removal, remove it from the list
+        this.markedForRemoval = this.markedForRemoval.filter(
+          (pkg) => pkg.p !== item.p || pkg.type !== item.t
+        );
+      } else {
+        // Otherwise, add it to the list and remove from other states if necessary
+        this.markedForRemoval.push({ p: item.p, type: item.t });
+      }
+    },
+    // Updated to work as a toggle
+    toggleMarkForUpdate(item) {
+      let isMarked = this.markedForUpdate.some(
+        (pkg) => pkg.p === item.p && pkg.type === item.t
+      );
+      if (isMarked) {
+        // If it's already marked for update, remove it from the list
+        this.markedForUpdate = this.markedForUpdate.filter(
+          (pkg) => pkg.p !== item.p || pkg.type !== item.t
+        );
+      } else {
+        // Otherwise, add it to the list and remove from other states if necessary
+        this.markedForUpdate.push({ p: item.p, type: item.t });
+      }
+    },
+
+    isMarkedForAction(item, actionType) {
+      let actionList = this[`markedFor${actionType}`];
+      return actionList.some(
+        (pkg) => pkg.id === item.id && pkg.type === item.t
+      );
+    },
+
     // Function to show modal and load the additional info for the selected item
     showModal(item) {
       console.log(item);
@@ -89,7 +144,9 @@ function getItems() {
 
     // Function to get the additional info from Pacman
     getPacmanInfo() {
-      fetch("/usr/share/biglinux/bigstore-cli/pkg_info_pacman.sh?" + this.pkgInfo.p)
+      fetch(
+        "/usr/share/biglinux/bigstore-cli/pkg_info_pacman.sh?" + this.pkgInfo.p
+      )
         .then((response) => response.json())
         .then((json) => {
           this.pacmanInfo = json;
@@ -97,7 +154,10 @@ function getItems() {
         });
     },
     getPacmanInfoAppstream() {
-      fetch("/usr/share/biglinux/bigstore-cli/pkg_info_pacman_appstream.sh?" + this.pkgInfo.p)
+      fetch(
+        "/usr/share/biglinux/bigstore-cli/pkg_info_pacman_appstream.sh?" +
+          this.pkgInfo.p
+      )
         .then((response) => response.json())
         .then((json) => {
           this.pacmanInfoAppstream = json;

@@ -6,8 +6,9 @@ msgstr ""
 "Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html:0
-msgid "Icon"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Install"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
@@ -16,13 +17,7 @@ msgid "Remove"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Upgrade"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Install"
+msgid "Update"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
@@ -56,6 +51,10 @@ msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
 msgid "Web"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Upgrade"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0

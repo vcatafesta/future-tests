@@ -6,9 +6,10 @@ msgstr ""
 "Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/components/cardresult.html:0
-msgid "Icon"
-msgstr "Icon"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Install"
+msgstr "Install"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
@@ -16,14 +17,8 @@ msgid "Remove"
 msgstr "Remove"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Upgrade"
-msgstr "Upgrade"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Install"
-msgstr "Install"
+msgid "Update"
+msgstr "Update"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
@@ -57,6 +52,10 @@ msgstr "Snap"
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
 msgid "Web"
 msgstr "Web"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Upgrade"
+msgstr "Upgrade"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
 msgid "Repository:"

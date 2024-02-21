@@ -78,10 +78,10 @@ done
 # This script can output in json format or in text format
 if $json_output; then
 
-    awk_file='awk/pacman_search_json.awk'
+    awk_file="$awk_folder/pacman_search_json.awk"
 else
 
-    awk_file='awk/pacman_search.awk'
+    awk_file="$awk_folder/pacman_search.awk"
 fi
 
 # eval run the crazy ripgrep command, and awk read the results

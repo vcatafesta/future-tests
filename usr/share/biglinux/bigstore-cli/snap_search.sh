@@ -77,9 +77,9 @@ done
 
 # This script can output in json format or in text format
 if $json_output; then
-    awk_file='awk/snap_search_json.awk'
+    awk_file="$awk_folder/snap_search_json.awk"
 else
-    awk_file='awk/snap_search.awk'
+    awk_file="$awk_folder/snap_search.awk"
 fi
 
 # Search using ripgrep and filter using awk

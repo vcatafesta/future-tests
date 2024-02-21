@@ -30,6 +30,9 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
+# Load config file
+. /usr/share/biglinux/bigstore-cli/config.sh
+
 # Search info in pacman database
 pacmanInfo="$(LANG=C pacman -Sii $1)"
 if [[ $? != 0 ]]; then
@@ -47,6 +50,6 @@ fi
 # Yes need breakline in the end of echo
 echo "$pacmanInfo
 " | grep -E -B 999  -m1 '^$' | \
-awk -v RS="" -f awk/pkg_info_pacman.awk | \
-jq -f jq/pkg_info_pacman.jq
+awk -v RS="" -f "$awk_folder/pkg_info_pacman.awk" | \
+jq -f "$jq_folder/pkg_info_pacman.jq"
 

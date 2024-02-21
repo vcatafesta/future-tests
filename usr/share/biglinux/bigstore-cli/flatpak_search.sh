@@ -78,10 +78,10 @@ done
 # This script can output in json format or in text format
 if $json_output; then
 
-    awk_file='awk/flatpak_search_json.awk'
+    awk_file="$awk_folder/flatpak_search_json.awk"
 else
 
-    awk_file='awk/flatpak_search.awk'
+    awk_file="$awk_folder/flatpak_search.awk"
 fi
 
 # Verify if the cache file is valid or need update

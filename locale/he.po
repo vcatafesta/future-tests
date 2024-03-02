@@ -16,21 +16,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Install"
-msgstr "התקין"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Selecionados"
+msgstr "סלציונדוס"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remove"
-msgstr "להסיר"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Cancelar"
+msgstr "ביטול"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update"
-msgstr "עדכון"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update: "
-msgstr "עדכון: "
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Aplicar"
+msgstr "אפליקאר"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
@@ -75,8 +71,20 @@ msgid "Web"
 msgstr "אינטרנט"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Upgrade"
-msgstr "שדרג"
+msgid "Update"
+msgstr "עדכון"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr "להסיר"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "התקין"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr "עדכון: "
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0

@@ -16,21 +16,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Install"
-msgstr "Instalirati"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Selecionados"
+msgstr "Selecionados"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remove"
-msgstr "Odstraniti"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Cancelar"
+msgstr "Odustani"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update"
-msgstr "Ažurirati"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update: "
-msgstr "Ažurirati: "
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Aplicar"
+msgstr "Aplicar"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
@@ -75,8 +71,20 @@ msgid "Web"
 msgstr "Web"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Upgrade"
-msgstr "Nadograditi"
+msgid "Update"
+msgstr "Ažurirati"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr "Odstraniti"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "Instalirati"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr "Ažurirati: "
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0

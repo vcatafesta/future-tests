@@ -16,21 +16,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Install"
-msgstr "Instalar"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Selecionados"
+msgstr "Selecionados"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Remove"
-msgstr "Eliminar"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Cancelar"
+msgstr "Cancelar"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update"
-msgstr "Actualizar"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update: "
-msgstr "Actualizar: "
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Aplicar"
+msgstr "Aplicar"
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
@@ -75,8 +71,20 @@ msgid "Web"
 msgstr "Telaraña"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Upgrade"
+msgid "Update"
 msgstr "Actualizar"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Remove"
+msgstr "Eliminar"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Install"
+msgstr "Instalar"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Update: "
+msgstr "Actualizar: "
 
 # 
 # File: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html, line: 0

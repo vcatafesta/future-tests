@@ -6,23 +6,16 @@ msgstr ""
 "Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Install"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Selecionados"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Remove"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Cancelar"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Update: "
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Aplicar"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
@@ -54,7 +47,19 @@ msgid "Web"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Upgrade"
+msgid "Update"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Remove"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Install"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Update: "
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0

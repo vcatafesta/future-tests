@@ -6,24 +6,17 @@ msgstr ""
 "Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Install"
-msgstr "Install"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Selecionados"
+msgstr "Selecionados"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Remove"
-msgstr "Remove"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Cancelar"
+msgstr "Cancelar"
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Update"
-msgstr "Update"
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Update: "
-msgstr "Update: "
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Aplicar"
+msgstr "Aplicar"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
 msgid "Fim dos resultados"
@@ -54,8 +47,20 @@ msgid "Web"
 msgstr "Web"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Upgrade"
-msgstr "Upgrade"
+msgid "Update"
+msgstr "Update"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Remove"
+msgstr "Remove"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Install"
+msgstr "Install"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
+msgid "Update: "
+msgstr "Update: "
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
 msgid "Repository:"

@@ -2,7 +2,7 @@ function getItems() {
   let autoCompleteMenuEnabled = true;
   let isThrottled = false;
 
-  window.items = {
+  const items = {
     search: "",
     showPkgInfoModal: false,
     showPkgInfoModalPart2: false,
@@ -25,25 +25,23 @@ function getItems() {
     snapCount: 0,
     additionalInfo: null,
 
-    // Function to save the current configuration
     async saveConfig() {
+      const config = {
+        searchPacman: this.searchPacman,
+        searchAUR: this.searchAUR,
+        searchFlatpak: this.searchFlatpak,
+        searchSnap: this.searchSnap,
+      };
       try {
-        const config = {
-          searchPacman: this.searchPacman,
-          searchAUR: this.searchAUR,
-          searchFlatpak: this.searchFlatpak,
-          searchSnap: this.searchSnap,
-        };
         await fetch("/api/file?filename=$HOME/.config/bigstore/config.json", {
           method: "POST",
           body: JSON.stringify(config),
         });
       } catch (error) {
-        console.error("Fail to save os load config:", error);
+        console.error("Failed to save config:", error);
       }
     },
 
-    // Function to load the saved configuration
     async loadConfig() {
       try {
         const response = await fetch(
@@ -51,12 +49,7 @@ function getItems() {
         );
         if (response.ok) {
           const config = await response.json();
-          if (config) {
-            this.searchPacman = config.searchPacman;
-            this.searchAUR = config.searchAUR;
-            this.searchFlatpak = config.searchFlatpak;
-            this.searchSnap = config.searchSnap;
-          }
+          Object.assign(this, config);
         } else {
           console.error(
             "Failed to load config:",
@@ -69,124 +62,98 @@ function getItems() {
       }
     },
 
-    // Updated to work as a toggle
-    toggleMarkForInstall(item) {
-      let isMarked = this.markedForInstall.some(
+    toggleMarkForAction(item, action) {
+      const listName = `markedFor${action[0].toUpperCase() + action.slice(1)}`;
+      const index = this[listName].findIndex(
         (pkg) => pkg.p === item.p && pkg.type === item.t
       );
-      if (isMarked) {
-        // If it's already marked for installation, remove it from the list
-        this.markedForInstall = this.markedForInstall.filter(
-          (pkg) => pkg.p !== item.p || pkg.type !== item.t
-        );
+      if (index > -1) {
+        this[listName].splice(index, 1);
       } else {
-        // Otherwise, add it to the list and remove from other states if necessary
-        this.markedForInstall.push({ p: item.p, type: item.t });
-      }
-    },
-    toggleMarkForRemoval(item) {
-      let isMarked = this.markedForRemoval.some(
-        (pkg) => pkg.p === item.p && pkg.type === item.t
-      );
-      if (isMarked) {
-        // If it's already marked for removal, remove it from the list
-        this.markedForRemoval = this.markedForRemoval.filter(
-          (pkg) => pkg.p !== item.p || pkg.type !== item.t
-        );
-      } else {
-        // Otherwise, add it to the list and remove from other states if necessary
-        this.markedForRemoval.push({ p: item.p, type: item.t });
-      }
-    },
-    // Updated to work as a toggle
-    toggleMarkForUpdate(item) {
-      let isMarked = this.markedForUpdate.some(
-        (pkg) => pkg.p === item.p && pkg.type === item.t
-      );
-      if (isMarked) {
-        // If it's already marked for update, remove it from the list
-        this.markedForUpdate = this.markedForUpdate.filter(
-          (pkg) => pkg.p !== item.p || pkg.type !== item.t
-        );
-      } else {
-        // Otherwise, add it to the list and remove from other states if necessary
-        this.markedForUpdate.push({ p: item.p, type: item.t });
+        this[listName].push({ p: item.p, type: item.t });
+        ["Install", "Removal", "Update"].forEach((act) => {
+          if (action !== act.toLowerCase()) {
+            this[`markedFor${act}`] = this[`markedFor${act}`].filter(
+              (pkg) => pkg.p !== item.p || pkg.type !== item.t
+            );
+          }
+        });
       }
     },
 
     isMarkedForAction(item, actionType) {
-      let actionList = this[`markedFor${actionType}`];
-      return actionList.some(
-        (pkg) => pkg.id === item.id && pkg.type === item.t
-      );
+      return this[
+        `markedFor${actionType[0].toUpperCase() + actionType.slice(1)}`
+      ].some((pkg) => pkg.p === item.p && pkg.type === item.t);
     },
 
-    // Function to show modal and load the additional info for the selected item
+    cancelSelection() {
+      this.markedForInstall = [];
+      this.markedForRemoval = [];
+      this.markedForUpdate = [];
+    },
+
     showModal(item) {
-      console.log(item);
-      // this.pkgInfo = {};
-      // this.pacmanInfo = {};
       this.showPkgInfoModal = true;
       this.showPkgInfoModalPart2 = false;
       this.pkgInfo = item;
-      if (item.t === "p") {
+      if (item.t === "p" || (item.t === "a" && item.i === "true")) {
         this.getPacmanInfo();
         this.getPacmanInfoAppstream();
       } else if (item.t === "a") {
-        if (item.i === "true") {
-          this.getPacmanInfo();
-          this.getPacmanInfoAppstream();
-        } else {
-          this.getAurInfo();
-        }
+        this.getAurInfo();
       }
     },
 
     // Function to get the additional info from Pacman
-    getPacmanInfo() {
-      fetch(
-        "/usr/share/biglinux/bigstore-cli/pkg_info_pacman.sh?" + this.pkgInfo.p
-      )
-        .then((response) => response.json())
-        .then((json) => {
-          this.pacmanInfo = json;
+    async getPacmanInfo() {
+      try {
+        const response = await fetch(
+          `/usr/share/biglinux/bigstore-cli/pkg_info_pacman.sh?${this.pkgInfo.p}`
+        );
+        if (response.ok) {
+          this.pacmanInfo = await response.json();
           this.showPkgInfoModalPart2 = true;
-        });
+        }
+      } catch (error) {
+        console.error("Error fetching Pacman info:", error);
+      }
     },
-    getPacmanInfoAppstream() {
-      fetch(
-        "/usr/share/biglinux/bigstore-cli/pkg_info_pacman_appstream.sh?" +
-          this.pkgInfo.p
-      )
-        .then((response) => response.json())
-        .then((json) => {
-          this.pacmanInfoAppstream = json;
-        });
+
+    async getPacmanInfoAppstream() {
+      try {
+        const response = await fetch(
+          `/usr/share/biglinux/bigstore-cli/pkg_info_pacman_appstream.sh?${this.pkgInfo.p}`
+        );
+        if (response.ok) {
+          this.pacmanInfoAppstream = await response.json();
+        }
+      } catch (error) {
+        console.error("Error fetching Pacman Appstream info:", error);
+      }
     },
-    // Function to get the additional info from AUR
-    getAurInfo() {
-      fetch("json_info_aur.sh?" + this.pkgInfo.p)
-        .then((response) => response.json())
-        .then((json) => {
-          this.aurInfo = json;
+
+    async getAurInfo() {
+      try {
+        const response = await fetch(`json_info_aur.sh?${this.pkgInfo.p}`);
+        if (response.ok) {
+          this.aurInfo = await response.json();
           this.showPkgInfoModalPart2 = true;
-        });
+        }
+      } catch (error) {
+        console.error("Error fetching AUR info:", error);
+      }
     },
 
     init() {
-      // Context
       const ctx = this;
-
-      // Trigger Element
       this.triggerElement = this.$refs.scrollContainer.querySelector(
         "#infinite-scroll-trigger"
       );
-
-      // Intersection Observer Supported
       if ("IntersectionObserver" in window) {
         this.observer = new IntersectionObserver(
-          function () {
-            ctx.loadMore();
+          (entries) => {
+            if (entries[0].isIntersecting) ctx.loadMore();
           },
           { threshold: [0] }
         );
@@ -226,40 +193,27 @@ function getItems() {
       }
     },
 
-    performSearch(searchQuery) {
-      // Reset max items on any search
+    performSearch(searchQuery = this.$refs.searchInput.value) {
       this.maxItems = 30;
-      // Scroll to top on search
       window.scrollTo(0, 0);
-      if (searchQuery !== undefined) {
-        this.search = searchQuery;
-      } else {
-        this.search = this.$refs.searchInput.value;
-      }
+      this.search = searchQuery;
       this.fetchData();
       autoCompleteMenuEnabled = false;
-      setTimeout(() => {
-        autoCompleteMenuEnabled = true;
-      }, 500);
+      setTimeout(() => (autoCompleteMenuEnabled = true), 500);
     },
 
     get filteredItems() {
-      if (this.search === "") {
-        return [];
-      }
-      return this.bigstoreData.slice(0, this.maxItems);
+      return this.search === ""
+        ? []
+        : this.bigstoreData.slice(0, this.maxItems);
     },
 
     checkScroll() {
       if (isThrottled) return;
       isThrottled = true;
       const scrollContainer = this.$refs.scrollContainer;
-      if (scrollContainer.clientHeight < window.innerHeight) {
-        this.loadMore();
-      }
-      setTimeout(() => {
-        isThrottled = false;
-      }, 100);
+      if (scrollContainer.clientHeight < window.innerHeight) this.loadMore();
+      setTimeout(() => (isThrottled = false), 100);
     },
 
     get displayedItems() {
@@ -274,14 +228,8 @@ function getItems() {
       if (isThrottled) return;
       isThrottled = true;
       this.maxItems += 20;
-      if (this.maxItems >= this.filteredItems.length) {
-        this.endOfResults = true;
-      } else {
-        this.endOfResults = false;
-      }
-      setTimeout(() => {
-        isThrottled = false;
-      }, 100);
+      this.endOfResults = this.maxItems >= this.filteredItems.length;
+      setTimeout(() => (isThrottled = false), 100);
     },
 
     async fetchIcon(item) {
@@ -289,8 +237,7 @@ function getItems() {
         let response;
         let html;
         if (item.ic) {
-          item.iconHTML =
-            '<img class="large" src="' + item.ic + '" loading="lazy">';
+          item.iconHTML = '<img class="large" src="' + item.ic + '">';
         } else if (item.id) {
           response = await fetch(
             `./find_icon.sh?type=flatpak&query=${item.id}`
@@ -309,7 +256,6 @@ function getItems() {
 
     selectAutocomplete(value) {
       this.$refs.searchInput.value = value;
-      autocompleteResults = [];
       this.performSearch();
     },
   };
@@ -378,30 +324,12 @@ function formatDescription(description) {
 }
 
 function packageFormat(type) {
-  let format;
-  switch (type) {
-    case "p":
-      format =
-        '<div class="secondary bgcolor-pkg-native white-text round"><label class="padding">Nativo</label></div>';
-      break;
-    case "a":
-      format =
-        '<div class="secondary bgcolor-pkg-aur white-text round"><label class="padding">Aur</label></div>';
-      break;
-    case "f":
-      format =
-        '<div class="secondary bgcolor-pkg-flatpak white-text round"><label class="padding">Flatpak</label></div>';
-      break;
-    case "s":
-      format =
-        '<div class="secondary bgcolor-pkg-snap white-text round"><label class="padding">Snap</label></div>';
-      break;
-    case "w":
-      format =
-        '<div class="secondary bgcolor-pkg-web white-text round"><label class="padding">Web</label></div>';
-      break;
-    default:
-      format = "";
-  }
-  return format;
+  const formats = {
+    p: '<div class="secondary bgcolor-pkg-native white-text round"><label class="padding">Nativo</label></div>',
+    a: '<div class="secondary bgcolor-pkg-aur white-text round"><label class="padding">Aur</label></div>',
+    f: '<div class="secondary bgcolor-pkg-flatpak white-text round"><label class="padding">Flatpak</label></div>',
+    s: '<div class="secondary bgcolor-pkg-snap white-text round"><label class="padding">Snap</label></div>',
+    w: '<div class="secondary bgcolor-pkg-web white-text round"><label class="padding">Web</label></div>',
+  };
+  return formats[type] || "";
 }

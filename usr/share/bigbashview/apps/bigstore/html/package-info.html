@@ -5,7 +5,7 @@
     as its repository, name, architecture, URL, licenses, groups, dependencies, conflicts, download size,
     installed size, packager, build date, and checksums. The dialog includes a close button to dismiss it. -->
 
-<div class="overlay"></div>
+<div class="overlay" id="overlay"></div>
 <dialog id="pkginfo" class="package-results-modal middle center no-padding">
     <template x-if="showPkgInfoModal">
         <!-- top bar in results with different color by package type -->
@@ -28,25 +28,31 @@
                 <!-- Install/Update/Remove Button -->
                 <div class="package-results-button">
                     <nav>
-                        <template x-if="pkgInfo.u != null && pkgInfo.u !== '' ">
-                            <button class="package-results-button-format-modal tertiary orange9"><i
-                                    class="package-results-button-icon">update</i><br><span
-                                    stonejs>Upgrade</span></button>
+
+                        <template x-if="pkgInfo.u != null && pkgInfo.u !== ''">
+                            <button @click="toggleMarkForAction(pkgInfo, 'update')" class="package-results-button-format-modal tertiary wave orange9">
+                                <i :class="{'transition-icon': true, 'rotate-icon': isMarkedForAction(pkgInfo, 'update')}" x-text="isMarkedForAction(pkgInfo, 'update') ? 'check' : 'update'"></i><br>
+                                <span stonejs>Update</span>
+                            </button>
                         </template>
                     </nav>
                 </div>
 
                 <div class="package-results-button">
                     <nav>
+
                         <template x-if="pkgInfo.i === 'true'">
-                            <button class="package-results-button-format-modal tertiary red9"><i
-                                    class="package-results-button-icon">delete</i><br><span
-                                    stonejs>Remove</span></button>
+                            <button @click="toggleMarkForAction(pkgInfo, 'removal')" class="package-results-button-format-modal tertiary wave red9">
+                                <i :class="{'transition-icon': true, 'rotate-icon': isMarkedForAction(pkgInfo, 'removal')}" x-text="isMarkedForAction(pkgInfo, 'removal') ? 'check' : 'delete'"></i><br>
+                                <span stonejs>Remove</span>
+                            </button>
                         </template>
+
                         <template x-if="pkgInfo.i !== 'true'">
-                            <button class="package-results-button-format-modal tertiary green8"><i
-                                    class="package-results-button-icon">download</i><br><span
-                                    stonejs>Install</span></button>
+                            <button @click="toggleMarkForAction(pkgInfo, 'install')" class="package-results-button-format-modal tertiary wave green8">
+                                <i :class="{'transition-icon': true, 'rotate-icon': isMarkedForAction(pkgInfo, 'install')}" x-text="isMarkedForAction(pkgInfo, 'install') ? 'check' : 'download'"></i><br>
+                                <span stonejs>Install</span>
+                            </button>
                         </template>
                     </nav>
                 </div>

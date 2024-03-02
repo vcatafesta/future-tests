@@ -2,15 +2,52 @@
 <!-- This file represents the header section of the BigStore application. It includes the project name, generic header (CSS and JS), and project-specific JavaScript file for the BigStore search functionality. The body class is dynamically set based on the result of the getColor.sh script. -->
 <!DOCTYPE html>
 <html>
+
 <head>
-    <!-- Set the project name -->
-    <script> let projectName = 'future-tests'; </script>
+  <!-- Set the project name -->
+  <script> let projectName = 'future-tests'; </script>
 
-    <!-- Include the generic header (CSS and JS) -->
-    <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
+  <!-- Include the generic header (CSS and JS) -->
+  <?include html /usr/share/bigbashview/framework/html/genericHeader.html?>
 
-    <!-- Include project-specific JavaScript file -->
-    <script src="js/bigstore-search.js"></script>
+  <!-- Include project-specific JavaScript file -->
+  <script src="js/bigstore-search.js"></script>
 </head>
 
 <body class="large-text <?include bash getColor.sh?>" x-data="getItems()" x-init="loadConfig">
+
+  <div id="infoAndApplyContainer" x-collapse x-cloak
+    x-show="markedForInstall.length > 0 || markedForRemoval.length > 0 || markedForUpdate.length > 0" x-init="function() {
+    function adjustAlignment() {
+      if(window.innerWidth < 1800) {
+        $el.classList.add('right');
+        $el.classList.remove('center');
+      } else {
+        $el.classList.remove('right');
+        $el.classList.add('center');
+      }
+    }
+    adjustAlignment();
+    window.addEventListener('resize', adjustAlignment);
+  }" class="infoAndApply">
+    <nav class="no-space round small-shadow-blue">
+
+      <button class="left-round field small" data-ui="#pkgselected">
+        <h5 class="small top no-margin"
+          x-text="markedForInstall.length + markedForRemoval.length + markedForUpdate.length"></h5>
+        <span stonejs>Selecionados</span>
+      </button>
+      <button class="no-round custom-cancel-button"
+      x-on:click="cancelSelection();
+                  document.getElementById('pkgselected').classList.remove('active');
+                  document.getElementById('pkgselected').removeAttribute('open');
+                  document.getElementById('overlaySelected').classList.remove('active');">
+        <i>close</i>
+        <span stonejs>Cancelar</span>
+      </button>
+      <button class="right-round tertiary">
+        <i>done</i>
+        <span stonejs>Aplicar</span>
+      </button>
+    </nav>
+  </div>

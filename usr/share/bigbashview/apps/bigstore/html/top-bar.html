@@ -13,7 +13,6 @@
         <div class="field prefix round medium-width">
             <i>search</i>
             <input id="search" type="search" x-ref="searchInput" x-on:keyup.enter="performSearch()" x-init="$refs.searchInput.setAttribute('placeholder', _('Search...'))" class="no-elevate secondary-border" autofocus>
-            <!-- <a class="custom-search-button" type="submit" x-on:click="performSearch()">← Enter </a> -->
         </div>
     </nav>
 
@@ -22,7 +21,7 @@
         <div>
             <!-- Nativos Checkbox -->
             <label class="switch icon round bgcolor-pkg-native">
-                <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig" />
+                <input type="checkbox" x-model="searchPacman" x-on:change="saveConfig; $refs.searchInput.value.length > 1 && performSearch()" />
                 <span>
                     <i class="grey-text bgcolor-pkg-native">box</i>
                     <i class="white-text bgcolor-pkg-native button-elevate1">box</i>
@@ -33,7 +32,7 @@
 
             <!-- Aur Checkbox -->
             <label class="switch icon round bgcolor-pkg-aur">
-                <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig" />
+                <input type="checkbox" x-model="searchAUR" x-on:change="saveConfig; $refs.searchInput.value.length > 1 && performSearch()" />
                 <span>
                     <i class="grey-text bgcolor-pkg-aur">contract</i>
                     <i class="white-text bgcolor-pkg-aur button-elevate1">contract</i>
@@ -44,7 +43,7 @@
 
             <!-- Flatpak Checkbox -->
             <label class="switch icon round bgcolor-pkg-flatpak">
-                <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig" />
+                <input type="checkbox" x-model="searchFlatpak" x-on:change="saveConfig; $refs.searchInput.value.length > 1 && performSearch()" />
                 <span class="disable-checkbox-bigstore">
                     <i class="grey-text bgcolor-pkg-flatpak">deployed_code</i>
                     <i class="white-text bgcolor-pkg-flatpak button-elevate1">deployed_code</i>
@@ -55,7 +54,7 @@
 
             <!-- Snap Checkbox -->
             <label class="switch icon round bgcolor-pkg-snap">
-                <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig" />
+                <input type="checkbox" x-model="searchSnap" x-on:change="saveConfig; $refs.searchInput.value.length > 1 && performSearch()" />
                 <span>
                     <i class="grey-text bgcolor-pkg-snap">raven</i>
                     <i class="white-text bgcolor-pkg-snap button-elevate1">raven</i>

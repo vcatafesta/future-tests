@@ -167,11 +167,11 @@ function getItems() {
         this.bigstoreData = [];
         this.numberOfResults = {};
         let query = this.search
-          ? `${this.searchPacman ? " --pacman" : ""}${
-              this.searchAUR ? " --aur" : ""
-            }${this.searchFlatpak ? " --flatpak" : ""}${
-              this.searchSnap ? " --snap" : ""
-            } ${this.search}`
+          ? `${this.searchPacman ? " --pacman" : ""}
+             ${this.searchAUR ? " --aur" : ""}
+             ${this.searchFlatpak ? " --flatpak" : ""}
+             ${this.searchSnap ? " --snap" : ""}
+             ${this.search}`
           : "";
         // Get response with searched terms
         const response = await fetch(`/usr/bin/bigstore-search.sh?-j${query}`);
@@ -325,7 +325,7 @@ function formatDescription(description) {
 
 function packageFormat(type) {
   const formats = {
-    p: '<div class="secondary bgcolor-pkg-native white-text round"><label class="padding">Nativo</label></div>',
+    p: '<div class="secondary bgcolor-pkg-native white-text round"><label class="padding" stonejs>Nativo</label></div>',
     a: '<div class="secondary bgcolor-pkg-aur white-text round"><label class="padding">Aur</label></div>',
     f: '<div class="secondary bgcolor-pkg-flatpak white-text round"><label class="padding">Flatpak</label></div>',
     s: '<div class="secondary bgcolor-pkg-snap white-text round"><label class="padding">Snap</label></div>',

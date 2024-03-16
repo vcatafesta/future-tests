@@ -138,7 +138,8 @@ pacinstall_output=$($pacinstall_cmd --print-only --dbsync --yolo --overwrite $us
 
 if [ -z "$pacinstall_output" ]; then
     echo "Verifying package replacements..."
-    pacinstall_output=$($pacinstall_cmd --print-only --dbsync --yolo --overwrite $sysupgrade $install_pkgs $remove_pkgs  2>&1 | grep -v 'is newer than' | tee /var/log/pacman-log-complete.pactrans | jq -Rn -f jq/pactrans.jq | tee /var/log/pacman.json)
+    use_resolve_replacements='--resolve-replacements=all'
+    pacinstall_output=$($pacinstall_cmd --print-only --dbsync --yolo --overwrite $use_resolve_replacements $sysupgrade $install_pkgs $remove_pkgs  2>&1 | grep -v 'is newer than' | tee /var/log/pacman-log-complete.pactrans | jq -Rn -f jq/pactrans.jq | tee /var/log/pacman.json)
 fi
 
 if [ -z "$pacinstall_output" ]; then

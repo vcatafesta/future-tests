@@ -6,14 +6,6 @@ msgstr ""
 "Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
-msgid "Instalação Personalizada"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
-msgid "Gerenciador de login"
-msgstr ""
-
 #: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
 #: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
 msgid "Manutenção"
@@ -43,6 +35,7 @@ msgid ""
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
 msgid "Instalar"
 msgstr ""
 
@@ -88,44 +81,24 @@ msgstr ""
 msgid "Voltar"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Fim dos resultados"
+#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
+msgid "Instalação Personalizada"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Nenhum resultado"
+#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
+msgid "Gerenciador de login"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Nativos"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
+msgid "Alterações marcadas"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Aur"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
+msgid "Remover"
 msgstr ""
 
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Flatpak"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Snap"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Web"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
-msgid "Selecionados"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
-msgid "Cancelar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
-msgid "Aplicar"
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
+msgid "Atualizar"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
@@ -186,6 +159,18 @@ msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
 msgid "Dev"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Selecionados"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Cancelar"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
+msgid "Aplicar"
 msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
@@ -290,4 +275,32 @@ msgstr ""
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
 msgid "Signatures:"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Nativos"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Aur"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Flatpak"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Snap"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Web"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Fim dos resultados"
+msgstr ""
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Nenhum resultado"
 msgstr ""

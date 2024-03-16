@@ -16,6 +16,236 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Manutenção"
+msgstr "Manutenção"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid ""
+"Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do "
+"sistema\n"
+"          instalado."
+msgstr ""
+"Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do "
+"sistema\n"
+"          instalado."
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Restaurar"
+msgstr "Restauracja"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Dicas de Instalação"
+msgstr "Dicas de Instalação"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid ""
+"Utilize partição BTRFS para ter compressão automática e pontos de restauração. Não crie partição\n"
+"          /boot separada. Não crie partição SWAP, utilizamos gerênciamento dinâmico de memória "
+"virtual."
+msgstr ""
+"Utilize partição BTRFS para ter compressão automática e pontos de restauração. Não crie partição\n"
+"          /boot separada. Não crie partição SWAP, utilizamos gerênciamento dinâmico de memória "
+"virtual."
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Instalar"
+msgstr "Instalar"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Opções avançadas"
+msgstr "Opções avançadas"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid ""
+"É um usuário avançado e deseja fazer uma instalação personalizada? Possuimos diversas "
+"possibilidades\n"
+"          para o sistema atender suas necessidades."
+msgstr ""
+"É um usuário avançado e deseja fazer uma instalação personalizada? Possuimos diversas "
+"possibilidades\n"
+"          Para o sistema atender suas necessidades."
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Avançado"
+msgstr "Avançado"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid ""
+"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
+"https://forum.biglinux.com.br."
+msgstr ""
+"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
+"https://forum.biglinux.com.br."
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
+msgid "Contamos com você para ter um sistema cada vez melhor!"
+msgstr "Contamos com você para ter um sistema cada vez melhor!"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+msgid "O sistema está em modo"
+msgstr "O sistema está em modo"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+msgid "e com o kernel"
+msgstr "e com o kernel"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
+msgid "Voltar"
+msgstr "Woltar"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
+msgid "Instalação Personalizada"
+msgstr "Instalação Personalizada"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
+msgid "Gerenciador de login"
+msgstr "Gerenciador de login"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
+msgid "Alterações marcadas"
+msgstr "Alterações marcadas"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
+msgid "Remover"
+msgstr "Remover"
+
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
+msgid "Atualizar"
+msgstr "Atualizar"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Início"
+msgstr "Início"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Atualizações"
+msgstr "Atualizações"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Instalados"
+msgstr "Instalados"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Histórico"
+msgstr "Histórico"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Ajustes"
+msgstr "Ajustes"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Categorias"
+msgstr "Kategorie"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Internet"
+msgstr "Internet"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Escritório"
+msgstr "Escritório"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Gráfico"
+msgstr "Gráfico"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Multimídia"
+msgstr "Multimídia"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Jogos"
+msgstr "Jogo"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Sistema"
+msgstr "Sistema"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Desenvolvimento"
+msgstr "Desenvolvimento"
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Multimídia "
+msgstr "Multimídia "
+
+# 
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
+msgid "Dev"
+msgstr "Dev"
+
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
 msgid "Selecionados"
 msgstr "Selecionados"
@@ -27,48 +257,6 @@ msgstr "Anulowanie"
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
 msgid "Aplicar"
 msgstr "Aplicar powiedział:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Fim dos resultados"
-msgstr "Fim dos resultados"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Nenhum resultado"
-msgstr "Nenhum resultado"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Nativos"
-msgstr "Nativos"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Aur"
-msgstr "Aur"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Flatpak"
-msgstr "Flatpak powiedział:"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Snap"
-msgstr "Złamać"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Web"
-msgstr "Sieć"
 
 #: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
 msgid "Update"
@@ -219,219 +407,43 @@ msgid "Signatures:"
 msgstr "Podpisów:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Início"
-msgstr "Início"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Nativos"
+msgstr "Nativos"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Atualizações"
-msgstr "Atualizações"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Aur"
+msgstr "Aur"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Instalados"
-msgstr "Instalados"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Flatpak"
+msgstr "Flatpak powiedział:"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Histórico"
-msgstr "Histórico"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Snap"
+msgstr "Złamać"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Ajustes"
-msgstr "Ajustes"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
+msgid "Web"
+msgstr "Sieć"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Categorias"
-msgstr "Kategorie"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Fim dos resultados"
+msgstr "Fim dos resultados"
 
 # 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Internet"
-msgstr "Internet"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Escritório"
-msgstr "Escritório"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Gráfico"
-msgstr "Gráfico"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Multimídia"
-msgstr "Multimídia"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Jogos"
-msgstr "Jogo"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Sistema"
-msgstr "Sistema"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Desenvolvimento"
-msgstr "Desenvolvimento"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Multimídia "
-msgstr "Multimídia "
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Dev"
-msgstr "Dev"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
-msgid "Instalação Personalizada"
-msgstr "Instalação Personalizada"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/community.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
-msgid "Gerenciador de login"
-msgstr "Gerenciador de login"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Manutenção"
-msgstr "Manutenção"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do "
-"sistema\n"
-"          instalado."
-msgstr ""
-"Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que facilitam a manutenção do "
-"sistema\n"
-"          instalado."
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Restaurar"
-msgstr "Restauracja"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Dicas de Instalação"
-msgstr "Dicas de Instalação"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"Utilize partição BTRFS para ter compressão automática e pontos de restauração. Não crie partição\n"
-"          /boot separada. Não crie partição SWAP, utilizamos gerênciamento dinâmico de memória "
-"virtual."
-msgstr ""
-"Utilize partição BTRFS para ter compressão automática e pontos de restauração. Não crie partição\n"
-"          /boot separada. Não crie partição SWAP, utilizamos gerênciamento dinâmico de memória "
-"virtual."
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Instalar"
-msgstr "Instalar"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Opções avançadas"
-msgstr "Opções avançadas"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"É um usuário avançado e deseja fazer uma instalação personalizada? Possuimos diversas "
-"possibilidades\n"
-"          para o sistema atender suas necessidades."
-msgstr ""
-"É um usuário avançado e deseja fazer uma instalação personalizada? Possuimos diversas "
-"possibilidades\n"
-"          Para o sistema atender suas necessidades."
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Avançado"
-msgstr "Avançado"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-msgstr ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html, line: 0
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Contamos com você para ter um sistema cada vez melhor!"
-msgstr "Contamos com você para ter um sistema cada vez melhor!"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "O sistema está em modo"
-msgstr "O sistema está em modo"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "e com o kernel"
-msgstr "e com o kernel"
-
-# 
-# File: future-tests/usr/share/bigbashview/apps/calamares/index.html, line: 0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "Voltar"
-msgstr "Woltar"
+# File: future-tests/usr/share/bigbashview/apps/bigstore/html/resultsearch.html, line: 0
+#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
+msgid "Nenhum resultado"
+msgstr "Nenhum resultado"

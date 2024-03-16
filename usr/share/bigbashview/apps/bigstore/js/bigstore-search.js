@@ -2,7 +2,7 @@ function getItems() {
   let autoCompleteMenuEnabled = true;
   let isThrottled = false;
 
-  const items = {
+  window.items = {
     search: "",
     showPkgInfoModal: false,
     showPkgInfoModalPart2: false,
@@ -70,7 +70,7 @@ function getItems() {
       if (index > -1) {
         this[listName].splice(index, 1);
       } else {
-        this[listName].push({ p: item.p, type: item.t });
+        this[listName].push({ p: item.p, type: item.t, v: item.v, r: item.r, u: item.u });
         ["Install", "Removal", "Update"].forEach((act) => {
           if (action !== act.toLowerCase()) {
             this[`markedFor${act}`] = this[`markedFor${act}`].filter(
@@ -325,11 +325,22 @@ function formatDescription(description) {
 
 function packageFormat(type) {
   const formats = {
-    p: '<div class="secondary bgcolor-pkg-native white-text round"><label class="padding" stonejs>Nativo</label></div>',
-    a: '<div class="secondary bgcolor-pkg-aur white-text round"><label class="padding">Aur</label></div>',
-    f: '<div class="secondary bgcolor-pkg-flatpak white-text round"><label class="padding">Flatpak</label></div>',
-    s: '<div class="secondary bgcolor-pkg-snap white-text round"><label class="padding">Snap</label></div>',
-    w: '<div class="secondary bgcolor-pkg-web white-text round"><label class="padding">Web</label></div>',
+    p: '<div class="secondary pkg-native-color white-text round"><label class="padding" stonejs>Nativo</label></div>',
+    a: '<div class="secondary pkg-aur-color white-text round"><label class="padding">Aur</label></div>',
+    f: '<div class="secondary pkg-flatpak-color white-text round"><label class="padding">Flatpak</label></div>',
+    s: '<div class="secondary pkg-snap-color white-text round"><label class="padding">Snap</label></div>',
+    w: '<div class="secondary pkg-web-color white-text round"><label class="padding">Web</label></div>',
   };
   return formats[type] || "";
+}
+
+function getPackageTypeName(type) {
+  const typeNames = {
+      'p': 'Nativo',
+      'a': 'Aur',
+      'f': 'Flatpak',
+      's': 'Snap',
+      'w': 'Web'
+  };
+  return typeNames[type] || '';
 }

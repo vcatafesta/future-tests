@@ -5,53 +5,72 @@
     as its repository, name, architecture, URL, licenses, groups, dependencies, conflicts, download size,
     installed size, packager, build date, and checksums. The dialog includes a close button to dismiss it. -->
 
-<div class="overlay" id="overlaySelected"></div>
-<dialog id="pkgselected" class="middle center no-padding">
-
-    <a class="close-modal-icon right small-padding" data-ui="#pkgselected"
-        x-on:click="showPkgInfoModal = false;"><i>close</i></a>
-
-
-        <div class="medium-space" x-show="markedForInstall.length > 0">
-            <table class="stripes no-space">
-                <!-- <thead>
-                <tr>
-                    <th>Header</th>
-                    <th>Header</th>
-                    <th>Header</th>
-                </tr>
-                </thead> -->
-                <tbody>
-            <!-- Exibe itens do tipo Nativo -->
-            <template x-for="item in markedForInstall.filter(item => item.type === 'p')">
-                <tr>
-                    <td x-html="packageFormat(item.type)"></td>
-                    <td x-text="item.p"></td>
-                </tr>
-            </template>
-            <!-- Exibe itens do tipo AUR -->
-            <template x-for="item in markedForInstall.filter(item => item.type === 'a')">
-                <tr>
-                    <td>AUR</td>
-                    <td x-text="item.p"></td>
-                </tr>
-            </template>
-            <!-- Exibe itens do tipo Flatpak -->
-            <template x-for="item in markedForInstall.filter(item => item.type === 'f')">
-                <tr>
-                    <td>Flatpak</td>
-                    <td x-text="item.p"></td>
-                </tr>
-            </template>
-            <!-- Exibe itens do tipo Snap -->
-            <template x-for="item in markedForInstall.filter(item => item.type === 's')">
-                <tr>
-                    <td>Snap</td>
-                    <td x-text="item.p"></td>
-                </tr>
-            </template>
-                </tbody>
-            </table>
-        </div>
-    <!-- Display package information -->
-</dialog>
+    <div class="overlay" id="overlaySelected"></div>
+    <dialog id="pkgselected" class="middle center no-padding">
+        <a class="close-modal-icon right small-padding" data-ui="#pkgselected" x-on:click="showPkgInfoModal = false;">
+            <i>close</i>
+        </a>
+        <h5 class="center-align" stonejs>Alterações marcadas</h5>
+        <!-- Pacotes a serem removidos -->
+        <template x-if="markedForRemoval.length > 0">
+            <div>
+                <div class="table-title-remove" stonejs>Remover</div>
+                <table class="table table-striped border-left-remove">
+                    <tbody>
+                        <template x-for="(item, index) in markedForRemoval" :key="`${item.p}-${item.type}`">
+                            <tr>
+                                <td x-text="item.p"></td>
+                                <td x-text="item.v"></td>
+                                <td class="result-pkg-style" :class="{ 'show-text': index === 0 || item.type !== markedForRemoval[index - 1].type, 'pkg-native-color': item.type === 'p', 'pkg-aur-color': item.type === 'a', 'pkg-flatpak-color': item.type === 'f', 'pkg-snap-color': item.type === 's' }">
+                                    <div x-text="getPackageTypeName(item.type)"></div>
+                                </td>
+                            </tr>
+                        </template>
+                    </tbody>
+                </table>
+            </div>
+        </template>
+    
+        <!-- Pacotes a serem instalados -->
+        <template x-if="markedForInstall.length > 0">
+            <div>
+                <div class="table-title-install" stonejs>Instalar</div>
+                <table class="table table-striped border-left-install">
+                    <tbody>
+                        <template x-for="(item, index) in markedForInstall" :key="`${item.p}-${item.type}`">
+                            <tr>
+                                <td x-text="item.p"></td>
+                                <td x-text="item.v"></td>
+                                <td :class="{ 'show-text': index === 0 || item.type !== markedForInstall[index - 1].type, 'pkg-native-color': item.type === 'p', 'pkg-aur-color': item.type === 'a', 'pkg-flatpak-color': item.type === 'f', 'pkg-snap-color': item.type === 's' }">
+                                    <div x-text="getPackageTypeName(item.type)"></div>
+                                </td>
+                            </tr>
+                        </template>
+                    </tbody>
+                </table>
+            </div>
+        </template>
+    
+        <!-- Pacotes a serem atualizados -->
+        <template x-if="markedForUpdate.length > 0">
+            <div>
+                <div class="table-title-update" stonejs>Atualizar</div>
+                <table class="table table-striped border-left-update">
+                    <tbody>
+                        <template x-for="(item, index) in markedForUpdate" :key="`${item.p}-${item.type}`">
+                            <tr>
+                                <td x-text="item.p"></td>
+                                <td x-text="item.v"></td>
+                                <td :class="{ 'show-text': index === 0 || item.type !== markedForUpdate[index - 1].type, 'pkg-native-color': item.type === 'p', 'pkg-aur-color': item.type === 'a', 'pkg-flatpak-color': item.type === 'f', 'pkg-snap-color': item.type === 's' }">
+                                    <div x-text="getPackageTypeName(item.type)"></div>
+                                </td>
+                            </tr>
+                        </template>
+                    </tbody>
+                </table>
+            </div>
+        </template>
+    
+        <!-- Display package information -->
+    </dialog>
+            

@@ -15,6 +15,11 @@ if [[ $type = pacman ]]; then
         exit
     fi
 
+# grep -Ei '[0-9]?big.(.*)' teste.txt
+
+# bruno=$(lspci --version | grep -i '[0-9]?big.(.*)' teste.txt)
+
+
     # Check if a specific file exists
     if [[ -e /usr/share/swcatalog/icons/archlinux-arch-extra/64x64/$query\_$query.png ]]; then
         # Print an HTML image tag with the source attribute set to the specific file path

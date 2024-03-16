@@ -13,11 +13,11 @@
 
                 <!-- Left bar in results with different color by package type -->
                 <div class="left-bar-package-results center-align" :class="{
-                    'bgcolor-pkg-aur': item.t === 'a',
-                    'bgcolor-pkg-native': item.t === 'p',
-                    'bgcolor-pkg-flatpak': item.t === 'f',
-                    'bgcolor-pkg-snap': item.t === 's',
-                    'bgcolor-pkg-web': item.t === 'w'}">
+                    'pkg-aur-color': item.t === 'a',
+                    'pkg-native-color': item.t === 'p',
+                    'pkg-flatpak-color': item.t === 'f',
+                    'pkg-snap-color': item.t === 's',
+                    'pkg-web-color': item.t === 'w'}">
 
                     <!-- Item Icon -->
                     <div class="package-results-icon cursor-zoom-in" x-intersect="fetchIcon(item)" x-html="item.iconHTML" @click="showModal(item);" data-ui="#pkginfo">
@@ -30,21 +30,21 @@
                     <div class="package-results-button">
                         <nav>
                             <template x-if="item.i !== 'true'">
-                                <button @click="toggleMarkForAction(item, 'install')" class="package-results-button-format tertiary wave green8">
+                                <button @click="toggleMarkForAction(item, 'install')" class="package-results-button-format install-button-color wave ">
                                     <i :class="{'transition-icon': true, 'rotate-icon': isMarkedForAction(item, 'install')}" x-text="isMarkedForAction(item, 'install') ? 'check' : 'download'"></i><br>
                                     <span>Install</span>
                                 </button>
                             </template>
 
                             <template x-if="item.i === 'true' && item.u == ''">
-                                <button @click="toggleMarkForAction(item, 'removal')" class="package-results-button-format tertiary wave red7">
+                                <button @click="toggleMarkForAction(item, 'removal')" class="package-results-button-format remove-button-color wave">
                                     <i :class="{'transition-icon': true, 'rotate-icon': isMarkedForAction(item, 'removal')}" x-text="isMarkedForAction(item, 'removal') ? 'check' : 'delete'"></i><br>
                                     <span>Remove</span>
                                 </button>
                             </template>
 
                             <template x-if="item.u != null && item.u !== ''">
-                                <button @click="toggleMarkForAction(item, 'update')" class="package-results-button-format tertiary wave orange9">
+                                <button @click="toggleMarkForAction(item, 'update')" class="package-results-button-format update-button-color wave ">
                                     <i :class="{'transition-icon': true, 'rotate-icon': isMarkedForAction(item, 'update')}" x-text="isMarkedForAction(item, 'update') ? 'check' : 'update'"></i><br>
                                     <span>Update</span>
                                 </button>

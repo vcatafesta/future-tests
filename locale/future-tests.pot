@@ -1,306 +1,308 @@
-msgid ""
-msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: C\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "Manutenção"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que "
-"facilitam a manutenção do sistema\n"
-"          instalado."
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Restaurar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Dicas de Instalação"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"Utilize partição BTRFS para ter compressão automática e pontos de "
-"restauração. Não crie partição\n"
-"          /boot separada. Não crie partição SWAP, utilizamos gerênciamento "
-"dinâmico de memória virtual."
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
-msgid "Instalar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "Opções avançadas"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid ""
-"É um usuário avançado e deseja fazer uma instalação personalizada? "
-"Possuimos diversas possibilidades\n"
-"          para o sistema atender suas necessidades."
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-msgid "Avançado"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
-msgid ""
-"Esse é um sistema colaborativo, se precisar de ajuda consulte nosso fórum: "
-"https://forum.biglinux.com.br."
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/example-in-html.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-#: future-tests/usr/share/bigbashview/apps/calamares/example-with-component.html:0
-msgid "Contamos com você para ter um sistema cada vez melhor!"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "O sistema está em modo"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "e com o kernel"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/index.html:0
-msgid "Voltar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
-msgid "Instalação Personalizada"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/calamares/community.html:0
-msgid "Gerenciador de login"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
-msgid "Alterações marcadas"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
-msgid "Remover"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/packages-selected.html:0
-msgid "Atualizar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Início"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Atualizações"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Instalados"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Histórico"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Ajustes"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Categorias"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Internet"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Escritório"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Gráfico"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Multimídia"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Jogos"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Sistema"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Desenvolvimento"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Multimídia "
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/navigation.html:0
-msgid "Dev"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
-msgid "Selecionados"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
-msgid "Cancelar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/header.html:0
-msgid "Aplicar"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Update"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Remove"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Install"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Update: "
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Repository:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Name:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Version:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Description:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Architecture:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "URL:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "License:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Groups:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Provides:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Depends On:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Optional Dependencies:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Required By:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Optional For:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Conflicts With:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Replaces:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Download Size:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Installed Size:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Packager:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Build Date:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "MD5 Sum:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "SHA-256 Sum:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/package-info.html:0
-msgid "Signatures:"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Nativos"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Aur"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Flatpak"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Snap"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/top-bar.html:0
-msgid "Web"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Fim dos resultados"
-msgstr ""
-
-#: future-tests/usr/share/bigbashview/apps/bigstore/html/search-results.html:0
-msgid "Nenhum resultado"
-msgstr ""
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the future-tests package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: future-tests\n"
+        "Report-Msgid-Bugs-To: \n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+msgid   "Instalação Personalizada"
+msgstr  ""
+
+msgid   "Gerenciador de login"
+msgstr  ""
+
+msgid   "Esse é um sistema colaborativo, se precisar de ajuda consulte nosso "
+        "fórum: https://forum.biglinux.com.br."
+msgstr  ""
+
+msgid   "Contamos com você para ter um sistema cada vez melhor!"
+msgstr  ""
+
+msgid   "Manutenção"
+msgstr  ""
+
+msgid   "Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que "
+        "facilitam a manutenção do sistema instalado."
+msgstr  ""
+
+msgid   "Restaurar"
+msgstr  ""
+
+msgid   "Dicas de Instalação"
+msgstr  ""
+
+msgid   "Utilize partição BTRFS para ter compressão automática e pontos de "
+        "restauração. Não crie partição /boot separada. Não crie partição "
+        "SWAP, utilizamos gerênciamento dinâmico de memória virtual."
+msgstr  ""
+
+msgid   "Instalar"
+msgstr  ""
+
+msgid   "Opções avançadas"
+msgstr  ""
+
+msgid   "É um usuário avançado e deseja fazer uma instalação personalizada? "
+        "Possuimos diversas possibilidades para o sistema atender suas "
+        "necessidades."
+msgstr  ""
+
+msgid   "Avançado"
+msgstr  ""
+
+msgid   "O sistema está em modo"
+msgstr  ""
+
+msgid   "e com o kernel"
+msgstr  ""
+
+msgid   "Voltar"
+msgstr  ""
+
+msgid   "Opções Avançadas"
+msgstr  ""
+
+msgid   "Restaurar configurações do sistema"
+msgstr  ""
+
+msgid   "Utilitário que facilita a restauração do sistema instalado, "
+        "principalmente a restauração do boot do sistema (Grub). Também pode "
+        "ser utilizado para acessar o gerenciador de pacotes e o terminal do "
+        "sistema instalado."
+msgstr  ""
+
+msgid   "Abrir"
+msgstr  ""
+
+msgid   "Snapshot e backups"
+msgstr  ""
+
+msgid   "Sistema em modo live. Restaure pontos de restauração do sistema "
+        "instalado."
+msgstr  ""
+
+msgid   "BTRFS"
+msgstr  ""
+
+msgid   "Desempenho com compactação de dados, pontos de restauração, não "
+        "necessita de uma partição separada para /boot e SWAP."
+msgstr  ""
+
+msgid   "Escolher"
+msgstr  ""
+
+msgid   "EXT4"
+msgstr  ""
+
+msgid   "Compatibilidade com tabelas de particionamento antigas e oferece "
+        "suporte ao sistema de arquivos EXT4."
+msgstr  ""
+
+msgid   "Big Community"
+msgstr  ""
+
+msgid   "No BigLinux, é possível personalizar o sistema e compartilhar "
+        "criações com outros usuários, promovendo um ambiente colaborativo "
+        "inovador."
+msgstr  ""
+
+msgid   "Padrão"
+msgstr  ""
+
+msgid   "Instalação padrão vai utilizar o sistema de arquivos escolhido "
+        "anteriormente."
+msgstr  ""
+
+msgid   "Minimal"
+msgstr  ""
+
+msgid   "No Mininal, você decide quais programas instalar, garantindo uma "
+        "experiência altamente personalizada."
+msgstr  ""
+
+msgid   "Dificilmente você precisa reinstalar! Desenvolvemos ferramentas que "
+        "facilitam a manutenção do sistema\n"
+        "          instalado."
+msgstr  ""
+
+msgid   "Utilize partição BTRFS para ter compressão automática e pontos de "
+        "restauração. Não crie partição\n"
+        "          /boot separada. Não crie partição SWAP, utilizamos "
+        "gerênciamento dinâmico de memória virtual."
+msgstr  ""
+
+msgid   "É um usuário avançado e deseja fazer uma instalação personalizada? "
+        "Possuimos diversas possibilidades\n"
+        "          para o sistema atender suas necessidades."
+msgstr  ""
+
+msgid   "Fim dos resultados"
+msgstr  ""
+
+msgid   "Nenhum resultado"
+msgstr  ""
+
+msgid   "Nativos"
+msgstr  ""
+
+msgid   "Aur"
+msgstr  ""
+
+msgid   "Flatpak"
+msgstr  ""
+
+msgid   "Snap"
+msgstr  ""
+
+msgid   "Web"
+msgstr  ""
+
+msgid   "Início"
+msgstr  ""
+
+msgid   "Atualizações"
+msgstr  ""
+
+msgid   "Instalados"
+msgstr  ""
+
+msgid   "Histórico"
+msgstr  ""
+
+msgid   "Ajustes"
+msgstr  ""
+
+msgid   "Categorias"
+msgstr  ""
+
+msgid   "Internet"
+msgstr  ""
+
+msgid   "Escritório"
+msgstr  ""
+
+msgid   "Gráfico"
+msgstr  ""
+
+msgid   "Multimídia"
+msgstr  ""
+
+msgid   "Jogos"
+msgstr  ""
+
+msgid   "Sistema"
+msgstr  ""
+
+msgid   "Desenvolvimento"
+msgstr  ""
+
+msgid   "Multimídia "
+msgstr  ""
+
+msgid   "Dev"
+msgstr  ""
+
+msgid   "Selecionados"
+msgstr  ""
+
+msgid   "Cancelar"
+msgstr  ""
+
+msgid   "Aplicar"
+msgstr  ""
+
+msgid   "Alterações marcadas"
+msgstr  ""
+
+msgid   "Remover"
+msgstr  ""
+
+msgid   "Atualizar"
+msgstr  ""
+
+msgid   "Update"
+msgstr  ""
+
+msgid   "Remove"
+msgstr  ""
+
+msgid   "Install"
+msgstr  ""
+
+msgid   "Update: "
+msgstr  ""
+
+msgid   "Repository:"
+msgstr  ""
+
+msgid   "Name:"
+msgstr  ""
+
+msgid   "Version:"
+msgstr  ""
+
+msgid   "Description:"
+msgstr  ""
+
+msgid   "Architecture:"
+msgstr  ""
+
+msgid   "URL:"
+msgstr  ""
+
+msgid   "License:"
+msgstr  ""
+
+msgid   "Groups:"
+msgstr  ""
+
+msgid   "Provides:"
+msgstr  ""
+
+msgid   "Depends On:"
+msgstr  ""
+
+msgid   "Optional Dependencies:"
+msgstr  ""
+
+msgid   "Required By:"
+msgstr  ""
+
+msgid   "Optional For:"
+msgstr  ""
+
+msgid   "Conflicts With:"
+msgstr  ""
+
+msgid   "Replaces:"
+msgstr  ""
+
+msgid   "Download Size:"
+msgstr  ""
+
+msgid   "Installed Size:"
+msgstr  ""
+
+msgid   "Packager:"
+msgstr  ""
+
+msgid   "Build Date:"
+msgstr  ""
+
+msgid   "MD5 Sum:"
+msgstr  ""
+
+msgid   "SHA-256 Sum:"
+msgstr  ""
+
+msgid   "Signatures:"
+msgstr  ""

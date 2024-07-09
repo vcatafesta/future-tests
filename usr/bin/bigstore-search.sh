@@ -102,10 +102,14 @@ done
 
 # If no specific search mode is selected, search all
 if ! $searchAur && ! $searchPacman && ! $searchFlatpak && ! $searchSnap; then
-    searchAur=true
     searchPacman=true
-    searchFlatpak=true
-    searchSnap=true
+    searchAur=true
+    if [ "$(systemctl is-active --user flatpak-portal.service)" = "active" ];then
+        searchFlatpak=true
+    fi
+    if [ "$(systemctl is-active snapd.socket)" = "active" ];then
+        searchSnap=true
+    fi
 fi
 
 # Execute the search based on selected modes
